@@ -1,0 +1,73 @@
+Hành vi tập thể của động vật (Collective animal behavior) hay hành động hàng loạt của động vật là một dạng hành vi của động vật mang tính xã hội liên quan đến hành vi phối hợp của các nhóm lớn các loài động vật tương tự cũng như các đặc tính nổi bật của các nhóm này với những hành vi, hành động tương tự nhau. Điều này có thể bao gồm các lợi ích của thành viên khi gia nhập vào nhóm động vật đông đúc này, những vấn đề phát sinh trong nhóm là việc chuyển giao thông tin trên toàn nhóm, quy trình ra quyết định nhóm, và cách thức nhóm và quá trình đồng bộ hóa.
+Ví dụ về hành vi tập thể của động vật bao gồm: Chim bay theo bầy một cách đồng loạt như đàn bồ câu, đàn sếu, thú móng guốc thường tụ thành đàn lớn (đàn bò, đàn cừu, đàn dê, đàn trâu, đàn ngựa, bầy voi), những con cá nhỏ bơi kết hợp lại thành một khối cầu cá, sóng cá hoặc đàn cá lớn, những con nhuyễn thể ở Nam Cực tụ lại dày đặc với nhau, một nhóm cá heo phối hợp săn mồi cũng như tương tự ở bầy sói, bầy sư tử và chó hoang châu Phi, đàn châu chấu tụ lại ồ ạt như đám mây (đám mây châu chấu), những đàn kiến hành quân thành một lối đi, đàn mối lớn làm tổ, đàn ong xây tổ.
+Cấu trúc của các nhóm động vật lớn khó nghiên cứu vì số lượng lớn các cá thể động vật tham gia. Do đó, phương pháp tiếp cận thử nghiệm thường được bổ sung bằng mô hình toán học về tập hợp động vật. Nghiên cứu các nguyên tắc của hành vi tập thể của động vật có liên quan đến các vấn đề kỹ thuật của con người thông qua triết lý về sinh học. Ví dụ, xác định các quy tắc mà một động vật riêng lẻ điều hướng so với các đồng loại láng giềng trong một nhóm có thể dẫn đến tiến bộ trong việc triển khai và kiểm soát các nhóm đang bơi hoặc rô-bốt bay như UAV (thiết bị bay không người lái).
+
+
+== Ý nghĩa ==
+
+Sự hỗ trợ cho các chức năng xã hội và di truyền của tập hợp, đặc biệt là của những con cá, có thể được quan sát thấy trong một số khía cạnh của hành vi của chúng. Ví dụ, các thí nghiệm đã chỉ ra rằng những con cá bị loại bỏ khỏi một khối cầu cá sẽ có tỷ lệ hô hấp cao hơn so với những con được tìm thấy trong khối cầu. Hiệu ứng này một phần là do stress, mặc dù các yếu tố thủy động lực học được coi là quan trọng hơn trong nghiên cứu cụ thể này. Khối cầu cá cũng phục vụ chức năng sinh sản vì chúng giúp tăng khả năng tiếp cận với bạn tình tiềm năng.
+Một lý giải cho tập tính này chính là cơ chế tự vệ của động vật. Một phương pháp tiềm năng mà theo đó các đàn cá hoặc đàn gia cầm, đàn gia súc có thể cản trở kẻ thù là “hiệu ứng rối trí kẻ săn mồi” được Milinski và Heller đề xuất và trình bày vào năm 1978. Lý thuyết này được dựa trên ý tưởng rằng nó sẽ làm khó cho kẻ ăn thịt để chọn ra một cá thể con mồi từ các nhóm vì quá nhiều mục tiêu cùng di chuyển tạo ra một cảm giác quá tải đối với thị giác của động vật ăn thịt làm rối trí và xao nhãng chúng. Các phát hiện của Milinski và Heller đã được chứng thực cả trong thí nghiệm.
+Một tác dụng chống động vật ăn thịt tiềm năng thứ hai của tập hợp động vật là giả thuyết “nhiều cặp mắt”. Lý thuyết này cho rằng khi kích thước của nhóm tăng lên, nhiệm vụ rà quét môi trường để phát hiện những kẻ săn mồi có thể được rải đều cho nhiều cá thể, và một lẽ đơn giản là nhiều cặp mắt trông chừng thì vẫn tốt hơn. Giả thuyết thứ ba về tác động chống lại kẻ ăn thịt của tập hợp động vật là hiệu ứng "pha loãng bắt gặp", người ta cho rằng con mồi tiềm năng có thể được hưởng lợi bằng cách sống chung với nhau vì một động vật ăn thịt ít có cơ hội gặp một nhóm đơn lẻ hơn là phân bố rải rác, người ta cũng cho rằng một kẻ săn mồi tấn công ít có khả năng bắt được một con vật nhất định khi có nhiều cá thể hơn.
+
+
+== Vấn đề nhóm ==
+
+Ra quyết định tập thể là một vấn đề của nhóm động vật với kích thước của đàn rất lớn này, nhất là không phải tập hợp động vật nào cũng là thuộc các loai động vật bậc cao mà chẳng hạn như vấn đề của các động vật bậc thấp như cá, côn trùng. Nhóm động vật đang phải đối mặt với quyết định mà chúng phải thực hiện nếu chúng tụ lại với nhau. Đối với một đàn cá, một ví dụ về một quyết định điển hình có thể là chúng sẽ bơi theo hướng nào khi đối mặt với một kẻ săn môì. Những đàn kiến và ong phải quyết định chung việc xây dựng tổ mới khi tổ cũ chật chội. Một đàn voi phải quyết định khi nào và ở đâu để di chuyển, đi tới đâu thì sẽ có đủ thức ăn và nguồn nước.
+Các quyết định này được đưa ra như thế nào, cơ chế để ra quyết định, là cơ chế tập thể đồng thuận hay tuân theo, phục tùng mệnh lệnh của con đầu đàn. Con đầu đàn phải khỏe mạnh hơn, có trí khôn hơn hay có nhiều kinh nghiệm hơn có ảnh hưởng nhiều hơn các thành viên khác trong nhóm không, hoặc nhóm có đưa ra quyết định bằng sự đồng thuận không. Câu trả lời có thể phụ thuộc vào từng loài. Trong khi vai trò của một trưởng tộc hàng đầu trong đàn voi được biết đến nhiều, những con voi trong đàn sẽ nghe theo chỉ dẫn của voi đầu đàn lãnh đạo, các nghiên cứu đã chỉ ra rằng một số loài động vật sử dụng một phương pháp đồng thuận trong quá trình ra quyết định tập thể của chúng.
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Tham khảo ==
+
+Camazine, S., Deneubourg, J.L., Franks, N.R., Sneyd, J., Theraulaz, G. and Bonabeau, E. (2001) Self-Organization in Biological Systems Princeton University Press, Princeton, N.J. ISBN 0-691-01211-3 (especially Chapter 11)
+Sumpter, D. J. T. (2010) "Collective Animal Behavior" Princeton University Press, Princeton, ISBN 978-0-691-14843-4
+Partridge, B.; Pitcher, T.; Cullen, M.; Wilson, J. (1980). "The three-dimensional structure of fish schools". Behav Ecol and Sociobiology. 6 (4): 277–288. doi:10.1007/bf00292770.
+Milinski, H.; Heller, R. (1978). "Influence of a predator on the optimal foraging behavior of sticklebacks". Nature. 275: 642–644. Bibcode:1978Natur.275..642M. doi:10.1038/275642a0.
+Olson RS, Hintze A, Dyer FC, Knoester DB, Adami C (2013). "Predator confusion is sufficient to evolve swarming behaviour". J. R. Soc. Interface. 10 (85): 20130305. doi:10.1098/rsif.2013.0305. PMC 4043163 Freely accessible. PMID 23740485.
+Demsar J, Hemelrijk CK, Hildenbrandt H, Bajec IL (2015). "Simulating predator attacks on schools: Evolving composite tactics". Ecological Modelling. 304: 22–33. doi:10.1016/j.ecolmodel.2015.02.018.
+Olson RS, Haley PB, Dyer FC, Adami C (2015). "Exploring the evolution of a trade-off between vigilance and foraging in group-living organisms". Royal Society Open Science. 2: 150135. arXiv:1408.1906 Freely accessible. Bibcode:2015RSOS....250135O. doi:10.1098/rsos.150135. PMC 4593673 Freely accessible. PMID 26473039.
+Olson RS, Knoester DB, Adami C (2013). "Critical Interplay Between Density-dependent Predation and Evolution of the Selfish Herd". Proceedings of GECCO 2013: 247–254. doi:10.1145/2463372.2463394.
+Krause, J.; Ruxton, G.; Rubenstein, D. (1998). "Is there always an influence of shoal size on predator hunting success?". Journal of Fish Biology. 52: 494–501. doi:10.1006/jfbi.1997.0595.
+Partridge, B. Johansson; Kalish, J. (1983). "The structure of schools of giant bluefin tuna in Cape Cod Bay". Environmental Biology of Fishes. 9 (3–4): 253–262. doi:10.1007/bf00692374.
+M. Ballerini, N. Cabibbo, R. Candelier, A. Cavagna, E. Cisbani, I. Giardina, V. Lecomte, A. Orlandi, G. Parisi, A. Procaccini, M. Viale, and V. Zdravkovic (2008) ‘Interaction ruling animal collective behavior depends on topological rather than metric distance: Evidence from a field study’ PNAS 105:1232-1237.
+
+
+== Liên kết ngoài ==
+Collective Animal Behavior website organized around David Sumpter's book (2008) by the same name
+STARFLAG project: Description of starling flocking project  Lưu trữ 2020-07-28 tại Wayback Machine
+Center for Biologically Inspired Design at Georgia Tech
+David Sumpter's research website Lưu trữ 2009-07-11 tại Wayback Machine
+Iain Couzin's research website
+Website of Julia Parrish, an animal aggregation researcher Lưu trữ 2009-05-26 tại Wayback Machine
+Research for this Wikipedia entry was conducted as a part of a Locomotion Neuromechanics course (APPH 6232) offered in the School of Applied Physiology at Georgia Tech  Lưu trữ 2011-07-19 tại Wayback Machine

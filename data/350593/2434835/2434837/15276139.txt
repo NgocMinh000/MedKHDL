@@ -1,0 +1,47 @@
+Romidepsin, còn được gọi là Istodax, là một chất chống ung thư được sử dụng trong u lympho tế bào T ở da (CTCL) và các bệnh u lympho tế bào T ngoại vi (PTCL). Romidepsin là một sản phẩm tự nhiên thu được từ vi khuẩn Chromobacterium violaceum, và hoạt động bằng cách ngăn chặn các enzyme được gọi là histone deacetylase, do đó gây ra apoptosis. Đôi khi nó được gọi là depsipeptide, sau lớp các phân tử mà nó thuộc về. Romidepsin được thương hiệu và sở hữu bởi công ty dược phẩm Gloucester, hiện là một phần của Celgene.
+
+
+== Lịch sử ==
+Romidepsin được báo cáo lần đầu tiên trong tài liệu khoa học vào năm 1994, bởi một nhóm các nhà nghiên cứu từ Công ty Dược phẩm Fujisawa (nay là Astellas Pharma) ở Tsukuba, Nhật Bản, người đã phân lập nó trong môi trường nuôi cấy Chromobacterium violaceum từ một mẫu đất thu được ở tỉnh Yamagata. Nghiên cứu cho thấy romidepsin chỉ có khả năng kháng khuẩn rất yếu hoặc không có, nhưng nó lại có khả năng gây độc tế bào ở một số dòng tế bào ung thư ở người trong khi không tác động đến các tế bào bình thường; nghiên cứu trên chuột sau đó cho thấy nó cũng có hoạt tính chống ung thư in vivo.
+Romidepsin lần đầu tiên được tổng hợp hoàn toàn bởi các nhà nghiên cứu của Harvard và phát hành năm 1996. Cơ chế hoạt động của nó đã được làm sáng tỏ vào năm 1998, khi các nhà nghiên cứu từ Fujisawa và Đại học Tokyo phát hiện ra nó là một chất ức chế histone deacetylase với tác dụng tương tự như trichostatin A.
+
+
+=== Các thử nghiệm lâm sàng ===
+Các nghiên cứu về giai đoạn I của romidepsin, ban đầu có tên mã FK228 và FR901228, bắt đầu vào năm 1997. Thử nghiệm pha II và pha III được thực hiện cho nhiều chỉ định khác nhau. Các kết quả quan trọng nhất đã được tìm thấy trong điều trị u lympho tế bào T ở da (CTCL) và u lympho tế bào T ngoại vi khác (PTCL).
+Năm 2004, romidepsin đã nhận được chỉ định Fast Track từ FDA để điều trị ung thư hạch tế bào T ở da và tình trạng thuốc mồ côi từ FDA và Cơ quan y tế châu Âu cho cùng một chỉ định.
+FDA đã phê duyệt romidepsin cho CTCL vào tháng 11 năm 2009  và romidepsin đã được phê duyệt cho các u lympho tế bào T ngoại vi (PTCL) khác vào tháng 6 năm 2011 
+
+
+=== Nghiên cứu tiền lâm sàng HIV ===
+Vào năm 2014, PLOS Pathogens đã công bố một nghiên cứu liên quan đến romidepsin trong một thử nghiệm được thiết kế để kích hoạt lại virus HIV tiềm ẩn nhằm làm cạn kiệt nguồn dự trữ HIV. Các tế bào T mới bị nhiễm đã được xử lý in vitro và ex vivo với romidepsin, cho thấy sự gia tăng lượng RNA HIV có thể phát hiện được trong tế bào. Thử nghiệm cũng so sánh tác dụng của romidepsin với một chất ức chế histone deacetylase khác, Vorinostat 
+
+
+=== Nghiên cứu tự kỷ ở mô hình động vật ===
+Một nghiên cứu liên quan đến romidepsin trong một nghiên cứu trên động vật cho thấy một điều trị ngắn với lượng romidepsin thấp có thể đảo ngược thâm hụt xã hội trong mô hình chuột mắc bệnh tự kỷ.
+
+
+== Dược lực học ==
+Trong một thử nghiệm romidepsin giai đoạn II liên quan đến bệnh nhân CTCL hoặc PTCL, đã có bằng chứng về sự acetyl hóa histone tăng lên trong các tế bào đơn nhân máu ngoại vi (PBMCs) kéo dài 4-48 giờ. Sự biểu hiện gen ABCB1 do romidepsin cũng được tăng lên trong cả PBMC và mẫu sinh thiết khối u. Tăng biểu hiện gen sau khi acetyl hóa histone tăng là tác dụng dự kiến của chất ức chế HDAC. Huyết sắc tố F tăng (một dấu hiệu thay thế khác cho sự thay đổi biểu hiện gen do ức chế HDAC) cũng được phát hiện trong máu sau khi dùng romidepsin, và acetyl hóa histone lâu dài có liên quan nghịch với sự thanh thải của thuốc và liên quan trực tiếp đến đáp ứng điều trị của bệnh nhân.
+
+
+== Liều lượng và cách dùng ==
+Liều romidepsin được phê duyệt trong cả CTCL và PTCL là một liều của 14 mg/m2 truyền trong 4 giờ vào các ngày 1, 8 và 15 của chu kỳ điều trị 28 ngày. Chu kỳ này nên được lặp lại miễn là bệnh nhân tiếp tục có lợi và chịu đựng được liệu pháp. Giảm liều xuống còn 10 mg/m2 có thể có ở một số bệnh nhân bị nhiễm độc cao cấp.
+
+
+== Dược động học ==
+Trong các thử nghiệm liên quan đến bệnh nhân ung thư tiến triển, romidepsin đã thể hiện dược động học tuyến tính trên các liều từ 1,0 đến 24,9 mg/m2 khi tiêm tĩnh mạch trong bốn giờ. Tuổi tác, chủng tộc, giới tính, suy thận từ nhẹ đến nặng và suy gan từ nhẹ đến trung bình không ảnh hưởng đến dược động học của romidepsin. Không có sự tích lũy nồng độ trong huyết tương đã được quan sát sau khi dùng liều lặp lại.
+
+
+== Cơ chế hoạt động ==
+Romidepsin hoạt động như một tiền chất với liên kết disulfide trải qua quá trình khử trong tế bào để giải phóng thiol liên kết kẽm. Thiol liên kết với một nguyên tử kẽm trong túi liên kết của histone deacetylase và ức chế hoạt động của nó. Do đó, nó là một chất ức chế HDAC. Sự ức chế HDAC tăng bộc lộ các gen liên quan đến chết tế bào và kiểm soát chu kỳ tế bào, trong khi đó làm giảm bộc lộ các gen liên quan đến sự tân sinh mạch, tăng sự sản xuất ROS (Reactive Oxygen Species) và tăng sự giáng hoá các protein liên quan đến ung thư như Bcr-Abl, EGFR và HER-2.
+
+
+== Tác dụng phụ ==
+Việc sử dụng romidepsin liên quan đến các tác dụng phụ. Trong các thử nghiệm lâm sàng, phổ biến nhất là buồn nôn và nôn, mệt mỏi, nhiễm trùng, chán ăn và rối loạn máu (bao gồm thiếu máu, giảm tiểu cầu và giảm bạch cầu). Nó cũng có liên quan đến nhiễm trùng và rối loạn chuyển hóa (như nồng độ chất điện giải bất thường), phản ứng da, thay đổi vị giác và thay đổi dẫn truyền điện tim.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Các thử nghiệm lâm sàng của romidepsin tại ClinicalTrials.gov

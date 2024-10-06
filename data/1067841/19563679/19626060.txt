@@ -1,0 +1,30 @@
+Vắc-xin axit ribonucleic (RNA) hoặc vắc-xin RNA thông tin (mRNA) là một loại vắc-xin có sử dụng một bản sao của một phân tử gọi là RNA thông tin (mRNA) để tạo ra một phản ứng miễn dịch. Vắc xin truyền các phân tử RNA tổng hợp vào các tế bào miễn dịch, tại đó vắc xin có chức năng như mRNA, khiến các tế bào tạo ra protein lạ vốn thường được tạo ra bởi mầm bệnh (chẳng hạn như virus) hoặc tế bào ung thư. Các phân tử protein này kích thích phản ứng miễn dịch thu được dạy cho cơ thể biết cách xác định và tiêu diệt mầm bệnh hoặc tế bào ung thư tương ứng. mRNA được đưa vào cơ thể bằng cách tích hợp RNA vào các hạt nano lipid giúp bảo vệ các sợi RNA và giúp tế bào hấp thụ chúng.
+Khả năng phản vệ - xu hướng của vắc-xin tạo ra các phản ứng có hại - của vắc xin RNA là tương tự như các vắc-xin không chứa RNA thông thường. Những người nhạy cảm với phản ứng tự miễn dịch có thể có các phản ứng bất lợi với vắc xin RNA. Ưu điểm của vắc xin RNA so với vắc xin protein truyền thống là thiết kế vượt trội và tốc độ sản xuất, chi phí sản xuất thấp hơn, và có được cả miễn dịch tế bào và miễn dịch dịch thể. Vắc xin COVID-19 của Pfizer–BioNTech yêu cầu bảo quản ở nhiệt độ siêu lạnh trước khi phân phối, nhưng các vắc xin mRNA khác thì không, chẳng hạn như vắc xin COVID-19 của Moderna, CureVac và Walvax.
+Trong điều trị RNA, vắc-xin mRNA đã thu hút được sự quan tâm đáng kể khi là các vắc-xin COVID-19. Đến tháng 12 năm 2020, hai loại vắc xin mRNA mới phòng chống COVID-19 đã hoàn thành giai đoạn 8 tuần cần thiết sau các thử nghiệm cuối cùng trên người và đang chờ cấp phép sử dụng khẩn cấp (EUA): vắc xin Moderna COVID-19 (mRNA-1273) và vắc xin Pfizer– BioNTech (BNT162b2). Vào ngày 2 tháng 12 năm 2020, Cơ quan quản lý thuốc và sản phẩm chăm sóc sức khỏe của Vương quốc Anh (MHRA) đã trở thành cơ quan quản lý thuốc đầu tiên phê duyệt vắc xin mRNA, cho phép vắc xin Pfizer–BioNTech được sử dụng rộng rãi. Vào ngày 11 tháng 12 năm 2020, Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã ban hành EUA cho vắc-xin Pfizer-BioNTech và Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) khuyến nghị chỉ sử dụng vắc-xin này cho người từ 16 tuổi trở lên. Vào ngày 19 tháng 12 năm 2020, CDC đã khuyến nghị chỉ sử dụng vắc-xin Moderna cho người lớn sau khi FDA cấp EUA.
+
+
+== Lịch sử ==
+
+
+=== Nghiên cứu ban đầu ===
+
+Năm 1989, lần đầu tiên việc chuyển nạp thành công mRNA được đóng gói trong một hạt nano liposome vào tế bào đã được công bố. Năm 1990, mRNA "trần" (hoặc không được bảo vệ) đã được tiêm vào cơ của chuột. Những nghiên cứu này là bằng chứng đầu tiên cho thấy mRNA được phiên mã trong ống nghiệm có thể cung cấp thông tin di truyền để tạo ra các protein trong mô tế bào sống. Tại thời điểm này mRNA đã được đề nghị áp dụng các mục đích miễn dịch.
+Năm 1993, các RNA được bao bọc trong liposome đã được chứng minh là có khả năng kích thích tế bào T in vivo, và vào năm 1994, RNA tỏ ra hữu ích như một loại vắc-xin để tạo ra cả phản ứng miễn dịch dịch thể và tế bào chống lại mầm bệnh.
+
+
+=== Phát triển ===
+Năm 2005, việc ứng dụng thành công của nucleoside biến đổi làm môi trường để lấy mRNA bên trong tế bào mà không kích ứng hệ thống phòng thủ của cơ thể đã được báo cáo. Năm 2010, một công ty công nghệ sinh học tập trung vào mRNA, Moderna, đã bắt đầu phát triển công nghệ sinh học mRNA.
+Năm 2010, cơ quan chính phủ Hoa Kỳ DARPA đã khởi động một chương trình nghiên cứu công nghệ sinh học được gọi là ADEPT như một phần trong sứ mệnh phát triển các công nghệ mới nổi cho quân đội Hoa Kỳ. Năm 2011, DARPA đã nhận ra tiềm năng của công nghệ axit nucleic trong việc bảo vệ chống lại các đại dịch, và bắt đầu đầu tư vào lĩnh vực này thông qua ADEPT. Các khoản tài trợ của DARPA được coi là một cuộc bỏ phiếu tín nhiệm, do đó đã khuyến khích các cơ quan chính phủ khác và các nhà đầu tư tư nhân cũng đầu tư vào công nghệ mRNA. Năm 2013, DARPA đã trao một khoản tài trợ trị giá 25 triệu đô la cho Moderna.
+Các loại thuốc ứng dụng mRNA cho các bệnh tim mạch, chuyển hóa và thận, và các mục tiêu được lựa chọn cho bệnh ung thư ban đầu đều có liên quan đến các tác dụng phụ nghiêm trọng. Vắc xin mRNA dùng cho người đã được nghiên cứu phòng chống bệnh dại, bệnh do virus Zika, cytomegalovirus và cúm.
+
+
+=== Tăng tốc ===
+Vào tháng 12 năm 2020, Moderna và BioNTech đã được FDA cấp phép sử dụng khẩn cấp cho vắc xin COVID-19 dựa trên mRNA của họ. Vào ngày 2 tháng 12 năm 2020, bảy ngày sau đợt thử nghiệm cuối cùng kéo dài 8 tuần, Cơ quan quản lý các sản phẩm chăm sóc sức khỏe và thuốc của Vương quốc Anh (MHRA), đã trở thành cơ quan quản lý thuốc toàn cầu đầu tiên trong lịch sử phê duyệt vắc xin mRNA, cấp phép khẩn cấp cho vắc xin BNT162b2 COVID-19 của Pfizer–BioNTech được phép sử dụng rộng rãi. Vào ngày 11 tháng 12 năm 2020, FDA đã cấp phép sử dụng khẩn cấp cho vắc xin COVID-19 Pfizer–BioNTech.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+mRNA vaccine (medicine) tại Encyclopædia Britannica (tiếng Anh)

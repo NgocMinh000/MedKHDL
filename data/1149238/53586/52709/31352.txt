@@ -1,0 +1,65 @@
+Web 2.0 (còn được gọi là web tham gia  hay web xã hội) cho phép người dùng tương tác và cộng tác với nhau thông qua đối thoại trên phương tiện truyền thông xã hội với tư cách là người tạo nội dung trong cộng đồng ảo. Điều này trái ngược với thế hệ đầu tiên của các trang web Web 1.0, nơi mọi người bị giới hạn xem nội dung một cách thụ động. Ví dụ về Web 2.0 bao gồm các trang web mạng xã hội hoặc các trang truyền thông xã hội (ví dụ: Facebook, Blog, Wiki, folksonomies) ("gắn thẻ" từ khóa trên trang web và liên kết), trang web chia sẻ video (ví dụ: YouTube), trang web chia sẻ hình ảnh (ví dụ: Flickr), dịch vụ lưu trữ, ứng dụng Web ("ứng dụng"), nền tảng tiêu dùng hợp tác và ứng dụng hỗn hợp.
+Web 2.0 là một phương pháp Internet mới nhằm thúc đẩy trao đổi thông tin và hợp tác giữa mọi người trên mạng thông qua Ứng dụng web và mô hình của nó lấy người dùng làm trung tâm. Các trang web điển hình web 2.0 là: cộng đồng trực tuyến, ứng dụng trực tuyến, trang mạng xã hội, blog, Wikis, v.v.
+Thuật ngữ này được đặt ra bởi Darcy DiNucci vào năm 1999 và sau đó được phổ biến bởi Tim O'Reilly và Dale Dougherty tại Hội nghị Web 2.0 đầu tiên vào năm 2004.
+Dù được đặt theo tên phiên bản phần mềm, thuật ngữ này không chỉ đến sự thay đổi chính thức trong bản chất của World Wide Web, mà chỉ mô tả sự thay đổi tổng thể xảy ra trong giai đoạn này khi các trang web tương tác phát triển và làm lu mờ các trang web cũ hơn, tĩnh hơn của Web gốc.
+Tim Berners-Lee, người phát minh ra World Wide Web, đã phản đối việc coi Web 2.0 là một bước tiến lớn so với các công nghệ web trước đó, ông coi thuật ngữ này không có gì hơn một từ lóng. Tuy nhiên, các thuật ngữ như Semantic Web được đặt ra bởi Berners-Lee để chỉ một web với nội dung có ý nghĩa có thể được xử lý bởi máy móc.
+
+
+== Nét đặc trưng ==
+Thay vì chỉ đọc một trang Web 2.0, người dùng được mời đóng góp cho nội dung của trang bằng cách nhận xét về các bài báo đã xuất bản hoặc tạo tài khoản người dùng hoặc hồ sơ trên trang. Các tính năng chính của Web 2.0 bao gồm các trang web mạng xã hội, nền tảng tự xuất bản (ví dụ: các công cụ tạo blog và trang web dễ sử dụng của WordPress), "gắn thẻ" (cho phép người dùng gắn nhãn trang web, video hoặc ảnh theo cách nào đó), Các nút "thích" (cho phép người dùng biểu thị rằng họ hài lòng với nội dung trực tuyến) và đánh dấu trang xã hội.
+Các tính năng chính của Web 2.0 bao gồm:
+
+Folksonomy - phân loại thông tin miễn phí; cho phép người dùng phân loại chung và tìm thông tin (ví dụ: "gắn thẻ" trang web, hình ảnh, video hoặc liên kết)
+Trải nghiệm người dùng phong phú - nội dung động đáp ứng đầu vào của người dùng (ví dụ: người dùng có thể "nhấp" vào hình ảnh để phóng to hoặc tìm hiểu thêm thông tin)
+Sự tham gia của người dùng - giữa chủ sở hữu trang web và người dùng trang web bằng phương tiện đánh giá, nhận xét trực tuyến. Người dùng trang web cũng thường tạo nội dung do người dùng tạo để người khác xem (ví dụ: Wikipedia, một bách khoa toàn thư trực tuyến mà bất kỳ ai cũng có thể viết bài hoặc chỉnh sửa)
+Phần mềm dạng dịch vụ (SaaS) - Các trang web 2.0 đã phát triển API để cho phép sử dụng tự động, chẳng hạn như "ứng dụng" Web (ứng dụng phần mềm) hoặc Ứng dụng hỗn hợp.
+Việc truy cập web gần như phổ biến dẫn đến sự khác biệt của các mối quan tâm, từ cơ sở người dùng Internet truyền thống (người có xu hướng là tin tặc và người thích máy tính) đến nhiều người dùng hơn.
+
+
+== Tính năng ==
+Các trang web 2.0 bao gồm các tính năng và kỹ thuật sau đây:
+
+Tìm kiếm: Tìm kiếm thông tin thông qua tìm kiếm từ khóa.
+Liên kết đến các trang web khác: Kết nối các nguồn thông tin với nhau bằng mô hình của Web.
+Tác giả: Khả năng tạo và cập nhật nội dung dẫn đến công việc hợp tác của nhiều tác giả. Người dùng Wiki có thể mở rộng, hoàn tác, làm lại và chỉnh sửa công việc của nhau. Hệ thống bình luận cho phép người đọc đóng góp quan điểm của họ.
+Thẻ: Phân loại nội dung bằng cách người dùng thêm "thẻ" - ngắn, thường là mô tả một từ hoặc hai từ - để tạo điều kiện tìm kiếm.
+Mở rộng: Phần mềm làm cho Web trở thành một nền tảng ứng dụng cũng như một máy chủ tài liệu. Ví dụ bao gồm Adobe Reader, Adobe Flash, Microsoft Silverlight, ActiveX, Oracle Java, QuickTime và Windows Media.
+Tín hiệu：Việc sử dụng công nghệ cung cấp, chẳng hạn như nguồn cấp RSS (định dạng tập tin) để thông báo cho người dùng về thay đổi nội dung.
+
+
+== Ứng dụng ==
+Một phần quan trọng của Web 2.0 là web xã hội. Web xã hội bao gồm một số công cụ và nền tảng trực tuyến nơi mọi người chia sẻ quan điểm, ý kiến, suy nghĩ và kinh nghiệm của họ. Các ứng dụng Web 2.0 có xu hướng tương tác nhiều hơn với người dùng cuối. Như vậy, người dùng cuối không chỉ là người dùng của ứng dụng mà còn là người tham gia bởi:
+
+Podcasting (Podcast)
+Blogging
+Tagging
+Curating with RSS
+Social Bookmarking
+Mạng xã hội
+Phương tiện truyền thông xã hội
+Wiki
+Bầu chọn nội dung web: Đánh giá trang web hoặc Xếp hạng trang web.
+Sự phổ biến của thuật ngữ Web 2.0, cùng với việc sử dụng blog, wiki và công nghệ mạng xã hội ngày càng tăng, đã khiến nhiều người trong giới học thuật và doanh nghiệp nối thêm một loạt các hoạt động và lĩnh vực nghiên cứu hiện có , Thư viện 2.0, Công tác xã hội 2.0, Enterprise 2.0, PR 2.0, Lớp học 2.0, Xuất bản 2.0, Y học 2.0, Telco 2.0, Du lịch 2.0 (Website du lịch), Chính phủ 2.0 (E-Government), và thậm chí khiêu dâm 2.0. Nhiều trong số 2.0 này đề cập đến các công nghệ Web 2.0 là nguồn gốc của phiên bản mới trong các lĩnh vực và lĩnh vực tương ứng của chúng.
+
+
+=== Marketing ===
+Web 2.0 được sử dụng bởi các công ty, tổ chức phi lợi nhuận và chính phủ để Tiếp thị tương tác. Ngày càng nhiều nhà tiếp thị đang sử dụng các công cụ Web 2.0 để tương tác với người tiêu dùng về phát triển sản phẩm, nâng cao dịch vụ khách hàng và cải tiến sản phẩm hoặc dịch vụ. Các công ty có thể sử dụng các công cụ Web 2.0 để cải thiện sự hợp tác với cả đối tác kinh doanh và người tiêu dùng. Ngoài ra, các nhân viên của công ty đã tạo ra các trang web wiki cho phép người dùng thêm, xóa và chỉnh sửa nội dung - để đưa ra câu trả lời cho các câu hỏi thường gặp về sản phẩm, dịch vụ. Từ đó có những đóng góp quan trọng từ người tiêu dùng.
+Một điểm thu hút tiếp thị Web 2.0 khác là đảm bảo người tiêu dùng có thể sử dụng Cộng đồng trực tuyến để kết nối với nhau theo chủ đề do chính họ lựa chọn. Việc sử dụng phương tiện truyền thông chính của Web 2.0 ngày càng tăng. Nội dung web có thể được sử dụng để đánh giá sự hài lòng của người tiêu dùng.
+
+
+==== Marketing điểm đến ====
+Trong các ngành du lịch, phương tiện truyền thông xã hội là một kênh hiệu quả để thu hút khách du lịch và quảng bá các sản phẩm và dịch vụ du lịch bằng cách thu hút khách hàng. Thương hiệu của các điểm đến du lịch có thể được xây dựng thông qua các chiến dịch tiếp thị trên phương tiện truyền thông xã hội. Ví dụ, chiến dịch "Snow at First Sight" do Bang Colorado phát động nhằm mục đích mang lại nhận thức về thương hiệu cho Colorado như một điểm đến mùa đông. Chiến dịch đã sử dụng các nền tảng truyền thông xã hội, ví dụ như Facebook và Twitter, để quảng bá cuộc thi này và yêu cầu những người tham gia chia sẻ kinh nghiệm, hình ảnh và video trên các nền tảng truyền thông xã hội. Do đó, Colorado đã nâng cao hình ảnh của họ như một điểm đến mùa đông và tạo ra một chiến dịch trị giá khoảng 2,9 triệu đô la.
+Tổ chức du lịch có thể kiếm tiền bản quyền thương hiệu từ các chiến dịch tiếp thị tương tác trên phương tiện truyền thông xã hội với các chiến thuật truyền thông thụ động. Các trang web mạng xã hội, chẳng hạn như Facebook, có thể được sử dụng như một nền tảng để cung cấp thông tin chi tiết về chiến dịch tiếp thị, cũng như giao tiếp trực tuyến thời gian thực với khách hàng. Korean Airline Tour đã tạo và duy trì mối quan hệ với khách hàng bằng cách sử dụng Facebook cho các mục đích liên lạc cá nhân.
+Travel 2.0 đề cập đến một mô hình Web 2.0 về các ngành du lịch cung cấp các cộng đồng du lịch ảo. Mô hình du lịch 2.0 cho phép người dùng tạo nội dung của riêng họ và trao đổi những Trải nghiệm khách hàng với nhau thông qua các tính năng tương tác toàn cầu trên các trang web. Người dùng cũng có thể đóng góp kinh nghiệm, hình ảnh và đề xuất của họ về các chuyến đi của họ thông qua các cộng đồng du lịch trực tuyến. Ví dụ: TripAdvisor là một cộng đồng du lịch trực tuyến cho phép người dùng xếp hạng và chia sẻ tự động các đánh giá và phản hồi của họ về khách sạn và điểm đến du lịch. Người dùng không liên kết trước có thể tương tác xã hội và giao tiếp thông qua các diễn đàn thảo luận trên TripAdvisor.
+Phương tiện truyền thông xã hội, đặc biệt là các trang web Travel 2.0, đóng một vai trò quan trọng trong hành vi ra quyết định của khách du lịch. Nội dung do người dùng tạo trên các công cụ truyền thông xã hội có tác động đáng kể đến các lựa chọn của khách du lịch. Travel 2.0 đã tạo ra sự thay đổi căn bản trong việc tiếp nhận các phương thức thông tin cho khách du lịch, từ tiếp thị giữa doanh nghiệp với khách hàng sang đánh giá ngang hàng. Nội dung do người dùng tạo đã trở thành một công cụ quan trọng để giúp một số khách du lịch quản lý các chuyến du lịch quốc tế của họ, đặc biệt là đối với khách truy cập lần đầu. Khách du lịch có xu hướng tin tưởng và dựa vào các đánh giá ngang hàng và truyền thông ảo trên phương tiện truyền thông xã hội hơn là thông tin được cung cấp bởi các nhà cung cấp du lịch.
+Ngoài ra, tính năng đánh giá tự động trên phương tiện truyền thông xã hội sẽ giúp khách du lịch giảm thiểu rủi ro và sự không chắc chắn trước giai đoạn mua hàng. Phương tiện xã hội cũng là một kênh để khiếu nại của khách hàng và phản hồi tiêu cực có thể làm hỏng hình ảnh và danh tiếng của các tổ chức và điểm đến. Ví dụ, đa số các khách du lịch Vương quốc Anh sẽ đọc đánh giá của khách hàng trước khi đặt phòng khách sạn.
+Do đó, các tổ chức nên phát triển các kế hoạch các chiến lược để quản lý và xử lý các phản hồi tiêu cực trên phương tiện truyền thông xã hội. Mặc dù hệ thống xếp hạng và nội dung do người dùng tạo trên phương tiện truyền thông xã hội nằm ngoài tầm kiểm soát của doanh nghiệp, tuy nhiên doanh nghiệp có thể giám sát các cuộc hội thoại đó và tham gia vào cộng đồng để nâng cao lòng trung thành của khách hàng và duy trì mối quan hệ khách hàng.
+
+
+== Tham khảo ==
+Tham khảo: 
+
+
+== Liên kết ngoài ==
+Sáng tạo - mấu chốt của web thế hệ thứ 2?
+Web 2.0, 3.0..., rồi gì nữa?

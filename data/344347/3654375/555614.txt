@@ -1,0 +1,94 @@
+Triatominae - còn có những tên khác như bọ xít hút máu, bọ Conenose, bọ ám sát - là một phân họ côn trùng trong họ Reduviidae. Ít nhất đa số các loài trong tổng số 130 loài là haematophagous sống bằng máu của các động vật có xương sống; một số ít các loài khác lại sống nhờ các động vật không xương sống (Sandoval et al. 2000, 2004). Những loài này thường sống thành tổ và nương tựa vào các động vật có xương sống để dễ dàng hút máu. Chúng được tìm thấy chủ yếu ở châu Mỹ, số ít khác ở châu Á, châu Phi và châu Úc.
+Trong số các loài bọ xít hút máu có nhiều loài trong chi Tritoma là các loài bọ xít hút máu người, trong đó có những loài nguy hiểm là tác nhân truyền bệnh bệnh buồn ngủ (Chagas) như loài Triatoma dimidiate phổ biến ở Trung Mỹ và loài Triatoma infestans phổ biến ở Nam Mỹ. Ngoài ra, loài bọ xít Triatoma rubrofassiata ở Việt Nam còn được gọi là bọ xít hút máu, là loài bọ xít đã tấn công người trên diện rộng, gây hoang mang dư luận trong cộng đồng tuy chúng không thực sự truyền những bệnh nguy hiểm như những họ hàng của chúng ở Nam Mỹ.
+
+
+== Báo cáo đầu tiên ==
+Vào đầu Thế kỷ 19 Charles Darwin đã có báo cáo đầu tiên về sự tồn tại của bọ xít hút máu ở châu Mỹ trong cuốnJournal and Remarks, thường được biết đến với tên The Voyage of the Beagle. Dưới đây là đoạn trích trong báo cáo ông viết vào ngày 25 tháng 3 năm 1835:
+
+"Chúng tôi vượt sông Luxan, rộng đáng kể, nhưng con sông này lại không đổ ra biển gây nhiều nghi ngờ như: sau khi vượt qua vùng đồng bằng, nó bốc hơi hết và biến mất. Chúng tôi ngủ tại một ngôi làng Luxan nhỏ được bao quanh đều là rừng, nghiên cứu một chút. Cho tới đêm, tôi đã bị nó tấn công, một loài của Reduvius, một con bọ đen to của Pampas. Thật là kinh tởm đối với một loài bọ không có cánh, dài khoảng một inch, và luôn bò trên cơ thể. Trước khi hút máu, nó trông rất bé và mỏng, nhưng sau đó trở nên to tròn lên trông thấy và chứa đầy máu. Nếu để chúng lên một cái bàn, rồi để tay lên đó, ngay lập tức, chúng sẽ bò tới hút máu. Tuy nhiên, không để lại vết thương gì. Chúng tôi tò mò khi xem thân của nó trong khi hút máu, khoảng dưới mười phút, đã chuyển từ thân dẹt,bé sang thành dạng hình cầu. Sau "bữa tiệc" này, chúng có thể nhịn trong nhiều tháng; nhưng, chỉ sau một đêm tiêu hóa, chúng đã sẵn sàng để đi hút máu rồi."
+---
+
+Ghi chú: Luxan là Luján de Cuyo.
+Khoảng thời gian từ khi ra bản thống kê về Triatomine ở Argentina đến khi ốm nặng sau đó ít lâu, Darwin đã cho ra một số lượng lớn các nghiên cứu khoa học.
+
+
+==== Triatominae và bệnh Chagas ====
+Năm 1909, bác sĩ người Brasil Carlos Chagas đã tìm ra các loài côn trùng có liên quan đến rất nhiều bệnh có tên là T. cruzi xảy ra trên các bệnh nhân ở Lassance, một ngôi làng bên bờ của sông São Francisco ở Minas Gerais (Brasil). Những người nghèo sống ở đây phàn nàn rằng có một số loại côn trùng mà họ gọi là barbeiros thường cắn vào buổi đêm. Carlos Chagas đã ghi lại những theo dõi của mình đầu tiên vào quyển: "Knowing the domiciliary habits of the insect, and its abundance in all the human habitations of the region, we immediately stayed on, interested in finding out the exact biology of the barbeiro, and the transmission of some parasite to man or to another vertebrate". Một người Brasil khác là Herman Lent (sinh viên cũ của Carlos Chagas) cũng có công lớn trong việc nghiên cứu Triatominae cùng với Petr Wolfgang Wygodzinsky để tạo ra bảng Tổng kết về Triatominae [1] Lưu trữ 2012-09-19 tại Wayback Machine. Đây là thành quả nghiên cứu trong suốt 40 năm (tính tới năm 1989).
+
+
+== Diện mạo bề ngoài ==
+
+
+=== Vòng đời ===
+Triatomines trải qua giai đoạn lột xác không hoàn toàn. Một con nhộng hình sao không cánh nở ra từ một quả trứng, chỉ bằng đầu của một cái nĩa. Nó lần lượt mọc ra 1 cánh, 2 cánh... đầy đủ 5 cánh. Sau cùng, Sau đó chúng trưởng thành,và có thêm 2 cánh.
+
+
+=== Sinh thái học ===
+Tất cả các con nhộng triatomine và con trưởng thành đều là hút máu và phụ thuộc vào môi trường bên ngoài. Đa số bám theo các loài động vật có xương sống và có tên là "sylvatic" triatomine. Chúng sống trong các hang đất cùng các động vật gặm nhấm hoặc armadillo, một loài động vật họ Dasypodiade, hoặc sống trên cây cùng với dơi, chim, lười or opossum, thú có túi thuộc họ Phalangeridae. Một số ít (5%) trú ngụ trong các con nhà của con người (peridomicile) ẩn nấp trong các con thú nuôi.
+
+
+=== Tập tính ===
+Tất cả triatomine chui rúc, lẩn trốn ban ngày và đi hút máu và ban đêm trong khi vật chủ đang ngủ trong những đêm mát trời. Nhiệt tỏa ra từ vật chủ sẽ dẫn đường cho triatomine. Khí CO2 tỏa ra trong quá trình thở, hoặc NH3, các chuỗi amin ngắn và axit carboxylic từ da, tóc và tuyến ngoại tiết từ các động vật có xương sống, đều là các chất dễ bay hơi và rất hấp dẫn triatomine. Ánh sáng cũng giúp triatomine để định hướng.
+Các con trưởng thành sẽ phát ra một mùi cay, hôi (axit isobutyric) khi cảm thấy bị đe dọa, và có khả năng phát ra âm thanh bằng cách cọ xát mũi ở một cái khe nhỏ dưới đầu.
+
+
+=== Tác động đến các loài vật khác ===
+Tất cả các loài gia súc, gia cầm, động vật hoang dã đều có thể bị Chagas ký sinh đem lại mối đe dọa cho loài người, Một số loài thú và chim lại có thể miễn nhiễm được đối với sự ký sinh này. Những con ký sinh này thường lây sang người khi ta hôn những con thú cưng, chăm sóc gia súc, gia cầm.
+Triatominae rất đặc trưng bởi hai loại phân dính trên tường, có màu trắng cùng axit uric, loại còn lại tối hơn, có màu đen. Trứng có màu trăng nhạt, hồng nhạt có thể nhìn thấy trên các kẽ nứt của tường. Sau khi hút no máu, chúng to hơn và rất dễ bị phát hiện.
+
+
+== Tribes, Genera và một số loài khác ==
+Alberproseniini
+Alberprosenia 2
+Bolboderini
+Belminus 9
+Bolbodera 1
+Microtriatoma 2
+Parabelminus 2
+Cavernicolini
+Cavernicola 2
+Linshcosteini
+Linshcosteus 6
+Rhodniini
+Psammolestes 3
+Rhodnius 16
+Triatomini
+Dipetalogaster 1
+Eratyrus 2
+Hermanlentia 1
+Meccus 6
+Mepraia 2
+Nesotriatoma 3
+Panstrongylus 13
+Paratriatoma 1
+Triatoma 67
+
+
+=== Những bệnh con người mắc phải ===
+Tất cả 138 loài Triatominae đều ẩn chứa virus, và truyền cho người T. cruzi gây các triệu chứng sốt, ốm, mệt mỏi, muốn ngủ nhiều.
+
+Triatoma infestans
+Rhodnius prolixus
+Triatoma dimidiata
+Triatoma brasiliensis
+Panstrongylus megistus
+
+
+== Tại Việt Nam ==
+Tuy loài bọ xít này không phân bố chủ yếu ở Việt Nam nhưng năm 2012, loài bọ xít này xuất hiện đồng loạt trên diện rộng ở Việt Nam, nó di cư sang châu Á và Việt Nam bằng đường du lịch, sau khi xâm nhập và phát triển, bọ xít này đã cắn, đốt người dân nước này gây xôn xao dư luận, bọ xít này xuất hiện được ghi nhận tại loài côn trùng này đã có mặt ở 20 tỉnh, thành như Quy Nhơn, Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh, Phan Thiết... Loài bọ xít này sinh sản nhanh, kháng thuốc trừ sâu, tạo lập được tập tính sống gần con người.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+8 Triatominae or Kissing Bugs in California
+Parasitology University Würzburg: Life cycle stages of the wingless Cimicidae and the Reduviidae Lưu trữ 2006-05-28 tại Wayback Machine
+Information on Triatominae Lưu trữ 2011-07-17 tại Wayback Machine (under construction), by
+Fernando Otálora-Luna]
+
+LABORATORIO DE FISIOLOGÍA DE INSECTOS, Argentina
+The Kiss of Death: Chagas' Disease in the Americas
+Entomological Laboratory "Herman Lent" University of Los Andes Lưu trữ 2007-09-29 tại Wayback Machine
+University of Neuchâtel
+ECLAT = European Community Latin American Network for Research on the Biology and Control of Triatominae

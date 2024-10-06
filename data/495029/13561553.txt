@@ -1,0 +1,75 @@
+Trao đổi oxy qua màng ngoài cơ thể hay ECMO (tiếng Anh: extracorporeal membrane oxygenation hoặc extracorporeal life support (ECLS)) là một phương pháp hỗ trợ sự tuần hoàn và hô hấp khi tim hoặc phổi hay cả hai đều không thể hoạt động bình thường. Công nghệ này (ECMO) có thể thay thế tim hoặc phổi hay cả hai trong một thời gian ngắn.
+Trẻ em là đối tượng được sử dụng chủ yếu, tuy nhiên với trường hợp người lớn bị suy tim, suy hô hấp thì vẫn có thể sử dụng như bình thường. ECMO đưa máu ra bên ngoài cơ thể, sau đó loại bỏ carbon dioxide và thêm oxy vào tế bào hồng cầu. Tóm lại, công nghệ này được sử dụng để điều trị các ca bệnh trong giai đoạn cuối hoặc suy tim, suy hô hấp nghiêm trọng. Ngày nay ở một số trung tâm điều trị, ECMO còn được sử dụng khi bệnh nhân ngưng tim nhằm kéo dài sự sống để các y bác sĩ tìm ra nguyên nhân gây ngưng tim.
+
+
+== Sử dụng trong y tế ==
+
+Các trường hợp sử dụng ECMO trong điều trị đã được Tổ chức Hỗ trợ Sự sống Ngoài Cơ thể (tên tiếng Anh: Extracorporeal Life Support Organization) xuất bản và công bố, chủ yếu là các trường hợp bệnh nhân bị suy tim hoặc suy hô hấp. Ngoài ra, một số trường hợp dưới đây có thể được cân nhắc để sử dụng ECMO:
+
+Suy hô hấp nếu tỷ lệ sức căng oxy ở động mạnh và oxy hít vào (PaO2 / FiO2) nhỏ hơn 100 mmHg mặc dù máy thở đã được sử dụng hết công suất.
+Suy hô hấp do nồng độ carbon dioxide cao bất thường với pH trong động mạch nhỏ hơn 7,20
+Sốc tim
+Ngừng tim
+Tim gặp vấn đề sau khi phẫu thuật tim
+Dùng để duy trì sự sống trong khi cấy ghép tim hoặc đặt một thiết bị hỗ trợ tâm thất hay ghép phổi
+Tuy mang nhiều tranh cãi nhưng dùng ECMO để điều trị sốc do nhiễm trùng vẫn đang được nghiên cứu
+Hạ thân nhiệt, với nhiệt độ từ 24 đến 28 °C và bất ổn tim, hoặc với nhiệt độ dưới 24 °C.
+
+
+=== Kết quả ===
+Trong các bản báo cáo dựa trên khoảng 51.000 người đã điều trị bằng ECMO cho thấy các ca suy hô hấp ở trẻ sơ sinh sống sót với tỷ lệ 75%, suy hô hấp ở trẻ em là 56% và suy hô hấp ở người lớn là 55%. Và với các ca suy hô hấp cấp tính, tỷ lệ sống sót sẽ dao động từ 50 đến 70% nếu sử dụng ECMO.
+
+
+== Chống chỉ định ==
+Hầu hết các trường hợp chống chỉ định mang tính tương đối, có thể bị bỏ qua việc sử dụng ECMO để điều trị cho các bệnh nhân khác. Các trường hợp ấy là:
+
+Các điều kiện đã có từ trước làm ảnh hưởng đến chất lượng cuộc sống (tình trạng của hệ thần kinh trung ương, bệnh ác tính giai đoạn cuối, nguy cơ xuất huyết toàn thân với thuốc chống đông máu).
+Tuổi tác và kích thước cơ thể.
+Các ca bệnh nặng ở những người quá yếu, đã được điều trị nhưng quá lâu, hoặc đã chẩn đoán là tử vong.
+
+
+== Phân loại ==
+
+Có hai loại phổ biến nhất là ECMO tĩnh mạch-động mạch (VA) và ECMO tĩnh mạch-tĩnh mạch (VV). Trong cả hai phương thức trên, máu được đưa ra bên ngoài cơ thể từ hệ thống tĩnh mạch được thêm oxy rồi trả về cơ thể. Trong VCM ECMO, máu được trả về hệ động mạch và trong VV ECMO máu được trả về tĩnh mạch. Tuy nhiên, VV ECMO chỉ hỗ trợ việc hô hấp, không hỗ trợ cho tim.
+
+
+=== Tĩnh mạch-động mạch ===
+Ở phương pháp này, người ta đặt một ống thông tĩnh mạch vào tĩnh mạch đùi bên trái hoặc bên phải để lấy máu ra bên ngoài và một ống thông động mạch vào động mạch đùi bên trái hoặc bên phải để trả máu vào cơ thể. Vị trí của đầu ống thông tĩnh mạch đùi phải được giữ ở ngay gần đường giao nhau của tĩnh mạch chủ dưới và tâm nhĩ phải, trong khi đầu của ống động mạch đùi phải ở trong động mạch chậu. Ở người lớn, việc tiếp cận động mạch đùi được ưu tiên vì việc chèn vào đơn giản hơn ở trẻ nhỏ.
+
+
+=== Tĩnh mạch-tĩnh mạch ===
+Ở phương pháp này, người ta đặt một ống thông vào tĩnh mạch đùi để đưa máu ra và tĩnh mạch cảnh trong bên phải để trả máu về. Ngoài ra, một ống thông hai có đầu được đưa vào tĩnh mạch chủ trên và tĩnh mạch dưới rút ​​máu ra và đưa máu trở lại tâm nhĩ phải sau khi được thêm oxi.
+
+
+== Lưu ý ==
+
+VV ECMO thường được sử dụng cho suy hô hấp, trong khi VA ECMO được sử dụng cho suy tim.
+Trong VV ECMO, tốc độ máu càng cao càng tốt vì nó hỗ trợ việc trao đổi oxi. Nhưng ngược lại, trong VA ECMO tốc độ máu phải đủ cao để có đủ áp lực và độ bão hòa oxyhemoglobin tĩnh mạch (đo trên máu thoát) nhưng đủ thấp để đảm bảo lượng máu được đưa ra.
+Nếu chất lỏng trong cơ thể bệnh nhân quá tải, biện pháp lợi tiểu tích cực sẽ được thực hiện đến khi ổn định trên ECMO. Ngược lại, biện pháp siêu lọc có thể đượ thực hiện dễ dàng trong khi bệnh nhân đang duy trì sự sống bằng ECMO.
+Khi máu ra khỏi tâm thất trái có thể hình thành máu đông do chức năng của tâm thất trái bị suy giảm.
+Sau khi bệnh nhân đã ổn định, cần đo độ bão hòa oxy trong máu được rút ra từ tĩnh mạch.
+
+
+== Biến chứng ==
+
+
+=== Thần kinh ===
+Hậu quả phổ biến ở người lớn được điều trị bằng ECMO là chấn thương thần kinh, có thể bao gồm xuất huyết dưới màng nhện, nhồi máu, thiếu máu cục bộ ở vùng nhạy cảm của não, não thiếu oxy cục bộ, hôn mê không giải thích được, và chết não. Khả năng xuất huyết là từ 30-40% do thuốc chống đông máu chứa heparin được truyền vào liên tục làm rối loạn chức năng của tiểu cầu. Khắc phục việc phẫu thuật, duy trì số lượng tiểu cầu lớn hơn 100000/mm3.
+
+
+=== Máu ===
+Tiểu cầu trong máu sẽ bị giảm do thuốc chống đông máu heparin, để khắc phục, sử dụng thuốc chống đông không có heparin.
+Ngoài ra, có một lưu lượng máu ngược dòng trong động mạch chủ và đi xuống ngay cả khi động mạch đùi và tĩnh mạch đang nối với máy ECMO. Nếu vị trí ống của đầu ống thông không duy trì ở vị trí cũ sẽ xảy hiện tượng ứ máu có thể gây ra các cục máu đông.
+
+
+=== Sinh non ===
+Nếu trẻ dưới 32 tuần tuổi sẽ không được sử dụng ECMO để duy trì sự sống do rủi ro xuất huyết nội sọ là rất cao.
+
+
+=== Nghiên cứu ===
+Một nghiên cứu năm 2014 đã tìm ra một kháng thể ức chế yếu tố XIIa mà không làm tăng nguy cơ xuất huyết trong khi đang duy trì sự sống bằng ECMO.
+Các thí nghiệm trên động vật sơ sinh cho thấy rằng điều trị ECMO có thể dẫn đến quá trình chết rụng tế bào của tế bào ruột làm tổn hại, ảnh hưởng đến hàng rào niêm mạc ruột và sự di chuyển của vi khuẩn. Điều này có thể giải thích mức độ nghiêm trọng của hội chứng đáp ứng viêm hệ thống ở trẻ sơ sinh.
+Việc sử dụng ECMO trên xác chết sẽ tăng tỷ lệ sống của các cơ quan cấy ghép.
+
+
+== Tham khảo ==

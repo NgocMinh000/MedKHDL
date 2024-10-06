@@ -1,0 +1,358 @@
+16708//Tai mũi họng
+	89794//Chảy máu cam
+	19628172//Đặt nội khí quản
+	15243984//Khàn giọng
+	802600//Khiếm thính
+	14567639//Khoa tai mũi họng
+	14946023//Khô miệng
+	19772726//Liệt thần kinh mặt
+	19879327//Lỗ trâm chũm
+	19828935//Lông tai
+	19430728//Nhánh thái dương của thần kinh mặt
+	19888189//Nhân bọt
+	86484//Viêm tai giữa
+	14784614//Oxybuprocaine
+	3376008//Rhinovirus
+	16391899//Sỏi amidan
+	19273827//Thần kinh mặt
+	14844612//Ung thư đầu và cổ
+	1377607//Ung thư lưỡi
+	528348//Viêm họng
+	41494//Viêm xoang
+	19655034//Vòi Eustache
+	12430479//Bệnh hô hấp
+		19364955//Bệnh dịch hạch Mãn Châu
+		14795257//Bệnh đường hô hấp
+		199803//Bệnh than
+		13475242//Chết đuối
+		17491882//COVID-19
+		15220348//Ho mãn tính
+		14495733//Hội chứng tăng thông khí
+		13503977//Ngạt khi sinh
+		14422477//Ngộ độc oxy
+		14844485//Nhiễm trùng đường hô hấp
+		14791685//Tăng CO2 máu
+		13764548//Xẹp phổi
+		3395811//Chết vì bệnh hệ hô hấp
+			15126771//Alcira Soust Scaffo
+			82947//Charlemagne
+			18573287//Danh sách ca tử vong do đại dịch COVID-19
+			841214//Cesária Évora
+			119475//George Boole
+			7654996//Paul Kruger
+			3177036//Stan Lee
+			15128226//Matilda Newport
+			3123942//Toàn Shinoda
+			25521//George Washington
+			3395810//Chết vì bệnh phổi
+				13477346//Ramiz Alia
+				267283//Anna Pavlovna Pavlova
+				19727103//Berl Senofsky
+				643326//Gustave Caillebotte
+				2688049//Luigi Dallapiccola
+				3514211//Dương Ngọc Đức
+				14790123//Johnny Weissmuller
+				3367471//Denny Laine
+				3269934//Rosalia Lombardo
+				32212//Nelson Mandela
+				13630940//María Angélica Pérez
+				1740166//Marin Mersenne
+				3395803//Randolph Scott
+				93052//Suharto
+				351165//Shirley Temple
+				15486963//Thrisadee Sahawong
+			12430464//Chết vì hen phế quản
+				3377342//Banharn Silpa-archa
+				19350574//Cái chết của Eric Garner
+				83141//Đặng Lệ Quân
+				19350539//Neil Francis Hawkins
+				19743198//Jørgen của Đan Mạch
+				829058//Nguyễn Hữu Việt
+				15162282//Raj Kapoor
+				13645913//Consuelo de Saint Exupéry
+				139553//Martin Van Buren
+			19586466//Tử vong vì đại dịch COVID-19
+				18571828//Angelo Moreschi
+				19631739//Brittanya Karma
+				14521613//Bujar Nishani
+				19784644//Chu Tổ Thọ
+				411141//Valéry Giscard d'Estaing
+				15320622//Lata Mangeshkar
+				1401685//Mahmoud Jibril
+				19609072//Mandela Kapere
+				19325643//María Teresa de Borbón-Parma
+				19639944//Tỷ lệ tử vong đại dịch COVID-19 theo quốc gia
+				3686494//Fidel Ramos
+				13869293//Shimura Ken
+				3158374//Milkha Singh
+				7626412//Angelo Sodano
+				15140583//Thanwa Raseetanu
+				19641369//Thống kê thiếu số ca tử vong đại dịch COVID-19 theo quốc gia
+				3689189//Vangelis
+		17162//Cúm
+			65046//Cúm
+			4004//Cúm gia cầm
+			349512//Cúm lợn
+			350758//Đại dịch cúm 2009 tại México
+			15053768//Favipiravir
+			19426629//G4 EA H1N1
+			17164//Neuraminidase
+			19270649//Tái sắp xếp
+			14945778//Vắc-xin cúm
+			15272516//Virus cúm B
+			15272644//Virus cúm C
+			15272679//Virus cúm D
+			440947//Cúm gia cầm
+				19626761//GISAID
+				15613//Tiến trình phát tán của virus cúm gia cầm
+				17759306//Viện Vệ sinh dịch tễ Trung ương (Việt Nam)
+				13883//Virus cúm A/H5N1
+			1751622//Serotype của virus cúm A
+				19270621//Virus cúm A/H1N2
+				19270623//Virus cúm A/H2N3
+				17612534//Virus cúm A/H3N2
+				1751618//Virus cúm A/H7N9
+				19659921//Virus cúm A/H10N3
+				19659917//Virus cúm A/H10N8
+		12430476//Bệnh đường hô hấp dưới
+			12430472//Bệnh đường hô hấp dưới mãn tính
+				13437//Hen phế quản
+				15026880//Hen suyễn cấp tính
+		12430484//Triệu chứng và dấu hiệu: Hệ hô hấp
+			13799163//Dịch nhầy
+			3267970//Đờm
+			2418004//Hắt hơi
+			14374662//Mắc nghẹn
+			14797388//Nghẹt mũi
+			14795273//Sổ mũi
+			14793103//Tắc nghẽn đường thở
+			14946026//Thở bằng miệng
+			3667798//Bản mẫu:Triệu chứng và dấu hiệu hệ hô hấp
+			3667023//Hô hấp không bình thường
+				14797277//Khó thở
+				3667022//Ngừng thở
+				3667336//Ngừng thở khi ngủ
+				3667845//Nhịp thở nhanh
+				3667030//Thở gấp
+				16148382//Thở hổn hển bất thường
+				19501541//Thở Kussmaul
+			12430481//Ngạt thở
+				13570725//Ngạt
+	3395864//Chết vì ung thư miệng
+		3290211//Bruce Paltrow
+	13538546//Giọng nói
+		14401652//Dây thanh âm
+		3230475//Hát họng
+		15486665//Rối loạn ngôn ngữ nói
+		14963563//Viêm thanh quản
+		19753088//Vỡ giọng
+		13538543//Bệnh lý ngôn ngữ
+			15486637//Bệnh lý ngôn ngữ nói
+			15276604//Rối loạn giao tiếp
+			15486657//Rối loạn ngôn ngữ
+			15486684//Suy giảm ngôn ngữ cụ thể
+			13538528//Rối loạn giao tiếp
+				19859357//Bảng mẫu tự ngữ âm quốc tế mở rộng
+				13672976//Câm
+				15009202//Hội chứng Rett
+		1438948//Giao tiếp truyền miệng
+			796264//Bài giảng
+			13478404//Hội chứng lo sợ khi không có điện thoại
+			13503070//Hội chứng sợ phải gọi hoặc nói chuyện qua điện thoại
+			19513630//Hội thoại
+			207382//Parole
+			106412//Thanh nhạc
+			825030//Âm vị học
+				544034//Âm vị học
+				583963//Âm tiết
+				544045//Âm vị
+				19497988//Âm vị học tiếng Pháp
+				13468886//Bản mẫu:Sơ khai âm vị học
+				19780263//Biến đổi phụ âm
+				13468885//Biến thể tự do
+				19877909//Chuyển bậc phụ âm
+				13742492//Đảo âm
+				19432669//Ér hóa
+				19782166//Thành viên:Giám Định/nháp
+				19828868//Giọng
+				2360465//Hình vị
+				3694810//Nguyên âm đôi
+				19541464//Nguyên âm r-tính
+				11018720//Nhịp thơ
+				46921//Âm vị học tiếng Việt
+			271353//Diễn văn
+				50244//Diễn thuyết trước công chúng
+				13978950//Chuỗi động lực của Monroe
+				19482494//Communist China and the Free World's Future
+				1102169//Diễn văn Parchwitz
+				19805700//Điếu văn
+				3148029//Frederick Douglass: Diễn văn Tưởng niệm Abraham Lincoln
+				52980//Diễn văn Gettysburg
+				76344//Hẹn hò với định mệnh
+				13484300//Hội chứng sợ nói trước đám đông
+				76348//Hùng biện
+				2448546//Luận cương tháng Tư
+				987527//Một nhà tự chia rẽ
+				3120947//Diễn văn ngày 11 tháng 8 của Muhammad Ali Jinnah
+				3435505//Sapling Foundation
+				2434323//TED (hội thảo)
+				14552348//Thù lao diễn thuyết
+				19575131//Thuyết trình
+				50153//Tôi Có một Ước mơ
+				9521//Tội nhân trong tay Thiên Chúa đang thịnh nộ
+				126491//Về sùng bái cá nhân và những hậu quả của nó
+			17313//Điện thoại
+				25487//Điện thoại
+				15607745//Cuộc gọi điện thoại
+				15864//DSL
+				19522310//Bản mẫu:Điện thoại
+				3225804//Điện thoại cố định
+				72776//Điện thoại di động
+				275374//GOOG-411
+				17317205//Hội tụ công nghệ
+				302581//ISDN
+				19792701//Quản lý dịch vụ công nghệ thông tin
+				3268097//Mạng điện thoại chuyển mạch công cộng
+				19740484//Ốp lưng
+				341273//Số điện thoại khẩn cấp
+				19799854//Trung tâm cuộc gọi
+				19799839//Trung tâm trợ giúp
+				3198429//VoIP Phone
+			3191701//Lời chào
+				102080//Aloha
+				19358517//As-salamu alaykum
+				3191685//Glückauf
+				18633447//Hello
+				18996376//Namaste
+			1751063//Lời thề
+				4157//Lời thề Hippocrates
+				16286489//Hội đồng Lập pháp Hồng Kông tranh cãi về việc tuyên thệ
+				19890437//Hội thề Ban Chu Ni
+				101233//Lời hứa Hướng đạo
+				19752558//Lời thề với Hitler
+				387050//Mười lời thề danh dự của quân nhân Quân đội nhân dân Việt Nam
+				3705594//Ngoặc tay
+				64356//Styx
+				13475590//Thư của Chủ tịch Hồ Chí Minh gửi Công an Khu XII năm 1948
+			3089//Truyền thanh
+				501976//Truyền thanh radio
+				15481714//Bộ đàm
+				19645076//Danh sách trạm phát sóng phát thanh FM tại Việt Nam
+				499881//Điều chế tần số
+				3708651//Máy bộ đàm
+				398669//Máy thu vô tuyến tinh thể
+				4514870//Phát thanh AM
+				13249//Radar
+				144745//Song công
+				184483//Vô tuyến sóng ngắn
+			1438945//Truyền thống truyền miệng
+				819364//Truyền thống truyền miệng
+				19773529//Bhanaka
+				3187771//Ngày xửa ngày xưa
+				19794708//Như thị ngã văn
+				19536586//Sinh vật đáng sợ
+				15275590//Thành ngữ (Tiếng Việt)
+				19504056//Thầy bói xem voi
+				24376//Truyền thuyết
+				24374//Tục ngữ
+				3160208//Văn học dân gian
+			3168895//Xử lý tiếng nói
+				13191705//Công nghệ ngôn ngữ
+				243292//Xử lý tiếng nói
+		14670688//Kỹ năng âm thanh
+			11684303//Beatbox
+			3230471//Kỹ thuật hát
+				3230463//Hát scat
+				3230470//Hát yodel
+				2393259//Rap
+	89797//Khoa mũi
+		14636073//Ngoáy mũi
+		11103059//Phenylephrine
+		2420719//Khứu giác
+			415206//Khứu giác
+			19635075//Mất khứu giác
+			3582654//Mùi (khứu giác)
+			1796527//Mùi hương (tiểu thuyết)
+			3208844//Petrichor
+			3289403//Xạ hương
+			2420718//Hệ thống khứu giác
+				19272286//Bó khứu giác
+				3373325//Phản ứng flehmen
+				19540518//Hệ khứu giác
+				14795400//Khoang mũi
+				469939//Mũi
+				19272282//Nhân khứu giác trước
+				19272280//Thần kinh khứu giác
+			1434393//Pheromone
+				25901//Anisol
+				1434411//Civetone
+				7505636//Methyl phenylacetat
+				1434387//Phenylacetaldehyd
+				822888//Pheromone
+	3120631//Khoa tai (y học)
+		19828940//Ốc tai
+		13337305//Máy trợ thính
+		15326855//Phạm vi nghe được
+		15273281//Tai trong
+		3120630//Thính học
+			9439583//Hệ thính giác
+			15229528//Hội chứng Noonan
+			831367//Ô nhiễm tiếng ồn
+			206823//Thính giác
+			3120632//Hệ thống thính giác
+				1742592//Màng tai
+				206779//Tai
+				16987909//Tai giữa
+				15123417//Xương bàn đạp
+			2964900//Khiếm thính
+				13505087//Điếc bẩm sinh ở mèo
+				184073//Ngôn ngữ ký hiệu
+			206828//Thính giác
+				66701//Âm thanh
+				3120370//Binaural beats
+				3701510//Tông nhạc
+			3120629//Tiếp nhận âm thanh
+				1437031//Cao độ (âm nhạc)
+				14751394//Hòa âm
+				15490916//Hội chứng sợ tiếng ồn
+				3644910//Ù tai
+		19523186//Thuốc tác động lên tai
+			27757//Acid acetic
+			15111878//Clioquinol
+			14957843//Polymyxin B
+181778//Tâm thần học
+	2448591//Khoa tâm thần
+	93770//Giấc mơ
+	3127985//Khuyết tật phát triển
+	1277128//Mồ hôi máu
+	87507//Suy giảm trí nhớ
+	1511743//Tâm bệnh học
+	13829354//Tâm thần học sinh học
+	336814//Tự sát bắt chước
+	3128075//Chẩn đoán tâm thần
+		787370//Ác mộng
+		112827//Ái vật
+		21828//Bại não
+		470005//Bệnh Alzheimer
+		551729//Bệnh Parkinson
+		470018//Bệnh tâm thần
+		19571270//Cẩm nang Chẩn đoán và Thống kê Rối loạn tâm thần
+		306166//Chán ăn tâm thần
+		15201047//Chấn động não
+		15560749//Chấn thương đầu xuyên thấu
+		1140991//Chấn thương sọ não
+		470737//Chứng cuồng dâm
+		982472//Chứng háu ăn
+		14816041//Chứng mất trí nhớ thể Lewy
+		13460//Chứng nghiện rượu
+		502936//Chứng tê liệt khi ngủ
+		1485158//Co thắt âm đạo
+		11821369//Danh sách hội chứng sợ
+		13994054//Dùng thuốc quá liều
+		324038//Hậu chấn tâm lý
+		14950372//Hội chứng Angelman
+		1739891//Hội chứng Asperger
+		14433644//Hội chứng chân bồn chồn
+		19526460//Hội chứng Da Costa
+		3669222//Hội chứng Einstein
+		3528430//Hội chứng Munchausen

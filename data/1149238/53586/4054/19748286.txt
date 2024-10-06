@@ -1,0 +1,31 @@
+Trong ngôn ngữ học, thuyết X-bar (tiếng Anh: X-bar theory; còn được dịch là lý thuyết thanh chắn – X, lý thuyết X-gạch ngang, hay lý thuyết biến thể phạm trù) là một mô hình ngữ pháp cấu trúc-ngữ đoạn (phrase-struture grammar) và là một lý thuyết tổ hợp phạm trù cú pháp (syntactic category formation) được đề xướng bởi nhà ngôn ngữ học Noam Chomsky vào năm 1970, rồi được phát triển bổ sung bởi Ray Jackendoff (1974, 1977a, 1977b) dựa trên nền tảng thuyết ngữ pháp tạo sinh do Chomsky xây dựng vào những năm 1950. Thuyết này được sinh ra với mục đích biểu diễn cấu trúc các phạm trù ngữ đoạn bằng một cấu trúc duy nhất gọi là giản đồ X-bar, dựa trên giả định cho rằng mọi ngữ đoạn trong các ngôn ngữ tự nhiên là một XP (ngữ đoạn X) đứng sau một phạm trù cú pháp X đã được cho trước. Thuyết X-bar đóng vai trò quan trọng trong việc giải quyết các vấn đề của luật cấu trúc ngữ đoạn, đơn cử là sự gia tăng các luật ngữ pháp, điều mà mâu thuẫn với thuyết ngữ pháp tạo sinh.
+
+
+== Giản đồ X-bar ==
+
+
+=== Nguyên lý cơ bản ===
+Chữ "X" trong thuyết X-bar tương đương với biến số trong toán học: Nó có thể được thay thế bằng các phạm trù cú pháp chẳng hạn N, V, A và P. Các phạm trù này là các từ vị chứ không phải các ngữ đoạn (hay cụm từ): "X-bar" là đơn vị ngữ pháp lớn hơn X, và đơn vị X thanh kép (=XP) sẽ lớn hơn X thanh đơn. Phạm trù X thanh kép tương đương với các phạm trù ngữ đoạn như NP, VP, AP và PP.
+Lý thuyết X-bar giả định rằng tất cả các phạm trù ngữ đoạn có cấu trúc như Hình 1, được gọi là giản đồ X-bar.
+
+Theo Hình 1, phạm trù ngữ đoạn XP được biểu diễn bằng chữ X với hai dấu gạch bên trên. Khi viết cho tiện, thanh trên có thể được thay thế bằng dấu ('), chẳng hạn X'
+Thuyết X-bar bao gồm hai nguyên lý chính:
+
+Nguyên lý Trung tâm: Tất cả ngữ đoạn đều có một điểm đầu/điểm trung tâm (head).
+Nguyên lý Lưỡng phân: Tất cả các điểm nút (node) rẽ thành hai nút khác.
+Nguyên lý trung tâm giải quyết vấn đề 1 và 3 đã nêu bên trên, còn nguyên lý lưỡng phân đóng vai trò rất quan trọng trong sự phóng chiếu và tính lưỡng nghĩa sẽ được nhắc đến bên dưới.
+Giản đồ X-bar bao gồm một điểm đầu cùng các thành phần tùy ý đi kèm. Các thành phần đó bao gồm:
+
+Định khuôn: [bắt buộc] Nút có quan hệ chị em với nút X'.
+Trung tâm ngữ: [bắt buộc] Cốt lõi của một ngữ đoạn, là vị trí của từ vị bất kỳ. Chính tố quyết định dạng và đặc điểm của toàn bộ ngữ đoạn.
+Bổ ngữ: [bắt buộc] Một tham tố cần thiết của chính tố.
+Sung ngữ: [tùy ý]
+Theo đó, khi một phạm trù ngữ đoạn XP không sở hữu sung ngữ, cấu trúc của nó sẽ phải giống Hình 2.
+
+Quan trọng là ta phải hiểu rằng kể cả khi các vị trí định khuôn và bổ ngữ thiếu vắng từ vị/ngữ đoạn, chúng vẫn tồn tại một cách cú pháp, và do vậy chúng phải được biểu diễn trống không. (Hệ quả của nguyên lý lưỡng phân) Điều này nghĩa là tất cả phạm trù ngữ đoạn sở hữu các cấu trúc đồng đều về bản chất nằm ẩn dưới giản đồ X-bar, khiến ta không cần phải giả định các ngữ đoạn khác nhau sở hữu các cấu trúc khác nhau, rất khác biệt với mô hình PSR. (Giải quyết vấn đề 2 đã nêu bên trên) Thế nên ta cũng phải cẩn trọng khi nhìn thấy những giản đồ lược bỏ nhánh chẳng hạn Hinh 4.
+
+
+== Cước chú ==
+
+
+== Tham khảo ==

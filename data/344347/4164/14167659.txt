@@ -1,0 +1,50 @@
+Vỏ bọc (chữ Anh: Capsid) là vỏ bên ngoài prôtêin của virus, còn gọi là hình khối vỏ. Vỏ bọc là cách thức oligome mà do á đơn vị prôtêin của vỏ bọc của virus hình thành. Tác dụng của vỏ bọc là bao hàm vật chất di truyền của virus (ví như axít nuclêíc).
+
+
+== Giới thiệu giản lược ==
+Vỏ bọc (capsid) là vỏ bên ngoài prôtêin của virus, còn gọi là hình khối vỏ. Vỏ bọc là cách thức oligome mà do á đơn vị prôtêin của vỏ bọc của virus hình thành. Tác dụng của vỏ bọc là bao hàm vật chất di truyền của virus (ví như axít nuclêíc). Vỏ bên ngoài prôtêin là cái bao bọc ở bên ngoài axít nuclêíc của virus. Dùng kính hiển vi điện tử đủ quan sát được nó là do rất nhiều đơn vị hạt căn bản nhỏ đã sắp đặt có quy luật cấu thành, một ít hạt căn bản nhỏ này là á đơn vị có tên gọi là hạt vỏ (capsomere), vỏ bọc của virus là một tầng prôtêin vây chung quanh ở bên ngoài axít nuclêíc của virus. Hạt vỏ do số lượng nhất định hợp thành, hạt vỏ là một chủng loại á đơn vị, bên trong kính hiển vi điện tử hiện ra sự sắp xếp mang tính đối xứng. Vỏ bọc chủ yếu được xây dựng cốt để bảo vệ axít nuclêíc của virus, cùng nhau trợ giúp virus truyền nhiễm, có sẵn tác dụng miễn dịch từ lúc đầu.
+
+
+== Thành phần tổ chức ==
+So sánh tương quan với virus, hạt vỏ là phân tử prôtêin đơn thuần, có cái là do bản thân một số đơn vị kết cấu tụ tập mà thành. Hình thái cơ bản làm thành vỏ bọc, có cái là hình dạng trụ tròn do hạt vỏ xếp đặt theo thứ tự hiện ra hình dạng xoáy ốc (ví như virus khảm Cây thuốc lá), có cái là hình khối 20 mặt đều do hạt vỏ xếp đặt theo thứ tự thành hình dạng trục bánh xe (ví như virus Adeno).
+Vỏ bọc là một tầng prôtêin vây chung quanh ở bên ngoài axít nuclêíc của virus, là do hạt vỏ số lượng nhất định hợp thành. Hạt vỏ chính là á đơn vị hình thái học của vỏ bọc, tên gọi đầy đủ là vi hạt của vỏ bọc. Bởi vì hình dạng kết cấu xoáy ốc của axít nuclêíc của virus không giống nhau cho nên số lượng vi hạt của vỏ bọc và phương thức sắp xếp cũng không giống nhau.
+
+
+== Loại hình ==
+
+Loại hình của vỏ bọc đại thể là chiếu theo hình thái của chúng nó để đi đến phân loại. Virus khác nhau có thể có sẵn vỏ bọc mà hình thái khác nhau, đại đa số vỏ bọc của virus là hình khối 20 mặt và hình xoáy ốc. Tuy nhiên, cũng có virus số lượng ít, thí dụ vỏ bọc của thể phệ khuẩn có sẵn kết cấu khá là phức tạp, loại hình vỏ bọc của nó là hình phức hợp.
+
+Hình khối 20 mặt: Vỏ bọc hình khối 20 mặt là kết cấu thân cận với hình cầu do 20 mặt hình tam giác hợp thành, ví như virus Adeno. Hình khối 20 mặt hiện ra đối xứng xoay 5-3-2 tầng (2-3-5 fold symmetry), tức là mỗi điểm đỉnh là đối xứng xoay 5 tầng, trung tâm của mỗi mặt là đối xứng xoay 3 tầng, trung tâm của mỗi đường biên là đối xứng xoay 2 tầng. Mỗi một mặt có thể do một hoặc nhiều prôtêin hợp thành (thí dụ mỗi mặt của virus lở mồm long móng do 3 prôtêin hợp thành, V1, V2 và V3).
+Hình xoáy ốc: Vỏ bọc hình xoáy ốc có thể hình thành kết cấu hình dạng khối trụ tròn rỗng bên trong, có virus khảm Cây thuốc lá là điển hình.
+Hình phức hợp: đã hình xoáy ốc không hoàn toàn lại còn hình khối 20 mặt đều không hoàn toàn, có thể có kết cấu phụ thêm, lấy kết cấu vỏ bọc của thể phệ khuẩn làm đại biểu, phần đầu của nó là hình khối 20 mặt, nhưng mà vỏ bọc bên ngoài prôtêin của phần đuôi là hình xoáy ốc.
+Ngoài ra, có một ít virus có sẵn màng bọc, cho phép đem vỏ bọc chứa ở bên trong màng bọc.
+
+
+== Chức năng ==
+Chức năng vỏ bọc của virus là:
+
+Che chở bảo vệ axít nuclêíc của virus, khiến cho nó miễn bị enzim nuclê và nhân tố hoá học vật lí khác phá hoại.
+Tham dự vào quá trình truyền nhiễm của virus. Virus bắt đầu gây ra truyền nhiễm đầu tiên cần thiết hấp phụ một cách dị biệt đặc thù ở mặt ngoài của tế bào dễ bị nhiễm, nhưng mà virus không màng bọc thì phải nương dựa vỏ bọc để hấp phụ ở mặt ngoài tế bào.
+Có sẵn tính kháng nguyên rất tốt, cám dỗ phát sinh miễn dịch chất dịch và miễn dịch tế bào của cơ thể, một ít miễn dịch này đáp ứng không chỉ có tác dụng phòng chống miễn dịch, mà còn có thể dẫn đến tổn hại bệnh lí của miễn dịch, có liên quan với sự truyền bệnh của virus.
+
+
+== Hợp thành và lắp ráp ==
+Bỗng nhiên có một hôm virus truyền nhiễm tế bào, ở giai đoạn khởi đầu nó ngay tức khắc lợi dụng tài nguyên của tế bào túc chủ bị nhiễm bệnh rồi tự thân tiến hành nhân đôi. Ở trong tiến trình này, hiện ra á đơn vị prôtêin của vỏ bọc mới được hợp thành căn cứ vào thông tin bộ gen của virus đồng thời lợi dụng hệ thống hợp thành sinh vật prôtêin của tế bào túc chủ. Sau khi prôtêin của vỏ bọc được hợp thành thì ngay tức khắc tiến hành lắp ráp với nó. Trong quá trình lắp ráp, một cái á đơn vị được gọi là "cửa ngõ" được lắp đặt tốt ở điểm đỉnh của virus; sau đó thông qua á đơn vị cửa ngõ, đem DNA hoặc RNA của virus chuyên chở vào vỏ bọc. Các nhà nghiên cứu đã thông qua kĩ thuật kính hiển vi điện tử nhiệt độ thấp đã quan sát được quá trình lắp ráp của prôtêin cửa ngõ của vỏ bọc của virus Herpes.
+
+
+== Khác ==
+Phân tích về kết cấu prôtêin vỏ bọc chủ yếu trong các chủng loại virus, có thể được dùng để tiến hành phân loại đối với virus. Thí dụ, thể phệ khuẩn PRD1, virus Rong tiểu cầu và virus Adeno ở động vật cho con bú được chia trong cùng một họ giống nhau.
+
+
+== Vỏ bọc nhân ==
+
+Vỏ bọc nhân (chữ Anh: Nucleocapsid), còn gọi là hình khối vỏ nhân, là tên gọi tổng hợp của vỏ bọc prôtêin của virus và axít nuclêíc của virus do trung tâm của vỏ bọc bao hàm. Virus có kết cấu vỏ bọc nhân chính là virus HIV, virus khảm Cây thuốc lá.
+Khi prôtêin của vỏ bọc đạt tới nồng độ nhất định, tiến hành trùng hợp làm thành vỏ bọc đồng thời bao hàm axít nuclêíc. Axít nuclêíc và vỏ bọc cùng nhau hợp thành vỏ bọc nhân.
+
+
+== Xem thêm ==
+Kết cấu virus
+Màng bọc virus
+
+
+== Tham khảo ==

@@ -1,0 +1,129 @@
+Các nhà hoạt động chống tiêm chủng (anti-vaccine hoặc anti-vax) và nhiều người khác tại nhiều quốc gia đã truyền bá nhiều thuyết âm mưu không có căn cứ liên quan đến vắc-xin COVID-19 bằng cách truyền đạt không chính xác các thông tin khoa học, tôn giáo và các yếu tố khác. Các thuyết âm mưu phổ biến thường chứa một số yếu tố như thổi phồng các tác dụng phụ, lời đồn về việc COVID-19 lây lan là do tiêm vắc-xin khi còn trẻ, những thông tin sai lệch về cách hệ thống miễn dịch hoạt động, thời gian và cách thức sản xuất vắc-xin COVID-19. Các thuyết này được phát tán rộng rãi trong cộng đồng và tạo ra phản ứng tiêu cực xung quanh việc tiêm vắc-xin. Điều này đã dẫn đến việc các chính phủ trên thế giới đưa ra các biện pháp khuyến khích tiêm chủng.
+
+
+== Các thông tin sai lệch ==
+Đã có nhiều giả thuyết sai lệch về vắc-xin COVID-19 được lan truyền ở nhiều nơi trên thế giới.
+
+
+=== Lừa đảo liên quan tới vắc-xin ===
+
+
+==== Vắc-xin giả ====
+Vào tháng 7 năm 2021, cảnh sát Ấn Độ đã bắt giữ 14 người vì sử dụng nước muối làm các liều vắc-xin giả thay vì vắc-xin AstraZeneca tại gần một chục điểm tiêm chủng tư nhân ở Mumbai. Ban tổ chức, bao gồm các chuyên gia y tế, đã thu tiền từ 10 đến 17 đô-la cho mỗi liều và đã có hơn 2.600 người đã trả tiền để được tiêm vắc-xin.
+Interpol đã ban hành một cảnh báo toàn cầu vào tháng 12 năm 2020 cho các cơ quan thực thi pháp luật ở các nước thành viên để đề phòng các mạng lưới tội phạm có tổ chức nhắm mục tiêu vào vắc-xin Covid-19, cả trong đời sống và trên không gian mạng. WHO cũng đưa ra cảnh báo vào tháng 3 năm 2021 sau khi nhiều bộ y tế và cơ quan quản lý nhận được những đề nghị cung cấp vắc-xin đáng ngờ. Họ cũng lưu ý rằng: một số liều vắc-xin đang được chào bán trên dark web với giá từ 500 đến 750 đô-la, nhưng không có cách nào để xác minh nguồn gốc xuất xứ của chúng.
+
+
+==== Hộ chiếu vắc-xin giả ====
+Tại Hoa Kỳ, xuất hiện một sự gia tăng trong số lượng các cá nhân tìm cách mua thẻ tiêm chủng giả, thay đổi hồ sơ y tế để hiển thị tiêm chủng hoặc tạo thẻ tiêm chủng giả để bán. Ở Hawaii, một người đi di lịch đã bị bắt sau khi người ta phát hiện cô ta có hộ chiếu tiêm chủng giả. Một bác sĩ ở California đã bị bắt vì làm giả hồ sơ tiêm chủng của bệnh nhân, đó cũng là điều tương tự xảy đến với ba quân nhân ở bang Vermont vì hỗ trợ tạo ra hộ chiếu vắc-xin giả. Vào tháng 8 năm 2021, các nhân viên Cục Hải quan và Biên phòng Hoa Kỳ đã bắt giữ 121 gói hàng với hơn 3.000 thẻ tiêm chủng giả đã được vận chuyển từ Thâm Quyến để phân phối tại Hoa Kỳ.
+Nghiên cứu của Check Point được công bố vào tháng 8 năm 2021 cho thấy hộ chiếu tiêm chủng giả đang được bán qua các ứng dụng nhắn tin và có giá từ 100 đến 120 đô-la cho mỗi hộ chiếu. Interpol thông báo rằng họ nhận thấy mối tương quan trực tiếp giữa các quốc gia yêu cầu xét nghiệm COVID âm tính để nhập cảnh và sự tăng trong số lượng của các hộ chiếu tiêm chủng giả.
+
+
+=== Các tuyên bố dựa trên y học ===
+
+
+==== Tuyên bố vắc-xin gây biến đổi DNA con người ====
+Việc sử dụng vắc-xin dựa trên mRNA cho COVID-19 là cơ sở của nhiều thông tin sai lệch được lan truyền trên các phương tiện truyền thông xã hội. Chúng tuyên bố một cách sai lệch rằng việc sử dụng RNA bằng cách nào đó có thể thay đổi DNA của một người. Thuyết âm mưu thay đổi DNA được trích dẫn bởi một dược sĩ bệnh viện Wisconsin, người đã cố tình loại bỏ 57 lọ vắc-xin khỏi kho lạnh vào tháng 12 năm 2020 và sau đó bị các công tố viên Quận Ozaukee buộc tội gây nguy hiểm và thiệt hại hình sự đối với tài sản.
+mRNA (RNA thông tin) trong tế bào bị phân hủy rất nhanh trước khi nó có thời gian để xâm nhập vào nhân tế bào. (vắc-xin mRNA phải được bảo quản ở nhiệt độ rất thấp chính là để ngăn chặn sự phân hủy mRNA.) Các retrovirus mang RNA sợi đơn (RNA trong vắc-xin SARS-CoV-2 cũng là RNA sợi đơn) xâm nhập vào nhân tế bào và sử dụng enzyme phiên mã ngược để tạo ra DNA từ RNA trong nhân tế bào. Tuy nhiên, trong khi retrovirus có các cơ chế để có thể xâm nhập vào nhân, các mRNA khác lại thiếu các cơ chế này. Khi ở bên trong nhân, việc tạo ra DNA từ RNA là không thể xảy ra nếu không có đoạn mồi, thứ đi kèm với virus retrovirus nhưng không tồn tại đối với các mRNA khác nếu được đặt trong nhân. Do đó, vắc-xin mRNA không thể thay đổi DNA vì chúng không thể xâm nhập vào nhân, và vì chúng không có mồi để kích hoạt enzyme phiên mã ngược. Vì lý do tương tự, vắc-xin mRNA cũng không được coi là một dạng của liệu pháp gen.
+
+
+==== Sức khỏe sinh sản ====
+Trong một bản kiến ​​nghị vào tháng 12 năm 2020 gửi Cơ quan Y tế Châu Âu, bác sĩ người Đức Wolfgang Wodarg và nhà nghiên cứu người Anh Michael Yeadon đã gợi ý, nhưng không kèm theo bằng chứng nào, rằng vắc-xin mRNA có thể gây vô sinh ở phụ nữ bằng cách nhắm đích vào protein syncytin-1, một thành phần cần thiết cho sự hình thành nhau thai. Kiến nghị của họ về việc ngừng thử nghiệm vắc-xin đã sớm bắt đầu lan truyền trên phương tiện truyền thông xã hội. Một cuộc khảo sát đối với phụ nữ trẻ ở Vương quốc Anh sau đó cho thấy hơn một phần tư sẽ từ chối vắc xin COVID-19 vì lo ngại ảnh hưởng của chúng đối với khả năng sinh sản. Tuy nhiên, protein syncytin-1 và protein đột biến SARS-CoV-2 mà vắc-xin nhắm đích có thành phần rất khác nhau, thực chất là chúng chỉ có chung nhau một trình tự chứa bốn, trên tổng số hàng trăm, amino acid. David Gorski đã viết trên trang Science-Based Medicine rằng Wodarg và Yeadon đang "gây ra nỗi sợ hãi thực sự [...] dựa trên những suy đoán vô nghĩa".
+Đã xuất hiện tuyên bố sai sự thật rằng một người được tiêm chủng có thể "tiết ra" các protein gai, được cho là sẽ gây ra kinh nguyệt thất thường hoặc các tác động có hại khác đối với sức khỏe sinh sản của những phụ nữ không được tiêm chủng ở gần họ. Những tuyên bố này đã được trích dẫn bởi trường tư thục Centner Academy ở Miami (cơ sở đã loại bỏ giáo viên đã tiêm chủng khỏi lớp học và sẽ từ chối thuê giáo viên tiêm chủng trong tương lai), một số doanh nghiệp đã cấm khách hàng đã tiêm chủng. Bác sĩ phụ khoa kiêm nhà báo chuyên mục y tế Jen Gunter cho biết không có loại vắc xin nào hiện được chấp thuận ở Hoa Kỳ "có thể ảnh hưởng đến một người chưa được tiêm phòng và điều này bao gồm kinh nguyệt, khả năng sinh sản và mang thai của họ". Vào tháng 5 năm 2021, tạp chí Vice báo cáo rằng một số người ủng hộ tuyên bố này, một cách khá mỉa mai, đã khuyến nghị việc sử dụng khẩu trang và cách ly xã hội để bảo vệ bản thân khỏi những người đã được tiêm chủng.
+
+
+==== Nguy cơ bị bệnh ====
+
+
+===== Liệt dây thần kinh mặt =====
+Vào cuối năm 2020, có tuyên bố lan truyền trên phương tiện truyền thông xã hội rằng vắc-xin Pfizer‑BioNTech COVID‑19 đã gây ra liệt dây thần kinh mặt (bệnh liệt Bell) ở những người tham gia thử nghiệm. Một số hình ảnh, vốn đã tồn tại từ trước năm 2020, được dùng để minh họa cho các bài đăng này và được ghi chú thích sai lệch rằng đây là những người tham gia thử nghiệm. Trong quá trình thử nghiệm, chỉ có bốn trong số 22.000 người tham gia thử nghiệm đã thực sự phát triển triệu chứng liệt dây thần kinh mặt. FDA quan sát rằng "tần suất mắc bệnh liệt của Bell được báo cáo trong nhóm vắc-xin là tương tự như tỷ lệ nền dự kiến ​​trong quần thể bình thường".
+Các cuộc tranh luận vẫn đang diễn ra về việc liệu có hay không mối liên hệ nhân quả giữa bất kỳ loại vắc-xin COVID lớn nào và bệnh liệt dây thần kinh mặt. Tuy nhiên, các chuyên gia đồng ý rằng ngay cả khi một mối quan hệ như vậy tồn tại, nó xảy ra cực kỳ hiếm và ảnh hưởng rất nhỏ (~10 trường hợp trên 100.000 người so với 3-7 trường hợp trên 100.000 người trong một năm trước đại dịch điển hình). Bệnh liệt dây thần kinh mặt thường chỉ có có tính chất tạm thời và đã được biết đến là xảy ra sau khi tiêm nhiều loại vắc-xin khác nhau.
+
+
+===== Bệnh Prion =====
+Một bài đăng được chia sẻ rộng rãi trên Facebook năm 2021 tuyên bố rằng vắc-xin mRNA cho COVID-19 có thể gây ra các bệnh prion, dựa trên một bài báo của J. Bart Classen. Bài báo được đăng trên tạp chí Microbiology and Infectious Diseases, được xuất bản bởi Scivision Publishers - một nhà xuất bản có trong danh sách các nhà xuất bản lừa đảo (predatory journals) của Beall. Vincent Racaniello, giáo sư vi sinh vật học và miễn dịch học tại Đại học Columbia, mô tả tuyên bố này là "hoàn toàn sai lầm".
+
+
+==== Tuyên bố cho rằng vắc-xin bại liệt là một nguồn mang COVID-19 ====
+Các bài đăng trên mạng xã hội ở Cameroon đã thúc đẩy một thuyết âm mưu rằng vắc-xin bại liệt chứa COVID-19, làm phức tạp thêm việc xóa sổ bệnh bại liệt bên cạnh những khó khăn về tài chính và hậu cần do đại dịch COVID-19 tạo ra.
+
+
+==== Phản ứng tăng cường phụ thuộc vào kháng thể ====
+Tăng cường phụ thuộc vào kháng thể (Antibody-dependent enhancement, ADE) là hiện tượng một người có kháng thể chống lại một loại virus (có thể là do nhiễm trùng hoặc tiêm chủng) có khả năng phát triển bệnh nặng hơn khi bị nhiễm virus thứ hai có liên quan chặt chẽ với virus thứ nhất, do một phản ứng đặc thù và hiếm gặp với các protein trên bề mặt của virus thứ hai. ADE đã được quan sát thấy trong các nghiên cứu trên động vật trong quá trình phát triển vắc-xin coronavirus trước đây, nhưng tính đến ngày 18 tháng 3 năm 2021, không có trường hợp nào được quan sát thấy trong các thử nghiệm vắc-xin trên người. ADE đã được quan sát trong các thử nghiệm in vitro và trong các nghiên cứu trên động vật với nhiều loại virus khác nhau không gây ADE ở người. Tuy nhiên, các nhà hoạt động chống tiêm chủng vẫn viện dẫn ADE như một lý do để tránh tiêm vắc-xin phòng COVID-19.
+
+
+==== Vật liệu bào thai trong vắc xin ====
+
+Vào tháng 11 năm 2020, các tuyên bố lan truyền trên web rằng vắc-xin Oxford–AstraZeneca COVID-19 có "chứa" mô của các bào thai đã bị bỏ. Mặc dù đúng là các dòng tế bào có nguồn gốc từ bào thai đã bị bỏ từ năm 1970 đóng một vai trò trong quá trình phát triển vắc-xin, các phân tử của vắc-xin thực chất được tách chiết từ các mảnh vụn tế bào.
+
+
+==== Độc tố tế bào của protein gai ====
+Vào năm 2021, thông tin sai lệch về chống tiêm chủng lan truyền trên phương tiện truyền thông xã hội cho rằng các protein gai đột biến SARS-CoV-2 là "rất nguy hiểm" và sẽ gây "độc tế bào". Vào thời điểm đó, tất cả vắc-xin COVID-19 được chấp thuận sử dụng khẩn cấp đều chứa mRNA hoặc tiền chất mRNA để sản xuất protein đột biến. mRNA này mang các chỉ dẫn cấu trúc, mà khi được xử lý trong tế bào sẽ tạo ra các protein đột biến, kích hoạt phản ứng miễn dịch thích ứng một cách an toàn và hiệu quả.
+
+
+==== Hệ thống Báo cáo Sự kiện Bất lợi liên quan tới Vắc-xin của Hoa Kỳ ====
+Các tuyên bố đã được đưa ra rằng dữ liệu từ Hệ thống Báo cáo Sự kiện Bất lợi liên quan đến Vắc-xin của Bộ Y tế và Dịch vụ Nhân sinh Hoa Kỳ (Vaccine Adverse Event Reporting System, VAERS) có chứa các số liệu bí mật các ca tử vong liên quan đến vắc-xin COVID-19. Tuyên bố này đã bị lật tẩy và nó chỉ là các diễn giải xuyên tạc và quy kết gây hiểu lầm của nhóm phản đối tiêm vắc-xin. VAERS được biết là báo cáo và lưu trữ các sự kiện sức khỏe đồng thời xảy ra mà không có bằng chứng về nguyên nhân, bao gồm các vụ tự tử, sự cố máy móc (tai nạn xe hơi), tử vong do bệnh mãn tính, tuổi già và những trường hợp khác. Các trang web Medalerts.org của Trung tâm Thông tin Vắc-xin Quốc gia, một trung tâm chống vắc-xin danh tiếng, và OpenVAERS.org có liên quan đến thông tin sai lệch này. Các nghiên cứu so sánh về VAERS, xem xét tỷ lệ báo cáo tương đối, đã cho thấy các dữ liệu không hỗ trợ những tuyên bố này.
+
+
+=== Các tuyên bố liên quan đến xã hội ===
+
+
+==== Tuyên bố đã có vắc-xin trước khi chúng tồn tại ====
+Nhiều bài đăng trên mạng xã hội đã thúc đẩy thuyết âm mưu tuyên bố rằng: trong giai đoạn đầu của đại dịch, virus này đã được biết tới và đã có vắc-xin phòng ngừa. PolitiFact và FactCheck.org lưu ý rằng không có vắc-xin nào cho COVID-19 tại thời điểm đó. Các bằng sáng chế được trích dẫn bởi các bài đăng trên mạng xã hội khác nhau đề cập đến các bằng sáng chế hiện có về trình tự gen và vắc-xin cho các chủng coronavirus khác như coronavirus SARS chứ không phải là SARS-CoV-2. WHO báo cáo rằng kể từ ngày 5 tháng 2 năm 2020, bất chấp các tin tức về "các loại thuốc đột phá" đã được phát hiện, không có phương pháp điều trị nào được biết là hiệu quả, kể cả phương pháp dùng thuốc kháng sinh hay thuốc thảo dược.
+Trên Facebook, một bài đăng được chia sẻ rộng rãi vào tháng 4 năm 2020 tuyên bố rằng bảy trẻ em Senegal đã chết vì chúng được tiêm vắc-xin COVID-19. Thực tế, không có loại vắc xin nào tồn tại vào thời điểm đó, mặc dù một số loại đang được thử nghiệm lâm sàng vào thời gian này.
+
+
+==== Từ hóa ====
+Đã xuất hiện tuyên bố sai lệch cho rằng vắc-xin COVID-19 khiến con người bị nhiễm từ và làm các vật kim loại dính vào cơ thể họ. Được các đảng viên Cộng hòa gọi là nhân chứng chuyên môn trước phiên điều trần vào tháng 6 năm 2021 của Ủy ban Y tế Hạ viện Ohio, nhà hoạt động chống vắc xin Sherri Tenpenny đã góp phần quảng bá cho tuyên bố sai lệch này, nói rằng, "Có những người từ lâu đã nghi ngờ rằng có một loại giao diện nào đó, một loại giao diện chưa được biết đến, giữa những gì được tiêm vào cơ thể và tất cả các tháp 5G."
+
+
+==== Thông tin thực tế bị bóp méo ====
+Một báo cáo năm 2021 của Facebook cho thấy liên kết được chia sẻ phổ biến nhất ở Hoa Kỳ từ tháng 1 đến tháng 3 là một bài báo từ South Florida Sun-Sentinel về sự tử vong của một bác sĩ hai tuần sau khi tiêm vắc xin COVID-19. Người giám định y tế sau đó không tìm thấy bằng chứng nào về mối liên hệ của cái chết này với vắc-xin, nhưng bài báo đã được tuyền truyền và bóp méo bởi các nhóm chống vắc-xin nhằm dấy lên nghi ngờ về tính an toàn của vắc-xin.
+
+
+=== Tuyên bố liên quan đến biến thể Covid-19 ===
+
+
+==== Biến thể Delta và vắc xin ====
+Khi biến thể delta của COVID-19 bắt đầu lan rộng trên toàn cầu, các chiến dịch thông tin sai lệch bắt đầu khai thác ý tưởng rằng vắc xin COVID-19 đã gây ra biến thể delta, bất chấp thực tế là vắc-xin không thể khiến virus nhân lên. Tương tự như vậy, một nhà virus học người Pháp đã tuyên bố sai rằng các kháng thể từ vắc-xin đã tạo ra và tăng cường các biến thể COVID-19 thông qua một lý thuyết đã được lật tẩy trước đây về Tăng cường phụ thuộc vào kháng thể (ADE).
+Cũng có một lý thuyết tương tự như vậy tại Ấn Độ, cho rằng vắc-xin COVID-19 đang làm giảm khả năng chống chọi với các biến thể mới của con người thay vì tăng cường khả năng miễn dịch; giả thuyết này cũng đã được bác bỏ.
+
+
+== Chần chừ trong tiêm vắc-xin ==
+
+Tại Hoa Kỳ, sự chần chừ trong tim vắc-xin COVID-19 có sự khác biệt lớn giữa các khu vực; tuy nhiên, bất kể là khu vực nào; các chuyên gia y tế ở Hoa Kỳ được tiêm chủng với tỷ lệ cao hơn so với công chúng mà họ phục vụ. Ước tính từ hai cuộc khảo sát cho thấy 67% hoặc 80% người ở Hoa Kỳ sẽ chấp nhận tiêm vắc-xin mới phòng COVID‑19, con số này có sự thay đổi rất lớn giữa những trình độ học vấn, tình trạng việc làm, dân tộc và địa lý khác nhau. Một nghiên cứu của Hoa Kỳ được thực hiện vào tháng 1 năm 2021 cho thấy rằng: sự tin tưởng vào khoa học và các nhà khoa học có tương quan chặt chẽ với khả năng tiêm chủng COVID-19 ở những người chưa tiêm phòng. Vào tháng 3 năm 2021, 19% người lớn Hoa Kỳ tuyên bố đã được tiêm chủng trong khi 50% thông báo sẽ có kế hoạch tiêm vắc-xin.
+
+
+=== Khuyến khích bởi các nhân vật của công chúng và những người nổi tiếng ===
+Nhiều nhân vật của công chúng và những người nổi tiếng đã công khai rằng họ đã được tiêm chủng ngừa COVID‑19, và khuyến khích mọi người đi tiêm chủng. Nhiều người đã quay video hoặc ghi lại bằng chứng tiêm chủng của họ. Họ làm điều này một phần để chống lại sự do dự trong tiêm vắc-xin và các thuyết âm mưu khác về vắc-xin COVID-19.
+
+
+==== Chính trị gia ====
+Một số nguyên thủ quốc gia và cựu bộ trưởng của chính phủ đã công bố các bức ảnh về việc tiêm chủng của họ, khuyến khích những người khác cũng thực hiện tiêm vắc-xin. Một số người thuộc danh sách này có thể kể đến như Kyriakos Mitsotakis, Zdravko Marić, Olivier Véran, Mike Pence, Joe Biden, Barack Obama, George W. Bush, Bill Clinton, Dalai Lama, Narendra Modi, Justin Trudeau, Alexandria Ocasio-Cortez, Nancy Pelosi và Kamala Harris.
+Nữ hoàng Elizabeth II và Vương phu Philip thông báo rằng họ đã được tiêm vắc-xin, phá vỡ quy định rằng sức khỏe của các thành viên hoàng gia Anh phải được giữ kín. Giáo hoàng Phanxicô và Giáo hoàng danh dự Benedict đều tuyên bố họ đã được tiêm chủng.
+
+
+==== Nhân vật truyền thông ====
+Dolly Parton đã ghi lại cảnh mình được tiêm chủng ngừa bằng vắc-xin Moderna mà cô có góp phần tài trợ. Parton khuyến khích mọi người đi tiêm phòng và tạo ra một phiên bản mới mang tên "Vaccine" cho bài hát "Jolene" của mình. Một số nhạc sĩ khác như Patti Smith, Yo-Yo Ma, Carole King, Tony Bennett, Mavis Staples, Brian Wilson, Joel Grey, Loretta Lynn, Willie Nelson và Paul Stanley cũng đều đăng ra những bức ảnh họ được tiêm phòng và khuyến khích những người khác cũng làm như vậy. Gray nói: "Tôi tiêm vắc-xin vì tôi muốn được an toàn. Chúng tôi đã mất rất nhiều người vì COVID. Tôi đã mất một vài người bạn. Thật đau lòng. Thật kinh hoàng."
+Nhiều diễn viên bao gồm Amy Schumer, Rosario Dawson, Arsenio Hall, Danny Trejo, Mandy Patinkin, Samuel L. Jackson, Arnold Schwarzenegger, Sharon Stone, Kate Mulgrew, Jeff Goldblum, Jane Fonda, Anthony Hopkins, Bette Midler, Kim Cattrall, Isabella Rossellini, Christie Brinkley, Cameran Eubanks, Hugh Bonneville, Alan Alda, David Harbour, Sean Penn, Amanda Kloots, Ian McKellen và Patrick Stewart đã đăng những bức ảnh về việc họ đã tiêm phòng và khuyến khích những người khác cũng làm như vậy. Bà Judi Dench và Joan Collins cũng thông báo rằng họ đã được tiêm vắc-xin.
+Những nhân vật truyền hình khác như Martha Stewart, Jonathan Van Ness, Al Roker và Dan Rather đã đăng ra những bức ảnh về việc họ đang đi tiêm phòng và khuyến khích những người khác cũng làm như vậy. Stephen Fry cũng chia sẻ một bức ảnh đang được tiêm phòng; Fry viết, "Đó là một khoảnh khắc tuyệt vời, nhưng bạn cảm thấy rằng nó không chỉ hữu ích cho sức khỏe của chính bạn mà còn biết rằng bạn có thể sẽ ít lây nhiễm hơn nếu bản thân bạn tình cờ mang nó ... Đó là biểu tượng của một phần của xã hội, một phần của nhóm mà tất cả chúng ta đều muốn bảo vệ lẫn nhau và giải quyết dứt điểm vấn đề này" Ngài David Attenborough thông báo rằng ông đã được tiêm phòng. Nhân vật truyền hình Hà Lan Beau van Erven Dorens đã tiêm vắc xin trên truyền hình trực tiếp trong chương trình talkshow đêm muộn của anh ấy vào ngày 3 tháng 6 năm 2021.
+
+
+==== Vận động viên ====
+Magic Johnson và Kareem Abdul-Jabbar đã đăng những bức ảnh chụp chính họ đang tiêm phòng và khuyến khích những người khác cũng làm như vậy; Abdul-Jabbar nói, "Chúng ta phải tìm ra những cách mới để giữ an toàn cho nhau."
+
+
+==== Cộng đồng cụ thể ====
+Romesh Ranganathan, Meera Syal, Adil Ray, Sadiq Khan và những người khác đã sản xuất một video đặc biệt khuyến khích các cộng đồng dân tộc thiểu số ở Vương quốc Anh tiêm chủng. Video này cũng nhắm các thuyết âm mưu, nêu rõ "không có bằng chứng khoa học nào cho thấy vắc-xin sẽ hoạt động khác với những người thuộc các dân tộc thiểu số và vắc-xin không chứa thịt lợn hoặc bất kỳ nguyên liệu nào có nguồn gốc từ bào thai hoặc động vật. "
+Oprah Winfrey và Whoopi Goldberg đã nói về việc tiêm chủng và khuyến khích những người Mỹ da đen khác nên thực hiện như vậy. Sau khi trở thành tình nguyện viên thử nghiệm, Stephanie Elam cho biết "một phần lớn lý do tại sao tôi muốn làm tình nguyện viên cho nghiên cứu vắc xin COVID‑19 này - nhiều người da đen và nhiều người da màu hơn cần tham gia vào các thử nghiệm này để các nhóm dân số đa dạng hơn có thể gặt hái lợi ích của nghiên cứu y học này."
+
+
+=== Xổ số khuyến khích tiêm chủng ===
+Chính phủ Nga vào năm 2021 đã tuyên bố sẽ tài trợ một cuộc xổ số với 1000 giải trị giá 100.000 RUB cho những người đã tiêm chủng, trong khi thị trưởng Moskva tuyên bố sẽ tặng thưởng 5 chiếc xe mỗi tuần cho những cư dân đã tiêm chủng. Tại Hoa Kỳ, nhiều tiểu bang như Alaska, California, Pennsylvania, và Ohio cùng nhiều thành phố và đại học đã tặng thưởng học bổng, tiền hay vật chất khác trong các cuộc xổ số để khuyến khích tiêm chủng, với kết quả khác nhau.
+
+
+=== Quy định tiêm chủng tại Hoa Kỳ ===
+Tại Hoa Kỳ, nhiều doanh nghiệp, trường học và trường đại học, nhà cung cấp dịch vụ chăm sóc sức khỏe, và các cơ quan chính phủ và tiểu bang đã ban hành các quy định về tiêm vắc-xin. Trong khi nhiều quy định cho phép một người có thể chọn không tham gia tiêm chủng vì lý do y tế hoặc tôn giáo và sẽ được test thường xuyên, thì quy định liên bang được ký vào tháng 9 năm 2021 không bao gồm tùy chọn này. Ngoài ra, một số quy định tiêm chủng chỉ tập trung vào một số nhóm đối tượng, chẳng hạn như Đại học Rutgers chỉ bắt buộc tiêm vắc-xin cho sinh viên, nhân viên chăm sóc sức khỏe và những người giữ an toàn công cộng.
+Các quy định tiêm chủng bắt buộc đã gặp phải sự phản kháng với việc một Thẩm phán New York tạm thời không áp dụng quy định này đối với các nhân viên y tế không muốn tham gia vì lý do tôn giáo. Tổng chưởng lý Arizona Mark Brnovich đã kiện chính quyền Biden về quy định tiêm vắc-xin cho nhân viên liên bang và các doanh nghiệp tư nhân với hơn 100 nhân viên, tuyên bố rằng quy định này là một sự can thiệp quá mức của liên bang. Sự phản kháng đối với các quy định vắc-xin cũng được thấy ở các cấp địa phương: ít nhất một bộ phận Cảnh sát trưởng ở California thông báo rằng họ sẽ không thực thi bất kỳ quy định bắt buộc liên quan tới vắc-xin nào. Cảnh sát trưởng bang này tuyên bố rằng sự phản kháng này là "tuyến phòng thủ cuối cùng khỏi sự xâm phạm quá mức của chính phủ chuyên chế" và ông sẽ không thực thi nó. Những người phản đối khác đã tổ chức bãi công hàng loạt, chẳng hạn như một bệnh viện ở New York đã phải dừng hoạt động đỡ đẻ do hàng loạt nhân viên y tế bãi công sau khi Thống đốc Andrew Cuomo thông báo rằng tất cả nhân viên bệnh viện và cơ sở chăm sóc dài hạn phải tiêm ít nhất một liều vắc-xin trước ngày 27 tháng 9.
+
+
+== Chú thích ==

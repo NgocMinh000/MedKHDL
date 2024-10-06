@@ -1,0 +1,15 @@
+Virus cúm A gây bệnh cúm ở chim và một số động vật có vú và là loài duy nhất thuộc chi Alphainfluenzavirus thuộc họ virut Orthomyxoviridae. Các chủng của tất cả các loại vi-rút cúm A đã được phân lập từ các loài chim hoang dã, mặc dù dịch bệnh là không phổ biến. Một số phân lập virus cúm A gây bệnh nặng ở cả gia cầm và hiếm khi ở người. Đôi khi, virus được truyền từ chim thủy sản hoang dã sang gia cầm trong nhà và điều này có thể gây ra dịch bệnh hoặc làm phát sinh đại dịch cúm ở người.
+Vi-rút cúm A là vi-rút RNA phân đoạn đối mã với chuỗi đơn. Một số phân nhóm được dán nhãn theo mã số H (đối với loại hemagglutinin) và mã số N (đối với loại neuraminidase). Có 18 loại kháng nguyên H được biết đến khác nhau (từ H1 đến H18) và 11 loại kháng nguyên N được biết đến khác nhau (N1 đến N11). H17N10 được phân lập từ dơi ăn quả vào năm 2012. H18N11 được phát hiện ở một con dơi Peru năm 2013.
+Mỗi phân nhóm virut đã biến đổi thành nhiều chủng có cấu hình gây bệnh khác nhau; một số gây bệnh cho một loài nhưng không phải là gây bệnh cho nhiều loài, một số chủng gây bệnh cho nhiều loài cùng lúc.
+Một loại vắc-xin cúm đã được lọc và tinh chế cho người đã được phát triển và nhiều quốc gia đã dự trữ nó để cho phép quản lý nhanh chóng đối với người dân trong trường hợp xảy ra đại dịch cúm gia cầm. Năm 2011, các nhà nghiên cứu đã báo cáo về việc phát hiện ra một loại kháng thể có hiệu quả chống lại tất cả các loại virut cúm A.
+
+
+== Các biến thể và các phân loại nhỏ hơn ==
+Vi-rút cúm A là vi-rút RNA được phân loại thành các loại phụ dựa trên loại hai protein trên bề mặt của vỏ bọc vi-rút:
+
+H = hemagglutinin, một loại protein khiến các tế bào hồng cầu bị ngưng kết.
+N = neuraminidase, một loại enzyme cắt liên kết glycosid của axit sialic monosacarit (trước đây gọi là axit neuraminic).
+Hemagglutinin là trung tâm để nhận biết và liên kết của virus với các tế bào đích, và sau đó lây nhiễm vào tế bào với RNA của nó. Mặt khác, neuraminidase rất quan trọng trong việc giải phóng các hạt virus con được tạo ra trong tế bào bị nhiễm để chúng có thể lây lan sang các tế bào khác.
+
+
+== Tham khảo ==

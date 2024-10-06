@@ -1,0 +1,210 @@
+Nhiễm trùng huyết hay nhiễm trùng máu hoặc sốc nhiễm trùng huyết và hội chứng rối loạn chức năng đa cơ quan là những tập hợp bệnh lý rất thường gặp trong lâm sàng và đặc biệt nhất là trong các đơn vị hồi sức. Chỉ riêng ở Hoa Kỳ thì mỗi năm có khoảng 750.000 mắc bệnh và 215.000 trường hợp tử vong chiếm 9,3% tổng số tử vong tại đất nước này. Như vậy đứng về số lượng thì tử vong do nhiễm trùng huyết tương đương với tử vong do nhồi máu cơ tim cấp và AIDS và ung thư vú. Thời gian nằm viện trung bình là 19.6 ngày và chi phí điều trị cho mỗi trường hợp là 22 100 USD tức là khoảng 16,7 tỷ USD nếu tính trên toàn Hoa Kỳ. Mặc dù có nhiều tiến bộ vượt bậc trong hiểu biết cơ chế sinh lý bệnh của nhiễm trùng huyết cũng như sự phát triển của các phương tiện và kỹ thuật hồi sức tích cực nhưng tỉ lệ mắc bệnh cũng như tỉ lệ tử vong ngày càng tăng cao đều đặn trong những thập kỷ vừa qua.
+
+
+== Định nghĩa ==
+Nhiễm trùng (Infection): Phản ứng viêm của tổ chức đối với sự hiện diện của vi sinh vật hoặc sự xâm nhập của vi sinh vật vào các tổ chức bình thường vốn vô trùng.
+Vãng khuẩn huyết (Bacteremia): Có sự hiện diện của vi khuẩn sống trong máu.
+Hội chứng đáp ứng viêm hệ thống (Systemic Inflammatory Response Syndrome -SIRS): Đáp ứng viêm hệ thống của cơ thể đối với các tác nhân cấp tính nặng khác nhau, đặc trưng bởi hai hay nhiều các triệu chứng lâm sàng sau:
+
+Nhiệt độ tăng > 38 °C hoặc < 36 °C
+Tần số tim > 90 lần/phút (Trên + 2SD so với giá trị bình thường theo tuổi ở trẻ em).
+Tần số thở > 20 lần/phút hoặc PaCO2 < 32 mmHg (tự thở). (Trên + 2SD sơ với giá trị bình thường theo tuổi ở trẻ em).
+Bạch cầu > 12 000 hoặc < 4000/ mm3, hoặc > 10% bạch cầu non (bạch cầu dạng đũa)
+Nhiễm trùng huyết (Sepsis): Phản ứng hệ thống đối với nhiễm trùng biểu hiện bằng hai hay nhiều các triệu chứng sau đây
+
+Nhiệt độ tăng > 38 °C hoặc < 36 °C
+Tần số tim > 90 lần/phút (ở trẻ em trên + 2SD so với lứa tuổi)
+Tần số thở > 20 lần/phút hoặc PaCO2 < 32 mmHg (tự thở). (ở trẻ em trên + 2SD so với lứa tuổi)
+Bạch cầu > 12 000 hoặc < 4000/ mm3, hoặc > 10% bạch cầu non (bạch cầu dạng đũa).
+Nhiễm trùng huyết nặng (Severe Sepsis): Nhiễm trùng huyết kèm với rối loạn chức năng cơ quan, giảm tưới máu. Giảm tưới máu và bất thường tưới máu có thể bao gồm hạ huyết áp, rối loạn phân bố máu, thiểu niệu hoặc thay đổi đột ngột tình trạng ý thức nhưng không chỉ giới hạn ở các biểu hiện này.
+Hội chứng nhiễm trùng huyết (Sepsis Syndrome): Đáp ứng viêm hệ thống đối với nhiễm trùng đặc trưng bởi hai hay nhiều các triệu chứng sau đây:
+a.	Nhiệt độ cơ thể > 38 °C hoặc < 36 °C
+b.	Tần số tim > 90 lần/phút (ở trẻ em trên + 2SD so với lứa tuổi)
+c.	Tần số thở > 20 lần/phút hoặc PaCO2 < 32 mm Hg (tự thở). (ở trẻ em trên + 2SD so với lứa tuổi).
+d.	Có ít nhất một trong các dấu hiệu sau:
+
+Thay đổi chức năng não (rối loạn ý thức).
+PaO2 < 75 mmHg (thở bằng không khí phòng, bệnh nhân không có bệnh lý phổi tắc nghẽn mạn tính (COPD) trước đó)
+Tăng cao nồng độ lactate huyết thanh
+Thiểu niệu: < 30 ml/h hay < 0,5 ml/kg/h kéo dài trên 1 giờ.
+Hội chứng rò rỉ mao mạch (Capillary Leak Syndrome): Là tình trạng tăng tính thấm của màng mao mạch đối với những đại phân tử do tổn thương trực tiếp cấu trúc màng mao mạch do các chất trung gian hoặc do tác động của các chất có tác động trên huyết động học (Catecholamine, Serotonin, Histamin).
+Hạ huyết áp do nhiễm trùng huyết (Sepsis-Induced Hypotension): Hạ huyết áp do nhiễm trùng huyết được định nghĩa huyết áp tâm thu < 90 mm Hg, Hoặc huyết áp tâm thu giảm ≥ 40 mm Hg so với giá trị bình thường mà không do các tác nhân gây hạ huyết áp khác. Ở trẻ em, giá trị này là thấp hơn – 2SD so với giá trị bình thường theo tuổi.
+Sốc nhiễm trùng huyết (Septic Shock): Sốc nhiễm trùng huyết là sốc gây ra do nhiễm trùng huyết biểu hiện bằng hạ huyết áp mặc dù được bù đầy đủ thể tích dịch, đi kèm với nhưng rối loạn về phân bố lưu lượng máu. Bệnh nhân được dùng các thuốc tăng co bóp tim hay vận mạch có thể không có hạ huyết áp lúc đo.
+Sốc nhiễm trùng huyết kháng trị (Refractory Septic Shock): sốc nhiễm trùng huyết không có đáp ứng đối với đổ đầy tĩnh mạch (ví dụ 500ml huyết tương trong 30 phút và thuốc hoạt mạch như Dopamine 10μg/kg/phút).
+Hội chứng rối loạn chức năng đa cơ quan (Multiple Organ Dysfunction Syndrome-MODS): Hiện diện rối loạn chức năng các cơ quan trong bệnh lý cấp tính mà nếu không có sự can thiệp thì hằng định nội môi của cơ quan đó không thể tái thiết lập.
+Lưu ý: Thuật ngữ septicaemia trước đây được dùng để chỉ tình trạng nhiễm trùng có bằng chứng về sự sinh trưởng mạnh của vi khuẩn trong máu, thường hay được hiểu như là sepsis. Hiện nay thuật ngữ này không còn thông dụng và khuynh hướng bị loại bỏ hoàn toàn.
+
+
+== Dịch tễ học ==
+Một khảo sát tiến cứu dựa theo mức độ của SIRS và nhiễm trùng huyết đã cho thấy rằng tỉ lệ tử vong tăng lên khi bệnh nhân có nhiều tiêu chuẩn của SIRS hoặc có nhiều biểu hiện của nhiễm trùng huyết. Tỉ lệ tử vong cao 3% ở những bệnh nhân không có tiêu chuẩn chẩn đoán SIRS, 7% khi có hai tiểu chuẩn SIRS, 10% khi có 3 tiêu chuẩn SIRS, 17% khi có 4 tiêu chuẩn SIRS, 16% khi có biểu hiện nhiễm trùng huyết, 20% trong nhiễm trùng huyết nặng và 46% trong sốc nhiễm trùng huyết.
+Mặc dù có sự khác nhau về con số cụ thể của nhiễm trùng huyết theo các nghiên cứu khác nhau, một điều thống nhất là tỉ lệ mắc bệnh ngày càng tăng rõ ràng. Tỉ lệ mắc mới (incidence) khoảng 1.06 lần trên 1000 bệnh nhân ngày đến 16 đến 260 lần trên 1000 bệnh nhân ngày. Có nhiều yếu tố khác nhau chịu trách nhiệm cho việc tăng cao tỉ lệ mới mắc này. Yếu tố quan trọng nhất có lẽ là sự tăng cao tỉ lệ hiện mắc (prevalence) các bệnh lý liên quan đến tình trạng suy giảm miễn dịch mạn tính như AIDS, các thuốc ức chế miễn dịch hay độc tế bào, suy dinh dưỡng, nghiện rượu, bệnh lý ác tính, suy thận phụ thuộc vào thẩm phân, đái tháo đường, và tăng số lượng các trường hợp bệnh nhân ghép tạng. Các yếu tố khác có thể là gia tăng việc cấy các dụng cụ y khoa dài ngày vào cơ thể (catheter tĩnh mạch, các dụng cụ chỉnh hình...), các vi sinh vật đề kháng xuất hiện ngày càng nhiều và càng ngày càng nhiều bệnh nhân cao tuổi hoặc bệnh nhân mắc bệnh mạn tính.
+
+
+== Sinh lý bệnh ==
+Trong những thập niên vừa qua, y học đã đạt được những tiến bộ to lớn trong việc tìm hiểu nhiễm trùng huyết.Điều đáng tiếc là hiện nay các nhà nghiên cứu y học vẫn chưa thể đưa ra một cơ chế sinh lý bệnh hoàn chỉnh,có thể giải thích được tất cả những biểu hiện của nhiễm trùng huyết. Có những giả thuyết khác nhau được đề nghị. Mỗi giả thuyết đều có những ưu điểm và những hạn chế của nó.
+
+
+=== Thuyết đáp ứng viêm quá mức ===
+Thuyết đáp ứng viêm quá mức (excessive inflammatory response) trở nên phổ biến nhờ các công trình của Lewis Thomas. Thomas cho rằng: "chính đáp ứng của cơ thể đối với sự hiện diện của vi khuẩn đã gây nên bệnh. Kho vũ khí chống vi khuẩn của chúng ta quá ư mạnh mẽ đến nỗi nó trở nên nguy hiểm hơn bản thân kẻ xâm lược".
+Theo giả thuyết này, nhiễm trùng huyết là hậu quả của đáp ứng viêm hệ thống của cơ thể đối với nhiễm trùng nặng,xuất hiện khi những đáp ứng ban đầu của cơ thể trở nên mạnh mẽ và khuếch đại quá mức đến mức không thể kiểm soát được. Trước sự xâm nhập của vi khuẩn,hệ miễn dịch tiên thiên (innate immune system) của cơ thể sẽ hoạt hóa nhiều hệ thống phòng vệ tế bào cũng như dịch thể khác nhau. Hậu quả của quá trình hoạt hóa quá mức này là sự giải phóng các chất trung gian gây viêm (proinflammatory mediator) từ tế bào nội mô, tế bào biểu bì cũng như bạch cầu đa nhân trung tính, đại thực bào và các tế bào lympho. Kết quả cuối cùng của đáp ứng viêm không kiểm soát được này là rối loạn tưới máu các cơ quan cũng như rối loạn vi tuần hoàn (microcirculation), rối loạn đông máu đưa đến hội chứng rối loạn chức năng đa cơ quan (MODS) và đây chính là nguyên nhân gây chết ở bệnh nhân nhiễm trùng huyết.
+
+
+=== Thuyết suy giảm miễn dịch ===
+Thuyết đáp ứng viêm quá mức không thể giải thích được tại sao một số bệnh nhân nhiễm trùng huyết lại có những biểu hiện của ức chế miễn dịch như mất hiện tượng quá mẫn muộn(delayedhypersensitivity), mất khả năng làm sạch vi khuẩn và có khuynh hướng dễ mắc nhiễm trùng bệnh viện (nosocomial infection). Hơn nữa các nghiên cứu lâm sàng sử dụng các chất chống viêm đã không mang lại hiệu quả như mong muốn.
+Nguyên nhân thứ nhất có thể là do có hiện tượng chuyển từ pha tăng viêm (pro-inflammatory phase) trong giai đoạn sớm của bệnh sang pha chống viêm (anti-inflammatory phase) trong giai đoạn sau khi bệnh đã tiến triển. Người ta cũng phát hiện được rằng các tế bào CD4 được hoạt hóa có thể sản xuất các cytokine gây viêm và ngược lại cũng có thể giải phóng các cytokine kháng viêm. Trong trường hợp thứ nhất, các tế bào CD4 này có chức năng giống tế bào T hỗ trợ type 1 (type 1 helper T cell), nghĩa là chúng sản xuất các chất trung gian điều hòa viêm rất mạnh như yếu tố hoại tử khối u alpha (Tumor Necrosis Factor alpha ), interferon-gamma và interleukin-2. Trong trường hợp thứ hai, các tế bào CD4 này có chức năng giống tế bào T hỗ trợ type 2 (type 2 helper T cell), nghĩa là chúng sản xuất các cytokine chống viêm như interleukin-4 và interleukin-10. Cơ chế nào quy định khi nào tế bào CD4 sẽ có chức năng như tế bào T hỗ trợ type 1 và khi nào chúng sẽ có chức năng như tế bào T hỗ trợ type 2 vẫn chưa được biết đến.
+Nguyên nhân thứ hai của tình trạng ức chế miễn dịch rất có thể là do hiện tượng chết tế bào theo chương trình (programmed cell death hay apoptosis). Trong nhiễm trùng huyết, các tế bào lympho, là tế bào chịu trách nhiệm chính trong miễn dịch tập nhiễm, các tế bào niêm mạc đường tiêu hóa, tuyến ức, gan, cơ vân... đều rơi vào hiện tượng chết tế bào theo chương trình này. Hiện tượng này nếu xảy ra càng mạnh mẽ thì hệ miễn dịch của cơ thể càng suy yếu.
+
+
+=== Thuyết đông miên tế bào ===
+Khám nghiệm tử thi những bệnh nhân tử vong vì nhiễm trùng huyết phát hiện rằng các tổn thương mô học không phù hợp với mức độ trầm trọng của hội chứng rối loạn chức năng đa cơ quan ở những cá thể này. Hiện tượng chết tế bào ở các cơ quan như tim, gan, thận, phổi tương đối nhẹ nhàng nếu so với biểu hiện lâm sàng suy giảm chức năng các cơ quan này. Rất có thể nhiễm trùng huyết đã làm cho tế bào trong cơ thể trở về trạng thái ít hoạt động nhất mặc dù tổn thương thực thể không quá nặng. Hiện tượng này được gọi là đông miên tế bào (cellular hibernation).
+
+
+=== Vai trò của các yếu tố di truyền ===
+Dựa trên các nghiên cứu so sánh biểu hiện và tiên lượng của nhiễm trùng huyết giữa các cặp sơ sinh và giữa các trẻ khác nhau là con nuôi trong một gia đình, người ta nhận thấy yếu tố di truyền đóng một vai trò rất quan trọng trong nhiễm trùng huyết.
+Các đột biến hoặc tính đa hình của các gene mã hóa cho các receptor TNF alpha, Interleukin-1 receptor và Toll-like receptor quyết định mức độ phản ứng viêm và phản ứng kháng viêm trong nhiễm trùng huyết.
+
+
+=== Cơ chế gây rối loạn chức năng đa cơ quan ===
+Nguyên nhân gây tử vong ở bệnh nhân nhiễm trùng huyết là rối loạn chức năng đa cơ quan. Một cách điển hình, đầu tiên bệnh nhân sẽ xuất hiện rối loạn chức năng một cơ quan ví dụ như suy hô hấp cần phải thông khí nhân tạo và sau đó nếu bệnh không được kiểm soát thì dần dần các cơ quan khác cũng bị suy chức năng. Có một mối tương quan chặt chẽ giữa độ nặng của suy chức năng cơ quan ở thời điểm nhập viện vào phòng hồi sức với xác suất sống sót và tương quan giữa số lượng các cơ quan bị rối loạn chức năng với nguy cơ tử vong. Nếu có 4 đến 5 cơ quan cùng bị rối loạn chức năng thì tỉ lệ tử vong lên đến 90% mặc dù được điều trị tốt đến mức độ nào đi nữa.
+Bệnh sinh của rối loạn chức năng đa cơ quan do nhiều nguyên nhân và cũng chưa được biết tường tận. Giảm tưới máu tổ chức và thiếu oxy tế bào là những yếu tố then chốt. Các cơ chế này liên quan đến sự lắng đọng fibrin lan tỏa gây nên tắc nghẽn vi tuần hoàn. Tình trạng tăng tính thấm vi mạch (microvascular hyperpermeability) cũng làm tồi tệ hơn nữa sự cung cấp oxy cho tế bào và các rối loạn hằng định nội môi của vi tuần hoàn đưa đến sự sản xuất các chất vận mạch như yếu tố hoạt hóa tiểu cầu (Platelet Activating Factor: PAF), histamine và các prostanoid. Thâm nhiễm tế bào, đặc biệt là bạch cầu đa nhân trung tính, đưa đến hiện tượng phá hủy tổ chức do phóng thích các enzyme tiêu thể (lysosomic enzyme) và các gốc tự do oxy hóa (oxydative free radicals) có nguồn gốc từ superoxide (O2-). TNF- và các cytokine khác làm tăng biểu hiện của men tổng hợp Nitric Oxide (NO) cảm ứng (inducible nitric oxide synthase: iNOS) và sự tăng sản xuất NO này làm cho mạch máu càng mất ổn định và cũng có thể góp phần vào ức chế cơ tim trực tiếp trong nhiễm trùng huyết.
+Thiếu oxy tổ chức xuất hiện trong nhiễm trùng huyết được phản ánh bằng khái niệm nợ oxy- nghĩa là sự chênh lệch giữa lượng oxy cung cấp và lượng oxy theo nhu cầu. Mức độ nợ oxy có liên quan đến tiên lượng của nhiễm trùng huyết và các chiến lược điều trị được thiết kế nhằm tối ưu hóa khả năng cung cấp oxy cho tổ chức có thể cải thiện khả năng sống sót. Ngoài hiện tượng thiếu oxy, tế bào còn có thể mắc chứng loạn sử dụng oxy (dysoxygenation), nghĩa là tế bào không có khả năng sử dụng oxy vốn đã ít ỏi trong nhiễm trùng huyết. Các dữ liệu gần đây gợi ý rằng đây có thể là hậu quả của tình trạng NO tăng cao quá mức vì các mẫu sinh thiết tế bào cơ vân ở bệnh nhân nhiễm trùng huyết cho thấy bằng chứng của suy giảm hô hấp ở ti thể (mitochondrion). Chuỗi hô hấp này bị ức chế bởi NO.
+
+
+== Chẩn đoán ==
+
+
+=== Chẩn đoán xác định ===
+Chẩn đoán nhiễm trùng huyết phải có bằng chứng nhiễm trùng trên lâm sàng cộng với ít nhất hai trong các dấu hiệu lâm sàng sau đây:
+
+Tăng thân nhiệt (nhiệt độ hậu môn > 38,3 °C hoặc hạ thân nhiệt (nhiệt độ hậu môn < 35,6 °C).
+Tim nhanh > 90 lần/phút.(Ở trẻ em tần số tim trên +2SD so với giá trị bình thường theo tuổi).
+Thở nhanh > 20 lần/phút hoặc tình trạng nhược thán PaCO2 < 32 mm Hg. (Ở trẻ em tần số tim trên +2SD so với giá trị bình thường theo tuổi).
+cộng với ít nhất một thông số chứng tỏ có tình trạng giảm tưới máu cơ quan hoặc rối loạn chức năng cơ quan hay thay đổi trạng thái tinh thần.
+
+PaO2 ≤ 75 mm Hg (không khí phòng).
+Tăng Lactate huyết thanh.
+Thể tích nước tiểu < 30ml/h. Ở trẻ em nước tiểu < 0,5ml/kg/h).
+Nhóm "Veterans administration systemic sepsis cooperative study group" đưa ra các tiêu chuẩn để chẩn đoán nhiễm trùng huyết: tình trạng lâm sàng gợi ý nhiễm trùng huyết cộng với ít nhất 4 trong các triệu chứng sau đây:
+
+Ớn lạnh hay tăng thân nhiệt (nhiệt độ hậu môn > 38,9 °C) hay hạ thân nhiệt (nhiệt độ hậu môn < 35,5 °C).
+Thở nhanh (> 28 lần/phút) hoặc nhược thán (PaCO2 < 32 mm Hg).
+Tần số tim nhanh > 100lần/phút.
+Hạ huyết áp < 90 mmHg (tâm thu).
+Số lượng bạch cầu bất thường < 3 500/mm3 hoặc ≥ 15 000/mm3.
+Tiểu cầu giảm (< 100 000/mm3).
+Can thiệp phẫu thuật hay thủ thuật trong vòng 48 giờ trước đó hoặc có ổ nhiễm trùng rõ.
+Các dấu hiệu chẩn đoán nhiễm trùng huyết không bắt buộc:
+
+Cấy máu dương tính.
+Test Limulus dương tính (tìm nội độc tố).
+Giảm tiểu cầu (< 100 000/mm3).
+Lượng tiểu cầu hạ > 30 % giá trị bình thường.
+Giảm Antithrombin-III (< 70 % giá trị chuẩn).
+
+
+=== Chẩn đoán giai đoạn ===
+Các giai đoạn của nhiễm trùng huyết có thể phân chia thành ba giai đoạn dựa trên biểu hiện lâm sàng:
+Giai đoạn I: Khởi đầu sốc:
+
+Nhiệt độ hậu môn > 38,4 °C.
+Số lượng tiểu cầu trong giới hạn bình thường.
+Tăng thông khí tự phát.
+Tần số tim nhanh nhưng ổn định.
+Giai đoạn này cần có những theo dõi sát sao và điều trị tích cực sớm.
+Giai đoạn II: Sốc nhiễm trùng huyết:
+
+Sốc tăng động hoặc giảm động.
+Giảm tiểu cầu.
+Cần thông khí hỗ trợ.
+Hiện diện tình trạng vãng khuẩn huyết.
+Biểu hiện tình trạng nhiễm độc nội độc tố.
+Giai đaọn IIIa: Sốc lùi:
+
+Tình trạng lâm sàng và huyết động cải thiện.
+Cai máy thở.
+Không cần theo dõi đặc biệt.
+Tuy nhiên bệnh có thể không cải thiện mà tiếp tục xấu hơn sang giai đoạn IIIb mặc dù được điều trị tích cực.
+Giai đoạn IIIb: Sốc kháng trị:
+
+Tình trạng lâm sàng xấu hơn.
+Huyết động ngày càng khó kiểm soát.
+Biểu hiện giảm tưới máu tổ chức và thiếu oxy tế bào.
+Rối loạn chức năng đa cơ quan và tử vong.
+
+
+== Điều trị ==
+
+
+=== Kháng sinh ===
+Tùy theo kết quả xét nghiệm vi sinh mà thầy thuốc có thể chọn lựa kháng sinh thích hợp (dịch hầu họng/đàm, dịch tiết khí quản, nước tiểu, cấy máu...). Tuy nhiên trong một số trường hợp không thể chọn lựa kháng sinh hướng nguyên nhân được (ví dụ trong trường hợp xét nghiệm vi khuẩn âm tính, tình trạng bệnh không cho phép đợi chờ kết quả, thậm chí đôi khi không cho phép chờ đợi lấy bệnh phẩm xét nghiệm) thì cần dùng kháng sinh theo kinh nghiệm và ngay sau khi có kết quả thì điều chỉnh thích hợp. Có nhiều liệu trình kháng sinh khác nhau tùy theo dịch tễ của từng vùng, từng bệnh viện.
+
+Nhiễm khuẩn không xác định được tác nhân:
+Kháng sinh thường dùng đầu tiên là Cephalosporin thế hệ III (Ví dụ Cefotaxime 2 g x 3 lần/ ngày). Theo dõi đáp ứng lâm sàng và cận lâm sàng chặt chẽ. Thay kháng sinh nếu trong 48 giờ mà không có sự cải thiện rõ ràng. Lúc này kháng sinh được chọn là Piperacillin liều 4 g x 3 lần/ ngày phối hợp với Aminoglycoside (ví dụ Gentamicine 3 – 5 mg/kg/ngày) phối hợp thêm với Clindamycine liều 600 mg x 3 lần/ ngày.
+
+Nhiễm trùng đường tiểu hoặc nhiễm trùng huyết tiêu điểm tiết niệu:
+Kháng sinh thường dùng Ampicilline liều 2 g x 3 lần/ngày phối hợp Aminoglycoside (ví dụ Gentamicine 3 – 5 mg/kg thể trọng/ngày).
+Các kháng sinh trên đều dùng đường tĩnh mạch.
+
+
+=== Protein C hoạt hóa ===
+Protein C hoạt hóa (activated protein C-APC), một chất chống đông (anticoagulant), là tác nhân có tính kháng viêm đầu tiên có hiệu quả trên lâm sàng. Một thử nghiệm lâm sàng quy mô đa trung tâm đã cho thấy protein C hoạt hóa người tái tổ hợp (recombinant human APC) làm giảm đáng kể tỉ lệ tử vong ở các bệnh nhân nhiễm trùng huyết đặc biệt là bệnh nhân nhiễm trùng huyết nặng.
+APC bất hoạt các yếu tố đông máu Va và VIIIa (a-activated: hoạt hóa) nên làm giảm sự hình thành thrombin. Ức chế hình thành thrombin do APC làm giảm viêm thông qua ức chế quá trình hoạt hóa tiểu cầu, ức chế huy động bạch cầu đa nhân trung tính và sự phóng hạt của các tế bào mast. APC cũng có tác dụng chống viêm trực tiếp bao gồm ngăn cản các monocyte sản xuất cytokine và ức chế bám dính tế bào.
+APC rất hiệu quả trong điều trị nhiễm trùng huyết nhưng đồng thời nó lại cũng có khả năng tăng nguy cơ xuất huyết đặc biệt là xuất huyết não.
+
+
+=== Hồi sức bồi phụ dịch ===
+Trong nhiễm trùng huyết, các chất trung gian điều hòa gây nên tình trạng giãn mạch, tăng tính thấm vi mạch và thoát protein từ mao mạch. Các hiện tượng bệnh lý này gây nên giảm thể tích dịch trong lòng mạch, giảm tiền tải (preload), giảm cung lượng tim (cardiac output) giảm tưới máu và cung cấp oxy cho tổ chức. Chính vì lý do này mà liệu pháp hồi sức bồi phụ dịch đóng vai trò thiết yếu trong hồi phục và duy trì thể tích trong lòng mạch cũng như cung cấp oxy cho tế bào.
+Hiện nay liệu pháp bồi phụ dịch thường được sử dụng sớm trước khi có những dấu hiệu của sốc. Có thể dùng dung dịch dạng tinh thể (crystalloid) như dung dịch Ringer's Lactate, dung dịch NaCl 0,9% hoặc các dung dịch dạng keo nhân tạo (artificial colloid) chẳng hạn dung dịch gelatin và kể cả dung dịch albumin người. Chưa có một nghiên cứu trên quy mô lớn nào khẳng định được dung dịch nào có nhiều ưu điểm hơn một cách rõ ràng.
+
+
+=== Thuốc vận mạch và trợ tim ===
+Nhằm đảm bảo lượng oxy cung cấp cho tổ chức một cách thỏa đáng, huyết áp động mạch hệ thống phải được duy trì ở một giá trị nào đó để cung lượng tim được phân bố một cách hợp lý. Mục tiêu này có thể đạt được bằng liệu pháp vận mạch/tăng co bóp cơ tim sau khi đã bồi phụ tương đối đủ dịch trong lòng mạch. Các thuốc thường dùng là nhóm kích thích giao cảm (sympathomimetics) gồm norepinephrine, dopamine, phenylephrine, dobutamine và epinephrine.
+Dobutamine thường được sử dụng cho các bệnh nhân nhiễm trùng huyết có tình trạng ức chế cơ tim biểu hiện trên lâm sàng bằng giảm cung lượng tim mặc dù đã được bồi phụ dịch đầy đủ.
+Vasopressin, một chất co mạch mạnh, cũng rất hữu ích trong duy trì huyết áp động mạch hệ thống. Vasopressin, thông qua tác dụng lên các V1a receptor, tạo nên những hiệu ứng có lợi trong sốc gồm giãn mạch ở các cơ quan sinh tử như não, mạch vành và phổi nhưng co mạch ở các cơ quan không quan trọng như cơ vân và da.
+
+
+=== Liệu pháp Insuline tích cực ===
+Những bệnh nhân bị bệnh cấp tính nặng, trong đó có nhiễm trùng huyết, thường có hiện tượng tăng đường máu (hyperglycemia) và đề kháng insulin. Đây là nguy cơ của các biến chứng khác nữa như bội nhiễm vi khuẩn (bacterial surinfection), bệnh lý dây thần kinh trong bệnh nặng (critical illness polyneuropathy), rối loạn chức năng đa cơ quan và tử vong.
+Điều trị insulin tích cực ở bệnh nhân hồi sức nhằm duy trì đường máu trong khoảng 4.4 (80 mg/l) to 6.1 mmol/L (110 mg/l) làm hạ tỷ lệ tử vong rất rõ so với nhóm điều trị theo liệu trình thông thường, là nhóm có đường máu trong khoảng 10.0 to 11.1 mmol/L. Đây là một khuynh hướng mới mở ra nhiều triển vọng cho nghiên cứu và thực hành lâm sàng. Tuy nhiên một vấn đề cần quan tâm trong liệu pháp điều trị insulin tích cực là nguy cơ hạ đường máu. Các nghiên cứu gần đây khuyến cáo không sử dụng liệu pháp insulin tích cực với đích điều trị là 80–110 mg/L mà thay vào đó là đích 140–180 mg/l để làm giảm nguy cơ hạ đường huyết.
+Một số nghiên cứu ban đầu sử dụng các máy theo dõi đường huyết liên tục cũng cho kết quả hứa hẹn. Tuy nhiên việc quyết định điều trị ínulin và mức đường huyết đích phụ thuộc vào điều kiện của từng cơ sở điều trị. Điều quan trọng nhất là tránh làm hạ đường huyết nguy hiểm.
+
+
+=== Liệu pháp Corticosteroide ===
+Trước đây, do hiểu cơ chế bệnh sinh của nhiễm trùng huyết là đáp ứng viêm quá mức (xem phần sinh lý bệnh) nên corticosteroid đã được sử dụng với liều chống viêm tương đối cao. Các nghiên cứu theo hướng này đã cho thấy tỉ lệ tử vong ở nhóm điều trị tăng cao hơn so với nhóm chứng. Gần đây các nghiên cứu dùng corticosteroid liều thấp ở bệnh nhân có dấu hiệu của suy chức năng tuyến thượng thận trong nhiễm trùng huyết cho thấy có cải thiện tỉ lệ tử vong. Tuy nhiên cần có nhiều thử nghiệm đa trung tâm quy mô lớn nữa mới có thể có kết luận cuối cùng.
+
+
+=== Liệu pháp thay thế chức năng thận và lọc máu ===
+Thẩm phân máu (hemodialysis) và lọc máu (''hemodiafiltration), một dạng của thẩm phân, cũng được dùng trong điều trị nhiễm trùng huyết. Ngoài tác dụng điều trị suy thận cấp thì các phương pháp này cũng có tác dụng lọc các chất có hại như nội độc tố, cytokine (tùy theo kích thước màng lọc sử dụng). Kết quả lâm sàng không thống nhất. Một số thử nghiệm đạt kết quả tốt, một số khác không thấy sự khác biệt có ý nghĩa nào so với nhóm đối chứng.
+
+
+=== Dinh dưỡng điều trị ===
+Suy dinh dưỡng (malnutrition) rất thường gặp ở bệnh nhân điều trị tại các đơn vị hồi sức, đặc biệt là các bệnh nhân điều trị dài ngày. Các nghiên cứu can thiệp dinh dưỡng cho thấy cải thiện dinh dưỡng làm tăng khả năng sống sót, giảm biến chứng và rút ngắn thời gian nằm viện.
+Nuôi dưỡng qua đường tiêu hóa (oral feeding) sớm có kết quả tốt hơn so với nuôi dưỡng hoàn toàn bằng đường tĩnh mạch (Total Parenteral Nutrition-TPN). Nuôi dưỡng qua đường tiêu hóa sớm có tác dụng duy trì cấu trúc giải phẫu và chức năng của tế bào niêm mạc ruột, hạn chế tình trạng phát tán vi khuẩn và nội độc tố từ đường tiêu hóa vào tuần hoàn (bacterial and endotoxin translocation), duy trì chức năng các cơ quan tiêu hóa khác như tụy và gan. Ngoài ra, việc nuôi dưỡng hoàn toàn bằng đường tĩnh mạch còn làm tăng nguy cơ nhiễm trùng bệnh viện liên quan đến catheter.
+
+
+=== Các liệu pháp điều trị trong tương lai ===
+Protein nhóm B1 có tính di động cao (High-mobility group B1 protein - HMGB1)
+Yếu tố ức chế di chuyển đại thực bào (Macrophage migration inhibitory factor - MIF)
+Bổ thể C5a và receptor của nó (C5aR)
+Các chất ức chế chết tế bào theo chương trình (Apoptosis inhibitors)
+
+
+== Tham khảo ==
+Augus DC, Linde-Zwirbe WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001; 29: 1303-1310.
+Bernard GD, Mc Carthy R. The Pathophysiology and Treatment of Sepsis: A Review of Current Information. Medscape 2000.
+Cohen J. The immunopathogenesis of sepsis. Nature. 2002; 420: 885-891.
+Goldsrein B, Giroir B, Randolph A and the Members of the International Consensus Conference on Pediatric Sepsis. International pediatric sepsis conference: Definitions for sepsis and organ dysfunction in pediatrics. Pediatr Crit Care Med. 2005; 6: 2-8.
+Hotchkiss RD, Kurl IE. The Physiopathology and Treatment of Sepsis. N Eng J Med. 2003; 348: 138-150.
+Levy M, Fink M, Marshall JC et al. 2001 SCCM/ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference. Crit Care Med. 2003; 31: 1250-1256.
+Opal SM, Esmon CT. Bench-to-bedside review: functional relationships between coagulation and the innate immune response and their respective roles in the pathogenesis of sepsis. Crit Care. 2003; 7: 23-38.
+Riedemann NC, Ren-Feng Guo, Ward PA. Novel strategies for the treatment of sepsis. Nature Medicine. 2003; 9: 517-524.
+Sharma S, Kumar A. Septic Shock, Multiple Organ Failure, and Acute Respiratory Distress Syndrome. Curr Opin Pulm Med. 2003; 9: 199-209.
+
+
+== Xem thêm ==
+Nhiễm trùng
+Nhiễm trùng nội khoa
+Nhiễm trùng ngoại khoa
+
+
+== Tham khảo ==

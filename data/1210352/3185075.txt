@@ -1,0 +1,9 @@
+Tỷ lệ sống 5 năm là một loại tỷ lệ sống được dùng để ước tính tiên lượng của một bệnh đặc thù, thường được tính từ thời điểm được chẩn đoán bệnh. Thiên lệch thời gian (lead-time bias) do chẩn đoán sớm có thể ảnh hưởng đến việc giải thích về tỷ lệ sống 5 năm.
+
+
+== Sử dụng ==
+Tỷ lệ sống 5 năm có thể được sử dụng để so sánh hiệu quả của các phương pháp điều trị. Sử dụng số liệu thống kê của tỷ lệ sống 5 năm có ích trong trường hợp các bệnh tăng triển mà tuổi thọ người bệnh không còn nhiều sau khi được chẩn đoán (như ung thư phổi) và không có ích gì trong trường hợp mà bệnh nhân vẫn sống lâu sau chẩn đoán như ung thư tuyến tiền liệt.
+Những cải tiến trong tỷ lệ này đôi khi được cho là do những cải tiến trong chẩn đoán, chứ không phải là cải tiến trong tiên lượng.
+
+
+== Chú thích ==

@@ -1,0 +1,22 @@
+Trong lĩnh vực trí tuệ nhân tạo, neuro-fuzzy chỉ đến sự kết hợp giữa mạng nơron nhân tạo và logic mờ. Sự lai giữa Neuro-fuzzy là hệ trí tuệ nhân tạo lai sử dụng 2 kỹ thuật kết hợp giữa khả năng suy luận của logic mờ với khả năng học và cấu trúc kết nối của mạng nơron. Hệ lai neuro-fuzzy thường được đặt tên là Fuzzy-Neural Network (FNN) hoặc hệ Neuro-Fuzzy (Neuro-Fuzzy System NFS) trong thư viện. NFS (tên thường được gọi hơn từ đây về sau) hợp nhất giữa kiểu phản ứng giống con người thông qua hệ mờ và một tập luật mờ dạng IF-THEN. Sức mạnh của hệ lai là nó gần giống với luật IF-THEN có thể phiên dịch được.
+Sức mạnh của hệ neuro-fuzzy gồm hai yêu cầu trái ngược trong mô hình fuzzy: Tính thông dịch được và tính đúng đắn. Trong thực tế, một trong hai thuộc tính trên chiếm ưu thế. Neuro-fuzzy trong phạm vi nghiên cứu mô hình fuzzy được chia thành 2 vùng: Mô hình fuzzy ngôn ngữ học tập trung vào khả năng dịch được, chủ yếu là mô hình Mamdani, và mô hình fuzzy chính xác, tập trung vào tính chính xác, chủ yếu là mô hình Takagi-Sugeno-Kang (TSK).
+Thông qua việc hiện thực hóa hệ fuzzy qua mạng kết nối, những điều kiện sau cũng được sử dụng để mô tả một vài cấu hình khác, bao gồm:
+
+Tạo luật fuzzy từ việc dạy mạng RBF.
+Fuzzy logic trên cơ sở thông số học của mạng nơ ron.
+Điều kiện fuzzy logic để tăng kích thước mạng.
+Hiện thực hóa hàm thuộc thông qua thuật toán phân mảnh trong học không có thầy mạng SOM và mạng nơron.
+Hiện thực hóa hàm mờ, luật mờ và giải mờ thông qua mạng nhiều lớp lan truyền thẳng..
+Cần phải ghi chú rằng tính thông dịch được của hệ neuro-fuzzy kiểu Mamdami có thể bị mất. Để tăng cường tính thông dịch được của hệ neuro-fuzzy, một vài phép đo phải được thực hiện, mà ở đó vai trò quan trọng của việc thông dịch mạng neuro-fuzzy phải được thảo luận đến.
+
+
+== Xem thêm ==
+ANFIS
+Hệ trí tuệ nhân tạo lai
+Chương trình mạng nơ ron đa lớp (Multi Layer Neural Network) và mạng nơ ron tự tổ chức (Self Organizing Maps) có giải thích bằng tiếng Việt.
+Sử dụng phần mềm mạng nơ ron 3 lớp Spice-MLP
+Sử dụng phần mềm mạng tự tổ chức Spice-SOM
+Hướng dẫn sử dụng mạng nơ ron trong các ứng dụng thực tế trong đó có minh họa phân loại ảnh khuôn mặt, ảnh người đi bộ, ảnh xe hơi, dự báo chứng khoán và một số ví dụ khác
+
+
+== Tham khảo ==

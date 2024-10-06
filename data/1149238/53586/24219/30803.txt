@@ -1,0 +1,10 @@
+Tác tử phần mềm (tiếng Anh: software agent), gọi tắt là tác tử hay agent là một phần mềm (chương trình) máy tính tồn tại trong một môi trường nhất định, tự động hành động phản ứng lại sự thay đổi của môi trường nhằm đáp ứng mục tiêu đã được thiết kế trước. Nó có các tính chất sau:
+
+Tự động
+Bền bỉ
+Phản ứng tức thì
+Hướng mục tiêu
+Xã hội: thể hiện khả năng giao tiếp với tác tử khác hay với con người
+
+
+== Tham khảo ==

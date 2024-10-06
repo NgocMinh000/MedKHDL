@@ -1,0 +1,31 @@
+Hộp đen là một loại thiết bị lưu trữ thông tin thường được gắn trên các phương tiện giao thông và được thiết kế đặc biệt phù hợp riêng với từng loại phương tiện khác nhau. Có hai loại hộp đen phổ biến là hộp đen cho máy bay và trên các phương tiện xe cơ giới (cụ thể là ôtô).
+
+
+== Lịch sử ==
+Mục đích của Hộp đen ra đời nhằm ghi lại các dữ liệu của các chuyến bay, đề phòng trường hợp máy bay gặp nạn người ta có thể dựa vào thông tin từ hộp đen để tìm nguyên nhân gây tai nạn. Hộp đen do Tiến sĩ David Warren ở Melbourne, Australia phát minh vào khoảng năm 1954.
+
+
+== Thiết kế ==
+Hộp đen được thiết kế đặc biệt giúp nó chịu được va đập (3.400 Gs), và tồn tại được dưới sức ép (227 kg/6,5 cm²), nhiệt độ (1.100oC) mà không hư hại, chịu được nước muối (dưới đáy biển) 24-30 ngày không gỉ.
+Hộp đen ngày nay đã được cải tiến nhiều, gồm 2 phần chính: thiết bị ghi dữ liệu chuyến bay (FDR) và thiết bị ghi âm buồng lái (CVR). Các thông tin hành trình mà hộp đen ghi lại bao gồm tất cả hoạt động các máy bay từ khi bắt đầu cất cánh. FDR được nối với các thiết bị cảm ứng đặt ở nhiều nơi trên máy bay cung cấp các thông số thay đổi theo thời gian về hướng di chuyển, về tốc độ, về độ cao của máy bay, chênh lệch áp suất, điều khiển của tay lái, tình trạng nhiên liệu... Mỗi thông tin được ghi lại dưới dạng đường lỗ trong một dải kim loại mỏng. Thiết bị ghi này (FDR) được đặt chắc chắn trong một chiếc hộp để chống va đập, rất kín và không bắt lửa. Trong trường hợp tai nạn nó vẫn được bảo vệ nguyên vẹn. Riêng CVR được nối với những micro đặt trong buồng lái để ghi lại những âm thanh(như lời nói, tiếng bật công tắc, tiếng gõ cửa...). Thường có bốn cái, đặt trên đầu phi công chính, phi công phụ, phi công thứ 3 (nếu có) và ở giữa buồng lái. FDR có thể ghi dữ liệu 25 giờ và CVR thì ghi trong khoảng 2 giờ.
+Có tên gọi "hộp đen" vì ban đầu thiết bị này thường được sơn màu đen. Ngày nay nó được sơn các màu sáng, thường là màu cam để dễ tìm kiếm. Ngoài ra, hộp đen còn được trang bị một hệ thống dẫn giúp xác định vị trí của nó, rất cần khi nó bị rơi xuống nước (ULB). Thiết bị này có 2 "mắt thần", khi nước ngập đến mắt thần, thiết bị sẽ phát ra sóng âm thanh ở 37,5 kHz với tần suất 1 lần/giây trong suốt 30 ngày. Ngày nay, hộp đen không chỉ dùng trên máy bay mà còn dùng trên nhiều phương tiện khác như xe hơi, tàu lửa...
+
+
+== Hộp đen máy bay ==
+
+Hộp đen cho máy bay là hộp lưu trữ thông tin của chuyến bay nhằm nâng cao độ an toàn của máy bay. Để hộp đen có thể tồn tại, nguyên vẹn trong trường hợp có sự cố xảy ra với máy bay, vỏ thiết bị được làm bằng vật liệu siêu cứng chống va đập, không bắt lửa. Nó có dạng hình hộp, kích thước khoảng 20 cm x 30 cm, được đặt ở một nơi an toàn nhất trên máy bay và thường là ở đuôi máy bay để giảm thiểu các tác động khi máy bay rơi. Trong điều kiện hoạt động bình thường, hộp đen giúp người quản lý bay rút kinh nghiệm sau mỗi chuyến bay thông qua thông tin hành trình thu thập được.
+Khi có tai nạn máy bay, hộp đen sẽ là vật người ta tìm kiếm đầu tiên để phục vụ công tác thu thập thông tin, dữ liệu trước thời điểm xảy ra tai nạn. Buồng lái của phi công trên máy bay cũng có một thiết bị ghi âm các cuộc nói chuyện của tổ bay. Thiết bị ghi âm này và hộp đen, giúp tìm ra nguyên nhân dẫn đến tai nạn, ngay cả khi chuyến bay không còn một ai sống sót.
+
+
+== Hộp đen ô tô ==
+Hộp đen ô tô hay còn gọi là hộp đen GPS, chính là thiết bị định vị ô tô có kích thước khoảng 04 cm x 10 cm được thiết kế chắc chắn, có vỏ bằng kim loại chống va đập và chống sốc (en:shock), có thể hoạt động trong môi trường điều kiện thời thiết khắc nghiệt, thậm chí nhiệt độ lên đến 80°C. Hộp đen GPS sẽ được gắn bên trong xe ôtô và được kết nối với hệ thống máy chủ chuyên dụng, quản lý trực tuyến qua hệ thống SMS/GPRS/GPS (gọi là trung tâm giám sát); giúp người dùng có thể quản lý và giám sát các phương tiện của mình thông qua máy tính hoặc điện thoại có kết nối Internet. Các thông số về vị trí, tốc độ, quãng đường di chuyển, điểm dừng đỗ, đóng mở cửa, nhiên liệu... sẽ liên tục hoặc đều đặn được cập nhật về trung tâm và đều được hiện thị trên màn hình của người quản lý mọi lúc, mọi nơi trên thế giới.
+Ở Việt Nam, hiện nay các xe ôtô, đặc biệt là các xe thuộc các doanh nghiệp vận tải, khi đi đăng kiểm đều bắt buộc phải có trang bị hộp đen GPS mới được phép lưu hành. Đây cũng là một trong những bước tiến tiếp theo nhằm đến tương lai đáp ứng nhu cầu quản lý giao thông công cộng mà Việt Nam đang hướng đến.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Tích hợp dữ liệu hộp đen nâng tầm quản lý vận tải Lưu trữ 2013-08-23 tại Wayback Machine
+DNB, Katalog der Deutschen Nationalbibliothek
+Bộ lưu chuyến bay Flight recorder (recording instrument) tại Encyclopædia Britannica (tiếng Anh)

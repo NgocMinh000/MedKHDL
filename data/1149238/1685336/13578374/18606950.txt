@@ -1,0 +1,7 @@
+Khái quát hóa hay tổng quát hóa là một hình thức trừu tượng, theo đó các thuộc tính chung của các trường hợp cụ thể được coi là các khái niệm hoặc tuyên bố chung. Khái quát hóa đặt ra sự tồn tại của một miền hoặc tập hợp các yếu tố, cũng như một hoặc nhiều đặc điểm chung được các yếu tố đó cùng chia sẻ (do đó tạo ra một mô hình khái niệm). Như vậy, chúng là cơ sở thiết yếu của tất cả các suy luận suy diễn hợp lệ (đặc biệt là logic, toán học và khoa học), trong đó quá trình xác minh là cần thiết để xác định xem một khái quát có đúng với bất kỳ tình huống cụ thể nào không.
+Khái quát hóa cũng có thể được sử dụng để chỉ quá trình xác định các bộ phận của tổng thể, như thuộc về tổng thể. Các bộ phận, có thể không liên quan khi còn lại, có thể được kết hợp thành một nhóm, do đó thuộc về toàn bộ bằng cách thiết lập mối quan hệ chung giữa chúng.
+Tuy nhiên, các phần không thể được khái quát thành toàn bộ cho đến khi một mối quan hệ chung được thiết lập giữa tất cả các phần. Điều này không có nghĩa là các phần không liên quan, chỉ có điều chưa có mối quan hệ chung nào được thiết lập cho việc khái quát hóa.
+Khái niệm khái quát hóa có ứng dụng rộng rãi trong nhiều ngành kết nối, và đôi khi có thể có ý nghĩa cụ thể hơn trong bối cảnh chuyên ngành (ví dụ khái quát hóa trong tâm lý học, khái quát hóa trong học tập).
+
+
+== Tham khảo ==

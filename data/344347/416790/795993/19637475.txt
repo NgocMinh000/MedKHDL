@@ -1,0 +1,36 @@
+Làm phẳng đường cong là một chiến lược y tế công cộng nhằm làm chậm sự lây truyền của virus SARS-CoV-2 trong đại dịch COVID-19. Đường cong ở đây là đường cong dịch bệnh, biểu diễn số người nhiễm bệnh cần chăm sóc y tế qua thời gian. Trong dịch bệnh, một hệ thống chăm sóc y tế có thể bị sụp đổ khi số người nhiễm bệnh vượt quá khả năng chăm sóc của hệ thống. Làm phẳng đường cong nghĩa là làm chậm sự lây lan của dịch, nhờ đó số lượng người tối đa cần được chăm sóc tại một thời điểm được giảm thiểu, và hệ thống chăm sóc y tế không phải tiếp nhận lượng bệnh nhân vượt công suất. Việc làm phẳng đường cong dựa nhiều vào các biện pháp phòng ngừa như rửa tay, đeo khẩu trang và giãn cách xã hội.
+Một biện pháp kết hợp với việc làm phẳng đường cong là nâng cao năng lực chăm sóc y tế, hay còn gọi là "nâng cao đường thẳng". Theo như mô tả trong một bài viết trên The Nation, "để ngăn một hệ thống chăm sóc y tế bị quá tải đòi hỏi xã hội cần thực hiện hai điều: 'làm phẳng đường cong'—tức là làm chậm tốc độ lây nhiễm để số ca cần nhập viện trong một thời điểm không quá lớn—và 'nâng cao đường thẳng'—tức là nâng cao năng lực điều trị lượng lớn bệnh nhân của hệ thống bệnh viện." Tính đến  tháng 4 năm 2020, trong đại dịch COVID-19, hai biện pháp chính được sử dụng đó là tăng số lượng giường bệnh ICU và máy thở có sẵn; cả hai hiện đều đang bị thiếu hụt trầm trọng.
+
+
+== Bối cảnh ==
+Các cảnh báo về rủi ro đại dịch đã liên tiếp được đưa ra trong suốt các thập niên 2000 và 2010 bởi các tổ chức quốc tế như Tổ chức Y tế Thế giới (WHO) và Ngân hàng Thế giới, đặc biệt là sau dịch SARS 2002–2004. Tại các nước như Hoa Kỳ và Pháp, trong những khoảng thời gian trước đại dịch cúm 2009 và cả những năm trước đại dịch COVID-19, công suất chăm sóc y tế đều đã được nâng cấp rồi sau đó lại được thu gọn. Vào thời điểm xảy ra đại dịch COVID-19, các hệ thống chăm sóc y tế tại nhiều nước đang hoạt động với công suất tối đa.
+Trong tình huống như thế nào, khi một đợt dịch quy mô lớn mới xuất hiện, một bộ phận những bệnh nhân nhiễm bệnh có triệu chứng sẽ làm tăng nhu cầu chăm sóc y tế, điều mà vốn mới chỉ được dự đoán qua thống kê, đồng thời những thông số như thời điểm bắt đầu dịch, tính lây nhiễm và độc tính của bệnh đều không thể biết trước. Nếu nhu cầu vượt quá đường thẳng công suất trên đường cong số ca nhiễm mỗi ngày, các cơ sở y tế hiện có sẽ không thể xử lý được tất cả các bệnh nhân, khiến tỷ lệ tử vong cao hơn cả khi đã có biện pháp chuẩn bị.
+Một nghiên cứu đáng chú ý tại Anh cho thấy nếu nước này áp dụng một chiến lược ứng phó COVID-19 lỏng lẻo, số giường bệnh ICU cần thiết để điều trị bệnh nhân có thể tăng lên tới 46 lần. Một thách thức lớn trong quản lý y tế công cộng là làm sao giữ cho làn sóng bệnh nhân cần chăm sóc y tế và sử dụng các nguồn lực ở mức vừa phải.
+
+
+== Làm phẳng đường cong ==
+
+Các biện pháp can thiệp không dùng thuốc như rửa tay, giãn cách xã hội, cách ly và khử trùng có thể làm giảm số ca lây nhiễm hàng ngày, nhờ đó làm phẳng đường cong dịch bệnh. Đường cong được làm phẳng thành công giúp cho nhu cầu chăm sóc y tế được kéo giãn qua thời gian và giữ cho số trường hợp phải nhập viện lúc cao điểm nằm dưới đường thẳng công suất chăm sóc y tế. Nếu thực hiện được, các nguồn lực, bao gồm cả trang thiết bị và nhân lực, sẽ không bị quá tải và thiếu hụt. Tại các bệnh viện, các nhân viên y tế ngoài việc phải sử dụng các thiết bị và quy trình bảo hộ hợp lý còn phải phân tách các bệnh nhân và nhân viên bị nhiễm bệnh khỏi những người khác để tránh tình trạng lây nhiễm trong bệnh viện.
+
+
+== Nâng cao đường thẳng ==
+Ngoài nỗ lực làm phẳng đường cong thì cũng cần thiết phải thực hiện song song việc "nâng cao đường thẳng", tức là tăng công suất của hệ thống chăm sóc y tế. Công suất chăm sóc y tế có thể được cải thiện bằng cách nâng cấp trang thiết bị, đào tạo nhân lực, cung cấp dịch vụ y tế từ xa, chăm sóc sức khỏe tại nhà và giáo dục y tế cho người dân. Các thủ thuật không cấp thiết có thể được hủy hoãn để giải phóng nguồn lực. Nâng cao đường thẳng nhằm cung cấp đầy đủ các trang thiết bị và nguồn cung y tế cho nhiều bệnh nhân hơn.
+
+
+== Trong đại dịch COVID-19 ==
+
+Khái niệm làm phẳng đường cong trở nên phổ biến trong những tháng đầu của đại dịch COVID-19.
+Theo Vox, để kết thúc giãn cách xã hội và trở về trạng thái bình thường, Hoa Kỳ cần làm phẳng được đường cong qua cách ly và xét nghiệm diện rộng, đồng thời cũng phải nâng cao đường thẳng. Vox đề xuất nâng cao khả năng chăm sóc y tế qua các biện pháp như xét nghiệm diện rộng, phát triển các phần mềm và cơ sở vật chất để truy vết và cách ly người nhiễm bệnh, đồng thời mở rộng quy mô chăm sóc y tế bằng cách giải quyết việc thiếu hụt thiết bị bảo hộ cá nhân và khẩu trang.
+Theo The Nation, các lãnh thổ có nền tài chính và công suất chăm sóc y tế thấp như Puerto Rico phải đối mặt với một cuộc chiến khó khăn để nâng cao đường thẳng, và do đó bắt buộc phải tập trung hơn vào việc làm phẳng đường cong.
+Vào tháng 3 năm 2020, Giáo sư chuyên ngành Kinh tế và Luật Aaron Edlin thuộc trường Đại học California tại Berkeley bình luận rằng ngoài các nỗ lực làm phẳng đường cong quy mô lớn đang được thực hiện thông qua các gói khẩn cấp trị giá hàng nghìn tỷ đôla, cần phải thực hiện song song việc nâng cao đường thẳng và nâng cấp công suất chăm sóc y tế bằng những nỗ lực tương đương. Edlin kêu gọi kích hoạt Đạo luật Sản xuất Quốc phòng để công ty có thể sản xuất được các loại nước sát trùng, thiết bị bảo hộ cá nhân và máy thở cần thiết, đồng thời có khả năng thiết lập hàng ngàn cho tới hàng triệu giường bệnh theo nhu cầu của bệnh nhân. Dựa vào các tính toàn từ tháng 3 năm 2020, Edlin kêu gọi xây dựng từ 100-300 bệnh viện cấp cứu để đối mặt với điều mà ông mô tả là "thảm họa y tế lớn nhất trong 100 năm", đồng thời đưa vào áp dụng các pháp chế về chăm sóc y tế để tránh phải thực hiện các thủ tục khẩn cấp trong thời gian đại dịch. Edlin chỉ ra rằng các gói kích thích tăng trưởng được đề xuất chỉ nhắm tới xoa dịu sự hoảng loạn về tài chính, chứ không đánh trúng vào vấn đề cốt lõi của đại dịch: khả năng chăm sóc y tế.
+Vào đầu tháng 5, một cộng tác viên về vấn đề y tế của Forbes đăng tải bài viết với nội dung: "Tenet Healthcare cho biết hơn 60 bệnh viện đang 'không bị quá tải' trước số lượng bệnh nhân bị nhiễm chủng virus corona COVID-19, dấu hiệu mới nhất của việc hệ thống chăm sóc y tế Mỹ có thể đang xử lý hiệu quả trước đại dịch", từ đó cho thấy rằng mục tiêu làm phẳng đường cong xuống dưới mức công suất chăm sóc y tế đã đạt thành công bước đầu. Tới năm 2021, cụm từ "làm phẳng đường cong" gần như không còn xuất hiện nhiều trong truyền thông y khoa.
+
+
+== Xem thêm ==
+
+Hệ số lây nhiễm cơ bản (R0)
+Phong tỏa dịch bệnh
+Danh sách quốc gia theo số giường bệnh
+
+
+== Tham khảo ==

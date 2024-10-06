@@ -1,0 +1,73 @@
+Kinh tế thần kinh học (kinh tế học não trạng) kết hợp thần kinh học, kinh tế học, tâm lý học để tìm hiểu bằng cách nào con người ra quyết định; xem xét vai trò của não bộ khi đánh giá quyết định, phân loại rủi ro, tưởng thưởng (kỳ vọng) trong mối tác động lên nhau.
+
+
+== Với các khoa học khác ==
+
+
+=== Thần kinh học ===
+Thần kinh học nghiên cứu các hệ thống thần kinh, bao gồm các vùng rộng như cảm giác, chuyển động, và sự điều chỉnh bên trong. Kinh tế thần kinh học nghiên cứu chuyên sâu về những lựa chọn & quyết định cá nhân và các nơ-ron đơn lẻ, mạng nơ-ron được sử dụng như thế nào trong quá trình lựa chọn & quyết định cá nhân.
+
+
+=== Kinh tế học ===
+Kinh tế học nghiên cứu các lựa chọn & quyết định, bao gồm các vùng rộng như kinh tế học vĩ mô dành cho các nhóm lớn & kinh tế học vi mô dành cho cá nhân. Kinh tế thần kinh học nghiên cứu chuyên sâu về lựa chọn cá nhân, những thay đổi thuộc về tinh thần trong mối tương liên với các lựa chọn hoặc là nguyên nhân gây ra lựa chọn. Chìa khóa để thấu hiểu điều này nằm ở chỗ các sinh vật sống có thể được cấu tạo như một giải pháp tối ưu để tồn tại và tái cấu trúc (sửa chữa lỗi, sinh sản) nhằm chống lại sự biến hóa của môi trường.
+
+
+=== Nghiên cứu kinh doanh ===
+Kinh tế thần kinh học cũng kết hợp chặt chẽ với những khía cạnh của hoạt động kinh doanh (consumer neuroscience, neurofinance, organizational decision making).
+
+
+=== Tâm lý học ===
+Tâm lý học nghiên cứu về tư duy và tri giác, gồm các vùng rộng như ngôn ngữ, nhận thức, ký ức, tâm lý nhóm và tâm lý học dị thường. Kinh tế thần kinh học nghiên cứu trọng tâm về ý muốn đối với các quyết định, đặc biệt là nhận thức xảy ra khi con người đã hiểu được các quyền lựa chọn và chọn một phương án nào đó.
+Kinh tế thần kinh học hướng tới tìm kiếm những kết quả để xác nhận những cảm xúc (gồm hy vọng và sợ hãi) là nhân tố quan trọng trong rất nhiều lựa chọn thuộc về kinh tế.
+
+
+== Các thí nghiệm ==
+Trong một thí nghiệm tiêu biểu cho hành vi kinh tế học, một vấn đề được đem ra bàn thảo như một chuỗi các quyết định kinh tế. Ví dụ, một vấn đề có thể được đem ra hỏi đó là những người tham gia thí nghiệm sẽ chọn cái gì trong 2 quyền lựa chọn: hoặc nhận được 50 cents, hoặc một ván bài (một canh bạc) với 50% cơ hội nhận được 1 dollar & 50% cơ hội không nhận được gì cả. Người tham gia thí nghiệm sẽ được đo bằng các thông số khác nhau để xác định cái đang diễn ra trong não họ trong quá trình ra quyết định. Những thí nghiệm đơn giản nhất ghi lại những quyết định của vấn đề với những tham số đầu vào khác nhau (như điều gì sẽ xảy ra nếu quyền lựa chọn chỉ còn là 42 cents), và những dữ liệu để lập mô hình chuẩn dùng để tiên đoán hành vi thực hiện. Với những thí nghiệm kiểu này, Daniel Kahneman đã giành được giải Nobel kinh tế.
+Kinh tế thần kinh học mở rộng hướng tiếp cận của kinh tế học hành vi bởi việc thêm sự quan sát đối với hệ thống thần kinh vào tập hợp biến để giải thích các quyết định kinh tế.
+Trong các thí nghiệm thuộc kinh tế thần kinh học, não người được quan sát bởi các máy quét cộng hưởng từ (fMRI) hoặc máy ghi bức xạ điện tích dương (PET) để so sánh vai trò của các vùng não bộ khác nhau có tác động như thế nào trong quá trình ra quyết định (đo các thay đổi trong mạch máu, kết hợp với phần mềm máy điện toán để tìm ra các hoạt động của nơ-ron thần kinh). Thí nghiệm khác có thể dùng máy ERP (event-related potentials, liên quan gần gũi với máy EEG) và MEG (magnetoencephalograms) đo diễn tiễn theo thời gian của các sự kiện khác nhau xảy ra trong não bộ góp phần tạo ra quyết định kinh tế.
+Những thí nghiệm phức tạp nhất liên quan đến việc trực tiếp đến việc ghi nhận (đôi khi tập trung vào các nơron chuyển tin) những nơron trên khỉ và người.
+
+
+== Phê bình ==
+Ariel Rubinstein là nhà bình luận nổi tiếng về kinh tế thần kinh học. Tại cuộc họp Econometric Society năm 2005, ông đã ám chỉ rằng "kinh tế thần kinh học đã đòi hỏi quá đáng về vai trò của nó" ("a field that oversells itself", xem Rubinstein (2006)).
+Năm 2005, Gul và Pesendorfer đã tranh luận rằng phương pháp luận của kinh tế thần kinh học trả lời không thích đáng các câu hỏi, bởi những tập trung phần lớn vào việc cung cấp những cảm giác thỏa mãn đối với những vấn đề được đem ra thí nghiệm hơn là những hậu quả kinh tế đầu ra bởi những lựa chọn đó đã "bỏ qua" nhiều tùy chọn thực. Tuy nhiên nghiên cứu kinh tế thần kinh học đã có thể cung cấp nhiều thấu hiểu hơn đối với một số hành vi nào đó mà không thể giải thích được bằng cách phương pháp đã có trước đây. [citation needed]
+
+
+== Phân nhánh ==
+Mặc dù có nhiều chỉ trích nhưng gần đây kinh tế thần kinh học đã tiếp cận đến sinh vật học và hành vi con người, mở ra một hứa hẹn góp phần mở rộng kiến thức bên trong những vùng hạn chế. Những cách tiếp cận kinh tế thần kinh học đã được áp dụng đa dạng như cung cấp những lý do nghi ngờ về hành vi phạm tội hoặc những nhu cầu về dịch vụ truyền thông.
+Một vài người cho rằng kinh tế thần kinh học có thể trở thành một công cụ hấp dẫn dành cho các nhà quảng cáo tác động đến các quyết định mua hàng, và đó là cái mà khách hàng cần phải nhận dạng.
+
+
+== Xem thêm ==
+Neuromarketing (kinh doanh thương mại thần kinh)
+Kinh tế học hành vi
+Colin Camerer
+David Laibson
+Kevin McCabe
+Ernst Fehr
+Paul J. Zak
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+
+=== Các trung tâm & tổ chức ===
+Applied Neuroscience, Austria Lưu trữ 2016-10-18 tại Wayback Machine
+Association for NeuroPsychoEconomics Lưu trữ 2007-09-27 tại Wayback Machine
+The Center for the Study of Neuroeconomics
+George Mason University
+Center for Neuroeconomic Research, University of South Carolina Lưu trữ 2011-12-14 tại Wayback Machine
+Center for Neuroeconomic Studies
+Neuroeconomics Lab Bonn
+Muenster Research Group on Neuroeconomics
+Journal: NeuroPsychoEconomics Lưu trữ 2007-09-27 tại Wayback Machine
+Society for Neuroeconomics
+
+
+=== Hội nghị và ấn phẩm ===
+Scholarpedia neuroeconomics
+"Neuroeconomics"
+Kinh tế học não trạng, Hoàng Quang Tuyến, Trang mạng thành phố Đà Nẵng

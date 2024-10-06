@@ -1,0 +1,26 @@
+Imiquimod (INN) là một loại thuốc theo toa, hoạt động như một trình sửa đổi đáp ứng miễn dịch và được sử dụng để điều trị mụn cóc sinh dục, ung thư biểu mô tế bào đáy, và dày sừng quang hóa. Các nhà khoa học tại công ty con dược phẩm của 3M phát hiện ra chất này và 3M đã được chấp thuận của FDA vào năm 1997 để sản xuất thuốc này dưới thương hiệu Aldara. Tính đến năm 2015 imiquimod là thuốc đại trà và có sẵn trên toàn thế giới dưới nhiều thương hiệu.
+
+
+== Dược lực học ==
+Imiquimod là một tác nhân điều biến miễn dịch, kích thích đáp ứng miễn dịch bẩm sinh và miễn dịch mắc phải thông qua cảm ứng interferon α (IFN-α) và tăng sinh các đại thực bào, bạch cầu đơn nhân, tế bào lympho B, đặc biệt là tế bào tua gai.
+Imiquimod hoạt hóa tế bào miễn dịch bằng cách tác động lên TLR7 và TLR8 sau đó hoạt hóa yếu tố NF-κB (nuclear factor-kappa B) và cảm ứng các cytokin, chemokin của quá trình viêm và các trung gian hóa học khác như IFN-α, yếu tố gây hoại tử khối u (TNFα), interleukin IL -2, IL - 6, IL - 8, IL - 12.
+Imiquimod không có hoạt tính kháng virus trên in-vitro. Hoạt tính kháng virus gián tiếp thông qua những cytokin và hoạt hóa hệ thống miễn dịch.
+Không những tăng cường kích thích các tế bào tua gai sản xuất cytokin của quá trình viêm, imiquimod còn tăng biểu hiện của dấu ấn CCR7 giúp tế bào tua gai di chuyển vào trong các mạch máu và hạch bạch huyết, cải thiện khả năng sống sót của các tế bào tua.
+Một vai trò quan trọng khác của imiquimod là hỗ trợ cho sự trưởng thành của tế bào tua gai. Tuy nhiên, mức độ di chuyển đến da vẫn chưa được xác định.
+Imiquimod cũng kích thích sự tăng sinh của tế bào lympho B in-vitro
+
+
+== Dược động học ==
+Trên đối tượng có da lành lặn (n=6), sau khi bôi một liều 5 mg imiquimod [C14], nồng độ imiquimod [C14] không thể định lượng trong huyết thanh (nhỏ hơn 1 ng/mL trên những đối tượng trên), và chỉ có 0,9% imiquimod tìm thấy trong nước tiểu và phân.
+Trên những bệnh nhân bị mụn cóc ở bộ phận sinh dục hoặc bị mụn cóc quanh hậu môn (n=12) được điều trị với Imiquimod trong 3 lần 1 tuần trong 16 tuần, đỉnh nồng độ của thuốc trong huyết thanh nằm trong khoảng 0,1 - 0,3 ng/ml được tìm thấy trong suốt quá trình nghiên cứu.
+Như vậy, Imiquimod hấp thu qua da rất hạn chế.
+Nghiên cứu trên invitro, 90 – 95% imiquimod liên kết với protein huyết tương và không phụ thuộc vào nồng độ của thuốc trong ngưỡng trị liệu.
+Thời gian bán hủy của thuốc tại vùng bôi điều trị là 24 giờ.
+
+
+== Biệt dược ==
+Brand name: Aldara, Zyclara
+Generic: You care cream 5%
+
+
+== Tham khảo ==

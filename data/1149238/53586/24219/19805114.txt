@@ -1,0 +1,10 @@
+Microsoft Copilot là một tính năng trợ lý sử dụng công nghệ trí tuệ nhân tạo dành cho các ứng dụng và dịch vụ của Microsoft 365. Được Microsoft công bố vào ngày 16 tháng 3 năm 2023, công cụ này hoạt động dựa trên Mô hình ngôn ngữ lớn (LLM) GPT-4 tiên tiến của OpenAI và tích hợp Microsoft Graph để chuyển đổi văn bản nhập của người dùng thành nội dung trong Microsoft 365, chẳng hạn như Word, Excel, PowerPoint, Outlook và Teams.  
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Thông báo ngày 16 tháng 3 trên blog của Microsoft
+Introducing Microsoft 365 Copilot | Your Copilot for Work trên YouTube
+Tóm tắt sự kiện Microsoft 365 Copilot AI trong chưa đầy 3 phút

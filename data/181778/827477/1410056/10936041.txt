@@ -1,0 +1,14 @@
+Glutathione (GSH) là chất chống oxy hóa có trong thực vật, động vật, nấm, vi khuẩn và vi khuẩn cổ. Glutathione có khả năng ngăn ngừa một số chất thuộc dạng oxy hoạt động (ROS - Reactive Oxygen Species) gây tổn hại cho tế bào, ví dụ: gốc tự do, peroxid, peroxy hóa lipid, và kim loại nặng. Đây là tripeptide chứa một liên kết peptide gamma giữa nhóm carboxyl của mạch bên glutamat với nhóm amin của cystein, và nhóm carboxyl của cystein liên kết peptid với glycin.
+Nhóm thiol là nhóm khử, tồn tại với mật độ khoảng 5 mM trong tế bào động vật. Glutathione khử các liên kết disulfua hình thành bên trong protein tế bào chất thành cystein bằng cách cho electron. Trong quá trình này, glutathione chuyển thành dạng oxy hóa là glutathione disulfua (GSSG), còn có tên khác là L-(–)-glutathione.
+Sau khi được oxy hóa, glutathione được reductase glutathione khử trở lại có sử dụng NADPH (chất cho electron). Tỷ lệ dạng glutathione khử so với dạng glutathione oxy hóa bên trong tế bào là thước đo ứng kích oxy hóa của tế bào.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+Glutathione bound to proteins in the PDB
+Risk Factors

@@ -1,0 +1,80 @@
+Virus cúm loại A phân tuýp H5N1 (tiếng Anh: Influenza A virus subtype H5N1), viết tắt là A(H5N1) hoặc H5N1, phổ thông gọi là virus cúm H5N1 hoặc virus H5N1, là một phân tuýp gây bệnh cao của virus cúm gia cầm loại A, có sẵn hemagglutinin tuýp 5 (H5) và neuraminidase tuýp 1 (N1). Virus cúm A(H5N1) có nguồn gốc từ gia cầm và chim hoang dã, có thể gây tử vong ở người và một số động vật khác. Tuy nhiên, virus này có khác biệt với virus cúm ở người, không dễ dàng lây truyền rộng khắp giữa người với người.
+Có một chủng virus H5N1 lây truyền giữa chim với gia cầm gọi là H5N1 subtype (HPAI A(H5N1), chủng virus này chính là nguồn gây bệnh cúm H5N1. Tính truyền nhiễm của virus này trong quần thể chim rất mạnh, phát bệnh đột ngột, triệu chứng nghiêm trọng, tử vong cấp tốc, do đó thuộc về cúm gia cầm có tính gây bệnh cao (HPAI, highly pathogenic avian influenza). Đây là một loại bệnh lưu hành động vật (không lây truyền giữa người với người) và bệnh lây truyền từ động vật sang người (zoonosis), có thể lây lan giữa nhiều loài.
+Thông thường, những virus cúm này lan truyền trên thế giới bằng cách kí sinh ở tế bào ruột non của các loài chim di cư, khi đó chúng là những chủng H5N1 không gây chết. Tuy nhiên, những chủng virus này có thể bị đột biến và trở thành chủng cúm gia cầm có độc tính cao nhất từ trước đến giờ. Điều này cũng tương tự như cơ chế của chủng virus H1N1 đã gây ra đại dịch cúm Tây Ban Nha vào năm 1918.
+Virus H5N1 lần đầu tiên được phát hiện chính xác trong ngỗng nhà ở tỉnh Quảng Đông, Trung Quốc vào năm 1996. Virus H5N1 chủ yếu truyền nhiễm cho chim và gây ra cúm gia cầm. Khi lây lan ở Hồng Kông vào năm 1997, rất nhiều gà ở nông trường sau khi bị truyền nhiễm lập tức chết ngay, đồng thời đánh dấu virus H5N1 lần đầu tiên truyền nhiễm sang người, khiến cho một em học sinh trường mẫu giáo tử vong. Tính đến ngày 28 tháng 2 năm 2008, trên thế giới đã có 369 trường hợp người nhiễm virus H5N1 và trong đó 234 người đã tử vong. Quốc gia chịu tổn thất về người nặng nề nhất là Indonesia và Việt Nam (xem chi tiết). Từ năm 2003 đến năm 2015, toàn thế giới báo cáo 630 bệnh nhân lên Tổ chức Y tế Thế giới, trong đó 375 người tử vong, tỉ lệ tử vong khoảng 60%; những ca bệnh báo cáo được chẩn đoán chính xác này toàn bộ phát sinh ở khu vực Đông Nam Á (Việt Nam, Indonesia, Thái Lan, Campuchia) và Trung Quốc. Ngày 9 tháng 3 năm 2006, Tổ chức Y tế Thế giới báo cáo "Bản đồ toàn cầu và quốc gia cúm H5N1", bản đồ này gây tranh cãi giữa Trung Quốc và Đài Loan, WHO căn cứ nguyên tắc Một Trung Quốc mà coi Đài Loan là vùng truyền nhiễm. Ngày 10 tháng 3 năm 2006, Tổ chức Y tế Thế giới tuyên bố công khai, Đài Loan không có bất kì ca bệnh cúm gia cầm H5N1 truyền nhiễm ở người hoặc gia cầm, không phải là vùng truyền nhiễm.
+Ngày 2 tháng 5 năm 2013, các nhà khoa học Trung Quốc nói trong bài báo cáo đăng trên tạp chí "Science" bản online của Mĩ rằng, họ đã "giải mã" cơ chế phân tử truyền nhiễm sang người của virus cúm gia cầm H5N1, phát hiện này có ý nghĩa trọng yếu đối với việc ngăn chặn virus cúm gia cầm khuếch tán.
+Ngày 2 tháng 2 năm 2020, Bộ Nông nghiệp và Nông thôn Trung Quốc thông báo tình trạng bùng phát chủng cúm gia cầm H5N1 tại một trang trại ở thành phố Thiệu Dương, tỉnh Hồ Nam. Đã có 4.500 trên tổng số 7.850 con gà của trang trại này chết vì nhiễm H5N1. Giới chức Thiệu Dương đã tiến hành các biện pháp cần thiết để kiểm soát dịch, trong đó có tiêu huỷ 17.828 gia cầm.
+Ngày 8 tháng 11 năm 2021, Bộ Nông nghiệp Anh Quốc chứng thực, một trang trại chăn nuôi gia cầm quy mô nhỏ ở Warwickshire, miền trung xứ Anh, đã bùng phát dịch bệnh cúm gia cầm H5N1 có tính gây bệnh cao.
+Tổ chức Y tế Thế giới (WHO) ngày 19 tháng 4 năm 2024 thông báo đã phát hiện virus cúm gia cầm H5N1 trong sữa tươi nguyên liệu từ động vật bị nhiễm bệnh, tuy nhiên chưa rõ virus này có thể tồn tại trong sữa bao lâu.
+
+
+== Hiểu rõ virus cúm ==
+Virus cúm có 3 loại hình: loại A, B và C. Virus cúm loại A truyền nhiễm cho người và nhiều loài động vật khác. Virus cúm loại B chỉ lây truyền giữa người với người, đồng thời gây ra bệnh lưu hành theo mùa - tiết khí. Virus cúm loại C không những truyền nhiễm cho người mà còn truyền nhiễm cho lợn, nhưng bệnh tình thường khá là ôn hoà, hơn nữa rất ít tiến hành báo cáo.
+Màng bên ngoài của virus cúm do hai loại glycoprotein bề mặt che phủ, một loại là phytohaemagglutinin (tức là H), một loại là neuraminidase (tức là N), căn cứ vào tình huống kết hợp protein bề mặt giữa hemagglutinin (H) và neuraminidase (N) của nhiều chủng virus khác nhau, virus cúm loại A lại phân loại thành phân tuýp (subtype). Có 18 phân tuýp hemagglutinin khác nhau và 11 phân tuýp neuraminidase khác nhau.
+Căn cứ vào nguồn vật chủ, virus cúm loại A có thể phân loại thành virus cúm gia cầm, virus cúm lợn hoặc virus cúm của các loài động vật khác. Ví dụ, virus cúm A(H5N1), virus cúm A(H9N2), virus cúm A(H1N1) và virus cúm A(H3N2). Virus cúm động vật loại A có khác biệt với virus cúm ở người, hơn nữa không dễ dàng lây truyền giữa với người.
+Virus gây bệnh nghiêm trọng ở loài chim, gia cầm, đồng thời hình thành tỉ lệ tử vong rất cao được gọi là cúm gia cầm có tính gây bệnh cao. Virus gây bùng phát bệnh tật ở loài chim, gia cầm nhưng thường không dính líu đến bệnh tật nghiêm trọng được gọi là cúm gia cầm có tính gây bệnh thấp. Tất cả virus cúm ở người đều có thể gây cúm ở loài gia cầm, nhưng không phải tất cả virus cúm gia cầm đều có thể gây cúm ở người.
+
+
+== Đường lây nhiễm ==
+Các chủng của virus cúm gà có thể xâm nhiễm vào nhiều loại động vật khác nhau như chim, lợn, ngựa, hải cẩu, cá voi và con người. Bệnh cúm gà lây truyền qua không khí và phân bón, nhưng cũng có thể gây nhiễm trên thức ăn, nước, dụng cụ và quần áo. Tuy nhiên, hiện giờ chưa có bằng chứng thực nghiệm nào cho thấy virus cúm gà có thể sống sót trong thức ăn đã được nấu chín.
+Thời kỳ ủ bệnh từ 3 đến 5 ngày. Triệu chứng mắc bệnh ở các động vật là khác nhau, nhưng một số biến thể virus có thể dẫn đến tử vong chỉ trong vòng vài ngày.
+
+
+== Tác hại và triệu chứng ==
+
+Giống như các loại cúm khác, các triệu chứng điển hình của cúm H5N1 là sốt, ho, đau họng, đau nhức cơ bắp, viêm màng kết; ở những trường hợp nghiêm trọng, có thể gây suy giảm hô hấp và viêm phổi, dẫn đến tử vong. Mức độ nghiêm trọng của bệnh phụ thuộc phần lớn vào thể trạng sức khoẻ, khả năng miễn dịch, tiền sử tiếp xúc virus của người bị nhiễm.
+
+
+== Phòng chống và điều trị ==
+Cúm gà ở người có thể được phát hiện qua những xét nghiệm cúm thường. Tuy nhiên, những xét nghiệm này không phải luôn đáng tin cậy. Vào tháng 3 năm 2005, Tổ chức Y tế Thế giới thông báo rằng có vài người Việt Nam có xét nghiệm âm tính đối với cúm gà lúc ban đầu nay đã có phát hiện có nhiễm virus. Những người đó sau này đều đã bình phục.
+Hiện nay, các xét nghiệm chẩn đoán nhiễm H5N1 đáng tin cậy đều phải yêu cầu sử dụng virus sống để tương tác với những kháng thể có trong máu của bệnh nhân. Vì lý do an toàn sinh học, các xét nghiệm đều phải được tiến hành trong các phòng thí nghiệm độ an toàn cấp 3.
+Thuốc chống virus đôi khi hữu hiệu trong cả ngăn ngừa và trị bệnh, nhưng chưa có một loại virus nào thực sự được chữa lành trong lịch sử y học. Vắc xin, tuy nhiên, mất tối thiểu 4 tháng để sản xuất và phải được chuẩn bị riêng cho mỗi loài biến thể.
+
+
+== Phòng ngừa đại dịch ==
+
+Tổ chức Y tế Thế giới (WHO) đã đưa ra cảnh báo rằng đại dịch cúm đang đến gần, và nhiều khả năng là do một biến chủng của virus cúm gia cầm H5N1. Để chuẩn bị đối phó, các quốc gia phải bắt đầu vạch kế hoạch chi tiết khi tình huống đại dịch diễn ra. Các biện pháp khẩn cấp có thể tiến hành là phân vùng, giới hạn sự lan truyền, tiêu huỷ và tiêm vaccin đối với gia cầm. Ngoài ra, các kế hoạch dài hạn cần phải thực thi là thay đổi dần lối sống, phương pháp chăn nuôi gia cầm của các vùng dân cư có nguy cơ cao.
+WHO đã chia dịch cúm thành 6 giai đoan, từ mức độ chỉ là nguy cơ nhỏ cho đến khi đại dịch bùng phát và lan tràn. Hầu hết các tổ chức y tế của các quốc gia đều cho tự đánh giá hiện nay (năm 2005) đang năm ở giai đoạn 3 của dịch, điều đó thừa nhận sự gây nhiễm trên người của một chủng virus mới này đã xây ra nhưng có rất ít bằng chứng về sự lan truyền virus từ người sang người.
+
+
+== Truyền nhiễm ==
+Chim bị nhiễm virus phóng thích H5N1 trong nước bọt, dịch mũi và phân. Những con khác có thể bị lây nhiễm qua tiếp xúc trực tiếp với các chất tiết trên hoặc khi gián tiếp qua các bề mặt bị ô nhiễm bởi các chất trên.
+Các loài chim di trú là một trong những nguồn phát tán H5N1, nên virus này có nguy cơ lan rộng trên thế giới. Những đợt bùng phát cúm gia cầm thường xuất phát từ những khu vực đông đúc ở Đông Á và Đông Nam Á, nơi mà người, lợn, gia cầm sống rất gần gũi. Trong những điều kiện như vậy, virus có thể đột biến thành một dạng khả dĩ lây sang người.
+Đa số các ca nhiễm H5N1 được báo cáo đều xảy ra ở Đông Á và Đông Nam Á. Khi một đợt bùng phát được phát hiện, các chính quyền địa phương thường ra lệnh hủy diệt hàng loạt các loại chim và thú bị dịch. Nếu thực hiện kịp thời biện pháp này, người ta có thể phòng được một đợt bùng phát của dịch cúm gia cầm. Tuy nhiên Tổ chức Sức khỏe Thế giới (TCSKTG) cũng bày tỏ lo ngại rằng các nước đã báo dịch đã không báo cáo đầy đủ như yêu cầu. Chẳng hạn như Trung Quốc, nổi tiếng qua vụ che giấu các đợt bùng phát của SARS và HIV cách đây ít lâu.
+
+
+=== Phòng ngừa ===
+
+Biện pháp phòng ngừa hiện hành đối với động vật là tiêu hủy những vật bị nhiễm bệnh hoặc nghi ngờ nhiễm bệnh. Hàng triệu gia cầm ở Đông Nam Á đã bị hủy diệt.
+Các Trung tâm Dự phòng và Kiểm soát bệnh đã khuyến cáo du khách đến các vùng có dịch tại châu Á cần tránh tiếp xúc với các gia súc, gia cầm ở các nhà nông cũng như ngoài chợ [1]. Du khách cũng nên tránh các bề mặt bị ô nhiễm bởi phân của bất cứ động vật nào, nhất là gia cầm.
+Hiện nay chưa có vắc-xin chuyên biệt cho cúm influenza H5N1, dù Tổ chức Y tế Thế giới thông báo rằng các nỗ lực phát triển loại vắc-xin này đang được tiến hành. Theo dõi tại liên kết sau Phát triển vắc-xin. Tuy không có vắc-xin, nhưng Tamiflu, một thuốc diệt virus, có thể ngăn ngừa sự phát triển của virus trên cơ thể người. (Xem thêm bài cúm gia cầm.)
+
+
+=== Triệu chứng ===
+Ở người, triệu chứng cúm H5N1 lúc mới phát bệnh cũng giống cúm thông thường, gồm sốt, ho, đau họng, đau nhức cơ. Tuy nhiên, bệnh cúm H5N1 có thể diễn tiến nặng lên với viêm phổi và các triệu chứng hô hấp nguy hiểm, có thể dẫn đến tử vong. Hiếm gặp hơn, bệnh nhân cúm H5N1 có thể có triệu chứng viêm kết mạc[2], vốn không có ở những trường hợp cúm do virus H7.
+
+
+=== Điều trị ===
+
+Các chất ức chế neuraminidase là loại thuốc tác động lên protein bảo tồn của tất cả các loại virus influenza A. Các thuốc loại này bao gồm zanamivir và oseltamivir, loại sau vừa được cấp chứng chỉ để dùng làm thuốc điều trị dự phòng ở Anh. Oseltamivir được hãng Roche thương mại hóa dưới tên gọi Tamiflu, và dòng thuốc này đã trở thành loại thuốc chọn lựa của các chính phủ và tổ chức để chuẩn bị cho khả năng đại dịch H5N1 xảy ra. Tháng 8/2005, Roche đã tặng 3 triệu viên Tamiflu cho Tổ chức Sức khỏe Thế giới, để tổ chức này đối phó với sự bùng phát dịch ngay tại các ổ dịch.
+Các chất ức chế hemagglutinin là một nhóm thuốc khác, gồm amantadine và rimantadine. Không như zanamivir và oseltamivir, các thuốc này rẻ hơn và có sẵn rộng rãi, TCSKTG cũng đã bước đầu lập kế hoạch sử dụng chúng trong các nỗ lực chống chọi với đại dịch H5N1. Tuy nhiên, tiềm năng của các thuốc này suy giảm đáng kể khi người ta phát hiện ra rằng chính phủ nước Cộng hòa Nhân dân Trung Hoa đã khuyến khích và hỗ trợ việc sử dụng amantadine cho gia cầm từ đầu những năm 1990, đi ngược lại các quy ước quốc tế về vật nuôi; hậu quả nhãn tiền là chủng virus hiện lưu hành tại Đông Nam Á đã kháng thuốc và làm tăng đáng kể mức độ nguy hiểm cho con người.[3] Tuy vậy, chủng H5N1 lan truyền bởi các loài chim hoang dại ở miền bắc Trung Quốc, Mông Cổ, Kazakhstan và Nga trong hè năm 2005 không kháng amantadine.
+
+
+== Xem thêm ==
+Cúm
+Cúm từ chim
+Vắc xin
+Dịch bệnh
+Dịch cúm
+Vắc xin cúm
+
+
+== Tham khảo ==
+
+^ Interim Guidance about Avian Influenza A (H5N1) for U.S. Citizens Living Abroad from the U.S. Centers for Disease Control and Prevention.
+^ Full text article online: "Avian Influenza A (H5N1) Infection in Humans Lưu trữ 2010-07-22 tại Wayback Machine" by The Writing Committee of the World Health Organization (WHO) Consultation on Human Influenza A/H5 in New England Journal of Medicine (29 tháng 9 năm 2005) Volume 353 pages 1374-1385.
+^ Bird Flu Drug Rendered Useless: Chinese Chickens Given Medication Made for Humans By Alan Sipress in the Washington Post Saturday, 18 tháng 6 năm 2005.
+^ "AVIAN INFLUENZA: 'Pandemic Vaccine' Appears to Protect Only at High Doses" by Martin Enserink in Science, volume 309, page 996, 12 tháng 8 năm 2005 doi:10.1126/science.309.5737.996b
+Centers for Disease Control (2005). "Key Facts About Avian Influenza (Bird Flu) and Avian Influenza A (H5N1) Virus: 24 tháng 5 năm 2005."
+Horimoto, T. & Kawaoka, Y. (2005). Influenza. In Nature reviews microbiology, 3, 591 – 600.
+Kuiken T et al (2004), Avian H5N1 Influenza in Cats, Science 2004 306: 241 (doi:10.1126/science.1102287)

@@ -1,0 +1,140 @@
+Trong mạng máy tính, Giao thức đường hầm lớp 2 (L2TP) là một giao thức đường hầm được sử dụng để hỗ trợ các mạng riêng ảo (VPN) hoặc như một phần của việc cung cấp dịch vụ của các ISP. Nó chỉ sử dụng mã hóa cho các thông điệp kiểm soát của riêng mình (sử dụng bí mật được chia sẻ trước tùy chọn) và không cung cấp bất kỳ mã hóa hoặc tính bảo mật của nội dung. Thay vào đó, nó cung cấp một đường hầm cho lớp 2 (có thể được mã hóa) và bản thân đường hầm có thể được chuyển qua giao thức mã hóa lớp 3 như IPsec.
+
+
+== Lịch sử ==
+Công bố vào năm 2000 như đề xuất tiêu chuẩn RFC 2661, L2TP có nguồn gốc chủ yếu ở hai giao thức đường hầm cũ để liên lạc point-to-point: Cisco's Layer 2 Forwarding Protocol (L2F) và Point-to-Point Tunneling Protocol (PPTP) của Microsoft. Một phiên bản mới của giao thức này, L2TPv3, xuất hiện dưới dạng tiêu chuẩn đề xuất RFC 3931 vào năm 2005. L2TPv3 cung cấp các tính năng bảo mật bổ sung, cải thiện đóng gói và khả năng mang các liên kết dữ liệu không chỉ đơn giản là Giao thức point-to-point (PPP) qua mạng IP (ví dụ: Frame Relay, Ethernet, ATM, ...).
+
+
+== Mô tả ==
+Toàn bộ gói L2TP, bao gồm cả trọng tải và tiêu đề L2TP, được gửi trong một gói dữ liệu Giao thức Dữ liệu Người dùng (UDP). Một ưu điểm của việc truyền qua UDP (chứ không phải TCP) là nó tránh được "vấn đề hỗn hợp TCP". Việc thực hiện các phiên PPP trong một đường hầm L2TP là điều thường thấy. L2TP không tự cung cấp tính bảo mật hoặc xác thực mạnh mẽ. IPsec thường được sử dụng để bảo mật các gói L2TP bằng cách cung cấp tính bảo mật, xác thực và tính toàn vẹn. Sự kết hợp của hai giao thức này thường được gọi là L2TP/IPsec (thảo luận bên dưới).
+Hai điểm cuối của đường hầm L2TP được gọi là bộ tập trung truy cập L2TP (LAC) và máy chủ mạng L2TP (LNS). LNS chờ đợi các đường hầm mới. Khi một đường hầm được thiết lập, lưu lượng mạng giữa các đồng đẳng là hai chiều. Để hữu ích cho mạng, các giao thức cấp cao hơn sẽ được chạy qua đường hầm L2TP. Để tạo điều kiện thuận lợi cho việc này, một phiên L2TP được thiết lập trong đường hầm cho mỗi giao thức cấp cao hơn như PPP. LAC hoặc LNS có thể bắt đầu phiên. Lưu lượng cho mỗi phiên bị hạn chế bởi L2TP, vì vậy có thể thiết lập nhiều mạng riêng ảo trên một đường hầm.
+Các gói được trao đổi trong một đường hầm L2TP được phân loại là gói điều khiển hoặc gói dữ liệu. L2TP cung cấp các tính năng đáng tin cậy cho các gói điều khiển, nhưng không có độ tin cậy cho các gói dữ liệu. Độ tin cậy, nếu muốn, phải được cung cấp bởi các giao thức lồng nhau chạy trong mỗi phiên của đường hầm L2TP.
+L2TP cho phép tạo mạng quay số riêng ảo (VPDN) để kết nối máy khách từ xa với mạng công ty của nó bằng cách sử dụng cơ sở mạng chung, có thể là Internet hoặc của nhà cung cấp dịch vụ internet.
+
+
+== Các mô hình đường hầm ==
+Đường hầm L2TP có thể mở rộng trên toàn bộ phiên PPP hoặc chỉ qua một phân đoạn của phiên hai phân đoạn. Điều này có thể được thể hiện bằng bốn mô hình đào hầm khác nhau, đó là:
+
+Đường hầm tình nguyện
+Đường hầm bắt buộc - cuộc gọi đến
+Đường hầm bắt buộc - quay số từ xa
+Kết nối multihop L2TP
+
+
+== Cấu trúc gói L2TP ==
+Một gói L2TP bao gồm:
+
+
+=== Ý nghĩa trường: ===
+
+
+==== Cờ và phiên bản ====
+Cờ điều khiển chỉ ra dữ liệu/gói điều khiển và sự hiện diện của các trường độ dài, trình tự và độ lệch.
+
+
+==== Chiều dài (tùy chọn) ====
+Tổng độ dài của thông báo tính bằng byte, chỉ hiển thị khi cờ độ dài được đặt.
+
+
+==== ID đường hầm ====
+Chỉ ra mã định danh cho kết nối điều khiển.
+
+
+==== ID phiên ====
+Chỉ ra mã định danh cho một phiên trong một đường hầm.
+
+
+==== Ns (tùy chọn) ====
+Số thứ tự cho dữ liệu hoặc thông báo điều khiển này, bắt đầu bằng 0 và tăng dần một (modulo 216) cho mỗi tin nhắn được gửi đi. Chỉ xuất hiện khi cờ trình tự được thiết lập.
+
+
+==== Nr (tùy chọn) ====
+Số thứ tự cho tin nhắn dự kiến ​​sẽ được nhận. Nr được đặt thành N của tin nhắn theo thứ tự cuối cùng nhận được cộng với một (modulo 216). Trong thông điệp dữ liệu, Nr được bảo lưu và nếu có (như được chỉ ra bởi bit S), PHẢI bỏ qua khi nhận..
+
+
+==== Kích thước bù đắp (tùy chọn) ====
+Chỉ định nơi đặt dữ liệu trọng tải qua tiêu đề L2TP. Nếu trường offset có mặt, tiêu đề L2TP kết thúc sau byte cuối cùng của vùng đệm bù. Trường này tồn tại nếu cờ bù được đặt.
+
+
+==== Pad bù (tùy chọn) ====
+Chiều dài thay đổi, như được chỉ định bởi kích thước bù đắp. Nội dung của trường này là không xác định.
+
+
+==== Dữ liệu tải trọng ====
+Độ dài thay đổi (Kích thước tải trọng tối đa = Kích thước tối đa của gói UDP-kích thước của tiêu đề L2TP)
+
+
+== Trao đổi gói L2TP ==
+Tại thời điểm thiết lập kết nối L2TP, nhiều gói điều khiển được trao đổi giữa máy chủ và máy khách để thiết lập đường hầm và phiên cho mỗi hướng. Một ngang hàng yêu cầu đồng đẳng kia chỉ định một đường hầm và id phiên cụ thể thông qua các gói điều khiển này. Sau đó, sử dụng đường hầm và id phiên này, các gói dữ liệu được trao đổi với các khung PPP được nén dưới dạng tải trọng.
+
+Danh sách các bản tin Điều khiển L2TP được trao đổi giữa LAC và LNS, để bắt tay trước khi thiết lập đường hầm và phiên trong phương pháp đường hầm tự nguyện là:
+
+
+== L2TP/IPsec ==
+Do thiếu tính bảo mật vốn có trong giao thức L2TP, nó thường được triển khai cùng với IPsec. Điều này được gọi là L2TP/IPsec và được tiêu chuẩn hóa trong IETF RFC 3193. Quá trình thiết lập VPN L2TP/IPsec như sau:
+
+Đàm phán của hiệp hội bảo mật IPsec (SA), thường thông qua trao đổi khóa Internet (IKE). Điều này được thực hiện qua cổng UDP 500 và thường sử dụng mật khẩu chia sẻ (cái gọi là "khóa chia sẻ trước"), khóa công khai hoặc chứng chỉ X.509 ở cả hai đầu, mặc dù tồn tại các phương pháp khóa khác.
+Thiết lập giao tiếp Đóng gói Tải trọng Bảo mật (ESP) trong chế độ truyền tải. Số giao thức IP cho ESP là 50 (so sánh TCP của 6 và UDP của 17). Tại thời điểm này, một kênh an toàn đã được thiết lập, nhưng không có đường hầm nào diễn ra.
+Đàm phán và thiết lập đường hầm L2TP giữa các điểm cuối SA. Việc thương lượng thực tế các tham số diễn ra qua kênh bảo mật của SA, trong mã hóa IPsec. L2TP sử dụUDP 1701.
+Khi quá trình hoàn tất, các gói L2TP giữa các điểm cuối được IPsec đóng gói. Vì bản thân gói L2TP được bao bọc và ẩn bên trong gói IPsec, nên địa chỉ IP nguồn và đích ban đầu được mã hóa trong gói. Ngoài ra, không cần thiết phải mở cổng UDP 1701 trên tường lửa giữa các điểm cuối, vì các gói bên trong không được thực hiện cho đến khi dữ liệu IPsec đã được giải mã và loại bỏ, điều này chỉ diễn ra ở các điểm cuối.
+Một điểm có thể gây nhầm lẫn trong L2TP/IPsec là việc sử dụng đường hầm điều khoản và kênh bảo mật. Thuật ngữ chế độ đường hầm dùng để chỉ một kênh cho phép các gói chưa được chạm của một mạng được truyền qua mạng khác. Trong trường hợp L2TP/PPP, nó cho phép các gói L2TP/PPP được truyền qua IP. Một kênh an toàn đề cập đến một kết nối trong đó tính bảo mật của tất cả dữ liệu được đảm bảo. Trong L2TP/IPsec, IPsec đầu tiên cung cấp một kênh bảo mật, sau đó L2TP cung cấp một đường hầm. IPsec cũng chỉ định một giao thức đường hầm: giao thức này không được sử dụng khi đường hầm L2TP được sử dụng.
+
+
+== Triển khai Windows ==
+Windows đã có hỗ trợ gốc (có thể cấu hình trong bảng điều khiển) cho L2TP kể từ Windows 2000. Windows Vista đã thêm 2 công cụ thay thế, một phần mềm MMC có tên "Tường lửa Windows với Bảo mật Nâng cao" (WFwAS) và công cụ dòng lệnh "netsh advfirewall". Một hạn chế với cả hai lệnh WFwAS và netsh là các máy chủ phải được chỉ định bằng địa chỉ IP. Windows 10 đã thêm lệnh PowerShell "Add-VpnConnection" và "Set-VpnConnectionIPsecConfiguration". Khóa đăng ký phải được tạo trên máy khách và máy chủ nếu máy chủ nằm sau thiết bị NAT-T.
+
+
+== L2TP trong mạng của ISP ==
+L2TP thường được ISP sử dụng khi dịch vụ internet qua ADSL hoặc cáp đang được bán lại. Từ người dùng cuối, các gói truyền đi qua mạng của nhà cung cấp dịch vụ mạng bán buôn đến một máy chủ được gọi là Máy chủ truy cập từ xa băng thông rộng (BRAS), một bộ chuyển đổi giao thức và bộ định tuyến kết hợp. Trên các mạng khác, đường dẫn từ thiết bị của cơ sở khách hàng của người dùng cuối đến BRAS có thể qua mạng ATM. Từ đó trở đi, qua mạng IP, một đường hầm L2TP chạy từ BRAS (hoạt động như LAC) đến LNS là một bộ định tuyến biên ở ranh giới của mạng IP của ISP đích cuối cùng. Xem ví dụ về ISP của người bán lại sử dụng L2TP.
+
+
+== Tham chiếu RFC ==
+RFC 2341 Cisco Layer Two Forwarding (Protocol) "L2F" (a predecessor to L2TP)
+RFC 2637 Point-to-Point Tunneling Protocol (PPTP)
+RFC 2661 Layer Two Tunneling Protocol "L2TP"
+RFC 2809 Implementation of L2TP Compulsory Tunneling via RADIUS
+RFC 2888 Secure Remote Access with L2TP
+RFC 3070 Layer Two Tunneling Protocol (L2TP) over Frame Relay
+RFC 3145 L2TP Disconnect Cause Information
+RFC 3193 Securing L2TP using IPsec
+RFC 3301 Layer Two Tunneling Protocol (L2TP): ATM access network
+RFC 3308 Layer Two Tunneling Protocol (L2TP) Differentiated Services
+RFC 3355 Layer Two Tunneling Protocol (L2TP) Over ATM Adaptation Layer 5 (AAL5)
+RFC 3371 Layer Two Tunneling Protocol "L2TP" Management Information Base
+RFC 3437 Layer Two Tunneling Protocol Extensions for PPP Link Control Protocol Negotiation
+RFC 3438 Layer Two Tunneling Protocol (L2TP) Internet Assigned Numbers: Internet Assigned Numbers Authority (IANA) Considerations Update
+RFC 3573 Signaling of Modem-On-Hold status in Layer 2 Tunneling Protocol (L2TP)
+RFC 3817 Layer 2 Tunneling Protocol (L2TP) Active Discovery Relay for PPP over Ethernet (PPPoE)
+RFC 3931 Layer Two Tunneling Protocol - Version 3 (L2TPv3)
+RFC 4045 Extensions to Support Efficient Carrying of Multicast Traffic in Layer-2 Tunneling Protocol (L2TP)
+RFC 4951 Fail Over Extensions for Layer 2 Tunneling Protocol (L2TP) "failover"
+
+
+== Xem thêm ==
+IPsec
+UDP
+L2TPv3
+PPP
+TCP
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+
+=== Triển khai ===
+Cisco: Cisco L2TP documentation, also read Technology brief from Cisco
+Open source and Linux: xl2tpd Lưu trữ 2010-09-23 tại Wayback Machine, Linux RP-L2TP, OpenL2TP, l2tpns, l2tpd (inactive), Linux L2TP/IPsec server Lưu trữ 2012-07-16 tại Wayback Machine, FreeBSD multi-link PPP daemon, OpenBSD npppd(8), ACCEL-PPP - PPTP/L2TP/PPPoE server for Linux
+Microsoft: built-in client included with Windows 2000 and higher; Microsoft L2TP/IPsec VPN Client for Windows 98/Windows Me/Windows NT 4.0
+Apple: built-in client included with Mac OS X 10.3 and higher.
+VPDN on Cisco.com
+
+
+=== Khác ===
+IANA assigned numbers for L2TP
+L2TP Extensions Working Group (l2tpext) - (where future standardization work is being coordinated)
+Using Linux as an L2TP/IPsec VPN client
+L2TP/IPSec with OpenBSD and npppd
+Comparison of L2TP, PPTP and OpenVPN

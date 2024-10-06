@@ -1,0 +1,65 @@
+Integrase, hoặc gọi là enzym chỉnh hợp, là enzym trợ giúp virus phiên mã ngược mang DNA - thông tin di truyền của virus, chỉnh hợp vào trong DNA của túc chủ. Thông thường do virus tự thân mang vào, hơn nữa enzym chỉnh hợp không tồn tại ở tế bào túc chủ, cho nên có thể coi là một đích bắn thích hợp của thuốc kháng virus.
+
+
+== Tóm tắt ==
+Các nhà nghiên cứu có thể đã tìm ra phương pháp mới để đối phó HIV, đó chính là ức chế một loại enzym HIV được gọi là enzym chỉnh hợp, nhà nghiên cứu đang thí nghiệm một loại thuốc mới, loại thuốc này có thể ức chế enzym chỉnh hợp, thông qua thí nghiệm trên thân khỉ, phát hiện loại thuốc này có thể kiểm soát được sự lây nhiễm của bệnh HIV/AIDS.
+Enzym chỉnh hợp của HIV-1 là enzym thiết yếu cho quá trình nhân đôi của virus phiên mã ngược, nó thúc đẩy DNA của virus chỉnh hợp vào trong DNA nhiễm sắc thể của túc chủ để quá trình nhân đôi diễn ra nhanh hơn, nhưng mà trong tế bào con người không có chất tương tự, do đó trở thành mục tiêu giàu sức hấp dẫn và hợp lí cho việc chữa trị bệnh HIV/AIDS.
+Có rất nhiều chất ức chế enzym chỉnh hợp của HIV-1 được giám định, trong đó một số hợp chất cho thấy hoạt tính ức chế có chọn lọc enzym chỉnh hợp HIV-1 và ngăn cản hoặc đứt gãy giữa chừng quá trình nhân đôi virus, và hai loại chất ức chế có ảnh hưởng nhất là hợp chất vòng thơm polyhydroxy chứa catechol và hợp chất aryl β-diketo acid được báo cáo gần đây.
+Các loại hợp chất khác nhau của thuốc mới kháng HIV, bao gồm dẫn xuất Benzimidazole, Nucleoside, Polypeptide, hợp chất vòng thơm thay thế hydroxy và hợp chất diketo acid,...
+
+
+== Chỉnh hợp ==
+
+
+=== Khái niệm ===
+Chỉnh hợp virus (chữ Anh: viral integration), gọi tắt chỉnh hợp, là danh từ sinh học, chỉ quá trình virus đem vật liệu di truyền (DNA hoặc RNA) của bản thân nó ghép vào trong nhiễm sắc thể của tế bào túc chủ, những vật liệu di truyền này có thể dựa vào sự sao chép của tế bào túc chủ mà sao chép. Chỉnh hợp virus thường hay thông qua enzym chỉnh hợp để hoàn thành.
+
+
+=== Phân loại ===
+Chỉnh hợp virus có thể chia thành ba loại: chỉnh hợp cưỡng ép, chỉnh hợp ngẫu nhiên và phần tử virus nội sinh.
+
+
+==== Chỉnh hợp cưỡng ép ====
+Nếu chỉnh hợp virus là sự kiện cần thiết phải xảy ra trong quá trình nhân đôi virus, thì phương thức chỉnh hợp này được gọi là chỉnh hợp cưỡng ép. Virus chọn dùng phương thức chỉnh hợp này bao gồm virus thuộc họ Retroviridae (họ Virus phiên mã ngược), họ Pseudoviridae (họ Virus giả) và họ Metaviridae (họ Virus chuyển vị) cùng với một số virus thuộc họ Myoviridae (họ Thể phệ khuẩn có đuôi cơ bắp) và họ Siphoviridae (họ Thể phệ khuẩn có đuôi dài). Những virus này trong quá trình truyền nhiễm tế bào túc chủ, sự chỉnh hợp của vật liệu di truyền sẽ khiến cho bộ gen của virus vĩnh viễn ghép vào trong nhiễm sắc thể của tế bào túc chủ. Sự chỉnh hợp virus của họ Retroviridae về sau gọi là provirus (nguyên virus, en), sự chỉnh hợp virus làm truyền nhiễm tế bào sinh vật nhân sơ về sau gọi là prophage (nguyên thể phệ khuẩn, en).
+
+
+==== Chỉnh hợp ngẫu nhiên ====
+Chỉnh hợp ngẫu nhiên chỉ sự chỉnh hợp của virus hoàn toàn không cần thiết trong quá trình nhân đôi virus. Tuy nhiên, sau chỉnh hợp sẽ mang đến một số lợi ích cho virus hoặc tế bào túc chủ. Virus có thể tiến hành truyền nhiễm không triệu chứng (tiềm ẩn) một khoảng thời gian dài trong tế bào túc chủ, đồng thời tế bào túc chủ cũng có thể thu được một số tính trạng hữu ích. Rất nhiều độc tố vi khuẩn chính là do prophage sản sinh sau khi chỉnh hợp.
+
+
+==== Phần tử virus nội sinh ====
+Có một số virus thông qua cơ hội ngẫu nhiên và hiếm thấy mà chỉnh hợp vào trong nhiễm sắc thể của tế bào túc chủ, sau đó lưu tồn trong bộ gen của túc chủ sau khi đã từng trải một khoảng thời gian rất dài, gọi là virus nội sinh. Loại hình virus nội sinh đã biết bao gồm:
+
+Virus phiên mã ngược nội sinh. Bộ gen virus sau chỉnh hợp có thể duy trì trạng thái tiềm ẩn lâu dài, nó cùng với bộ gen của túc chủ cùng nhau sao chép bị động và truyền gửi cho tế bào thế hệ sau. Việc phát sinh thay đổi điều kiện môi trường của túc chủ - tức là chỗ ở của vật chủ, có thể tái kích hoạt virus, dẫn đến sự phiên mã của virus và sản sinh virus truyền nhiễm (truyền nhiễm mang tính tăng sinh). Bộ gen virus phiên mã ngược đã chỉnh hợp vào trong gốc tế bào hoặc dòng tế bào của túc chủ được gọi là virus phiên mã ngược nội sinh. Loại truyền nhiễm virus này có khác biệt với sự truyền nhiễm virus theo chiều ngang. Virus phiên mã ngược ngoại sinh truyền nhiễm theo chiều ngang không truyền gửi đến tế bào thế hệ sau của túc chủ. Xem chi tiết Virus phiên mã ngược nội sinh.
+Virus DNA chuỗi đơn nội sinh. Một số virus DNA chuỗi đơn nội sinh, ví dụ như họ Circoviridae (họ Virus vòng tròn), hoàn toàn không thể soạn mã cho integrase, nhưng đã bị phát hiện chỉnh hợp vào trong bộ gen của rất nhiều loài.
+Chỉnh hợp virus RNA hiếm thấy. Virus RNA chuỗi đôi và RNA chuỗi đơn thông thường không thể chỉnh hợp vào trong bộ gen của túc chủ, nhưng trình tự gen virus thuộc họ Bornaviridae (họ Virus Borna), họ Filoviridae (họ Virus sợi tơ) và họ Totiviridae (họ Virus chỉnh thể), có thể được phát hiện trong bộ gen của nhiều loài động vật có vú.
+
+
+=== Quá trình chỉnh hợp virus ===
+Quá trình chỉnh hợp virus vô cùng phức tạp. Lấy virus phiên mã ngược như HIV (virus suy giảm miễn dịch ở người) làm ví dụ, quá trình chỉnh hợp có thể khái quát thành 6 bước trọng yếu:
+
+Ở trong tế bào túc chủ, integrase kết hợp với trình tự xác định trong vùng trùng lặp đoạn cuối dài của DNA virus, sau đó còn kết hợp với nhiều loại protein của virus và protein của túc chủ hình thành phức hợp tiền chỉnh hợp (en).
+Integrase cắt bỏ DNA của virus tại đoạn cuối 3', sản sinh mesosome trong đoạn cuối dính (en) làm nhô ra đầu 5'.
+Phức hợp tiền chỉnh hợp thông qua phức hợp lỗ nhân mà di chuyển vào trong nhân tế bào của túc chủ.
+Phức hợp tiền chỉnh hợp kết hợp DNA của túc chủ.
+Integrase đem DNA của virus ghép vào trong khu vực do DNA của túc chủ chỉ định.
+Sửa chữa các lỗ hổng được hình thành trong quá trình chuỗi DNA di chuyển, hoặc gọi là sửa chữa vết sứt (gap repair).
+
+
+== Nghiên cứu chất ức chế ==
+Chất ức chế enzym chỉnh hợp HIV-1 do các nhà khoa học thuộc Công ty Merck & Co. khai mở phát triển, tháng 3 năm 2003 bắt đầu đi vào nghiên cứu lâm sàng giai đoạn 1 ở Hoa Kì và Bỉ, đối tượng là tình nguyện viên chưa từng bị truyền nhiễm HIV. Nghiên cứu lâm sàng giai đoạn 1 là giai đoạn đầu tiên nhất của thí nghiệm trên cơ thể người, mục đích chủ yếu là đánh giá tính an toàn, tính dung nạp và động lực học dược vật (mức độ chuyển hoá thuốc trong máu) của thuốc nghiên cứu. Theo tiến sĩ y học Jeffrey Chodakewitz - phó Chủ tịch Ban Nghiên cứu lâm sàng vaccine và Bệnh tật truyền nhiễm thuộc Công ty Merck & Co., Hoa Kì, nói rằng cho đến nay, có số ít tình nguyện viên khoẻ mạnh (không đến 70 người) đã tham dự nghiên cứu, họ về tổng thể dung nạp tốt đối với thuốc. Ông chú ý đến số liệu tiền lâm sàng hiện tại ủng hộ liều lượng mỗi ngày hai lần, giả sử tất cả nghiên cứu đều tiến hành thuận lợi, vẫn cần nghiên cứu thông qua lâm sàng để xác định liều lượng uống thuốc thích hợp.
+Một bài nghiên cứu đăng tải trên tạp chí Science vào ngày 8 tháng 7 năm 2004 chỉ ra, báo cáo của công ty Merck nói rằng, khi khỉ bị HIV truyền nhiễm thời kì đầu dùng loại thuốc này, đã đóng vai trò bảo vệ rõ rệt đối với loài khỉ, do đó loọi thuốc này được gọi là chất ức chế enzym chỉnh hợp, thuốc cũng có hiệu quả đối với người bệnh nặng. Công ty Merck & Co. còn đang nghiên cứu một vài chất ức chế enzym chỉnh hợp, họ dùng một số tình nguyện viên tiến hành thí nghiệm, để tiện xác định loại thuốc này có an toàn không, có đủ tác dụng ức chế đối với virus lọc hay không.
+
+
+== Chú ý ==
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+
+
+== Liên kết ngoài ==
+PDB-101 Molecule of the Month: 135 HIV Integrase
+Integrase tại bảng chủ đề từ y học của Thư viện Y học Quốc gia Hoa Kì

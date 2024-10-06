@@ -1,0 +1,54 @@
+Giảm ba dòng là một bệnh giảm số  lượng của cả hồng cầu, bạch cầu cũng như tiểu cầu.
+Nếu chỉ thấp hai trong số các thông số trong công thức máu toàn phần, có thể dùng thuật ngữ giảm hai dòng. Tiếp cận chẩn đoán tương tự như giảm ba dòng.
+
+
+== Nguyên nhân ==
+Giảm ba dòng do điều trị có thể do hóa trị có tác dụng ức chế tủy xương. Hiếm khi các thuốc như kháng sinh, thuốc huyết áp, thuốc tim mạch gây giảm ba dòng.
+Các kháng sinhLinezolid và Chloramphenicol có thể gây giảm ba dòng ở một số cá thể.
+Một số nguyên nhân hiếm gặp khác như tăng bạch cầu đơn nhân nhiễm khuẩn hoặc nhiễm các virus khác. HIV cũng là một nguyên nhân gây giảm ba dòng.
+
+Hội chứng thực bào
+Suy tủy xương
+Bệnh Gaucher
+Ung thư carcinoma di căn đến xương
+Đa u tủy xương
+Nhiễm trung lan tỏa
+Lymphoma
+Xơ tủy
+Loạn sản sừng bẩm sinh
+Rối loạn sinh tủy
+Leukemia
+Bệnh do Leishania
+Thiếu folate hoặc vitamin B12 nặng
+Lupus ban đỏ hệ thống
+Tan máu kích phát về đêm
+Nhiễm virut (như HIV, EBV; và các virut chưa xác định khác)
+Hạ bạch cầu do ngộ độc
+Thiếu đồng
+Thiếu máu hồng cầu khổng lồ
+Do thuốc
+Cường lách
+Bệnh xương đá
+Rối loạn chuyển hóa axit (rối loạn chuyển hóa Propionic, Methylmalonic, Isovaleric)
+Ngộ độc asen liều thấp
+Rối loạn sinh tủy
+Nhiễm độc phóng xạ mạn tính 
+Hội chứng LIG4
+
+
+== Chẩn đoán ==
+Giảm ba dòng được chẩn đoán dựa vào sinh thiết tủy xương để phân biệt các nguyên nhân.
+
+thiếu máu: hemoglobin < 13.5 g/dL (nam) hoặc12 g/dL (nữ).
+hạ bạch cầu: tổng số lượng bạch cầu < 4.0 x 109/L. Giảm tất cả các loại bạch cầu.
+giảm tiểu cầu: số lương tiểu cầu < 150×109/L.
+
+
+== Điều trị ==
+Điều trị nguyên nhân. Truyền máu (PRBC) trong những trường hợp cần thiết.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

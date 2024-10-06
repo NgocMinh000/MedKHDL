@@ -1,0 +1,30 @@
+Klebsiella pneumoniae là một loài vi khuẩn Gram âm thuộc họ Enterobacteriaceae, cùng họ với một số mầm bệnh phổ biến khác như Escherichia coli, Salmonella, và Shigella. Vi khuẩn này được thấy ngoài môi trường, trong đất, nước bề mặt và trên các thiết bị y tế. K. pneumoniae luôn sẵn sàng cư ngụ trên bề mặt niêm mạc đường tiêu hóa của người và điều này dường như không gây hại. Tuy nhiên từ đó nó có thể xâm nhập các mô khác và gây nhiễm trùng nghiêm trọng.
+K. pneumoniae là vi khuẩn hình que, không động, không sinh bào tử, bề ngang 0,3 đến 2 μm và dài 0,6 đến 6 μm. Chúng là sinh vật kỵ khí tùy nghi, thích nghi được với cả môi trường có và không oxy. Về mặt sinh hóa, K. pneumoniae lên men lactose, dương tính catalase, âm tính cytochrome oxidase.
+Một đặc điểm của K. pneumoniae là hình thái đóng nang. Vi khuẩn tạo ra một lớp polysaccharide ngoại bào rõ rệt, một cái nang bao bọc cấu trúc tế bào và bảo vệ nó khỏi hệ miễn dịch bẩm sinh của vật chủ. K. pneumoniae có hơn 80 kiểu nang polysaccharide. Đây là yếu tố độc lực chính, giúp tăng năng lực lẩn tránh sự thực bào và chống các phân tử diệt khuẩn cho K. pneumoniae. Nó còn bảo vệ vi khuẩn trong dòng máu khỏi bị bắt giữ bởi các tế bào Kupffer.
+K. pneumoniae thông thường là một mầm bệnh cơ hội, chủ yếu tác động những người có hệ miễn dịch yếu như trẻ sơ sinh, người già, người bị suy giảm miễn dịch và có xu hướng lây lan trong bệnh viện. Tuy nhiên tồn tại một số chủng K. pneumoniae siêu độc lực sản sinh nhiều nang polysaccharide có thể gây bệnh cho cả người khỏe mạnh và các dạng nhiễm trùng cộng đồng nguy hiểm như áp xe gan mủ, viêm màng não, viêm cân mạc hoại tử, hay viêm phổi nặng.
+Vào năm 1882, Carl Friedlander đã lần đầu mô tả Klebsiella pneumoniae là vi khuẩn được phân lập từ phổi của các bệnh nhân qua đời vì viêm phổi. Tên gọi ban đầu của nó là trực khuẩn Friedlander và đến năm 1886 thì mang tên Klebsiella.
+
+
+== Bệnh sinh và tránh né miễn dịch ==
+
+Klebsiella pneumoniae là một vi khuẩn cực kỳ bền bỉ, một mầm bệnh thắng lợi đi theo chiến lược phòng thủ thay vì tấn công. Cụ thể là nó tránh né và sinh tồn thay vì tích cực áp chế nhiều thành phần của hệ miễn dịch.
+K. pneumoniae vận dụng một loạt yếu tố độc lực để sinh tồn và sinh bệnh: bao gồm nang, lông, siderophore, lipopolysaccharide, protein màng ngoài, hệ thống bài tiết loại 6. Trong số này tiêu biểu nhất là nang polysaccharide với hơn 80 loại, phổ biến là K1 và K2. Khi xâm nhập cơ thể vật chủ, vi khuẩn đã kích hoạt phản ứng miễn dịch đe dọa loại bỏ nhiễm trùng. Xuyên suốt quá trình này, nang đóng vai trò sống còn che chắn cho vi khuẩn khỏi sự tấn công từ bổ thể và thực bào, cho phép chúng cư ngụ và lan tỏa trong mô của vật chủ.
+
+
+=== Kháng bổ thể ===
+Hệ thống bổ thể là một thành phần tiến hóa cổ xưa thuộc hệ miễn dịch bẩm sinh của động vật có xương sống không thể thiếu trong việc bảo vệ vật chủ chống lại mầm bệnh, trong đó có K. pneumoniae. Hệ thống này bao gồm hơn 20 protein tồn tại trong các không gian mạch và vi môi trường mô, phối hợp tham gia vào một chuỗi phản ứng khi được kích hoạt để nhanh chóng dọn dẹp mầm bệnh xâm nhập. Mặc dù có sức mạnh đáng kể, K. pneumoniae đã tiến hóa đến một cấp độ tinh vi để khéo léo đề kháng và lẩn trốn tác động từ hệ thống này.
+Để tránh bị bổ thể huyết thanh tiêu diệt, nang polysaccharide (CPS) đã che giấu những cấu trúc cận bề mặt mà làm kích hoạt bổ thể như protein màng ngoài K36 (OmpK36). Các chủng tạo nang cải biến thường kháng hoạt tính diệt khuẩn huyết thanh. Nang cải biến ở những chủng này có đặc điểm polysaccharide thừa thãi (nang dày) và biến đổi về tính chất và cấu trúc. Điều này làm suy giảm năng lực nhận biết và bám vào màng vi khuẩn của các thành phần hệ thống như phức hợp tấn công màng (MAC) và C3 convertase, qua đó vô hiệu cơ chế diệt bào trung gian bổ thể.
+Lipopolysaccharide (LPS), thành phần lớn khác của màng ngoài K. pneumoniae, cũng góp phần đáng kể giúp vi khuẩn tránh né phản ứng miễn dịch của vật chủ.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Virtual museum of bacteria page on K. pneumoniae Lưu trữ 2017-02-11 tại Wayback Machine
+What're the complications of pneumonia? (health-cares.net)
+Klebsiella Infection (emedicine.com)
+Klebsiella Genome Projects from Genomes OnLine Database
+Klebsiella pneumoniae-Associated Vertebral Osteomyelitis After Laparoscopic Cholecystectomy
+Type strain of Klebsiella pneumoniae at BacDive –  the Bacterial Diversity Metadatabase

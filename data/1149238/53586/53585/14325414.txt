@@ -1,0 +1,23 @@
+Mồi là kỹ thuật dùng một kích thích để tác động đến phản hồi của một kích thích sau đó và không có ý định hoặc sự hướng dẫn có ý thức. Ví dụ, từ Y_TÁ được nhận biết khi nó theo sau từ BÁC_SỸ nhanh hơn là khi nó theo sau từ BÁNH_MỲ. Hiệu ứng mồi có thể thuộc về trí giác, ngữ nghĩa hoặc nhận thức. Người ta chưa xác định được độ dài của hiệu ứng này (ngày hay tuần?), tuy nhiên thời điểm bắt đầu của nó gần như là tức thì.
+Mồi hoạt động tốt nhất khi hai kích thích được ở cùng một phương thức. Ví dụ, hình ảnh mồi hoạt động tốt nhất với tín hiệu hình ảnh và âm thanh mồi hoạt động tốt nhất với tín hiệu âm thanh. Nhưng hiệu ứng mồi cũng xảy ra giữa các phương thức hoặc giữa những từ liên quan về ngữ nghĩa như, "bác sĩ" và "y tá".
+
+
+== Phân loại ==
+
+
+=== Mồi dương và âm ===
+Các thuật ngữ mồi dương và âm nói đến ảnh hưởng của mồi đến tốc độ xử lý. Một mồi dương tăng tốc độ  xử lý, trong khi mồi âm làm giảm tốc độ chậm hơn mức không mồi. Mồi dương đơn giản là do tiếp nhận  kích thích, trong khi  mồi âm  gây ra bởi tiếp nhận  kích thích rồi bỏ qua nó. Hiệu ứng mồi dương xảy ra ngay cả khi người ta không ý thức sự tồn tại của mồi. Những tác động của mồi âm và dương có thể nhìn thấy  trong kết quả điện não đồ (ERP).
+Nguyên nhân của mồi dương được cho là  kích hoạt được phát tán trong não bộ. Điều này có nghĩa là đầu tiên, nhân tố kích thích tác động vào một số phần của bộ nhớ ngay trước khi một hành động được thực hiện. Những phần này đã được kích hoạt sẵn một phần khi kích thích thứ hai đến, do đó dễ được nhận thức hơn.
+
+
+== Trong đời sống hàng ngày ==
+Mồi được cho là đóng vai trò quan trọng trong hình thành khuôn mẫu. Điều này là do sự chú ý đến một phản ứng làm tăng các tần số của phản ứng đó, ngay cả khi không mong muốn.
+ Nếu những đặc tính như "ngu ngốc" hoặc "thân thiện" được gán cho một người thường xuyên hoặc gần đây, những đặc tính này có thể được dùng để giải thích hành vi của anh/cô ta. Một cá nhân không nhận thức được quá trình này, và có thể dẫn đến hành vi đó không đồng nhất với điều anh/cô ta tin tưởng.
+Điều này có thể xảy ra ngay cả khi chủ thể không nhận ra  mồi. Một ví dụ về điều này được thực hiện bởi Bargh vào năm 1996. Đối tượng được mồi với những từ liên quan đến những khuôn mẫu của người già (dụ: Florida, hay quên, nhăn). Trong khi những từ này không  đề cập đến tốc độ hoặc sự chậm chạp, những người được mồi đi chậm hơn khi ra khỏi buồng thí nghiệm so với những người đã mồi với những kích thích trung lập. Hiệu ứng tương tự đã được quan sát với những kích thích thô lỗ và lịch sự: những ai được mồi với những từ thô lỗ thường ngắt lời điều tra viên hơn những người được mồi với những từ trung lập, và những người được mồi với những từ lịch sự là ít ngắt lời nhất.
+
+
+== Phê bình ==
+Các hiệu ứng mồi ngữ nghĩa, liên tưởng  và hình dạng đã được xác minh chắc chắn, còn một số hiệu ứng kéo dài không được replicate trong các nghiên cứu đi sau, gây nhiều nghi ngờ về sự hiệu quả hoặc sự tồn tại của chúng. Nhà tâm lý học nhận giải Nobel Daniel Kahneman đã kêu gọi các nhà nghiên cứu mồi  để kiểm tra robustness của hiệu ứng này trong một bức thư ngỏ, tuyên bố rằng mồi đã trở thành một "poster child  cho nghi ngờ về tính toàn vẹn của nghiên cứu tâm lý." Các nhà phê bình khác khẳng định rằng các nghiên cứu mồi bị ảnh hưởng bởi thiên kiến xuất bản, hiệu ứng người thí nghiệm và rằng những lời phê bình về  lĩnh vực này không được đón nhận với tinh thần xây dựng.
+
+
+== Tài liệu tham khảo ==

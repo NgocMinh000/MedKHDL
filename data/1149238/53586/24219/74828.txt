@@ -1,0 +1,128 @@
+Logic mờ (tiếng Anh: Fuzzy logic) được phát triển từ lý thuyết tập mờ để thực hiện lập luận một cách xấp xỉ thay vì lập luận chính xác theo logic vị từ cổ điển. Logic mờ có thể được coi là mặt ứng dụng của lý thuyết tập mờ để xử lý các giá trị trong thế giới thực cho các bài toán phức tạp (Klir 1997).
+Người ta hay nhầm lẫn mức độ đúng với xác suất. Tuy nhiên, hai khái niệm này khác hẳn nhau; độ đúng đắn của logic mờ biểu diễn độ liên thuộc với các tập được định nghĩa không rõ ràng, chứ không phải khả năng xảy ra một biến cố hay điều kiện nào đó. Để minh họa sự khác biệt, xét tình huống sau: Bảo đang đứng trong một ngôi nhà có hai phòng thông nhau: phòng bếp và phòng ăn. Trong nhiều trường hợp, trạng thái của Bảo trong tập hợp gồm những thứ "ở trong bếp" hoàn toàn đơn giản: hoặc là anh ta "trong bếp" hoặc "không ở trong bếp". Nhưng nếu Bảo đứng tại cửa nối giữa hai phòng thì sao? Anh ta có thể được coi là "có phần ở trong bếp". Việc định lượng trạng thái "một phần" này cho ra một quan hệ liên thuộc đối với một tập mờ. Chẳng hạn, nếu Bảo chỉ thò một ngón chân cái vào phòng ăn, ta có thể nói rằng Bảo ở "trong bếp" đến 99% và ở trong phòng ăn 1%. Một khi anh ta còn đứng ở cửa thì không có một biến cố nào (ví dụ một đồng xu được tung lên) quyết định rằng Bảo hoàn toàn "ở trong bếp" hay hoàn toàn "không ở trong bếp". Các tập mờ được đặt cơ sở trên các định nghĩa mờ về các tập hợp chứ không phải dựa trên sự ngẫu nhiên.
+Logic mờ cho phép độ liên thuộc có giá trị trong khoảng đóng 0 và 1, và ở hình thức ngôn từ, các khái niệm không chính xác như "hơi hơi", "gần như", "khá là" và "rất". Cụ thể, nó cho phép quan hệ thành viên không đầy đủ giữa thành viên và tập hợp. Tính chất này có liên quan đến tập mờ và lý thuyết xác suất. Lôgic mờ đã được đưa ra lần đầu vào năm 1965 bởi GS. Lotfi Zadeh tại Đại học California, Berkeley.
+Mặc dù được chấp nhận rộng rãi và có nhiều ứng dụng thành công, lôgic mờ vẫn bị phê phán tại một số cộng đồng nghiên cứu. Nó bị phủ nhận bởi một số kỹ sư điều khiển vì khả năng thẩm định và một số lý do khác, và bởi một số nhà thống kê - những người khẳng định rằng xác suất là mô tả toán học chặt chẽ duy nhất về sự không chắc chắn (uncertainty). Những người phê phán còn lý luận rằng lôgic mờ không thể là một siêu tập của lý thuyết tập hợp thông thường vì các hàm liên thuộc của nó được định nghĩa theo các tập hợp truyền thống.
+
+
+== Ứng dụng ==
+Lôgic mờ có thể được sử dụng để điều khiển các thiết bị gia dụng như máy giặt (cảm nhận kích thước tải và mật độ bột giặt và điều chỉnh các chu kỳ giặt theo đó) và tủ lạnh.
+Một ứng dụng cơ bản có thể có đặc điểm là các khoảng con của một biến liên tục. Ví dụ, một đo đạc nhiệt độ cho phanh (anti-lock brake) có thể có một vài hàm liên thuộc riêng biệt xác định các khoảng nhiệt độ cụ thể để điều khiển phanh một cách đúng đắn. Mỗi hàm ánh xạ cùng một số đo nhiệt độ tới một chân giá trị trong khoảng từ 0 đến 1. Sau đó các chân giá trị này có thể được dùng để quyết định các phanh nên được điều khiển như thế nào.
+
+Trong hình, cold (lạnh), warm (ấm), và hot (nóng) là các hàm ánh xạ một thang nhiệt độ. Một điểm trên thang nhiệt độ có 3 "chân giá trị" — mỗi hàm cho một giá trị. Đối với nhiệt độ cụ thể trong hình, 3 chân giá trị này có thể được giải nghĩa là 3 miêu tả sau về nhiệt độ này: "tương đối lạnh", "hơi hơi ấm", và "không nóng".
+
+
+=== Ví dụ về các ứng dụng của lôgic mờ ===
+Các hệ thống con của ô tô và các phương tiện giao thông khác, chẳng hạn các hệ thống con như ABS và quản lý hơi (ví dụ Tokyo monorail)
+Máy điều hòa nhiệt độ
+Phần mềm MASSIVE dùng trong các tập phim Chúa nhẫn (Lord of the Rings), phần mềm đã giúp trình diễn những đội quân lớn, tạo các chuyển động một cách ngẫu nhiên nhưng vẫn có thứ tự
+Camera
+Xử lý ảnh số (Digital image processing), chẳng hạn như phát hiện biên (edge detection)
+Nồi cơm điện
+Máy rửa bát
+Thang máy
+Máy giặt và các thiết bị gia dụng khác
+Trí tuệ nhân tạo trong trò chơi điện tử
+Các bộ lọc ngôn ngữ tại các bảng tin (message board) và phòng chat để lọc bỏ các đoạn văn bản khiếm nhã
+Nhận dạng mẫu trong Cảm nhận từ xa (Remote Sensing)
+Gambit System trong Final Fantasy XII
+Lôgic mờ cũng đã được tích hợp vào một số bộ vi điều khiển và vi xử lý, ví dụ Freescale 68HC12.
+
+
+== Nhầm lẫn và tranh cãi ==
+Lôgic mờ chính là "lôgic không chính xác"
+Lôgic mờ chính xác không kém bất kỳ dạng lôgic nào khác: đây là một phương pháp toán học có tổ chức để làm việc với các khái niệm 'có bản chất không chính xác. Khái niệm "lạnh" không thể được biểu diễn trong một phương trình, vì mặc dù nhiệt độ là một đại lượng đo được nhưng "lạnh" thì lại không. Tuy nhiên, người ta vẫn có khái niệm về "lạnh", và đồng ý với nhau rằng không có ranh giới chính xác giữa "lạnh" và "không lạnh" chẳng hạn như một thứ gì đó ở nhiệt độ N được gọi là lạnh nhưng khi ở nhiệt độ N + 1 thì được xem là "không lạnh" — một khái niệm mà lôgic cổ điển không thể dễ dàng xử lý được.
+Lôgic mờ là một cách mới để biểu diễn xác suất
+Lôgic mờ và xác suất nói đến các loại không chắc chắn khác nhau. Lôgic mờ được thiết kế để làm việc với các sự kiện không chính xác (các mệnh đề lôgic mờ), trong khi xác suất làm việc với các khả năng sự kiện đó xảy ra (nhưng vẫn coi kết quả là chính xác). Tuy nhiên, đây là một điểm gây tranh cãi. Nhiều nhà thống kê đã bị thuyết phục bởi công trình nghiên cứu của Bruno de Finetti rằng chỉ cần đến duy nhất một loại không chắc chắn toán học và do đó lôgic mờ là không cần thiết. Mặt khác, Bart Kosko lý luận rằng xác suất là một lý thuyết con của lôgic mờ, do xác suất chỉ làm việc với một loại không chắc chắn. Ông còn khẳng định rằng mình đã chứng minh một dẫn xuất định lý Bayes từ khái niệm tập con mờ. Lotfi Zadeh, người tạo ra lôgic mờ, lý luận rằng lôgic mờ khác xác suất về đặc tính, và không phải là một sự thay thế cho xác suất. Ông đã tạo một loại xác suất mờ khác, và gọi đó là lý thuyết khả năng (possibility theory). Các cách tiếp cận gây tranh cãi khác tới sự không chắc chắn bao gồm: lý thuyết Dempster-Shafer và tập thô (rough set).
+Khó triển khai lôgic mờ cho các bài toán lớn
+Năm 1993, trong một bài báo được lan truyền rộng và gây nhiều tranh cãi, Charles Elkan bình luận rằng "...có rất ít, nếu không muốn nói là không hề có, các báo cáo đã công bố về hệ chuyên gia được sử dụng thực tế dùng đến lập luận đó về lôgic mờ. Có vẻ như là các hạn chế của lôgic mờ đã không gây hại trong các ứng dụng điều khiển là vì các bộ điều khiển mờ hiện hành đơn giản hơn nhiều so với các hệ thống dựa tri thức khác. Trong tương lai, các hạn chế kỹ thuật của lôgic mờ có thể trở nên quan trọng trong thực tiễn, và các công trình về các bộ điều khiển mờ sẽ gặp phải một số vấn đề về triển khai được biết với các hệ thống dựa tri thức khác". Các phản ứng đối với bài báo của Elkan có nhiều và đa dạng, một số cho rằng đơn giản là ông đã nhầm, một số khác công nhận rằng Elkan đã chỉ ra những hạn chế quan trọng của lôgic mờ mà những người thiết kế hệ thống cần phải quan tâm. Trong thực tế, vào thời điểm đó, lôgic mờ chưa được sử dụng rộng rãi, còn ngày nay, nó đã được dùng để giải những bài toán rất phức tạp trong lĩnh vực trí tuệ nhân tạo.
+
+
+== Xem thêm ==
+Trí tuệ nhân tạo
+Mạng nơ-ron nhân tạo
+Neuro-fuzzy
+Biologically-inspired computing
+Combs method
+Khai phá khái niệm (Concept Mining)
+Hệ thống điều khiển
+Defuzzification
+Lôgic động
+Hệ chuyên gia
+Fuzzy subalgebra
+Fuzzy associative matrix
+Hệ chuyên gia FuzzyCLIPS
+Fuzzy concept
+Ngôn ngữ điều khiển mờ
+Hệ thống điều khiển mờ
+Điện tử mờ
+Tập mờ
+Học máy
+Paradox of the heap
+Nhận dạng mẫu
+Tập thô (Rough set)
+Thực tại giả lập (Simulated reality)
+
+
+== Tham khảo ==
+
+Ahmad M. Ibrahim, Introduction to Applied Fuzzy Electronics,, ISBN 0-13-206400-6
+Von Altrock C., Fuzzy Logic and NeuroFuzzy Applications Explained (2002), ISBN 0-13-368465-2
+Biacino L., Gerla G., Fuzzy logic, continuity and effectiveness, Archive for Mathematical Logic, 41, (2002), 643-667.
+Cignoli R., D’Ottaviano I. M. L., Mundici D., ‘’Algebraic Foundations of Many-Valued Reasoning’’. Kluwer, Dordrecht, 1999.
+Cox E., The Fuzzy Systems Handbook (1994), ISBN 0-12-194270-8
+Elkan C.. The Paradoxical Success of Fuzzy Logic. tháng 11 năm 1993. Available from Elkan's home page.
+Hájek P., Metamathematics of fuzzy logic. Kluwer 1998.
+Hájek P., Fuzzy logic and arithmetical hierarchy, Fuzzy Sets and Systems, 3, (1995), 359-363.
+Höppner F., Klawonn F., Kruse R. and Runkler T., Fuzzy Cluster Analysis (1999), ISBN 0-471-98864-2.
+Klir G. and Folger T., Fuzzy Sets, Uncertainty, and Information (1988), ISBN 0-13-345984-5.
+Klir G., UTE H. St. Clair and Bo Yuan Fuzzy Set Theory Foundations and Applications,1997.
+Klir G. and Bo Yuan, Fuzzy Sets and Fuzzy Logic (1995) ISBN 0-13-101171-5
+Bart Kosko, Fuzzy Thinking: The New Science of Fuzzy Logic (1993), Hyperion. ISBN 0-7868-8021-X
+Gerla G., Effectiveness and Multivalued Logics, Journal of Symbolic Logic, 71 (2006) 137-162.
+Montagna F., Three complexity problems in quantified fuzzy logic. Studia Logica, 68,(2001), 143-152.
+Scarpellini B., Die Nichaxiomatisierbarkeit des unendlichwertigen Prädikatenkalküls von Łukasiewicz, J. of Symbolic Logic, 27,(1962), 159-170.
+Yager R. and Filev D., Essentials of Fuzzy Modeling and Control (1994), ISBN 0-471-01761-2
+Zimmermann H., Fuzzy Set Theory and its Applications (2001), ISBN 0-7923-7435-5.
+Kevin M. Passino and Stephen Yurkovich, Fuzzy Control, Addison Wesley Longman, Menlo Park, CA, 1998.
+Wiedermann J., Characterizing the super-Turing computing power and efficiency of classical fuzzy Turing machines, Theor. Comput. Sci. 317, (2004), 61-69.
+Zadeh L.A., Fuzzy algorithms, Information and Control, 5,(1968), 94-102.
+Zadeh L.A., Fuzzy Sets, ‘’Information and Control’’, 8 (1965) 338­353.
+Zemankova-Leech, M., Fuzzy Relational Data Bases (1983), Ph. D. Dissertation, Florida State University.
+
+
+== Liên kết ngoài ==
+Fuzzy Logic Newsgroup FAQ
+Simple INference Engine (SINE) 2.0: A FREE Windows Application with Complete Documentation and a Tutorial
+Simple test to check how well you understand it Lưu trữ 2010-03-10 tại Wayback Machine
+Open Source Software "mbFuzzIT" (Java)
+JFuzzyLogic: Open Source Fuzzy Logic Package + FCL (sourceforge, java)
+Fuzzy Logic Tutorial Lưu trữ 2008-07-16 tại Wayback Machine
+Open fuzzy logic based inference engine and data mining web service based on Metarule Lưu trữ 2017-04-20 tại Wayback Machine
+Fuzzy Logic Overview
+Fuzzy Logic Introduction Lưu trữ 2006-06-11 tại Wayback Machine
+Download Free Fuzzy Logic Simulation Software
+Fuzzy Logic for "Just Plain Folks" Lưu trữ 2008-03-09 tại Wayback Machine
+Stanford Encyclopedia of Philosophy entry
+Modeling Methodology 4: Localizing Global Models Will Dwinnell (1998) PC AI May/Jun, 1998 Using fuzzy clustering to enhance neural network performance
+Fuzzy Logic Control - A Taxonomy of Demonstrated Benefits
+Web page about FSQL: References and links about FSQL.
+Fuzzy logic in your game Lưu trữ 2007-01-29 tại Wayback Machine Nice and clear fuzzy logic tutorial, aimed towards game programming.
+Fuzzy Logic for Model and Method Validation
+Fuzzy Logic Tutorial (Part 1, Theory) Lưu trữ 2006-12-05 tại Wayback Machine, A gentle illustrated introduction to fuzzy logic and the combination of fuzzy logic and adaptive systems.
+"Shades of Reality", How The New Fuzzy Philosophy Will Change Your World View.
+InrecoLAN FuzzyMath, Fuzzy logic add-in for OpenOffice.org Calc
+Fuzzy Logic,Zadeh, Lotfi A., Fuzzy Logic. Scholarpedia.
+
+
+=== Các ứng dụng mẫu ===
+Nông nghiệp
+GIS Lưu trữ 2007-02-12 tại Wayback Machine
+Xử lý ảnh Lưu trữ 2005-04-25 tại Wayback Machine
+Học máy Lưu trữ 2007-01-24 tại Wayback Machine
+Thị giác máy
+Dược Lưu trữ 2008-04-07 tại Wayback Machine
+Thẩm định mô hình Lưu trữ 2007-03-12 tại Wayback Machine
+OCR Lưu trữ 2007-06-21 tại Wayback Machine
+Điều khiển robot
+Nhận dạng hình khối Lưu trữ 2007-01-28 tại Wayback Machine
+Viễn thông Lưu trữ 2007-01-06 tại Wayback Machine

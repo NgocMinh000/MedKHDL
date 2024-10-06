@@ -1,0 +1,29 @@
+Liệt mềm là một tình trạng thần kinh đặc trưng bởi yếu hoặc tê liệt và giảm trương lực cơ mà không có nguyên nhân rõ ràng khác (ví dụ như chấn thương trước đó). Tình trạng bất thường này có thể do bệnh tật hoặc chấn thương ảnh hưởng đến các dây thần kinh liên quan đến các cơ có liên quan. Ví dụ, nếu các dây thần kinh soma đến cơ xương bị cắt đứt, thì cơ đó sẽ bị tê liệt. Khi cơ bắp bước vào trạng thái này, chúng trở nên mềm nhũn và không thể co lại. Tình trạng này có thể trở nên tử vong nếu ảnh hưởng đến các cơ hô hấp, gây nguy cơ ngạt thở.
+
+
+== Nguyên nhân ==
+
+
+=== Bệnh bại liệt và các loại vi rút khác ===
+Thuật ngữ tê liệt cấp tính (acute flaccid paralysis - AFP) thường được sử dụng để mô tả một trường hợp khởi phát đột ngột, giống như bệnh bại liệt.
+AFP là dấu hiệu phổ biến nhất của bệnh bại liệt cấp tính và được sử dụng để giám sát trong các đợt bùng phát bệnh bại liệt. AFP cũng có liên quan đến một số tác nhân gây bệnh khác bao gồm enterovirus ngoài bệnh bại liệt, echovirus, vi rút West Nile và adenovirus, trong số những tác nhân khác.
+
+
+=== Ngộ độc thịt ===
+
+Vi khuẩn Clostridium botulinum là nguyên nhân gây ra bệnh ngộ độc thịt. Tế bào sinh dưỡng của C. botulinum có thể được ăn vào. Sự xâm nhập của vi khuẩn cũng có thể xảy ra thông qua nội bào tử trong vết thương. Khi vi khuẩn sống trong cơ thể sống, chúng gây tê liệt cơ thể. Điều này xảy ra do C. botulinum tạo ra một độc tố ngăn chặn sự giải phóng acetylcholine. Độc tố gây ngộ độc ngăn chặn sự xuất bào của các túi tiền-synap có chứa acetylcholine (ACh). Khi điều này xảy ra, các cơ không thể co lại. Các triệu chứng khác liên quan đến nhiễm chất độc thần kinh này bao gồm nhìn thấy gấp đôi, nhìn mờ, sụp mí mắt, nói lắp, khó nuốt, khô miệng và yếu cơ. Botulism ngăn chặn sự co cơ bằng cách ngăn chặn sự giải phóng acetylcholine, do đó làm ngừng hoạt động sau synap của mối nối thần kinh cơ. Nếu ảnh hưởng của nó lan đến cơ hô hấp, việc này có thể dẫn đến suy hô hấp, dẫn đến tử vong.
+
+
+=== Curare ===
+Curare là một chất độc thực vật có nguồn gốc từ - trong số các loài khác - Chondrodendron tomentosum và các loài khác nhau thuộc chi Strychnos, có nguồn gốc từ rừng nhiệt đới Nam Mỹ. Một số dân tộc bản địa nhất định trong khu vực - đặc biệt là Macusi - nghiền nát và nấu rễ và thân của những loài này và một số loài thực vật khác, sau đó trộn nước sắc thu được với nhiều chất độc thực vật và nọc độc động vật khác để tạo ra một chất lỏng dạng xi-rô để nhúng đầu mũi tên của họ và các đầu của phi tiêu xì đồng của họ. Curare cũng đã được người Nam Mỹ sử dụng trong y học để điều trị chứng điên cuồng, cổ chướng, phù nề, sốt, sỏi thận và vết bầm tím. Curare hoạt động như một chất ngăn chặn thần kinh cơ, gây tê liệt. Chất độc này liên kết với các thụ thể acetylcholine (ACh) trên cơ, ngăn chúng liên kết với ACh. Kết quả là ACh tích tụ trong mối nối thần kinh cơ, nhưng vì ACh không thể liên kết với các thụ thể trên cơ, nên cơ không thể được kích thích. Chất độc này phải đi vào máu để nó hoạt động. Nếu curare ảnh hưởng đến các cơ hô hấp, thì tác động của nó có thể đe dọa đến tính mạng, khiến nạn nhân có nguy cơ bị ngạt thở.
+
+
+=== Khác ===
+Liệt mềm có thể liên quan đến tổn thương nơron vận động phía dưới. Điều này trái ngược với tổn thương tế bào thần kinh vận động phía trên, thường có biểu hiện co cứng, mặc dù sớm có thể có biểu hiện liệt mềm.
+Nằm trong danh sách của AFP là bệnh bại liệt (bại liệt), viêm tủy cắt ngang, hội chứng Guillain – Barré, bệnh não do vi rút ruột, viêm dây thần kinh do chấn thương, hội chứng Reye, v.v.
+Một chương trình giám sát AFP được thực hiện để tăng tỷ lệ trường hợp mắc bệnh bại liệt. Điều này bao gồm việc thu thập hai mẫu phân trong vòng mười bốn ngày kể từ khi bắt đầu bị tê liệt và xác định vi-rút, đồng thời kiểm soát sự bùng phát và tăng cường chủng ngừa ở khu vực đó.
+Các ghi chép lịch sử từ những năm 1950, các báo cáo hiện đại của CDC và các phân tích gần đây về các mô hình ở Ấn Độ cho thấy một số trường hợp có thể gây ra chứng liệt mềm do sử dụng vắc xin bại liệt bằng đường uống.
+Rắn có nọc độc có chứa nọc độc thần kinh như rắn cạp nong, mambas, và rắn hổ mang cũng có thể gây liệt mềm hoàn toàn. Một số chất độc thần kinh trong chiến tranh hóa học như VX cũng có thể gây tê liệt hoàn toàn.
+
+
+== Tham khảo ==

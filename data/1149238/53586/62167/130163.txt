@@ -1,0 +1,13 @@
+Trong tâm lý học, hiệu ứng Stroop là một cách chứng minh sự giảm thời gian phản ứng (reaction time), tức là thì giờ cần để trả lời, đối với một việc làm. Khi một tên màu như là xanh, đỏ, vàng, v.v. được in bằng màu khác với ý nghĩa của tên (chẳng hạn từ"đỏ"được in màu xanh), óc bị trở ngại khi xử lý màu sắc của tên, dẫn đến thời gian phản ứng dài hơn và tần số lỗi cao hơn. Hiệu ứng này được đặt tên theo John Ridley Stroop, sau khi ông khám phá nó năm 1935. Bài nghiên cứu đầu tiên là một trong những bài được làm nguồn nhiều nhất trong lịch sử tâm lý học thực nghiệm.
+
+
+== Cuộc thí nghiệm đầu tiên ==
+Trong cuộc thí nghiệm, Stroop quản lý vài bài kiểm tra khác nhau hai bài thi chính. Stroop gọi những bài kiểm tra là RCN (tiếng Anh của Reading Color Names,"đọc tên màu"), trong đó những người tham gia phải nói lại ý nghĩa của các từ được in màu khác nhau, và NCW (Naming Colored Words,"gọi từ theo màu"), trong đó họ phải nói ra màu của mỗi tên màu. Ngoài ra, Stroop thử họ thêm mỗi lần họ thực hiện cuộc thí nghiệm này, để trừ sự ảnh hưởng của hiện tượng ghép từ vựng (word association).
+Stroop nhận ra rằng những người tham gia cần thêm thì giờ để thực hiện việc NCW, và hiệu ứng này vẫn xuất hiện dù đã thực hành mỗi việc nhiều lần. Các nhà tâm lý học cho rằng ảnh hưởng này do con người đọc tự động, tức là óc tự động định rõ ngữ nghĩa của từ rồi cần phải thay thế ấn tượng đầu tiên bằng sự nhận ra màu in của từ bằng một phương pháp không tự động.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trò chơi trực tuyến dựa theo hiệu ứng Stroop

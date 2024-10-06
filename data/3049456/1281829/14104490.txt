@@ -1,0 +1,42 @@
+Bệnh thận mạn tính là một loại bệnh thận, trong đó có sự mất dần chức năng thận trong khoảng thời gian vài tháng hoặc nhiều năm. Giai đoạn sớm thường không có triệu chứng. Sau đó, sưng chân, cảm thấy mệt mỏi, nôn mửa, chán ăn hoặc nhầm lẫn có thể phát triển. Các biến chứng có thể bao gồm bệnh tim, huyết áp cao, bệnh xương, hoặc thiếu máu.
+Nguyên nhân của bệnh thận mãn tính bao gồm tiểu đường, huyết áp cao, viêm cầu thận và bệnh thận đa nang. Các yếu tố nguy cơ bao gồm tiền sử gia đình mắc bệnh. Chẩn đoán thường bằng xét nghiệm máu để đo tốc độ lọc cầu thận và xét nghiệm nước tiểu để đo  albumin.   Các xét nghiệm khác như siêu âm hoặc sinh thiết thận có thể được thực hiện để xác định nguyên nhân cơ bản. Một số hệ thống phân loại khác nhau tồn tại.
+Những người có nguy được khuyến nghị xét nghiệm. Điều trị ban đầu có thể bao gồm thuốc để kiểm soát huyết áp, lượng đường trong máu và cholesterol thấp. NSAIDs nên tránh.  Các biện pháp khuyến cáo khác bao gồm duy trì hoạt động và thay đổi chế độ ăn uống nhất định.  Bệnh nặng có thể cần   chạy thận nhân tạo, thẩm phân phúc mạc , hoặc ghép thận. Có thể cần điều trị bệnh thiếu máu và bệnh xương cũng có thể được yêu cầu.
+Bệnh thận mãn tính ảnh hưởng đến 753 triệu người trên toàn cầu trong năm 2016, bao gồm 417 triệu nữ và 336 triệu nam giới. Năm 2015, kết quả là 1,2 triệu người chết, tăng từ 409.000 người vào năm 1990. Nguyên nhân gây ra số tử vong lớn nhất là cao huyết áp ở mức 550.000 ca, tiếp theo là bệnh tiểu đường ở mức 418.000, và viêm cầu thận ở mức 238.000 ca.
+
+
+== Dấu hiệu và triệu chứng ==
+CKD ban đầu không có triệu chứng cụ thể và thường chỉ được phát hiện khi tăng serum creatinine hoặc protein trong nước tiểu. Khi chức năng thận giảm:
+
+Huyết áp tăng lên do quá tải chất lỏng và tạo ra các hormon hoạt hóa do thận tạo ra qua renin-angiotensin system, làm tăng nguy cơ phát triển tăng huyết áp và/hoặc bị suy tim sung huyết.
+Urea tích tụ, dẫn đến tăng lượng máu và cuối cùng uremia (các triệu chứng khác nhau, từ thờ ơ đến viêm màng ngoài tim và bệnh não). Do lưu thông hệ thống cao, urê được bài tiết trong mồ hôi ở nồng độ cao và kết tinh trên da khi mồ hôi bốc hơi ("băng urê").
+Kali tích lũy trong máu (tăng kali máu với một loạt các triệu chứng bao gồm malaise và có khả năng gây tử vong loạn nhịp tim). Tăng kali máu thường không phát triển cho đến khi tốc độ lọc cầu thận giảm xuống dưới 20–25 ml/min/1.73 m²,, tại thời điểm đó thận đã giảm khả năng bài tiết kali. Tăng kali máu trong CKD có thể trầm trọng thêm bởi acidemia (dẫn đến sự thay đổi kali ngoại bào) và do thiếu insulin.
+
+Tổng hợp erythropoietin bị giảm gây thiếu máu.
+Quá tải thể tích chất lỏng có thể từ nhẹ phù nề đến đe dọa tính mạng phù phổi.
+Tăng phosphate huyết, do giảm bài tiết phosphate, theo sự giảm lọc cầu thận. Tăng phosphate huyết có liên quan đến tăng nguy cơ tim mạch, là một kích thích trực tiếp để vôi hóa mạch máu. Hơn nữa, nồng độ lưu thông của yếu tố tăng trưởng nguyên bào sợi-23 (FGF-23) tăng dần khi khả năng bài tiết phosphat giảm, nhưng phản ứng thích ứng này cũng có thể góp phần làm phì đại thất trái và tăng tỷ lệ tử vong ở Bệnh nhân CKD.
+Hạ đường huyết, do thiếu hụt 1,25 dihydroxyvitamin D3 (gây ra bởi sự kích thích FGF-23 và giảm khối lượng thận), và đề kháng với hoạt động của hormone tuyến cận giáp. Các tế bào xương chịu trách nhiệm cho sự gia tăng sản xuất FGF-23, là chất ức chế mạnh enzyme 1-alpha-hydroxylase (chịu trách nhiệm cho việc chuyển đổi 25-hydroxycholecalciferol thành 1,25 dihydroxyvitamin D3). Sau đó, điều này tiến triển thành hyperparathyroidism thứ cấp, loạn dưỡng xương do thận, và vôi hóa mạch máu làm suy yếu thêm chức năng tim. Hậu quả cực đoan là sự xuất hiện của tình trạng hiếm gặp có tên calciphylaxis.
+Các khái niệm về rối loạn xương mãn tính-bệnh xương khoáng sản (CKD-MBD) hiện đang mô tả một hội chứng lâm sàng rộng hơn phát triển như là một rối loạn hệ thống của sự trao đổi chất khoáng và xương do CKD biểu hiện bằng một hoặc một sự kết hợp của: 1) bất thường của calci, phosphor (phosphate), hormon tuyến cận giáp hoặc chuyển hóa vitamin D; 2) bất thường trong chu chuyển xương, khoáng hóa xương; khoáng hóa, khối lượng, tăng trưởng tuyến tính, hoặc sức mạnh (rối loạn phân bố teo thận); và 3) vôi hóa mạch máu hoặc mô mềm khác.CKD-MBD có liên quan đến kết quả khó khăn kém.
+Nhiễm toan chuyển hóa (do sự tích tụ của sunfat, phosphat, axit uric, vv) có thể gây ra hoạt động enzyme bị thay đổi bởi hoạt động của axit dư thừa trên các enzym; và cũng làm tăng khả năng kích thích của màng tim và màng thần kinh bằng cách thúc đẩy tăng kali máu do dư thừa axit (axit huyết). Nhiễm toan cũng là do giảm khả năng tạo ra đủ amonia từ các tế bào của ống lượn gần.
+Thiếu máu do thiếu sắt, làm tăng tỷ lệ khi chức năng thận giảm, đặc biệt phổ biến ở những người cần chạy thận nhân tạo. Đó là nguyên nhân đa nguyên nhân, nhưng bao gồm tăng viêm, giảm erythropoietin, và tăng acid uric máu dẫn đến ức chế tủy xương.
+Những người bị CKD bị tăng tốc xơ vữa động mạch và có nhiều khả năng phát triển bệnh tim mạch hơn so với dân số nói chung. Bệnh nhân bị bệnh CKD và bệnh tim mạch có xu hướng có những tiên lượng tồi tệ hơn đáng kể so với những người chỉ đau khổ sau này.
+Rối loạn chức năng tình dục rất phổ biến ở cả nam và nữ mắc chứng CKD. Đa số nam giới có ham muốn tình dục tình dục giảm, khó có được cương cứng, và đạt cực khoái, và các vấn đề trở nên tồi tệ hơn theo tuổi tác. Đa số phụ nữ gặp rắc rối với kích thích tình dục, và thống kinh và các vấn đề về biểu diễn và thưởng thức tình dục là phổ biến.
+
+
+== Nguyên nhân ==
+Nguyên nhân phổ biến nhất của CKD vào năm 2015 là đái tháo đường theo sau là Cao huyết áp và viêm cầu thận. Các nguyên nhân khác của CKD bao gồm vô căn (tức là nguyên nhân không rõ, thường liên quan đến thận nhỏ trên siêu âm thận).  Cùng với nhau, điều này gây ra khoảng 75% của tất cả các trường hợp người lớn.
+Trong lịch sử, bệnh thận đã được phân loại theo một phần của giải phẫu thận liên quan.
+
+Bệnh mạch máu bao gồm bệnh mạch lớn như song phương hẹp động mạch thận và bệnh mạch nhỏ như bệnh thận do thiếu máu cục bộ, hội chứng tan huyết-tan máu và viêm mạch.
+Bệnh cầu thận bao gồm một nhóm đa dạng và được phân thành:
+Bệnh cầu thận nguyên phát như phân đoạn glomerulosclerosis và bệnh thận do thận IgA (hoặc viêm thận)
+Bệnh cầu thận thứ cấp như bệnh thận do tiểu đường và bệnh lupus nephritis
+Bệnh bẩm sinh như bệnh thận đa nang.
+Bệnh Tubulointerstitial bao gồm viêm thận tubulointerstitial mãn tính do thuốc và độc tố gây ra, và trào ngược thần kinh.
+Bệnh thận do tắc nghẽn được minh họa bằng hai sỏi thận và các bệnh của tuyến tiền liệt như tăng sản tuyến tiền liệt lành tính.
+Trong trường hợp hiếm hoi, nhiễm giun kim vào thận cũng có thể gây ra bệnh thận.
+Nguyên nhân không truyền thống của CKD (CKDu) được biểu thị nếu không có nguyên nhân phổ biến của CKD:
+CKD không rõ nguyên nhân là chủ đề nghiên cứu của Bộ Y tế Sri Lanka và Tổ chức Y tế Thế giới2009–2012.
+Bệnh lý thần kinh Mesoamerican, một dạng CKDu, là "một dạng bệnh thận mới có thể được gọi là bệnh thận nông nghiệp".
+
+
+== Tham khảo ==

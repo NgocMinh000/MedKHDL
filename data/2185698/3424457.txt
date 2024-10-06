@@ -1,0 +1,63 @@
+Tình trạng Kháng thuốc kháng sinh hay Kháng thuốc trụ sinh xảy ra khi một loại vi sinh vật tiến hóa để đề kháng mạnh hơn hoặc hoàn toàn với kháng sinh mà trước đây có thể trị được. Sự đề kháng phát sinh thông qua một trong ba cách: Đề kháng tự nhiên trong một số loại vi khuẩn; gen đột biến; hoặc bởi một loài có được sức đề kháng từ một loài khác. Kháng thể xuất hiện một cách tự nhiên do những đột biến ngẫu nhiên; hoặc thường hơn sau sự tích tụ dần dần theo thời gian, và vì lạm dụng thuốc kháng sinh. Vi khuẩn kháng thuốc đang ngày càng khó điều trị, đòi hỏi thuốc thay thế hoặc liều lượng-mà cao hơn có thể tốn kém hơn hoặc độc hơn. Vi khuẩn kháng nhiều loại kháng sinh được gọi là đa kháng (MDR).
+Tại Hoa Kỳ, Trung tâm Kiểm soát và Phòng ngừa Bệnh tật đã xác định được 18 loại vi trùng và nấm đã trở thành loại kháng thuốc trụ sinh và hiện nay đang đe dọa sức khỏe công cộng.
+
+
+== Ngăn ngừa ==
+
+
+=== Tổ chức Y tế thế giới ===
+Vào năm 2014, WHO tuyên bố: 
+
+Mọi người có thể giúp giải quyết vấn đề kháng thuốc bằng cách:
+Chỉ sử dụng kháng sinh khi được bác sĩ kê toa.
+Sử dụng thuốc kháng sinh đúng và đủ liều, ngay cả khi họ cảm thấy tốt hơn.
+Không bao giờ chia sẻ kháng sinh với người khác hoặc sử dụng các toa thuốc còn sót lại.
+Uống thuốc đúng liều lượng bác sĩ đã kê, không bỏ dở thuốc đang uống khi cho là mình đã hết bệnh.
+Nhân viên y tế và dược sĩ có thể giúp giải quyết tình trạng kháng thuốc bằng cách:
+Tăng cường công tác phòng, chống nhiễm khuẩn;
+Chỉ kê toa và phân phát kháng sinh khi chúng thực sự cần thiết;
+Kê toa và phân phát thuốc kháng sinh phải để điều trị bệnh.
+Các nhà hoạch định chính sách có thể giúp giải quyết vấn đề kháng thuốc bằng cách:
+Tăng cường khả năng theo dõi và khả năng phòng thí nghiệm;
+Điều chỉnh và thúc đẩy việc sử dụng thuốc hợp lý.
+Các nhà hoạch định chính sách và ngành công nghiệp có thể giúp giải quyết vấn đề kháng cự bằng cách:
+Thúc đẩy đổi mới, nghiên cứu và phát triển các công cụ mới;
+Thúc đẩy hợp tác và chia sẻ thông tin giữa các bên liên quan.
+
+
+=== Liệu pháp thay thế ===
+Liệu pháp thay thế là một phương pháp được đề xuất, trong đó có hai hoặc ba kháng sinh được thực hiện điều trị so với chỉ dùng một kháng sinh như vậy vi khuẩn kháng với một kháng sinh sẽ bị giết khi dùng kháng sinh tiếp theo. Các nghiên cứu đã phát hiện ra rằng phương pháp này làm giảm tỷ lệ vi khuẩn kháng thuốc kháng sinh nổi lên trong ống nghiệm so với một loại thuốc duy nhất trong suốt thời gian. 
+
+
+=== Chú thích ===
+
+
+== Tham khảo ==
+Sách
+Caldwell, Roy; Lindberg, David biên tập (2011). “Understanding Evolution” [Mutations are random]. University of California Museum of Paleontology. Truy cập ngày 14 tháng 8 năm 2011.
+Nelson, Richard William (2009). Darwin, Then and Now: The Most Amazing Story in the History of Science (Self Published). iUniverse. tr. 294.
+Tập san
+Arias CA, Murray BE (2009). “Antibiotic-Resistant Bugs in the 21st Century — A Clinical Super-Challenge”. The New England Journal of Medicine. 360 (5): 439–443. doi:10.1056/NEJMp0804651. PMID 19179312.
+Goossens H, Ferech M, Vander Stichele R, Elseviers M (2005). Esac Project. “Outpatient antibiotic use in Europe and association with resistance: a cross-national database study”. Lancet. Group Esac Project. 365 (9459): 579–87. doi:10.1016/S0140-6736(05)17907-0. PMID 15708101.
+Hawkey, PM; Jones, AM (tháng 9 năm 2009). “The changing epidemiology of resistance”. The Journal of antimicrobial chemotherapy. 64 Suppl 1: i3–10. doi:10.1093/jac/dkp256. PMID 19675017.
+Soulsby EJ (2005). “Resistance to antimicrobials in humans and animals: Overusing antibiotics is not the only cause and reducing use is not the only solution”. BMJ. 331 (7527): 1219–20. doi:10.1136/bmj.331.7527.1219. PMC 1289307. PMID 16308360.
+“Alternatives to Antibiotics Reduce Animal Disease”. Commonwealth Scientific and Industrial Research Organization. 9 tháng 1 năm 2006. Bản gốc lưu trữ ngày 5 tháng 6 năm 2011. Truy cập ngày 3 tháng 8 năm 2016.
+
+
+== Liên kết ngoài ==
+
+Animation of Antibiotic Resistance
+CDC Article on Hospital Acquired MRSA
+CDC Article on Community Acquired MRSA
+CDC Guideline "Management of Multidrug-Resistant Organisms in Healthcare Settings, 2006"
+ReAct Action on Antibiotic Resistance
+Alliance for the Prudent Use of Antibiotics
+BURDEN of Resistance and Disease in European Nations – An EU-Project to estimate the financial burden of antibiotic resistance in European Hospitals  Lưu trữ 2008-01-15 tại Wayback Machine
+Extending the Cure: Policy Research to Extend Antibiotic Effectiveness  Lưu trữ 2011-07-04 tại Wayback Machine
+2003 New Guidance for Industry on Antimicrobial Drugs for Food Animals Questions and Answers, U.S. FDA
+SciDev.net Antibiotic Resistance spotlight The Science and Development Network is an online science and development network focused on news and information important to the developing world
+Do Bugs Need Drugs?
+Combating Drug Resistance – Tackling drug resistance in bacteria and other pathogens.
+Nanoparticle Disguised as a Blood Cell Fights Bacterial Infection Lưu trữ 2019-09-15 tại Wayback Machine, MIT Technology Review
+Report to the President on Combating Antibiotic Resistance United States President's Council of Advisors on Science and Technology
+Resistance Map Center for Disease Dynamics, Economics & Policy

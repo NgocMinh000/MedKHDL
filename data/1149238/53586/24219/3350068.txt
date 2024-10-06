@@ -1,0 +1,10 @@
+Google DeepMind là một công ty trí tuệ nhân tạo của Anh được thành lập vào tháng 9 năm 2010 với tên DeepMind Technologies. Công ty được đổi tên khi nó đã được Google mua lại vào năm 2014. Công ty đã tạo ra một mạng lưới thần kinh biết cách học chơi trò chơi video trong một cách thức tương tự như con người, cũng như một mạng lưới thần kinh mà có thể truy cập vào một bộ nhớ ngoài giống như một máy Turing thông thường, dẫn đến một máy tính bắt chước bộ nhớ ngắn hạn của bộ não con người. Công ty đã trở nên nổi tiếng trong năm 2016 sau khi chương trình AlphaGo của mình đã đánh bại một kiện tướng cờ vây chuyên nghiệp của con người lần đầu tiên.
+
+
+== Vụ Google mua lại ==
+Ngày 26 tháng 1 năm 2014, Google đã thông báo đã đồng ý mua lại DeepMind Technologies. Vụ mua lại được cho là đã diễn ra sau khi Facebook chấm dứt đàm phán với DeepMind Technologies năm 2013. Sau vụ thâu tóm, công ty được đổi tên thành Google DeepMind.
+Ước tính số tiền mua lại dao động, khoảng từ 400 triệu đô la Mỹ đến hơn 500 triệu đô la Mỹ.
+Một trong những điều kiện của DeepMind đưa ra cho Google là họ phải thiết lập một ban Đạo đức AI.
+
+
+== Chú thích ==

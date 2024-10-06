@@ -1,0 +1,859 @@
+Lý thuyết điều khiển tự động là một nhánh liên ngành của kỹ thuật và toán học, liên quan đến hành vi của các hệ thống động lực. Đầu ra mong muốn của một hệ thống được gọi là giá trị đặt trước. Khi một hoặc nhiều biến đầu ra của hệ thống cần tuân theo một giá trị đặt trước theo thời gian, một bộ điều khiển điều khiển các đầu vào cho hệ thống để đạt được hiệu quả mong muốn trên đầu ra hệ thống.
+
+
+== Tổng quan ==
+Lý thuyết điều khiển là:
+
+một lý thuyết liên quan đến ảnh hưởng của hành vi trong các hệ thống động lực
+một nhánh con liên ngành của khoa học, trong đó có nguồn gốc từ kỹ thuật và toán học, và được triển khai vào áp dụng bởi các ngành khoa học xã hội, như tâm lý học, xã hội học và tội phạm học.
+
+
+=== Một ví dụ ===
+Xét một ô tô điều khiển hành trình, là một thiết bị được thiết kế để duy trì ở tốc độ không đổi; tốc độ mong muốn hoặc đặt trước, được cung cấp bởi trình điều khiển. Hệ thống trong trường hợp này là chiếc xe. Đầu ra hệ thống là tốc độ, và các biến điều khiển là vị trí bộ điều tiết của động cơ, ảnh hưởng đến mô-men xoắn của động cơ ở đầu ra.
+Cách sơ khai nhất để thực hiện điều khiển hành trình chỉ đơn giản là giữ nguyên vị trí của bộ điều tiết ga của trình điều khiển. Tuy nhiên, trên địa hình miền núi, chiếc xe sẽ bị hãm lại khi leo dốc và được tăng tốc khi xuống dốc. Trong thực tế, bất kỳ tham số nào khác với những gì đã được giả định trong thời gian thiết kế sẽ trở thành một sai số tỷ lệ ở tốc độ đầu ra, bao gồm cả khối lượng chính xác của chiếc xe, độ cản của gió, và áp lực của lốp xe. Bộ điều khiển loại này được gọi là bộ điều khiển vòng hở vì không có kết nối trực tiếp nào giữa đầu ra của hệ thống (tốc độ xe) và các điều kiện thực tế gặp phải, do đó, hệ thống không và không thể bù lại được các lực không mong muốn.
+Trong một hệ thống điều khiển vòng kín, một cảm biến giám sát đầu ra (tốc độ xe) và cung cấp dữ liệu đó về một máy tính để điều chỉnh một cách liên tục tín hiệu điều khiển đầu vào (điều tiết ga)khi cần thiết để giữ cho sai số điều khiển trong mức độ tối thiểu (đó là, để duy trì tốc độ mong muốn). tín hiệu phản hồi về hệ thống cho phép bộ điều khiển(máy tính bên trong xe) bù một cách linh động cho những thay đổi trong hệ thống, chẳng hạn như sự thay đổi độ dốc của mặt đất hoặc tốc độ gió. Một hệ thống điều khiển phản hồi lý tưởng loại bỏ tất cả những sai số, có tác dụng giảm thiểu tác động của bất kỳ lực nào có thể hoặc không thể phát sinh trong suốt quá trình làm việc và tạo ra một phản ứng trong hệ thống mà phù hợp hoàn hảo với mong muốn của người dùng. Trong thực tế, điều này không thể thực hiện được do sai số đo lường trong các cảm biến, độ trễ trong các bộ điều khiển, và sự không hoàn hảo trong điều khiển đầu vào.
+
+
+== Lịch sử ==
+
+Mặc dù nhiều dạng của hệ thống điều khiển có từ thời cổ đại, nghiên cứu chính thức của lĩnh vực này bắt đầu với một phân tích động học của hệ điều tốc li tâm, được thực hiển bởi nhà vật lý James Clerk Maxwell vào năm 1868 với tựa đề On Governors(hệ điều tốc). Tài liệu này miêu tả và phân tích hiện tượng "dao động", trong đó sự trễ pha trong hệ thống có thể dẫn đến trạng thái bù quá mức và không ổn định. Điều này tạo ra sự hấp dẫn trong đề tài này, trong những bạn học với Maxwell, Edward John Routh tổng quát hóa các kết quả của Maxwell cho lớp tổng quát trong các hệ tuyến tính. Một cách độc lập, Adolf Hurwitz đã phân tích sự ổn định của hệ thống sử dụng phương trình vi phân vào năm 1877, kết quả là ta có được định lý Routh-Hurwitz.
+Một ứng dụng đáng chú ý của điều khiển động học là trong lĩnh vực điều khiển máy bay. Anh em nhà Wright đã lần đầu tiên thử nghiệm chuyến bay thành công vào ngày 17 tháng 12, năm 1903 và được đánh dấu bởi khả năng điều khiển máy bay của họ trong thời gian đáng kể (nhiều hơn so với khả năng sinh ra lực nâng từ cánh máy bay, đã được biết). Điều khiển của máy bay rất cần thiết cho sự an toàn của chuyến bay.
+Vào Chiến tranh thế giới thứ II, lý thuyết điều khiển đã là một phần quan trọng của hệ thống kiểm soát hỏa lực, hệ thống dẫn đường và điện tử học. Cuộc chạy đua không gian cũng phụ thuộc vào sự chính xác của việc điều khiển tàu không gian. Tuy nhiên, lý thuyết điều khiển cũng được sử dụng trong các lĩnh vực khác càng ngày càng nhiều như trong kinh tế học.
+
+
+== Những người tiên phong trong Lý thuyết điều khiển tự động ==
+
+Những nhà khoa học đã đóng góp vào sự phát triển của lý thuyết điều khiển tự động, bao gồm:
+
+Pierre-Simon Laplace (1749-1827) phát minh ra phép biến đổi Z trong công trình về lý thuyết xác suất của ông, bây giờ được sử dụng để giải quyết các bài toán rời rạc trong miền thời gian của lý thuyết điều khiển. Phép biến đổi Z là phép biến đổi tương đương trong miền giời gian rời rạc của phép biến đổi Laplace được đặt tên theo chính tên ông.
+Alexander Lyapunov (1857–1918) vào năm đánh dấu sự khởi đầu của lý thuyết bền vững.
+Harold S. Black (1898–1983), phát minh ra khái niệm bộ khuếch đại phản hồi âm vào năm 1927. Ông đã thành công trong việc phát triển các bộ khuếch đại phản hồi âm bền vững vào những năm 1930.
+Harry Nyquist (1889–1976), phát triển tiêu chuẩn ổn định Nyquist cho hệ thống phản hồi vào những năm 1930.
+Richard E. Bellman (1920–1984), phát triển quy hoạch động từ những năm 1940.
+Andrey Kolmogorov (1903–1987) đồng phát triển bộ lọc Wiener-Kolmogorov (1941).
+Norbert Wiener (1894–1964) đồng phát triển bộ lọc Wiener-Kolmogorov và đặt ra thuật ngữ (điều khiển học) vào những năm 1940.
+John R. Ragazzini (1912–1988) giới thiệu điều khiển kỹ thuật số và biến đổi z vào những năm 1950.
+Lev Pontryagin (1908–1988) giới thiệu nguyên lý cực đại và nguyên lý bang-bang.
+
+
+== Lý thuyết điều khiển cổ điển ==
+Để tránh các vấn đề của bộ điều khiển vòng hở, lý thuyết điều khiển đề xuất khái niệm phản hồi.
+Một bộ điều khiển vòng kín sử dụng tín hiệu phản hồi để điều khiển trạng thái hoặc đầu ra của một hệ thống động lực. Tên của nó đến từ đường đi của thông tin trong hệ thống: quá trình đầu vào (ví dụ Vôn dùng trong một động cơ điện) theo hiệu ứng ở chu trình đầu ra (ví dụ: tốc độ hoặc momen của động cơ), đo được với cảm biến và được xử lý bởi bộ điều khiển; kết quả (tín hiệu điều khiển) được sử dụng làm đầu vào cho chu trình xử lý, đóng kín vòng lặp.
+Các bộ điều khiển vòng kín có những ưu điểm so với các bộ điều khiển vòng hở là:
+
+Loại trừ nhiễu (như ma sát không đo được ở động cơ)
+Đảm bảo được thực hiện ngay cả với mô hình không chắc chắn, khi cấu trúc mô hình không phù hợp hoàn hảo với quá trình thực và các thông số mô hình không chính xác
+Các chu trình không ổn định có thể ổn định hóa
+Giảm độ nhạy cho các thông số biến đổi
+Kết quả theo dõi đặt trước được cải thiện
+Trong một vài hệ thống, điều khiển vòng kín và điều khiển vòng hở được sử dụng đồng thời. Trong những hệ thống như vậy, điều khiển vòng hở được nằm trong vòng tiến nhằm nâng cao kết quả theo dõi giá trị đặt trước.
+Một cấu trúc điều khiển kín phổ biến là bộ điều khiển PID.
+
+
+=== Hàm truyền vòng kín ===
+Đầu ra của hệ thống y(t) được hồi tiếp qua một cảm biến đo lường F để so sánh với giá trị đặt trước r(t). Bộ điều khiển C lấy sai số e (độ chênh lệch) giữa giá trị đặt và tín hiệu đầu ra để thay đổi đầu vào u cho hệ thống dưới điều khiển P. Điều này được thể hiện như trong hình vẽ. Loại này là điều khiển vòng kín hay còn gọi là điều khiển hồi tiếp.
+Đây là một hệ điều khiển một đầu vào, một đầu ra(SISO); hệ thống MIMO (Nhiều đầu vào, nhiều đầu ra), với nhiều hơn một đầu vào/đầu ra thì phổ biến. Trong trường hợp này các biến được biểu diễn qua các vector thay vì các giá trị vô hướng đơn giản. Trong vài hệ thống tham số phân thán, các vector có thể là có chiều vô hạn (các hàm đặc trưng).
+
+Nếu chúng ta giả thiết bộ điều khiển C, cơ cấu P, và cảm biến F là tuyến tính và bất biến theo thời gian (ví dụ: các yêu tố trong hàm truyền C(s), P(s), và F(s) của chúng không phụ thuộc vào thời gian), hệ thống trên có thể được phân tích sử dụng phép biến đổi Laplace vào các biến. Điều này đưa tới những quan hệ sau:
+
+  
+    
+      
+        Y
+        (
+        s
+        )
+        =
+        P
+        (
+        s
+        )
+        U
+        (
+        s
+        )
+        
+        
+      
+    
+    {\displaystyle Y(s)=P(s)U(s)\,\!}
+  
+
+  
+    
+      
+        U
+        (
+        s
+        )
+        =
+        C
+        (
+        s
+        )
+        E
+        (
+        s
+        )
+        
+        
+      
+    
+    {\displaystyle U(s)=C(s)E(s)\,\!}
+  
+
+  
+    
+      
+        E
+        (
+        s
+        )
+        =
+        R
+        (
+        s
+        )
+        −
+        F
+        (
+        s
+        )
+        Y
+        (
+        s
+        )
+        .
+        
+        
+      
+    
+    {\displaystyle E(s)=R(s)-F(s)Y(s).\,\!}
+  
+
+Giải ra Y(s) theo R(s) được:
+
+  
+    
+      
+        Y
+        (
+        s
+        )
+        =
+        
+          (
+          
+            
+              
+                P
+                (
+                s
+                )
+                C
+                (
+                s
+                )
+              
+              
+                1
+                +
+                F
+                (
+                s
+                )
+                P
+                (
+                s
+                )
+                C
+                (
+                s
+                )
+              
+            
+          
+          )
+        
+        R
+        (
+        s
+        )
+        =
+        H
+        (
+        s
+        )
+        R
+        (
+        s
+        )
+        .
+      
+    
+    {\displaystyle Y(s)=\left({\frac {P(s)C(s)}{1+F(s)P(s)C(s)}}\right)R(s)=H(s)R(s).}
+  
+
+Biểu thức 
+  
+    
+      
+        H
+        (
+        s
+        )
+        =
+        
+          
+            
+              P
+              (
+              s
+              )
+              C
+              (
+              s
+              )
+            
+            
+              1
+              +
+              F
+              (
+              s
+              )
+              P
+              (
+              s
+              )
+              C
+              (
+              s
+              )
+            
+          
+        
+      
+    
+    {\displaystyle H(s)={\frac {P(s)C(s)}{1+F(s)P(s)C(s)}}}
+  
+ được xem như hàm truyền vòng kín của hệ thống. Tử số là độ lợi ở phía trên (vòng hở) thu được từ r đến y,và mẫu số là 1 cộng với độ lợi xung quanh vòng hồi tiếp, được gọi là độ lợi vòng lặp. Nếu 
+  
+    
+      
+        
+          |
+        
+        P
+        (
+        s
+        )
+        C
+        (
+        s
+        )
+        
+          |
+        
+        ≫
+        1
+      
+    
+    {\displaystyle |P(s)C(s)|\gg 1}
+  
+, có nghĩa là nó có một tiêu chuẩn lớn với mỗi giá trị của s, và nếu 
+  
+    
+      
+        
+          |
+        
+        F
+        (
+        s
+        )
+        
+          |
+        
+        ≈
+        0
+      
+    
+    {\displaystyle |F(s)|\approx 0}
+  
+, thì Y(s) xấp xỉ bằng R(s). Do đó đã cài đặt giá trị đặt trước để điều khiển đầu ra.
+
+
+=== Bộ điều khiển PID ===
+
+Bộ điều khiển PID có lẽ là thiết kế điều khiển hồi tiếp được sử dụng nhiều nhất. PID là từ viết tắt của Proportional-Integral-Derivative (có nghĩa là tỉ lệ-tích phân-vi phân), đề cập đến 3 khâu hoạt động trên tín hiệu sai số để tạo ra một tín hiệu điều khiển. Nếu u(t) là tín hiệu điều khiển gửi tới hệ thống, y(t) là đầu ra đo được và r(t) là đầu ra mong muốn, và sai số theo dõi 
+  
+    
+      
+        e
+        (
+        t
+        )
+        =
+        r
+        (
+        t
+        )
+        −
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle e(t)=r(t)-y(t)}
+  
+, một bộ điều khiển PID có dạng tổng quát như sau:
+
+  
+    
+      
+        u
+        (
+        t
+        )
+        =
+        
+          K
+          
+            P
+          
+        
+        e
+        (
+        t
+        )
+        +
+        
+          K
+          
+            I
+          
+        
+        ∫
+        e
+        (
+        t
+        )
+        
+          d
+        
+        t
+        +
+        
+          K
+          
+            D
+          
+        
+        
+          
+            d
+            
+              
+                d
+              
+              t
+            
+          
+        
+        e
+        (
+        t
+        )
+        .
+      
+    
+    {\displaystyle u(t)=K_{P}e(t)+K_{I}\int e(t){\text{d}}t+K_{D}{\frac {\text{d}}{{\text{d}}t}}e(t).}
+  
+
+đặc tính động học của vòng kín mong muốn đạt được bằng cách điều chỉnh 3 thông số 
+  
+    
+      
+        
+          K
+          
+            P
+          
+        
+      
+    
+    {\displaystyle K_{P}}
+  
+, 
+  
+    
+      
+        
+          K
+          
+            I
+          
+        
+      
+    
+    {\displaystyle K_{I}}
+  
+ và 
+  
+    
+      
+        
+          K
+          
+            D
+          
+        
+      
+    
+    {\displaystyle K_{D}}
+  
+, thường lặp đi lặp lại bằng cách "điều chỉnh" và không cần có kiến thức cụ thể về một mô hình. Sự ổn định có thể thường được chắc chắn bằng cách chỉ sử dụng khâu tỉ lệ. Khâu tích phân cho phép loại bỏ một bậc nhiễu (thường là một đặc điểm đặc trưng trong điều khiển quá trình). Khâu vi phân được sử dụng để cung cấp sự giảm dần hoặc hình dạng của đáp ứng. Các bộ điều khiển PID là lớp thiết lập tốt nhất trong hệ thống điều khiển: tuy nhiên, chúng không thể được sử dụng trong nhiều trường hợp phức tạp hơn, đặc biệt nếu các hệ thống MIMO được xem xét.
+Việc ứng dụng các kết quả của biến đồi Laplace trong phương trình bộ điều khiển PID được biến đổi
+
+  
+    
+      
+        u
+        (
+        s
+        )
+        =
+        
+          K
+          
+            P
+          
+        
+        e
+        (
+        s
+        )
+        +
+        
+          K
+          
+            I
+          
+        
+        
+          
+            1
+            s
+          
+        
+        e
+        (
+        s
+        )
+        +
+        
+          K
+          
+            D
+          
+        
+        s
+        e
+        (
+        s
+        )
+      
+    
+    {\displaystyle u(s)=K_{P}e(s)+K_{I}{\frac {1}{s}}e(s)+K_{D}se(s)}
+  
+
+  
+    
+      
+        u
+        (
+        s
+        )
+        =
+        (
+        
+          K
+          
+            P
+          
+        
+        +
+        
+          K
+          
+            I
+          
+        
+        
+          
+            1
+            s
+          
+        
+        +
+        
+          K
+          
+            D
+          
+        
+        s
+        )
+        e
+        (
+        s
+        )
+      
+    
+    {\displaystyle u(s)=(K_{P}+K_{I}{\frac {1}{s}}+K_{D}s)e(s)}
+  
+
+với hàm truyền của bộ điều khiển PID
+
+  
+    
+      
+        C
+        (
+        s
+        )
+        =
+        (
+        
+          K
+          
+            P
+          
+        
+        +
+        
+          K
+          
+            I
+          
+        
+        
+          
+            1
+            s
+          
+        
+        +
+        
+          K
+          
+            D
+          
+        
+        s
+        )
+        .
+      
+    
+    {\displaystyle C(s)=(K_{P}+K_{I}{\frac {1}{s}}+K_{D}s).}
+  
+
+
+== Lý thuyết điều khiển hiện đại ==
+Trái ngược với phân tích trong miền tần số trong lý thuyết điều khiển cổ điển, lý thuyết điều khiển hiện đại sử dụng mô tả không gian trạng thái trong miền thời gian, một mô hình toán học của một hệ thống vật lý như là một cụm đầu vào, đầu ra và các biến trạng thái quan hệ với phương trình trạng thái bậc một. Để trừu tượng hóa từ số lượng đầu vào, đầu ra và trạng thái, các biến và biểu thức như vector và phương trình vi phân, phương trình đại số được viết dưới dạng ma trận (những thứ sau chỉ có thể thực hiện khi hệ thống động lực là tuyến tính). Biểu diễn không gian trạng thái(còn gọi là "xấp xỉ miền thời gian ") cung cấp một cách thức ngắn gọn và thuật tiện cho bắt chước và phân tích hệ thống với nhiều đầu vào và đâu ra. Với các đầu vào và đầu ra, chúng ta có thể có cách viết khác cho phép biến đổi Laplace để mã hóa toàn bộ thông tin về một hệ thống. Không giống như xấp xỉ miền tần số, việc sử dụng biểu diễn không gian trạng thái không bị giới hạn với hệ thống bằng các thành phần tuyến tính và các điều kiện zero ban đầu. "Không gian trạng thái" đề cập đếp không gian mà các hệ trục là các biến trạng thái. Trạng thái của hệ thống có thể được biểu diễn như một vector trong không gian đó.)
+
+
+== Các chủ đề trong lý thuyết điều khiển tự động ==
+
+
+=== Điều khiển bền vững(ổn định) ===
+Độ ổn định của một hệ thống động lực tổng quát không có đầu vào có thể được miêu tả theo tiêu chuẩn ổn định Lyapunov. Một hệ tuyến tính có một đầu vào được gọi là ổn định chặn đầu vào, chặn đầu ra(BIBO)(bounded-input bounded-output) nếu đầu ra của nó ở trạng thái bị chặn cho bất kỳ đầu vào bị chặn nào. Độ ổn định cho hệ phi tuyến có một đầu vào là đầu vào ở trạng thái ổn định (ISS-input-to-state stability), sẽ kết hợp độ ổn định Lyapunov và một khái niệm tương tự độ ổn định BIBO. Để đơn giản, những mô tả sau tập trung vào những hệ thống tuyến tính thời gian liên tục và thời gian rời rạc.
+Theo mô tả toán học, điều này có nghĩa là để có một hệ tuyến tính nhân quả ổn định tất cả các cực của hàm truyền của nó phải thỏa mãn vài tiêu chuẩn phụ thuộc vào một trong hai phân tích trong miền thời gian liên tục hoặc rời rạc được sử dụng:
+
+Trong miền thời gian liên tục, phép biến đổi Laplace được sử dụng để đạt được hàm truyền. Một hệ thống là ổn định nếu các cực của hàm truyền này nằm gọn ở phần tư thứ 2(phía trên, bên trái) của mặt phẳng phức (vì phần thực của tất cả các cực đều nhỏ hơn 0).
+Trong miền thời gian rời rạc phép biến đổi Z được sử dụng. Một hệ thống là ổn định nếu các cực của hàm truyền này nằm gọn bên trong vòng tròn đơn vị. vì biên độ của các cực thì nhỏ hơn 1).
+Khi các điều kiện tương ứng trên được thỏa mãn một hệ thống được gọi là ổn định tiệm cận: các biến của một hệ thống điều khiển ổn định tiệm cận luôn giảm từ giá trị ban đầu và không biểu thị dao động vĩnh cửu. Dao động vĩnh cửu xảy ra khi một cực có một phần thực bằng 0 (trong trường hợp miền thời gian liên tục) hoặc một modul bằng 1(trong trường hợp miền thời gian rời rạc). Nếu một hệ thống ổn định đơn giản không đáp ứng tăng mà cũng không đáp ứng giảm trong suốt miền thời gian, và không có dao động nào, thì nó là ổn định cận biên: trong trường hợp này hàm truyền hệ thống có các cực không lặp lại tại gốc tọa độ mặt phẳng phức(đó là thành phần thực và phức của chúng là 0 trong miền thời gian liên tục). Các dao động xuất hiện khi các cực với phần thực bằng 0 có một phần ảo không bằng 0.
+Những khác biệt giữa hai trường hợp là không mâu thuẫn với nhau. Biến đổi Laplace là trong hệ tọa độ Descartes và biến đổi z là trong hệ tọa độ tròn, và nó có thể được biểu diễn:
+
+phần thực âm trong miền Laplace có thể ánh xạ vào phần trong của vòng tròn đơn vị
+phần thực dương trong miền Laplace có thể ánh xạ vào phần ngoài của vòng tròn đơn vị
+Nếu một hệ thống được xem xét có một đáp ứng xung:
+
+  
+    
+      
+         
+        x
+        [
+        n
+        ]
+        =
+        
+          0.5
+          
+            n
+          
+        
+        u
+        [
+        n
+        ]
+      
+    
+    {\displaystyle \ x[n]=0.5^{n}u[n]}
+  
+
+thì biến đổi z (xem ví dụ này), là
+
+  
+    
+      
+         
+        X
+        (
+        z
+        )
+        =
+        
+          
+            1
+            
+              1
+              −
+              0.5
+              
+                z
+                
+                  −
+                  1
+                
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ X(z)={\frac {1}{1-0.5z^{-1}}}\ }
+  
+
+sẽ có một cực ở 
+  
+    
+      
+        z
+        =
+        0.5
+      
+    
+    {\displaystyle z=0.5}
+  
+ (zero phần ảo). Hệ thống này là ổn định BIBO(tiệm cận) vì cực của nó nằm trong vòng tròn đơn vị.
+Tuy nhiên, nếu đáp ứng xung là
+
+  
+    
+      
+         
+        x
+        [
+        n
+        ]
+        =
+        
+          1.5
+          
+            n
+          
+        
+        u
+        [
+        n
+        ]
+      
+    
+    {\displaystyle \ x[n]=1.5^{n}u[n]}
+  
+
+thì biến đổi z sẽ là
+
+  
+    
+      
+         
+        X
+        (
+        z
+        )
+        =
+        
+          
+            1
+            
+              1
+              −
+              1.5
+              
+                z
+                
+                  −
+                  1
+                
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ X(z)={\frac {1}{1-1.5z^{-1}}}\ }
+  
+
+có một cực ở 
+  
+    
+      
+        z
+        =
+        1.5
+      
+    
+    {\displaystyle z=1.5}
+  
+ và không ổn định BIBO vì cực của nó có một modul lớn hơn 1.
+Rất nhiều công cụ dùng để phân tích các cực của một hệ thống. Những công cụ này bao gồm các hệ thống đồ thị như quỹ đạo nghiệm số, biểu đồ Bode hay biểu đồ Nyquist.
+Các thay đổi cơ học có thể làm cho thiết bị (và các hệ thống điều khiển) ổn định hơn. Các thủy thủ dùng tải trọng dằn (ba-lát) để tăng độ ổn định của các con tàu. Tàu thủy chở khách sử dụng bộ ổn định chống dập dềnh bằng cách mở rộng chiều ngang khoảng 10m và quay liên tục xung quanh trục của chúng để tăng lực đối trọng với sự lắc lư của con tàu.
+
+
+=== Tính điều khiển và quan sát được ===
+
+Khả năng điều khiển được và quan sát được là những mục đích chính trong phân tích một hệ thống trước khi quyết định loại điều khiển tốt nhất được sử dụng,hoặc xem xét loại nào có khả năng khiển hoặc ổn định được hệ thống. Tính điều khiển được là khả năng tác động vào hệ thống để đạt được trạng thái đặc biệt bằng cách sử dụng một tín hiệu điều khiển thích hợp. Nếu một trạng thái là không thể điều khiển được, thì sẽ không có tín hiệu nào có thể có khả năng điều khiển trạng thái đó. Nếu một trạng thái là không điều khiển được, nhưng các đặc tính động học của nó là ổn định, thì trạng thái đó được xem là có khả năng ổn định hóa. Tính quan sát được là khả năng "quan sát", thông qua việc đo lường đầu ra, và trạng thái của một hệ thống. Nếu một trạng thái là không thể quan sát được, bộ điều khiển sẽ không bao giờ có thể xác định hành vi nó và do đó không thể sử dụng nó để ổn định hóa hệ thống. Tuy nhiên, tương tự như điều kiện ổn định hóa ở trên, nếu một trạng thái không thể quan sát được, nó vẫn có thể được phát hiện.
+Nhìn từ một điểm quan sát hình học, các trạng thái của mỗi biến của hệ thống được điều khiển, mỗi trạng thái "xấu" của mỗi biến này phải điều khiển được và quan sát được để đảm bảo hành vi tốt trong hệ vòng kín. Đó là, nếu một trong các giá trị gốc của hệ thống vừa không điều khiển được lại vừa không quan sát được, phần động học này sẽ vẫn còn không xem xét được trong hệ vòng kín. Nếu một giá trị gốc không ổn định, các đặc tính động học của giá trị gốc này sẽ được xuất hiện trên hệ vòng kín mà do đó sẽ không ổn định được. Các cực không quan sát được thì không biểu diễn được trên đồ thị hàm truyền của biểu diễn không gian trạng thái, đó là lý do đôi khi điều sau đây được ưa chuộng hơn trong phân tích hệ thống động học.
+Giải pháp cho vấn đề của hệ thống không điều khiển và quan sát được bao gồm việc thêm các thiết bị chấp hành và cảm biến.
+
+
+=== Các đặc điểm của điều khiển ===
+Có rất nhiều chiến lược điều khiển khác nhau đã được phát minh trong những năm qua. Những phát minh này đi từ những bộ điều khiển rất tổng quát như (bộ điều khiển PID), cho tới những bộ điều khiển khác dành riêng cho những loại hệ thống chuyên dụng(đặc biệt là robotic hay điều khiển hành trình).
+Một bài toán điều khiển có thể có nhiều đặc điểm khác nhau. Độ ổn định, tất nhiên, luôn luôn xuất hiện: bộ điều khiển phải đảm bảo rằng hệ vòng kín phải ổn định, chưa kể là độ ổn định của vòng hở. Một sự chọn lựa nghèo nàn của bộ điêu khiển có thể thậm chí làm xấu đi độ ổn định của hệ vòng hở, điều thông thường nên tránh. Đôi khi cần đạt được các đặc tính động học đặc biệt trong vòng kín: nghĩa là các cực có 
+  
+    
+      
+        R
+        e
+        [
+        λ
+        ]
+        <
+        −
+        
+          
+            λ
+            ¯
+          
+        
+      
+    
+    {\displaystyle Re[\lambda ]<-{\overline {\lambda }}}
+  
+, trong đó 
+  
+    
+      
+        
+          
+            λ
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\lambda }}}
+  
+ là một số cố định luôn lớn hơn 0, thay vì đơn giản yêu cầu rằng 
+  
+    
+      
+        R
+        e
+        [
+        λ
+        ]
+        <
+        0
+      
+    
+    {\displaystyle Re[\lambda ]<0}
+  
+.
+Một đặc tính tiêu biểu khác là việc loại bỏ một nhiễu loạn bước; bao gồm một bộ tích phân trong vòng hở(nghĩa là một cách trực tiếp trước khi hệ thống điều khiển được) dễ dàng đạt được điều này. Những loại nhiễu khác cần nhiều loại hệ thống con khác nhau được xét đến.
+Những đặc tính khác trong lý thuyết điều khiển "cổ điển" quan tâm đến thời gian đáp ứng của hệ vòng kín: bao gồm thời gian thiết lập (thời gian cần thiết để hệ thống điều khiển tiến tới giá trị mong mốn sau một nhiễu), đỉnh vọt lố (giá trị cao nhất đạt được bởi đáp ứng trước khi đạt được giá trị mong muốn) và (thời gian xác lập, độ dốc suy giảm) khác. Các đặc tính miền tần số thường liên quan tới độ mạnh mẽ(xem ở phần sau).
+Các đánh giá kết quả hiện đại sử dụng vài sự thay đổi của sai số theo dõi tích phân (IAE, ISA, CQI).
+
+
+=== Nhận dạng và ổn định mô hình ===
+Một hệ thống điều khiển phải luôn luôn có vài thuộc tính mạnh mẽ. Một bộ điều khiển mạnh mẽ là bộ điều khiển mà các thuộc tính của nó không thay đổi nhiều nếu áp dụng cho một hệ thống có khác biệt nhỏ so với mô hình toán học được sử dụng cho các tổ hợp của nó. Đặc tính này rất quan trọng: không hệ thống vật lý thực tế nào ứng xử giống các chuỗi phương trình vi phân được dùng để biểu diễn toán học học chính nó. Điểu hình là một mô hình toán học đơn giản hơn sẽ được chọn để đơn giản hóa việc tính toán, mặt khác các đặc tính động học thực tế của hệ thống có thể rất phức tạp do đo một mô hình toàn diện là không thể thực hiện được.
+
+
+== Phân loại hệ thống ==
+
+
+=== Hệ thống tuyến tính ===
+Một hệ thống được gọi là tuyến tính nếu có thể áp dụng nguyên lý xếp chồng.Nguyên lý xếp chồng phát biểu rằng đáp ứng tạo ra bởi những kích thích đồng thời là tổng của các đáp ứng riêng lẻ.Vì thế với hệ thống tuyến tính, đáp ứng với nhiều cửa vào có thể được xác định bằng cách xét đáp ứng của từng cửa vào sau đó cộng các đáp ứng lại với nhau. Nguyên lý này cho phép tìm nghiệm phức của phương trinh vi phân tuyến tính từ các nghiệm đơn giản.
+Trong nghiên cứu thực nghiệm một hệ thống động lực, nếu quan hệ giữa nguyên nhân và kết quả là tỷ lệ thì nguyên lý xếp chồng là hiệu lực, lúc đó hệ thống được xem là tuyến tính
+(Theo sách Lý Thuyết Điều Khiển Tự Động, TS Trần Hoài An, trường ĐH GTVT Thành phố Hồ Chí Minh)
+
+
+=== Hệ thống điều khiển phi tuyến ===
+
+Các quá trình trong công nghiệp như robotic và công nghiệpkhông gian thường có động lực phi tuyến lớn. Trong lý thuyết điều khiển đôi khi có thể tuyến tính hóa thành các lớp trong hệ thống và áp dụng các kỹ thuật tuyến tính, nhưng trong nhiều trường hợp cần phải nghĩ ra từ các lý thuyết cho phép điều khiển cho hệ thống phi tuyến. Ví dụ phản hồi tuyến tính hóa,backstepping, điều khiển chế độ trượt, quỹ đạo điều khiển tuyến tính hóa thường sử dụng sự tiện lợi của kết quả dựa trên thuyết Lyapunov. Hình học vi phân đã được sử dụng rộng rãi như là một công cụ điều khiển tuyến tính phổ biến nổi tiếng sử dụng trong điều khiển phi tuyến, cũng như chỉ ra những tinh tế, càng làm cho vấn đề thêm thách thức.
+
+
+=== Hệ thống phân tán ===
+
+Khi một hệ thống được điều khiển bởi nhiều bộ điều khiển, vấn đề là một trong các điều khiển phân tán. Sự phân tán hóa thì hữu ích trên nhiều phương diện, ví dụ, nó giúp điều khiển hệ thống vận hành trong một khu vực địa lý rộng lớn. Các nhánh trong các hệ thống điều khiển phân tán có thể tương tác với nhau bằng cách sử dụng các kênh liên lạc và phối hợp các hoạt động của chúng với nhau.
+
+
+== Những phương thức điều khiển chính ==
+Mọi hệ thống điều khiển phải đảm bảo trước hết độ ổn định của trạng thái vòng kín. Trong các hệ thống tuyến tính, điều này có thể đạt được bằng cách thay thế trực tiếp các cực. Các hệ điều khiển phi tuyến sử dụng các lý thuyết đặc biệt (thường dựa trên học thuyết của Aleksandr Lyapunov) để đảm bảo độ ổn định mà không cần phải quan tâm đến các quá trình động học bên trong hệ thống. Khả năng đáp ứng các biến đổi chức năng khác nhau từ việc nhận dạng mô hình và việc chọn phương thức điều khiển. Sau đây là danh sách giản lược của các kỹ thuật điều khiển chính:
+
+Điều khiển thích nghi
+Điều khiển thích nghi sử dụng sự nhận dạng trực tuyến các thông số của quá trình, hoặc sự điều chỉnh của độ lợi bộ điều khiển, do đó đạt được đặc tính bền vững mạnh mẽ. Điều khiển thích nghi đã được ứng dụng lần đầu trong công nghiệp không gian vào những năm 1950, và làm nên sự thành công trong lĩnh vực này.
+Điều khiển phân cấp
+Hệ thống điều khiển phân cấp là một dạng của Hệ thống điều khiển trong đó một bộ thiết bị và phần mềm điều khiển được sắp xếp trong một dạng có thức bậc cây. Khi các liên kết của cây được thực thi bởi một mạng máy tính, do đó hệ thống điều khiển phân cấp cũng là một dạng của Hệ thống điều khiển mạng lưới.
+Điều khiển thông minh
+Điều khiển thông minh sử dụng nhiều cách tiếp cận tính toán thông minh nhân tạo (AI-Artificial Intelligent) khác nhau như mạng nơ ron, Xác suất Bayesian, logic mờ, máy học, lập trình tiến hóa và giải thuật di truyền để điều khiển một hệ thống động lực.
+Điều khiển tối ưu
+Điều khiển tối ưu là một phần của kỹ thuật điều khiển trong đó tín hiệu điều khiển tối ưu hóa "chỉ tiêu giá thành" biết trước: ví dụ, trong trường hợp một vệ tinh, lực đẩy phản lực cần thiết để mang nó lên quỹ đạo mong muốn phải đốt cháy một lượng nhiên liệu nào đó. Hai phương pháp để thiết kế điều khiển tối ưu đã được sử dụng rộng rãi trong các ứng dụng công nghiệp, vì khả năng đảm bảo độ ổn định của vòng kín. Đó là Điều khiển dự đoán mô hình (MPC-Model Predictive Control) và điều khiển tuyến tính-bậc hai-Gauss (LQG-Linear-Quadratic-Gaussian control). Cái đầu tiên có thể xét đến rõ ràng hơn các ràng buộc trên tín hiệu hệ thống, là một điểm quan trọng trong nhiều chu trình công nghiệp. Tuy nhiên, cấu trúc "điều khiển tối ưu" trong MPC chỉ có nghĩa khi đạt được kết quả, vì nó không tối ưu một chỉ số biểu diễn chính xác của hệ điều khiển vòng kín. Cùng với các bộ điều khiển PID, hệ thống MPC cũng được sử dụng phổ biến trong điều khiển quá trình.
+Điều khiển bền vững
+Điều khiển bền vững dùng để loại bỏ độ bất định mà nó tiếp cận để thiết kế bộ điều khiển. Các bộ điều khiển được thiết kế sử dụng các công cụ của điều khiển bền vững có xu hướng có thể giải quyết các khác biệt nhỏ giữa hệ thống thực và mô hình toán học dùng cho thiết kế. Các công cụ đầu tiên của Bode và những người khác đã khá ổn định; các phương pháp không gian trạng thái được phát minh vào những năm 1960 và 1970 đôi khi không có sự ổn định. Một thí dụ hiện đại của kỹ thuật điều khiển bền vững là tạo dáng vòng lặp H-vô tận được phát triển bởi Duncan McFarlane và Keith Glover thuộc đại học Cambridge, Anh. Các phương pháp ổn định dùng để đạt được kết quả bền vững và/hoặc độ ổn định với sự có mặt của sai số mô hình hóa nhỏ.
+Điều khiển ngẫu nhiên
+Điều khiển ngẫu nhiên giúp thiết kế điều khiển với độ bất định trong mô hình. Đặc thù trong khó khăn đối với điều khiển ngẫu nhiên, là nó cho rằng tồn tại nhiễu ngẫu nhiên trong mô hình và bộ điều khiển, thiết kế điều khiển phải đem những vi phân ngẫu nhiên này vào tính toán.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+Levine, William S. biên tập (1996). The Control Handbook. New York: CRC Press. ISBN 978-0-849-38570-4.
+Karl J. Åström and Richard M. Murray (2008). Feedback Systems: An Introduction for Scientists and Engineers (PDF). Princeton University Press. ISBN 0691135762.
+Christopher Kilian (2005). Modern Control Technology. Thompson Delmar Learning. ISBN 1-4018-5806-6.
+Vannevar Bush (1929). Operational Circuit Analysis. John Wiley and Sons, Inc.
+Robert F. Stengel (1994). Optimal Control and Estimation. Dover Publications. ISBN 0-486-68200-5, ISBN 978-0-486-68200-6.
+Franklin (2002). Feedback Control of Dynamic Systems (ấn bản thứ 4). New Jersey: Prentice Hall. ISBN 0-13-032393-4. 
+Joseph L. Hellerstein, Dawn M. Tilbury, and Sujay Parekh (2004). Feedback Control of Computing Systems. John Wiley and Sons. ISBN 0-47-126637-X, ISBN 978-0-471-26637-2.Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+Diederich Hinrichsen and Anthony J. Pritchard (2005). Mathematical Systems Theory I - Modelling, State Space Analysis, Stability and Robustness. Springer. ISBN 0-978-3-540-44125-0.
+Andrei, Neculai (2005). “Modern Control Theory - A historical Perspective” (PDF). Truy cập ngày 10 tháng 10 năm 2007. 
+Sontag, Eduardo (1998). Mathematical Control Theory: Deterministic Finite Dimensional Systems. Second Edition (PDF). Springer. ISBN 0-387-984895.
+Goodwin, Graham (2001). Control System Design. Prentice Hall. ISBN 0-13-958653-9.
+
+
+== Liên kết ngoài ==
+
+Control Tutorials for Matlab Lưu trữ 2012-10-16 tại Wayback Machine - A set of worked through control examples solved by several different methods.
+Hướng dẫn sử dụng mạng nơ ron trong các ứng dụng thực tế Lưu trữ 2011-06-26 tại Wayback Machine trong đó có minh họa phân loại ảnh khuôn mặt, ảnh người đi bộ, ảnh xe hơi, dự báo chứng khoán và một số ví dụ khác

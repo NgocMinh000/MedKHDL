@@ -1,0 +1,91 @@
+Tụ cầu khuẩn (tiếng Anh: Staphylococcus có nguồn từ tiếng Hy Lạp staphyle nghĩa là chùm nho) là các cầu khuẩn Gram dương không tạo nha bào có đường kính khoảng 1 μm, không di động và sắp xếp theo mọi hướng và thường tạo thành cụm (tụ) trông giống như chùm nho.
+Có thể nói tụ cầu khuẩn là một trong những vi khuẩn nổi tiếng nhất: được các nhà vi khuẩn học nổi tiếng quan tâm nghiên cứu, tỉ lệ gây bệnh rất cao, có khả năng gây nhiều bệnh nặng cũng như đề kháng kháng sinh rất mạnh. Các nhà vi khuẩn học lừng danh như Robert Koch (1878) và Louis Pasteur (1880) đều rất quan tâm nghiên cứu tụ cầu khuẩn ngay từ thời kỳ đầu của lịch sử ngành vi sinh vật học. Ngày 9 tháng 4 năm 1880, bác sĩ người Scotland Alexander Ogston đã trình bày tại hội nghị lần thứ 9 Hội Phẫu thuật Đức một báo cáo khoa học trong đó ông sử dụng khái niệm tụ cầu khuẩn (staphylococcus) và trình bày tương đối đầy đủ vai trò của vi khuẩn này trong các bệnh lý sinh mủ trong lâm sàng.
+
+
+== Coagulase ==
+Trên phương diện gây bệnh, tụ cầu khuẩn được chia thành hai nhóm chính: tụ cầu có men coagulase và tụ cầu không có men coagulase.
+Tụ cầu có men coagulase
+Nhờ men coagulase này mà trên môi trường nuôi cấy có máu, vi khuẩn tạo nên các khuẩn lạc màu vàng. Do vậy vi khuẩn này còn gọi là tụ cầu vàng. Các vi khuẩn quan trọng của nhóm này là:
+
+Staphylococcus aureus hay còn gọi là tụ cầu vàng
+Staphylococcus intermedius
+Tụ cầu không có men coagulase
+Do không có men coagulase nên trên môi trường nuôi cấy không có máu, khuẩn lạc có màu trắng ngà. Trên lâm sàng thường gọi các vi khuẩn này là tụ cầu trắng. Các vi khuẩn nhóm này có thể kể:
+
+Staphylococcus epidermidis
+Staphylococcus saprophyticus
+Staphylococcus haemolyticus
+Staphylococcus capitis
+Staphylococcus simulans
+Staphylococcus hominis
+Staphylococcus warneri
+Cùng 16 chủng tụ cầu khuẩn khác không hiện diện ở người.
+Tụ cầu khuẩn mọc dễ dàng trên các môi trường nuôi cấy ở nhiệt độ 37 °C. Màu đặc trưng của các khuẩn lạc là màu trắng như sứ hoặc màu trắng ngà. Khả năng tan máu của vi khuẩn được nuôi cấy cung cấp gợi ý quan trọng về tính chất của vi khuẩn này.
+
+
+== Tụ cầu khuẩn có men coagulase (tụ cầu vàng) ==
+
+Năm 1926, Julius von Daranyi là người đầu tiên phát hiện mối tương quan giữa sự hiện diện của hoạt động men coagulase huyết tương của vi khuẩn với khả năng gây bệnh của nó. Tuy nhiên mãi đến năm 1948, phát hiện này mới được chấp nhận rộng rãi.
+
+
+=== Đặc tính và các yếu tố độc lực ===
+Trên lâm sàng việc phân biệt các chủng tụ cầu có khả năng gây bệnh và không gây bệnh thường dựa vào sự hiện diện của men Coagulase. Men này gắn với prothrombin trong huyết tương và hoạt hóa quá trình sinh fibrin từ tiền chất fibrinogen. Enzyme này cùng với yếu tố kết cụm (clumping factor), một enzyme vách vi khuẩn, giúp tụ cầu vàng tạo kết tủa fibrin trên bề mặt của nó. Tính chất này là yếu tố bệnh sinh cực kỳ quan trọng và yếu tố cũng đóng vai trò quan trọng trong chẩn đoán.
+Tụ cầu vàng còn sản xuất nhiều yếu tố độc lực khác có liên quan đến cấu tạo của vách vi khuẩn.
+
+Vỏ polysaccharide: một số chủng tụ cầu vàng có thể tạo vỏ polysaccharide. Vỏ này cùng với protein A có chức năng bảo vệ vi khuẩn chống lại hiện tượng thực bào.
+Hầu hết các chủng tụ cầu vàng đều có khả năng tổng hợp một loại protein bề mặt (protein A) có khả năng gắn với mảnh Fc của các globuline miễn dịch. Chính nhờ hiện tượng gắn độc đáo này mà số lượng mảnh Fc giảm xuống. Vì mảnh Fc của các globuline miễn dịch có vai trò quan trọng trong hiện tượng opsonin hóa: chúng là các receptor cho các đại thực bào. Quá trình gắn trên giúp tụ cầu vàng tránh không bị thực bào bởi đại thực bào.
+Ngoài ra phần lớn các chủng tụ cầu đều có khả năng sản xuất một chất kết dính gian bào. Nhờ chất này, vi khuẩn tạo được một lớp màng sinh học bao phủ chính nó và vi khuẩn có thể phát triển trong lớp màng nhầy niêm mạc.
+
+
+=== Các yếu tố độc lực ngoại bào ===
+Ngoài coagulase và yếu tố kết cụm, tụ cầu còn sản xuất một số men quan trọng góp phần tạo nên độc lực mạnh mẽ của chủng vi khuẩn này.
+
+Hyaluronidase: men này có khả năng phá hủy chất cơ bản của tổ chức, giúp vi khuẩn có thể phát tán trong tổ chức.
+Hemolysine và leukocidine: phá hủy hồng cầu (tan máu) và gây chết các tế bào hạt cũng như đại thực bào.
+Exfoliatine: là các men phá hủy lớp thượng bì. Men này gây tổn thương da tạo các bọng nước. Ví dụ điển hình là hội chứng Lyell do tụ cầu.
+Sáuđộc tố ruột (Enterotoxine A, B, C, D, E, F) bền với nhiệt. Các độc tố ruột này đóng vai trò quan trọng trong ngộ độc thực phẩm.
+Độc tố gây hội chứng sốc nhiễm độc: là nguyên nhân gây nên hội chứng sốc nhiễm độc, một hội chứng sốc trầm trọng.
+Hầu hết các chủng tụ cầu đều sản xuất được men penicillinase (beta-lactamase). Men này phá hủy vòng beta-lactam, cấu trúc cơ bản của các kháng sinh như penicilline G, Ampicilline và Ureidopenicilline, làm cho các kháng sinh này mất tác dụng.
+
+
+=== Vai trò của tụ cầu vàng trong lâm sàng ===
+
+Tụ cầu có men coagulase gây nên rất nhiều bệnh lý khác nhau. Có thể chia các bệnh này theo khả năng xâm nhập hay sinh độc tố của tụ cầu:
+A. Bệnh do tụ cầu xâm nhập
+Các bệnh nhiễm trùng khu trú tại da và niêm mạc: những bệnh nhiễm trùng da và các phần phụ thuộc (chủ yếu là các chân lông và tuyến mồ hôi) tạo thành bệnh cảnh áp xe kinh điển của tụ cầu. Các tụ cầu khuẩn có khả năng tạo fibrin do đó tạo được một vách fibrin bao bọc ổ áp xe. Các ổ nhiễm trùng này có thể chỉ nhỏ như đầu đinh ghim (bệnh viêm nang lông) hoặc kích thước như quả táo trong áp xe cơ. Các vùng da có lông rậm bao phủ, tụ cầu thường là nguyên nhân gây nên các mụn đầu đanh. Tổn thương tại chỗ có thể nhẹ nhàng nhưng nó cũng là một mối nguy cơ phát tán vi khuẩn đến những cơ quan xa hơn. Mủ của các ổ áp xe do tụ cầu vàng thường có màu vàng, đặc và không hôi.
+Nhiễm trùng các cơ quan sâu: nhiễm trùng các cơ quan bên trong cơ thể có thể do đường nội sinh: từ một ổ nhiễm viêm nhiễm ngoại vi, vi khuẩn theo đường máu và bạch huyết đến các cơ quan khác. Nhiễm trùng cũng có thể do nguyên nhân ngoại sinh: vi khuẩn đi từ môi trường vào cơ thể thông qua vết rách da sau chấn thương hoặc trong quá trình phẫu thuật. Các bệnh lý điển hình trong nhóm này có thể kể: viêm xương tủy xương, nhiễm trùng huyết, viêm tắc tĩnh mạch xoang hang, viêm nội tâm mạc, viêm màng não mủ…
+B. Thể trung gian
+Viêm da bọng nước (bong da sơ sinh, hội chứng bong da do tụ cầu) thường gặp ở trẻ sơ sinh và trẻ nhỏ. Tác nhân gây bệnh là các chủng tụ cầu sản xuất độc tố Exofoliatine. Ngay sau triệu chứng sốt và đỏ da, bệnh được đặc trưng bằng dấu hiệu bong lớp biểu bì đồng thời hình thành bọng nước trên diện rộng. Bệnh thường diễn tiến lành tính. Mặc dù trên da hình thành nhiều bọng nước lớn nhưng ít khi đưa đến tình trạng rối loạn nước và điện giải. Lớp da non mới được hình thành khá nhanh. Tương tự với bệnh lý này là Hội chứng Lyell do tụ cầu và Chốc truyền nhiễm.
+Hội chứng sốc nhiễm độc: thường gặp ở phụ nữ trẻ trong kỳ kinh nguyệt có dùng băng thấm hút mạnh. Chính do khả năng thấm hút tốt này mà băng có thời gian sử dụng lâu hơn. Một số loại bông thấm này có khả năng gắn với các ion magnesium do đó làm giảm lượng ion này trong âm đạo. Khoảng 20% phụ nữ có mang tụ cầu ở đường âm đạo. Do lượng ion magnesium giảm xuống, vi khuẩn này tăng cường sản xuất các ngoại độc tố gây sốc. Bệnh cảnh lâm sàng của hội chứng sốc nhiễm độc gồm đột ngột sốt cao, cảm giác mệt mỏi, tiêu chảy toàn nước, nhức đầu, đau cơ, nổi ban ngoài da và một hoặc nhiều dấu hiệu của sốc. Hội chứng này có tỉ lệ tử vong khá cao.
+Hội chứng Thukydides: là thể đặc biệt của hội chứng sốc nhiễm độc. Hội chứng này có thể gặp ở thanh thiếu niên cả hai giới, thường gặp do bội nhiễm tụ cầu sau khi bị cúm. Tỉ lệ tử vong của hội chứng này rất cao (trên 50%). Biểu hiện lâm sàng về mặt hô hấp và tiêu hóa rất giống với bệnh dịch hạch do Thurykodides mô tả ở Athen và năm 430 trước công nguyên.
+C. Bệnh do độc tố
+Ngộ độc thực phẩm là bệnh điển hình nhất do độc tố ruột bền với nhiệt của tụ cầu. Sau khi ăn các thức ăn nguội hoặc kể cả các thức ăn nhiễm tụ cầu đã được nấu chín. Có thể phân thành hai thể:
+Viêm dạ dày ruột: nguyên nhân do ăn phải các thức ăn nhiễm độc tố tụ cầu. Bệnh thường xảy ra trong thời gian ngắn với triệu chứng nôn mửa dữ dội, tiêu chảy phân tóe nước, không sốt. Bệnh thường lành nhanh chóng và không cần điều trị kháng sinh.
+Viêm ruột non-đại tràng: nguyên nhân do thức ăn nhiễm một lượng lớn vi khuẩn tụ cầu (>105 vi khuẩn/g thức ăn) hoặc do vi khuẩn tăng sinh trong lòng ruột (có đến 2-30% số người mang vi khuẩn này trong ruột). Triệu chứng bệnh lý ở đường tiêu hóa như đau bụng, nôn mửa, tiêu chảy kéo dài hơn và cần phải điều trị kháng sinh.
+Ngộ độc thực phẩm do tụ cầu khuẩn vàng (Staphylococcus aureus) ở Việt Nam thường gặp trong các tiệc cưới. Vì phải chuẩn bị cho nhiều thực khách (bình quân khoảng 200 người) nên thức ăn cần phải được nấu trước và để qua đêm. Tụ cầu khuẩn nhiễm từ môi trường hoặc từ người chế biến sẽ sinh sôi rất nhanh trong các thức ăn có hàm lượng dinh dưỡng thích hợp (thường gặp nhất là các món sốt trứng, thịt nguội), và sinh ra độc tố đường ruột. Độc tố này rất bền với nhiệt, do đó trước khi ăn có đun lại cho sôi cũng không huỷ được độc tố. Khi ăn phải thức ăn có nhiễm độc tố đường ruột, chỉ sau 30 phút đến 1 giờ là các triệu chứng nôn mửa, tiêu chảy đã xảy ra.
+
+
+=== Dịch tễ học và phòng bệnh ===
+Tụ cầu khuẩn thường chịu đựng tốt các thay đổi của môi trường như khô hạn, ánh nắng, nhiệt độ, thay đổi pH và độ mặn. Nhân viên y tế là những người có tỉ lệ mang vi khuẩn cực kỳ cao. Các biện pháp như mang mũ hoặc khăn trùm đầu, mạng che mặt hoặc khẩu trang và rửa tay thường xuyên là biện pháp phòng lây truyền vi khuẩn hữu hiệu nhất trong bệnh viện đặc biệt là trong các đơn vị hồi sức. Những biện pháp này cũng được áp dụng cho những người làm việc trong các bếp ăn tập thể hoặc trong các xưởng chế biến thực phẩm.
+Tỷ lệ người mang vi khuẩn tụ cầu vàng trên da hoặc niêm mạc vào khoảng từ 10 đến 90%. Các khu vực cư trú thường gặp của tụ cầu vàng là tiền đình mũi, tóc, nách và nếp hậu môn. Đây là nguồn lây chéo trong các đơn vị hồi sức, đặc biệt là ở các bệnh nhân suy giảm miễn dịch như đái tháo đường, bệnh nhân AIDS hoặc xơ gan. Chủng vi khuẩn nguy hiểm trong các khu vực này là tụ cầu vàng đề kháng với methicillin.
+
+
+== Tụ cầu không có men coagulase ==
+Tụ cầu không có men coagulase là thành phần của hệ vi khuẩn bình thường của da và niêm mạc. Đại diện quan trọng nhất của nhóm này là Staph. epidermidis.
+Trong một thời gian rất dài, các nhà vi khuẩn học đã xem vi khuẩn này không có tính gây bệnh. Tuy nhiên ngày nay người ta biết rõ rằng các tụ cầu khuẩn không có men coagulase, đặc biệt là Staph. epidermidis là nguyên nhân thường gặp sau phẫu thuật chấn thương chỉnh hình và cũng là nguyên nhân của nhiễm trùng bệnh viện. Các vi khuẩn này có khả năng tạo nên một lớp màng nhầy và dưới lớp màng nhầy nầy, vi khuẩn phát triển tạo thành các khuẩn lạc nhỏ bám vào các catheter bằng chất dẻo. Lớp nhầy này cũng bảo vệ vi khuẩn không bị tấn công bởi các tế bào có thẩm quyền miễn dịch của cơ thể và không bị tác động bởi kháng sinh.
+Staphylococcus saprophyticus là nguyên nhân gây nhiễm trùng tiết niệu thường gặp ở phụ nữ trẻ vì vi khuẩn này có khả năng bám dính vào tế bào biểu bì đường tiết niệu và sản xuất men urease.
+Điều trị nhiễm trùng do các vi tụ cầu không có men coagulase thường khó khăn vì vi khuẩn này thường đa đề kháng kháng sinh. Một nguyên nhân khác nữa là việc xác định chính xác tác nhân nào trong nhóm vi khuẩn này gây bệnh để điều trị đặc hiệu rất khó vì chúng thường hiện diện trên da và niêm mạc.
+
+
+== Tham khảo ==
+Dinges MM, Orwin PM, Schlievert PM. Exotoxins of Staphylococcus aureus. Clin Microbiol Rev. 2000; 13: 16-34
+Hof H, Doerries R. Staphylokokken. Medizinische Mikrobiologie. Georg Thieme Verlag. Stuttgart. 2002. 275-284.
+Nhiễm tụ cầu nguy hiểm như thế nào?, Viện Y học ứng dụng Việt Nam, 17/07/2016
+Tụ Cầu Khuẩn Staphylococcus Aureus Kháng Methicillin (MRSA) Lưu trữ 2016-11-30 tại Wayback Machine, Thông tin y tế cộng đổng của Bang Columbia thuộc Anh, Canada, Tháng 3/2015
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+ Dữ liệu liên quan tới Tụ cầu khuẩn tại Wikispecies

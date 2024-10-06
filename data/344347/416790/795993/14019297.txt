@@ -1,0 +1,27 @@
+Thử nghiệm lâm sàng là các thí nghiệm hoặc quan sát được thực hiện trong các nghiên cứu lâm sàng. Các nghiên cứu tiến cứu về mặt hành vi hoặc y sinh trên người tình nguyện tham gia được thiết kế để trả lời những câu hỏi cụ thể về những sự can thiệp hành vi hoặc y sinh, bao gồm phương pháp điều trị mới (ví dụ như một loại vắc-xin, thuốc mới, chế độ dinh dưỡng, thành phần dinh dưỡng và thiết bị y tế mới) và những sự can thiệp đã biết cần nghiên cứu và so sánh thêm. Thử nghiệm lâm sàng đưa ra các kết luận về liều lượng, độ an toàn và tính hiệu quả. Thử nghiệm lâm sàng chỉ được thực hiện sau khi đã được ủy ban thẩm quyền/đạo đức sức khỏe chấp thuận ở đất nước nơi cần sự chấp thuận của phương pháp trị liệu đó. Những phòng ban có thẩm quyền này thì chịu trách nhiệm cho việc xem xét chặt chẽ tỉ lệ rủi ro/lợi ích của thử nghiệm – sự chấp thuận của họ không có nghĩa phương pháp trị liệu đó 'an toàn' hay hiệu quả, mà chỉ là thử nghiệm ấy có thể được tiến hành.
+Tùy vào loại sản phẩm và giai đoạn phát triển, ban đầu các nhà nghiên cứu đưa các tình nguyện viên hoặc bệnh nhân vào các nghiên cứu sơ bộ, sau đó tiến hành thêm các nghiên cứu so sánh với độ lớn tăng dần. Mỗi thử nghiệm lâm sàng khác nhau về độ lớn và chi phí, có thể chỉ diễn ra tại một trung tâm hoặc đa trung tâm, ở một quốc gia hoặc đa quốc gia. Thiết kế thử nghiệm lâm sàng nhằm mục đích chắc chắn nghiên cứu sẽ có giá trị khoa học và đưa ra được kết quả.
+Chi phí cho thử nghiệm lâm sàng có thể rơi vào hàng tỉ đô-la cho mỗi dược phẩm được chấp thuận. Nhà bảo trợ có thể là một tổ chức chính phủ hoặc một công ty công nghiệp dược phẩm, công nghệ sinh học hoặc thiết bị y tế.
+Chỉ 10% các dược phẩm đưa vào thử nghiệm lâm sàng ở người được chấp thuận sử dụng trên lâm sàng. Nhà tại trợ có thể là tổ chức chính phủ hoặc tập đoàn dược phẩm, công nghệ sinh học hoặc thiết bị y tế. Các hoạt động cần thiết khác của thử nghiệm như theo dõi hoặc xét nghiệm có thể được quản lý qua các đối tác ngoài như tổ chức nghiên cứu theo hợp đồng hoặc phòng thí nghiệm trung tâm. Chỉ 10% các thuốc đưa vào thử nghiệm lâm sàng trên người được chấp thuận. 
+
+
+== Tổng quan ==
+
+
+=== Các thử nghiệm thuốc ===
+Một số thử nghiệm lâm sàng diễn ra trên các đối tượng không mắc bệnh lý trước đó. Một số thử nghiệm khác diễn ra trên những người mắc một bệnh lý nhất định và sẵn sàng thử một phương pháp điều trị thử nghiệm. Nghiên cứu sơ bộ được tiến hành để có cơ sở thiết kế nghiên cứu sau đó.
+Kiểm tra phương pháp điều trị có hai mục tiêu: hiệu quả và tính an toàn. Không có tiêu chuẩn nào là tuyệt đối, cả tính hiệu quả và độ an toàn được đánh giá dựa trên việc phương pháp điều trị được đưa vào điều trị như thế nào, có phương pháp điều trị nào khác và mức độ nặng của bệnh. Lợi ích cần lớn hơn nguy cơ. Ví dụ, nhiều thuốc điều trị ung thư có nhiều tác dụng phụ nặng nên không thể bán không kê đơn mà cần được điều trị dưới sự giám sát của bác sĩ.
+Tại Mỹ, người già chiếm 14% dân số trong khi tiêu thụ hơn một phần ba lượng thuốc. Người trên 55 tuổi (hoặc ngưỡng tuổi tương đương) thường bị loại khỏi thử nghiệm lân sàng vì có nhiều vấn đề sức khỏe và sử dụng nhiều thuốc, có  sinh lý khác với người trẻ. Trẻ em và người có các bệnh lý không liên quan cũng thường bị loại. Phụ nữ có thai cũng thường bị loại khỏi thử nghiệm lâm sàng do có nguy cơ tiềm ẩn với thai nhi.
+Nhà tài trợ hợp tác với đội ngũ chuyên gia lâm sàng thiết kế nghiên cứu bao gồm các phương pháp điều trị đang có hoặc thay thế để so với loại thuốc mới và xác định nhóm bệnh nhân nào có thể hưởng lợi từ phương pháp điều trị đó. Nếu nhà tài trợ không thể có đủ đối tượng ở một địa điểm nghiên cứu thì có thể tuyển thêm các địa điểm khác cùng tham gia nghiên cứu.  
+Trong thử nghiệm, nhà nghiên cứu tuyển các đối tượng với các đặc điểm định trước, chỉ định các phương phác điều trị và thu thập số liệu về sức khỏe của đối tượng trong một khoảng thời gian xác định. Dữ liệu là các phép đo như chỉ số sinh tồn, nồng độ thuốc trong máu hoặc mô, thay đổi các triệu chứng và tình trạng cải thiện hay xấu đi. Nhà nghiên cứu gửi số liệu đến các nhà tài trợ cho thử nghiệm để phân tích dữ liệu bằng kiểm định giả thuyết thống kê.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+The International Conference on Harmonization of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH)
+ClinicalTrials.gov
+Clinical Trials for cancer research – National Cancer Institute

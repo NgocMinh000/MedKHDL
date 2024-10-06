@@ -1,0 +1,19 @@
+Điện toán nhận thức (tiếng Anh: cognitive computing) mô tả các nền tảng công nghệ, nói rộng ra, dựa trên các ngành khoa học về trí tuệ nhân tạo (AI) và xử lý tín hiệu. Các nền tảng này bao gồm học máy (machine learning), lý luận, xử lý ngôn ngữ tự nhiên, nhận dạng giọng nói và tầm nhìn (nhận dạng đối tượng), tương tác máy tính của con người, tạo hộp thoại và tường thuật, và các công nghệ khác.
+
+
+== Định nghĩa ==
+Hiện tại, không có định nghĩa được thống nhất rộng rãi cho điện toán nhận thức trong cả học viện hoặc ngành công nghiệp thông tin.
+Nói chung, thuật ngữ điện toán nhận thức đã được sử dụng để chỉ phần cứng và/hoặc phần mềm mới bắt chước hoạt động của bộ não con người  (2004) và giúp cải thiện quyết định của con người. Theo nghĩa này, điện toán nhận thức là một loại máy tính mới với mục tiêu là các mô hình chính xác hơn về cách não / tâm trí con người cảm nhận, lý do và phản ứng với kích thích. Các ứng dụng điện toán nhận thức liên kết phân tích dữ liệu và hiển thị trang thích ứng (AUI) để điều chỉnh nội dung cho một loại đối tượng cụ thể. Như vậy, phần cứng và các ứng dụng điện toán nhận thức phấn đấu để có nhiều tình cảm và có ảnh hưởng nhiều hơn bởi thiết kế.
+Một số tính năng mà hệ thống nhận thức có thể thể hiện là:
+
+Thích nghi
+Chúng có thể học hỏi khi thông tin thay đổi, và khi mục tiêu và yêu cầu phát triển. Chúng có thể giải quyết sự mơ hồ và chịu đựng sự khó lường. Chúng có thể được thiết kế để cung cấp dữ liệu động trong thời gian thực hoặc gần thời gian thực.
+Tương tác
+Chúng có thể tương tác dễ dàng với người dùng để những người dùng đó có thể xác định nhu cầu của họ một cách thoải mái. Họ cũng có thể tương tác với các bộ xử lý, thiết bị và dịch vụ đám mây khác, cũng như với mọi người.
+Lặp đi lặp lại và trạng thái
+Chúng có thể hỗ trợ xác định vấn đề bằng cách đặt câu hỏi hoặc tìm đầu vào nguồn bổ sung nếu tuyên bố vấn đề không rõ ràng hoặc không đầy đủ. Chúng có thể "nhớ" các tương tác trước đó trong một quy trình và trả lại thông tin phù hợp cho ứng dụng cụ thể tại thời điểm đó.
+Bối cảnh
+Chúng có thể hiểu, xác định và trích xuất các yếu tố theo ngữ cảnh như ý nghĩa, cú pháp, thời gian, địa điểm, tên miền phù hợp, quy định, hồ sơ người dùng, quy trình, nhiệm vụ và mục tiêu. Chúng có thể rút ra nhiều nguồn thông tin, bao gồm cả thông tin kỹ thuật số có cấu trúc và không cấu trúc, cũng như các đầu vào cảm giác (thị giác, cử chỉ, thính giác hoặc cung cấp cảm biến).
+
+
+== Tham khảo ==

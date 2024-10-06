@@ -1,0 +1,6 @@
+Công nghệ "nhận dạng ký tự thông minh" hay còn gọi là "nhận dạng chữ viết tay" (ICR) là bản dịch từ các ký tự viết tay sang dạng văn bản với ký tự mà máy tính có thể đọc được. Công nghệ ICR là sự phát triển ở mức cao hơn từ công nghệ nhận dạng chữ in (OCR). Đối tượng nhận dạng của công nghệ ICR là chữ viết tay và cả chữ in. Công nghệ ICR tương tự như nhận dạng ký tự quang học (OCR) và đôi khi sử dụng kết hợp với OCR trong hình thức xử lý.
+Công nghệ nhận dạng chữ viết tay thường được sử dụng trong việc nhận dạng thông tin từ các tài liệu dạng biểu mẫu. Trên các tài liệu dạng này, một số thông tin được điền bằng tay tại các vị trí cố định (tờ khai, phiếu đăng ký, bài kiểm tra, v..v…).
+Trước khi có công nghệ ICR và OCR, thường người ta khai thác bằng cách nhập dữ liệu lại từ bản giấy sang format điện tử trên máy tính, với dạng tương tự như ở mẫu giấy. Dữ liệu lấy từ các mẫu giấy tờ bao gồm chữ đánh máy hoặc in qua trình soạn thảo, chữ viết tay, đánh dấu tích, mã vạch và chữ ký. Ngày nay, người ta xử lý bằng máy quét, máy chụp ảnh, kết hợp với công nghệ OCR và ICR, và các phần mềm xử lý form để tự động hóa quá trình này trong khoảnh khắc với độ chính xác lên tới 98%, gần tương đương với việc nhập liệu bằng tay.
+
+
+== Tham khảo ==

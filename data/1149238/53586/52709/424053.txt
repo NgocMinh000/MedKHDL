@@ -1,0 +1,19 @@
+Địa tin học là khoa học sử dụng và phát triển trên cơ sở hạ tầng của khoa học thông tin để giải quyết các vấn đề về địa lý, khoa học Trái Đất và liên quan đến các nhánh của kỹ thuật. Địa tin học kết hợp việc phân tích và mô hình hóa không gian, xây dựng cơ sở dữ liệu không gian, thiết kế hệ thống thông tin, tương tác giữa con người-máy tính và các công nghệ mạng có dây và không dây.
+Công nghệ địa tin học bao gồm hệ thống thông tin địa lý (GIS), hệ thống hỗ trợ quyết định không gian, hệ thống định vị toàn cầu (GPS), và viễn thám (RS).
+Các công cụ của địa tin học gồm: 
+
+Cơ sở dữ liệu quan hệ đối tượng (ORD) hoặc hệ quản trị cơ sở dữ liệu quan hệ đối tượng (ORDBMS)
+chuyển đổi đối tượng-quan hệ (or O/RM)
+Địa thống kê
+
+
+== Ứng dụng ==
+Một số ứng dụng của địa tin học như phát triển hệ thống dẫn đường trong xe ôtô, hệ thống định vị các phương tiện giao thông tự động, quy hoạch giao thông, mô hình và phân tích môi trường, quy hoạch đô thị, viễn thông, nông nghệp và y tế công cộng.
+"Địa tin học" là khoa học sử dụng được phát triển trên cơ sở hạ tầng của khoa học thông tin để giải quyết các vấn đề tin học, viễn thám, trắc địa, mô phỏng địa lý, đo đạc địa lý, thông tin dữ liệu không gian địa lý, khoa học Trái Đất…
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Geoinformatics Section, Geological Society of America Lưu trữ 2009-02-28 tại Wayback Machine

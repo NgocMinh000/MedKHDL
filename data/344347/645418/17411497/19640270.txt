@@ -1,0 +1,37 @@
+Biến cố thuyên tắc mạch và huyết khối sau tiêm vắc-xin, hay giảm tiểu cầu huyết khối miễn dịch sau tiêm vắc xin (vaccine-induced prothrombotic immune thrombocytopenia, VIPIT ), giảm tiểu cầu miễn dịch do vắc-xin (vaccine-induced immune thrombotic thrombocytopenia, VITT ), hoặc huyết khối kèm hội chứng giảm tiểu cầu (thrombosis with thrombocytopenia syndrome, TTS ) là những hội chứng huyết khối hiếm gặp, ban đầu được quan sát thấy ở một số lượng rất nhỏ những người trước đó đã được tiêm vắc-xin Oxford-AstraZeneca COVID-19 (AZD1222) trong đại dịch COVID-19. Sau đó, các hội chứng này cũng thấy ở người tiêm vắc-xin COVID-19 Janssen (Johnson & Johnson) dẫn đến việc ngừng sử dụng để đánh giá lại mức độ an toàn của nó.
+Tháng 4 năm 2021, AstraZeneca và EMA đã cập nhật thông tin của họ cho các chuyên gia chăm sóc sức khỏe về AZD1222, cho rằng có mối quan hệ nhân quả giữa việc tiêm chủng và sự xuất hiện của huyết khối kết hợp với giảm tiểu cầu: "mặc dù các phản ứng bất lợi như vậy rất hiếm, tỷ lệ người mắc các phản ứng sau tiêm vượt quá kỳ vọng ban đầu". 
+Nhiều guideline từ các hiệp hội nghề nghiệp khuyên nên điều trị bằng thuốc chống đông máu thay thế cho heparin, vì heparin có thể làm trầm trọng thêm phản ứng bất lợi.
+
+
+== Triệu chứng cơ năng và triệu chứng thực thể ==
+Các biến cố huyết khối liên quan đến vắc-xin COVID-19 có thể xảy ra 5-28 ngày sau khi tiêm. Một số loại huyết khối tương đối bất thường đã được báo cáo: huyết khối xoang tĩnh mạch não và huyết khối tĩnh mạch tạng (SPVT – Splanchnic vein thrombosis). Huyết khối xoang tĩnh mạch não có thể gây đau đầu dữ dội, các triệu chứng giống như đột quỵ (yếu một chi và/hoặc yếu cơ mặt), co giật và hôn mê. Huyết khối tĩnh mạch tạng có thể gây đau bụng, tích tụ dịch lỏng trong khoang bụng (cổ trướng) và xuất huyết tiêu hóa.
+Các dạng huyết khối khác chẳng hạn như thuyên tắc phổi cũng có thể xảy ra. Huyết khối động mạch cũng đã được báo cáo. Số lượng tiểu cầu thấp có thể biểu hiện dưới dạng ban xuất huyết (đốm chảy máu nhỏ dưới da) bên ngoài vị trí tiêm.
+Đông máu nội mạch rải rác (Disseminated intravascular coagulation, DIC) là sự hình thành cục máu đông lan tỏa khắp các mạch máu của cơ thể. Triệu chứng này là một phần của hội chứng. DIC có thể gây ra một loạt các triệu chứng như chảy máu bất thường, khó thở, đau ngực, các triệu chứng thần kinh, huyết áp thấp hoặc sưng tấy.
+Vắc-xin COVID-19 có một số tác dụng phụ thường xảy ra sau hai hoặc ba ngày sau khi tiêm, mức độ thường nhẹ hoặc thoáng qua.
+
+
+== Nguyên nhân ==
+Nhiều ca huyết khối cấp tính kèm giảm tiểu cầu được phát hiện sau khi tiêm vắc-xin COVID-19 đã xác định một kháng thể chống lại yếu tố tiểu cầu 4 (platelet factor 4, PF4). Hiện tượng này bình thường chủ yếu gặp ở một số người đã dùng heparin, nhưng những ca gặp huyết khối do tiêm vắc-xin lại không nằm trong nhóm người dùng heparin này. Hiếm gặp hơn, hiện tượng này trước đây được mô tả là bệnh tự miễn ở những người không tiếp xúc với heparin.
+Giảm tiểu cầu nói chung là một triệu chứng phổ biến sau hoặc trong nhiều trường hợp nhiễm virus, và triệu chứng này "được báo cáo một cách nhất quán" sau khi tiêm tĩnh mạch loại vector chuyển gen adenovirus, mặc dù cơ chế chưa được làm sáng tỏ.
+Vào ngày 7 tháng 4 năm 2021, EMA đề cập đến một "lời giải thích hợp lý" cho hiện tượng xuất hiện cục máu đông kèm lượng tiểu cầu trong máu thấp. Họ giải thích đây là "một đáp ứng miễn dịch, dẫn đến tình trạng tương tự như tình trạng đôi khi gặp ở bệnh nhân được điều trị bằng heparin", đó là hiện tượng giảm tiểu cầu do heparin (heparin induced thrombocytopenia, HIT).
+
+
+== Chẩn đoán ==
+Tại Vương quốc Anh, hiệp hội nghề nghiệp do Trường Cao đẳng Y tế Cấp cứu Hoàng gia đứng đầu ban hành hướng dẫn cho các trường hợp nghi ngờ. Ai đó có những triệu chứng nêu trên từ 5 đến 28 ngày sau khi tiêm vắc-xin sẽ được đánh giá về khả năng mắc biến chứng huyết khối, bằng xét nghiệm công thức máu toàn phần (bao gồm cả số lượng tiểu cầu). Nếu số lượng tiểu cầu giảm, có thể tiến hành xác định nồng độ D-dimer và fibrinogen, chuyên gia huyết học sẽ đưa ra lời khuyên nếu nồng độ đo được cao hơn so với khoảng tham chiếu.
+
+
+== Điều trị ==
+Guideline từ các hiệp hội nghề nghiệp khuyến nghị dùng thuốc chống đông máu thay thế cho heparin, vì heparin khả năng làm trầm trọng thêm biến cố. Các lựa chọn thay thế như thuốc chống đông máu đường uống tác dụng trực tiếp (directly-acting oral anticoagulants, DOAC), argatroban, fondaparinux hoặc danaparoid tùy thuộc vào từng trường hợp. Truyền tiểu cầu không được khuyến khích vì cũng có thể làm trầm trọng thêm tình trạng huyết khối. Hướng dẫn của Hiệp hội Huyết học Anh Quốc khuyến nghị sử dụng globulin miễn dịch tiêm tĩnh mạch (IVIG) để giảm mức độ kháng thể gây bệnh. Mức độ fibrinogen thấp có thể yêu cầu điều chỉnh bằng chất cô đặc fibrinogen hoặc chất kết tủa lạnh.
+
+
+== Tham khảo ==
+
+
+=== Ghi chú ===
+
+
+=== Chú thích ===
+
+
+=== Nguồn ===
+EMA press conference 7th April — Conclusion of the assessment of the Pharmacovigilance Risk Assessment Committee (PRAC) of COVID-19 Vaccine AstraZeneca and thromboembolic events. 7 tháng 4 năm 2021. Truy cập ngày 7 tháng 4 năm 2021.

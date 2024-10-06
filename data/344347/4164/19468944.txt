@@ -1,0 +1,159 @@
+Virus là một tác nhân truyền nhiễm có kích thước vô cùng nhỏ bé, có khả năng sinh sản ở bên trong các tế bào vật chủ sống. Khi bị nhiễm bệnh, tế bào chủ bị ép phải nhanh chóng sản sinh ra hàng ngàn bản sao giống hệt cấu trúc virus ban đầu. Không giống như hầu hết các sinh vật sống, virus không phải là tế bào, do đó không thể tự phân chia mà phải phụ thuộc vào tế bào chủ nhiễm bệnh. Nhưng không giống như các tác nhân truyền nhiễm có cấu trúc đơn giản hơn (chẳng hạn như prion - thể đạm độc), virus chứa gen. Đây là bộ máy di truyền cho phép chúng biến đổi và tiến hóa. Trong số hàng triệu loài virus tồn tại ở môi trường xung quanh chúng ta, có hơn 4800 loài đã được mô tả chi tiết. Nguồn gốc hình thành virus chưa thực sự rõ ràng: một số virus có thể đã tiến hóa từ plasmid (mảnh DNA có khả năng di chuyển và thâm nhập giữa các tế bào), trong khi một số virus khác có thể đã tiến hóa từ vi khuẩn.
+Virus có cấu tạo gồm 2 đến 3 phần. Cấu trúc cơ bản nhất là bộ gen. Đó là những vật chất chứa thông tin sinh học được mã hóa dưới dạng phân tử DNA hoặc RNA. Cấu trúc cơ bản thứ hai là lớp vỏ Protein bọc bên ngoài virus để bảo vệ bộ gen bên trong. Một số virus cũng có thể có một màng bọc (một số sách viết là envelope) chứa chất giống chất béo, lớp màng này bao phủ lớp vỏ protein và dễ bị hư hại khi gặp xà phòng. Màng bọc gắn một số thụ thể (receptor), virus sẽ gắn thụ thể đó với tế bào chủ mới để dễ dàng xâm nhập. Virus có nhiều hình dạng khác nhau, chẳng hạn như hình xoắn ốc đơn giản, hình nhị thập diện và các hình phức tạp hơn (thể thực khuẩn - phage). Virus rất nhỏ bé, có kích thước từ 20 đến 300 nanomet, tức là phải xếp 33.000 đến 500.000 virus nối tiếp nhau để đạt được 1 xentimét (0,4 in).
+Có nhiều hình thức lây lan virus. Mỗi loài virus tấn công mô của một hoặc một số loài động vật cụ thể, và có cách thức tự sao chép riêng. Virus thực vật thường lây lan từ cây này sang cây khác nhờ côn trùng và các sinh vật khác, được gọi là vector (thuật ngữ để chỉ vật chủ trung gian truyền bệnh). Một số virus người và các động vật khác lây lan do tiếp xúc với chất dịch của cơ thể bị nhiễm bệnh. Các loại virus như cúm lan truyền trong không khí nhờ những giọt bắt khi ho hoặc hắt hơi. Các loại virus như norovirus được truyền qua đường phân - miệng: qua bàn tay không được rửa sạch sẽ, qua thực phẩm và nước nhiễm bẩn. Rotavirus lây lan qua tiếp xúc trực tiếp với trẻ bị nhiễm bệnh. Virus gây suy giảm miễn dịch ở người, HIV, lây truyền qua các chất dịch cơ thể trong khi quan hệ tình dục. Virus sốt xuất huyết (Dengue) lây lan bởi côn trùng hút máu.
+Virus có khả năng đột biến nhanh chóng để tạo ra các chủng mới, đặc biệt virus có lõi RNA. Miễn dịch của vật chủ thường chống lại chủng mới một cách yếu ớt. Ví dụ, chủng virus cúm biến đổi thường xuyên, do đó mỗi năm cần một loại vắc-xin mới. Những đột biến gen lớn thậm chí gây ra đại dịch, như trong đại dịch cúm lợn năm 2009 lan sang hầu hết các quốc gia. Thông thường, những đột biến này trở nên rõ rệt khi virus bắt đầu lây nhiễm các vật chủ không cùng loài ban đầu, gây nên các căn bệnh lây truyền từ động vật. Ví dụ, coronavirus ở dơi, virus cúm ở lợn, chim có khả năng truyền bệnh sang người.
+Người, động vật và thực vật sẽ bị mắc bệnh khi nhiễm virus. Ở người và động vật khỏe mạnh, hệ miễn dịch đánh bại tác nhân gây bệnh là virus, và có thể tạo ghi nhớ miễn dịch suốt đời cho vật chủ đối với chủng virus đó. Chú ý rằng thuốc kháng sinh chỉ có tác dụng chống lại vi khuẩn, không có tác động lên virus. Tuy nhiên thuốc kháng virus có thể điều trị các bệnh truyền nhiễm đe dọa tính mạng. Những loại vắc-xin tạo miễn dịch suốt đời có thể ngăn ngừa một số bệnh truyền nhiễm.
+
+
+== Khám phá ==
+
+Năm 1884, nhà vi sinh học người Pháp Charles Chamberland phát minh ra bộ lọc Chamberland (hay bộ lọc Chamberland–Pasteur), chứa những chiếc lỗ có kích cỡ còn nhỏ hơn cả vi khuẩn. Sau đó, ông đổ dung dịch chứa vi khuẩn qua bộ lọc này loại bỏ hoàn toàn vi khuẩn. Đầu những năm 1890, nhà sinh vật học người Nga Dmitri Ivanovsky sử dụng phương pháp này để nghiên cứu về thứ mà hiện nay được biết với tên virus khảm thuốc lá. Thí nghiệm của ông cho thấy rằng dung dịch chiết xuất từ lá cây nghiền nát của cây thuốc lá bị nhiễm bệnh vẫn có khả năng lây nhiễm sau khi lọc.
+Trong khoảng thời gian đó, một số nhà khoa học khác phát hiện ra rằng mặc dù các "tác nhân" này (sau này được gọi là virus) khác với vi khuẩn và nhỏ hơn vi khuẩn khoảng một trăm lần, nhưng chúng vẫn gây bệnh. Năm 1899, nhà vi sinh học người Hà Lan Martinus Beijerinck quan sát thấy rằng "tác nhân" chỉ nhân lên khi tế bào chủ diễn ra hiện tượng phân bào. Ông gọi nó là "mầm sống có thể hòa tan" (tiếng Latin: contagium vivum fluidum), vì ông không thể tìm thấy bất kỳ hạt vi trùng nào. Đầu thế kỷ 20, nhà vi khuẩn học người Anh Frederick Twort phát hiện ra virus lây nhiễm vi khuẩn. Nhà vi sinh học người Canada gốc Pháp Félix d'Herelle mô tả rằng: khi thêm "tác nhân" này vào đĩa thạch nuôi cấy vi khuẩn thì sẽ có hiện tượng hình thành vùng vi khuẩn bị chết. Tính toán diện tích những vùng này cho phép ông tính được số lượng virus trong dung dịch ban đầu.
+Phát minh kính hiển vi điện tử năm 1931 mở ra cánh cổng rộng lớn cho ngành vi sinh học, cho ra những bức hình đầu tiên về virus. Năm 1935, nhà hóa sinh học và virus học người Mỹ Wendell Meredith Stanley nghiên cứu virus khảm thuốc lá và thấy được virus chủ yếu được làm từ protein. Một thời gian ngắn sau, virus được chứng minh cấu tạo từ protein và RNA. Một vấn đề mà nhà khoa học ban đầu gặp phải là họ không biết cách nuôi cấy virus ngoài môi trường động vật sống. Năm 1931, các nhà bệnh ký học người Mỹ Ernest William Goodpasture và Alice Miles Woodruff nuôi cấy bệnh cúm và một số loại virus khác trong trứng của gà được thụ tinh. Đây là bước đột phá vì là lần đầu tiên virus được nuôi cấy ở ngoài cơ thể sống đã trưởng thành. Tuy vậy một số virus không thể phát triển trong trứng gà. Vấn đề này đã được giải quyết vào năm 1949, khi John Franklin Enders, Thomas Huckle Weller và Frederick Chapman Robbins phát triển virus bại liệt bằng phương pháp nuôi cấy tế bào động vật sống. Hiện nay, hơn 4.800 loài virus đã được mô tả chi tiết.
+
+
+== Nguồn gốc ==
+Chỗ nào có sự sống, chỗ đấy có virus. Virus có lẽ đã tồn tại kể từ khi các tế bào sống đầu tiên có khả năng phát triển. Nguồn gốc của chúng vẫn chưa rõ ràng vì virus không thể tồn tại dưới dạng hóa thạch, vì vậy kỹ thuật sinh học phân tử là cách tốt nhất để đưa ra giả thuyết về sự phát sinh. Những kỹ thuật này dựa trên sự sẵn có của đoạn DNA hoặc RNA virus cổ đại, nhưng hầu hết virus bảo quản và lưu trữ trong phòng thí nghiệm đều ít hơn 90 năm tuổi. Như vậy các phương pháp sinh học phân tử chỉ thành công trong việc truy tìm nguồn gốc của virus phát triển trong thời gian từ thế kỷ 20. Chủng virus mới liên tục xuất hiện ở tất cả các giai đoạn quá trình tiến hóa của sự sống. Có ba giả thuyết chính giải thích về nguồn gốc của virus:
+
+Giả thuyết thoái hóa
+Giả thuyết này cho rằng virus có thể đã từng là những tế bào nhỏ ký sinh trên các tế bào lớn hơn. Trải qua thời gian, những gen không cần thiết cho sự ký sinh này mất đi. Vi khuẩn Rickettsia và Chlamydia là những tế bào sống và chỉ có thể sinh sản bên trong tế bào chủ (một đặc điểm giống như virus). Hiện tượng trên đã củng cố độ tin cậy đối với giả thuyết này: do quá phụ thuộc vào đời sống ký sinh, các đoạn gen từng cho phép chúng sống một mình sẽ dần dần bị biến mất.
+Giả thuyết nguồn gốc từ tế bào
+Theo giả thuyết này, một số virus có thể đã tiến hóa từ các mảnh DNA hoặc RNA "thoát ra" (escaped) khỏi bộ gen của sinh vật lớn hơn. DNA thoát ra có thể là từ những plasmid (những đoạn DNA trần mà có thể di chuyển giữa những tế bào) hoặc từ những transposon (những phân tử DNA mà nhân lên và di chuyển quanh những vị trí khác nhau bên trong bộ gen của tế bào).
+Giả thuyết đồng tiến hóa
+Virus có thể đã tiến hóa từ các phân tử protein và DNA phức tạp cùng lúc với tế bào sơ khai xuất hiện trên Trái Đất. Virus và tế bào sống có sự phụ thuộc lẫn nhau trong nhiều triệu năm.
+Các giả thuyết nên trên đều có mặt hạn chế. Giả thuyết thoái hóa không đưa ra được lý do tại sao khi đối chiếu theo bất kỳ cách nào, ngay cả những ký sinh trùng nội bào nhỏ nhất cũng chẳng có cấu trúc giống với virus. Giả thuyết nguồn gốc từ tế bào không giải thích được tại sao virus có nhiều cấu trúc độc nhất nhưng những cấu trúc này không tồn tại trong tế bào. Giả thuyết đồng tiến hóa mâu thuẫn với định nghĩa về virus, vì virus luôn phụ thuộc vào tế bào chủ. Ngoài ra, virus được công nhận có từ thời cổ đại và có nguồn gốc từ trước khi sự sống phân chia thành hệ thống ba vực. Khám phá này đã khiến các nhà virus học hiện đại xem xét và đánh giá lại ba giả thuyết cổ điển trên.
+
+
+== Cấu trúc ==
+
+Virion là một hạt virus có cấu trúc hoàn chỉnh. Bộ gen virus là sợi acid nucleic (DNA hoặc RNA), được bao quanh là một lớp vỏ protein bảo vệ tên là capsid. Capsid được tạo thành từ nhiều phân tử protein nhỏ hơn, giống hệt nhau tên là capsomere. Sự sắp xếp capsomere theo hình dạng nhất định: nhị thập diện (20 mặt), xoắn ốc hoặc hình thù phức tạp hơn. Một lớp vỏ bên trong, bọc xung quanh acid nucleic được gọi là nucleocapsid, có bản chất là protein. Một số virus còn được bao bọc bởi lớp lipid (chất béo) được gọi là màng bọc (envelope), dễ bị phá hủy bởi xà phòng và rượu.
+
+
+=== Kích thước ===
+Virus là một trong những tác nhân lây bệnh nhỏ nhất. Chúng quá nhỏ đến nỗi chỉ có thể được nhìn thấy bằng kính hiển vi điện tử. Kích thước dao động từ 20 đến 300 nanomet. Để dễ hình dung, phải xếp từ 30.000 đến 500.000 cá thể virus cạnh nhau thì mới tạo ra chuỗi kéo dài 1 xentimét (0,4 in). Trong khi đó đường kính vi khuẩn khoảng 1000 nanomet (1 micromet); đường kinh tế bào chủ sinh vật bậc cao thì khoảng vài chục micromet. Một số virus như megavirus và pandoravirus là những virus tương đối lớn, kích cỡ hoảng 1000 nanomet. Đây là những virus sống ký sinh trong amip, lần lượt được phát hiện vào năm 2003 và 2013. Hai loài virus trên có đường kính gấp khoảng mười lần (và do đó có thể tích lớn hơn hàng nghìn lần) so với virus cúm và việc phát hiện ra những virus "khổng lồ" này đã khiến các nhà khoa học kinh ngạc.
+
+
+=== Gen ===
+Bộ gen của virus là các sợi DNA (acid deoxyribonucleic) và, trong nhiều loại virus còn dưới dạng RNA (acid ribonucleic). Thông tin sinh học được mã hóa trong DNA hoặc RNA của nó. Các sinh vật bậc thấp và bậc cao đều sử dụng DNA làm mã di truyền, nhưng nhiều loại virus có lõi RNA. Bộ gen virus là một chuỗi đơn hoặc một chuỗi xoắn kép.
+Virus có khả năng sinh sản nhanh chóng vì có tương đối ít gen. Ví dụ, virus cúm chỉ có 8 gen và rotavirus có 11 gen, trong khi đó con người có 20.000–25.000 gen. Một số bộ gen virus chứa mã di truyền quy định các protein cấu trúc tạo thành hạt virus. Gen tạo ra protein phi cấu trúc chỉ được tìm thấy trong tế bào mà virus lây nhiễm.
+Tất cả các tế bào và nhiều loại virus tạo ra enzyme, một loại protein có chức năng xúc tác, điều khiển các phản ứng hóa học. Enzyme DNA polymerase và RNA polymerase điều khiển quá trình tạo ra các bản sao mới của DNA và RNA. Các enzyme polymerase của virus tạo ra DNA và RNA với tốc độ nhanh hơn nhiều so với các enzyme của tế bào chủ, nhưng enzyme RNA polymerase của virus rất dễ gặp lỗi khi sao chép, khiến virus RNA nhanh chóng đột biến và hình thành các chủng mới.
+Ở một số loài virus RNA, các gen không nằm trên một phân tử RNA liên tục mà được tách ra riêng rẽ. Ví dụ, virus cúm có 8 gen riêng biệt được tạo thành từ RNA. Khi hai chủng virus cúm khác nhau lây nhiễm vào cùng một tế bào, các gen này trộn lẫn, sắp xếp lại và tạo ra nhiều chủng virus mới trong một quy trình gọi là tái sắp xếp.
+
+
+=== Tổng hợp protein ===
+
+Protein rất cần thiết cho sự sống. Tế bào tạo ra phân tử protein mới từ các đơn phân amino acid dựa trên thông tin mã hóa trong chuỗi DNA. Mỗi loại protein thường chỉ thực hiện một chức năng đặc hiệu, vì vậy nếu một tế bào cần thực hiện một chức năng mới thì phải tạo ra một loại protein mới hoàn toàn. Chính vì lẽ đó một khi tế bào bị xâm nhập, virus sẽ ép buộc tế bào tạo ra các protein mới mà tế bào không cần, nhưng phục vụ qua quá trình sao chép virus. Sinh tổng hợp protein trải hai bước chính: phiên mã và dịch mã.
+Phiên mã là quá trình sử dụng thông tin trong chuỗi DNA (được gọi là mã di truyền) để tạo ra các bản sao RNA được gọi là RNA thông tin (mRNA). chuỗi mRNA ra khỏi nhân và đi đến ribosome, thực hiện quá trình dịch mã để tạo protein. Do vậy cấu trúc và trình tự amino acid của protein được chuỗi mRNA quy định. Như vậy thông qua phiên mã và dịch mã, thông tin từ "ngôn ngữ" acid nucleic chuyển sang "ngôn ngữ" của amino acid.
+Một số acid nucleic của virus RNA hoạt động trực tiếp với tư cách như là mRNA mà không cần biến đổi gì thêm. Vì lý do đó, những virus này được gọi là virus RNA dương tính. Ở một số virus RNA khác, RNA trong virus chính là bản sao của mRNA, do đó virus phải dựa vào enzyme của tế bào hoặc của chính virus để tạo ra mRNA có thể phiên mã. Chúng được gọi là virus RNA âm tính. Đối với các virus DNA, việc phiên mã trở thành mRNA khá giống hoạt động sinh trưởng tế bào. Tuy nhiên, retrovirus có cách thức hoạt động hoàn toàn khác: virus có RNA, nhưng bên trong tế bào chủ, một bản sao DNA của RNA được tạo ra với sự trợ giúp của enzyme phiên mã ngược. DNA này sau đó hòa vào DNA của chính vật chủ, và được phiên mã vào mRNA theo quá trình sinh trưởng thông thường của tế bào.
+
+
+== Vòng đời ==
+
+Khi virus xâm nhập vào tế bào, virus sẽ nhân lên thành hàng nghìn virus mới. Để sinh sản, virus ép buộc tế bào vật chủ sao chép DNA hoặc RNA của virus, tạo ra protein của virus, sau đó lắp ráp tạo thành nhiều hạt virus mới.
+Vòng đời của virus trong các tế bào sống gồm sáu giai đoạn cơ bản nối tiếp nhau:
+
+Hấp phụ (hay bám dính) là sự liên kết của virus với phân tử đặc hiệu trên bề mặt tế bào. Tính đặc hiệu này hạn chế virus xâm nhập vào nhiều loại tế bào. Ví dụ, virus suy giảm miễn dịch ở người (HIV) chỉ lây nhiễm vào tế bào T của người, vì protein bề mặt gp120 chỉ có thể hấp phụ với CD4 và nhiều phân tử khác trên bề mặt tế bào T. Virus thực vật chỉ có thể gắn vào tế bào thực vật và không thể lây nhiễm cho động vật. Cơ chế này đã ủng hộ quan điểm rằng virus chỉ có khả năng lây nhiễm vào tế bào mà chúng có khả năng sinh sản.
+Xâm nhập sau khi hấp phụ; virus xâm nhập vào tế bào chủ bằng hình thức nhập bào hoặc hòa màng với tế bào.
+Cởi áo (hay giải phóng lõi) xảy ra bên trong tế bào khi vỏ capsid của virus bị enzyme virus hoặc enzyme tế bào chủ phá hủy, giải phóng acid nucleic của virus.
+Tổng hợp (hay sao chép) là giai đoạn mà một tế bào sử dụng RNA thông tin của virus để tạo ra protein cho virus sử dụng.
+Lắp ráp diễn ra trong tế bào khi các protein virus và acid nucleic mới lắp ráp theo khuôn mẫu tạo thành hàng trăm hạt virus mới.
+Giải phóng xảy ra khi virus được giải phóng khỏi tế bào. Phần lớn trường hợp, tế bào sẽ bị vỡ ra (ly giải). Một số virus như HIV giải phóng một cách nhẹ nhàng hơn nhờ quá trình nảy chồi.
+
+
+== Tác dụng lên tế bào vật chủ ==
+Virus gây nên một loạt các hiệu ứng cấu trúc và hóa sinh lên tế bào chủ, được gọi là hiệu quả gây bệnh cho tế bào (cytopathic effect - CPE). Hầu hết các trường hợp nhiễm virus đều khiến tế bào chủ bị chết, nguyên nhân là dó sự ly giải tế bào (tế bào vỡ), thay đổi màng tế bào và thay đổi chương trình chết rụng tế bào (tế bào "tự sát"). Thông thường tế bào chết là do protein của virus tạo ra làm rối loạn hoạt động tế bào.
+Một số virus không gây ra sự thay đổi đáng kể đối với tế bào bị nhiễm bệnh. Các tế bào nhiễm virus tiềm ẩn (virus không hoạt động) có rất ít biểu hiện bị nhiễm trùng và hoạt động vẫn bình thường, gây nên các triệu chứng nhiễm trùng dai dẳng. Virus herpes là một ví dụ.
+Một số virus (ví dụ: virus Epstein-Barr) thường khiến tế bào tăng sinh mà không gây ra bệnh ác tính; nhưng một số loại virus khác (chẳng hạn như papillomavirus) là nguyên nhân gây bệnh ung thư. Khi DNA của tế bào chủ bị tổn thương khiến tế bào không thể tự sửa chữa, gây ra hiện tượng chết rụng tế bào. Một trong những kết quả của chết rụng tế bào là sự tự phá hủy DNA tổn thương. Một số virus có cơ chế hạn chế chết rụng tế bào để tế bào vật chủ không chết trước giai đoạn tổng hợp virus, ví dụ như HIV.
+
+
+== Virus và bệnh tật ==
+Có nhiều cách để virus lây lan từ vật chủ này sang vật chủ kia. Nhiều loại virus gây bệnh cho thực vật được một số sinh vật mang theo và reo rắc mầm bệnh; những sinh vật như vậy được gọi là vector (vật chủ trung gian truyền bệnh). Một số virus lây nhiễm cho động vật, con người, cũng có hình thức lây lan qua vectơ (thường là côn trùng hút máu), nhưng hình thức lây truyền trực tiếp phổ biến hơn. Một số bệnh nhiễm virus chẳng hạn như norovirus và rotavirus lây lan qua thực phẩm bẩn, nước bị ô nhiễm, qua tay, vật dùng chung, và qua tiếp xúc gần với người bị nhiễm bệnh khác. Một số virus lây truyền qua không khí (virus cúm). Các loại virus như HIV, viêm gan B và viêm gan C thường lây truyền qua quan hệ tình dục không an toàn hoặc kim tiêm dưới da dùng đi dùng lại nhiều lần. Để ngăn ngừa nhiễm trùng và bệnh tật, yếu tố tiên quyết là phải biết hình thức lây truyền của mỗi loại virus.
+
+
+=== Ở người ===
+Một số bệnh thông thường ở người do virus gây ra gồm cảm lạnh, cúm, thủy đậu và mụn rộp. Các bệnh nghiêm trọng như Ebola và AIDS cũng do virus gây ra. Cũng có nhiều loại virus gây ra ít hoặc không có bệnh, được gọi là virus "lành tính". Đối với virus gây hại thì được mô tả bằng thuật ngữ độc lực. Virus gây ra các bệnh khác nhau tùy thuộc vào loại tế bào mà chúng lây nhiễm. Một số virus có thể gây nhiễm trùng suốt đời, gây bệnh mạn tính, tức là virus luôn sinh sản trong cơ thể dù đã có cơ chế phòng vệ của vật chủ. Đây là hiện tượng phổ biến khi nhiễm virus viêm gan B, viêm gan C. Những người bị nhiễm virus mạn tính gọi là người mang mầm bệnh, là ổ chứa virus.
+
+
+==== Bệnh địa phương ====
+Nếu tỷ lệ người mang mầm bệnh trong một dân số nhất định đạt đến một ngưỡng nhất định, căn bệnh đó trở thành bệnh địa phương. Ở các nước có khí hậu ôn đới, các bệnh do virus thường diễn biến theo mùa. Viêm đa cơ do poliovirus (virus bại liệt) thường xảy ra trong những tháng mùa hè. Ngược lại, cảm lạnh, nhiễm cúm và rotavirus thường hay gặp vào mùa đông. Các loại virus khác, chẳng hạn như virus sởi, gây ra dịch bệnh cứ 3 năm một lần. Ở các nước đang phát triển, virus gây nhiễm trùng đường hô hấp và đường ruột khá thường gặp. Virus có vector côn trùng là nguyên nhân phổ biến gây bệnh ở những nơi này. Ví dụ, virus Zika và virus sốt xuất huyết ký sinh trong muỗi cái Aedes. Muỗi này đốt người và gây nên dịch, đặc biệt trong mùa sinh sản của muỗi.
+
+
+==== Đại dịch ====
+
+Mặc dù đại dịch do virus gây nên khá là hiếm gặp, tuy nhiên HIV tiến hóa từ virus tìm thấy ở khỉ và tinh tinh trở thành đại dịch kể từ những năm 1980. Trong thế kỷ 20, có 4 đại dịch do virus cúm gây ra, nghiêm trọng nhất vào các năm 1918, 1957 và 1968. Trước khi xóa sổ, bệnh đậu mùa đeo đẳng loài người, gây nên đại dịch trong hơn 3000 năm. Trong suốt chiều dài lịch sử, quá trình di cư của con người đã hỗ trợ sự lây lan của đại dịch qua đường biển đường hàng không.
+Ngoại trừ bệnh đậu mùa, hầu hết các đại dịch đều do virus mới tiến hóa gây nên. Những virus "mới nổi" này thường là chủng đột biến của những virus ít gây hại hơn vốn đã lưu hành trước đó ở người hoặc động vật.
+Hội chứng hô hấp cấp tính nặng (SARS) và hội chứng hô hấp Trung Đông (MERS) là do các chủng mới của coronavirus. Các loại coronavirus khác chỉ gây nhiễm trùng nhẹ ở người. Độc lực và sự lây lan nhanh chóng của SARS đã gây ra khoảng 8000 ca dương tính, 800 ca tử vong (cho đến tháng 7 năm 2003).
+Một loại coronavirus xuất hiện ở Vũ Hán, Trung Quốc vào tháng 11 năm 2019. Chủng này lây lan nhanh chóng trên khắp thế giới. Chủng coronavirus gây hội chứng hô hấp cấp tính nặng 2 (SARS-CoV-2) được cho là có nguồn gốc từ dơi, gây ra căn bệnh có tên COVID-19, gây mức độ từ nhẹ đến chết, và gây nên đại dịch vào năm 2020. Những hạn chế đối với du lịch quốc tế được áp đặt, hiện tượng chưa từng có tiền lệ trong thời bình. Các lệnh giới nghiêm, lệnh cách ly xã hội có hiệu lực ở nhiều thành phố lớn trên toàn thế giới.
+
+
+=== Virus thực vật ===
+
+Có nhiều loại virus thực vật, nhưng thường chỉ làm giảm năng suất. Virus thực vật thường lây lan từ cây này sang cây khác bởi các sinh vật gọi là "vector". Vector lây truyền là côn trùng bình thường, nhưng cũng có thể là nấm, tuyến trùng và sinh vật đơn bào. Khi kiểm soát nhiễm virus thực vật, cần tập trung vào việc tiêu diệt các vector và loại bỏ các vật chủ thay thế, chẳng hạn như cỏ dại. Virus thực vật vô hại với con người và động vật vì chúng chỉ có thể sinh sản và tổng hợp trong tế bào thực vật còn sống.
+
+
+=== Thể thực khuẩn ===
+
+Thể thực khuẩn (Bacteriophage) là virus ký sinh trong vi khuẩn và vi khuẩn cổ. Thể thực khuẩn rất quan trọng trong hệ sinh thái biển: chúng lây nhiễm và tiêu diệt vi khuẩn trong các cộng đồng vi sinh dưới nước, làm nên cơ chế quan trọng nhất trong sự tái chế carbon ở môi trường đại dương. Những phân tử hữu cơ được giải phóng ra khỏi tế bào vi khuẩn sẽ kích thích sự phát triển mới của vi khuẩn và tảo. Thể thực khuẩn rất hữu ích trong nghiên cứu khoa học vì chúng vô hại với con người và nghiên cứu dễ dàng. Một số bệnh nhiễm trùng do vi khuẩn ngày càng trở nên khó kiểm soát do sự kháng kháng sinh, do đó xu hướng nghiên cứu mới là sử dụng thể thực khuẩn để điều trị nhiễm khuẩn ở người.
+
+
+=== Sự đề kháng virus ở động vật và thực vật ===
+
+
+==== Miễn dịch bẩm sinh của động vật ====
+Người và động vật có nhiều "hệ thống phòng thủ" tự nhiên chống lại virus. Một số "hệ thống" không đặc hiệu, giúp chống lại nhiều loại virus. Khả năng miễn dịch bẩm sinh này không được cải thiện khi tiếp xúc nhiều lần với virus và không được lưu giữ trong "trí nhớ miễn dịch". Da của động vật, đặc biệt là lớp biểu bì, được cấu tạo từ lớp tế bào chết ngăn chặn nhiều loại virus lây nhiễm vào vật chủ. Tính acid của dịch dạ dày phá hủy nhiều loại virus nếu vật chủ nuốt phải. Khi virus vượt qua các hàng rào này và xâm nhập vào vật chủ, các biện pháp phòng vệ bẩm sinh khác sẽ ngăn chặn sự lây lan của nhiễm trùng trong cơ thể. Một loại hormone đặc biệt gọi là interferon được cơ thể sản xuất khi có virus, ngăn chặn virus sinh sản bằng cách tiêu diệt các tế bào bị nhiễm bệnh và mô xung quanh. Bên trong tế bào có enzyme phá hủy RNA của virus. Hiện tượng này được gọi là can thiệp RNA. Một số tế bào máu còn có khả năng "ăn" và tiêu diệt tế bào bị nhiễm virus.
+
+
+==== Miễn dịch thu được của động vật ====
+
+Miễn dịch đặc hiệu đối với virus phát triển theo thời gian trưởng thành và tế bào bạch cầu, đặc biệt là tế bào lympho đóng vai trò trung tâm. Tế bào lympho giữ lại một "trí nhớ" về lịch sử nhiễm virus, tạo ra nhiều phân tử đặc biệt gọi là kháng thể. Những kháng thể này gắn vào virus và ngăn chặn virus lây nhiễm vào tế bào. Kháng thể có tính chọn lọc cao và chỉ tấn công một loại virus. Cơ thể tạo ra nhiều kháng thể khác nhau, đặc biệt là trong giai đoạn nhiễm trùng ban đầu. Sau khi tình trạng nhiễm trùng giảm, một số kháng thể vẫn còn tồn tại và tiếp tục được sản xuất, thường mang lại cho vật chủ khả năng miễn dịch suốt đời đối với chủng virus đó.
+
+
+==== Sự đề kháng virus ở thực vật ====
+Thực vật có cơ chế bảo vệ hiệu quả chống lại virus. Một trong những tính hiệu quả nhất là sự hiện diện của gen được gọi là gen kháng (R). Mỗi gen R có khả năng kháng một loại virus cụ thể bằng cách kích hoạt các khu vực chết tế bào cục bộ xung quanh tế bào bị nhiễm bệnh, tạo ra những đốm lớn có thể nhìn thấy bằng mắt thường. Điều này ngăn chặn sự lây nhiễm. Can thiệp RNA cũng là một biện pháp bảo vệ hiệu quả ở thực vật. Khi bị nhiễm bệnh, thực vật thường sản xuất các chất khử trùng tự nhiên tiêu diệt virus, như axit salicylic, nitơ monoxit và chất oxy hóa.
+
+
+==== Sự đề kháng virus ở vi khuẩn ====
+Cách chủ yếu để vi khuẩn tự bảo vệ mình khỏi thể thực khuẩn là sản xuất các enzyme phá hủy DNA ngoại lai. Những enzyme này, được gọi là endonuclease giới hạn (một loại enzyme cắt giới hạn), cắt đứt DNA của virus khi thể thực khuẩn "tiêm" vào tế bào vi khuẩn.
+
+
+=== Phòng và điều trị bệnh do virus ===
+
+
+==== Vắc-xin ====
+
+Vắc-xin là hình thức mô phỏng nhiễm trùng tự nhiên và đáp ứng miễn dịch liên quan nhưng không gây bệnh. Sử dụng vắc-xin đã xóa sổ hoàn toàn bệnh đậu mùa và giảm đáng kể mức độ và số ca tử vong do các bệnh nhiễm trùng như bại liệt, sởi, quai bị và rubella. Vắc-xin ngăn ngừa hơn 14 bệnh nhiễm virus ở người  và nhiều bệnh nhiễm virus ở động vật. Vắc-xin có thể chứa virus sống hoặc bị giết. Vắc-xin sống chứa virus yếu, có thể gây nguy hiểm khi tiêm cho những người bị suy giảm miễn dịch. Công nghệ sinh học và kỹ thuật di truyền được ứng dụng để sản xuất vắc-xin "thiết kế" chỉ có thành phần protein capsid của virus. Vắc-xin viêm gan B là một ví dụ. Những loại vắc-xin này an toàn hơn vì không bao giờ có khả năng gây bệnh.
+
+
+==== Thuốc kháng virus ====
+
+Từ giữa những năm 1980, sự phát triển của thuốc kháng virus đã tăng lên nhanh chóng, chủ yếu do đại dịch AIDS. Thuốc kháng virus thường là các chất tương tự nucleoside, là các chất nhân tạo thay thế nucleoside DNA. Khi sự sao chép DNA của virus bắt đầu, một số đơn phân là "chất tương tự" trong thuốc được sử dụng, giúp ngăn cản sự sao chép DNA vì các "chất tương tự" không có khả năng hình thành chuỗi DNA. Khi quá trình sản xuất DNA dừng lại, virus không thể lắp ráp các mảnh vào được. Một số ví dụ về "chất tương tự" nucleoside: aciclovir dùng để chữa virus herpes; lamivudine dùng để chữa virus HIV và viêm gan B. Aciclovir là một trong những loại thuốc kháng virus lâu đời nhất và sử dụng lâu đời nhất.
+Các loại thuốc chống virus khác nhắm vào các giai đoạn khác nhau của vòng đời virus. HIV phụ thuộc vào một loại enzyme gọi là HIV-1 protease để virus lây nhiễm. Có một nhóm thuốc gọi là chất ức chế protease, liên kết với enzyme này và ngăn enzyme hoạt động.
+Viêm gan C do virus RNA gây ra. Trong 80% những người mắc bệnh, căn bệnh này trở thành mãn tính và người mang mầm bệnh vẫn có khả năng truyền nhiễm cho đến hết đời trừ khi được điều trị. Một phương pháp điều trị hiệu quả là sử dụng thuốc ribavirin (một chất có cấu trúc tương tự như nucleosid guanosin). Phương pháp điều trị cho những người mang virus viêm gan B mãn tính cũng tuân theo chiến lược tương tự, sử dụng lamivudine và một số loại thuốc chống vi rút khác. Trong cả hai bệnh kể trên, thuốc ngăn chặn sự sinh sôi của virus, và interferon giết chết mọi tế bào bị nhiễm bệnh.
+Nhiễm HIV thường được điều trị bằng việc kết hợp nhiều loại thuốc kháng virus, mỗi loại nhắm vào một giai đoạn khác nhau trong vòng đời. Có những loại thuốc ngăn chặn virus hấp phụ vào tế bào, là chất tương tự nucleoside và một số chất độc ngăn cản enzyme cần thiết để virus sinh sản. Thành công trong lĩnh vực chữa trị virus bằng thuốc chính là bằng chứng về tầm quan trọng của việc hiểu biết cách thức sinh sản của virus.
+
+
+== Vai trò trong sinh thái ==
+Virus là thực thể sinh học phong phú nhất trong môi trường nước; Chỉ 1ml nước biển chứa khoảng một triệu hạt virus, và chúng rất cần thiết cho sự điều tiết của hệ sinh thái nước mặn và nước ngọt. Hầu hết là thể thực khuẩn vốn vô hại đối với thực vật và động vật. Chúng lây nhiễm và tiêu diệt vi khuẩn trong quần xã vi sinh vật dưới nước và đây là cơ chế tái chế carbon quan trọng nhất trong môi trường biển. Các phân tử hữu cơ được giải phóng từ các tế bào vi khuẩn kích thích sự phát triển của tảo và vi khuẩn mới.
+Vi sinh vật chiếm hơn 90% sinh khối ở biển. Người ta ước tính rằng virus giết chết khoảng 20% sinh khối mỗi ngày và trong các đại dương, số lượng virus gấp 15 lần so với số lượng vi khuẩn và vi khuẩn cổ. Virus chủ yếu chịu trách nhiệm cho việc ngăn chặn hiện tượng nước nở hoa, một hiện tượng thường gây hại nghiêm trọng cho các sinh vật biển khác. Số lượng virus trong các đại dương giảm dần khi ra ngoài khơi và theo độ sâu của mực nước, nơi có ít vật chủ hơn.
+Ảnh hưởng của virus rất to lớn. Bằng cách tăng hô hấp đại dương, virus có trách nhiệm gián tiếp làm giảm lượng khí carbon dioxide trong khí quyển khoảng 3 tỷ tấn carbon mỗi năm.
+Động vật có vú dưới biển cũng dễ bị nhiễm virus. Vào năm 1988 và 2002, hàng ngàn con hải cẩu bị tử vong ở châu Âu do Phocine morbillivirus. Nhiều loại virus khác như calicillin, herpesvirus, adenovirus và parvovirus tồn tại trong quần thể động vật có vú ở biển.
+
+
+== Xem thêm ==
+Chủ đề: Y học
+Bài viết chính: Virus
+
+
+== Tham khảo ==
+
+
+=== Cước chú ===
+
+
+=== Tài liệu ===
+
+
+== Liên kết ngoài ==
+
+Tài nguyên mầm bệnh virus  –  Genomic và dữ liệu nghiên cứu khác về virus gây bệnh ở người
+Cơ sở dữ liệu nghiên cứu dịch cúm  –  Genomic và dữ liệu nghiên cứu khác về virus cúm

@@ -1,0 +1,57 @@
+NF-KB (Nuclear factor kappa-light-chain-enhancer of activated B, Yếu tố hạt nhân tăng cường chuỗi nhẹ kappa của các tế bào B hoạt động) là một phức hợp protein kiểm soát sự phiên mã của DNA, sản xuất cytokine và sự tồn tại của tế bào. NF-κB được tìm thấy ở hầu hết tất cả các dạng của tế bào động vật và liên quan đến đáp ứng của tế bào với các kích thích như stress, các cytokin, các gốc tự do, kim loại nặng, tia cực tím, LDL oxy hóa, các kháng nguyên của vi khuẩn và vi-rút. NF-κB giữ vai trò quyết định trong việc điều hoà đáp ứng miễn dịch với tình trạng nhiễm trùng. Sai lệch trong điều hoà NF-κB có thể dẫn đến ung thư, các bệnh lý viêm và tự miễn, sốc nhiễm trùng, nhiễm vi-rút và hình hành các miễn dịch không thích hợp. Phần lớn bệnh tật ở người có thể có liên quan đến sự hoạt hóa và biểu hiện lệch lạc của một số gene nhất định. Những gene này đóng vai trò chính trong sự khởi động và tiến triển của quá trình bệnh sinh. Các bệnh như thế có thể kể: viêm khớp tự miễn, viêm cầu thận, hen phế quản, sốc nhiễm trùng huyết, xơ hóa phổi, quá trình sinh ung thư, AIDS…
+Thông thường thì các gene này ở trạng thái không hoạt động hoặc hoạt động rất yếu do đó không ảnh hưởng đến các tiến trình sinh vật cũng như sinh lý bình thường trong cơ thể. Tuy nhiên, trong một điều kiện nào đó như ô nhiễm môi trường, những gene này đột ngột hoạt động do một quá trình khởi động các yếu tố di truyền sẵn có.
+Một phần quan trọng trong quá trình khởi động các yếu tố di truyền này do Yếu Tố Nhân kappa B kiểm soát. Yếu Tố Nhân kappa B (Nuclear Factor-kappa B), tên thường dùng: NF-kB, là một yếu tố sao mã thiết yếu kiểm soát quá trình biểu hiện gene mã hóa của các cytokine, chemokine, yếu tố phát triển và các phân tử bán dính tế bào cũng như các protein pha cấp.
+
+
+=== Cấu tạo ===
+NF-kB được phát hiện đầu tiên vào năm 1986. NF-kB đầu tiên được xem như là yếu tố nhân của tế bào B. Yếu tố này có tên như vậy là vì nó có khả năng gắn với một đoạn intron của gene mã hóa cho chuỗi nhẹ kappa của immonoglobulin. Sau đó NF-kB được tìm thấy không chỉ trong tế bào B mà còn trong rất nhiều loại tế bào khác nhau. Phân tử này được hoạt hóa bởi rất nhiều tác nhân khác nhau như bức xạ tia cực tím, các cytokine, bụi công nghiệp, các thành phần của vi khuẩn và virus. Trong nhân, NF-kB khởi động hay điều hòa quá trình sao mã đáp ứng sớm (early-response transcription) bằng cách gắn vào vùng khởi động (promotor) hay tăng cường (enhancer) của các gene đặc hiệu.
+Mặc dù NF-kB gắn vào vùng khởi động của các gene liên quan đến quá trình tương tác giữa các tế bào, một điều cần nhấn mạnh là không phải NF-kB điều hòa tăng cường (up-regulation) tất cả các gene.
+Các quá trình tế bào liên quan đến sự hoạt hóa của NF-kB gồm:
+
+Bám dính giữa các tế bào,
+Huy động hay chuyển động tế bào viêm,
+Khuếch đại hay khuếch tán những tín hiệu bệnh sinh ban đầu và
+Khởi động hay tăng tốc quá trình sinh u.
+Hiện nay đã có 5 thành viên của họ NF-kB được xác định là:
+
+NF-kB1 (p50/p105),
+NF-kB2 (p52/p100),
+p65 (RelA),
+RelB và
+c-Rel.
+Một đặc trưng quan trọng của NF-kB là tất cả các thành viên của họ này đều bảo tồn được một domain Rel giống nhau. Domain (vùng) này chứa khoảng 300 amino acid chịu trách nhiệm chính cho quá trình gắn với DNA, nhị phân hóa và tương tác với IkB-một chất ức chế nội bào của NF-kB.
+
+
+=== Các tín hiệu hoạt hóa NF-kB ===
+Các cytokine gây viêm mạnh như TNF α, Interleukin-1, các tác nhân gây gián phân tế bào T và B (T and B cell mitogens).
+Vi khuẩn và nội độc tố vi khuẩn, virus, các protein virus.
+Các kích tác vật lý và hóa học: tia cực tím, chất oxy hóa…
+
+
+=== Yếu tố ức chế NF-kB ===
+Khi tế bào ở trạng thái nghỉ, NF-kB tồn tại trong bào tương ở dạng tương tác không đồng hóa trị với các protein ức chế là IkB. Hiện nay, có bảy loại IkB được xác định: IkB-alpha, IkB-beta, IkB-gamma, IkB-epsilon, Bcl-3, p100 and p105. Tất cả các IkB này đều chứa các đoạn lặp lại có tên là ankyrin. Các đoạn lặp lại ankyrin này điều hòa quá trình gắn kết giữa IkB và NF-kB. Các ankyrin này tương tác với một vùng trên RHD của NF-kB do đó che mất phần NLS nên phân tử NF-kB không thể di chuyển từ bào tương vào nhân được. Những tác nhân hoạt hóa NF-kB gây nên quá trình phosphryl hóa các IkB. Kết quả là IkB bị giáng hóa bởi quá trình thủy phân protein hoặc bị phân hủy do các proteasome hay các protease (enzyme tiêu protein) khác. Một khi IkB bị giáng hóa, các NF-kB sẽ được giải phóng, đi vào nhân tế bào và kích thích quá trình sao mã tại đây.
+
+
+=== Vai trò của NF-kB ===
+Điều hòa quá trình sao mã của rất nhiều loại tế bào khác nhau trong đáp ứng với các kích thích như viêm và miễn dịch.
+Hoạt hóa NF-kB cũng đóng vai trò quan trọng trọng quá trình chống virus của tế bào thông qua điều hòa hoạt động của gene mã hóa cho interferon.
+Trong hầu hết các loại tế bào thì NF-kB điều hòa các tín hiệu sống sót của tế bào. Tuy nhiên trong một số trường hợp, yếu tố này lại gây nên chết tế bào theo chương trình.
+Quá trình điều hòa bất hợp lý của NF-kB là nguyên nhân gây nên nhiều bệnh lý khác nhau như ung thư, thoái hóa thần kinh, viêm khớp, hen phế quản….
+NF-kB cũng đóng vai trò cực kỳ quan trọng trong quá trình phát triển bình thường của phôi thai. Rối loạn điều hòa NF-kB là nguyên nhân của nhiều dị tật bẩm sinh.
+
+
+=== NF-kB với kích thích oxy hóa ===
+Các gốc oxy phản ứng (reactive oxygen species-ROS) có khả năng gây nên các tổn thương oxy hóa các đại phân tử đưa đến các bệnh lý do viêm khác nhau cũng như các rối loạn thoái hóa thần kinh.
+Khi nồng độ các ROS tăng cao trong tế bào, NF-kB được hoạt hóa nhằm tăng cường khả năng chống viêm và chống chết tế bào theo chương trình do ROS gây nên.
+H2O2 là một chất cảm ứng hoạt hóa NF-kB hiệu quả nhưng sự hoạt hóa này tùy thuộc vào từng loại tế bào.
+Nồng độ nội bào của các glutathion khử (reduced glutathione-GSH) có thể đóng vai trò quan trọng trong đáp ứng của NF-kB với H2O2.
+Chất chống oxy hóa (antioxidant) có tác dụng ức chế TNF, IL-1, nội độc tố vi khuẩn. Biểu hiện quá mức của superoxide dismutase sẽ làm mất tác dụng của NF-kB đối với TNF, nội độc tố và H2O2.
+
+
+=== Tham khảo ===
+Chen F, Castranova V, Shi X. New insights into the role of nuclear factor-kappaB in cell growth regulation. Am J Pathol. 2001; 159: 387-397.
+Lindstrom TM. Bennett PM. The role of nuclear factor kappa B in human labour. Reproduction. 2005; 130: 569-581.
+Moynagh PN. The NF-kappaB pathway. J Cell Sci. 2005; 118: 4589-92.
+
+
+== Tham khảo ==

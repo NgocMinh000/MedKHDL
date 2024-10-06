@@ -1,0 +1,11 @@
+Từ vựng được kiểm soát (Controlled vocabularies) cung cấp cách tổ chức dữ liệu để thu hồi sau đó. Các từ vựng này được sử dụng trong các mô hình đối tượng chỉ mục, các nhóm chủ đề, từ điển, nguyên tắc phân loại và cho các dạng khác của hệ thống tổ chức kiến thức. Mô hình từ vựng được kiểm soát có nhiệm vụ dùng trong việc tiền định nghĩa, các điều khoản ủy quyền được lựa chọn bởi chuyên gia thiết kế từ vựng trước tiên. Điều đó ngược lại so với ngôn ngữ tự nhiên đó là không hạn chế về từ vựng.
+
+
+== Tham khảo ==
+
+^  Amy Warner, A taxonomy primer Lưu trữ 2016-03-05 tại Wayback Machine.
+^  Karl Fast, Fred Leise and Mike Steckel, What is a controlled vocabulary? Lưu trữ 2009-01-21 tại Wayback Machine
+^  Cory Doctorow, Metacrap.
+^  Mark Pilgrim, This is XFML Lưu trữ 2009-02-11 tại Wayback Machine.
+Controlled Vocabularies Lưu trữ 2010-12-04 tại Wayback Machine Links to examples of thesauri and classification schemes.
+Controlled Vocabularies Lưu trữ 2009-03-14 tại Wayback Machine Links to examples of thesauri and classification schemes used in the domain of Agriculture, Fisheries, Forestry etc.

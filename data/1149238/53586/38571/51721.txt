@@ -1,0 +1,103 @@
+Tư duy phản biện hay tư duy phân tích là một quá trình tư duy biện chứng gồm phân tích và đánh giá một thông tin đã có theo các cách nhìn khác cho vấn đề đã đặt ra nhằm làm sáng tỏ và khẳng định lại tính chính xác của vấn đề. Lập luận phản biện phải rõ ràng, logic, đầy đủ bằng chứng, tỉ mỉ, khách quan và công tâm.
+Dựa vào những nghiên cứu gần đây, các nhà giáo dục đã hoàn toàn tin tưởng rằng trường học nên tập trung hơn vào việc dạy học sinh tư duy phản biện. Tư duy phản biện không chỉ đơn thuần là sự tiếp nhận và duy trì thông tin thụ động. Đó có thể tóm tắt là quá trình tư duy tìm lập luận phản bác lại kết quả của một quá trình tư duy khác để xác định lại tính chính xác của thông tin.
+
+
+== Các bước thực hiện ==
+Nhận dạng những ý kiến liên quan với vấn đề đưa ra.
+Phân tích:
+Mỗi ý kiến đưa ra một vài luận điểm ủng hộ và luận cứ phản biện
+Với mỗi luận điểm đưa ra nhiều luận cứ khác nhau
+Nhìn sự việc, vấn đề dưới nhiều góc cạnh khác nhau, tìm ưu điểm và khuyết điểm
+Những ý kiến giống như những nhận định, xuất phát từ những tiên đề (tiên đề A → lập luận B → lập luận C → nhận định D). Việc phân tích là việc bắt nguồn từ D để đi tìm A, B và C.
+
+Đánh giá:
+Khảo sát mâu thuẫn giữa những ý kiến
+Đong sức nặng (sức thuyết phục) của những ý kiến
+Đưa ra quan điểm của bản thân (ý kiến nào là đúng)
+Trình bày kết quả của quá trình tư duy lô gíc
+Phát triển sức nặng của ý kiến (chỉ ra những đặc điểm nổi trội của ý kiến đó và tìm những dẫn chứng thực tế giúp củng cố ý kiến đó)
+Nêu ra các điểm không chuẩn xác trong lập luận của người/nhóm người mang ý kiến đối lập
+
+
+== Các phương thức hỗ trợ ==
+
+
+=== Tự thân phản biện ===
+
+
+==== Kĩ năng sơ đồ hoá ý kiến ====
+Sơ đồ tư duy (mind-map) là một dụng cụ hữu hiệu trong việc tổ chức và đánh giá thông tin bởi nó giúp định vị luận điểm/luận cứ một cách rõ ràng.
+Khi thu nhận được một thông tin, điều cần trước tiên là hiểu rõ nội dung thông tin đó, về ai, về điều gì, liên quan đến những vấn đề gì, lĩnh vực nào. Tiếp theo, dựa trên những cơ sở khoa học và lôgic, đặt ra các câu hỏi như: tại sao lại khẳng định là A mà không phải là B, trong khi B cũng có các khả năng như A. Nếu là B thì khi đó sẽ có kết quả là B1, kết quả này có giống kết quả A1 của khả năng A không. Nếu có giống thì sẽ rút ra kết luận như thế nào, và nếu không giống thì lý do là ở đâu...
+
+
+==== Kĩ năng tránh tính thiên vị ====
+Tính thiên vị là một đặc tính có trong tiềm thức của con người mà không phải ai cũng dễ dàng nhận ra.
+
+Thay vì hỏi: "Điều này mâu thuẫn với điều mà tôi tin tưởng như thế nào?" hãy hỏi rằng: "Điều này có nghĩa là gì?"
+Trong những bước đầu tiên của việc thu thập và đánh giá thông tin, đừng đưa ngay ra một kết luận (đặc biệt khi đang đọc tiểu thuyết hoặc xem phim) bởi việc làm này sẽ đưa ra định hướng mang tính cảm nhận (perceptive orientation) thay vì định hướng mang tính phán xét (judgmental orientation), ngăn chặn việc phát triển cảm nhận thành sự phán xét.
+Ai cũng nên nhận thức rõ về khả năng mắc phải sai lầm của bản thân bằng cách
+Chấp nhận rằng tất cả mọi người đều có thành kiến nằm trong tiềm thức, và vì thế rất dễ tấn công những phán xét chống lại mình.
+Từ tốn lắng nghe ý kiến của người khác trước khi đưa ra quan điểm của mình. Nói cách khác là làm đúng quy trình tư duy phản biện
+Nhận thức rằng trong lập luận của mình chắc chắn có sơ hở và sai lầm
+Cuối cùng, sử dụng những câu hỏi sau có thể giúp tăng thời gian trao đổi thông tin và lượng thông tin
+Khi dùng từ _____, ý bạn là_____?
+Tại sao bạn lại đưa ra được kết luận đó?
+Tại sao bạn cho rằng mình đúng?
+Bạn lấy thông tin này ở đâu?
+Giả định gì khiến bạn đưa ra kết luận đó?
+Điều gì sẽ xảy ra nếu bạn sai?
+Tại sao điều này lại quan trọng thế?
+Điều gì nữa có thể giải thích cho hiện tượng này?
+Phân tích của bạn có bị ảnh hưởng bởi dư luận, quy trình giáo dục, môi trường sống, cảm tính, định kiến xã hội, tuyên truyền, thành kiến, tính địa phương,... ?
+
+
+==== Những điều đáng chú ý ====
+Có một số những phát biểu được cấu hình dưới dạng một tiên đề nhưng thực ra lại là một nhận định cá nhân sai lầm (ngụy biện).
+Tư duy phản biện không chắc đã dẫn đến một kết luận chính xác. Thứ nhất là vì không ai có thể có toàn bộ thông tin chính xác. Thật vậy, những tin tức quan trọng thường được bảo mật rất cẩn thận và có rất nhiều thông tin còn chưa được khám phá hết. Bên cạnh đó, thành kiến có thể ngăn chặn sự thành công của việc tập trung, phân tích, đánh giá và truyền đạt thông tin. Tư duy phản biện có thể phân biệt, nhưng không thể tách rời khỏi cảm quan. Kết luận đưa ra phải đơn giản và ngắn gọn.
+
+
+=== Ngoại thân phản biện ===
+Những cuộc thảo luận dựa trên một đề tài đưa ra sẵn có tác động mạnh tới kĩ năng phản biện.
+
+
+== Những điều dễ nhầm lẫn ==
+Tư duy phản biện là lập luận trên một nhận định là kết quả của tư duy lôgíc, không phải một phát biểu sai tiên đề.
+Ví dụ: A: "1+1 = 3",  B: "Không, 1+1 = 2 chứ."
+→ Câu nói của B không mang tính phản biện
+
+Tư duy phản biện không phải là việc đưa ra một nhận định cảm quan mà là việc đưa ra một nhận định kèm theo lý lẽ và dẫn chứng.
+Ví dụ: A: "C là một học sinh dốt", B: "Không, C là một học sinh giỏi"
+→ Câu nói của B không mang tính phản biện
+
+
+== Tư duy phản biện trong lớp học ==
+Hệ thống giáo dục Anh coi tư duy phản biện như một môn học chính quy. Trình độ A dành cho học viên 16-18 tuổi. Họ phải làm 2 bài kiểm tra chính: "Sự đáng tin của dẫn chứng" (Credibility of Evidence) và "Phát triển tranh luận" (Assessing/Developing Argument). Đối với học sinh dưới 16-18 tuổi, tư duy phản biện được đưa xen kẽ vào trong bài giảng của giáo viên.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+Le Cornu, Alison. (2009), “Meaning, Internalization and Externalization: Towards a fuller understanding of the process of reflection and its role in the construction of the self”, Adult Education Quarterly, 59 (4): 279–297
+
+
+== Nghiên cứu thêm ==
+Cederblom, J & Paulsen, D.W. (2006) Critical Reasoning: Understanding and criticizing arguments and theories, 6th edn. (Belmont, CA, ThomsonWadsworth).
+Damer, T. Edward. (2005) Attacking Faulty Reasoning, 6th Edition, Wadsworth. ISBN 0-534-60516-8
+Dauer, Francis Watanabe. Critical Thinking: An Introduction to Reasoning, 1989, ISBN 978-0-19-504884-1
+Facione, P. 2007. Critical Thinking: What It Is and Why It Counts – 2007 Update Lưu trữ 2007-12-15 tại Wayback Machine
+Hamby, B.W. (2007) The Philosophy of Anything: Critical Thinking in Context. Kendall Hunt Publishing Company, Dubuque Iowa. ISBN 978-0-7575-4724-9
+Fisher, Alec and Scriven, Michael. (1997) Critical Thinking: Its Definition and Assessment, Center for Research in Critical Thinking (UK) / Edgepress (US). ISBN 0-9531796-0-5
+Vincent F. Hendricks. (2005) Thought 2 Talk: A Crash Course in Reflection and Expression, New York: Automatic Press / VIP. ISBN 87-991013-7-8
+Moore, Brooke Noel and Parker, Richard. (2012) Critical Thinking. 10th ed. Published by McGraw-Hill. ISBN 0-07-803828-6.
+Mulnix, J. W. (2010). Thinking critically about critical thinking. Educational Philosophy and Theory. doi: 10.1111/j.1469-5812.2010.00673.x.
+Paul, Richard. (1995) Critical Thinking: How to Prepare Students for a Rapidly Changing World. 4th ed. Foundation for Critical Thinking. ISBN 0-944583-09-1.
+Paul, Richard and Elder, Linda. (2006) Critical Thinking Tools for Taking Charge of Your Learning and Your Life, New Jersey: Prentice Hall Publishing. ISBN 0-13-114962-8.
+Paul, Richard; Elder, Linda. (2002) Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life. Published by Financial Times Prentice Hall. ISBN 0-13-064760-8.
+Twardy, Dr. Charles R. (2003) Argument Maps Improve Critical Thinking. Teaching Philosophy 27:ngày 2 tháng 6 năm 2004.
+van den Brink-Budgen, R (2010) 'Critical Thinking for Students', How To Books. ISBN 978-1-84528-386-5
+Whyte, J. (2003) Bad Thoughts – A Guide to Clear Thinking, Corvo. ISBN 0-9543255-3-2.
+Theodore Schick & Lewis Vaughn "How to Think About Weird Things: Critical Thinking for a New Age" (2010)  ISBN 0-7674-2048-9
+Pavlidis, Periklis. (2010) Critical Thinking as Dialectics: a Hegelian-Marxist Approach. Journal for Critical Education Policy Studies.Vol.8(2)
+ hồng lành

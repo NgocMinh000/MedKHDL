@@ -1,0 +1,63 @@
+Nhận dạng vịt (tiếng Anh: duck test), hoặc phép thử vịt hay kiểm thử vịt là một hình thức suy luận tố hồi (abductive reasoning). Có lối diễn đạt thông dụng là: 
+Nếu nó trông như vịt, bơi như vịt, và quạc như vịt, thì chắc nó là vịt.
+
+Phép thử này ngụ ý rằng ta có thể nhận dạng một 'chủ thể chưa ai biết' bằng cách quan sát đặc điểm thói quen của chủ thể đó. Việc này đôi khi được dùng để phản bác những lập luận lấp liếm kiểu như 'một thứ không trông như vẻ ngoài'.
+
+
+== Lịch sử ==
+Nhà thơ Indiana – James Whitcomb Riley (1849–1916) – có lẽ đã đặt ra cụm từ đấy khi ông viết: 
+
+Khi tôi thấy một con chim mà bước đi như vịt, rồi bơi như vịt rồi quạc như vịt, thì tôi gọi con chim đó là vịt.
+
+Một biến thể phổ biến của diễn đạt trong cụm từ này có lẽ bắt nguồn từ mãi sau này với Emil Mazey – thư ký-thủ quỹ của Nghiệp đoàn Công nhân Ô-tô Mỹ – tại một cuộc họp lao động vào năm 1946 cáo buộc một người vì là người cộng sản: 
+
+Tôi không chứng minh được cậu là Người cộng sản. Nhưng khi tôi thấy một con chim mà quạc như vịt, bước đi như vịt, có lông vũ với chân có màng rồi kết giao với bọn vịt—thì tôi dứt khoát sẽ cho rằng nó là vịt luôn.
+
+Thuật ngữ này sau đó đã trở nên phổ biến tại Hoa Kỳ kể từ khi ông Richard Cickyham Patterson Jr. (đại sứ Hoa Kỳ tại Guatemala vào năm 1950 trong thời Chiến tranh Lạnh) sử dụng cụm từ này để cáo buộc chính phủ Jacobo Arbenz Guzmán của Guatemala là Cộng sản. Patterson giải thích việc suy luận của mình như sau: 
+
+Giả sử anh thấy một con chim bước đi lòng vòng trong sân nông trại. Con chim đấy không có nhãn đề là 'vịt'. Nhưng con chim đấy dứt khoát trông giống như vịt. Hơn nữa nó còn đi xuống ao và anh nhận ra rằng nó bơi như vịt. Rồi nó há mỏ ra rồi quạc như vịt. Chà, đến lúc này thì anh hẳn đã dứt khoát đi đến kết luận rằng con chim đấy là vịt bất kể nó có mang nhãn hay không rồi.
+
+Về sau này cũng có chuyện của Hồng y Richard Cushing đề cập về phép thử này, ông này đã sử dụng cụm từ đấy vào năm 1964 để chỉ đến Fidel Castro.
+Douglas Adams đã giễu nhại phép thử này trong cuốn sách Dirk Gently's Holistic Detective Agency của ông: 
+
+Nếu nó trông như vịt, và quạc như vịt, thì chúng ta ít nhất phải cân nhắc cái khả năng là chúng ta đang có một con chim nước be bé của họ nhà vìn vịt trong bàn tay mình cái đã.
+
+Monty Python cũng có tham chiếu đến phép thử này trong cảnh Witch Logic trong bộ phim Monty Python và cái Chén Thánh năm 1975 của họ (thoại của Sir Bedevere có màu xanh lam, thoại của Arthur có màu đỏ, còn lại là thoại của những người nông dân): 
+
+Các ngươi làm gì với bọn phù thủy? Đốt chúng! Và ngoài phù thủy ra các ngươi đốt cái gì? Gỗ! Thế, tại sao đốt phù thủy thì cháy? Tại người chúng làm bằng gỗ? Vậy làm sao biết được liệu người mụ ta có làm bằng gỗ hay không? Cứ xây cầu bằng mụ ta là biết! À, nhưng xây cầu bằng đá cũng được kia mà? Ồ phải ha. Gỗ có chìm xuống nước không? Không, nó nổi! Nó nổi! Ném mụ ta xuống ao đi! Cái gì cũng nổi trên nước? Bánh mì! Táo! Cục đá rất nhỏ? Rượu táo! Nước..nước xốt! Trái đào! Bùn! Nhà thờ? Nhà thờ! Chì, chì. Một con vịt! Chính xác. Vậy, về logic mà nói... Nếu mụ ta nặng ngang một con vịt, thì người mụ làm bằng gỗ... và cho nên... mụ là phù thủy!
+Có một ứng dụng của kiểm thử vịt tại Hoa Kỳ là vụ phủ nhận tình trạng "phi lợi nhuận" được miễn thuế của Blue Shield of California:Trong một 'đòn giáng đáng sửng sốt' lên một trong những nhà bảo hiểm y tế lớn nhất California, chính quyền đã hủy bỏ tình trạng được miễn thuế của Blue Shield of California, ép buộc công ty đấy phải đóng hàng chục triệu đô-la số thuế từ trước đổ lại, và liên tục kêu gọi họ hãy trả lại hàng triệu đô-la cho các khách hàng. Hành động đấy của cục thuế 'là một sự đáp trả lại những gì mà Blue Shield đã và đang làm, hoặc chưa làm', theo lời của Anthony Wright, giám đốc của Health Access California (một nhóm xướng đạo người tiêu dùng). 'Và nếu nó trông như vịt rồi nói chuyện như vịt, thì nên đánh thuế nó như vịt.'
+
+Nguyên tắc Hoán chỗ Liskov trong khoa học máy tính đôi khi được diễn đạt làm một 'phản ví dụ' cho phép kiểm thử vịt:
+
+Nếu nó trông như vịt và quạc như vịt nhưng nó lại cần pin, hẳn là bạn đang có nhầm cái trừu tượng rồi.
+
+Bộ trưởng Bộ Ngoại giao Nga Serge Lavrov đã sử dụng một phiên bản Phép thử Vịt vào năm 2015 để đáp trả các luận điệu rằng các cuộc không kích của Nga ở Syria không nhắm vào các nhóm khủng bố (chủ yếu là ISIS), mà là nhắm vào các nhóm được phương Tây chống đỡ (như Quân đội Syria Tự do). Khi được yêu cầu làm rõ định nghĩa của ông về 'nhóm khủng bố', thì ông trả lời: 
+
+Nếu nó trông như khủng bố, nếu nó hành động như khủng bố, nếu nó bước đi như khủng bố, nếu nó đánh lộn như khủng bố, thì nó là khủng bố chứ gì?
+
+Giáo sư Vladimir Vapnik – người tiên phong, đồng phát minh ra Máy Vectơ Hỗ trợ (SVM), và cũng là người đóng góp chính cho lý thuyết học máy và nhiều ý tưởng nền móng trong 'việc học thống kê' – sử dụng phép kiểm thử vịt làm một cách để tóm tắt tầm quan trọng của các vị từ đơn giản để phân loại sự vật. Trong suốt cuộc thảo luận đấy, ông hay sử dụng phép thử đấy để minh họa rằng định dạng súc tích của bài kiểm tra vịt là một dạng thông minh mà máy móc không có khả năng sản xuất được.
+
+
+== Kiểm thử voi ==
+
+Tương tự, thuật ngữ "elephant test" (phép kiểm voi) chỉ đến những tình huống trong đó một ý tưởng hoặc sự vật "mang tính khó mô tả, nhưng một khi thấy nó rồi thì dễ nhận thức ra ngay".
+Thuật ngữ đấy thường được sử dụng trong tố tụng pháp lý khi có một vấn đề gây nên nhiều lối diễn giải khả dĩ, chẳng hạn trong vụ tố tụng Cadogan Estates Ltd kiện Morris, khi Thẩm phán Stuart-Smith đề cập đến "phép thử voi nổi danh đấy. Mô tả thì khó, nhưng một khi thấy nó là biết ngay", và trong vụ Ivey kiện Genting Casinos, khi Lord Hughes (lúc thảo luận tính bất trung thực) nêu ý kiến "sự nhận thức khi bắt gặp thì khiến nó bộc lộ đặc điểm hơn là bằng định nghĩa nhiều, giống như con voi đấy vậy". Bác bỏ một phần vụ R kiện Ghosh.
+Một chú ngữ tương tự (tuy được dùng làm quy tắc loại trừ) đã được viện dẫn bằng ý kiến đồng tình của Thẩm phán Potter Stewart trong vụ Jacobellis kiện Ohio – 378 U.S. 184 (1964), tố tụng dâm ô. Ông phát biểu rằng Hiến pháp bảo hộ tất cả những điều dâm ô chỉ trừ "Khiêu dâm hardcore". Stewart nêu ý kiến: "Hôm nay tôi sẽ không ráng định nghĩa các loại văn hóa phẩm mà tôi hiểu là bị cái mô tả ngắn ngủn đấy bao quát đâu; và nếu tôi có cố làm vậy cho tỏ thì có lẽ cũng chẳng bao giờ được. Nhưng khi tôi thấy nó thì tôi biết ngay, và cái phim dính dáng trong vụ này thì không phải như thế."
+
+
+== Xem thêm ==
+Suy luận quy nạp
+Dao cạo triết học – Nguyên tắc hoặc luật chung để người ta có thể loại trừ những giải thích bất khả dĩ về một hiện tượng nào đó.
+
+
+== Tham khảo ==
+
+
+=== Ghi chú ===
+
+
+=== Trích dẫn ===
+
+
+=== Đọc thêm ===
+Christy, Howard Chandler; Ethel Franklin Betts (1982), The complete works of James Whitcomb Riley

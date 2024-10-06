@@ -1,0 +1,21 @@
+Tế bào thần kinh đệm hình sao (Tiếng Anh: Astrocyte - Astro từ tiếng Hy Lạp astron = sao và cyte từ Tiếng Hy Lạp "kytos" = khoang nhưng cũng có nghĩa là tế bào) là các tế bào thần kinh đệm có hình sao đặc thù ở trong não và tủy sống. Tỷ lệ của tế bào thần kinh đệm hình sao trong não bộ vẫn chưa được xác định rõ ràng. Tùy thuộc vào phương pháp đếm được sử dụng, các nghiên cứu đã chỉ ra rằng tỷ lệ tế bào thần kinh đệm hình sao biến đổi tùy khu vực và nằm trong khoảng từ 20% đến 40% tổng tất cả tế bào thần kinh đệm. Chúng thực hiện nhiều chức năng, bao gồm việc hỗ trợ sinh hóa tế bào nội mô mà hình thành nên hàng rào máu não, cung cấp dưỡng chất cho mô thần kinh, duy trì cân bằng ion ngoại bào, và đóng một vai trò trong quá trình sửa chữa và lên sẹo sau khi não và tủy sống gặp chấn thương.
+Các nghiên cứu kể từ giữa thập niên 1990 đã chỉ ra rằng tế bào thần kinh đệm hình sao sinh ra các sóng Ca2+ liên bào qua một khoảng cách dài nhằm đáp lại kích thích, và, tương tự như nơron, giải phóng ra các chất dẫn truyền mà việc giải phóng này phụ thuộc vào Ca2+. Các dữ liệu đã gợi ra rằng tế bào thần kinh đệm hình sao cũng gửi tín hiệu tới nơron thông qua việc giải phóng glutamate mà việc giải phóng này phụ thuộc vào Ca2+. Những phát hiện như vậy đã biến tế bào thần kinh đệm trở thành một lĩnh vực nghiên cứu quan trọng trong ngành khoa học thần kinh.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+White, F.A.; Jung, H. & Miller, R.J. (2007). “Chemokines and the pathophysiology of neuropathic pain”. Proceedings of the National Academy of Sciences of the United States of America. 104 (51): 20151–20158. Bibcode:2007PNAS..10420151W. doi:10.1073/pnas.0709250104. PMC 2154400. PMID 18083844.
+Milligan, E.D. & Watson, L.R. (2009). “Pathological and protective roles of glia in chronic pain”. Neuron-Glia Interactions. 10 (1): 23–36. doi:10.1038/nrn2533. PMC 2752436. PMID 19096368.
+Watkins, L.R.; Milligan, E.D. & Maier, S.F. (2001). “Glial activation: a driving force for pathological pain”. Trends Neurosci. 24 (8): 450–455. doi:10.1016/S0166-2236(00)01854-3. PMID 11476884.
+Freeman, M. R. (2010). “Specification and Morphogenesis of Astrocytes”. Science. 330 (6005): 774–8. Bibcode:2010Sci...330..774F. doi:10.1126/science.1190928. PMC 5201129. PMID 21051628.
+Verkhratsky, A.; Butt, A.M. (2013). “Numbers: how many glial cells are in the brain?”. Glial Physiology and Pathophysiology. John Wiley and Sons. tr. 93–96. ISBN 978-0-470-97853-5.
+
+
+== Liên kết ngoài ==
+Cell Centered Database – Astrocyte
+UIUC Histology SubjectBộ môn Mô học trường UIUC 57
+"Astrocytes" Lưu trữ 2012-11-21 tại Wayback Machine at Society for Neuroscience
+The Department of Neuroscience at Wikiversity
+NIF Search – Astrocyte via the Neuroscience Information Framework

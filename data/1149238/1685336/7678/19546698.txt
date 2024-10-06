@@ -1,0 +1,33 @@
+GitMind là một trình tạo bản đồ tư duy trực tuyến miễn phí. Phần mềm này có thể được sử dụng không chỉ để tạo bản đồ tư duy mà còn trong động não nhóm, tư duy sáng tạo, lập kế hoạch sự kiện, ghi chú, học tập hợp tác và hơn thế nữa. Tất cả có thể được thực hiện với một bản đồ.
+Nó dựa trên web, có nghĩa là nó có thể di động trên nhiều nền tảng, bao gồm Microsoft Windows, Linux, macOS, cũng như iOS và Android. Nó cung cấp bản đồ cân bằng, biểu đồ nhật ký, biểu đồ cây, biểu đồ tổ chức và biểu đồ xương cá cho các tùy chọn bố trí. Nó có thể xuất bản đồ tư duy sang các định dạng PNG, JPG, PDF, TXT và SVG.
+
+
+== Chức năng ==
+Các chức năng chính của GitMind:
+
+Mẫu đa dạng
+Nhiều phong cách thiết kế
+Gấp cành
+Các phím tắt
+Tạo phác thảo
+Chia sẻ bằng liên kết
+Lưu trữ đám mây an toàn
+Mời cộng tác viên bằng liên kết và email
+Chèn biểu tượng, hình ảnh, siêu liên kết và nhận xét
+Xuất bản đồ tư duy sang các định dạng PNG, JPG, PDF, TXT và SVG.
+Tùy chỉnh phông chữ, màu sắc, hình dạng và đường kẻ
+Truy xuất phiên bản lịch sử
+
+
+== Xem thêm ==
+Bản đồ tư duy
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang điện tử chính thức
+"Top 6 công cụ vẽ sơ đồ tư duy mindmap cho laptop, điện thoại tốt nhất", Điện máy XANH, 2020
+Rahul Saigal, "The 6 Best Free Mind Map Tools (And How to Best Use Them)", Makeuseof, 2019
+"他の人との共同編集も可能な Web ベースのオンラインのマインドマップソフト", freesoft-100, 2019

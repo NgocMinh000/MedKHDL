@@ -1,0 +1,134 @@
+Triết học khoa học là một nhánh của triết học quan tâm đến nền tảng, phương pháp và các hậu quả của khoa học. Các câu hỏi trung tâm của môn học này bao gồm cái gì được xem như khoa học, tính đáng tin cậy của các lý thuyết khoa học, và mục đích tối hậu của khoa học. Môn học này chồng lấn với siêu hình học, bản thể học và nhận thức luận, lấy ví dụ, khi chúng ta khảo sát mối quan hệ giữa khoa học và chân lý.
+Không có sự đồng thuận giữa các nhà triết học về nhiều vấn đề trung tâm trong triết học về khoa học, bao gồm việc liệu khoa học có thể khám phá chân lý về những thứ không quan sát được (xem Chủ nghĩa hiện thực khoa học) liệu lý tính khoa học có thể được biện minh hay không (xem vấn đề quy nạp). Bên cạnh những câu hỏi tổng quát về khoa học như một toàn thể này, các nhà triết học khoa học cũng xem xét các vấn đề được áp dụng vào các khoa học cụ thể (chẳng hạn vật lý và sinh học.) Một số nhà triết học khoa học cũng sử dụng các kết quả đương đại của khoa học nhằm đưa ra kết luận về chính triết học.
+Trong khi các tư tưởng triết học về khoa học có thể truy về tận thời Aristotle, triết học khoa học nổi lên như là một môn độc lập chỉ từ giữa thế kỷ 20 theo gót của phong trào thực chứng logic, phong trào này có mục đích hình thành các tiêu chuẩn nhằm đảm bảo sự có ý nghĩa của tất cả các lời phát biểu triết học và đánh giá chúng một cách khách quan. Năm 1962, Thomas Kuhn cho ra đời một quyển sách bước ngoặt mang tên Cấu trúc của các cuộc Cách mạng Khoa học, thách thức quan điểm về tiến bộ khoa học như là một quá trình tích lũy ổn định của tri thức dựa trên một phương pháp cố định của việc quan sát có hệ thống mà thay vào đó, quyển sách lập luận, rằng bất kỳ sự phát triển nào là có liên quan tới một "hệ hình", một tập hợp các câu hỏi, khái niệm và thực hành mà định nghĩa một bộ môn khoa học trong một thời kỳ lịch sử nhất định.
+Hệ quả là, một cách tiếp cận theo chủ nghĩa nhất quán tới khoa học, mà theo đó một lý thuyết được chấp nhận nếu những quan sát nó đưa ra có ý nghĩa như là một phần của toàn thể mạch lạc, trở thành phổ biến bởi W. V. Quine và những người khác. Một số nhà tư tưởng như Stephen Jey Gould tìm kiếm nền của khoa học trong các giả định tiên đề, như là tính đồng nhất của tự nhiên.Đặc biệt, một số ít các nhà triết học như Paul Feyerabend (1924–1994) lập luận rằng không có gì như là "phương pháp khoa học", và do vậy tất cả các cách tiếp cận tới khoa học đều nên được chấp nhận, bao gồm cả những giải thích hoàn toàn siêu nhiên. Một hướng tư duy khác về khoa học bao gồm việc tìm hiểu làm thế nào mà kiến thức được tạo ra từ giác độ xã hội, tiêu biểu là David Bloor và Barry Barnes. Cuối cùng, một truyền thống triết học đại lục tiếp cận tới khoa học theo quan niệm về một sự phân tích cặn kẽ kinh nghiệm con người.
+Triết học về các khoa học cụ thể trải dài từ những câu hỏi về bản chất của thời gian được sinh ra từ thuyết tương đối rộng của Einstein, đến các hàm ý của kinh tế học hay chính sách công. Một chủ đề trung tâm là liệu một môn khoa học có thể bị quy giản về một môn khác hay không. Chẳng hạn, liệu hóa học có thể bị quy giản về vật lý, hay liệu xã hội học có thể bị quy giản về tâm lý học cá nhân? Những câu hỏi chung về triết học khoa học cũng được sinh ra với đặc trưng lớn hơn trong những khoa học cụ thể. Chẳng hạn, tính đúng đắn của lập luận khoa học được tìm thấy trong nhiều lớp vỏ khác nhau của nền tảng thống kê học. Câu hỏi về những gì được xem như là hay không phải là khoa học nổi lên như là một vấn đề sinh tử trong triết học về y học. Thêm nữa, các nhà triết học về sinh học, tâm lý học và các khoa học xã hội cũng tìm hiểu liệu các nghiên cứu khoa học về bản chất con người có thể đạt được tính khách quan hay bị định hình một cách không tránh khỏi bởi các giá trị và quan hệ xã hội.
+
+
+== Giới thiệu tổng quan ==
+
+
+=== Định nghĩa khoa học ===
+Việc phân biệt giữa khoa học và phi khoa học liên quan tới vấn đề ranh giới. Ví dụ, có nên coi phân tâm học như một khoa học? Và còn các môn như khoa học tạo hóa, giả thuyết đa vũ trụ lạm phát hay kinh tế học vĩ mô? Karl Popper gọi đây là câu hỏi trung tâm trong triết học về khoa học. Tuy nhiên, không có một giải pháp thống nhất nào được đồng thuận bởi các nhà triết học, một số nhà triết học cho rằng vấn đề này không thể giải quyết được hoặc là không thú vị. Martin Garner ủng hộ việc sử dụng tiêu chuẩn Potter Stewart ("Tôi biết nó khi tôi thấy nó") để nhận biết giả khoa học.
+Những nỗ lực ban đầu của các nhà thực chứng logic đặt nền tảng của khoa học trong sự quan sát trong khi coi những gì không quan sát được là phi khoa học và do đó vô nghĩa. Popper lập luận rằng đặc tính trung tâm của khoa học là tính có thể sai. Theo đó, một tuyên bố mang tính khoa học đích thực đều phải có khả năng bị chứng minh là sai, ít nhất là trên nguyên tắc.
+Một lĩnh vực nghiên cứu hay tư tưởng mà giả mạo như khoa học nhằm cố gắng để đạt được tính chính đáng nó không có thì có thể được xem là ngụy khoa học, khoa học bên lề hay khoa học rác. Nhà vật lý học Richard Feyman đặt ra thuật ngữ "khoa học giáo phái - hàng hóa" cho trường hợp mà nhà nghiên cứu tin rằng họ đang làm khoa học bởi hoạt động của họ có vẻ ngoài giống khoa học nhưng thực sự thiếu "một kiểu trung thực hoàn toàn" để cho phép đánh giá chặt chẽ chính xác các kết quả của họ.
+
+
+=== Giải thích khoa học ===
+Một câu hỏi liên quan mật thiết là việc đánh giá thế nào là một giải thích tốt về mặt khoa học. Nhằm nhiệm vụ cung cấp các dự đoán về các sự kiện tương lai, xã hội thường dùng các lý thuyết khoa học để cung cấp lời giải thích cho những sự kiện thường xảy ra hoặc đã xảy ra. Các nhà triết học cũng khảo sát tiêu chuẩn mà với nó, một lý thuyết khoa học có thể được coi là đã giải thích thành công một hiện tượng, cũng như việc làm rõ ý nghĩa khi nói rằng một lý thuyết khoa học có "năng lực giải thích".
+
+
+=== Biện minh cho khoa học ===
+Mặc dù thường xuyên được dùng, nó là không rõ ràng việc làm thế nào chúng ta có thể đưa ra sự hợp lý của một mệnh đề tổng quát từ một số riêng lẻ các trường hợp hay là việc suy ra chân lý của một lý thuyết từ một chuỗi các thử nghiệm thành công. Lấy ví dụ, một con gà quan sát rằng mỗi sáng người nông dân đến và đưa cho nó thức ăn, trong 100 ngày liên tục. Con gà có thể sử dụng lập luận quy nạp để suy ra rằng người nông dân sẽ đem thức ăn tới mọi buổi sáng. Tuy nhiên, một buổi sáng, người nông dân đến và giết con gà. Làm thế nào mà tư duy khoa học lại đáng tin cậy hơn tư duy của một con gà?
+Một cách tiếp cận khả dĩ là thừa nhận rằng quy nạp không thể đạt tới sự chắc chắn, nhưng việc quan sát càng nhiều các trường hợp của một mệnh đề tổng quát ít nhất sẽ khiến nó đáng tin hơn. Cho nên con gà đã đúng khi kết luận từ tất cả các buổi sáng đó rằng rất có thể người nông dân sẽ đến với thức ăn lần nữa vào sáng mai, ngay cả khi điều đó là không chắc chắn. Tuy nhiên, vẫn còn câu hỏi khó về việc đâu là xác suất chính xác mà tại đó bằng chứng đưa ra biện minh được cho một mệnh đề tổng quát. Một cách thoát khỏi những khó khăn này là tuyên bố rằng mọi niềm tin về các lý thuyết khoa học là chủ quan, mang tính cá nhân và tư duy, và sửa đổi tư duy chỉ thuần túy là việc bằng chứng đã thay đổi niềm tin chủ quan của một người theo thời gian.
+Một số lập luận cho rằng những gì các nhà khoa học làm hoàn toàn không phải là tư duy quy nạp nhưng là tư duy hồi quy (abductive reasoning - tư duy "thám tử"), hay là suy luận tới lời giải thích tốt nhất. Theo cách này, khoa học không phải là việc khái quát hóa các trường hợp riêng biệt nhưng là việc giả thiết hóa các giải thích cho những gì được quan sát. Không phải luôn luôn rõ ràng về việc thế nào là "lời giải thích tốt nhất." Lưỡi dao Ockham, đưa ra tiêu chuẩn về sự đơn giản để lựa chọn những giải thích, đóng một vai trò quan trọng trong vài phiên bản của cách tiếp cận này.
+
+
+=== Quan sát không thể tách rời khỏi lý thuyết ===
+
+
+=== Mục đích của khoa học ===
+
+
+=== Các giá trị và khoa học ===
+
+
+== Lịch sử ==
+
+
+=== Thời cận đại ===
+
+
+=== Thời hiện đại ===
+
+
+=== Chủ nghĩa thực chứng logic ===
+
+
+=== Thomas Kuhn ===
+
+
+== Những hướng tiếp cận hiện nay ==
+
+
+=== Các giả định tiên đề ===
+
+
+=== Thuyết nhất quán ===
+
+
+== Những chủ đề khác ==
+
+
+=== Chủ nghĩa rút gọn ===
+
+
+=== Trách nhiệm xã hội ===
+
+
+== Triết học về một số ngành khoa học cụ thể ==
+
+
+=== Triết học về thống kê ===
+Vấn đề quy nạp được thảo luận trên đây được coi như là một hình thức khác trong cuộc tranh luận về các cơ sở của môn thống kê. Các chủ đề có liên quan trong triết học về thống kê bao gồm sự diễn giải tính xác suất, sự khác biệt giữa tương quan (correlation) và nhân quả (causation)
+
+
+=== Triết học về toán học ===
+Triết học về toán học quan tâm tới nền tảng triết học và các ngụ ý hàm ẩn của toán học. Các câu hỏi trung tâm là liệu các con số, hình hình học và các thực thể toán học khác có tồn tại độc lập với tâm trí con người hay không; bản chất của các mệnh đề toán học là gì? Liệu việc hỏi "1+1=2 hay không?" có khác biệt về căn bản với việc hỏi một quả bóng "có phải màu đỏ không"? Liệu đại số được sáng tạo ra hay phát hiện ra? Một câu hỏi có liên quan là liệu việc học toán có đòi hỏi kinh nghiệm không hay chỉ thuần lý? Chứng minh một mệnh đề toán học có nghĩa là gì và làm thế nào một người biết được một chứng minh toán học là đúng? Các nhà triết học về toán học cũng muốn làm rõ mối quan hệ giữa logic và toán học, những năng lực con người như trực giác, và thế giới vật chất.
+
+
+=== Triết học về vật lý ===
+Triết học về vật lý là môn nghiên cứu về những câu hỏi mang tính triết học và căn bản của vật lý học hiện đại, nghiên cứu về vật chất, năng lượng và cách chúng tương tác. Những câu hỏi chính bao gồm bản chất của không gian và thời gian, các nguyên tử (nguyên tử hiểu theo nghĩa triết học) và thuyết nguyên tử triết học. Nó cũng bao gồm cả việc dự đoán vũ trụ học, việc diễn giải cơ học lượng tử, nền tảng của cơ học thống kê, tính nhân quả, thuyết tất định và bản chất của các định luật vật lý. Một cách kinh điển, nhiều câu hỏi này đã được nghiên cứu như là một phần của siêu hình học (lấy ví dụ, tính nhân quả, thuyết tất định, không gian và thời gian).
+
+
+=== Triết học về hóa học ===
+Triết học về hóa học là nghiên cứu triết học về phương pháp luận và các nội dung của khoa hóa học. Nó được thực hiện bởi các nhà triết học, hóa học và các đội hóa học - triết học liên ngành. Nó bao gồm nghiên cứu chung về các vấn đề của triết học khoa học được ứng dụng tới hóa học, chẳng hạn, liệu tất cả các hiện tượng hóa học có thể được giải thích bằng cơ học lượng tử hay là chúng không thể quy giản về vật lý học? Một ví dụ khác, các nhà hóa học đã thảo luận khía cạnh triết học của việc làm thế nào mà các lý thuyết được khẳng định như là các cơ chế phản ứng. Việc xác định cơ chế phản ứng hóa học là khó khăn bởi chúng không thể quan sát được trực tiếp. Các nhà hóa học có thể sử dụng một số các đo lường gián tiếp như là bằng chứng để đưa ra các cơ chế nhất định, nhưng chúng thường là không chắc chắn bởi vì có nhiều cơ chế khả dĩ khác chưa được thử nghiệm hay thậm chí, chưa được nghĩ đến. Các nhà triết học cũng tìm cách làm rõ ý nghĩa của các khái niệm hóa học mà không đề cập tới một thực thể vật chất nào, như là các liên kết hóa học.
+
+
+=== Triết học về sinh học ===
+Triết học về sinh học quan tâm tới các vấn đề đạo đức, siêu hình học và nhận thức luận trong các khoa sinh học và y sinh.
+Mặc dù các nhà triết học về khoa học nói riêng và các nhà triết học nói chung từ lâu đã quan tâm tới sinh học (ví dụ Aristotle, Descartes, Leibniz và cả Kant), triết học về sinh học chỉ nổi lên như một lĩnh vực độc lập của triết học vào thập niên 60 và 70 thế kỷ trước.
+Các nhà triết học về khoa học bắt đầu chú ý hơn đến sự phát triển của sinh học, kể từ khi thuyết tiến hóa hiện đại tổng hợp ra đời vào những thập niên 30, 40 khám phá ra cấu trúc của DNA vào năm 1953 cho đến những tiến bộ gần đây về kỹ thuật di truyền.
+Một trong các ý tưởng trung tâm khác là sự quy giảm mọi quá trình của sự sống về các phản ứng hóa - sinh, cũng như đề xuất sáp nhận tâm lý học vào lĩnh vực rộng hơn của khoa học thần kinh.
+Các nghiên cứu triết học gần đây về sinh học bao gồm nền tảng của lý thuyết tiến hóa, vai trò của vi rút như là vật cộng sinh trong bộ gen vật chủ. Hệ quả là các tiến hóa về trật tự nội dung của gen được xem như là kết quả của những kiểu gen cạnh tranh nhau hơn là quan niệm cũ về sự ưu thế của đột biến.
+Các quan điểm triết học kinh điển về sinh học là thuyết quy giản (reductionism), thuyết toàn thể (holism) và thuyết sức sống (vitalism).
+
+
+=== Triết học về y khoa ===
+Không giới hạn trong vấn đề y đức hay đạo đức sinh học, triết học về y khoa là một nhánh của triết học mà bao gồm các nghiên cứu nhận thức luận, bản thể học/siêu hình học về y khoa. Trong nhận thức luận về y khoa, y học dựa trên bằng chứng (EBM - evidence-based medicine) hoặc thực hành dựa trên bằng chứng (evidence-based practice (EBP)) thu hút được nhiều chú ý, đặc biệt là vai trò của sự ngẫu nhiên hóa, các kiểm soát hiệu ứng placebo và hiệu ứng mù. Có một sự quan tâm tăng dần về siêu hình học của y học, đặc biệt là ý niệm về nhân quả sử dụng trong y học. Các nhà triết học về y khoa có thể không quan tâm tới việc làm thế nào để phổ biến các tri thức y khoa, nhưng lại quan tâm về bản chất của hiện tượng đó. Nhân quả được quan tâm bởi vì mục đích của các nghiên cứu y học là thiết lập mối quan hệ nhân quả, ví dụ cái gì gây nên bệnh tật hay cái gì khiến người ta khỏe mạnh.
+
+
+=== Triết học về tâm lý học ===
+Triết học về tâm lý học đề cập đến các nền tảng lý thuyết của tâm lý học hiện đại. Một vài trong những vấn đề này là các quan tâm nhận thức luận liên quan đến phương pháp luận của nghiên cứu tâm lý học. Lấy ví dụ, liệu phương pháp tốt nhất để nghiên cứu tâm lý học có phải là chỉ tập trung vào hành vi, phản ứng đáp trả tới kích thích của môi trường bên ngoài hay là các nhà tâm lý học nên tập trung vào các tri giác tinh thần và các quá trình tư duy? Nếu là cái sau, thì một câu hỏi quan trọng là làm thế nào các kinh nghiệm bên trong của người khác có thể đo lường. Sự tự thuật về cảm giác và niềm tin (của thân chủ) có thể không đáng tin cậy, bởi ngay cả trong trường hợp không có động cơ nào để thân chủ cố tình nói dối trong các câu trả lời của họ, việc tự lừa dối hay trí nhớ có chọn lọc có thể ảnh hưởng đến lợi ích của họ. Ngay cả trong trường hợp của các tự thuật chính xác, thì làm thế nào các phản ứng khác nhau có thể được so sánh giữa các cá nhân khác nhau? Ngay cả khi hai cá nhân trả lời giống nhau tới một câu hỏi như là thang đánh giá Likert thì họ vẫn có thể đang trải nghiệm những thứ rất khác nhau.
+Một vấn đề khác của triết học về tâm lý học là các câu hỏi triết học về bản chất của tâm trí, não bộ và nhận thức, như là một phần của khoa học nhận thức hoặc triết học về tâm trí. Lấy ví dụ, liệu có người có phải là những sinh vật lý trí? Trong nghĩa nào thì con người có tự do ý chí, và nó liên quan như thế nào đến trải nghiệm về sự lựa chọn? Triết học về tâm lý học cũng theo dõi chặt chẽ các nghiên cứu đương đại được thực hiện trong các lĩnh vực khoa học thần kinh nhận thức, tâm lý học tiến hóa và trí thông minh nhân tạo, đặt câu hỏi về việc liệu chúng có thể được giải thích bằng tâm lý học hay không.
+
+
+=== Triết học về tâm thần học ===
+
+
+=== Triết học về kinh tế học ===
+
+
+=== Triết học về khoa học xã hội ===
+
+
+== Xem thêm ==
+Phê phán khoa học
+Lịch sử và triết học về khoa học
+Danh sách các nhà triết học về khoa học
+Chủ nghĩa tự nhiên siêu hình học
+Tính khách quan (triết học)
+Triết học về kỹ thuật
+Chính sách khoa học
+
+
+== Nguồn được dẫn ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==

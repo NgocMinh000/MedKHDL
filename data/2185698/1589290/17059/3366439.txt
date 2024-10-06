@@ -1,0 +1,50 @@
+Pepsin là một enzyme phân hủy trực tiếp protein thành các peptide nhỏ hơn (còn gọi là protease). Pepsin được sản xuất trong dạ dày và là một trong những enzym tiêu hóa chính trong hệ thống tiêu hóa của con người và nhiều loài động vật khác, có vai trò quan trọng tiêu hóa các protein của thức ăn. Pepsin là một trong ba protease chính của hệ thống tiêu hóa con người, hai chất còn lại là chymotrypsin và trypsin. Trong quá trình tiêu hóa, các enzyme này có nhiệm vụ cắt đứt liên kết giữa các amino acid, chúng phá vỡ các cấu trúc protein thức ăn thành các phần nhỏ hơn, tức là các peptide và amino acid, để có thể dễ dàng hấp thụ dinh dưỡng bởi ruột non. Pepsin là enzym hiệu quả nhất trong việc bóc liên kết peptide kỵ nước với amino acid thơm như phenylalanine, tryptophan và tyrosine.
+Pepsin của proenzyme, pepsinogen, được thoát ra từ các tế bào chính ở thành dạ dày, và khi hòa với axit hydrochloric trong dạ dày, pepsinogen kích hoạt để trở thành pepsin. Pepsin là một protease aspartic, sử dụng một aspartate xúc tác trong hoạt điểm (active site) của nó.
+
+
+== Lịch sử ==
+Pepsin là một trong những enzyme được phát hiện đầu tiên. Nó đã được phát hiện bởi nhà tế bào học, mô học, sinh lý học người Đức Theodor Schwann vào năm 1836. Ông đặt tên enzym này theo tiếng Hy Lạp của từ πέψις pepsis, có nghĩa là "tiêu hóa" (chữ πέπτειν peptein từ chữ "digest"). Trong khoảng thời gian này, các nhà khoa học bắt đầu khám phá ra nhiều hợp chất sinh hóa mới có một ý nghĩa quan trọng trong quá trình sinh học, và pepsin là một trong số đó. Một chất có tính axit chuyển đổi thức ăn dạng nitơ dựa vào vật liệu hòa tan trong nước được xác định là pepsin..
+Năm 1928, pepsin đã trở thành một trong những enzyme đầu tiên được kết tinh protein khi John H. Northrop tinh nó sử dụng để lọc máu,lọc nước và làm mát
+
+
+== Tiền thân ==
+
+Pepsin được biểu hiện như một zymogen gọi là pepsinogen, có cấu trúc chính với 44 amino acid được bổ sung vào. Trong dạ dày,các tế chính tạo ra các pepsinogen. Zymogen này được kích hoạt bằng axit hydrochloric (HCl), được thoát ra từ các tế bào thành trong niêm mạc dạ dày. Các hormonegastrin và dây thần kinh phế vị kích thích pepsinogen và HCl tiết ta từ dạ dày khi thức ăn được tiêu hóa. Axit clohiđric làm cho môi trường dạ dày có tính axit, cho phép pepsinogen được kích hoạt và tách riêng trong một chất xúc tác riêng do đó tạo thành các pepsin hoạt động. Phân cắt pepsin 44 amino acid từ pepsinogen tạo pepsin. Như vậy pepsinogen được coi là tiền thân của Pepsin.
+
+
+== Hoạt động và ổn định ==
+Pepsin hoạt động ổn định nhất trong môi trường axit giữa 37 °C và 42 °C. Theo đó, hoạt điểm chính được tổng hợp và hoạt động trong dạ dày (pH 1.5 to 2). Pepsin sẽ tiêu hóa lên đến 20% nhóm amide bằng cách tách ưu tiên N-terminal của các amino acid thơm như phenylalanine, tryptophan và tyrosine. Pepsin thể hiện sự phân cắt ưu tiên đối với chất kỵ nước, vòng thơm, ở những vị trí P1 và P1'. Tăng nhạy cảm quá trình thủy phân nếu có một amino acid chứa lưu huỳnh gần với bó peptide, trong đó có một loại amino acid thơm. Phân cắt pepsin Phe1Val, Gln4His, Glu13Ala, Ala14Leu, Leu15Tyr, Tyr16Leu, Gly23Phe, Phe24. Pepsin hoạt động tối đa ở pH 2.0 và không hoạt động ở pH 6.5 và trở lên, tuy nhiên pepsin là không hoàn toàn biến tính hoặc không thể phục hồi bất hoạt cho đến khi pH 8,0. Do đó, pepsin trong dung dịch lên đến pH 8,0 có thể được kích hoạt lại khi tái axit hóa. Sự ổn định của pepsin ở pH cao có ý nghĩa quan trọng về bệnh Trào ngược hầu-thanh quản. Pepsin vẫn ở thanh quản sau sự kiện trào ngược dạ dày. PH trung bình của vùng hầu thanh quản (pH = 6,8) pepsin sẽ không hoạt động nhưng có thể được kích hoạt lại sau khi các sự kiện axit trào ngược sau đó gây thiệt hại cho các mô xung quanh.
+
+
+== Trào ngược hầu thanh quản ==
+Pepsin là một trong những nguyên nhân chính của tổn thương niêm mạc trong trào ngược hầu thanh quản. Pepsin vẫn ở thanh quản (pH 6.8) sau một sự kiện trào ngược dạ dày. Trong khi các enzyme hoạt động trong môi trường này, pepsin sẽ vẫn ổn định và có thể được kích hoạt lại sau khi các sự kiện trào ngược axit tiếp theo. Tiếp xúc của niêm mạc thanh quản pepsin để enzym hoạt động, nhưng không phải không thể phục hồi bất hoạt pepsin hoặc axit, kết quả là giảm biểu hiện của protein bảo vệ và do đó làm tăng sự nhạy cảm của thanh quản gây tổn thương.
+Pepsin cũng có thể gây tổn thương niêm mạc dạ dày trong trào ngược dạ dày yếu tính axit hoặc không sinh axit. Trào ngược yếu hoặc không axit có tương quan với các triệu chứng trào ngược và tổn thương niêm mạc. Trong điều kiện không sinh axit (pH trung tính), pepsin được nội địa bởi các tế bào đường hô hấp trên như thanh quản và hầu dưới bằng một quá trình gọi là receptor-mediated endocytosis (nhập bào được làm dễ nhờ receptor)
+. Các thụ thể mà pepsin được endocytosed hiện vẫn chưa biết. Sau khi hấp thu của tế bào, pepsin được lưu trữ trong các túi nội bào của pH thấp mà tại đó hoạt động enzym của nó sẽ được phục hồi. Pepsin được giữ lại trong tế bào cho đến 24 giờ. tiếp xúc như vậy để pepsin ở pH trung tính và endoyctosis của pepsin gây ra những thay đổi trong biểu hiện gen liên quan với viêm, làm nền tảng cho các dấu hiệu và triệu chứng của trào ngược, và sự tiến triển của khối u. Và các nghiên cứu khác
+ liên quan đến pepsin trong ung thư do trào ngược dạ dày.
+Pepsin trong mẫu vật đường thở được coi là một dấu hiệu nhạy cảm và cụ thể cho trào ngược hầu thanh quản. 
+Nghiên cứu phát triển các công cụ điều trị và chẩn đoán pepsin nhằm mục tiêu mới cho trào ngược dạ dày đang tiếp tục. Một pepsin không xâm lấn nhanh chóng chẩn đoán gọi Peptest bây giờ đã có trong đó xác định sự hiện diện của pepsin trong các mẫu nước bọt.
+
+
+== Bảo quản ==
+Pepsins nên được bảo quản ở nhiệt độ rất thấp (từ -80 °C và -20 °C) để ngăn chặn autolysis (tự tiêu hóa).
+
+
+== Các chất ức chế ==
+Pepsin có thể bị ức chế bởi độ pH cao (xem "hoạt động" và "ổn định" ở trên) hoặc bởi các hợp chất ức chế. Pepstatin là một hợp chất có phân tử lượng thấp và chất ức chế mạnh cụ thể cho các protease acid với một Ki khoảng 10−10M cho pepsin. Dư lượng statyl của pepstatin được cho là chịu trách nhiệm cho sự ức chế pepstatin của pepsin; statine là một analog tiềm năng của trạng thái chuyển tiếp cho xúc tác bởi pepsin và protease axit khác. Pepstatin không đồng hóa trị ràng buộc pepsin và ức chế pepsin bởi pepstatin là do có thể phá hủy. 1-bis (diazoacetyl) -2-penylethane nghịch bất hoạt pepsin ở pH 5, một phản ứng mà được tăng tốc bởi sự hiện diện của Cu (II).
+Pepsin cũng trải qua sự ức chế phản hồi; một sản phẩm của quá trình tiêu hóa protein làm chậm phản ứng bằng cách ức chế pepsin.
+Sucralfate cũng ức chế hoạt động pepsin.
+
+
+== Ứng dụng ==
+Pepsin thương mại được tách từ lớp tuyến của dạ dày heo. Nó là một thành phần của rennet được sử dụng để đông sữa trong khi sản xuất pho mát. Pepsin được sử dụng cho một loạt các ứng dụng trong sản xuất thực phẩm: để biến đổi và cung cấp chất lượng whipping với protein đậu nành và gelatin,, biến đổi các protein thực vật để sử dụng trong các mặt hàng ăn nhẹ không làm từ bơ, để làm ngũ cốc nấu chín trước khi vào ngũ cốc nóng tức thời, và để chuẩn bị thủy phân động vật và protein thực vật để sử dụng trong hương liệu thực phẩm và đồ uống. Nó được sử dụng trong ngành công nghiệp da để loại bỏ lông và mô còn sót lại từ da và trong việc thu hồi bạc từ phim ảnh loại bỏ bởi tiêu hóa các lớp gelatin chứa bạc. Pepsin là lịch sử một chất phụ gia của Beemans gum thương hiệu kẹo cao su của Tiến sĩ Edward E. Beeman. Nó cũng cho biết tên để Pepsi-Cola, ban đầu được xây dựng với pepsin và hạt côla.
+Pepsin thường được sử dụng trong việc chuẩn bị của F(ab ') 2 mảnh vỡ từ kháng thể. Trong một số thử nghiệm, nó là thích hợp để chỉ sử dụng (Fab) phần kháng nguyên-ràng buộc của kháng thể. Đối với các ứng dụng này, các kháng thể có thể được các enzyme tiêu hóa để sản xuất hoặc một Fab hoặc F(ab') 2 mảnh của kháng thể. Để sản xuất một F(ab') 2 mảnh, IgG được tiêu hóa với pepsin, phân cắt các chuỗi nặng gần khu vực bản lề. Một hoặc nhiều hơn các nhóm disulfide mà tham gia vào chuỗi nặng trong khu vực bản lề được bảo tồn, do đó, hai vùng Fab của kháng thể vẫn tham gia với nhau, cho ra một phân tử hóa trị II (chứa hai vị trí gắn kết kháng thể), do đó việc chỉ định F (ab') 2. Các chuỗi ánh sáng vẫn còn nguyên vẹn và gắn liền với chuỗi nặng. Các Fc đoạn được tiêu hóa thành các peptide nhỏ. Mảnh Fab được tạo ra bởi sự phân tách của IgG với papain thay vì pepsin. Sẽ tách papain IgG trên khu vực bản lề có chứa các liên kết disulfide mà tham gia vào chuỗi nặng, nhưng bên dưới hoạt điểm của các cầu nối disulfide giữa các chuỗi nhẹ và chuỗi nặng. Điều này tạo ra hai đơn trị riêng biệt (có chứa một vị trí bám kháng thể đơn) mảnh Fab và Fc đoạn còn nguyên vẹn. Các mảnh vỡ có thể được tinh chế bằng lọc gel, trao đổi ion, hoặc sắc ký ái lực.
+Fab và F (ab ') 2 mảnh kháng thể được sử dụng trong các hệ thống khảo nghiệm nơi sự hiện diện của vùng Fc có thể gây ra vấn đề. Trong mô như hạch bạch huyết hoặc lá lách, hoặc trong các chế phẩm máu ngoại vi, các tế bào có thụ thể Fc (đại thực bào, bạch cầu đơn nhân, tế bào lympho B, và các tế bào giết tự nhiên) có mặt mà có thể ràng buộc các vùng Fc của kháng thể còn nguyên vẹn, gây nhuộm nền trong khu vực không chứa các kháng nguyên mục tiêu. Sử dụng F (ab ') 2 hoặc mảnh Fab đảm bảo rằng các kháng thể được liên kết với các kháng nguyên và không thụ thể Fc. Các mảnh vỡ này cũng có thể được mong muốn để nhuộm các chế tế bào trong sự hiện diện của huyết tương, bởi vì họ không thể để ràng buộc bổ sung, có thể Lyse các tế bào. F (ab ') 2, và đến một mức độ lớn hơn Fab, mảnh cho phép nhiều địa hóa chính xác của các kháng nguyên mục tiêu, ví dụ, trong mô nhuộm cho kính hiển vi điện tử. Các hóa trị của F (ab ') 2 mảnh cho phép nó để kháng nguyên chéo liên kết, cho phép sử dụng cho xét nghiệm kết tủa, tập hợp tế bào thông qua các kháng nguyên bề mặt, hoặc xét nghiệm rosetting.
+
+
+== Gen ==
+Ba gen mã hóa enzyme sau pepsinogen, men pepsinogen nhân A:
+
+Một gen nhân thứ tư mã hóa gastricsin còn được gọi là pepsinogen C:
+
+
+== Tham khảo ==

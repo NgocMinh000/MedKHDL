@@ -1,0 +1,69 @@
+-3,5,7,9,11,13-hexamethyl-10-(2,4,7-trioxa-1-azaoctan-1-ylidene)-1-oxacyclotetradecan-2-one
+| image = Roxithromycin.svg
+| image2 = Roxithromycin ball-and-stick.png
+| Drugs.com = Tên thuốc quốc tế
+| pregnancy_AU = B1
+| routes_of_administration = 
+| metabolism = Gan, nồng độ tối đa trung bình 2 giờ sau khi uống.
+| elimination_half-life = 11 h
+| CAS_number = 80214-83-1
+| CAS_number_Ref = 
+| ATC_prefix = J01
+| ATC_suffix = FA06
+| PubChem = 6915744
+| IUPHAR_ligand = 1465
+| DrugBank = DB00778
+| DrugBank_Ref =  Y
+| ChemSpiderID = 5291557
+| ChemSpiderID_Ref =  Y
+| UNII = 21KOF230FA
+| UNII_Ref =  Y
+| KEGG = D01710
+| KEGG_Ref =  Y
+| ChEBI = 48935
+| ChEBI_Ref =  Y
+| ChEMBL = 1214185
+| ChEMBL_Ref =  Y
+| C = 41
+| H = 76
+| N = 2
+| O = 15
+| molecular_weight = 837,047 g/mol
+| SMILES = O=C3O[C@H](CC)[C@](O)(C)[C@H](O)[C@H](\C(=N\OCOCCOC)[C@H](C)C[C@](O)(C)[C@H](O[C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O)[C@H]([C@H](O[C@@H]2O[C@H]([C@H](O)[C@](OC)(C2)C)C)[C@H]3C)C)C
+| StdInChI = 1S/C41H76N2O15/c1-15-29-41(10,49)34(45)24(4)31(42-53-21-52-17-16-50-13)22(2)19-39(8,48)36(58-38-32(44)28(43(11)12)18-23(3)54-38)25(5)33(26(6)37(47)56-29)57-30-20-40(9,51-14)35(46)27(7)55-30/h22-30,32-36,38,44-46,48-49H,15-21H2,1-14H3/b42-31+/t22-,23-,24+,25+,26-,27+,28+,29-,30+,32-,33+,34-,35+,36-,38+,39-,40-,41-/m1/s1
+| StdInChIKey = RXZBMPWDPOLZGW-XMRMVWPWSA-N
+| StdInChIKey_Ref =  Y
+| StdInChI_Ref =  Y
+| verifiedrevid = 464384076
+}}Roxithromycin là một kháng sinh macrolide  bán tổng hợp. Nó được sử dụng để điều trị nhiễm khuẩn đường hô hấp, đường tiết niệu và mô mềm. Roxithromycin được tổng hợp từ erythromycin có cùng vòng 14-lacton. Tuy nhiên, chuỗi bên N-oxime được gắn vào vòng lacton. Nó cũng đang trong quá trình thử nghiệm lâm sàng để điều trị rụng tóc ở nam giới.
+Roxithromycin được bán dưới nhiều tên thương mại. Roxithromycin là không có ở Hoa Kỳ. Roxithromycin được sử dụng ở Úc, Israel và New Zealand. Roxithromycin cũng đã được thử nghiệm là có hoạt tính chống sốt rét.
+
+
+== Cơ chế hoạt động ==
+Roxithromycin ức chế vi khuẩn phát triển bằng cách ngăn tổng hợp protein. Roxithromycin gắn với các tiểu đơn vị 50S của ribosome vi khuẩn do đó ức chế tổng hợp peptide. Roxithromycin có phổ kháng khuẩn tương tự erythromycin, nhưng chống lại các vi khuẩn gram âm hiệu quả hơn, đặc biệt là Legionella pneumophila.
+
+
+== Dược động học ==
+Khi uống trước bữa ăn, roxithromycin hấp thu rất nhanh và phân bố đến hầu hết các mô và thực bào. Do nồng độ cao trong thực bào, roxithromycin được vận chuyển tích cực đến vị trí nhiễm trùng. Khi hoạt hóa sự thực bào, nồng độ lớn roxithromycin được giải phóng.
+
+
+== Chuyển hóa ==
+Chỉ một phần nhỏ roxithromycin được chuyển hóa. Hầu hết roxithromycin được tiết nguyên vẹn qua mật và khí thở ra. Dưới 10% bài tiết vào nước tiểu. Roxithromycin có thời gian bán thải 12 giờ.
+
+
+== Tác dụng không mong muốn ==
+Tác dụng không mong muốn thường gặp nhất là tiêu hóa; tiêu chảy, buồn nôn, đau bụng và nôn. Ít gặp tác dụng phụ lên thần kinh trung ương hoặc ngoại biên như như đau đầu, chóng mặt, và cũng là hiếm thấy phát ban, chức năng gan bất thường và thay đổi khứu giác và vị giác.
+
+
+== Tương tác thuốc ==
+Roxithromycin ít tương tác thuốc hơn so với erythromycin do nó có ít ái lực với cytochrome P450.
+Roxithromycin không tương tác với thuốc tránh thai hormon, prednisolone, carbamazepine, ranitidine hay thuốc kháng acid.
+Khi roxithromycin dùng cùng theophylline, một số nghiên cứu đã cho thấy tăng nồng độ theophylline trong huyết tương. 
+Roxithromycin có tương tác với wafarin. Thể hiện bởi tăng thời gian prothrombin và/hoặc INR ở bệnh nhân dùng đồng thời cả roxithromycin lẫn wafarin. Hậu quả là đã từng gây ra xuất huyết nghiêm trọng.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Roxithromycin ràng buộc protein trong PDB

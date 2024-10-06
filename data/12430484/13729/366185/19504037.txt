@@ -1,0 +1,36 @@
+Virus viêm gan C (HCV) là một virus RNA đơn sợi có kích thước nhỏ (55-65 nm), có màng bọc thuộc họ Flaviviridae. Virus viêm gan C là nguyên nhân gây ra bệnh viêm gan C và một số bệnh ung thư như ung thư gan (ung thư biểu mô tế bào gan, viết tắt là HCC) và lymphoma ở người.
+
+
+== Phân loại ==
+Virus viêm gan C thuộc chi Hepacivirus, một thành viên của họ Flaviviridae. Trước năm 2011, nó được coi là thành viên duy nhất của chi này. Tuy nhiên, một thành viên nữa của chi này đã được phát hiện ở loài chó: virus hepacivirus ở chó. Cũng có ít nhất một loại virus trong chi này lây nhiễm cho ngựa. Một số loại virus khác trong chi này đã được mô tả ở dơi và loài gặm nhấm.
+
+
+== Cấu trúc ==
+
+Hạt vi rút viêm gan C bao gồm một màng bọc lớp kép lipid có đường kính từ 55 đến 65 nm. Hai màng bọc virus glycoprotein, E1 và E2, được nhúng trong màng bọc lipid. Chúng tham gia vào quá trình gắn virus và xâm nhập vào tế bào. Bên trong lớp màng bọc là một lõi tứ diện có đường kính từ 33 đến 40 nm. Bên trong lõi là vật liệu RNA của virus.
+
+
+== Dịch tễ học ==
+Vi rút viêm gan C chủ yếu là vi rút lây truyền qua đường máu, với nguy cơ lây truyền qua đường tình dục hoặc di truyền từ cha mẹ sang con rất thấp. Do phương thức lây lan này nên các nhóm chính có nguy cơ mắc là những người sử dụng ma túy qua đường tĩnh mạch, những người nhận các sản phẩm máu và đôi khi là những bệnh nhân đang chạy thận nhân tạo. Nơi lây truyền HCV phổ biến cũng là lây truyền trong bệnh viện khi các biện pháp vệ sinh và khử trùng không được tuân thủ một cách chính xác. Đã có đề xuất rằng một số thông lệ về mặt văn hóa hoặc nghi lễ cũng là một phương thức lây lan tiềm tàng của HCV, ví dụ như cắt bao quy đầu, cắt bộ phận sinh dục, cắt lớp tế bào, xăm mình truyền thống và châm cứu. Người ta cũng lập luận rằng với thời gian tồn tại cực kỳ kéo dài của HCV ở người, ngay cả việc lây truyền cơ học qua vết cắn của côn trùng vốn có tỷ lệ rất thấp và không thể phát hiện được cũng có thể đủ để duy trì sự lây nhiễm bệnh dịch ở vùng nhiệt đới nơi con người bị côn trùng cắn nhiều.
+
+
+== Tiến hóa ==
+Việc xác định nguồn gốc của loại virus này rất khó khăn nhưng kiểu gen 1 và 4 dường như có chung một nguồn gốc. Một phân tích sử dụng xác xuất Bayes cho thấy rằng các kiểu gen chính tách ra từ virus tổ tiên chung khoảng 300-400 năm trước. Các kiểu gen phụ tách ra khỏi các kiểu gen chính khoảng 200 năm trước. Tất cả các kiểu gen còn tồn tại dường như đã tiến hóa từ kiểu gen chính 1 kiểu phụ 1b.
+Một nghiên cứu về các chủng kiểu gen 6 cho thấy thời điểm tiến hóa sớm hơn: khoảng 1.100 đến 1.350 năm BP (Before Present). Tỷ lệ đột biến ước tính là 1,8 × 10 −4. Một nghiên cứu thử nghiệm đã ước tính tỷ lệ đột biến ở mức 2,5–2,9 × 10−3 lần thay thế base trên mỗi vị trí mỗi năm. Kiểu gen này có thể là tổ tiên của các kiểu gen còn lại.
+Một nghiên cứu về các chủng phân lập ở châu Âu, Hoa Kỳ và Nhật Bản cho thấy rằng thời điểm bắt nguồn của kiểu gen 1b là vào khoảng năm 1925. Thời điểm bắt nguồn ước tính của loại 2a và 3a lần lượt là năm 1917 và 1943. Thời gian tách ra của loại 1a và 1b được ước tính là 200–300 năm.
+Một nghiên cứu về kiểu gen 1a và 1b đã ước tính thời điểm bắt nguồn đối với loại 1a là 1914–1930  và đối với loại 1b là 1911–1944. Cả hai loại 1a và 1b đều trải qua sự mở rộng lớn về quy mô quần thể hiệu quả từ năm 1940 đến năm 1960. Sự mở rộng của virus HCV kiểu phụ 1b diễn ra trước kiểu phụ 1a ít nhất 16 năm. Cả hai loại dường như đã lan rộng từ thế giới phát triển sang thế giới đang phát triển.
+Các chủng kiểu gen 2 từ châu Phi có thể được chia thành bốn nhóm tương quan với quốc gia xuất xứ của chúng: (1) Cameroon và Cộng hòa Trung Phi (2) Benin, Ghana và Burkina Faso (3) Gambia, Guinea, Guinea-Bissau và Senegal (4) Madagascar. Cũng có bằng chứng rõ ràng rằng sự phổ biến của chủng kiểu gen 2 từ Tây Phi đến vùng Caribê bắt nguồn từ việc buôn bán nô lệ xuyên Đại Tây Dương.
+Kiểu gen 3 được cho là có nguồn gốc từ Đông Nam Á.
+
+
+== Tiêm phòng ==
+Không giống như viêm gan A và B, hiện nay vẫn chưa có vắc xin phòng ngừa lây nhiễm viêm gan C.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Các bài báo học thuật về HCV sáu kiểu gen Lưu trữ 2020-10-11 tại Wayback Machine Clodovero Ferri
+Cơ sở dữ liệu trình tự và miễn dịch học HCV tại Phòng thí nghiệm Quốc gia Los Alamos
+Tài nguyên phân tích và cơ sở dữ liệu mầm bệnh vi rút (ViPR): Flaviviridae Lưu trữ 2019-09-19 tại Wayback Machine

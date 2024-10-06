@@ -1,0 +1,288 @@
+Ôtômat cây (tiếng Anh: tree automaton) là một loại máy trạng thái. Ôtômat cây xử lý cấu trúc cây, thay vì xâu như các máy trạng thái thường gặp.
+Bài viết này đề cập đến ôtômat phân nhánh cây, tương đương với các ngôn ngữ chính quy của cây. Một khái niệm ôtômat cây khác có thể tìm thấy là ôtômat duyệt cây. 
+Tương tự ôtômat cổ điển, ôtômat cây hữu hạn có thể xác định (ÔHX) hoặc không (ÔHK). Theo cách xử lý cây đầu vào, ôtômat cây hữu hạn có thể thuộc vào hai loại: (a) dưới lên, (b) trên xuống. Đây là vấn đề quan trọng vì mặc dù ôtômat ÔHK trên xuống và ÔHK dưới lên tương đương về khả năng biểu diễn nhưng ÔHX trên xuống kém hơn hẳn ôtômat dưới lên tương ứng vì tính chất của cây xác định bởi ÔHX trên xuống chỉ có thể phụ thuộc vào tính chất của đường đi. ÔHX dưới lên mạnh ngang với ÔHK.
+
+
+== Định nghĩa ==
+Một bảng chữ cái xếp hạng là một cặp bảng chữ cái 
+  
+    
+      
+        
+          
+            F
+          
+        
+      
+    
+    {\displaystyle {\mathcal {F}}}
+  
+ và hàm bậc (arity) sao cho có thể xây dựng một số hạng. Các thành tố trống (bậc bằng không) còn được gọi là hằng. Toán hạng được xây dựng bằng các ký hiện bậc một và hằng có thể được coi là xâu. Bậc cao hơn tạo ra cây.
+Một ôtômat cây hữu hạn trên 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ được định nghĩa là:
+
+  
+    
+      
+        (
+        Q
+        ,
+        F
+        ,
+        
+          Q
+          
+            f
+          
+        
+        ,
+        Δ
+        )
+      
+    
+    {\displaystyle (Q,F,Q_{f},\Delta )}
+  
+
+Ở đây, 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+ là tập các trạng thái, 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ là một bảng chữ cái xếp hạng 
+  
+    
+      
+        
+          Q
+          
+            f
+          
+        
+        ⊆
+        Q
+      
+    
+    {\displaystyle Q_{f}\subseteq Q}
+  
+ là một tập các trạng thái kết thúc và 
+  
+    
+      
+        Δ
+      
+    
+    {\displaystyle \Delta }
+  
+ là tập luật chuyển trạng thái, nghĩa là các luật viết lại một nút có các con là trạng thái thành nút trạng thái mới.
+Không có trạng thái bắt đầu nhưng các luật chuyển cho ký hiệu hằng (nút lá) có thể được coi là các luật bắt đầu. Cây được chấp nhận nếu trạng thái ở gốc là một trạng thái chấp nhận.
+Một ôtômat hữu hạn trên xuống trên 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ được định nghĩa bởi:
+
+  
+    
+      
+        (
+        Q
+        ,
+        F
+        ,
+        I
+        ,
+        Δ
+        )
+      
+    
+    {\displaystyle (Q,F,I,\Delta )}
+  
+
+Có hai điểm khác biệt với ôtômat cây dưới lên: thứ nhất, 
+  
+    
+      
+        I
+        ⊆
+        Q
+      
+    
+    {\displaystyle I\subseteq Q}
+  
+, tập trạng thái đầu thay cho 
+  
+    
+      
+        
+          Q
+          
+            F
+          
+        
+      
+    
+    {\displaystyle Q_{F}}
+  
+; thứ hai, các luật chuyển đi theo chiều ngược lại, nghĩa là viết lại một nút trạng thái thành nút với các nút con là trạng thái. Cây được chấp nhận nếu mọi nhánh đều được duyệt qua theo cách này.
+Các luật viết lại khiến các ký hiệu của 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+ 'di chuyển' dọc theo các nhánh của cây.
+
+
+== Tính chất ==
+
+
+=== Tính xác định ===
+
+
+=== Khả năng nhận dạng ===
+Với một ôtômat dưới lên, một số hạng nền 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ (nghĩa là một cây) được đoán nhận nếu có một phép biến đổi bắt đầu từ t và kết thúc bởi q(t). Ngược lại, với ôtômat trên xuống, một số hạng nền 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ được đoán nhận nếu có một phép biến đổi bắt đầu từ q(t) và kết thúc bằng t, với q(t) là một trạng thái bắt đầu.
+Ngôn ngữ cây 
+  
+    
+      
+        L
+        (
+        A
+        )
+      
+    
+    {\displaystyle L(A)}
+  
+ được đoán nhận bởi ôtômat cây 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ là tập hợp tất cả số hạng nền được đoán nhạn bởi 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+. Một tập các số hạng nền có thể được đoán nhận nếu tồn tại một ôtômat cây đoán nhận nó.
+Một thuộc tính quan trọng là biến đổi đồng hình tuyến tính (nghĩa là bảo tồn bậc) không thay đổi tính đoán nhận được.
+
+
+=== Tính đầy đủ và giản lược ===
+Một ôtômat cây hữu hạn không xác định là đầy đủ nếu có ít nhất một luật chuyển cho mỗi cặp ký hiệu-trạng thái. Một trạng thái 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+ là đến được nếu có một số hạng nền (ground term) 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ sao cho có một phép biến đổi từ 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ đến 
+  
+    
+      
+        q
+        (
+        t
+        )
+      
+    
+    {\displaystyle q(t)}
+  
+. Một ôtômat cây hữu hạn là giản lược nếu mọi trạng thái của nó đều đến được.
+
+
+=== Định lý bơm ===
+
+
+=== Bao đóng ===
+Lớp các ngôn ngữ cây có thể nhận dạng được là đóng với các phép hợp, bù và giao.
+
+
+=== Định lý Myhill-Nerode ===
+
+
+== Tham khảo ==
+
+Kiến thức trong trang này đều lấy từ chương một, sách "Tree automata techniques and applications" - http://tata.gforge.inria.fr
+
+
+== Liên kết ngoài ==
+(OCaml) Grappa - Ranked and Unranked Tree Automata Libraries (http://www.grappa.univ-lille3.fr/~filiot/tata/)
+(OCaml) Timbuk - Tools for Reachability Analysis and Tree Automata Calculations (http://www.irisa.fr/celtique/genet/timbuk/)
+(Java) LETHAL - Library for working with finite tree and hedge automata (http://lethal.sf.net/)
+(Isabelle [OCaml, SML, Haskell]) - Machine-Checked Tree Automata Library (http://afp.sourceforge.net/entries/Tree-Automata.shtml Lưu trữ 2011-07-19 tại Wayback Machine)
+(C++) VATA: A Library for Efficient Manipulation of Non-Deterministic Tree Automata - (http://www.fit.vutbr.cz/research/groups/verifit/tools/libvata/)

@@ -1,0 +1,7 @@
+Trametinib (tên thương mại Mekinist) là một loại thuốc trị ung thư. Nó là một loại thuốc ức chế MEK có hoạt tính chống ung thư.
+Nó ức chế MEK1 và MEK2.
+Trametinib đã có kết quả tốt cho khối u ác tính di căn mang đột biến BRAF V600E trong một thử nghiệm lâm sàng giai đoạn III. Trong đột biến này, amino acid valine (V) ở vị trí 600 trong protein BRAF đã được thay thế bằng axit glutamic (E) làm cho protein BRAF đột biến hoạt động liên tục.
+Vào tháng 5 năm 2013, trametinib đã được Cục Quản lý Thực phẩm và Dược phẩm phê duyệt là một tác nhân duy nhất để điều trị cho bệnh nhân bị u ác tính di căn đột biến V600E. Dữ liệu thử nghiệm lâm sàng đã chứng minh rằng tình trạng kháng trametinib đơn tác nhân thường xảy ra trong vòng 6 đến 7 tháng. Để khắc phục điều này, trametinib đã được kết hợp với chất ức chế BRAF dabrafenib.  Theo kết quả của nghiên cứu này, vào ngày 8 tháng 1 năm 2014, FDA đã phê duyệt sự kết hợp của dabrafenib và trametinib để điều trị bệnh nhân bị u ác tính di căn BRAF V600E / K-mutant. Vào ngày 1 tháng 5 năm 2018, FDA đã phê duyệt kết hợp dabrafenib / trametinib như một phương pháp điều trị bổ trợ cho khối u ác tính BRAF V600E, giai đoạn III sau phẫu thuật cắt bỏ dựa trên kết quả của nghiên cứu COMBI-AD giai đoạn 3, Phác đồ hóa trị liệu bằng miệng ngăn ngừa tái phát ung thư đối với hạch dương tính, khối u ác tính đột biến BRAF.
+
+
+== Tham khảo ==

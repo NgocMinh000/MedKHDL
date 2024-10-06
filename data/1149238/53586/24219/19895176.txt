@@ -1,0 +1,149 @@
+Trong lĩnh vực trí tuệ và trí tuệ nhân tạo, một tác nhân thông minh (intelligent agent hay IA, hoặc tác tử thông minh) là một tác nhân cảm nhận được môi trường xung quanh, thực hiện các hành động tự động để đạt được mục tiêu và có thể cải thiện hiệu suất của mình thông qua học máy hoặc thu nhận tri thức. Một tác nhân thông minh có thể đơn giản hoặc phức tạp: Một nhiệt kế hoặc một hệ thống điều khiển được coi là một ví dụ về tác nhân thông minh, cũng như một con người, hay bất kỳ hệ thống nào đáp ứng định nghĩa này, chẳng hạn như một công ty, một nhà nước, hoặc một sinh cảnh.
+
+Các sách giáo khoa hàng đầu về AI định nghĩa "trí tuệ nhân tạo" là "nghiên cứu và thiết kế các tác nhân thông minh", định nghĩa này cho rằng hành vi có định hướng mục tiêu là cốt lõi của trí tuệ. Tác nhân có định hướng mục tiêu cũng được mô tả bằng một thuật ngữ mượn từ kinh tế học, là "tác nhân hợp lý" (rational agent).
+Một tác nhân có một "hàm mục tiêu" bao quát tất cả các mục tiêu của tác nhân thông minh. Tác nhân này được thiết kế để tạo ra và thực thi bất kỳ kế hoạch nào mà, khi hoàn thành, tối đa hóa giá trị kỳ vọng của hàm mục tiêu. Ví dụ, một tác nhân học tăng cường có một "hàm thưởng" (reward function) cho phép lập trình viên định hình hành vi mong muốn của tác nhân, và hành vi của một "thuật toán tiến hóa" (evolutionary algorithm) được định hình bởi một "hàm đánh giá" (fitness function).
+Tác nhân thông minh trong trí tuệ nhân tạo có liên quan chặt chẽ đến các tác nhân trong kinh tế học, và các phiên bản của mô hình tác nhân thông minh đang được nghiên cứu trong khoa học nhận thức, đạo đức, và triết học của lý trí thực tiễn, cũng như trong nhiều liên ngành nhận thức xã hội và mô phỏng máy tính xã hội.
+Tác nhân thông minh thường được mô tả dưới dạng hệ thống chức năng trừu tượng tương tự như một chương trình máy tính. Các mô tả trừu tượng về tác nhân thông minh được gọi là tác nhân thông minh trừu tượng (abstract intelligent agents - AIA) để phân biệt với các triển khai thực tế của chúng. Một tác nhân thông minh tự động (autonomous intelligent agent) được thiết kế để hoạt động mà không cần sự can thiệp của con người. Tác nhân thông minh cũng liên quan chặt chẽ đến các tác tử phần mềm (chương trình máy tính tự động thực hiện các nhiệm vụ thay mặt người dùng).
+
+
+== Là định nghĩa của trí tuệ nhân tạo ==
+Sách Artificial Intelligence: A Modern Approach định nghĩa "tác nhân" là
+
+"Bất kỳ thứ gì có thể nhận thức được môi trường xung quanh thông qua các cảm biến và hành động lên môi trường đó thông qua các cơ cấu chấp hành"
+Sách cũng định nghĩa "tác nhân hợp lý" là:
+
+"Một tác nhân hành động để tối đa hóa giá trị kỳ vọng của một thước đo hiệu suất dựa trên kinh nghiệm và tri thức quá khứ."
+Sách cũng định nghĩa lĩnh vực "nghiên cứu trí tuệ nhân tạo" là:
+
+"Nghiên cứu và thiết kế các tác nhân hợp lý"
+Padgham & Winikoff (2005) đồng ý rằng một tác nhân thông minh được đặt trong một môi trường và phản hồi kịp thời (dù không nhất thiết phải là thời gian thực) đối với các thay đổi trong môi trường. Tuy nhiên, tác nhân thông minh cũng phải chủ động theo đuổi các mục tiêu một cách linh hoạt và mạnh mẽ. Các yêu cầu bổ sung có thể bao gồm tác nhân phải là hợp lý (rational), và phải có khả năng phân tích "mô hình phần mềm niềm tin-mong muốn-ý định" (belief–desire–intention software model).
+Kaplan và Haenlein định nghĩa trí tuệ nhân tạo là "khả năng của một hệ thống trong việc diễn giải chính xác dữ liệu bên ngoài, học hỏi từ dữ liệu đó và sử dụng những kiến thức thu được để đạt được các mục tiêu và nhiệm vụ cụ thể thông qua sự thích ứng linh hoạt". Định nghĩa này liên quan chặt chẽ đến tác nhân thông minh.
+
+
+=== Lợi thế ===
+Về mặt triết học, định nghĩa này của trí tuệ nhân tạo tránh được một số dòng chỉ trích. Không giống như phép thử Turing, nó không đề cập đến trí tuệ của con người theo bất kỳ cách nào. Do đó, không cần phải thảo luận xem đó là trí tuệ "thật" hay "mô phỏng" (tức là "tổng hợp" hay "nhân tạo") và không chỉ ra rằng máy móc đó có tâm trí, ý thức hay sự hiểu biết thực sự (tức là nó không ngụ ý giả thuyết "AI mạnh" của John Searle). Nó cũng không cố gắng vạch ra ranh giới rõ ràng giữa những hành vi "thông minh" và những hành vi "không thông minh"—các chương trình chỉ cần được đánh giá dựa trên "hàm mục tiêu" (objective function) của chúng.
+Quan trọng hơn, nó có một số lợi thế thực tiễn giúp thúc đẩy nghiên cứu AI. Nó cung cấp một cách đáng tin cậy và khoa học để kiểm tra các chương trình; các nhà nghiên cứu có thể trực tiếp so sánh hoặc thậm chí kết hợp các cách tiếp cận khác nhau đối với các vấn đề riêng lẻ, bằng cách hỏi tác nhân nào là tốt nhất trong việc tối đa hóa một "hàm mục tiêu" nhất định. Nó cũng cung cấp cho họ một ngôn ngữ chung để giao tiếp với các lĩnh vực khác—chẳng hạn như tối ưu hóa toán học (được định nghĩa theo "mục tiêu") hoặc kinh tế học (sử dụng cùng một định nghĩa về "tác nhân hợp lý").
+
+
+== Hàm mục tiêu ==
+
+Một tác nhân được gán một "hàm mục tiêu" rõ ràng sẽ được coi là thông minh hơn nếu nó luôn thực hiện các hành động để tối đa hóa thành công hàm mục tiêu được lập trình. Mục tiêu có thể đơn giản ("1 nếu IA thắng một ván cờ vây, 0 nếu không") hoặc phức tạp ("Thực hiện các hành động tương tự về mặt toán học với những hành động đã thành công trước đây"). "Hàm mục tiêu" bao gồm tất cả các mục tiêu mà tác nhân hướng tới để thực hiện; đối với các tác nhân hợp lý, hàm này cũng bao gồm các đánh đổi chấp nhận được giữa việc hoàn thành các mục tiêu mâu thuẫn nhau. (Thuật ngữ có thể khác nhau; ví dụ, một số tác nhân tìm cách tối đa hóa hoặc tối thiểu hóa một "hàm thỏa dụng", "hàm mục tiêu", hoặc "hàm mất mát".)
+Các mục tiêu có thể được xác định rõ ràng hoặc được suy luận. Nếu AI được lập trình cho "học tăng cường", nó sẽ có một "hàm thưởng" khuyến khích một số loại hành vi và trừng phạt các hành vi khác. Ngoài ra, một hệ thống tiến hóa có thể suy luận mục tiêu bằng cách sử dụng một "hàm đánh giá" (hoặc "hàm thích nghi") để biến đổi và tái tạo các hệ thống AI có điểm số cao, tương tự như cách động vật tiến hóa để mong muốn những mục tiêu như tìm kiếm thức ăn. Một số hệ thống AI, chẳng hạn như phương pháp láng giềng gần nhất, thay vì suy luận bằng cách tương tự, những hệ thống này thường không được gán mục tiêu, ngoại trừ mức độ mà mục tiêu được ngầm định trong dữ liệu huấn luyện của chúng. Những hệ thống này vẫn có thể được đánh giá chuẩn nếu hệ thống không có mục tiêu được định hình như một hệ thống mà "mục tiêu" của nó là hoàn thành nhiệm vụ phân loại hẹp của nó.
+Các hệ thống không được coi là tác nhân truyền thống, chẳng hạn như các hệ thống biểu diễn tri thức, đôi khi được đưa vào mô hình bằng cách coi chúng là các tác nhân có mục tiêu (ví dụ: trả lời câu hỏi chính xác nhất có thể); khái niệm về "hành động" ở đây được mở rộng để bao gồm "hành vi" trả lời một câu hỏi. Như một phần mở rộng bổ sung, các hệ thống dựa trên mô phỏng có thể được coi là các tác nhân đang tối ưu hóa một "hàm mục tiêu" dựa trên mức độ mà IA thành công trong việc bắt chước hành vi mong muốn. Trong mạng đối nghịch tạo sinh của những năm 2010, một thành phần "mã hóa"/"tạo sinh" cố gắng bắt chước và ứng biến việc sáng tác văn bản của con người. Bộ tạo sinh cố gắng tối đa hóa một hàm bao gồm khả năng lừa dối một thành phần đối kháng là "dự đoán"/"phân biệt".
+Mặc dù các hệ thống AI cổ điển thường chấp nhận một hàm mục tiêu rõ ràng, mô hình này cũng có thể được áp dụng cho mạng thần kinh nhân tạo và "tính toán tiến hóa" (evolutionary computation). Học tăng cường có thể tạo ra các tác nhân thông minh nhằm tối đa hóa một "hàm thưởng". Đôi khi, thay vì đặt hàm thưởng bằng với hàm đánh giá chuẩn mong muốn, lập trình viên học máy sẽ cho máy phần thưởng khi có tiến bộ trong học tập. Yann LeCun đã phát biểu vào năm 2018 rằng "Hầu hết các thuật toán học tập mà mọi người đã nghĩ ra về cơ bản đều nhằm mục đích tối thiểu hóa một số hàm mục tiêu." Trò chơi cờ vua của "AlphaZero" có một hàm mục tiêu đơn giản; mỗi lần thắng được tính là +1 điểm, và mỗi lần thua được tính là -1 điểm. Một hàm mục tiêu cho xe tự lái sẽ phải phức tạp hơn. Tính toán tiến hóa có thể phát triển các tác nhân thông minh như việc hành động nhằm tối đa hóa một "hàm thích nghi" ảnh hưởng đến số lượng hậu duệ mà mỗi tác nhân được phép để lại.
+Hình thức toán học của AIXI đã được đề xuất như một tác nhân thông minh tối đa trong mô hình này. Tuy nhiên, AIXI là "không tính toán được". Trong thế giới thực, IA bị hạn chế bởi thời gian và tài nguyên phần cứng hữu hạn, và các nhà khoa học cạnh tranh để tạo ra các thuật toán có thể đạt điểm số cao hơn trên các bài kiểm tra chuẩn với phần cứng hiện có.
+
+
+== Hàm tác nhân ==
+Một chương trình tác nhân đơn giản có thể được định nghĩa toán học như một hàm số f (gọi là "hàm tác nhân") ánh xạ mỗi chuỗi nhận thức có thể thành một hành động mà tác nhân có thể thực hiện, hoặc đến một hệ số, yếu tố phản hồi, hàm hoặc hằng số ảnh hưởng đến các hành động sau này:  
+
+  
+    
+      
+        f
+        :
+        
+          P
+          
+            ∗
+          
+        
+        →
+        A
+      
+    
+    {\displaystyle f:P^{\ast }\rightarrow A}
+  
+
+Hàm tác nhân là một khái niệm trừu tượng, vì nó có thể kết hợp các nguyên tắc ra quyết định khác nhau như tính toán tiện ích của các tùy chọn cá nhân, suy luận dựa trên các quy tắc logic, logic mờ, v.v.  
+Chương trình tác nhân, ngược lại, ánh xạ mỗi nhận thức có thể thành một hành động.  
+Chúng ta sử dụng thuật ngữ "nhận thức" để chỉ các đầu vào cảm nhận của tác nhân tại một thời điểm cụ thể. Trong các hình minh họa sau đây, tác nhân là bất cứ thứ gì có thể được xem là cảm nhận môi trường qua các cảm biến và hành động lên môi trường đó qua các cơ cấu chấp hành.
+
+
+== Các lớp của tác nhân thông minh ==
+
+
+=== Phân loại của Russell và Norvig ===
+Russell & Norvig (2003) chia tác nhân thành năm lớp dựa trên mức độ nhận thức và khả năng của chúng:  
+
+
+==== Tác nhân phản xạ đơn giản ====
+  
+Tác nhân phản xạ đơn giản chỉ hành động dựa trên nhận thức hiện tại, bỏ qua lịch sử các nhận thức trước đó. Hàm tác nhân dựa trên quy tắc "điều kiện - hành động": "nếu điều kiện, thì hành động".  
+Hàm tác nhân này chỉ thành công khi môi trường được quan sát hoàn toàn. Một số tác nhân phản xạ cũng có thể chứa thông tin về trạng thái hiện tại, cho phép chúng bỏ qua các điều kiện mà cơ cấu chấp hành đã được kích hoạt.  
+Các vòng lặp vô tận thường không thể tránh khỏi đối với các tác nhân phản xạ đơn giản hoạt động trong môi trường quan sát không đầy đủ. Nếu tác nhân có thể ngẫu nhiên hóa hành động của mình, có thể sẽ thoát khỏi các vòng lặp vô tận.
+
+
+==== Tác nhân phản xạ dựa trên mô hình ====
+  
+Tác nhân dựa trên mô hình có thể xử lý các môi trường không quan sát đầy đủ. Trạng thái hiện tại của nó được lưu trữ bên trong tác nhân, duy trì một cấu trúc mô tả phần của thế giới mà nó không thể nhìn thấy. Kiến thức này về "cách thế giới hoạt động" được gọi là mô hình của thế giới, vì vậy tác nhân này được gọi là "tác nhân dựa trên mô hình".  
+Tác nhân phản xạ dựa trên mô hình nên duy trì một loại mô hình nội bộ nào đó phụ thuộc vào lịch sử nhận thức và do đó phản ánh ít nhất một phần các khía cạnh không quan sát được của trạng thái hiện tại. Lịch sử nhận thức và tác động của hành động lên môi trường có thể được xác định bằng cách sử dụng mô hình nội bộ. Sau đó, nó chọn một hành động giống như tác nhân phản xạ.  
+Một tác nhân cũng có thể sử dụng các mô hình để mô tả và dự đoán hành vi của các tác nhân khác trong môi trường.
+
+
+==== Tác nhân dựa trên mục tiêu ====
+  
+Tác nhân dựa trên mục tiêu mở rộng hơn các khả năng của tác nhân dựa trên mô hình, bằng cách sử dụng thông tin về "mục tiêu". Thông tin mục tiêu mô tả các tình huống mong muốn. Điều này cung cấp cho tác nhân cách để lựa chọn giữa nhiều khả năng, chọn phương án đạt đến trạng thái mục tiêu. Tìm kiếm và lập kế hoạch là các lĩnh vực của trí tuệ nhân tạo chuyên tìm kiếm các chuỗi hành động đạt được mục tiêu của tác nhân.
+
+
+==== Tác nhân dựa trên tiện ích ====
+  
+Tác nhân dựa trên mục tiêu chỉ phân biệt giữa các trạng thái mục tiêu và các trạng thái không mục tiêu. Cũng có thể xác định một thước đo mức độ mong muốn của một trạng thái cụ thể. Thước đo này có thể thu được thông qua việc sử dụng hàm tiện ích (utility function), hàm này ánh xạ trạng thái thành một thước đo tiện ích của trạng thái. Một thước đo hiệu suất tổng quát hơn nên cho phép so sánh các trạng thái khác nhau của thế giới dựa trên mức độ chúng thỏa mãn các mục tiêu của tác nhân. Thuật ngữ tiện ích có thể được dùng để mô tả mức độ "hài lòng" của tác nhân.  
+Tác nhân tiện ích hợp lý chọn hành động tối đa hóa tiện ích mong đợi từ kết quả của hành động đó – nghĩa là, điều mà tác nhân dự kiến sẽ đạt được, tính trung bình, dựa trên các xác suất và tiện ích của mỗi kết quả. Tác nhân tiện ích phải mô hình hóa và theo dõi môi trường của mình, các nhiệm vụ này liên quan đến nhiều nghiên cứu về nhận thức, biểu diễn, suy luận và học hỏi.
+
+
+==== Tác nhân học hỏi ====
+  
+Học tập có lợi thế là cho phép các tác nhân ban đầu hoạt động trong môi trường chưa biết và trở nên thành thạo hơn so với kiến thức ban đầu. Sự khác biệt quan trọng nhất là giữa "yếu tố học", chịu trách nhiệm cải tiến, và "yếu tố hiệu suất", chịu trách nhiệm lựa chọn hành động bên ngoài.  
+Yếu tố học sử dụng phản hồi từ "người đánh giá" để xác định tác nhân hoạt động tốt như thế nào và quyết định cách yếu tố hiệu suất, hay "người hành động", cần được điều chỉnh để làm tốt hơn trong tương lai. Yếu tố hiệu suất, trước đây được coi là toàn bộ tác nhân, nhận vào các nhận thức và quyết định các hành động.  
+Thành phần cuối cùng của tác nhân học là "bộ phát sinh vấn đề". Nó có trách nhiệm gợi ý các hành động dẫn đến những trải nghiệm mới và mang tính thông tin.
+
+
+=== Phân loại của Weiss ===
+Weiss (2013) định nghĩa bốn lớp tác nhân:  
+
+Tác nhân dựa trên logic – quyết định hành động nào thực hiện được thông qua suy luận logic.
+Tác nhân phản ứng – ra quyết định được thực hiện dưới dạng ánh xạ trực tiếp từ tình huống đến hành động.
+Tác nhân dựa trên niềm tin – mong muốn – ý định – quyết định dựa trên việc thao tác các cấu trúc dữ liệu đại diện cho niềm tin, mong muốn và ý định của tác nhân;
+Kiến trúc phân lớp – ra quyết định được thực hiện thông qua các lớp phần mềm khác nhau, mỗi lớp có mức độ trừu tượng khác nhau để suy luận về môi trường.
+
+
+=== Khác ===
+Năm 2013, Alexander Wissner-Gross đã công bố một lý thuyết liên quan đến tự do và trí tuệ cho các tác nhân thông minh.
+
+
+== Hệ thống phân cấp của tác nhân ==
+Tác nhân thông minh có thể được tổ chức theo hệ thống phân cấp thành nhiều "tác nhân con". Các tác nhân con thông minh xử lý và thực hiện các chức năng cấp thấp hơn. Tổng thể, tác nhân thông minh và các tác nhân con tạo thành một hệ thống hoàn chỉnh, có thể thực hiện các nhiệm vụ hoặc mục tiêu khó khăn với các hành vi và phản hồi thể hiện trí thông minh.  
+Nhìn chung, một tác nhân có thể được xây dựng bằng cách tách biệt cơ thể thành các cảm biến và cơ cấu chấp hành, và hoạt động với một hệ thống nhận thức phức tạp nhận mô tả về thế giới làm đầu vào cho một bộ điều khiển và xuất các lệnh đến cơ cấu chấp hành. Tuy nhiên, một hệ thống phân cấp các lớp điều khiển thường cần thiết để cân bằng phản ứng tức thời cho các nhiệm vụ cấp thấp và suy luận chậm cho các mục tiêu phức tạp, cấp cao.
+
+
+== Các định nghĩa và ứng dụng khác ==
+"Tác nhân thông minh" cũng thường được sử dụng như một thuật ngữ mơ hồ, đôi khi đồng nghĩa với "trợ lý ảo cá nhân". Một số định nghĩa từ thế kỷ 20 mô tả tác nhân là một chương trình hỗ trợ người dùng hoặc hành động thay cho người dùng. Các ví dụ này được gọi là tác nhân phần mềm, và đôi khi một "tác nhân phần mềm thông minh" (tức là một tác nhân phần mềm có trí thông minh) được gọi là "tác nhân thông minh".  
+Theo Nikola Kasabov, hệ thống IA cần có các đặc điểm sau:  
+
+Thêm các quy tắc giải quyết vấn đề mới dần dần.
+Thích ứng trực tuyến và trong thời gian thực.
+Có khả năng tự phân tích chính mình về hành vi, lỗi và thành công.
+Học hỏi và cải thiện thông qua tương tác với môi trường.
+Học nhanh từ lượng lớn dữ liệu.
+Có khả năng lưu trữ và truy xuất dữ liệu theo kiểu ghi nhớ dựa trên mẫu.
+Có tham số để biểu thị trí nhớ ngắn hạn và dài hạn, độ tuổi, khả năng quên, v.v.
+
+
+== Xem thêm ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Domingos, Pedro (22 tháng 9, 2015). The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World. Basic Books. ISBN 978-0465065707.
+Kasabov, N. (1998). “Introduction: Hybrid intelligent adaptive systems”. International Journal of Intelligent Systems. 13 (6): 453–454. doi:10.1002/(SICI)1098-111X(199806)13:6<453::AID-INT1>3.0.CO;2-K. S2CID 120318478.
+Weiss, G. (2013). Multiagent systems (ấn bản thứ 2). Cambridge, MA: MIT Press. ISBN 978-0-262-01889-0.
+
+
+== Liên kết ngoài ==
+Coneural

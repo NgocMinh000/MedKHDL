@@ -1,0 +1,78 @@
+Các bệnh suy giảm miễn dịch (immunodeficiency diseases) là một nhóm các tình trạng khác nhau gây nên do một hay nhiều khiếm khuyết của hệ miễn dịch và biểu hiện trên lâm sàng bởi gia tăng tình trạng dễ mắc nhiều bệnh nhiễm trùng với hậu quả cấp tính, tái diễn hay mạn tính thường là nặng nề.
+
+
+== Suy giảm miễn dịch tiên phát ==
+Suy giảm miễn dịch tiên phát (primary immunodeficiency) là hậu quả của một hay nhiều thành phần thiết yếu của hệ miễn dịch bị mất đi hoặc hoạt động không bình thường biểu hiện từ lúc sinh do những khiếm khuyết di truyền. Những khiếm khuyết này có thể gặp trong cơ chế miễn dịch đặc hiệu hoặc không đặc hiệu. Chúng được phân loại dựa theo vị trí tổn thương trên con đường phát triển hoặc biệt hóa của hệ miễn dịch.
+Những cá thể suy giảm miễn dịch thường nhạy cảm với nhiều tác nhân nhiễm trùng khác nhau. Loại nhiễm trùng thường gặp tùy thuộc bản chất của suy giảm miễn dịch của từng cá nhân.
+
+
+=== Hệ miễn dịch đặc hiệu ===
+Có rất nhiều tình trạng suy giảm miễn dịch là hậu quả của những khiếm khuyết trong quá trình biệt hóa của tế bào mầm và có thể ảnh hưởng đến tế bào T, tế bào B và/hoặc các globulin miễn dịch thuộc các lớp và phân lớp khác nhau.
+Các rối loạn của tế bào mầm đa chức năng dòng tủy hoặc dòng lympho
+Một chứng bệnh rất hiếm gặp nhưng gây tử vong liên quan đến sự giảm nặng nề hoặc không có tế bào lympho và tế bào hạt trong khi đó hồng cầu và tiểu cầu vẫn bình thường.
+Rối loạn của các tế bào mầm dòng lympho
+
+Suy giảm miễn dịch kết hợp trầm trọng: Khoảng 50% số bệnh nhân này có suy giảm miễn dịch liên kết nhiễm sắc thể giới tính và một nửa còn lại được di truyền trên nhiễm sắc thể thường. Các chứng suy giảm miễn dịch này được đặc trưng bằng một tình trạng mất miễn dịch tế bào T và B cũng như không có (hoặc có rất ít) tế bào lympho T và B lưu hành trong máu. Trên phim X quang chụp ngực thường không thấy bóng của tuyến ức. Bệnh nhân mắc chứng suy giảm miễn dịch kết hợp trầm trọng này thường rất nhạy cảm với rất nhiều tác nhân gây bệnh như vi khuẩn, virus, nấm và động vật nguyên sinh.
+Chẩn đoán thường dựa vào đếm số lượng tế bào T và B cũng như định lượng globulin miễn dịch trong máu. Điều trị bằng ghép tủy xương hoặc cấy gene nhờ vector chuyển gene là một loại virus sao chép ngược.
+Rối loạn tế bào T
+
+Hội chứng DiGeorge: Đây là tình trạng suy giảm miễn dịch liên quan đến tế bào T được biết cặn kẽ nhất. Hội chứng này còn được biết dưới một số tên gọi khác như: bất sản/thiểu sản tuyến ức bẩm sinh hoặc suy giảm miễn dịch kèm thiểu năng giáp trạng. Nguyên nhân của hội chứng này là đột biến mất đoạn trên nhiễm sắc thể 22. Đoạn mất có kích thước khác nhau ở từng bệnh nhân nhưng kích thước đoạn mất không tương quan với độ nặng của bệnh. Hội chứng này đi kèm với thiểu năng cận giáp, bệnh tim bẩm sinh, tật tai ở vị trí thấp hơn bình thường và miệng như miệng cá. Những khiếm khuyết này là hậu quả của sự phát triển không bình thường của phôi từ tuần thứ 6 đến tuần thứ 10 trong thai kỳ khi mà tuyến cận giáp, tuyến ức, môi, tai và cung động mạch chủ đang được hình thành.
+Không phải tất cả trẻ mắc hội chứng này đều có bất sản tuyến ức. Ghép tuyến ức vào giai đoạn sớm của thai (khoảng từ tuần 13 đến tuần 14 của thai kỳ) có thể có tác dụng điều trị. Ghép tuyến ức muộn hơn sẽ gây thải ghép. Ở bệnh nhân mắc hội chứng DiGeorge nặng, ngay cả việc chủng ngừa bằng các vaccine sống giảm độc lực cũng gây nên nhiễm trùng.
+Suy giảm chức năng tế bào T kèm suy giảm chức năng tế bào B
+
+Chứng thất điều - giãn mạch (Ataxia-telangiectasia): Đây là một khiếm khuyết của tế bào T kèm với mất khả năng phối hợp điều hòa các động tác (thất điều) và giãn các mạch máu nhỏ ở mặt (giãn mạch). Số lượng tế bào T cũng như chức năng của chúng suy biến ở các mức độ khác nhau. Số lượng tế bào B và nồng độ IgM có thể bình thường hoặc thấp. Nồng độ IgG thường giảm và IgA giảm đáng kể (trong 70% trường hợp). Những bệnh nhân này có nguy cơ cao mắc bệnh ác tính nhất là bệnh bạch cầu. Nguyên nhân bệnh là do hiện tượng đứt gãy trên nhiễm sắc thể 14.
+Hội chứng Wiskott-Aldrich: Hội chứng này biểu hiện bằng tình trạng suy giảm chức năng tế bào T trong khi số lượng của quần thể tế bào này vẫn ở mức bình thường. Theo thời gian, chức năng của tế bào T càng ngày càng suy giảm nặng hơn. Nồng độ IgM thường giảm trong khi IgG vẫn giữ ở mức bình thường. Cả IgA lẫn IgE đều tăng. Trẻ trai mắc chứng này thường bị bệnh chàm rất nặng và xuất huyết dạng mảng dưới da (do khiếm khuyết số lượng và chức năng tiểu cầu). Trẻ thường rất dễ mắc các nhiễm trùng sinh mủ.
+Khiếm khuyết MHC ('Hội chứng bạch cầu trần: Bare leukocyte syndrome): Hội chứng này biểu hiện bằng một khiếm khuyết phức hợp hòa hợp mô chính (MHC) lớp II trên tế bào trình diện kháng nguyên. Vì sự chọn lọc các tế bào CD4 tại tuyến ức phụ thuộc sự hiện diện của phân tử MHC này do đó bệnh nhân thường có số lượng CD4 giảm và dễ bị nhiễm trùng.
+Rối loạn tế bào lympho B
+
+Chứng giảm gamma – globulin máu liên kết giới tính ở nhũ nhi: còn được gọi là giảm globulin máu Bruton hoặc chứng không có globulin máu, chứng bệnh này là thể nặng nề nhất trong các chứng bệnh gây giảm globulin máu ở người. Lượng tế bào B cũng như nồng độ của tất cả các globulin miễn dịch đều rất thấp. Chẩn đoán dựa trên đếm số lượng tế bào B và định lượng nồng độ các globulin miễm dịch.
+Chứng giảm gammaglobulin máu thoáng qua: Trẻ mới sinh có nồng độ IgG tương đương với nồng độ IgG ở mẹ. Thời gian bán hủy của IgG là 30 ngày do đó nồng độ của chúng sau sinh sẽ giảm đi ở trẻ tuy nhiên vào lúc 3 tháng tuổi trẻ bắt đầu tổng hợp được IgG của riêng mình. Vì một lý do nào đó mà sự tổng hợp này ở một số trẻ chỉ bắt đầu sau 2 đến 3 năm. Nguyên nhân có thể là do tế bào T kém phát huy chức năng hỗ trợ của chúng. Khoảng trống trong quá trình tổng hợp IgG này được điều trị bằng liệu pháp bổ sung gamma-globulin.
+Thiếu hụt IgA: Thiếu hụt IgA là thể suy giảm miễn dịch thường gặp nhất. Khoảng 20% bệnh nhân thiếu hụt IgA cũng có nồng độ IgG thấp. Những bệnh nhân thiếu hụt IgA thường dễ mắc các bệnh nhiễm trùng đường tiêu hóa, mắt và tai mũi họng. Các đối tượng này cũng có nguy cơ cao mắc bệnh tự miễn, các bệnh ác tính hệ lympho. Khoảng 30 đến 40% bệnh nhân có lưu hành kháng thể kháng IgA và những bệnh nhân này không nên điều trị bằng γ-globulin.
+Suy giảm miễn dịch tăng IgM: những bệnh nhân mắc chứng bệnh này có nồng độ IgG và IgA thấp nhưng IgM lại cao một cáhc bất thường. Cơ thể mắc bệnh không thể chuyển sản xuất IgM sang sản xuất các lớp globulin miễn dịch khác nguyên nhân là do khiếm khuyết trên tế bào CD4. Bệnh nhân rất dễ mắc các bệnh nhiễm trùng sinh mủ. Điều trị bằng γ-globulin tĩnh mạch.
+Hội chứng tăng sinh lympho liên kết giới tính: mặc dù khoảng 10% bệnh nhân có biểu hiện chứng giảm gamma globulin bẩm sinh nhưng hầu hết bệnh nhân đều bình thường cho đến khi nhiễm virus Epstein – Barr (EBV). Nhiễm EBV dần dần đưa đến bệnh tăng bạch cầu đơn nhân nhiễm trùng (infectious mononucleosis) rất nặng nề kèm với suy gan, hội chứng tăng sinh tế bào B, thiếu máu bất sản và giảm  gamma globulin máu. Khoảng 75% trẻ chết trước 10 tuổi.
+Nguyên nhân là do bất thường trên chuỗi dài của một nhiễm sắc thể X ở mẹ được truyền cho con trai và trẻ trai này biểu hiện bệnh.
+
+
+=== Hệ miễn dịch không đặc hiệu ===
+Suy giảm miễn dịch không đặc hiệu tiên phát  bao gồm các khiếm khuyết của các tế bào thực bào và tế bào diệt tự nhiên cũng như hệ thống bổ thể.
+Khiếm khuyết hệ thống thực bào
+Khiếm khuyết của các tế bào thực bào về số lượng và/hoặc chức năng có thể làm tăng khả năng nhạy cảm với nhiều nhiễm trùng khác nhau.
+
+Giảm bạch cầu trung tính theo chu kỳ(cyclic neutropenia): Cứ sau thời gian khoảng 3 tuần bình thường thì số lượng bạch cầu trung tính lưu hành trong máu lại giảm thấp trong vòng 1 tuần. Trong thời gian 1 tuần này bệnh nhân dễ mắc nhiễm trùng. Khiếm khuyết này dường như là do rối loạn sự điều hòa trong quá trình tạo bạch cầu trung tính.
+Bệnh tạo u hạt mãn tính (chronic granulomatous disease): được đặc trưng bằng phì đại các hạch bạch huyết và gan lách to. Khả năng tiêu diệt mầm bệnh nội bào của bạch cầu suy giảm. Ở đa số bệnh nhân, khiếm khuyết này là do bất thường ở NADPH oxidase.
+Suy giảm khả năng bám dính bạch cầu: Do bất thường ở các receptor hoặc phân tử integrin nên bạch cầu kém đáp ứng với các tín hiệu hóa ứng động.
+Hội chứng Chediak-Higashi:
+Hội chứng này biểu hiện bằng giảm tốc độ tiêu diệt mầm bệnh nội bào, giảm các hoạt động do hóa ứng động kèm với mất khả năng hòa màng tiêu thể-thực bào. Đôi khi tế bào diệt tự nhiên cũng rối loạn chức năng cũng như bệnh có thể kèm với các bất thường về tiểu cầu và thần kinh.
+Các rối loạn của hệ thống bổ thể:
+Các bất thường hệ thống bổ thể cũng có thể làm tăng nhạy cảm với nhiễm trùng. Có nhiều bất thường di truyền ảnh hưởng đến nhiều thành phần của hệ thống bổ thể làm tăng khả năng mắc bệnh nhiễm trùng. Điển hình nhất và nặng nề nhất là suy giảm C3 do giảm tổng hợp C3 hoặc do suy giảm yếu tố I hoặc yếu tố H.
+
+
+== Suy giảm miễn dịch thứ phát ==
+Suy giảm miễn dịch thứ phát (Secondary immunodeficiency) là sự suy giảm của hệ miễn dịch do các bệnh xảy ra ở một người trước đó khỏe mạnh bình thường. Tình trạng suy giảm này có thể được phục hồi nếu tình trạng bệnh hoặc nguyên nhân gây suy giảm miễn dịch được giải quyết. Suy giảm miễn dịch thứ phát thường gặp hơn suy giảm miễn dịch tiên phát và thường xảy ra ở bệnh nhân nằm viện. Gần như hầu hết các bệnh lý nặng và kéo dài đều có thể gây xáo trộn hệ thống miễn dịch ở một mức độ nào đó.
+Suy giảm miễn dịch liên quan đến nhiễm trùng
+Các nhiễm trùng do vi khuẩn, virus, động vật nguyên sinh, giun sán và nấm có thể gây nên những bất thường của tế bào T, tế bào B, bạch cầu trung tính và đại thực bào. Điển hình nhất trong nhóm bệnh này là Hội chứng suy giảm miễn dịch mắc phải (AIDS). Các suy giảm miễn dịch thứ phát cũng thường thấy trong những bệnh lý ác tính.
+Bất thường miễn dịch trong AIDS
+Bất thường tế bào lympho: giảm số lượng tế bào T hỗ trợ (CD4) và hậu quả của nó là đảo ngược tỉ suất CD4+/CD8+. Số lượng tế bào diệt tự nhiên (NK) bình thường nhưng chức năng suy giảm.
+Bất thường chức năng: Bệnh nhân AIDS tăng cao nguy cơ mắc các nhiễm trùng cơ hội như Pneumocystis carinii, Toxoplasma gondii, Cryptococcus neoformans, herpes simplex, herpes zoster, cytomegalovirus, Mycobacterium avium-intracellular... Những bệnh nhân này cũng có nguy cơ cao mắc bệnh ác tính như sarcoma Kaposi. Đáp ứng quá mẫn muộn (delayed hypersensitivity response) đối với các kháng nguyên thông thương như uốn ván, bạch hầu, kháng nguyên liên cầu khuẩn, tuberculin, kháng nguyên Candida, trichophyton… cũng giảm sút ở bệnh nhân AIDS.
+Suy giảm miễn dịch liên quan đến quá trình lão hóa
+Các rối loạn này bao gồm suy biến dần vỏ tuyến ức, giảm số lượng tế bào và kích thước tuyến ức, giảm chức năng các tế bào ức chế do đó tăng cao nguy cơ tự hoạt hóa, giảm chức năng tế bào CD4. Ngược lại, chức năng tế bào B ở một mức độ nào đó lại tăng lên.
+Suy giảm miễn dịch liên quan đến các bệnh lý ác tính và các bệnh khác
+Suy giảm tế bào B thường gặp trong bệnh đa u tủy (multiple myeloma), chứng macroglobin máu Waldenstrom, bệnh bạch cầu kinh dòng lympho và các lymphoma biệt hóa tốt. Bệnh Hodgkin và các khối u đặc tiến triển cũng làm giảm chức năng tế bào T. Tất cả các tác nhân hóa trị liệu dùng trong điều trị ung thư đều có tác dụng phụ ức chế miễn dịch.
+Một số bệnh lý khác có thể gây nên suy giảm miễn dịch có thể nêu tên như bệnh thiếu máu hồng cầu hình liềm, đái tháo đường, suy dinh dưỡng protein năng lượng, bỏng, xơ gan do rượu, viêm khớp dạng thấp, suy giảm chức năng thận…
+
+
+== Xem thêm ==
+Viêm
+Hệ miễn dịch
+Cơ chế độc lực của vi khuẩn
+AIDS
+Bạch cầu
+
+
+== Tham khảo ==
+Ghaffar A. Immunodeficiency. Microbiology and Immunology online. University of South Carolina. [1].
+Health Information & Media. Primary Immunodeficiency [2] Lưu trữ 2006-06-19 tại Wayback Machine.
+Merk Group. Primary And Secondary Immunodeficiencies. The Merk manual of diagnosis and therapy [3].
+
+
+== Tham khảo ==

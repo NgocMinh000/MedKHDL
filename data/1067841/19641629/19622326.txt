@@ -1,0 +1,46 @@
+BBIBP-CorV, còn được gọi là vắc-xin COVID-19 Sinopharm ,vắc-xin BIBP, Verocell hay Hayat-Vax (tên thương mại của phiên bản sản xuất tại UAE) là một trong hai loại vắc-xin COVID-19 dùng virus bất hoạt được công ty Sinopharm của Viện sản phẩm sinh học Bắc Kinh (đôi khi được viết là Beijing Bio-Institute of Biological Products) phát triển, dẫn đến hai từ viết tắt khác nhau là BBIBP và BIBP cho cùng một loại vắc-xin). Nó đã hoàn thành thử nghiệm giai đoạn III ở Argentina, Bahrain, Ai Cập, Morocco, Pakistan, Peru và Các Tiểu vương quốc Ả Rập Thống nhất (UAE) với hơn 60.000 người tham gia. BBIBP-CorV chia sẻ công nghệ tương tự với CoronaVac và Covaxin, chúng đều là các vắc xin vi rút bất hoạt cho COVID-19. Tên sản phẩm của nó là SARS-CoV-2 Vaccine (Vero Cell), và có tên tương tự với sản phẩm tương tự của CoronaVac.
+Kết quả đánh giá ngang hàng được công bố trong với các thử nghiệm thuộc Giai đoạn III của JAMA ở Các Tiểu vương quốc Ả Rập Thống nhất và Bahrain cho thấy BBIBP-CorV có hiệu quả 78,1% đối với các trường hợp có triệu chứng và 100% đối với các trường hợp nghiêm trọng (21 trường hợp ở nhóm tiêm chủng so với 95 trường hợp ở nhóm giả dược). Vào tháng 12 năm 2020, UAE đã công bố kết quả tạm thời cho thấy hiệu quả 86%.
+Trong khi các loại vắc xin mRNA như vắc xin COVID-19 của Pfizer – BioNTech và vắc-xin COVID-19 của Moderna cho thấy hiệu quả cao hơn trên 90%, thì những loại vắc xin trên lại gây ra những thách thức về phân phối đối với một số quốc gia khi yêu cầu các phương tiện và xe tải đông lạnh sâu. Vắc xin BBIBP-CorV có thể được vận chuyển và bảo quản ở nhiệt độ lạnh thông thường.
+BBIBP-CorV đang được sử dụng trong các chiến dịch tiêm chủng của một số quốc gia ở Châu Á, Châu Phi, Nam Mỹ, và Châu Âu. Sinopharm dự kiến sẽ sản xuất một tỷ liều BBIBP-CorV vào năm 2021. Đến tháng 5 năm 2021, Sinopharm đã cung cấp 200 triệu liều vắc xin này.
+Vào ngày 7 tháng 5 năm 2021, Tổ chức Y tế Thế giới đã phê duyệt vắc xin này được sử dụng trong chương trình COVAX. Sinopharm đã ký thỏa thuận cung cấp 170 triệu liều BBIBP-CorV cho COVAX.
+Loại vắc-xin vi rút bất hoạt khác do Sinopharm phát triển là WIBP-CorV.
+
+
+== Sử dụng trong y tế ==
+Vắc xin này được đưa vào cơ thể bằng cách tiêm bắp vào cơ delta. Liệu trình ban đầu bao gồm hai liều, và không có bằng chứng nào cho thấy cần dùng liều tăng cường thứ ba. Tổ chức Y tế Thế giới (WHO) khuyến cáo khoảng cách giữa các liều từ 3 đến 4 tuần.
+
+
+=== Hiệu quả ===
+Thực tế phân tích xét nghiệm âm tính ở Bahrain (dựa trên 14 ngày sau liều thứ 2) chỉ ra hiệu quả của vắc xin này là 90% cho người lớn tuổi từ 18 đến 59, và 91% (87–94%) cho những người 60 tuổi trở lên. Trong khi tin tưởng vào hiệu quả tổng thể của nó, các chuyên gia của WHO bày tỏ sự tin tưởng rất thấp về tính an toàn của BBIBP-CorV đối với những người mắc bệnh nền, phụ nữ mang thai và người cao tuổi vì họ không có đại diện trong các nghiên cứu trên.
+Vào tháng 4 năm 2021, một nghiên cứu của Trung tâm Y tế Công cộng Abu Dhabi cho thấy vắc-xin này có hiệu quả 93% trong việc ngăn ngừa nhập viện và 95% hiệu quả trong việc nhập viện chăm sóc đặc biệt. Nghiên cứu không tìm thấy trường hợp tử vong nào liên quan đến COVID-19 ở những bệnh nhân dùng cả hai liều vắc xin này. Không biết có bao nhiêu người được thử nghiệm vắc xin trong nghiên cứu này.
+Vào ngày 1 tháng 7, Bộ Y tế Argentina cho biết loại vắc-xin này đã làm giảm 62% số ca tử vong sau liều đầu tiên và 84% sau liều thứ hai.
+Vào ngày 22 tháng 7, Viện Y tế Quốc gia Peru đã báo cáo rằng vắc-xin này đã làm giảm tỷ lệ tử vong tới 94% sau khi phân tích dữ liệu từ 361.000 người.
+Vào ngày 29 tháng 7, kết quả sơ bộ từ một nghiên cứu không ngẫu nhiên chỉ ra rằng mức độ kháng thể có thể đo lường giảm theo độ tuổi tăng dần, từ khoảng 90% đối với những người dưới 50 tuổi xuống còn 50% đối với độ tuổi trên 80, cho thấy sự giảm hiệu quả ở những nhóm tuổi này.
+Vào ngày 24 tháng 8, kết quả sơ bộ từ một nghiên cứu không ngẫu nhiên trên 1.003.960 triệu người ở Bahrain, trong đó 569.054 người đã được tiêm vắc xin BIBP, cho thấy rằng vắc xin này tiếp tục làm giảm nhiễm trùng, nhập viện và tử vong khi biến thể Delta trở nên chiếm ưu thế, mặc dù không hiệu quả tốt như các vắc xin Pfizer – BioNTech, Oxford – AstraZeneca và Sputnik V.
+Vào tháng 5 năm 2021, kết quả được đánh giá ngang hàng được công bố trong JAMA của các thử nghiệm giai đoạn III ở Các Tiểu vương quốc Ả Rập Thống nhất và Bahrain cho thấy BBIBP-CorV 74% hiệu quả (61-82%) đối với các trường hợp bao gồm cả nhiễm trùng không có triệu chứng và có triệu chứng, 78% hiệu quả (65-86%) đối với các trường hợp có triệu chứng và gần 100% đối với các trường hợp nặng (0 trường hợp ở nhóm tiêm chủng, 2 trường hợp ở nhóm giả dược). 12.726 người đã được tiêm vắc-xin và 12.737 người được tiêm giả dược trong các thử nghiệm này.
+Vào tháng 12 năm 2020, Bộ Y tế và Phòng ngừa của UAE trước đây đã công bố phân tích tạm thời cho thấy BBIBP-CorV có hiệu quả 86% đối với nhiễm COVID-19 và gần 100% trong việc ngăn ngừa các trường hợp vừa và nặng.
+Vào ngày 1 tháng 7 năm 2021, sáu trong số 71 trường hợp tử vong do COVID-19 ở Seychelles là những người được tiêm chủng đầy đủ. Chỉ một trong sáu người này được tiêm vắc xin BBIBP-CorV đầy đủ, 5 người còn lại đã được tiêm vắc xin AstraZeneca đầy đủ, vốn chủ yếu dành cho những người từ 60 tuổi trở lên.
+
+
+==== Các biến thể ====
+Vào tháng 2 2021, các nghiên cứu trong phòng thí nghiệm trên mười hai mẫu huyết thanh được lấy từ những người nhận BBBP-CorV và ZF2001 vẫn giữ được hoạt tính trung hòa chống lại biến thể Beta mặc dù có hoạt tính yếu hơn so với chống lại chủng virus ban đầu. Đối với BBIBP-CorV, hiệu giá trung bình hình học giảm 1,6 lần, từ 110,9 xuống 70,9, thấp hơn kháng huyết thanh từ những người nhận vắc xin mRNA với mức giảm 6 lần. Dữ liệu lâm sàng sơ bộ từ Novavax và Johnson & Johnson cũng cho thấy chúng kém hiệu quả hơn trong việc ngăn ngừa COVID-19 ở Nam Phi, nơi biến thể mới đang phổ biến.
+Vào tháng 6, một nghiên cứu trước khi in với 282 người tiêm vắc xin này ở Sri Lanka cho thấy:
+
+95% được chuyển đổi huyết thanh sau 2 liều, một tỷ lệ tương tự được thấy trong nhiễm trùng tự nhiên, với chuyển đổi huyết thanh thấp hơn đáng kể ở người> 60 tuổi (93%) so với 20-39 tuổi (99%)
+81% có kháng thể ngăn chặn thụ thể ACE2 có khả năng tự nhiên hóa vi rút sau 6 tuần, với hiệu giá kháng thể ở mức độ cũng tương tự như nhiễm trùng tự nhiên
+mức độ kháng thể chống lại các biến thể Delta và Beta ở mức tương tự được thấy trong nhiễm trùng tự nhiên, mặc dù thấp hơn nhiều so với biến thể Alpha
+hiệu giá kháng thể chống lại Delta giảm 1,38 lần so với dòng ban đầu, ngược lại với mức giảm 10 lần đối với Beta
+vắc-xin cũng gây ra phản ứng của tế bào T và tế bào B trí nhớ, mặc dù ở cường độ thấp hơn so với một số vắc-xin khác
+
+
+== Sản xuất ==
+Do là một loại vắc xin bất hoạt như CoronaVac và Covaxin, BBIBP-CorV sử dụng một công nghệ truyền thống hơn tương tự như vắc xin bại liệt bất hoạt. Ban đầu, một mẫu SARS-CoV-2 chủng 19nCoV-CDC-Tan-HB02 (HB02) từ Trung Quốc có khả năng nhân lên nhanh đã được chọn. Sau đó, nó được sử dụng để sinh sôi một lượng lớn virus bằng cách sử dụng tế bào vero. Từ đó trở đi, virus được ngâm trong beta-propiolactone, chất này sẽ vô hiệu hóa chúng bằng cách liên kết với gen của chúng, trong khi vẫn giữ nguyên các phần tử virus khác. Sau đó, các vi rút bị bất hoạt được trộn với tá dược nhôm hydroxit.
+Chủ tịch Yang Xioyun của Sinopharm cho biết công ty có thể sản xuất một tỷ liều vắc xin này vào năm 2021.
+Vào tháng 3 năm 2021, Sinopharm và Abu Dhabi G42 đã công bố kế hoạch sản xuất tới 200 triệu liều vắc xin này hàng năm ở UAE tại một nhà máy mới sẽ đi vào hoạt động vào năm 2021. Vắc xin sản xuất tại UAE sẽ có nhãn hiệu Hayat-Vax.
+Vào tháng 12 năm 2020, Ai Cập đã công bố một thỏa thuận giữa Sinopharm và VACSERA của Ai Cập để vắc xin này được sản xuất tại Ai Cập.
+Vào tháng 3 năm 2021, Serbia công bố kế hoạch sản xuất 24 triệu liều vắc xin BBIBP-CorV hàng năm bắt đầu từ tháng 10.
+Vào tháng 4 năm 2021, Bangladesh đã phê duyệt sản xuất BBIBP-CorV tại nước này.
+Vào tháng 7 năm 2021, công ty Société Thérapeutique Marocaine của Maroc tuyên bố họ sẽ sản xuất 5 triệu liều vắc xin này mỗi tháng.
+
+
+== Tham khảo ==

@@ -1,0 +1,274 @@
+Trong lý thuyết điều khiển tự động, một bộ điều khiển là một thiết bị giám sát và tác động vào các điều kiện làm việc của một hệ động học cho trước. Các điều kiện làm việc đặc trưng cho các biến đầu ra của hệ thống mà có thể được tác động bởi việc điều chỉnh các biến đầu vào đã biết. Ví dụ, hệ thống lò sưởi của một ngôi nhà có thể được trang bị với 1 bộ điều nhiệt (bộ điều khiển) để cảm biến nhiệt độ không khí (biến đầu ra), có thể bật hoặc tắt lò nung hoặc bộ gia nhiệt khi nhiệt độ không khí quá thấp hoặc quá cao. 
+Trong ví dụ này, bộ điều nhiệt là bộ điều khiển và điều khiển hoạt động của bộ gia nhiệt. Bộ gia nhiệt là bộ xử lý giúp làm nóng không khí bên trong ngôi nhà tới nhiệt độ mong muốn (điểm đặt). Nhiệt độ không khí đo được bên trong ngôi nhà là tín hiệu phản hồi. Và cuối cùng, ngôi nhà là môi trường mà hệ thống lò sưởi làm việc. 
+Khái niệm bộ điều khiển còn có thể mở rộng cho nhiều hệ thống phức tạp khác. Trong thế giới tự nhiên, mỗi cá thể sinh vật cũng có thể được trang bị các bộ điều khiển để đảm bảo sự cân bằng nội cần thiết cho sự sinh tồn của sinh vật. Cả hai hệ thống nhân tạo và tự nhiên đều biểu hiện tập hợp các hành vi giữa các cá thể trong đó các bộ điều khiển cố gắng đạt đến các trạng thái cân bằng nào đó.
+
+
+== Các dạng điều khiển ==
+Trong lý thuyết điều khiển tự động có hai dạng điều khiển cơ bản. Đó là vòng hở và phản hồi. Đầu vào của một bộ điều khiển phản hồi giống với thứ mà nó cố gắng điều khiển – biến điều khiển được phản hồi vào bộ điều khiển. Bộ điều nhiệt của một ngôi nhà là một ví dụ của 1 bộ điều khiển phản hồi. Bộ điều khiển này dựa vào việc đo lường các biến điều khiển, trong trường hợp này là nhiệt độ ngôi nhà, và sau đó điều chỉnh đầu ra, qua việc đóng hoặc mở bộ gia nhiệt. Tuy nhiên, điều khiển phản hồi thường cho kết quả trong các giai đoạn trung gian nơi các biến điều khiển không ở điểm đặt mong muốn. Với ví dụ về bộ điều nhiệt, nếu cánh cửa của ngôi nhà được mở trong ngày lanh, ngôi nhà sẽ lạnh dần. Nếu nhiệt độ xuống dưới nhiệt độ mong muốn (điểm đặt), bộ gia nhiệt sẽ được mở, nhưng sẽ cần một khoảng thời gian khi ngôi nhà lạnh hơn nhiệt độ mong muốn.
+Điều khiển vòng hở có thể tránh được sự chậm chạp của điều khiển phản hồi. Với điều khiển vòng hở, các nhiễu được đo lường và tính toán trước khi chúng có thời gian để tác động vào hệ thống. Trong ví dụ về ngôi nhà, một hệ thống vòng hở có thể biết được cánh cửa thực tế được mở và tự động mở bộ gia nhiệt trước khi ngôi nhà quá lạnh. Sự khác biệt với điều khiển vòng hở là tác động của nhiễu lên hệ thống phải được dự đoán chính xác, và không được có bất kỳ nhiễu nào không đo lường được. Ví dụ, nếu một cửa sổ được mở thì không đo lường được, bộ điều nhiệt điều khiển vòng hở có thể vẫn tiếp tục để ngôi nhà lạnh đi.
+Để đạt được hiệu quả như điều khiển phản hồi (điều khiển nhiễu không xác định và không cần biết chính xác phương thức hệ thống phản ứng với nhiễu thế nào) "và" hiệu quả của điều khiển vòng hở (phản ứng với nhiễu trước khi chúng có thể tác động tới hệ thống), có thể liên kết giữa điều khiển hồi tiếp và vòng hở với nhau.
+Vài ví dụ về việc kết hợp điều khiển vòng hở và hồi tiếp với nhau là bù thời gian chết, và bù đáp ứng ngược. Bù thời gian chết được dùng để điều khiển các thiết bị mà cần nhiều thời gian để hiển thị bất kỳ thay đổi nào ở đầu vào, ví dụ, thay đổi ở phần dòng chảy qua một ống dài. Bù một điều khiển bù thời gian chết sử dụng một yếu tố (còn gọi là một biến độc lập Smith) để dự đoán thay đổi hiện tại bởi bộ điều khiển sẽ tác động tới biến điều khiển trong tương lai. Biến điều khiển cũng được đo lường và sử dụng trong điều khiển phản hồi. Bù đáp ứng ngược bao gồm các hệ thống điều khiển mà một thay đổi sẽ tác động trước hết tới biến đo lường theo một cách nhưng sau đó sẽ tác động tới nó theo cách ngược lại. Một ví dụ là việc ăn kẹo. Trước tiên kẹo sẽ cung cấp cho bạn năng lượng, nhưng sau đó bạn sẽ rất mệt. Cũng có thể tưởng tượng rằng, rất khó để điều khiển hệ thống này với chỉ một mình điều khiển phản hồi, do đó một phần tử điều khiển vòng hở dự đoán được là cần thiết để dự đoán tác dụng ngược mà một thay đổi sẽ có trong tương lai.
+
+
+== Các loại bộ điều khiển ==
+Hầu hết các hệ thống điều khiển van trong quá khứ được thực hiện bằng cách sử dụng các hệ thống cơ khí hoặc bán dẫn. Khí nén được thường xuyên cài đặt cho việc truyền thông tin và điều khiển sử dụng áp lực. Tuy nhiên, các hệ thống điều khiển hiện đại nhất trong công nghiệp hiện nay lại dựa vào máy tính để điều khiển. Rõ ràng sẽ dễ dàng hơn để thực hiện các thuật toán điều khiển phức tạp trên máy tính hơn là sử dụng hệ thống cơ khí.
+Có vài loại đơn giản của bộ điều khiển hồi tiếp. Loại đơn giản nhất, giống như bộ điều nhiệt chỉ việc bật bộ gia nhiệt lên khi nhiệt độ xuống dưới giá trị cho trước và tắt nếu nó vướt quá giá trị đó (điều khiển on-off).
+Một loại bộ điều khiển đơn giản khác là một bộ điều khiển tỉ lệ. Với bộ điều loại này, đầu ra bộ điều khiển (tác động điều khiển) tỉ lệ với sai số của biến đo lường.
+Trong điều khiển phản hồi, sai số được định nghĩa là hiệu số giữa giá trị mong muốn (điểm đặt) 
+  
+    
+      
+        
+          y
+          
+            s
+          
+        
+      
+    
+    {\displaystyle y_{s}}
+  
+ và giá trị hiện tại (đo lường) 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+. Nếu sai số lớn, thì tác động điều khiển lớn. Ta có:
+
+  
+    
+      
+        u
+        (
+        t
+        )
+        =
+        
+          K
+          
+            c
+          
+        
+        ∗
+        e
+        (
+        t
+        )
+        +
+        
+          u
+          
+            0
+          
+        
+      
+    
+    {\displaystyle u(t)=K_{c}*e(t)+u_{0}}
+  
+
+Trong đó
+
+  
+    
+      
+        u
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)}
+  
+ miêu tả tác động điều khiển (đầu ra bộ điều khiển),
+
+  
+    
+      
+        e
+        (
+        t
+        )
+        =
+        
+          y
+          
+            s
+          
+        
+        (
+        t
+        )
+        −
+        y
+        (
+        t
+        )
+      
+    
+    {\displaystyle e(t)=y_{s}(t)-y(t)}
+  
+ miêu tả sai số,
+
+  
+    
+      
+        
+          K
+          
+            c
+          
+        
+      
+    
+    {\displaystyle K_{c}}
+  
+ miêu tả độ lợi của bộ điều khiển, và
+
+  
+    
+      
+        
+          u
+          
+            o
+          
+        
+      
+    
+    {\displaystyle u_{o}}
+  
+ miêu tả trạng thái ổn định của tác động điều khiển (độ lệch) cần thiết để duy trì biến số ở trạng thái ổn định khi không có sai số.
+Điều quan trọng là tác động điều khiển 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ chống lại các thay đổi trong biến điều khiển 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ (phản hồi âm). Có hai trường hợp phụ thuộc vào tín hiệu của độ lơi quá trình.
+Trường hợp thứ nhất, độ lợi quá trình là dương, vì vậy việc tăng biến điều khiển (đo lường) 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ yêu cầu cần giảm tác động điều khiển 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ (điều khiển ngược hướng tác động). Trong trường hợp này, độ lợi bộ điều khiển 
+  
+    
+      
+        
+          K
+          
+            c
+          
+        
+      
+    
+    {\displaystyle K_{c}}
+  
+ là dương, bởi vì định nghĩa tiêu chuẩn của sai số đã bao gồm một dấu '–' trong 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+.
+Trong trường hợp thứ hai độ lợi quá trình là âm, vì ứng với biến điều khiển tăng một đơn vị (đo lường) 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ thì yêu cầu tác đọng điều khiển cũng tăng một đơn vị 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ (điều khiển theo hướng tác động). Trong trường hợp này độ lợi bộ điều khiển  
+  
+    
+      
+        
+          K
+          
+            c
+          
+        
+      
+    
+    {\displaystyle K_{c}}
+  
+ là âm.
+Một ví dụ điển hình của hệ thống ngược hướng tác động là điều khiển nhiệt độ (
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+) bằng cách sử dụng hơi nước (
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+). Trong trường hợp này độ lợi quá trình là dương, vì vậy nếu nhiệt độ tăng, lưu lượng hơi nước phải được tăng để duy trì nhiệt độ mong muốn. Ngược lại, một ví dụ điển hình của hệ thống theo hướng tác động là điều khiển nhiệt độ sử dụng nước làm mát. Trong trường hợp này độ lợi quá trình là âm, vì vậy nếu nhiệt độ tăng, lưu lượng nước làm mát phải được tăng để duy trì nhiệt độ mong muốn.
+Mặc dù điều khiển tỉ lệ rất dễ hiểu, nó lại có nhiều hạn chế. Vấn đề lớn nhất là trong hầu hết các hệ thống nó sẽ không bao giờ khử bỏ hết được sai số. Điều này là bởi vì khi sai số là 0, bộ điều khiển chỉ cung cấp các tác động điều khiển trạng thái ổn định vì vậy hệ thống sẽ xác lập trở lại trạng thái ổn định ban đầu (nó có lẽ không phải là điểm đặt mới mà chúng ta muốn hệ thống đạt được). Để hệ thống làm việc gần trạng thái ổn định mới, độ lợi bộ điều khiển, Kc, phải rất lớn để bộ điều khiển tạo ra đầu ra theo yêu cầu khi chỉ có một sai số rất nhỏ xuất hiện. Độ lợi lớn có thể dẫn đến hệ thống mất ổn định hoặc có thể làm phần cứng không thể thực hiện được giống như van lớn vô tận vậy.
+Cùng với điều khiển tỉ lệ là điều khiển tỉ lệ-tích phân (PI) và điều khiển vi tích phân tỉ lệ (PID). Điều khiển PID được sử dụng phổ biến để thực hiện điều khiển vòng lặp.
+điều khiển vòng hở có thể được sử dụng trong các hệ thống được mô tả rõ ràng để tiên đoán được đầu ra nào sẽ cần thiết để đạt được trạng thái mong muốn. Ví dụ, vận tốc quay của một động cơ điện có thể được mô tả đủ tốt cho việc cung cấp điện áp làm cho việc điều khiển phản hồi là không cần thiết.
+Hạn chế của điều khiển vòng hở là yêu cầu kiến thức về hệ thống phải rất hoàn hảo (tức là nó phải biết chính xác đầu vào là gì để đạt được đầu ra mong muốn), và phải giả thiết rằng không có bất kỳ nhiễu nào trong hệ thống.
+
+
+== Xem thêm ==
+Tự động hóa
+BELBIC
+CoDeSys
+Lý thuyết điều khiển tự động
+Bộ điều khiển PID
+Điều khiển quá trình
+EICASLAB
+
+
+== Tham khảo ==

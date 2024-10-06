@@ -1,0 +1,6 @@
+GISAID là một sáng kiến khoa học toàn cầu và là nguồn lưu trữ thông tin chính được thành lập vào năm 2008 cung cấp khả năng truy cập mở vào dữ liệu bộ gen của virus cúm và coronavirus gây ra đại dịch COVID-19. Vào ngày 10 tháng 1 năm 2020, trình tự toàn bộ bộ gen đầu tiên của SARS-CoV-2 đã được GISAID cung cấp, cho phép toàn cầu có phản ứng đối với đại dịch, bao gồm cả việc phát triển các loại vắc xin đầu tiên và các xét nghiệm chẩn đoán để phát hiện SARS-CoV-2. GISAID tạo điều kiện thuận lợi cho dịch tễ học nghiên cứu gen và giám sát theo thời gian thực việc theo dõi sự xuất hiện của các chủng virus COVID-19 mới trên toàn cầu.
+Kể từ khi được thành lập như một giải pháp thay thế cho việc chia sẻ dữ liệu cúm gia cầm thông qua các kho lưu trữ dùng tên miền công cộng thông thường, GISAID đã được công nhận đã khuyến khích việc trao đổi dữ liệu một cách nhanh chóng về các ổ dịch bùng phát trong đại dịch H1N1 vào năm 2009, đại dịch H7N9 vào năm 2013, và đại dịch COVID-19 vào năm 2020.
+GISAID đã được các bộ trưởng y tế nhóm G20 công nhận về tầm quan trọng đối với sức khỏe toàn cầu và vào năm 2020, nhà khoa học trưởng của Tổ chức Y tế Thế giới gọi sáng kiến khoa học dữ liệu này là "một nhân tố thay đổi cuộc chơi".
+
+
+== Tham khảo ==

@@ -1,0 +1,31 @@
+Độ bão hòa oxy là tỷ số hemoglobin bão hòa oxy so với tổng số hemoglobin (cả không bão hòa và bão hòa) trong máu. Cơ thể con người điều chỉnh sự cân bằng oxy trong máu rất chính xác và cụ thể. Mức độ bão hòa oxy trong máu động mạch bình thường ở người là từ 95 đến 100 %. Nếu mức độ dưới 90 % thì coi là thấp, bệnh nhân bị hạ oxy máu. Nồng độ oxy trong máu động mạch dưới 80 % chức năng của các cơ quan (chẳng hạn như não và tim) bị đình trệ, bệnh nhân  cần được cấp cứu kịp thời. Nồng độ oxy thấp liên tục có thể dẫn đến ngừng hô hấp hoặc ngừng tim. Liệu pháp oxy được sử dụng để hỗ trợ nâng cao nồng độ oxy trong máu. Quá trình oxygen hóa (khác với oxy hóa) xảy ra khi các phân tử oxy O2 đi vào các mô của cơ thể. Ví dụ, máu nhân oxy ở phổi (phân tử oxy đi từ không khí khuếch tán vào máu).
+
+
+== Định nghĩa ==
+
+Trong y học, độ bão hòa oxy là phần trăm hemoglobin trong máu liên kết với oxy. Khi áp suất riêng phần oxy thấp, hầu hết hemoglobin bị khử oxy. Vào khoảng 90% (giá trị thay đổi tùy theo bệnh cảnh lâm sàng) độ bão hòa oxy tăng theo đường cong phân ly oxy-hemoglobin và đạt tới 100% ở áp suất oxy riêng phần> 11 kPa. Máy đo oxy xung dựa vào đặc điểm hấp thụ ánh sáng của hemoglobin bão hòa để cho kết quả độ bão hòa oxy.
+
+
+== Sinh lý học ==
+Cơ thể duy trì mức độ bão hòa oxy ổn định phần lớn nhờ các quá trình hóa học của quá trình chuyển hóa hiếu khí (hô hấp tế bào) liên quan đến hô hấp. Nhờ có hệ hô hấp, các tế bào hồng cầu (đặc biệt là hemoglobin) tập hợp oxy trong phổi và vận chuyển, phân phối oxy cho khắp cơ thể. Nhu cầu oxy trong máu của cơ thể có thể dao động, chẳng hạn khi tập thể dục hoặc khi sống ở cao nguyên thì cần nhiều oxy hơn. Một tế bào máu được cho là "bão hòa" khi mang một lượng oxy bình thường. Tăng oxy huyết và hạ oxy huyết đều có thể gây ảnh hưởng xấu đến cơ thể.
+
+
+== Đo đạc ==
+Giá trị SaO2 (độ bão hòa oxy động mạch, được xác định bằng xét nghiệm khí máu động mạch) dưới 90% cho thấy tình trạng hạ oxy máu (cũng có thể do thiếu máu). Giảm oxy máu do SaO2 thấp được có biểu hiện da xanh, niêm mạc nhợt. Độ bão hòa oxy có thể được đo trong các mô khác nhau:
+
+
+== Đo oxy xung ==
+
+Đo oxy xung là một phương pháp được sử dụng để ước tính phần trăm oxy liên kết với hemoglobin trong máu. Giá trị gần đúng với SaO2 được ký hiệu là SpO2 (độ bão hòa oxy máu ngoại vi). Máy đo oxy theo nhịp bao gồm một thiết bị nhỏ kẹp vào cơ thể (thường là ngón tay, dái tai hoặc bàn chân của trẻ sơ sinh) và chuyển các kết quả của nó đến máy đo. Thiết bị sử dụng các diode phát sáng có màu sắc khác nhau kết hợp với cảm biến nhạy sáng để đo sự hấp thụ ánh sáng đỏ và hồng ngoại ở ngọn chi, dựa trên khác biệt về hấp thụ ánh sáng giữa hemoglobin mang oxy và hemoglobin khử oxy.
+
+
+== Ý nghĩa ==
+Những cá thể khỏe mạnh, sống ngang mực nước biển thường có giá trị độ bão hòa oxy từ 96% đến 99%, và thường trên 94%. Ở độ cao 1.600 mét (khoảng một dặm) độ bão hòa oxy thườn trên 92%.
+Giá trị SpO2 (độ bão hòa oxy động mạch) dưới 90% gây ra tình trạng giảm oxy huyết (cũng có thể do thiếu máu). Tình trạng thiếu oxy do SpO2 thấp được biểu hiện bằng tình trạng da xanh, niêm mạc nhợt, nhưng độ bão hòa oxy không phản ánh trực tiếp quá trình cung cấp oxy ở mô. Ái lực hemoglobin với oxy có thể làm giảm hoặc tăng cường giải phóng oxy ở mô. Oxy được giải phóng dễ dàng hơn đến các mô (tức là hemoglobin có ái lực thấp hơn với oxy) khi pH giảm, nhiệt độ cơ thể tăng, áp suất riêng phần động mạch của carbon dioxide (PaCO2) tăng và 2,3-DPG (một sản phẩm phụ của quá trình chuyển hóa glucose cũng được tìm thấy trong các sản phẩm máu dự trữ) tăng. Khi hemoglobin có ái lực lớn hơn với oxy, thì mô sẽ ít được cung cấp oxy hơn. Các điều kiện như tăng pH, giảm nhiệt độ, giảm PaCO2 và giảm 2,3-DPG sẽ làm tăng liên kết oxy với hemoglobin và hạn chế giải phóng oxy vào mô.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Biểu đồ bão hòa hemoglobin (tương tác được)

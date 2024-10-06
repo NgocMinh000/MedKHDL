@@ -1,0 +1,13 @@
+Lipoprotein mật độ cao (high density lipoprotein - HDL) là một trong năm nhóm chính của lipoprotein. Lipoprotein là các hạt phức tạp bao gồm nhiều protein vận chuyển tất cả các phân tử chất béo (lipid) xung quanh cơ thể trong nước bên ngoài các tế bào. Chúng thường bao gồm 80-100 protein trên mỗi hạt (được tổ chức bởi một, hai hoặc ba ApoA; nhiều hơn khi các hạt phóng to thu gom và mang nhiều phân tử chất béo hơn) và vận chuyển tới hàng trăm phân tử chất béo trên mỗi hạt.
+
+
+== Tổng quan ==
+Lipoprotein từ lâu đã được chia thành 5 nhóm nhỏ, theo mật độ hoặc kích thước (mối quan hệ nghịch đảo), cũng tương quan với chức năng và tỷ lệ mắc các biến cố tim mạch. Không giống như các hạt lipoprotein lớn hơn, mà cung cấp các phân tử chất béo cho các tế bào, các hạt HDL loại bỏ các phân tử chất béo khỏi các tế bào cần xuất khẩu các phân tử chất béo. Các lipid được mang theo bao gồm cholesterol, phospholipids và triglyceride, mỗi loại đều khá khác nhau.
+Tăng mật độ của các hạt HDL có liên quan mạnh mẽ với việc giảm tích lũy xơ vữa động mạch trong các thành của động mạch. Điều này rất quan trọng vì cuối cùng xơ vữa động mạch dẫn đến vỡ mảng bám đột ngột, bệnh tim mạch, đột quỵ và các bệnh mạch máu khác. Các hạt HDL đôi khi được gọi là "cholesterol tốt" vì chúng có thể vận chuyển các phân tử chất béo ra khỏi thành động mạch, giảm tích lũy đại thực bào và do đó giúp ngăn ngừa hoặc thậm chí thoái hóa xơ vữa động mạch, nhưng các nghiên cứu đã chỉ ra rằng chuột thiếu HDL vẫn có khả năng vận chuyển cholesterol vào mật, cho thấy có các cơ chế thay thế để loại bỏ cholesterol.
+
+
+== Xét nghiệm ==
+Do chi phí cao để đo trực tiếp các hạt protein HDL và LDL (lipoprotein mật độ thấp), xét nghiệm máu thường được thực hiện đối với giá trị thay thế, HDL-C, tức là cholesterol liên quan đến các hạt ApoA-1 / HDL. Ở những người khỏe mạnh, khoảng 30% cholesterol trong máu, cùng với các chất béo khác, được mang theo HDL. Điều này thường tương phản với lượng cholesterol ước tính được mang trong các hạt lipoprotein mật độ thấp, LDL và được gọi là LDL-C. Các hạt HDL loại bỏ chất béo và cholesterol từ các tế bào, bao gồm cả mảng xơ vữa động mạch và vận chuyển trở lại gan để bài tiết hoặc tái sử dụng; do đó, cholesterol mang trong các hạt HDL (HDL-C) đôi khi được gọi là "cholesterol tốt" (mặc dù giống như cholesterol trong các hạt LDL). Những người có mức HDL-C cao hơn thường có ít vấn đề hơn với các bệnh tim mạch, trong khi những người có mức cholesterol HDL-C thấp (đặc biệt là dưới 40   mg / dL hoặc khoảng 1   mmol / L) có tỷ lệ tăng đối với bệnh tim. Mức HDL tự nhiên cao hơn có tương quan với sức khỏe tim mạch tốt hơn, nhưng có vẻ như việc tăng thêm HDL của một người sẽ cải thiện kết quả chữa bệnh tim mạch.
+
+
+== Tham khảo ==

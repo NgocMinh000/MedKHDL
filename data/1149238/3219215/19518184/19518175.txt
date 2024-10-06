@@ -1,0 +1,21 @@
+Trong học sâu, một mạng thần kinh tích chập (còn gọi là mạng nơ-ron tích chập hay ít phổ biến hơn là mạng thần kinh/nơ-ron chuyển đổi, tiếng Anh: convolutional neural network, viết tắt CNN hay ConvNet) là một lớp của mạng thần kinh sâu (deep neural network), áp dụng phổ biến nhất để phân tích hình ảnh trực quan. Mạng còn được gọi là shift invariant (dịch chuyển bất biến) hay mạng thần kinh nhân tạo không gian bất biến (SIANN), dựa trên kiến trúc trọng số được chia sẻ và các đặc tính đối xứng tịnh tiến (translational symmetry). CNN có nhiều ứng dụng trong thị giác máy tính, hệ thống gợi ý, phân loại hình ảnh, tính toán hình ảnh y tế (điện toán hình ảnh y tế), xử lý ngôn ngữ tự nhiên, và chuỗi thời gian tài chính.
+
+
+== Xem thêm ==
+Attention (học máy)
+Tích chập
+Học sâu
+Xử lý ngôn ngữ tự nhiên
+Neocognitron
+Scale-invariant feature transform
+Time delay neural network
+Vision processing unit
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+CS231n: Convolutional Neural Networks for Visual Recognition — Andrej Karpathy's Đại học Stanford computer science course on CNNs in computer vision
+An Intuitive Explanation of Convolutional Neural Networks — A beginner level introduction to what Convolutional Neural Networks are and how they work
+Convolutional Neural Networks for Image Classification Lưu trữ 2018-01-21 tại Wayback Machine — Literature Survey

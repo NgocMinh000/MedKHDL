@@ -1,0 +1,61 @@
+Ủy ban Quốc tế về Phân loại Virus (ICTV) (tiếng Anh: International Committee on Taxonomy of Viruses) là cơ quan ủy quyền tổ chức phân loại và danh pháp cho virus. ICTV đã phát triển một chương trình phân loại phổ quát cho virus và do đó có các phương tiện để mô tả, đặt tên và phân loại một cách thích hợp với mọi virus ảnh hưởng đến các sinh vật sống. Các thành viên của Ủy ban Quốc tế về Phân loại Virus được coi là chuyên gia về virus học. ICTV được hình thành từ và được quản lý bởi  Văn phòng virus học của Liên đoàn Quốc tế các Hiệp hội Vi sinh học. Công việc chi tiết, chẳng hạn như phân định ranh giới của các loài trong một họ, thường được thực hiện bởi các nhóm nghiên cứu của các chuyên gia trong họ.
+
+
+== Quy tắc phân loại ==
+
+
+=== Loài ===
+Tên loài bao gồm càng ít từ càng tốt nhưng không được chỉ bao gồm tên vật chủ và từ virus. Một tên loài phải cung cấp một nhận dạng thích hợp rõ ràng của loài. Số, chữ cái hoặc kết hợp của chúng có thể được sử dụng làm biểu tượng cho loài, trong đó các số và chữ cái đó đã được sử dụng rộng rãi. Tuy nhiên, số serie, chữ cái hoặc kết hợp mới được chỉ định không được chấp nhận một mình như các biểu tượng loài. Nếu một số hoặc một loạt chữ cái tồn tại, nó có thể được tiếp tục.
+
+
+=== Chi ===
+Một chi virus là một nhóm các loài liên quan có chung một số tính chất quan trọng và thường chỉ khác nhau về phạm vi vật chủ và độc lực. Tên chi phải là một từ kết thúc bằng hậu tố -virus. Sự chấp thuận của một chi mới phải kèm theo sự chấp thuận của một loài điển hình.
+
+
+=== Phân họ ===
+Một phân họ là một nhóm các chi chia sẻ một số đặc điểm phổ biến nhất định. Đơn vị phân loại chỉ được sử dụng khi cần thiết để giải quyết các vấn đề phân cấp phức tạp. Tên phân họ phải là một từ kết thúc bằng hậu tố -virinae.
+
+
+=== Họ ===
+Một họ là một nhóm các chi, cho dù chúng có được tổ chức thành các phân họ thì chúng vẫn chia sẻ một số đặc tính chung. Tên họ phải là một từ duy nhất kết thúc bằng hậu tố -viridae.
+
+
+=== Bộ ===
+Một bộ là một nhóm các họ chia sẻ một số đặc điểm phổ biến. Tên bộ phải là một từ kết thúc bằng hậu tố -virales.
+
+
+== Báo cáo của ICTV ==
+ICTV đã công bố các bản báo cáo về phân loại virus khoảng hai lần mỗi một thập kỷ kể từ năm 1971 (được liệt kê dưới đây trong mục "Các báo cáo"). Báo cáo của ICTV lần thứ chín được công bố vào tháng 12 năm 2011; nội dung hiện có sẵn miễn phí thông qua trang web  của ICTV. Bắt đầu từ năm 2017, báo cáo ICTV thứ mười sẽ được xuất bản trực tuyến trên trang web ICTV và có thể truy cập miễn phí với các chương riêng lẻ được cập nhật trên cơ sở. Phân loại năm 2018 có sẵn trực tuyến, bao gồm bảng tính Excel có thể tải xuống liệt kê tất cả các loài đã được công nhận. 
+
+
+=== Cơ sở dữ liệu ===
+ICTVdb là một cơ sở dữ liệu các loài virus được cô lập, được dự định sẽ đồng hành cùng với cơ sở dữ liệu phân loại ICTV. Sự phát triển của ICTVdB đã được ICTV hỗ trợ từ năm 1991 và ban đầu được dự định để hỗ trợ cho việc nghiên cứu phân loại. Cơ sở dữ liệu phân loại virus dựa chủ yếu vào đặc điểm hóa học, loại gen, sự sao chép axit nucleic, khả năng gây ra bệnh tật, vectơ và phân bố địa lý, trong số các đặc điểm khác.
+
+
+== Lịch sử ==
+Cơ quan Quốc tế về Phân loại Virus là một nhóm được thành lập năm 1966 để chuẩn hóa việc đặt tên virus. Nhóm được đổi tên thành Ủy ban Quốc tế về Phân loại Virus vào năm 1975.
+Năm 1971, ICTV phân loại cho virus gây bệnh ở động vật có xương sống bao gồm 19 chi, 2 họ và thêm 24 nhóm không được phân loại.
+
+
+== Các báo cáo ==
+Viruses, International Committee on Nomenclature of; Wildy, Peter (1971). Classification and nomenclature of viruses. 1st report. Out of print
+Viruses, International Committee on Taxonomy of; Fenner, Frank (1976). Classification and nomenclature of viruses. 2nd report. ISBN 978-3805524186.
+Viruses, International Committee on Taxonomy of; Matthews, Richard Ellis Ford; Section On Virology, International Association of Microbiological Societies (1979). Classification and nomenclature of viruses. 3rd report. ISBN 978-3805505239.
+Ellis, Richard; Matthews, Ford biên tập (1982). Classification and nomenclature of viruses. 4th report. Karger. tr. 199. ISBN 9783805535571.
+Viruses, International Committee on Taxonomy of; Francki, R. I. B (1991). Classification and nomenclature of viruses. 5th report. ISBN 978-3211822869.
+Murphy, Frederik A (1995). Virus taxonomy: classification and nomenclature of viruses. 6th report. ISBN 978-3211825945.
+Viruses, International Committee On Taxonomy Of; Van Regenmortel, M. H. V; Fauquet, C. M; Bishop, D. H. L (2000). Virus taxonomy: classification and nomenclature of viruses. 7th report. ISBN 978-0123702005.
+Fauquet, C.M. biên tập (2005). Virus taxonomy: classification and nomenclature of viruses. 8th report. Elsevier/Academic Press. ISBN 978-0080575483.
+King, Andrew M. Q.; Lefkowitz, Elliot; Adams, Michael J.;  và đồng nghiệp biên tập (2011). Virus taxonomy: classification and nomenclature of viruses. 9th report. Elsevier/Academic Press. tr. 1338. ISBN 9780123846846. Also available online.
+ICTV 10th (online) Report
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Website chính thức
+“History of the ICTVdB” (PDF). Bản gốc (PDF) lưu trữ ngày 7 tháng 9 năm 2006. Truy cập ngày 22 tháng 6 năm 2006.
+Viral Bioinformatics Resource Center
+Gibbs, Adrian J (9 tháng 8 năm 2013). “Viral taxonomy needs a spring clean; its exploration era is over”. Virology. 10: 254. doi:10.1186/1743-422X-10-254. PMC 3751428. PMID 23938184. Abstract: The International Committee on Taxonomy of Viruses has recently changed its approved definition of a viral species, and also discontinued work on its database of virus description

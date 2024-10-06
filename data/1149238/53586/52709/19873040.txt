@@ -1,0 +1,11 @@
+Bảo mật dữ liệu (Data security) hay còn gọi là An ninh dữ liệu có nghĩa là bảo vệ dữ liệu kỹ thuật số (chẳng hạn như dữ liệu nằm trong cơ sở dữ liệu) khỏi các lực phá hoại và khỏi các hành động không mong muốn của người dùng trái phép hoặc các nguy cơ như tấn công mạng hay vi phạm dữ liệu. Bảo mật dữ liệu chính là việc sử dụng các giải pháp để giúp cho những thông tin, dữ liệu của tổ chức, cá nhân tránh khỏi sự đánh cắp từ những kẻ xấu hoặc tin tặc. Bảo mật tốt thông tin dữ liệu giúp người dùng tránh rủi ro và có thể tương tác một cách nhanh chóng và hiệu quả đối với hệ thống dữ liệu được bảo mật an toàn. Đặc tính của bảo mật dữ liệu bao gồm tính bảo mật, tính toàn vẹn, tính chính xác và tính sẵn sàng. Bảo mật dữ liệu còn có ý nghĩa quan trọng đối với vấn đề bảo vệ dữ liệu cá nhân. 
+Các giải pháp bảo mật dựa trên phần mềm mã hóa dữ liệu để bảo vệ dữ liệu khỏi bị đánh cắp. Các biện pháp được bàn đến như việc mã hóa ổ đĩa đề cập đến công nghệ mã hóa mã hóa dữ liệu trên ổ đĩa cứng. Tuy nhiên, chương trình độc hại hoặc tin tặc (hacker) có thể làm hỏng dữ liệu khiến dữ liệu không thể phục hồi được, khiến hệ thống không thể sử dụng được. Các giải pháp bảo mật dựa trên phần cứng ngăn chặn quyền truy cập đọc và ghi vào dữ liệu, cung cấp khả năng bảo vệ nghiêm ngặt chống giả mạo và truy cập trái phép. Bảo mật dựa trên phần cứng hoặc bảo mật máy tính được hỗ trợ cung cấp giải pháp thay thế cho bảo mật máy tính chỉ bằng phần mềm. Mã thông báo bảo mật chẳng hạn như những thiết bị sử dụng PKCS#11 hoặc điện thoại di động có thể an toàn hơn do cần có quyền truy cập thực tế để có thể bị tấn công. Quyền truy cập chỉ được bật khi mã thông báo được kết nối và nhập đúng số nhận dạng cá nhân (PIN). Tuy nhiên, bất kỳ ai có quyền truy cập vật lý vào nó đều có thể sử dụng dongle. Các công nghệ mới hơn về bảo mật dựa trên phần cứng giải quyết vấn đề này bằng cách cung cấp đầy đủ bằng chứng về bảo mật dữ liệu.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Getting Ready for New Data Laws - Local Gov Magazine
+EU General Data Protection Regulation (GDPR) Lưu trữ 2020-03-15 tại Wayback Machine
+Countering ransomware attacks

@@ -1,0 +1,51 @@
+Máy tính lượng tử (còn gọi là siêu máy tính lượng tử) là một thiết bị tính toán sử dụng trực tiếp các hiệu ứng của cơ học lượng tử như tính chồng chập và vướng víu lượng tử để thực hiện các phép toán trên dữ liệu đưa vào. Máy tính lượng tử có phần cứng khác hẳn với máy tính kỹ thuật số dựa trên tranzitor. Trong khi máy tính kỹ thuật số đòi hỏi dữ liệu phải được mã hóa thành các chữ số nhị phân (bit), mà mỗi số được gán cho một trong hai trạng thái  (0 và 1), tính toán lượng tử sử dụng các qubit (bit lượng tử) mà chúng có thể ở trong trạng thái chồng chập lượng tử. Một trong các mô hình lý thuyết về máy tính lượng tử là máy Turing lượng tử hay còn gọi là máy tính lượng tử phổ dụng. Máy tính lượng tử có những đặc điểm lý thuyết chung với máy tính phi tất định (non-deterministic) và máy tính xác suất (probabilistic automaton computers), với khả năng có thể đồng thời ở trong nhiều trạng thái. Lĩnh vực máy tính lượng tử được Yuri Manin nêu ra lần đầu tiên vào năm 1980 và bởi Richard Feynman năm 1982. Máy tính lượng tử sử dụng tính chất spin đại diện cho các bit lượng tử cũng được hình thành khi khái niệm không thời gian lượng tử được đưa ra vào năm 1969.
+Tính đến  năm 2014 tính toán lượng tử vẫn ở giai đoạn sơ khai nhưng đã có nhiều thí nghiệm nhằm thực hiện các phép tính lượng tử trên một số nhỏ các qubit. Cả phương diện thực nghiệm và nghiên cứu lý thuyết đều đang được triển khai, và chính phủ cũng như quân đội nhiều nước đã hỗ trợ cho các hoạt động nghiên cứu máy tính lượng tử ở cả mục đích dân sự và an ninh, như phân tích mã (cryptanalysis).
+Máy tính lượng tử quy mô lớn sẽ có khả năng giải được các vấn đề phức tạp một cách nhanh hơn bất kỳ một máy tính cổ điển sử dụng các thuật toán tốt nhất hiện nay, như thuật toán Shor để phân tích số tự nhiên thành tích các số nguyên tố, hoặc mô phỏng hệ lượng tử nhiều hạt. Cũng có những  thuật toán lượng tử, như thuật toán Simon, cho phép máy tính hoạt động nhanh hơn bất kỳ một máy tính dựa trên thuật toán xác suất cổ điển. Tuy nhiên, khi có đủ thời gian và tài nguyên, máy tính cổ điển có thể thực hiện bất kỳ một thuật toán lượng tử. Tính toán lượng tử không vi phạm Luận đề Church–Turing.
+
+
+== Dẫn chứng ==
+
+
+== Sách ==
+Nielsen, Michael và Chuang, Isaac (2000). Quantum Computation and Quantum Information. Cambridge: Cambridge University Press. ISBN 0-521-63503-9. OCLC 174527496.Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+
+
+=== Tham khảo chung ===
+Derek Abbott, Charles R. Doering, Carlton M. Caves, Daniel M. Lidar, Howard E. Brandt, Alexander R. Hamilton, David K. Ferry, Julio Gea-Banacloche, Sergey M. Bezrukov, and Laszlo B. Kish (2003). “Dreams versus Reality: Plenary Debate Session on Quantum Computing”. Quantum Information Processing. 2 (6): 449–472. arXiv:quant-ph/0310130. doi:10.1023/B:QINP.0000042203.24782.9a. hdl:2027.42/45526.Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+David P. DiVincenzo (2000). "The Physical Implementation of Quantum Computation". Experimental Proposals for Quantum Computation. arXiv:quant-ph/0002077
+David P. DiVincenzo (1995). “Quantum Computation”. Science. 270 (5234): 255–261. Bibcode:1995Sci...270..255D. doi:10.1126/science.270.5234.255. Table 1 lists switching and dephasing times for various systems.
+Richard Feynman (1982). “Simulating physics with computers”. International Journal of Theoretical Physics. 21 (6–7): 467. Bibcode:1982IJTP...21..467F. doi:10.1007/BF02650179.
+Gregg Jaeger (2006). Quantum Information: An Overview. Berlin: Springer. ISBN 0-387-35725-4. OCLC 255569451.
+Stephanie Frank Singer (2005). Linearity, Symmetry, and Prediction in the Hydrogen Atom. New York: Springer. ISBN 0-387-24637-1. OCLC 253709076.
+Giuliano Benenti (2004). Principles of Quantum Computation and Information Volume 1. New Jersey: World Scientific. ISBN 981-238-830-3. OCLC 179950736.
+Sam Lomonaco Four Lectures on Quantum Computing given at Oxford University in July 2006
+C. Adami, N.J. Cerf. (1998). "Quantum computation with linear optics". arXiv:quant-ph/9806048v1.
+Joachim Stolze (2004). Quantum Computing. Dieter Suter. Wiley-VCH. ISBN 3-527-40438-4.
+Ian Mitchell (1998). “Computing Power into the 21st Century: Moore's Law and Beyond”.
+Rolf Landauer (1961). “Irreversibility and heat generation in the computing process” (PDF).
+Gordon E. Moore (1965). Cramming more components onto integrated circuits. Electronics Magazine.
+R.W. Keyes (1988). Miniaturization of electronics and its limits. "IBM Journal of Research and Development".
+M. A. Nielsen. “Complete Quantum Teleportation By Nuclear Magnetic Resonance”. E. Knill,; R. Laflamme.
+Lieven M.K. Vandersypen (2000). Liquid state NMR Quantum Computing. Constantino S. Yannoni,; Isaac L. Chuang.
+Imai Hiroshi (2006). Quantum Computation and Information. Hayashi Masahito. Berlin: Springer. ISBN 3-540-33132-8.
+Andre Berthiaume (1997). “Quantum Computation”.
+Daniel R. Simon (1994). “On the Power of Quantum Computation”. Institute of Electrical and Electronic Engineers Computer Society Press.
+“Seminar Post Quantum Cryptology”. Chair for communication security at the Ruhr-University Bochum. Bản gốc lưu trữ ngày 26 tháng 2 năm 2014. Truy cập ngày 9 tháng 2 năm 2014.
+Laura Sanders (2009). “First programmable quantum computer created”. Bản gốc lưu trữ ngày 25 tháng 9 năm 2012. Truy cập ngày 9 tháng 2 năm 2014.
+“New trends in quantum computation”.
+
+
+== Liên kết ngoài ==
+
+Stanford Encyclopedia of Philosophy: "Quantum Computing" by Amit Hagar.
+Quantiki – Wiki and portal with free-content related to quantum information science.
+Scott Aaronson's blog, which features informative and critical commentary on developments in the field
+Quantum Annealing and Computation: A Brief Documentary Note, A. Ghosh and S. Mukherjee
+Maryland University Laboratory for Physical Sciences Lưu trữ 2019-02-05 tại Wayback Machine: conducts researches for the quantum computer-based project led by the NSA, named 'Penetrating Hard Target'.
+Lectures
+Quantum Mechanics and Quantum Computation — Coursera course by Umesh Vazirani
+Quantum computing for the determined — 22 video lectures by Michael Nielsen
+Video Lectures by David Deutsch
+Lectures at the Institut Henri Poincaré (slides and videos)
+Online lecture on An Introduction to Quantum Computing, Edward Gerjuoy (2008)
+Quantum Computing research by Mikko Möttönen at Aalto University (video) trên YouTube

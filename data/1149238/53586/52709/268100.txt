@@ -1,0 +1,22 @@
+Hệ thống chú thích phân bổ (DAS) được sử dụng trong lĩnh vực Tin sinh học để chia sẻ và đối chiếu thông tin chú giải về bộ gen. Nó là một dự án mã nguồn mở.
+Theo trang web biodas.org Lưu trữ 2009-01-05 tại Wayback Machine:
+
+Hệ thống chú thích phân bổ (DAS) là một hệ thống máy khách-máy chủ trong đó máy khách đơn được tích hợp thông tin từ nhiều máy chủ liên hợp. Nó cho phép máy đơn tập hợp thông tin chú giải về bộ gen từ nhiều trang web ở xa, đối chiếu thông tin, biểu diễn nó trước người dùng dưới một hiển thị đơn. Những sự điều phối vị trí nhỏ là cần thiết trong số nhiều nguồn cung cấp thông tin khác nhau.
+
+
+== Trang và công cụ đang sử dụng DAS ==
+Ensembl The Ensembl Genome Browser
+UCSC Genome Browser
+WormBase Lưu trữ 2017-04-20 tại Wayback Machine
+FlyBase
+TIGR
+ProServer
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+biodas.org - the home page of DAS Lưu trữ 2009-01-05 tại Wayback Machine
+DAS/1 specification Lưu trữ 2008-07-20 tại Wayback Machine
+DAS/2 draft specification Lưu trữ 2008-07-03 tại Wayback Machine

@@ -1,0 +1,41 @@
+Bạc lá còn gọi là bệnh cháy bìa lá lúa (tiếng Anh: Bacterial leaf blight disease) là một bệnh trên lúa, do vi khuẩn Xanthomonas oryzae pv. oryzae (Xoo) gây ra, là một trong những bệnh nhiệt đới điển hình gây hại đối với nhiều vùng trồng lúa trên khắp thế giới. Bệnh có thể gây thiệt hại năng suất lúa đến 50%.
+
+
+== Lịch sử ==
+Bệnh được phát hiện đầu tiên ở tỉnh Fukuoka của Nhật Bản vào năm 1884. Ban đầu, các nhà khoa học lầm tưởng đây là bệnh có nguồn gốc sinh lý, do đất chua gây nên. Không lâu sau đó, các nhà khoa học đã xác nhận nguyên nhân gây bệnh là do vi khuẩn gây nên, vì khuẩn này thuộc loại Bacillus oryzae. Về sau, vi khuẩn này Tagami, Mizukami (năm 1962), Mizukami và Wakimoto (năm 1969) đặt tên là Pseudomonas oryzae...
+Đến năm 1974, Ezuka đặt tên là Xanthomonas oryzae và được dùng cho đến ngày nay.
+Từ cuối thập kỷ 60 đến đầu thập kỷ 80 của thế kỷ 20, bệnh bạc lá lúa phổ biến ở tất cả các vùng trồng lúa trên thế giới; bệnh phổ biến hơn ở các nước trồng lúa như: Ấn Độ (1990), Philippin (1957), Indonexia (1950), Trung Quốc (1957). Hiện nay, đây là bệnh vẫn tiếp tục gây hại phổ biến ở hầu hết các nước trồng lúa trên thế giới.
+
+
+== Vi khuẩn gây bệnh ==
+Vi khuẩn nhuộm màu gram âm; hình gậy hai đầu hơi tròn, có một lông roi, kích thước 1- 2 x 0,5-0,9 µm; sống trên môi trường có khuẩn lạc hình tròn, màu vàng sáp, rìa nhẵn; không có khả năng khử NO3, không có dịch hoá gelatin, không tạo ra NH3 và indol, có khả năng tạo H2S.
+Nhiệt độ thích hợp cho vi khuẩn sinh trưởng 26 – 30oC, tối thiểu 0 – 5oC, tối đa 40oC; gây chết ở 53oC trong 10 phút;
+Vi khuẩn sống trong môi trường có pH 5,7 – 8,5, thích hợp nhất ở pH 6,8 – 7,2.  
+
+
+== Cơ chế lây bệnh ==
+
+Vi khuẩn xâm vào lúa qua thủy khổng, lỗ khí ở trên mút lá, đặc biệt qua vết thương xây xát trên lá. Khi tiếp xúc với bề mặt có màng nước ướt, vi khuẩn tiến vào bên trong các lỗ khí, qua vết thương để sinh sản nhân lên về số lượng và qua các bó mạch để dẫn lan rộng.
+Điều kiện mưa ẩm rất thuận lợi cho việc phát triển của vi khuẩn. Những lá bệnh tiết ra những giọt keo chứa mầm bệnh, thông qua sự va chạm giữa các lá lúa nhờ mưa gió để truyền lan tới các lá, các cây khác. Bệnh lây nhiễm lặp lại trong nhiều đợt sinh trưởng của lúa. 
+
+
+== Nguồn gây bệnh ==
+Nguồn gây bệnh bạc tồn tại chủ yếu trên một số cỏ dại họ hoà thảo (cỏ dại là ký chủ phụ của vi khuẩn gây bệnh), tàn dư rơm rạ của cây bệnh, lúa chét, cỏ môi, cỏ lồng vực, cỏ gừng bò.... 
+
+
+== Biểu hiện bệnh ==
+Lúa nhiễm bệnh có 3 triệu chứng điển hình là: bạc lá, vàng nhợt, héo xanh (còn được gọi là Kresek). Trong đó, biểu hiện vàng nhợt là ảnh hưởng sau, là hậu quả của sự bạc lá hay Kresek gây nên hoặc cũng có thể là do độc tố (toxin) của vi khuẩn sản sinh ra.
+Bệnh bạc lá lúa phát sinh phá hại suốt từ thời kỳ mạ đến chín nhưng có triệu chứng điển hình là ở thời kỳ lúa cây trên ruộng từ sau đẻ - trỗ, chín sữa.
+Trên mạ, triệu chứng thể hiện không đặc trưng như ở trên lúa, một số biểu hiện như: mút lá hoặc mép lá mạ với những vết dài ngắn khác nhau màu xanh vàng rồi nâu bạc, lá dễ bị khô. 
+Triệu chứng trên lá lúa:
+
+Xuất hiện vết bệnh ở mép lá, mút lá lan dần vào phiến lá hoặc lan thẳng xuống gân chính, một số ít trường hợp vết bệnh bắt đầu ở ngay giữa phiến lá.
+Vết bệnh lan rộng theo đường gợn sóng hoặc thẳng; mô bệnh xanh tái vàng lục và cuối cùng cháy khô có màu nâu xám.
+Ranh giới giữa mô bênh với mô lành trên phiến lá rất rõ rệt, có giớ hạn theo đường gợn sóng màu vàng hoặc không vàng; hoặc chỉ một đường viền màu nâu sẫm, đứt quãng hay không đứt quãng.
+
+
+== Tác hại ==
+Vi khuẩn gây bệnh được tìm thấy ở tất cả các vùng trồng lúa trên thế giới. Khi cây lúa bị bệnh sẽ là làm cho lá đòng sớm tàn khô xác, giảm quang hợp, tăng lượng hạt lép, dẫn đến giảm năng suất lúa. Năng suất lúa giảm chủ yếu là do thay đổi về số nhánh, số hạt chắc trên bông và khối lượng 1000 hạt. Hàng năm, năng suất lúa toàn thế giới giảm từ 10-20% do các bệnh vi khuẩn, trong đó 50% là do bệnh bạc lá gây nên. 
+
+
+== Chú thích ==

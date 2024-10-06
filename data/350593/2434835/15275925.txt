@@ -1,0 +1,278 @@
+Liệu pháp quang động (PDT), là một hình thức của liệu pháp quang học liên quan đến ánh sáng và một chất hóa học nhạy sáng, được sử dụng cùng với oxy phân tử để làm chết tế bào (nhiễm độc quang). PDT đã chứng minh khả năng tiêu diệt các tế bào vi khuẩn, bao gồm vi khuẩn, nấm và vi rút. PDT được sử dụng phổ biến trong điều trị mụn trứng cá. Nó được sử dụng lâm sàng để điều trị một loạt các điều kiện y tế, bao gồm thoái hóa điểm vàng do tuổi tác ướt, bệnh vẩy nến, xơ vữa động mạch và đã cho thấy một số hiệu quả trong điều trị chống vi-rút, bao gồm cả mụn rộp. Nó cũng điều trị ung thư ác tính  bao gồm đầu và cổ, phổi, bàng quang và da đặc biệt. Công nghệ này cũng đã được thử nghiệm để điều trị ung thư tuyến tiền liệt, cả trên mô hình chó  và ở bệnh nhân ung thư tuyến tiền liệt ở người.
+Nó được công nhận là một chiến lược điều trị vừa xâm lấn tối thiểu và độc hại tối thiểu. Các phương pháp điều trị bằng ánh sáng và laser khác như chữa lành vết thương và trẻ hóa bằng tia laser, hoặc triệt lông bằng ánh sáng cực mạnh không cần dùng chất nhạy quang. Thuốc chống nhạy cảm đã được sử dụng để khử trùng huyết tương và nước để loại bỏ vi rút và vi khuẩn truyền qua máu và đã được xem xét cho sử dụng trong nông nghiệp, bao gồm cả thuốc diệt cỏ và thuốc trừ sâu.  
+Ưu điểm của liệu pháp quang động làm giảm nhu cầu phẫu thuật tinh tế và hồi phục kéo dài và hình thành mô sẹo và biến dạng tối thiểu. Một tác dụng phụ là sự nhạy cảm ánh sáng của mô da.
+
+
+== Khái niệm cơ bản ==
+Các ứng dụng PDT liên quan đến ba thành phần: chất nhạy quang, nguồn sáng và oxy mô. Bước sóng của nguồn sáng cần phải phù hợp để kích thích chất nhạy quang để tạo ra các gốc tự do và/hoặc các loại oxy phản ứng. Đây là các gốc tự do (Loại I) được tạo ra thông qua sự trừu tượng điện tử hoặc chuyển từ một phân tử cơ chất và trạng thái phản ứng cao của oxy được gọi là oxy nhóm đơn (Loại II).
+PDT là một quá trình nhiều giai đoạn. Đầu tiên, một chất nhạy cảm ánh sáng với độc tính tối không đáng kể được sử dụng, theo hệ thống hoặc tại chỗ, trong trường hợp không có ánh sáng. Khi một lượng chất nhạy cảm ánh sáng xuất hiện trong mô bệnh, chất nhạy cảm ánh sáng được kích hoạt khi tiếp xúc với ánh sáng trong một khoảng thời gian xác định. Liều ánh sáng cung cấp đủ năng lượng để kích thích chất nhạy cảm ánh sáng, nhưng không đủ để làm hỏng các mô khỏe mạnh lân cận. Oxy phản ứng giết chết các tế bào đích.
+
+
+=== Loại oxy phản ứng ===
+Trong không khí và mô, oxy phân tử (O 2) xảy ra ở trạng thái bộ ba, trong khi hầu hết các phân tử khác đều ở trạng thái đơn lẻ. Phản ứng giữa các phân tử triplet và singlet bị cấm bởi cơ học lượng tử, làm cho oxy tương đối không phản ứng ở điều kiện sinh lý. Chất nhạy quang là một hợp chất hóa học có thể được phát huy đến trạng thái kích thích khi hấp thụ ánh sáng và trải qua hệ thống giao thoa (ISC) với oxy để tạo ra oxy nhóm đơn. Loài này có khả năng gây độc tế bào cao, tấn công nhanh chóng bất kỳ hợp chất hữu cơ nào mà nó gặp phải. Nó nhanh chóng bị loại khỏi các tế bào, trong trung bình ba con.
+
+
+=== Quá trình quang hóa ===
+Khi một chất nhạy nhạy quang ở trạng thái kích thích (3Psen *), nó có thể tương tác với oxy ba phân tử (3 O2) và tạo ra các gốc và các loại oxy phản ứng (ROS), rất quan trọng đối với cơ chế Loại II. Những loài này bao gồm oxy nhóm đơn (1 O2), gốc hydroxyl (• OH) và ion superoxide (O 2-). Chúng có thể tương tác với các thành phần tế bào bao gồm lipid không bão hòa, dư lượng amino acid và axit nucleic. Nếu đủ thiệt hại oxy hóa xảy ra, điều này sẽ dẫn đến cái chết của tế bào đích (chỉ trong khu vực được chiếu sáng).
+
+
+=== Cơ chế quang hóa ===
+Khi một phân tử chromophore, chẳng hạn như phân tử tetrapyrrolic tuần hoàn, hấp thụ một photon, một trong số các electron của nó được đưa vào quỹ đạo năng lượng cao hơn, nâng chất nhiễm sắc từ trạng thái cơ bản (S0) lên trạng thái kích thích điện tử ngắn (S0). S n) bao gồm các cấp phụ rung động (S n). Nhiễm sắc thể bị kích thích có thể mất năng lượng bằng cách phân rã nhanh chóng qua các cấp độ phụ này thông qua chuyển đổi bên trong (IC) để tạo ra trạng thái đơn lẻ bị kích thích đầu tiên (S1), trước khi nhanh chóng thư giãn trở lại trạng thái cơ bản.
+Sự phân rã từ trạng thái singlet bị kích thích (S1) sang trạng thái cơ bản (S0) là thông qua huỳnh quang (S1 → S0). Kiếp bang singlet của fluorophore phấn khích rất ngắn (τ fl. = 10-9-10-6 giây) kể từ khi chuyển tiếp giữa các trạng thái spin cùng (S → S hoặc T → T) bảo tồn đa dạng spin của electron và theo Do đó, các quy tắc lựa chọn Spin được coi là chuyển tiếp "được phép". Ngoài ra, một electron trạng thái singlet bị kích thích (S1) có thể trải qua quá trình đảo ngược spin và tạo ra trạng thái bộ ba kích thích đầu tiên có năng lượng thấp hơn (T1) thông qua giao thoa hệ thống giao nhau (ISC); một quá trình cấm spin, vì spin của electron không còn được bảo tồn. Sau đó, electron bị kích thích có thể trải qua quá trình đảo ngược spin thứ hai và làm mất trạng thái bộ ba bị kích thích (T1) bằng cách phân rã về trạng thái cơ bản (S0) thông qua quá trình lân quang (T1 → S0). Do bộ ba bị cấm quay để chuyển tiếp đơn lẻ, thời gian lân quang (τP = 10 3- 1 giây) dài hơn đáng kể so với huỳnh quang.
+
+
+=== Quang nhạy cảm và quang hóa ===
+Các chất nhạy cảm ánh sáng Tetrapyrrolic ở trạng thái singlet bị kích thích (1Psen *, S> 0) tương đối hiệu quả trong giao thoa hệ thống và do đó có thể có năng suất lượng tử ba trạng thái cao. Tuổi thọ dài hơn của loài này là đủ để cho phép bộ nhạy quang trạng thái ba kích thích tương tác với các phân tử sinh học xung quanh, bao gồm các thành phần màng tế bào.
+
+
+=== Phản ứng quang hóa ===
+Các chất nhạy cảm ánh sáng ba trạng thái kích thích có thể phản ứng thông qua các quá trình Loại I và Loại II. Các quy trình loại I có thể liên quan đến bộ cảm biến quang đơn hoặc bộ ba kích thích (1Psen *, S1; 3Psen *, T1), tuy nhiên do thời gian tồn tại ngắn của trạng thái singlet bị kích thích, bộ cảm biến quang chỉ có thể phản ứng nếu nó liên quan mật thiết với chất nền. Trong cả hai trường hợp, sự tương tác là với các chất dễ bị oxy hóa hoặc có thể khử. Các quy trình loại II liên quan đến sự tương tác trực tiếp của bộ cảm biến quang ba kích thích (3Psen *, T1) với oxy phân tử (3 O2, 3 Σ g).
+
+
+==== Quy trình loại I ====
+Các quy trình loại I có thể được chia thành Loại I (i) và Loại I (ii). Loại I (i) liên quan đến việc chuyển một điện tử (oxy hóa) từ phân tử cơ chất sang chất nhạy cảm ánh sáng trạng thái kích thích (Psen *), tạo ra một anion gốc nhạy cảm với ánh sáng (Psen •-) và một cation gốc cơ chất (subs • +). Phần lớn các gốc được tạo ra từ các phản ứng loại I (i) phản ứng tức thời với oxy phân tử (O 2), tạo ra hỗn hợp các chất trung gian oxy. Ví dụ, anion gốc nhạy cảm có thể phản ứng tức thời với oxy phân tử (3 O2) để tạo ra anion gốc superoxide (O 2 •-), có thể tiếp tục tạo ra gốc hydroxyl phản ứng cao (OH •), tạo ra dòng thác của các gốc tự do gây độc tế bào; quá trình này là phổ biến trong thiệt hại oxy hóa của axit béo và các lipid khác.
+Quá trình loại I (ii) liên quan đến việc chuyển một nguyên tử hydro (khử) sang chất nhạy quang trạng thái kích thích (Psen *). Điều này tạo ra các gốc tự do có khả năng phản ứng nhanh với oxy phân tử và tạo ra một hỗn hợp phức tạp của các chất trung gian oxy phản ứng, bao gồm các peroxide phản ứng.
+
+
+==== Quy trình loại II ====
+Các quá trình loại II liên quan đến sự tương tác trực tiếp của chất nhạy quang trạng thái bộ ba kích thích (3Psen *) với oxy phân tử trạng thái mặt đất (3 O2, 3 Σ g); một spin cho phép chuyển đổi, các chất nhạy quang trạng thái kích thích và oxy phân tử trạng thái mặt đất có cùng trạng thái spin (T).
+Khi chất nhạy quang bị kích thích va chạm với oxy phân tử, một quá trình hủy diệt bộ ba- ba xảy ra (3Psen * → 1Psen và 3 O2 → 1 O2). Điều này làm đảo ngược spin của các electron chống tăng dần ngoài cùng của một phân tử oxy (3 O2), tạo ra hai dạng oxy nhóm đơn (1 Δ g và 1 Σ g), đồng thời làm mất trạng thái bộ ba kích thích của bộ cảm biến quang (T1 → S0). Trạng thái oxy nhóm đơn năng lượng cao hơn (1 Σ g, 157kJ mol 1> 3 g) rất ngắn (1 Σ g ≤ 0,33 mili giây (metanol), không thể phát hiện được trong H 2 O/D 2 O) và nhanh chóng thư giãn đến trạng thái kích thích năng lượng thấp hơn (1 Δ g, 94kJ mol 1 > 3 Σ g). Do đó, đây là dạng oxy nhóm đơn năng lượng thấp hơn (1 Δ g) có liên quan đến tổn thương tế bào và chết tế bào.
+Các loài oxy nhóm đơn phản ứng cao (1 O2) được tạo ra thông qua quy trình Loại II hoạt động gần với thế hệ của chúng và trong bán kính khoảng 20   nm, với tuổi thọ điển hình khoảng 40 nano giây trong các hệ thống sinh học.
+Có thể là (trong khoảng thời gian 6)s) oxy nhóm đơn có thể khuếch tán lên tới xấp xỉ 300   bước sóng in vivo. Về mặt lý thuyết, oxy nhóm chỉ có thể tương tác với các phân tử và cấu trúc gần trong bán kính này. ROS bắt đầu các phản ứng với nhiều phân tử sinh học, bao gồm dư lượng amino acid trong protein, chẳng hạn như tryptophan; lipid không bão hòa như cholesterol và axit nucleic, đặc biệt là các dẫn xuất guanosine và guanine, với cơ sở sau dễ bị nhiễm ROS hơn. Những tương tác này gây ra thiệt hại và khả năng phá hủy màng tế bào và mất hoạt tính enzyme, đỉnh điểm là chết tế bào.
+Có thể là do sự hiện diện của oxy phân tử và là kết quả trực tiếp của quá trình quang hóa của phân tử nhạy quang, cả hai con đường loại I và II đều đóng vai trò then chốt trong việc phá vỡ cơ chế tế bào và cấu trúc tế bào. Tuy nhiên, bằng chứng đáng kể cho thấy quá trình oxy hóa hình ảnh loại II chiếm ưu thế trong việc gây tổn thương tế bào, hậu quả của sự tương tác giữa chất nhạy cảm ánh sáng chiếu xạ và oxy phân tử. Các tế bào in vivo có thể được bảo vệ một phần chống lại các tác động của liệu pháp quang động bằng sự hiện diện của các chất tẩy oxy oxy đơn (như histidine). Một số tế bào da có khả năng kháng PDT trong trường hợp không có oxy phân tử; tiếp tục ủng hộ đề xuất rằng quy trình Loại II là trung tâm của cái chết tế bào quang hóa.
+Hiệu quả của các quá trình Loại II phụ thuộc vào tuổi thọ của bộ ba τ T và năng suất lượng tử của bộ ba (ΦT) của chất nhạy quang. Cả hai tham số này đều có liên quan đến hiệu quả quang trị liệu; hỗ trợ thêm cho sự khác biệt giữa các cơ chế Loại I và Loại II. Tuy nhiên, sự thành công của máy đo độ nhạy không phụ thuộc hoàn toàn vào quy trình Loại II. Nhiều chất nhạy cảm ánh sáng hiển thị vòng đời ba kích thích quá ngắn để cho phép quá trình Loại II xảy ra. Ví dụ, chất nhạy quang octaethylbenzochlorin được mạ kim loại có tuổi thọ ba lần dưới 20 nano giây và vẫn được coi là một tác nhân quang động hiệu quả.
+
+
+== Chất nhạy quang ==
+Nhiều chất nhạy quang cho PDT tồn tại. Chúng phân chia thành porphyrin, chlorin và thuốc nhuộm. Các ví dụ bao gồm amino acidolevulinic (ALA), Silicon Phthalocyanine Pc 4, m-tetrahydroxyphenylchlorin (mTHPC) và mono-L-aspartyl chlorin e6 (NPe6).
+Chất nhạy quang có sẵn trên thị trường để sử dụng lâm sàng bao gồm Allumera, Photofrin, Visudyne, Levulan, Foscan, Metvix, Hexvix, Cysview và Laserphyrin, cùng với những người khác đang phát triển, ví dụ Antrin, Photochlor, Photosens, Photrex, Lumacan, Cevira, Visonac, BF-200 ALA, Amphinex  và Azadipyrromethenes.
+Sự khác biệt chính giữa các chất nhạy quang là các phần của tế bào mà chúng nhắm mục tiêu. Không giống như trong xạ trị, nơi tổn thương được thực hiện bằng cách nhắm mục tiêu DNA tế bào, hầu hết các chất nhạy quang đều nhắm vào các cấu trúc tế bào khác. Ví dụ, mTHPC nội địa hóa trong lớp vỏ hạt nhân. Ngược lại, ALA nội địa hóa trong ty thể  và xanh methylen trong lysosome.
+
+
+=== Nhiễm sắc thể tetrapyrrolic vòng ===
+Các phân tử tetrapyrrolic tuần hoàn là fluorophores và chất nhạy cảm ánh sáng. Các dẫn xuất tetrapyrrolic tuần hoàn có một sự tương đồng vốn có với porphyrin tự nhiên có trong vật chất sống.
+
+
+==== Porphyrin ====
+Porphyrin là một nhóm các hợp chất tự nhiên và có màu đậm, có tên được rút ra từ tiếng Hy Lạp porphura, hoặc màu tím. Các phân tử này thực hiện vai trò quan trọng về mặt sinh học, bao gồm vận chuyển oxy và quang hợp và có các ứng dụng trong các lĩnh vực từ hình ảnh huỳnh quang đến y học. Porphyrin là các phân tử tetrapyrrolic, với trái tim của bộ xương là một macrocycl dị vòng, được gọi là porphine. Khung porphine cơ bản bao gồm bốn đơn vị phụ pyrrolic được liên kết ở hai bên đối diện (các vị trí α, được đánh số 1, 4, 6, 9, 11, 14, 16 và 19) thông qua bốn cây cầu methine (CH) (5, 10, 15 và 20), được gọi là các nguyên tử/vị trí meso-carbon. Kết quả conjugated macrocycle phẳng có thể được thay thế tại meso- và/hoặc β-positions (2, 3, 7, 8, 12, 13, 17 và 18): nếu meso- và β-hydrogens được thay thế bằng phi hydro các nguyên tử hoặc nhóm, các hợp chất thu được được gọi là porphyrin.
+Hai proton bên trong của porphyrin tự do có thể được loại bỏ bởi các base mạnh như alkoxit, tạo thành một phân tử dianionic; ngược lại, hai pyrrolenine nitrogens bên trong có thể được proton hóa với các axit như axit trifluoroacetic liên quan đến một chất trung gian. Các loài anion tetradentate có thể dễ dàng tạo thành phức chất với hầu hết các kim loại.
+
+
+===== Quang phổ hấp thụ =====
+Bộ xương liên hợp cao của porphyrin tạo ra phổ cực tím có thể nhìn thấy (UV-VIS). Phổ thường bao gồm một dải hấp thụ mạnh, hẹp (ε > 200000 l mol 1   cm 1) vào khoảng 400   nm, được gọi là băng Soret hoặc băng B, theo sau là bốn bước sóng dài hơn (450.   nm), độ hấp thụ yếu hơn (ε > 20000 L⋅mol 1⋅cm 1 (porphyrin cơ sở tự do)) được gọi là các dải Q.
+Dải Soret phát sinh từ sự chuyển đổi điện tử mạnh mẽ từ trạng thái cơ bản sang trạng thái singlet thứ hai bị kích thích (S0 → S2); trong khi đó dải Q là kết quả của quá trình chuyển đổi yếu sang trạng thái singlet bị kích thích đầu tiên (S0 → S1). Sự tiêu tán năng lượng thông qua chuyển đổi bên trong (IC) nhanh đến mức huỳnh quang chỉ được quan sát thấy từ sự suy giảm trạng thái singlet đầu tiên bị kích thích sang trạng thái năng lượng thấp hơn (S1 → S0).
+
+
+=== Chất nhạy quang lý tưởng ===
+Đặc điểm chính của chất nhạy quang là khả năng tích lũy tốt hơn trong mô bệnh và tạo ra hiệu ứng sinh học mong muốn thông qua việc tạo ra các loài gây độc tế bào. Tiêu chí cụ thể:
+
+Hấp thụ mạnh với hệ số tuyệt chủng cao trong vùng đỏ/gần hồng ngoại của phổ điện từ (600.   bước sóng) sâu hơn mô sâu. (Mô trong suốt hơn ở bước sóng dài hơn (~ 700.   bước sóng). Bước sóng dài hơn cho phép ánh sáng xuyên sâu hơn  và xử lý các cấu trúc lớn hơn.) 
+Các đặc điểm quang hóa phù hợp: năng suất lượng tử cao của sự hình thành bộ ba (ΦT 0,5); năng suất lượng tử oxy đơn lẻ cao (ΦΔ 0,5); thời gian tồn tại của bộ ba tương đối dài (phạm vi τ T,) s); và năng lượng trạng thái bộ ba cao (≥ 94 kJ mol 1). Giá trị T = 0,83 và = 0,65 (haematoporphyrin); T = 0,83 và ΦΔ = 0,72 (etiopurpurin); và T = 0,96 và = 0,82 (tin etiopurpurin) đã đạt được
+Độc tính tối thấp và độc tế bào không đáng kể khi không có ánh sáng. (Chất nhạy quang không được gây hại cho mô đích cho đến khi chùm tia điều trị được áp dụng.)
+Tích lũy ưu tiên trong mô bệnh/mục tiêu trên mô khỏe mạnh
+Giải phóng mặt bằng nhanh chóng từ cơ thể sau thủ thuật
+Độ ổn định hóa học cao: các hợp chất đơn, đặc trưng, có thành phần được biết và không đổi
+Tuyến tổng hợp ngắn và năng suất cao (dễ dàng dịch sang thang/phản ứng đa gram)
+Công thức đơn giản và ổn định
+Hòa tan trong môi trường sinh học, cho phép tiêm tĩnh mạch. Mặt khác, một hệ thống phân phối ưa nước phải cho phép vận chuyển chất nhạy nhạy quang hiệu quả và hiệu quả đến vị trí đích thông qua dòng máu.
+Photobleaching thấp để ngăn chặn sự suy giảm của chất nhạy quang để nó có thể tiếp tục tạo ra oxy nhóm đơn
+Huỳnh quang tự nhiên (Nhiều kỹ thuật đo liều quang học, chẳng hạn như quang phổ huỳnh quang, phụ thuộc vào huỳnh quang.) 
+
+
+=== Thế hệ đầu tiên ===
+Trong khi những nhược điểm liên quan đến thuốc nhạy cảm thế hệ đầu tiên HpD và Photofrin (độ nhạy cảm của da và khả năng hấp thụ yếu ở 630   nm) cho phép một số sử dụng điều trị, họ giảm đáng kể ứng dụng vào một lĩnh vực rộng lớn hơn của bệnh. Chất nhạy nhạy quang thế hệ thứ hai là chìa khóa cho sự phát triển của liệu pháp quang động.
+
+
+=== Thế hệ thứ hai ===
+
+
+==== Axit 5-Aminolaevulinic ====
+Axit 5-Aminolaevulinic (ALA) là một tiền chất được sử dụng để điều trị và hình ảnh nhiều bệnh ung thư và khối u bề mặt. ALA một tiền chất quan trọng trong quá trình sinh tổng hợp porphyrin tự nhiên, haem.
+Haem được tổng hợp trong mọi tế bào sản xuất năng lượng trong cơ thể và là thành phần cấu trúc quan trọng của hemoglobin, myoglobin và các haemprotein khác. Tiền thân của haem là protoporphyrin IX (PPIX), một chất chống nhạy cảm ánh sáng hiệu quả. Bản thân Haem không phải là chất gây nhạy nhạy quang, do sự phối hợp của một ion thuận từ ở trung tâm của macrocycl, làm giảm đáng kể thời gian sống của trạng thái kích thích.
+Phân tử haem được tổng hợp từ glycine và succinyl coenzyme A (succinyl CoA). Bước giới hạn tốc độ trong con đường sinh tổng hợp được kiểm soát bởi một cơ chế phản hồi chặt chẽ (tiêu cực) trong đó nồng độ của haem điều chỉnh việc sản xuất ALA. Tuy nhiên, phản hồi có kiểm soát này có thể được thông qua bằng cách thêm ALA ngoại sinh dư thừa vào các tế bào. Các tế bào phản ứng bằng cách sản xuất PPIX (chất nhạy quang) với tốc độ nhanh hơn enzyme ferrochelatase có thể chuyển đổi nó thành haem.
+ALA, được bán trên thị trường với tên Levulan, đã cho thấy sự hứa hẹn trong liệu pháp quang động (khối u) thông qua cả tiêm tĩnh mạch và uống, cũng như thông qua điều trị tại chỗ trong điều trị các bệnh da liễu ác tính và không ác tính, bao gồm bệnh vẩy nến, bệnh Bowen và bệnh Hirsut (Giai đoạn II/III thử nghiệm lâm sàng).
+ALA tích lũy nhanh hơn so với các thuốc gây nhạy cảm tiêm tĩnh mạch khác. Mức độ tích lũy khối u đỉnh điển hình sau khi dùng PPIX thường đạt được trong vòng vài giờ; thuốc nhạy quang (tiêm tĩnh mạch) khác có thể mất tới 96 giờ để đạt mức cao nhất. ALA cũng được đào thải ra khỏi cơ thể nhanh hơn (∼24 giờ) so với các thuốc chống nhạy cảm ánh sáng khác, giảm thiểu tác dụng phụ nhạy cảm với ánh sáng.
+Các dẫn xuất ALA được este hóa với khả dụng sinh học được cải thiện đã được kiểm tra. Một este methyl ALA (Metvix) hiện có sẵn cho ung thư biểu mô tế bào đáy và các tổn thương da khác. Các dẫn xuất của Benzyl (Benvix) và hexyl ester (Hexvix) được sử dụng cho ung thư đường tiêu hóa và chẩn đoán ung thư bàng quang.
+
+
+==== Verteporfin ====
+Vòng đơn chất dẫn xuất của Benzoporphyrin A (BPD-MA) được bán trên thị trường với tên Visudyne (Verteporfin, để tiêm) đã được các cơ quan y tế phê duyệt trong nhiều khu vực pháp lý, bao gồm cả FDA Hoa Kỳ, để điều trị AMD ướt bắt đầu vào năm 1999. Nó cũng đã trải qua các thử nghiệm lâm sàng giai đoạn III (Hoa Kỳ) để điều trị ung thư da không phải khối u ác tính ở da.
+Nhiễm sắc thể của BPD-MA có cực đại hấp thụ bước sóng dài tăng cường và tăng cường ở khoảng 690   bước sóng. Sự thâm nhập mô bằng ánh sáng ở bước sóng này lớn hơn 50% so với mức đạt được đối với Photofrin (λ max. = 630 nm).
+Verteporfin có lợi thế hơn nữa so với Photofrin thế hệ đầu tiên. Nó được hấp thu nhanh chóng bởi khối u (tỷ lệ mô bình thường của khối u tối ưu 30 tiêm150 phút sau tiêm tĩnh mạch) và nhanh chóng được loại bỏ khỏi cơ thể, giảm thiểu sự nhạy cảm của bệnh nhân (1 đùa2 ngày).
+
+
+==== Purlytin ====
+Clensinurensin tin nhạy cảm với clo được bán trên thị trường với tên Purlytin. Purlytin đã trải qua các thử nghiệm lâm sàng giai đoạn II đối với ung thư vú di căn ở da và sarcoma Kaposi ở bệnh nhân AIDS (hội chứng suy giảm miễn dịch mắc phải). Purlytin đã được sử dụng thành công để điều trị bệnh vẩy nến không ác tính và bệnh tắc nghẽn.
+Clo được phân biệt với porphyrin cha mẹ bằng một liên kết đôi ngoại bào giảm, làm giảm tính đối xứng của macrocycl liên hợp. Điều này dẫn đến sự hấp thụ tăng lên ở phần bước sóng dài của vùng nhìn thấy của phổ điện từ (650-680 nm). Purlytin là một purpurin; một sản phẩm thoái hóa của diệp lục.
+Purlytin có một nguyên tử thiếc chelated trong khoang trung tâm của nó, gây ra sự thay đổi màu đỏ khoảng 20-30   nm (đối với Photofrin và etiopurpurin không kim loại, λ max. SnEt2 = 650 nm). Purlytin đã được báo cáo để nội địa hóa trên da và tạo ra một phản ứng quang hóa sau 714 ngày.
+
+
+==== Foscan ====
+Tetra (m-hydroxyphenyl) chlorin (m THPC) đang trong các thử nghiệm lâm sàng đối với bệnh ung thư đầu và cổ dưới tên thương mại Foscan. Nó cũng đã được điều tra trong các thử nghiệm lâm sàng đối với ung thư dạ dày và tuyến tụy, tăng sản, khử trùng đồng ruộng sau phẫu thuật ung thư và kiểm soát vi khuẩn kháng kháng sinh.
+Foscan có năng suất lượng tử oxy đơn lẻ tương đương với các chất nhạy cảm với chlorin khác nhưng liều lượng thuốc và ánh sáng thấp hơn (quang hóa gấp khoảng 100 lần so với Photofrin).
+Foscan có thể khiến bệnh nhân nhạy quang trong tối đa 20 ngày sau khi chiếu sáng ban đầu.
+
+
+==== Lutex ====
+Lutetium texaphyrin, được bán trên thị trường dưới tên thương mại Lutex và Lutrin, là một phân tử lớn giống như porphyrin. Texaphyrin là porphyrin mở rộng có lõi penta-aza. Nó cung cấp sự hấp thụ mạnh mẽ trong vùng 730-770 nm. Độ trong của mô là tối ưu trong phạm vi này. Do đó, PDT dựa trên Lutex có thể (có khả năng) được thực hiện hiệu quả hơn ở độ sâu lớn hơn và trên các khối u lớn hơn.
+Lutex đã bước vào các thử nghiệm lâm sàng giai đoạn II để đánh giá ung thư vú và khối u ác tính.
+Một dẫn xuất của Lutex, Antrin, đã trải qua các thử nghiệm lâm sàng giai đoạn I để ngăn chặn sự tắc nghẽn mạch sau khi nong mạch tim bằng các tế bào bọt quang hóa tích tụ trong các mảng động mạch. Một dẫn xuất Lutex thứ hai, Optrin, đang trong giai đoạn thử nghiệm I cho AMD.
+Texaphyrins cũng có tiềm năng là chất gây viêm nhiễm phóng xạ (Xcytrin) và thuốc chống viêm hóa học. Xcytrin, một gadolinium texaphyrin (motexafin gadolinium), đã được đánh giá trong các thử nghiệm lâm sàng giai đoạn III chống lại di căn não và các thử nghiệm lâm sàng giai đoạn I đối với các khối u não nguyên phát.
+
+
+==== ATMPn ====
+9-axetoxy-2,7,12,17-tetrakis- (β-methoxyethyl)-porphycene đã được đánh giá là một đại lý cho các ứng dụng da chống lại vulgaris bệnh vẩy nến và bệnh ung thư da phi hắc tố trên bề mặt.
+
+
+==== Kẽm phthalocyanine ====
+Một công thức liposome của kẽm phthalocyanine (CGP55847) đã trải qua các thử nghiệm lâm sàng (Giai đoạn I/II, Thụy Sĩ) chống lại ung thư biểu mô tế bào vảy của đường tiêu hóa trên. Phthalocyanines (PC) có liên quan đến porphyrin tetra-aza. Thay vì bốn nguyên tử carbon bắc cầu tại các vị trí meso, như đối với porphyrin, PC có bốn nguyên tử nitơ liên kết các đơn vị phụ pyrrolic. PC cũng có một con đường liên hợp mở rộng: a vòng benzen được hợp nhất vào-positions β của mỗi tiểu đơn vị bốn pyrrolic. Những vòng này tăng cường sự hấp thụ của chromophore ở bước sóng dài hơn (đối với porphyrin). Dải hấp thụ của PC mạnh hơn gần hai bậc so với dải haematoporphyrin Q cao nhất. Những đặc điểm thuận lợi này, cùng với khả năng chọn lọc chức năng cấu trúc ngoại vi của chúng, làm cho PC trở thành ứng cử viên nhạy cảm với ánh sáng.
+Một dẫn xuất PC nhôm sulphonated (Photosense) đã được đưa vào thử nghiệm lâm sàng (Nga) chống lại các khối u ác tính ở da, vú và phổi và ung thư đường tiêu hóa. Sulphonation làm tăng đáng kể độ hòa tan của PC trong các dung môi phân cực bao gồm cả nước, tránh sự cần thiết của phương tiện giao hàng thay thế.
+PC4 là một phức hợp silicon đang được điều tra để khử trùng các thành phần máu chống lại ung thư ruột kết, ung thư vú và buồng trứng và chống lại bệnh glioma.
+Một thiếu sót của nhiều máy luyện kim là xu hướng tập hợp trong dung dịch nước (pH 7.4), dẫn đến giảm hoặc mất toàn bộ hoạt động quang hóa của chúng. Hành vi này có thể được giảm thiểu khi có chất tẩy rửa.
+Porphyrazine kim loại hóa (PZ), bao gồm PdPZ +, CuPZ +, CdPZ +, MgPZ +, AlPZ + và GaPZ +, đã được thử nghiệm in vitro trên các tế bào V-79 (nguyên bào sợi phổi của chuột đồng Trung Quốc). Những chất nhạy cảm ánh sáng cho thấy độc tính tối đáng kể.
+
+
+==== Naphthalocyanines ====
+Naphthalocyanines (NCs) là một dẫn xuất PC mở rộng. Chúng có một vòng benzen bổ sung được gắn vào mỗi đơn vị phụ isoindole trên ngoại vi của cấu trúc PC. Sau đó, NC hấp thụ mạnh ở các bước sóng dài hơn (khoảng 740 trừ780   nm) so với PC (670iên780   bước sóng). Sự hấp thụ này ở vùng hồng ngoại gần làm cho các ứng cử viên NCs cho các khối u có sắc tố cao, bao gồm các khối u ác tính, gây ra các vấn đề hấp thụ đáng kể cho ánh sáng nhìn thấy.
+Tuy nhiên, các vấn đề liên quan đến chất nhạy cảm ánh sáng NC bao gồm độ ổn định thấp hơn, vì chúng bị phân hủy khi có ánh sáng và oxy. Các kim loại-NC, thiếu các phối tử dọc trục, có xu hướng hình thành các cốt liệu H trong dung dịch. Các cốt liệu này có tính quang hợp, do đó ảnh hưởng đến hiệu quả quang động của NC.
+Silicon naphthalocyanine gắn với copolyme PEG-PCL (poly (ethylene glycol)- block-poly (-caprolactone)) tích lũy có chọn lọc trong các tế bào ung thư và đạt nồng độ tối đa sau khoảng một ngày. Hợp chất này cung cấp hình ảnh huỳnh quang cận hồng ngoại (NIR) thời gian thực với hệ số tuyệt chủng là 2,8 × 10 5 M 1 cm −1 và liệu pháp quang trị liệu kết hợp với các cơ chế trị liệu quang nhiệt và quang động kép có thể phù hợp với các khối u kháng adriamycin. Các hạt có kích thước thủy động lực học là 37,66 ± 0,26   nm (chỉ số polydispersity = 0,06) và điện tích bề mặt 2,76 ± 1,83 mV.
+
+
+==== Các nhóm chức năng ====
+Việc thay đổi chức năng ngoại vi của các nhiễm sắc thể loại porphyrin có thể ảnh hưởng đến hoạt động quang động.
+Các porphinrin bạch kim Diamino cho thấy hoạt động chống khối u cao, chứng minh hiệu quả kết hợp của độc tính tế bào của phức hợp bạch kim và hoạt động quang động của các loài porphyrin.
+Các dẫn xuất PC tích điện dương đã được nghiên cứu. Các loài cation được cho là chọn lọc cục bộ trong ty thể.
+Các dẫn xuất cation kẽm và đồng đã được nghiên cứu. PC phức hợp kẽm tích điện dương ít hoạt động quang động hơn so với đối tác trung tính của nó trong ống nghiệm so với các tế bào V-79.
+Các porphin cation tan trong nước mang các nhóm chức nitrophenyl, aminophenyl, hydroxyphenyl và/hoặc pyridiniumyl biểu hiện độc tính tế bào đối với các tế bào ung thư trong ống nghiệm, tùy thuộc vào bản chất của ion kim loại (Mn, Fe, Zn, Ni) và loại nhóm chức năng. Dẫn xuất pyridiniumyl mangan đã cho thấy hoạt động quang động cao nhất, trong khi chất tương tự niken là quang hóa.
+Một phức hợp metallico-porphyrin khác, chelate sắt, có tính quang hóa cao hơn (đối với virus gây suy giảm miễn dịch HIV và simian trong các tế bào MT-4) so với phức hợp mangan; dẫn xuất kẽm là quang hóa.
+Các hợp chất porphyrin sulphonated sulphonated và PC (AlPorphyrin và AlPC) đã được thử nghiệm cho hoạt động quang động. Các chất tương tự bị khử (với các nhóm sulphonated thay thế liền kề) thể hiện hoạt động quang động lớn hơn so với các đối tác di- (đối xứng), mono-, tri- và tetra-sulphonated của chúng; hoạt động khối u tăng lên với mức độ sulphonation.
+
+
+=== Thế hệ thứ ba ===
+Nhiều chất nhạy cảm ánh sáng hòa tan kém trong môi trường nước, đặc biệt là ở pH sinh lý, hạn chế sử dụng.
+Chiến lược phân phối thay thế bao gồm từ việc sử dụng nhũ tương dầu trong nước (o/w) đến các phương tiện vận chuyển như liposome và hạt nano. Mặc dù các hệ thống này có thể làm tăng hiệu quả điều trị, hệ thống chất mang có thể vô tình làm giảm năng suất lượng tử oxy "quan sát" (): oxy nhóm đơn được tạo ra bởi chất nhạy quang phải khuếch tán ra khỏi hệ thống chất mang; và vì oxy nhóm đơn được cho là có bán kính hoạt động hẹp, nên nó có thể không đến được các tế bào đích. Chất mang có thể hạn chế sự hấp thụ ánh sáng, làm giảm năng suất oxy của singlet.
+Một cách khác không hiển thị vấn đề tán xạ là việc sử dụng các moóc. Các chiến lược bao gồm gắn trực tiếp chất nhạy cảm với các phân tử có hoạt tính sinh học như kháng thể.
+
+
+==== Luyện kim ====
+Các kim loại khác nhau tạo thành phức hợp với các macrocycens quang. Nhiều chất nhạy quang thế hệ thứ hai chứa một ion kim loại trung tâm chelated. Các ứng cử viên chính là kim loại chuyển tiếp, mặc dù các chất nhạy cảm ánh sáng phối hợp với các kim loại nhóm 13 (Al, AlPcS 4) và nhóm 14 (Si, SiNC và Sn, SnEt 2) đã được tổng hợp.
+Các ion kim loại không tạo ra sự quang hợp nhất định trên phức chất. Các phức chất đồng (II), coban (II), sắt (II) và kẽm (II) của Hp đều có khả năng quang hóa trái ngược với porphyrin không có kim loại. Tuy nhiên, chất nhạy cảm ánh sáng texaphyrin và PC không chứa kim loại; chỉ các phức kim loại đã chứng minh quá trình quang hóa hiệu quả.
+Các ion kim loại trung tâm, bị ràng buộc bởi một số chất nhạy cảm ánh sáng, ảnh hưởng mạnh đến các tính chất quang của chất nhạy quang. Chelation các kim loại thuận từ cho một chromophore PC dường như rút ngắn thời gian sống của bộ ba (xuống phạm vi nano giây), tạo ra các biến đổi trong năng suất lượng tử của bộ ba và thời gian sinh ba của trạng thái bộ ba quang hóa.
+Một số kim loại nặng được biết là để tăng cường giao thoa giữa các hệ thống (ISC). Nói chung, các kim loại từ tính thúc đẩy ISC và có tuổi thọ gấp ba lần. Ngược lại, các loài thuận từ sẽ vô hiệu hóa các trạng thái kích thích, làm giảm tuổi thọ trạng thái kích thích và ngăn chặn các phản ứng quang hóa. Tuy nhiên, ngoại lệ cho việc khái quát hóa này bao gồm đồng octaethylbenzochlorin.
+Nhiều loài texaphyrin được mạ kim loại biểu hiện thời gian sống ba trạng thái trong phạm vi nano giây. Những kết quả này được nhân đôi bởi các PC được mạ kim loại. PC metallated với ion nghịch từ, chẳng hạn như Zn 2+, Al 3+ và Ga 3+, thường mang lại photosensitisers với lãi suất hấp dẫn lượng tử và kiếp (ΦT 0,56, 0,50 và 0,34 và τ T 187, 126 và 35 μ s, tương ứng). Photosensitiser ZnPcS 4 có năng suất lượng tử oxy đơn lẻ là 0,70; gần gấp đôi so với hầu hết các mPC khác (ít nhất 0,40).
+
+
+==== Metallo-porphyrin mở rộng ====
+Porphyrin mở rộng có khoang liên kết trung tâm lớn hơn, làm tăng phạm vi của các kim loại tiềm năng.
+Kim loại-texaphyrin diamag từ đã cho thấy tính chất quang hóa; năng suất lượng tử bộ ba cao và tạo ra oxy nhóm đơn hiệu quả. Đặc biệt, các dẫn xuất kẽm và cadmium hiển thị lượng tử bộ ba mang lại sự thống nhất. Ngược lại, các kim loại-texaphyrin, Mn-Tex, Sm-Tex và Eu-Tex, có năng suất lượng tử bộ ba không thể phát hiện được. Hành vi này song song với hành vi được quan sát đối với các kim loại-porphyrin tương ứng.
+Dẫn xuất cadmium-texaphyrin đã cho thấy hoạt động quang động trong ống nghiệm chống lại các tế bào ung thư bạch cầu ở người và vi khuẩn Gram dương (Staphylococcus) và vi khuẩn Gram âm (Escherichia coli). Mặc dù các nghiên cứu tiếp theo đã bị hạn chế với chất nhạy cảm ánh sáng này do độc tính của ion cadmium phức tạp.
+Một seco kim loại kẽm- porphyrazine có năng suất oxy nhóm đơn lượng tử cao (ΦΔ 0,74). Chất nhạy cảm ánh sáng giống như porphyrin mở rộng này đã cho thấy khả năng nhạy quang oxy nhóm đơn tốt nhất trong số các seco- porphyrazine được báo cáo. Các dẫn xuất bạch kim và palađi đã được tổng hợp với năng suất lượng tử oxy đơn lẻ lần lượt là 0,59 và 0,54.
+
+
+==== Metallochlorin /bacteriochlorin ====
+Các purpurin thiếc (IV) hoạt động mạnh hơn khi so sánh với purpurin kẽm tương tự (II), chống lại ung thư ở người.
+Các dẫn xuất của benzochlorin được sulphonated đã chứng minh phản ứng giảm nhiệt đối với các tế bào ung thư bạch cầu L1210 trong ống nghiệm và ung thư biểu mô tế bào tiết niệu ở chuột, trong khi các benzochlorin được mạ kim loại thiếc cho thấy hiệu ứng quang động tăng lên trong cùng một mô hình khối u.
+Đồng octaethylbenzochlorin đã chứng minh khả năng quang hóa lớn hơn đối với các tế bào ung thư bạch cầu trong ống nghiệm và mô hình khối u bàng quang chuột. Nó có thể xuất phát từ sự tương tác giữa nhóm iminium cation và các phân tử sinh học. Các tương tác như vậy có thể cho phép các phản ứng chuyển điện tử diễn ra thông qua trạng thái đơn lẻ bị kích thích trong thời gian ngắn và dẫn đến sự hình thành các gốc và các ion gốc. Dẫn xuất không có đồng thể hiện phản ứng khối u với khoảng thời gian ngắn giữa quản lý thuốc và hoạt động quang động. Hoạt tính in vivo tăng lên được quan sát thấy với chất tương tự kẽm benzochlorin.
+
+
+==== Metallo-phthalocyanine ====
+Tính chất của PC bị ảnh hưởng mạnh bởi ion kim loại trung tâm. Sự phối hợp của các ion kim loại chuyển tiếp tạo ra các phức kim loại có tuổi thọ bộ ba ngắn (phạm vi nano giây), dẫn đến năng suất và lượng tử của bộ ba khác nhau (đối với các chất tương tự không kim loại). Kim loại nghịch như kẽm, nhôm và gali, tạo metallo-phthalocyanines (MPC) với sản lượng triplet cao học lượng tử (ΦT ≥ 0,4) và tuổi thọ ngắn (ZnPCS 4 τ T = 490 Fs và AlPcS4 τ T = 400 Fs) và oxy singlet cao năng suất lượng tử (ΦΔ 0,7). Do đó, ZnPc và AlPc đã được đánh giá là chất nhạy nhạy quang thế hệ thứ hai hoạt động chống lại một số khối u.
+
+
+==== Metallo-naphthocyaninesulfobenzo-porphyrazine (M-NSBP) ====
+Nhôm (Al 3+) đã được phối hợp thành công với M-NSBP. Phức hợp thu được cho thấy hoạt động quang động đối với chuột Balb/c mang khối u EMT-6 (chất tương tự bị biến dạng đã chứng minh tính quang hóa lớn hơn so với dẫn xuất đơn chất).
+
+
+==== Metallo-naphthalocyanines ====
+Làm việc với kẽm NC với các nhóm thế amido khác nhau cho thấy phản ứng quang trị liệu tốt nhất (ung thư biểu mô phổi Lewis ở chuột) với chất tương tự tetrabenzamido. Các phức chất NC silicon (IV) với hai phối tử dọc trục dự đoán các phối tử giảm thiểu sự kết tụ. Các chất tương tự bị loại bỏ như là các tác nhân quang động tiềm năng (một siloxane NC được thay thế bằng hai phối tử methoxyethylenglycol) là một chất chống quang hiệu quả chống lại ung thư biểu mô phổi Lewis ở chuột. SiNC [OSi (i-Bu) 2-nC 18 H 37 ] 2 có hiệu quả đối với các tế bào xơ sợi MS-2 của chuột Balb/c. Siloxane NCs có thể là thuốc chống nhạy cảm hiệu quả chống lại khối u EMT-6 ở chuột Balb/c. Khả năng của các dẫn xuất metallico-NC (AlNc) để tạo ra oxy nhóm đơn yếu hơn so với các máy luyện kim tương tự (sulphonated) (AlPC); báo cáo 1.6 đơn đặt hàng độ lớn ít hơn.
+Trong các hệ thống porphyrin, ion kẽm (Zn 2+) xuất hiện để cản trở hoạt động quang động của hợp chất. Ngược lại, trong các hệ thống π cao hơn/mở rộng, thuốc nhuộm chelated kẽm tạo thành phức chất có kết quả tốt đến cao.
+Một nghiên cứu sâu rộng về texaphyrin kim loại tập trung vào các ion kim loại lanthanide (III), Y, In, Lu, Cd, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm và Yb đã phát hiện ra rằng khi diamag từ Lu (III) đã được tạo phức với texaphyrin, một chất nhạy cảm ánh sáng hiệu quả (Lutex) đã được tạo ra. Tuy nhiên, bằng cách sử dụng ion paramag từ (III) cho kim loại Lu, không có hoạt động quang động. Nghiên cứu đã tìm thấy mối tương quan giữa thời gian sống của trạng thái đơn lẻ và bộ ba và tỷ lệ ISC của các phức hợp texaphyrin diamag từ, Y (III), In (III) và Lu (III) và số nguyên tử của cation.
+Các kim loại-texaphyrin tham số hiển thị ISC nhanh chóng. Tuổi thọ của bộ ba bị ảnh hưởng mạnh mẽ bởi sự lựa chọn ion kim loại. Các ion diamag từ (Y, In và Lu) hiển thị vòng đời của bộ ba, tương ứng từ 187, 126 và 35 μ s. Kiếp so sánh với các loài thuận từ (Eu-Tex 6,98 μ s, Gd-Tex 1.11, Tb-Tex <0,2, Dy-Tex 0,44 × 10-3, Ho-Tex 0,85 × 10-3, Er-Tex 0,76 × 10 3, Tm-Tex 0,12 × 10−3 và Yb-Tex 0,46) đã thu được.
+Ba phức chất thuận từ đo được đo thấp hơn đáng kể so với các kim loại-texaphyrin.
+Nói chung, năng suất lượng tử oxy nhóm đơn theo sát năng suất lượng tử bộ ba.
+Các texaphyrin khác nhau diamag từ và paramag từ được điều tra có hành vi vật lý quang độc lập liên quan đến từ tính của một phức tạp. Các phức từ tính được đặc trưng bởi năng suất lượng tử huỳnh quang tương đối cao, tuổi thọ của singlet và triplet và năng suất lượng tử oxy của singlet; trái ngược với các loài thuận từ.
+Các loài diamag từ tích điện +2 dường như thể hiện mối quan hệ trực tiếp giữa năng suất lượng tử huỳnh quang của chúng, tuổi thọ trạng thái kích thích, tốc độ ISC và số nguyên tử của ion kim loại. Tỷ lệ ISC từ tính lớn nhất được quan sát thấy đối với Lu-Tex; một kết quả được gán cho hiệu ứng nguyên tử nặng. Hiệu ứng nguyên tử nặng cũng được duy trì cho năng suất và tuổi thọ của bộ ba Y-Tex, In-Tex và Lu-Tex. Sản lượng và lượng tử của bộ ba đều giảm khi số lượng nguyên tử tăng. Năng suất lượng tử oxy nhóm đơn tương quan với quan sát này.
+Tính chất quang hóa được hiển thị bởi các loài thuận từ phức tạp hơn. Dữ liệu/hành vi quan sát được không tương quan với số lượng electron chưa ghép cặp nằm trên ion kim loại. Ví dụ:
+
+Tốc độ ISC và tuổi thọ huỳnh quang giảm dần với số lượng nguyên tử tăng dần.
+Các nhiễm sắc thể của Bt-Tex và Tb-Tex cho thấy (mặc dù có nhiều electron chưa ghép cặp hơn) tốc độ ISC chậm hơn và tuổi thọ dài hơn Ho-Tex hoặc Dy-Tex.
+Để đạt được sự phá hủy tế bào mục tiêu có chọn lọc, trong khi bảo vệ các mô bình thường, có thể áp dụng bộ nhạy quang vào khu vực mục tiêu hoặc các mục tiêu có thể được chiếu sáng cục bộ. Tình trạng da, bao gồm mụn trứng cá, bệnh vẩy nến và ung thư da, có thể được điều trị tại chỗ và chiếu sáng tại chỗ. Đối với các mô bên trong và ung thư, các chất nhạy quang được tiêm tĩnh mạch có thể được chiếu sáng bằng nội soi và catheter sợi quang. 
+Chất nhạy cảm ánh sáng có thể nhắm mục tiêu các loài virus và vi khuẩn, bao gồm cả HIV và MRSA. Sử dụng PDT, mầm bệnh có trong các mẫu máu và tủy xương có thể được khử nhiễm trước khi các mẫu được sử dụng thêm để truyền máu hoặc cấy ghép. PDT cũng có thể tiêu diệt nhiều loại mầm bệnh của da và khoang miệng. Với mức độ nghiêm trọng mà các mầm bệnh kháng thuốc hiện nay đã trở thành, ngày càng có nhiều nghiên cứu về PDT như một liệu pháp kháng khuẩn mới.
+
+
+== Các ứng dụng ==
+
+
+=== Mụn trứng cá ===
+PDT hiện đang được thử nghiệm lâm sàng như là một điều trị cho mụn trứng cá nghiêm trọng. Kết quả ban đầu cho thấy nó chỉ có hiệu quả khi điều trị mụn trứng cá nặng. Một đánh giá có hệ thống được thực hiện vào năm 2016 cho thấy PDT là "phương pháp điều trị an toàn và hiệu quả" cho mụn trứng cá. Việc điều trị có thể gây đỏ da nghiêm trọng và đau vừa đến nặng và cảm giác nóng rát ở một số người. (xem thêm: Levulan) Một thử nghiệm giai đoạn II, trong khi nó cho thấy sự cải thiện, không vượt trội so với ánh sáng xanh/tím đơn thuần.
+
+
+=== Ung thư ===
+Vào tháng 2 năm 2019, các nhà khoa học y tế tuyên bố rằng iridium gắn với albumin, tạo ra một phân tử nhạy quang, có thể xâm nhập các tế bào ung thư và sau khi được chiếu xạ bằng ánh sáng, tiêu diệt các tế bào ung thư.
+
+
+=== Nhãn khoa ===
+Như đã trích dẫn ở trên, verteporfin đã được chấp thuận rộng rãi để điều trị AMD ướt bắt đầu vào năm 1999. Thuốc nhắm vào hệ thần kinh được gây ra bởi tình trạng này.
+
+
+=== Liệu pháp quang miễn dịch ===
+Liệu pháp quang miễn dịch là một phương pháp điều trị ung thư cho các bệnh ung thư khác nhau kết hợp liệu pháp quang động của khối u với điều trị bằng liệu pháp miễn dịch. Kết hợp liệu pháp quang động với liệu pháp miễn dịch giúp tăng cường đáp ứng kích thích miễn dịch và có tác dụng hiệp đồng trong điều trị ung thư di căn.
+
+
+=== Trúng đích mạch máu ===
+Một số chất nhạy nhạy quang tích lũy tự nhiên trong các tế bào nội mô của mô mạch máu cho phép PDT 'nhắm mục tiêu mạch máu'.
+Verteporfin đã được chứng minh là nhắm mục tiêu vào hệ thần kinh do thoái hóa điểm vàng ở hoàng điểm trong vòng ba mươi phút đầu sau khi tiêm tĩnh mạch thuốc.
+So với các mô bình thường, hầu hết các loại ung thư đặc biệt tích cực trong cả quá trình hấp thu và tích lũy các chất nhạy quang, khiến ung thư đặc biệt dễ bị tổn thương với PDT. Vì các chất nhạy quang cũng có thể có ái lực cao đối với các tế bào nội mô mạch máu.
+
+
+== Lịch sử ==
+
+
+=== Kỷ nguyên hiện đại ===
+Vào cuối thế kỷ XIX. Finsen đã chứng minh thành công liệu pháp quang học bằng cách sử dụng ánh sáng được lọc nhiệt từ đèn hồ quang carbon ("đèn Finsen") trong điều trị bệnh lao da được gọi là lupus Vulgaris, nhờ đó ông đã giành giải thưởng Nobel về sinh lý học và y khoa năm 1903.
+Năm 1913, một nhà khoa học người Đức khác, Meyer-Betz, đã mô tả khối vấp ngã chính của liệu pháp quang động. Sau khi tự tiêm haematoporphyrin (Hp, một chất nhạy quang), anh đã nhanh chóng trải nghiệm độ nhạy cảm chung của da khi tiếp xúc với ánh sáng mặt trời.
+Bằng chứng đầu tiên cho thấy các tác nhân, thuốc nhuộm tổng hợp nhạy sáng, kết hợp với nguồn sáng và oxy có thể có tác dụng chữa bệnh tiềm năng được đưa ra vào đầu thế kỷ 20 trong phòng thí nghiệm của Hermann von Tappeiner ở Munich, Đức. Đức đang dẫn đầu thế giới về tổng hợp thuốc nhuộm công nghiệp vào thời điểm đó.
+Trong khi nghiên cứu tác dụng của acridine đối với các nền văn hóa paramecia, Oscar Raab, một sinh viên của von Tappeiner đã quan sát thấy một tác dụng độc hại. Vô tình Raab cũng quan sát thấy rằng ánh sáng là cần thiết để giết chết paramecia. Công việc tiếp theo trong phòng thí nghiệm của von Tappeiner cho thấy oxy là điều cần thiết cho 'hành động quang động'- một thuật ngữ được đặt ra bởi von Tappeiner.
+Von Tappeiner và các đồng nghiệp đã thực hiện thử nghiệm PDT đầu tiên ở những bệnh nhân ung thư biểu mô da bằng cách sử dụng chất nhạy quang, eosin. Trong số 6 bệnh nhân bị ung thư biểu mô tế bào đáy bề mặt, được điều trị bằng dung dịch eosin 1% và tiếp xúc lâu dài với ánh sáng mặt trời hoặc đèn hồ quang, 4 bệnh nhân cho thấy độ phân giải khối u và thời gian tái phát 12 tháng.
+Năm 1924, Policard tiết lộ khả năng chẩn đoán của huỳnh quang hematoporphyrin khi ông quan sát thấy rằng bức xạ cực tím kích thích huỳnh quang đỏ trong sarcomas của chuột thí nghiệm. Policard đưa ra giả thuyết rằng huỳnh quang có liên quan đến sự tích lũy hematoporphyrin nội sinh.
+Năm 1948, Figge và đồng nghiệp  đã chỉ ra trên các động vật trong phòng thí nghiệm rằng porphyrin thể hiện mối quan hệ ưu tiên đối với các tế bào phân chia nhanh chóng, bao gồm các tế bào ác tính, phôi thai và tái tạo. Họ đề xuất rằng porphyrin có thể được sử dụng để điều trị ung thư.
+Chất nhạy quang Haematoporphyrin Derivative (HpD), được đặc trưng lần đầu tiên vào năm 1960 bởi Lipson. Lipson tìm kiếm một tác nhân chẩn đoán phù hợp để phát hiện khối u. HpD cho phép Lipson đi tiên phong trong việc sử dụng nội soi và huỳnh quang HpD. HpD là một loài porphyrin có nguồn gốc từ haematoporphyrin, từ lâu, porphyrin đã được coi là tác nhân thích hợp cho bệnh u xơ tử cung và PDT khối u vì các tế bào ung thư biểu hiện sự hấp thu và ái lực lớn hơn đáng kể đối với porphyrin so với các mô bình thường. Điều này đã được quan sát bởi các nhà nghiên cứu khác trước khi đến với Lipson.
+Thomas Dougherty và đồng nghiệp  tại Viện Ung thư Roswell Park, Buffalo NY, đã thử nghiệm lâm sàng PDT vào năm 1978. Họ đã điều trị 113 khối u ác tính ở da hoặc dưới da bằng HpD và quan sát thấy độ phân giải toàn bộ hoặc một phần của 111 khối u. Dougherty đã giúp mở rộng các thử nghiệm lâm sàng và thành lập Hiệp hội Quang động học Quốc tế, vào năm 1986. 
+John Toth, giám đốc sản phẩm của Cooper Medical Devices Corp/Cooper Lasersonics, nhận thấy "hiệu ứng hóa học quang động" của liệu pháp và đã viết bài báo trắng đầu tiên đặt tên cho liệu pháp "Liệu pháp quang động" (PDT) bằng laser nhuộm argon lâm sàng sớm vào khoảng năm 1981. Công ty đã thiết lập 10 địa điểm lâm sàng tại Nhật Bản nơi thuật ngữ "phóng xạ" có ý nghĩa tiêu cực.
+HpD, dưới tên thương hiệu Photofrin, là tác nhân PDT đầu tiên được chấp thuận sử dụng lâm sàng vào năm 1993 để điều trị một dạng ung thư bàng quang ở Canada. Trong thập kỷ tiếp theo, cả PDT và việc sử dụng HpD đều nhận được sự chú ý của quốc tế và được chấp nhận lâm sàng nhiều hơn và dẫn đến các phương pháp điều trị PDT đầu tiên được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ Japa và các bộ phận của Châu Âu sử dụng để chống lại một số bệnh ung thư thực quản và không nhỏ ung thư phổi tế bào.
+ Photofrin có nhược điểm là nhạy cảm ánh sáng kéo dài của bệnh nhân và hấp thụ bước sóng dài yếu (630 nm). Điều này dẫn đến sự phát triển của các chất nhạy nhạy quang thế hệ thứ hai, bao gồm Verteporfin (một dẫn xuất của benzoporphyrin, còn được gọi là Visudyne) và gần đây, các chất chống nhạy cảm nhắm mục tiêu thế hệ thứ ba, chẳng hạn như thuốc chống ánh sáng hướng kháng thể.
+Vào những năm 1980, David Dolphin, Julia Levy và các đồng nghiệp đã phát triển một chất nhạy quang mới lạ, verteporfin. Verteporfin, một dẫn xuất porphyrin, được kích hoạt ở 690   nm, bước sóng dài hơn nhiều so với Photofrin. Nó có tài sản của sự hấp thụ ưu đãi của neovasculature. Nó đã được thử nghiệm rộng rãi để sử dụng trong điều trị ung thư da và được FDA chấp thuận vào năm 2000 để điều trị thoái hóa điểm vàng liên quan đến tuổi ẩm ướt. Vì vậy, đây là phương pháp điều trị y tế đầu tiên từng được chấp thuận cho tình trạng này, đây là nguyên nhân chính gây giảm thị lực.
+Các nhà khoa học Nga đã đi tiên phong trong một chất nhạy quang gọi là Ph photoem, giống như HpD, có nguồn gốc từ haematoporphyrin vào năm 1990 bởi Mironov và đồng nghiệp. Ph photoem đã được Bộ Y tế Nga phê duyệt và thử nghiệm lâm sàng từ tháng 2 năm 1992 đến 1996. Một hiệu quả điều trị rõ rệt đã được quan sát thấy ở 91 phần trăm trong số 1500 bệnh nhân. 62 phần trăm có tổng độ phân giải khối u. Hơn 29 phần trăm có> 50% co rút khối u. Trong chẩn đoán sớm, bệnh nhân 92% có kinh nghiệm giải quyết hoàn chỉnh.
+Các nhà khoa học Nga đã hợp tác với các nhà khoa học NASA, những người đang xem việc sử dụng đèn LED như là nguồn sáng phù hợp hơn, so với laser, cho các ứng dụng PDT.
+Từ năm 1990, người Trung Quốc đã phát triển chuyên môn lâm sàng với PDT, sử dụng chất nhạy quang được sản xuất trong nước, có nguồn gốc từ Haematoporphyrin. Trung Quốc đáng chú ý về chuyên môn trong việc giải quyết các khối u khó tiếp cận.
+
+
+== Tổ chức quang động và quang sinh học ==
+Hiệp hội quang động quốc tế (IPA)
+Hiệp hội Quang sinh học Hoa Kỳ (ASP)
+Hiệp hội PDT PanAmerican Lưu trữ 2017-12-30 tại Wayback Machine
+Hiệp hội Photobiology châu Âu (ESP)
+
+
+== Khác ==
+Liệu pháp PUVA sử dụng psoralen làm chất nhạy quang và tia cực tím UVA làm nguồn sáng, nhưng hình thức trị liệu này thường được phân loại là một hình thức trị liệu riêng biệt với liệu pháp quang động.
+Để cho phép điều trị các khối u sâu hơn một số nhà nghiên cứu đang sử dụng nội chemiluminescence để kích hoạt photosensitiser.
+
+
+== Xem thêm ==
+Liệu pháp chiếu xạ máu
+Thuốc laser
+Liệu pháp quang hóa
+Y quang học
+Dược quang học
+Photostatin
+Liệu pháp huyết động
+Nanodumbbells, đang được nghiên cứu để sử dụng có thể trong liệu pháp quang động 
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Hiệp hội quang động quốc tế
+Liệu pháp quang động cho bệnh ung thư từ NCI

@@ -1,0 +1,23 @@
+Sinistrin là một polymer đường hoặc polysacarit tự nhiên, còn được gọi là polyfructosane. Nó thuộc nhóm fructan, như inulin. Vì đây là trường hợp với các chất tương tự, chẳng hạn như fructans hoặc inulin, sinistrin hoạt động như một phân tử lưu trữ năng lượng trong thực vật.
+
+
+== Khám phá, lịch sử và sản xuất ==
+Vào năm 1879, Schmiedeberg đã tìm cách cô lập carbohydrate này từ củ của cây bí đỏ (Urginea maritima). Ông đặt tên cho chất này là 'sinistrin', từ tiếng Latin 'nham hiểm' cho bên trái, theo các hoạt động xoay quang học của nó. Sinistrin cũng được tìm thấy trong chất nhầy của ốc ăn được (Helix pomatia) bởi Hammarsten vào năm 1885. Ngày nay sinistrin được sản xuất công nghiệp từ bóng đèn mực đỏ bằng nhiều bước chiết xuất và tinh chế khác nhau.
+
+
+== Hóa sinh ==
+Sinistrin là một loại D -fructan loại inulin với các nhánh ở vị trí 6. Nó thuộc nhóm fructans và được tính một phần trong số các fructooligosacarit (FOS). Sinistrin được tạo thành từ các đơn vị fructose (97%) và các đơn vị glucose (3%, xấp xỉ), xây dựng một chuỗi các phân tử fructose với một đơn vị glucose cuối cùng. Mức độ trùng hợp (dp) của sinistrin trung bình ở mức 15, trọng lượng phân tử ở mức 3500 Da với phạm vi từ 2000 đến 6000 Da. Sự khác biệt chính giữa sinistrin và inulin là khả năng kháng kiềm cao hơn và khả năng hòa tan trong nước tốt hơn (ngay cả trong nước lạnh) của sinistrin so với inulin.
+
+
+== Công dụng ==
+
+
+=== Y khoa ===
+Giống như inulin, sinistrin polymer không được chuyển hóa trong máu người và qua thận không thay đổi. Cả hai, inulin và sinsitrin, do đó thường được sử dụng để chẩn đoán rối loạn thận. Một thước đo quan trọng của chức năng thận là tốc độ lọc cầu thận (GFR). GFR là thể tích dịch được lọc từ mao mạch cầu thận (thận) vào viên nang Bowman mỗi đơn vị thời gian. Để đo thông số này, một chất đánh dấu được tiêm vào dòng máu và tốc độ bài tiết của nó qua nước tiểu được so sánh với nồng độ trong huyết tương. Một chất đánh dấu như vậy cần phải không độc hại, không nội sinh trong tuần hoàn, không được tái hấp thu cũng không được tiết ra ở thận và có thể đo lường được. Phép đo độ thanh thải sinistrin được sử dụng để xác định chính xác GFR ở người. Các xét nghiệm để xác định sinistrin trong nước tiểu hoặc huyết tương giống hệt với sử dụng inulin. Tuy nhiên, sinistrin thường được ưa thích để thay thế, inulin, vì nó hòa tan cao trong nước và dễ xử lý hơn. Đối với ứng dụng chẩn đoán thận, dung dịch sinistrin dạng nước được chấp thuận dưới tên thương mại „Inutest.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+DP Mertz und H. Sarre: Polyfructosan-S: Eine neue inulinartige Substanz zur Bestimmung des Glomerulusfiltrates und des Physiologisch aktiven extracellulären Flüssigkeitsvolumens beim Menschen. Klin Wochenschrift 1963, 41: 868-72.

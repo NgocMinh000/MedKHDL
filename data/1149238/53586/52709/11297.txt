@@ -1,0 +1,69 @@
+Mẫu hình, hệ hình, hay mô phạm (tiếng Anh: Paradigm) là một khái niệm có nhiều nghĩa hơi khác nhau.
+Từ cuối thế kỷ 19, từ này có nghĩa là nề nếp dạng thức suy nghĩ trong một khuôn khổ thực nghiệm khoa học hay các ngữ cảnh khác của tri thức.
+Trong tiếng Anh, khái niệm này (paradigm) đặc biệt để chỉ văn phạm: Từ điển 1900 Merriam-Webster định nghĩa đó là kỹ thuật chỉ dùng trong ngữ cảnh của văn phạm hay trong nghệ thuật tu từ, như là một cách gọi cho một truyên ngụ ngôn hay một truyện cổ dân gian có minh hoạ.
+Trong ngôn ngữ học, Ferdinand de Saussure dùng từ mẫu hình để chỉ một lớp các phần tử có nhiều tính chất tương tự nhau.
+Triết gia Thomas Kuhn đã cho từ này một ý nghĩa hiện tại khi ông ta dùng nó để chỉ tập hợp các thực hành và thao tác mà chúng xác định nên một khuôn khổ thực nghiệm khoa học trong suốt một giai đoạn của thời gian. Ý nghĩa mà Kuhn dùng đã và đang bị lạm dụng rộng rãi. Chính Kuhn dùng các từ như là "mẫu" (exemplar) và "khoa học thủ thuật" (normal science) để xác định chính xác hơn nghĩa triết học của nó. Mặc dù vậy, trong cuốn sách The Structure of Scientific Revolutions, Kuhn lại định nghĩa mẫu hình như là:
+
+Cái gì để được quan sát và nghiên cứu kỹ lưỡng. (đối tượng)
+Các loại câu hỏi mà chúng cần được giả thiết và thử nghiệm (hay chứng minh) cho các câu trả lời trong quan hệ tới các chủ thể.
+các câu hỏi đó được đặt ra như thế nào.
+các kết quả của sự điều tra nghiên cứu nên được diễn giải như thế nào.
+Xem thêm dịch chuyển mẫu hình, xã hội học và triết học
+
+
+== Các ví dụ ==
+
+
+=== Trong Vật lý học ===
+Các sự dịch chuyển của mẫu hình có xu hướng trở nên đột ngột nhất ở những nơi mà người ta ít nghi ngờ nhất, chẳng hạn như trong ngành vật lý. Vào cuối thế kỉ 19 các nhà vật lý dường như bị lấp đầy bởi khuôn khổ (ý tưởng) rằng không còn nhiều chi tiết nữa của một hệ thống nghiên cứu lớn. Cụ thể là trong năm 1900, Lord Kelvin có một khẳng định nổi tiếng là:
+
+There is nothing new to be discovered in physics now. All that remains is more and more precise measurement.
+(Ngày nay, không còn gì mới để mà khám phá trong vật lý nữa. Tất cả việc còn lại là sự đo đạc ngày càng chính xác).
+Chỉ 5 năm sau, Albert Einstein xuất bản nghiên cứu của ông về lý thuyết tương đối hẹp, lý thuyết này đã phủ nhận tập họp các quy luật rất đơn giản đã được đặt ra bởi cơ học Newton mà vốn dĩ được dùng để miêu tả lực và chuyển động trong nhiều thế kỉ trước đó. Trong trường hợp này, các mẫu hình mới thu nhỏ cái (mẫu hình) cũ thành một trường hợp đặc biệt. (Vì cơ học Newton là một cách tính gần đúng cho các hệ có vận tốc chậm so với vận tốc ánh sáng).
+
+
+=== Trong kỹ nghệ đồng hồ ===
+Từ cuối thế kỷ thứ 18, Thụy Sĩ đã trở thành cường quốc về đồng hồ đeo tay. Cho đến thập niên 1950 và ngay cả đến đầu thập niên 1970 thì ít ai dám nghĩ rằng sự thống lĩnh thị trường đồng hồ đeo tay của Thụy Sĩ có thể bị thay đổi nhanh chóng. Và cũng ít ai biết rằng, đồng hồ đeo tay điện tử dùng tinh thể thạch anh mà ngày nay Nhật chiếm phần lớn thị phần của thế giới lại là một phát minh của kĩ sư vốn làm việc tại các hãng đồng hồ Thụy Sĩ—năm 1967 Trung tâm Horloger (CEH) của Thụy Sĩ đã phát triển đồng hồ điện tử đeo tay dùng tinh thể thạch anh đầu tiên; trong khi đó, mãi đến tháng 12 năm 1969 hãng Seiko Nhật mới cho ra đời đồng hồ thạch anh đeo tay đầu tiên với giá cao hơn 1000 Mỹ kim một chiếc! Các nhà kỹ nghệ đồng hồ đeo tay Thụy Sĩ đã đánh mất cơ hội khi mẫu hình của đồng hồ đeo tay dịch chuyển từ dạng cơ khí sang dạng quartz.
+
+
+=== Trong chính khái niệm mẫu hình ===
+Trong cuốn The Structure of Scientific Revolutions, Kuhn viết rằng Sự chuyển tiếp thành công từ một mẫu hình sang một mẫu hình khác thông qua cuộc cách mạng là dạng thức phát triển thông thường của khoa học khi đã chín mùi. (trang 12) Ý kiến của Kuhn tự nó thời bấy giờ đã là một cuộc cách mạng, như là một nguyên do của một sự thay đổi chính yếu trong cách thức mà các viện sĩ nói về khoa học. Do đó, nó gây ra hay đã tự là một phần của một sự "dịch chuyển mẫu hình" trong lịch sử và trong khoa học xã hội.
+Các triết gia và các sử gia về ngành khoa học, bao gồm cả Kuhn, một cách tối hậu, đã chấp nhận một phiên bản điều chỉnh mô hình của chính Kuhn, trong đó, nó tổng hợp hoá quan niệm nguyên thủy với mô hình tiếp cận theo sau đó. Mô hình nguyên thủy của Kuhn giờ đã trở nên quá giới hạn. Chỗ mà Kuhn tin tưỏng ban đầu chỉ có thể là một mẫu hình trong thời điểm đó mà thôi. Đây cũng là một ví dụ tiếp theo của việc dịch chuyển mẫu hình trong cách nhận thức hàn lâm về khái niệm dịch chuyển mẫu hình.
+
+
+== Các cách dùng khác ==
+
+
+=== Nghĩa thông thường ===
+Có thể việc sử dụng thông thường nhất của từ mẫu hình là trong ý nghĩa của Weltanschauung. Ví dụ, trong khoa học xã hội, từ này dùng để miêu tả tập họp các kinh nghiệm, các tin tưởng, và các giá trị mà nó ảnh hưởng tới phương cách để một cá nhân nhận thức thực tế và trả lời cho nhận thức đó. Các nhà khoa học xã hội tiếp thu cụm thừ "dịch chuyển mẫu hình" của Kuhn để bao hàm một hiện tượng xã hội đặc thù hơn là cái ý nghĩa ban đầu trong nghiên cứu của Kuhn về các thực nghiệm và phát triển của khoa học.
+
+
+=== Nghĩa thiết kế ===
+Từ mẫu hình cũng được dùng để chỉ một dạng thức hay một mô hình (nguồn: dictionary.com), một sự trong sáng rõ ràng, một Ví dụ điển hình, hay là một kiểu nguyên thủy (nguồn: m-w.com). Danh từ này thường được dùng trong ý nghĩa của các chuyên môn về thiết kế. Thiết kế các mẫu hình hay các kiểu nguyên thủy, bao gồm các mẫu mực tốt cho các giải đáp về thiết kế. Tham khảo nổi tiếng về các mẫu hình thiết kế là Design Paradigms: A Sourcebook for Creative Visualization (Một cuốn sách nguồn về sự hình dung sáng tạo), của Wake, và Design Paradigms (Thiết kế các mẫu hình) của Petroski.
+
+
+=== Trong khoa điều khiển học ===
+Danh từ này cũng được dùng trong khoa điều khiển học (cybernetics). Ở đây nó có nghĩa (trong một ý bao quát) là một (khái niệm) chương trình sơ khai để giảm thiểu khối hỗn độn sang một dạng có trật tự. Hãy lưu ý những sự tương tự của từ này với khái niệm entropy trong hóa học và vật lý. Một mẫu hình là một hình thức ngăn cấm tiến hành các tương tác nhằm làm tăng tổng entropy của hệ thống. Để tạo được một mẫu hình cần có một hệ thống kín lại chấp nhận được mọi thay đổi. Do đó, một mẫu hình có thể chỉ áp dụng cho một hệ thống mà nó chưa đạt đến giai doạn cuối của nó.
+
+
+=== Trong tin học ===
+
+Trong tin học, một mẫu hình về lập trình là một kiểu lập trình mà nó là kiểu có tính mẫu hình trong tiến hành về công nghệ phần mềm.
+
+
+== Nguồn gốc ==
+Chữ paradigm có gốc từ παράδειγμα (paradeigma) trong tiếng Hy Lạp có nghĩa là "mô hình" hay "Ví dụ"; từ chữ παραδεικνύναι (paradeiknunai) có nghĩa là "làm mẫu".
+
+
+== Trích dẫn ==
+Paradigm "is a word too often used by those who would like to have a new idea but cannot think of one."— Mervyn King, then Deputy Governor, Bank of England
+
+
+== Tham khảo ==
+
+Clarke, Thomas and Clegg, Stewart (eds) (2000) "Changing Paradigms" London: HarperCollins ISBN 0006387314
+BBC -- The History of the Digital Watch
+
+
+== Xem thêm ==
+en:Macrocosm and microcosm

@@ -1,0 +1,135 @@
+Acid acetic, hay acid ethanoic là một chất lỏng không màu và là acid hợp chất hữu cơ với công thức hóa học CH3COOH (cũng viết là CH3CO2H, C2H4O2, hoặc HC2H3O2). Giấm có tối thiểu 4% acid acetic theo thể tích. Điều đó khiến acid acetic là thành phần chính trong giấm ngoài nước.
+Acid acetic là acid carboxylic đơn giản thứ hai (sau acid fomic). Nó là một hóa chất công nghiệp và thuốc thử quan trọng, được sử dụng chủ yếu trong sản xuất cellulose acetat cho phim ảnh, polyvinyl acetat làm keo dán gỗ, sợi tổng hợp và vải. Trong các hộ gia đình, acid acetic pha loãng thường được sử dụng trong chất tẩy cặn. Trong ngành công nghiệp thực phẩm, acid acetic được kiểm soát bởi mã phụ gia thực phẩm E260 như một chất điều chỉnh độ acid và như một loại gia vị. Trong hóa sinh, nhóm acethyl, có nguồn gốc từ acid acetic, là cơ bản của mọi dạng sống. Khi liên kết với coenzymer A, nó là trung tâm của quá trình chuyển hóa carbohydrate và chất béo.
+Nhu cầu toàn thế giới về acid acetic là khoảng 6,5 triệu tấn mỗi năm, trong đó khoảng 1,5 triệu tấn được đáp ứng bằng cách tái chế; phần còn lại được sản xuất từ methanol. Giấm chủ yếu là acid acetic loãng, thường được tạo ra bằng quá trình lên men và quá trình oxy hóa ethanol sau đó.
+
+
+== Lịch sử ==
+Acid acetic được biết đến từ giấm khi cho bia và rượu vang tiếp xúc với không khí, phương pháp sản xuất acid acetic từ vi khuẩn này vẫn được sử dụng trên toàn cầu cho đến ngày nay.
+Việc sử dụng acid acetic trong thuật giả kim kéo dài cho đến thế kỷ III TCN, khi nhà triết học Hy Lạp Theophrastus miêu tả cách mà giấm phản ứng với các kim loại tạo ra các chất nhuộm được sử dụng trong nghệ thuật, như chì trắng (chì carbonat) và verdigris (xanh gỉ đồng), một hỗn hợp của các muối đồng màu xanh gồm đồng(II) acetat. Người La Mã cổ đại đun rượu chua trong các chậu chì tạo ra một loại xi-rô rất ngọt gọi là sapa. Sapa chứa nhiều chì acetat, một chất ngọt cũng gọi là đường chì (sugar of lead) hoặc đường của Saturn, đã làm nhiễm độc chì trong giới quý tộc La Mã.
+Trong thế kỷ thứ VIII, Jabir Ibn Hayyan (Geber) là người đầu tiên cô đọng acid acetic từ giấm bằng cách chưng cất. Trong thời Phục Hưng, acid acetic băng được điều chế bằng cách chưng cất khô các acetat kim loại nhất định (loại phổ biến nhất là đồng(II) acetat). Nhà giả kim thuật Đức thế kỷ thứ XVI Andreas Libavius đã miêu tả cách chưng cất như thế, và ông đã so sánh acid acetic tạo ra bằng phương pháp này với từ giấm. Sự có mặt của nước trong giấm đã làm ảnh hưởng đến tính chất của acid acetic mà đối với các nhà hóa học trong vài thế kỷ đã cho rằng acid acetic băng và acid acetic trong giấm là hai chất khác nhau. Nhà hóa học Pháp Pierre Adet đã chứng minh rằng chúng là một.
+Năm 1847, nhà hóa học Đức Hermann Kolbe lần đầu tiên đã tổng hợp acid acetic từ các vật liệu vô cơ. Chuỗi phản ứng này gồm quá trình chlor hóa carbon disulfide thành carbon tetrachloride, sau đó là quá trình nhiệt phân thành tetrachloroethylen và chlor hóa trong nước tạo thành acid trichloracetic, và cuối cùng là phản ứng oxy hóa khử vô cơ bằng cách điện phân tạo thành acid acetic.
+Năm 1910, hầu hết các acid acetic được sản xuất từ việc chưng cất gỗ từ sản phẩm trung gian là rượu chưng cất từ gỗ. Loại rượu này cho tác dụng với calci hydroxide tạo ra calci acetat, sau đó cho calci acetat tác dụng với acid sulfuric thu được acid acetic. Lúc này, Đức sản xuất khoảng 10.000 tấn acid acetic băng, khoảng 30% số này được sản xuất thuốc nhuộm indigo.
+
+
+== Tính chất hóa học ==
+
+Nguyên tử hydro (H) trong nhóm carboxyl (−COOH) trong các acid carboxylic như acid acetic có thể cung cấp một ion H+ (proton), làm cho chúng có tính chất acid. Acid acetic là một acid yếu, thuộc nhóm acid monoprotic, có Ka bằng 4,75. Nó tạo ra gốc liên kết là acetat (CH3COO−). Dung dịch 1,0 M (tương đương nồng độ giấm gia đình) có pH là 2,4, cho thấy chỉ 0,44% các phân tử acid acetic bị phân ly.
+
+Cấu trúc tinh thể của acid acetic cho thấy các phân tử nhị trùng liên kết bởi các liên kết hydro. Các chất nhị trùng cũng có thể được phát hiện ở dạng hơi ở 120 °C. Chúng cũng có mặt trong pha lỏng trong các dung dịch loãng trong các dung môi không có liên kết hydro, và một mức độ nhất định trong acid acetic tinh khiết, nhưng bị phá vỡ trong các dung môi có liên kết hydro. Enthalpy phân ly của các chất này ước tính khoảng 65,0–66,0 kJ/mol, và entropy phân ly khoảng 154–157 J mol−1 K−1. Cách thức nhị trùng này cũng có thể hiện ở các acid carboxylyc thấp hơn khác.
+Acid acetic lỏng là dung môi protic dính ướt (phân tử phân cực), tương tự như ethanol và nước. Với hằng số điện môi trung bình khoảng 6,2, nó có thể hoà tan không chỉ trong các hợp chất phân cực như các muối vô cơ và các loại đường mà nó còn có khả năng hòa tan trong các hợp chất không phân cực như dầu, và các nguyên tố như lưu huỳnh và iod. Nó cũng có thể hòa trộn với các dung môi phân cực và không phân cực khác như nước, chloroform, và hexan. Đối với các ankan cao phân tử (từ octan trở lên) acid acetic không có khả năng trộn lẫn một cách hoàn toàn, và khả năng trộn lẫn tiếp tục giảm khi số n-ankan càng lớn. Tính chất hòa tan và độ trộn lẫn của acid acetic làm cho nó được ứng dụng rộng rãi trong công nghiệp.
+
+
+=== Các phản ứng hóa học ===
+Acid acetic có thể ăn mòn các kim loại như sắt, mangan và kẽm sinh ra khí hydro và các muối kim loại tương ứng gọi là các acetat. Nhôm khi tiếp xúc với oxy sẽ tạo thành một màng mỏng nhôm oxide trên bề mặt làm cho nó có khả năng chống lại một cách tương đối sự ăn mòn của acid, điều này cho phép các bình chứa bằng nhôm có thể dùng để vận chuyển acid acetic. Các acetat kim loại cũng có thể được điều chế từ acid acetic và một base tương ứng, như phản ứng phổ biến là "natri bicarbonat + giấm". Chỉ trừ chromi(II) acetat, thì hầu hết các acetat còn lại đều có thể hòa tan trong nước.
+
+Mg(r) + 2 CH3COOH(l) → (CH3COO)2Mg(dd) + H2(k)
+NaHCO3(r) + CH3COOH(dd) → CH3COONa(dd) + CO2(k) + H2O(l)
+
+Acid acetic có thể tạo các phản ứng hóa học đặc trưng của nhóm acid carboxylic như tạo ra nước và ethanoat kim loại khi phản ứng với kiềm; tạo ra ethanoat kim loại khi phản ứng với kim loại; và tạo ra ethanoat kim loại, nước và carbon dioxide khi phản ứng với các carbonat và bicarbonat. Phản ứng đặc trưng nhất là tạo thành ethanol, và tạo thành các dẫn xuất như acethyl chloride bằng cách thay thế nhóm -OH bởi -Cl. Các dẫn xuất thay thế khác như anhydride acetic; anhydride này được tạo ra theo phản ứng trùng ngưng tách phân tử nước từ hai phân tử của acid acetic. Các ester của acid acetic tương tự có thể được tạo ra bởi ester hóa, và các amit. Khi nung trên 440 °C, acid acetic phân hủy tạo ra carbon dioxide và methan, hoặc tạo ra ethenon và nước.
+Acid acetic có thể được nhận biết bởi mùi đặc trưng của nó. Phản ứng biến đổi màu đối với các muối của acid acetic là cho tác dụng với dung dịch sắt(III) chloride, phản ứng này tạo ra màu đỏ đậm sau khi acid hóa. Khi nung nóng các acetat với arsen trioxide tạo ra cacodyl oxide, chất này có thể được nhận biết bởi các hơi có mùi hôi.
+
+
+=== Hóa sinh ===
+Nhóm acethyl có gốc từ acid acetic, là thành phần cơ bản đối với sinh hóa học của tất cả các dạng sống. Khi nằm trong coenzymer A, nó là trung tâm của sự trao đổi chất của các carbohydrat và mỡ. Tuy nhiên, nồng độ của các acid acetic tự do trong các tế bào ở mức thấp nhằm tránh phá vỡ pH của các tế bào. Không giống với các acid carboxylic mạch dài, (các acid béo), acid acetic không có mặt trong các triglyceride tự nhiên. Tuy nhiên, các triglyceride nhân tạo như triacetin (glycerin triacetat) là một phụ gia thực phẩm phổ biến, và được tìm thấy trong các loại mỹ phẩm và thuốc đắp.
+Acid acetic được sản xuất và chiết tách bằng vi khuẩn acid acetic, các vi khuẩn phổ biến là chi Acetobacter và Clostridium acetobutylicum. Các vi khuẩn này được tìm thấy trên khắp thế giới trong thức ăn, nước và đất, và do đó acid acetic thường được sản xuất từ trái cây và các thực phẩm hư khác. Acid acetic cũng là một thành phần của chất nhờn âm đạo của người và các linh trưởng khác, các chất này có tác dụng kháng khuẩn nhẹ.
+
+
+== Sản xuất ==
+
+Acid acetic được sản xuất theo cả hai phương pháp sinh học và tổng hợp. Ngày nay, lượng acid sản xuất theo phương pháp sinh học chỉ chiếm khoảng 10% sản lượng thế giới, nhưng nó vẫn là một phương pháp quan trọng dùng để sản xuất giấm, theo các luật về độ tinh khiết thực phẩm ở một số quốc gia quy định rằng giấm sử dụng trong thực phẩm phải có nguồn gốc từ sinh học. Khoảng 75% acid acetic được sản xuất công nghiệp được dùng để sản xuất theo phương pháp carbonyl hóa methanol. Khoảng 15% còn lại được sản xuất từ các phương pháp thay thế khác. Tổng sản lượng acid acetic giấm ước tính khoảng 5 triệu tấn/năm, khoảng nửa trong số đó được sản xuất ở Hoa Kỳ. Sản lượng ở châu Âu khoảng 1 triệu tấn/năm và đang giảm, trong khi đó Nhật Bản sản xuất khoảng 0,7 triệu tấn/năm. Khoảng 1,5 triệu tấn được tái chế hàng năm, nâng tổng sản lượng trên thị trướng thế giới lên 6,5 triệu tấn/năm. Hai nhà sản xuất acid acetic giấm lớn nhất là Celanese và Công ty hóa BP. Các nhà sản xuất lớn khác như Millennium Chemicals, Sterling Chemicals, Samsung, Eastman, và Svensk Ethanolkemi.
+
+
+=== Carbonyl hóa methanol ===
+Hầu hết acid acetic giấm được sản xuất bằng phương pháp carbonyl hóa methanol. Trong quy trình này, methanol và carbon monoxide phản ứng với nhau tạo ra acid aextic theo phương trình:
+
+CH3OH + CO → CH3COOH
+Quá trình này liên quan đến chất trung gian iodomethan, và diễn ra theo 3 bước. Chất xúc tác, thường là phức chất kim loại, được dùng trong bước 2.
+
+CH3OH + HI → CH3I + H2O
+CH3I + CO → CH3COI
+CH3COI + H2O → CH3COOH + HI
+Bằng cách theo thế các điều kiện phản ứng, anhydride acetic cũng có thể được tạo ra trong từ các vật liệu này. Bởi vì cả methanol và carbon monoxide đều là các hàng hóa nguyên liệu, carbonyl hóa methanol trong một thời gian dài là phương pháp sản xuất acid acetic được ưa chuộng. Henry Drefyus ở British Celanese đã xây dựng một nhà máy sản xuất theo phương pháp này vào năm 1925. Tuy nhiên do thiếu các vật liệu có thể chứa các hợp chất gây ăn mòn ở áp suất cao (khoảng 200 atm hoặc hơn) đã không được khuyến khích thương mại hóa phương pháp này. Phương pháp carbonyl hóa methanol thương mại đầu tiên, sử dụng chất xúc tác cobalt, đã được công ty hóa chất Đức BASF phát triển năm 1963. Năm 1968, chất xúc tác gốc rhodi (cis−[Rh(CO)2I2]−) được phát hiện có thể vận hành một cách hiệu phả ở áp suất thấp mà hầu như không có sản phẩm phụ. Nhà máy đầu tiên cử dụng chất xúc tác này được công ty hóa chất Hoa Kỳ Monsanto xây dựng năm 1970, và carbonyl hóa methanol với xúc tác rhodi trở thành một phương pháp phổ biến dùng để sản xuất (xem công nghệ Monsanto). Vào cuối thập niên 1990, Công ty hóa chất BP thương mại hóa chất xúc tác Cativa ([Ir(CO)2I2]−), được chết từ rutheni. Công nghệ Cativa dùng chất xúc tác iridi này sạch hơn và hiệu quả hơn và đã thay thế phần lớn công nghệ Monsanto, thường dùng trong cùng một nhà máy sản xuất.
+
+
+=== Oxy hóa acetaldehyde ===
+Trước khi thương mại hóa công nghệ Monsanto, hầu hết acid acetic được sản xuất bằng cách oxy hóa acetaldehyde. Phương pháp này là phương pháp quan trọng thứ hai vẫn còn được sử dụng mặc dù nó không thể cạnh tranh với phương pháp carbonyl hóa methanol.
+Acetaldehyde có thể được sản xuất bằng cách oxy hóa butan hoặc naphtha nhẹ, hoặc hydrat hóa ethylen. Khi butan hoặc naphtha nhẹ được nung nó trong không khí có mặt các ion kim loại khác nhau như mangan, cobalt, và chromi, peroxide và sau đó phân hủy tạo ra acid acetic theo phương trình phản ứng:
+
+2 C4H10 + 5 O2 → 4 CH3COOH + 2 H2O
+Phản ứng đặc trưng là sự kết hợp của nhiệt độ và áp suất được đều chỉnh sau cho đủ nóng để có thể giữ butan ở dạng lỏng. Các điều kiện phản ứng đặc trưng là 150 °C và 55atm. Các sản phẩm phụ cũng có thể được tạo ra, như butanon, ethyl acetat, acid formic, và acid propionic. Các sản phẩm này cũng có giá trị thương mại, và các điều kiện phản ứng có thể được thay thế để tạo ra số lượng sản phẩm nhiều hơn. Tuy nhiên, việc phân tách acid acetic ra khỏi hỗn hợp này làm cho phương pháp này khá tốn kém.
+Cùng các điều kiện và sử dụng các chất xúc tác tương tự trong việc oxy hóa butan, acetaldehyde có thể bị oxy hóa bởi oxy trong không khí tạo ra acid acetic:
+
+2 CH3CHO + O2 → 2 CH3COOH
+Sử dụng các chất xúc tác hiện đại, phản ứng này có thể tạo ra acid acetic hơn 95%. Các sản phẩm phụ là ethyl acetat, acid formic, và formaldehyde đều có điểm sôi thấp hơn acid acetic nên sẽ dễ tách chúng ra bằng cách chưng cất.
+
+
+=== Oxy hóa ethylen ===
+Acetaldehyde có thể được điều chế từ ethylen theo phản ứng Wacker, và sau đó oxy hóa như nên bên dưới. Trong thời gian gần đây, việc chuyển đổi ethylen thành acid acetic qua theo một bước, chi phí rẻ hơn đã được công ty Showa Denko thương mại hóa, công ty này đã xây dựng một nhà máy oxy hóa ethylen ở Ōita, Nhật Bản năm 1997. Quá trình này sử dụng chất xúc tác là kim loại paladi với sự hỗ trợ của acid heteropoly như acid tungstosilicic. Nó được xem là một phương pháp có thể cạnh tranh với phương pháp carbonyl hóa methanol đối với các nhà máy nhỏ hơn (100–250 ngàn tấn/năm), tùy thuộc vào giá địa phương của ethylen.
+
+
+=== Lên men oxy hóa ===
+Trong lịch sử nhân loại, acid acetic, ở dạng giấm, đã được tạo ra từ các vi khuẩn acid acetic thuộc chi Acetobacter. Khi cung cấp đủ oxy, các vi khuẩn này có thể tạo ra giấm từ các thực phẩm sinh cồn khác nhau. Các loại được sử dụng như rượu táo, rượu vang, và các loại ngũ cốc, gạo, mạch nha hoặc khoai tây lên men. Phản ứng hóa học chung nhất do các vi khuẩn thực hiện là:
+
+C2H5OH + O2 → CH3COOH + H2O
+Dung dịch rượu loãng trộn với Acetobacter và giữ ở nơi thoáng khí, ấm sẽ tạo ra giấm trong vòng vài tháng. Các phương pháp sản xuất giấm công nghiệp, người ta tăng tốc độ phản ứng bằng cách cung cấp nhiều oxy cho vi khuẩn.
+Các lô giấm đầu tiên được sản xuất bằng phương pháp lên men có thể là lỗi trong quá trình làm rượu vang. Nếu hèm rượu nho được lên men ở nhiệt độ quá cao, acetobacter sẽ phát triển lấn án nấm men có mặt tự nhiên trong nho. Vì nhu cầu giấm cho mục đích ẩm thực, y tế, và vệ sinh gia tăng, những người bán rượu nho học nhanh chóng cách sử dụng các vật liệu vô cơ khác để sản xuất giấm trong các tháng hè nóng trước khi nho đã chính và sẵn sàng để sản xuất rượu vang. Phương pháp này chậm, tuy nhiên, không phải lúc nào cũng thành công, khi những người bán rượu không hiểu quá trình này.
+Một trong những công nghệ thương mại hiện đại đầu tiên là "phương pháp nhanh" hoặc "phương pháp Đức", đã được ứng dụng ở Đức năm 1823. Trong phương pháp này, quá trình lên men diễn ra trong một tháp bọc bằng gỗ bào hoặc than. Các chất cung cấp cồn được cung cấp từ trên đỉnh tháp, và không khí sạch được cung cấp từ dưới lên bằng thông khí tự nhiên hoặc bơn đối lưu. Việc cung cấp không khí được cải thiên trong quá trình này làm giảm bớt thời gian điều chế giấm từ vài tháng còn vài tuần.
+Ngày nay, hầu hết giấm được sản xuất trong các thùng để ngầm được Otto Hromatka và Heinrich Ebner sử dụng đầu tiên năm 1949. Trong phương pháp này, rượu được lên men thành giấm trong bồn được đảo liên tục, và oxy được cung cấp bằng cách thổi bọt khí qua dung dịch. Sử dụng các ứng dụng hiện đại của phương pháp này, giấm chứa 15% acid acetic có thể được đều chế trong vòng 24 giờ, thậm chí đạt được độ giấm 20% trong vòng 60 giờ.
+
+
+=== Lên men kỵ khí ===
+Các loài vi khuẩn kỵ khí bao gồm cả thuộc chi Clostridium, có thể chuyển đổi đường thành acid acetic một cách trực tiếp mà không cần phải qua bước trung gian là tạo thành ethanol. Phản ứng chung mà các vi khuẩn thực hiện có thể được biểu diễn:
+
+C6H12O6 → 3 CH3COOH
+Trên quan điểm của một nhà hóa học công nghiệp, một điểm đáng chú ý là các vi khuẩn acetogen có thể tạo ra acid acetic từ các hợp chất chứa 1 carbon như methanol, carbon monoxide, hay hỗn hợp của carbon dioxide và hydro:
+
+2 CO2 + 4 H2 → CH3COOH + 2 H2O
+Khả năng Clostridium chuyển hóa trực tiếp các loại đường hoặc tạo ra acid acetic với chi phí đầu vào thấp, có nghĩa rằng các vi khuẩn này có thể có khả năng tạo ra acid acetic hiệu quả hơn phương pháp oxy hóa ethanol như Acetobacter. Tuy nhiên, vi khuẩn Clostridium íy chịu acid hơn Acetobacter. Ngay cả hầu hết các chủng Clostridium chịu acid nhất có thể tạo ra giấm chỉ đạt vài phần trăm acid acetic, so với các chủng Acetobacter có thể tạo ra giấm với nồng độ acid lên đến hơn 20%. Hiện tại, chi phí để sản xuất giấm bằng Acetobacter vẫn cao hơn dùng Clostridium và sau đó tách nó. Kết quả là, mặc dù vi khuẩn acetogenic đã được biết đến rộng rãi từ năm 1940, việc sử dụng ở quy mô công nghiệp của loại vi khuẩn này vẫn còn giới hạn trong một vài ứng dụng.
+
+
+== Ứng dụng ==
+
+Acid acetic là một chất phản ứng được dùng để sản xuất các hợp chất hóa học. Lượng sử dụng riêng lẻ lớn nhất là để sản xuất monomer vinyl acetat, tiếp theo là sản xuất acetic anhydride và ester. Lượng acid acetic dùng để sản xuất giấm là rất nhỏ so với ở trên.
+
+
+=== Monomer vinyl acetat ===
+Ứng dụng chủ yếu của acid acetic là sản xuất monomer vinyl acetate. Ứng dụng này tiêu thụ khoảng 40% đến 45% sản lượng acid acetic trên thế giới. Phản ứng có sự tham gia của ethylen với oxy và chất xúc tác là paladi.
+
+2 H3C-COOH + 2 C2H4 + O2 → 2 H3C-CO-O-CH=CH2 + 2 H2O
+Vinyl acetate có thể được polymer hóa tạo thành polyvinyl acetat hoặc thành các polymer khác ứng dụng trong sơn và chất kết dính.
+
+
+=== Sản xuất ester ===
+Các ester chính sản xuất từ acid acetic được sử dụng chủ yếu làm dung môi cho mực, sơn và chất phủ. Các ester như ethyl acetat, n-butyl acetat, isobutyl acetat, và propyl acetat, chúng được sản xuất một cách đặc biệt bằng phản ứng có xúc tác từ acid acetic và rượu tương ứng:
+
+H3C-COOH + HO-R → H3C-CO-O-R + H2O, (R = nhóm ankyl tổng quát]])
+Tuy nhiên, hầu hết ester acetat được sản xuất từ acetaldehyde bằng phản ứng Tishchenko. Thêm vào đó, các ete acetat được sử dụng làm các dung môi để loại bỏ nitrocellulose, sơn acrylic, véc-ni, và chất tẩy gỗ. Đầu tiên, glycol monoete được tạo ra từ ethylene oxide hoặc propylen oxide với rượu, sau đó chúng được ester hóa với acid acetic. Ba sản phẩm chính là ethylen glycol monoethyl ete acetat (EEA), ethylen glycol mono-butyl ete acetat (EBA), và propylen glycol mono-methyl ete acetat (PMA). Ứng dụng này tiêu thụ khoảng 15% đến 20% sản lượng acid acetic thế giới. Các ete acetat, ví dụ như EEA, được cho là có hại đối với sức khỏe sinh sản con người.
+
+
+=== Acetic anhydride ===
+Sản phẩm tách phân tử nước từ hai phân tử acid acetic tạo thành một phân tử gọi là acetic anhydride. Sản xuất acetic anhydride trên thế giới là một ứng dụng chính chiếm khoảng 25% đến 30% sản lượng acid acetic toàn cầu. Acetic anhydride có thể được sản xuất trực tiếp bằng carbonyl hóa methanol từ acid, và các nhà máy sản xuất theo công nghệ Cativa có thể được điều chỉnh để sản xuất anhydride.
+
+Acetic anhydride là một chất acethyl hóa mạnh. Vì vậy, ứng dụng chính của nó là tạo cellulose acxtat, một chất dệt tổng hợp cũng được dùng trong phim chụp ảnh. Acetic anhydride cũng là một chất phản ứng dùng để sản xuất aspirin, heroin, và các hợp chất khác.
+
+
+=== Giấm ===
+
+Ở dạng giấm, các dung dịch acid acetic (nồng độ khối lượng của acid 4% đến 18%) được dùng trực tiếp làm gia vị, và cũng làm chất trộn rau và trong các thực phẩm khác. Giấm ăn (table vinegar) thì loãng hơn (4% đến 8%), trong khi loại giấm trộn thương mại thì nồng độ cao hơn. Lượng acid acetic dùng làm giấm không chiếm tỉ lệ lớn trên thế giới, nhưng là một ứng dụng nổi tiếng và được dùng từ rất lâu.
+Hiện nay ở Việt Nam, acid acetic được sử dụng chủ yếu làm giấm ăn. Chỉ tính riêng năm 2015, nhu cầu sử dụng acid acetic làm giấm đã là 5000 tấn /năm.
+
+
+=== Làm dung môi ===
+Acid acetic băng là một dung môi protic phân cực tốt như đề cập ở trên. Nó thường được dùng làm dung môi tái kết tinh cho các hợp chất hữu cơ tinh khiết. Acid acetic tinh khiết được dùng làm dung môi trong việc sản xuất acid terephthalic (TPA), một nguyên liệu thô để sản xuất polyethylen terephthalat (PET). Năm 2006, khoảng 20% acid acetic được dùng để sản xuất TPA.
+Acid acetic thường được dùng làm dung môi cho các phản ứng liên quan đến carbocation, như Friedel-Crafts alkylation. Ví dụ, một giai đoạn trong sản xuất long não tổng hợp thương mại liên quan đến sự tái sắp xếp Wagner-Meerwein của tạo amfen isobornyl acetat; ở đây acid acetic đóng vai trò vừa là dung môi, vừa là chất ái nhân để giữ carbocation tái sắp xếp. Acid acetic là dung môi tự chọn khi giảm một nhóm nitơ aryl tạo anilin bằng cách sử dụng carbon mang palladi.
+Acid acetic băng được sử dụng trong hóa phân tích để ước tính các chất có tính kiềm yếu như các amit hữu cơ. Acid acetic băng có tính base yếu hơn nước, vì vậy amit ứng xử như một base mạnh trong dung dịch acid trung bình này. Sau đó nó có thể được chuẩn độ bằng cách sử dụng một dung dịch acid acetic băng của một acid rất mạnh như acid perchloric.
+
+
+=== Các ứng dụng khác ===
+Các acid acetic loãng cũng được dùng tạo độ chua nhẹ. Ví dụ như trong quy mô gia đình, nó được dùng làm chất tẩy cặn vôi từ vòi nước và ấm đun nước.
+Các dung dịch acid acetic băng loãng có thể được dùng trong các phòng thí nghiệm lâm sàng để dung giải các hồng cầu cũng như đếm bạch cầu. Một ứng dụng lâm sàng khác là dung giải các hồng cầu, mà có thể làm mờ các thành phần quan trọng khác trong nước tiểu khi phân tích dưới kính hiển vi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

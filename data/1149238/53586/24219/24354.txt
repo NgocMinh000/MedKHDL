@@ -1,0 +1,5 @@
+Một tập huấn luyện được sử dụng trong trí tuệ nhân tạo, cùng với phương pháp học có giám sát, và nó bao gồm một vec-tơ đầu vào và một vec-tơ kết quả.
+Nói chung, một hệ thống thông minh (intelligent system) bao gồm một hàm chức năng nhận một hay nhiều  đối số và cho ra kết quả là một vec-tơ đầu ra, và nhiệm vụ của phương pháp học là chạy hệ thống với vec-tơ đầu vào làm đối số, tính toán vec-tơ đầu ra, so sánh nó với vec-tơ kết quả và thay đổi một ít trong trật tự để có được vec-tơ đầu ra gần đúng với vec-tơ kết quả ở lần chạy tiếp theo của hệ thống.
+
+
+== Tham khảo ==

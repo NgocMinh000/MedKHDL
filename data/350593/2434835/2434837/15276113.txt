@@ -1,0 +1,37 @@
+Idelalisib, được bán dưới tên thương hiệu Zydelig, là một loại thuốc dùng để điều trị một số bệnh ung thư máu.
+Chất này hoạt động như một chất ức chế phosphoinositide 3-kinase; cụ thể hơn, nó ngăn chặn P110δ, đồng phân delta của enzyme phosphoinositide 3-kinase. Nó được phát triển bởi Gilead Sciences. Idelalisib có doanh thu hàng năm là 168 triệu đô la (USD) trong năm 2016, tăng từ 132 triệu đô la (USD) trong năm 2015.
+
+
+== Sử dụng trong y tế ==
+Idelalisib là một loại thuốc thứ hai cho những bệnh nhân bị bệnh bạch cầu lymphocytic mạn tính (CLL) đã tái phát. Được sử dụng kết hợp với rituximab, idelalisib sẽ được sử dụng ở những bệnh nhân chỉ dùng rituximab sẽ được coi là liệu pháp thích hợp do các điều kiện y tế hiện có khác. Nó dường như có hiệu quả và dẫn đến cải thiện bệnh hạch bạch huyết và lách to. Tuy nhiên, số lượng tế bào lympho mất nhiều thời gian hơn để giảm xuống mức bình thường với idelalisib.
+Nó cũng được chấp thuận để điều trị u lympho không Hodgkin tế bào B (FL) và tái phát u lympho tế bào lympho nhỏ (SLL), cả ở những bệnh nhân đã nhận được ít nhất hai liệu pháp hệ thống trước đó.
+
+
+== Tác dụng phụ ==
+Các triệu chứng lâm sàng bao gồm tiêu chảy, sốt, mệt mỏi, buồn nôn, ho, viêm phổi, đau bụng, ớn lạnh và phát ban. Các bất thường trong phòng thí nghiệm có thể bao gồm: giảm bạch cầu trung tính, tăng triglyceride máu, tăng đường huyết và tăng men gan. Sự an toàn và hiệu quả của Idelalisib để điều trị FL tái phát và SLL tái phát đã được thiết lập trong một thử nghiệm lâm sàng với 123 người tham gia với u lympho không Hodgkin phát triển chậm (không rõ ràng). Tất cả những người tham gia được điều trị bằng idelalisib và được đánh giá sự biến mất hoàn toàn hoặc một phần ung thư sau khi điều trị (tỷ lệ đáp ứng khách quan, hoặc ORR). Kết quả cho thấy 54% người tham gia bị FL tái phát và 58% người tham gia có SLL có kinh nghiệm ORR.
+Nhãn hiệu idelalisib của Hoa Kỳ có cảnh báo đóng hộp mô tả các độc tính có thể nghiêm trọng và gây tử vong, bao gồm nhiễm độc gan, tiêu chảy nặng, viêm đại tràng, viêm mô phổi (viêm phổi) và thủng ruột, và nhà sản xuất được yêu cầu đưa ra Đánh giá rủi ro và Chiến lược giảm thiểu (REMS) theo đó nguy cơ độc tính sẽ được quản lý.
+Vào tháng 3 năm 2016, do các báo cáo được thực hiện từ ba thử nghiệm lâm sàng liên tục về các tác dụng phụ nghiêm trọng và tử vong, chủ yếu là do nhiễm trùng, Cơ quan Dược phẩm Châu Âu đã mở một đánh giá về thuốc và các rủi ro của nó. Vào ngày 21 tháng 3 năm 2016 Gilead Sciences (nhà sản xuất idelalisib) đã cảnh báo các nhà cung cấp dịch vụ chăm sóc sức khỏe về việc giảm tỷ lệ sống sót chung và tăng nguy cơ nhiễm trùng nghiêm trọng ở bệnh nhân mắc CLL và ung thư hạch không Hodgkin (iNHL) được điều trị bằng idelalisib. Công ty cũng tiết lộ rằng họ đã dừng sáu thử nghiệm lâm sàng ở bệnh nhân mắc CLL, SLL và iNHL do tỷ lệ các tác dụng phụ tăng lên, bao gồm cả tử vong.
+
+
+== Dược lý ==
+
+
+=== Cơ chế hoạt động ===
+PI3Kδ kinase được thể hiện trong các tế bào B bình thường và ác tính. Bằng cách ức chế nó, idelalisib gây ra apoptosis và ngăn chặn sự tăng sinh trong các dòng tế bào có nguồn gốc từ các tế bào B ác tính và trong các tế bào khối u nguyên phát. Nó cũng ức chế một số con đường truyền tín hiệu tế bào, bao gồm tín hiệu thụ thể tế bào B (BCR) và tín hiệu CXCR4 và CXCR5, có liên quan đến việc buôn bán và di chuyển các tế bào B đến các hạch bạch huyết và tủy xương.
+
+
+=== Đặc tính liên kết ===
+Idelalisib là một chất ức chế cạnh tranh của vị trí liên kết ATP của miền xúc tác PI3Kδ. Hiệu lực và khả năng chọn lọc trong ống nghiệm của nó so với các đồng phân PI3K loại I khác là như sau: 
+
+
+== Lịch sử ==
+
+
+=== Quy định ===
+Vào tháng 7 năm 2014, FDA và EMA đã cấp phê duyệt idelalisib để điều trị các loại bệnh bạch cầu khác nhau. FDA cũng được chấp thuận cho idelalisib để điều trị cho bệnh nhân bị u lympho tế bào B không Hodgkin tái phát và tái phát ung thư hạch lympho bào nhỏ. Idelalisib dự định sẽ được sử dụng ở những bệnh nhân đã nhận được ít nhất hai liệu pháp toàn thân trước đó.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

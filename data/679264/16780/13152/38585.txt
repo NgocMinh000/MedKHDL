@@ -1,0 +1,330 @@
+Nhồi máu cơ tim là bệnh lý nguy hiểm đe doạ tính mạng do tắc nghẽn đột ngột mạch máu nuôi tim. Khi cơ tim hoàn toàn không được cung cấp máu thì cơ vùng cơ tim ấy sẽ hoại tử gây triệu chứng đau ngực dữ dội. Tùy theo bao nhiêu cơ tim bị hủy, bệnh có thể nhẹ hoặc nặng. Nếu cơ chưa bị hủy hẳn thì gọi là "đau tim" (angina).
+
+
+== Dấu hiệu ==
+Biểu hiện thường gặp là đau ngực trái dữ dội, kéo dài hơn 15-30 phút. Đau có khi kèm vã mồ hôi và khó thở, mệt nhiều, không dám vận động nặng vì gia tăng cơn đau. Đau có thể lan ra cánh tay cẳng tay trái đến ngón út và áp út bàn tay trái, hoặc có thể lan sau lưng hoặc hàm dưới trái. Ở những người đã có tiền sử bệnh thiếu máu cơ tim, đau ngực dữ dội không giảm sau khi sử dụng nitroglycerine hoặc isosrbide dinitrate (Risordane) ngậm dưới lưỡi, cần tham vấn bác sĩ ngay.
+Một số người bị nhồi máu cơ tim có thể chỉ biểu hiện bằng khó thở nhẹ hay mệt khi vận động mà không đau ngực. Do đó có thể nhồi máu cơ tim sẽ bị bỏ sót. Cho nên trong cuộc sống hàng ngày chúng ta vẫn có thể gặp những trường hợp chỉ than mệt trước đó vài giờ sau đó đột nhiên tử vong.
+
+
+=== Theo định nghĩa lần thứ III toàn cầu về nhồi máu cơ tim cấp ===
+Thuật ngữ nhồi máu cơ tim cấp được khuyến nghị sử dụng khi có bằng chứng hoại tử cơ tim trong tình huống lâm sàng phù hợp với thiếu máu cục bộ cơ tim cấp. Được xác định khi có một trong các tiêu chuẩn sau:
+- Có sự tăng hay giảm của chất chỉ điểm sinh học (khuyến cáo sử dụng men trôponin tim) với ít nhất có một giá trị đạt mức 99% bác phân vị của giới hạn trên dựa theo tham chiếu, và kèm với ít nhất một tiêu chuẩn kèm theo sau đây:
++ Có triệu chứng của thiếu máu cục bộ cơ tim.
++ Biến đổi ST-T mới hoặc tái xuất hiện hoặc có sự biểu hiện của block nhánh trái mới.
++ Xuất hiện sóng Q bệnh lý trên ECG.
++ Bằng chứng hình ảnh học ghi nhận sự mới mất cơ tim hoặc rối loạn vận động vùng.
++ Xác định huyết khối mạch vành qua chụp mạch vành hay mổ tử thi.
+- Đột tử với triệu chứng hướng tới thiếu máu cuc bộ cơ tim, có dấu hiệu thiếu máu cục bộ cơ tim mới trên ECG hoặc block nhánh trái mới, nhưng tử vong xảy ra trước khi lấy được mẫu chất chỉ điểm sinh học, hoặc trước khi giá trị chất chỉ điểm tăng.
+- Nhồi máu do can thiệp mạch vành qua da (PCI) được định nghĩa khi tăng giá trị của cTn (> 5 lần 99% bách phân vị của giới hạn trên) ở các bệnh nhân có giá trị nền bình thường (<= 99% bách phân vị giới hạn trên) hoặc có sự gia tăng của cTn > 20% nếu giá trị nền đã tăng, ổn định hoặc đang giảm.
+ngoài ra còn phải có một trong các điều kiện sau: (1) triệu chứng thiếu máu cục bộ; (2) ECG thiếu máu cục bộ; (3) chụp mạch vành phù hợp tai biến thủ thuật; (4) hình ảnh học cho thấy tổn thương mất cơ tim hoặc rối loạn vận động vùng.
+- Nhồi máu cơ tim do huyết khối trong stent khi xác định bằng chụp động mạch vành hoặc mổ tử thi trọng bệnh cảnh thiếu máu cục bộ cơ tim kèm theo tăng hay giảm chất chỉ điểm sinh học với ít nhất giá trị trên 99% bách phân vị của giới hạn trên.
+- Nhồi máu cơ tim do bắc cầu động mạch vành được định nghĩa bằng sư đồng thuận tăng giá trị của cTn ở các bện nhân có mức giá trị bình thường. Ngoài ra kèm theo một trong ác dấu hiệu sau: (1) sóng Q hoặc block nhánh trái mới xuất hiện; (2) chụp mạch vành cho thấy tắc nghẽn cầu nối; (3) hình ảnh học tổn thương cơ tim hoặc rối loạn vận động vùng.
+
+
+=== Nhồi máu cơ tim cũ ===
+Nhồi máu cơ tim cũ được chẩn đoán khi có một trong các tiêu chuẩn sau:
+- Sóng Q bệnh lý có hoặc không kèm theo triệu chứng của thiếu máu cục bộ cơ tim và cần loại trừ các nguyên nhân có sóng Q không do thiếu máu cục bộ cơ tim.
+- Bằng chứng hình ảnh học cho thấy một vùng cơ tim không còn sống, cần loại trừ các nguyên nhân khác gây tổn thương cơ tim không do thiếu máu cục bộ.
+- Giải phẫu bệnh cho thấy đã nhồi máu cơ tim trước đó.
+
+
+=== Định nghĩa khác về nhồi máu cơ tim ===
+Nhồi máu cơ tim là hoại tử do thiếu máu cục bộ cơ tim kéo dài của một vùng cơ tim với diện tích lớn hơn 2 cm², gây nên do tắc nghẽn hay co thắt mạch vành.
+
+
+== Lịch sử ==
+Trước khi có máy ghi điện tim, không thể nào chẩn đoán chính xác được chứng nhồi máu cơ tim. Năm 1772, bác sĩ William Heberden có viết về chứng "đau ngực" nhưng chẳng mấy ai hiểu về căn bản nguyên nhân của loại bệnh tim mạch này
+Năm 1912 James Herrick miêu tả căn bệnh về tim và là người đầu tiên đưa ra giả thuyết về huyết khối làm nghẽn mạch vành tim. Sau đó mới có khám phá về nguyên nhân chính (màng xơ vữa bị nứt gây tụ máu).
+Năm 1956 các cuộc khảo cứu (của nhóm y sĩ Anh) khám phá về các yếu tố nguy cơ của bệnh tim mạch – nhất là tác hại của thuốc lá.
+
+
+== Cơ chế bệnh sinh ==
+
+
+=== Giải phẫu động mạch vành ===
+Động mạch vành cấp máu cho tim xuất phát từ động mạch chủ lên chia làm hai nhánh động mạch vành phải và động mạch vành trái.
+- Động mạch vành phải tách ra từ cung động mạch chủ ngay phía trên van động mạch chủ chui ra mặt trước tim qua khe giữa động mạch phổi và tiểu nhĩ phải rồi đi xuống vào mặt hoành vào rãnh gian thất sau và tận cùng ở đỉnh tim. Nó cấp máu cho nhĩ trái, phần lớn thất phải và thành dưới thất trái, 1/3 vách liên thất, nút xoang và nút nhĩ thất. Khi tắc gây thiếu máu thành dưới.
+- Động mạch vành trái cũng tách ra từ cung động mạch chủ ngay phía trên van động mạch chủ, chui ra mặt trước tim qua khe giữa thân động mạch phổi và tiểu nhĩ trái. Động mạch vành trái chia làm hai nhánh: nhánh gian thất trước nối động mạch vành phải cung cấp máu nuôi 2 thất và vách lên thất (khi tắc gây thiếu máu vùng trước mõm) và nhánh mũ đi xuống mặt hoành, cung cấp máu cho nhĩ trái, phần lớn thất trái, một phần thất phải, 2/3 trước vách liên thất (khi tắc gây thiếu máu thành dưới).
+
+
+=== Cơ chế bệnh sinh ===
+Chủ yếu là do xơ vữa động mạch vành (90%). Mảng xơ vữa tiến triển dần gây hẹp lòng động mạch vành và cuối cùng gây tắc hẳn. Bệnh cảnh là cơn đau thắt ngực không ổn định (ĐTNKOĐ) với tần suất, cường độ và thời gian tăng dần dẫn tới nhồi máu cơ tim (NMCT). Mặt khác, mảng xơ vữa không vững có thể bị bong ra và huyết khối thành lập nhanh chóng gây nên hội chứng vành cấp, với bệnh cảnh ĐTNKOĐ mới xuất hiện có thể dẫn đến NMCT. Một số ít trường hợp NMCT do co thắt mạch vành.
+Số ít còn lại NMCT không do xơ vữa như tổn thương động mạch vành, bất thương động mạch vành bẩm sinh, chấn thương ngực, bệnh hồng cầu, tiểu cầu...
+
+
+=== Sinh lý bệnh ===
+Hoạt hóa thần kinh, hormone sau tổn thương cơ tim
+Tổn thương cơ tim làm giảm cung lượng tim, dẫn tới hoạt hóa 3 hệ thống bù trừ: hệ giao cảm, Renin – Angiotensin, Arginine Vasopressin gây co mạch giữ muối, nước hậu quả làm tăng tiền tải và hậu tải, gây giảm chức năng cơ tim và sung huyết mạch máu.
+Tái cấu trúc thất trái sau nhồi máu cơ tim
+Kết quả hoạt hóa hệ thống thần kinh, hormone gây tăng áp lực thất trái cuối tâm trương, làm gia tăng sức căng thành tim cuối tâm thu. Điều này dẫn đến hệ lụy: (1) vùng nhồi máu bị dãn ra và dần dần mỏng hơn, gây nguy cơ suy tim, túi phình hay vỡ tim; (2) vùng không nhồi máu sẽ phì đại để giảm bớt sức căng thành.
+Tái cấu trúc thất trái giai đoạn đầu giúp cải thiện cung lượng tim, nhưng về lâu dài các buồng tim sẽ dãn, dẫn tới suy tim.
+Các biến cố dẫn tới tử vong
+Nhồi máu cơ tim dẫn tới 3 hệ quả: rối loạn nhịp tim (có thể gây đột tử), tổn thương cơ tim, hoạt hóa thần kinh hormone (dẫn đến tái cấu trúc thất, về lâu dài sẽ dẫn tới suy tim và tử vong).
+
+
+== Dịch tễ học ==
+
+
+=== Thế giới ===
+Năm 1990, thế giới có 50,4 triệu người chết thì tử vong do bệnh mạch vành chiếm 28%, trong số 1,4 tỷ người giảm chất lượng cuộc sống thì bệnh tim mạch gây ra 9,7%. Đến năm 2001, tử vong do bệnh tim mạch tăng lên 29%, dự đoán đến 2030 thì con số này khoảng 30%, trong số đó 14,9% ở nam và 13,1% ở nữ tử vong vì bệnh mạch vành.
+Theo thống kê của Tổ chức Y tế Thế giới, năm 2004 thế giới có 7,2 triệu người, chiếm 12,2% chết vì bệnh mạch vành, có hơn 3 triệu người nhồi máu cơ tim ST trên lên, 4 triệu người bị hội chứng vành cấp ST không chênh lên. Đến năm 2008, trong tổng số 57 triệu người chết trên toàn thế giới thì tử vong do bệnh tim mạch là 17,3 triệu người (31%), trong đó tử vong do bệnh mạch vành chiếm 46% ở nam và 38% ở nữ.
+Trên thế giới mỗi năm có 2,5 triệu người chết do bệnh nhồi máu cơ tim, trong đó 25% chết trong giai đoạn cấp tính của bệnh. Trong vòng năm sau đó chết thêm 5% – 10% nữa.
+Ở Hoa Kỳ, cứ 6 người chết là có một người chết vì bệnh tim mạch. Trong năm 2009 có 386.324 người tử vong bì bệnh mạch vành. Mỗi năm có khoảng 635.000 trường hợp nhồi máu mới xuất hiện và 280.000 trường hợp nhồi máu tái phát, 150.000 nhồi máu im lặng. Ước tính cứ mỗi 34 giây là có một trường hợp nhồi máu xuất hiện, 1 phút là có một trường hợp tử vong.
+Hungari là nước được xếp thứ 10 trên thế giới về bệnh nhồi máu cơ tim. Tuy chỉ có 10 triệu dân mà mỗi năm có 25.000 người Hungari bị nhồi máu cơ tim mới (không kể những trường hợp nhồi máu cơ tim cũ). Cũng ở nước này, tỷ lệ tử vong do các bệnh tim mạch chiếm 47% tổng số tử vong chung, trong đó 60% tử vong do bệnh động mạch vành mà hàng đầu là nhồi máu cơ tim.
+Hai nhóm nghiên cứu Baltimore và Framingham của Mỹ đã mổ tử thi trên một nghìn trường hợp đột tử, 20 – 51% nam giới ở độ tuổi 35–54 đột tử do nhồi máu cơ tim, 6 – 10% phụ nữ ở độ tuổi này đột tử vì nhồi máu cơ tim.
+
+
+=== Việt Nam ===
+Ở Việt Nam tuy chưa có số liệu thống kê đầy đủ về số bệnh nhân nhồi máu cơ tim nhưng số bệnh nhân nhồi máu ngày càng tăng. Những năm 50 của thế kỉ XX, số bệnh nhân nhồi máu cơ tim là hiếm thì ngày nay, mức độ phổ biến của bệnh ngày càng nhiều và hầu như ngày nào cũng có người nhập viện.
+Năm 2003, theo thống kê của Viện Tim mạch Quốc gia Việt Nam, tỷ lệ bệnh nhân vào viện vì nhồi máu cơ tim cấp là 4,2% đến năm 2007 con số này là 9,1%.
+Ở Bệnh viện Chợ Rẫy, Sài Gòn, năm 2010 có tới 7.421 trường hợp nhập viện vì đau thắt ngực, 1.538 ca phải nhập viện và điều trị vì hội chứng vành cấp, 267 trường hợp tử vong.
+
+
+== Các yếu tố nguy cơ ==
+
+
+=== Tuổi và giới tính ===
+Tuổi cao là yếu tố nguy cơ chính của bệnh mạch vành. Nguy cơ bệnh mạch vành do xơ vữa tăng theo tuổi, nguy cơ tử vong là 1,5/1.000 người ở độ tuổi 50. Ở nam giới tuổi mắc bệnh mạch vành trung bình là 55, ở nữ giới là 65. Nam giới có nguy cơ mắc bệnh cao gấp 5 lần nữ giới ở độ tuổi 50, càng về sau thì tỷ lệ này càng nhỏ lại. Đến 75 tuổi thì tần suất mắc bệnh ở nam và nữ như nhau.
+
+
+=== Tiền sử gia đình ===
+Gia đình có người mắc bệnh sớm trước 55 tuổi ở nam và 65 tuổi ở nữ. Bệnh mạch vành có thể di truyền được, tỷ lệ tim mạch ở người có tiền sử gia đình cao gấp 3-4 lần người không có tiền sử.
+
+
+=== Hút thuốc lá ===
+Thuốc lá liên quan đến cái chết của khoảng 5 triệu người, chiếm 9%,  xấp xỉ 1,6 triệu người có liên quan tới bệnh tim mạch tử vong. So với những người không hút thuốc lá thì người hút thuốc lá có nguy cơ tiến đến bệnh mạch vành do xơ vữa tới 60%, tăng 50% tử vong bệnh tim mạch. Hút thuốc lá gây gia tăng nồng độ carbon monoxide trong máu, dẫn tới phá hủy tế bào nội mô mạch vành, gia tăng kết tập tiểu cầu, tăng nguy cơ hình thành huyết khối tắc nghẽn. Hút thuốc lá là yếu tố nguy cơ độc lập với các yếu tố khác.
+
+
+=== Rối loạn mỡ máu ===
+
+Nồng độ Cholesterol cao là nguyên nhân của 56% bệnh thiếu máu cơ tim, gây nên tử vong của khoảng 4,4 triệu người mỗi năm. Tăng LDL, tăng cholesterol, tăng nguy cơ mắc bệnh và tử vong do bệnh mạch vành, người có nồng độ cholesterol >200 mg% cao gấp 6 lần người có nồng độ không đạt mức đó. Giảm HDL gây gia tăng nguy cơ bệnh tim mạch.
+
+
+=== Đái tháo đường ===
+Biến chứng tim mạch là biến chứng phổ biến và nguy hiểm nhất của bệnh đái tháo đường, gây gia tăng 50% nguy cơ bệnh mạch vành do xơ vữa ở nam, 99% ở nữ. Nguy cơ chết do bệnh mạch vành ở bệnh nhân có đái tháo đường không có tiền sử nhồi máu cơ tim tương đương với bệnh nhân từng bị nhồi máu cơ tim không có đái tháo đường. Bệnh tim mạch do xơ vữa động mạch vành là nguyên nhân khiến 65% tử vong của bệnh đái tháo đường.
+
+
+=== Tăng huyết áp ===
+Tăng huyết áp là bệnh lý thường gặp nhất trong các bệnh lý tim mạch, là nguyên nhân khiến cho 7 triệu người chết mỗi năm trên toàn thế giới, 49% các trường hợp bệnh mạch vành được quy cho là do tăng huyết áp. Mặc dù tăng huyết áp được định nghĩa khi huyết áp tâm thu lớn hơn 140mmHg, nhưng Lawes và cộng sự nghiên cứu thấy có tới 50% gánh nặng bệnh tim mạch khi huyết áp tâm thu ở mức dưới 145mmHg. Huyết áp càng tăng thì nguy cơ bệnh mạch vành càng cao.
+
+
+=== Ít vận động thể lực ===
+Vận động thể lực vừa ít nhất 30 phút mỗi ngày, ít nhất 5 ngày trong tuần, đối với vận động mạnh thì ít nhất 20 phút mỗi ngày, ít nhất 3 ngày một tuần làm giảm nguy cơ mắc bệnh tim mạch. Người trưởng thành vận động thể lực thường xuyên thì khả năng mắc bệnh mạch vành giảm.
+
+
+=== Béo phì trung tâm ===
+Béo phì là một trong yếu tố nguy cơ chính của bệnh mạch vành, nguy cơ mắc bệnh xơ vữa mạch vành càng cao nếu béo phì chủ yếu ở phần bụng. Béo phì thường đi kèm với nhiều yếu tố nguy cơ khác như tăng huyết áp, rối loạn lipid, rối loạn dung nạp glucose. Người béo phì dễ mắc bệnh đái tháo đường type 2 hơn so với người nhẹ cân.
+
+
+=== Stress ===
+Thái độ thù địch, trầm cảm, cô lập về mặt xã hội hay trạng thái căng thẳng kéo dài có giá trị dự báo bệnh động mạch vành. Những sang chấn tinh thần là yếu tố khởi phát nhồi máu cơ tim.
+
+
+=== CRP ===
+Tăng CRP cho thấy có giá trị dự báo các biến cố tim mạch. Đo CRP–hs có giá trị bổ sung cho việc lượng giá nguy cơ trong phòng ngừa tiên phát bệnh mạch vành, còn ở người có bệnh mạch vành thì đo CRP-hs có ý nghĩa dự báo biến cố tử vong. Có 3 mức nguy cơ bệnh mạch vành đối với nồng độ CRP-hs là: nguy cơ thấp (<1 mg/L), nguy cơ trung bình (1–3 mg/L), nguy cơ cao (>3 mg/L). Gia tăng kết hợp giữa CRP và LDL gia tăng đáng kể nguy cơ tim mạch so với bệnh mạch vành.
+
+
+== Lâm sàng ==
+
+
+=== Tiền sử - Bệnh sử ===
+- Hầu hết bệnh nhân nhập viện với hội chứng vành cấp đều có bệnh mạch vành trước đó (80%), ¾ có nhồi máu cơ tim ST không chênh lên, một ít có cơn đau thất ngực không ổn định ở nam giới. Tuy nhiên ở nữ giới thì đau thắt ngực không ổn định chiếm tỷ lệ cao hơn.
+ - Thời gian khởi phát: thường xảy ra vào ban đêm, nhiều vào sáng sớm.
+ - Hoàn cảnh khởi phát: 50% không có yếu tố dẫn đến khởi bệnh, còn lại xảy ra khi gắng sức, sang chấn tinh thần, bị bệnh nội ngoại khoa khác.
+
+
+=== Triệu chứng cơ năng ===
+Triệu chứng điển hình và thường gặp nhất của nhồi máu cơ tim là:
+
+Đau ngực: hay gặp nhất, cảm giác đau sâu trong cơ thể với cảm giác đau như bị đè ép, bóp chặt ở giữa ngực, diễn ra trong khoảng 5–15 phút (khác về thời hạn và độ đau với cơn đau ngực thông thường), thường không quá 1 giờ.
+Cơn đau có thể lan lên vai, cổ, hàm hoặc lan dọc theo cánh tay, đặc biệt là tay trái.
+Các triệu chứng phụ như: vã mồ hôi, buồn nôn, chóng mặt, bất tỉnh, mệt nhọc, khó thở, tái nhợt, tim đập mạnh.
+Nhiều trường hợp nhồi máu cơ tim lại có biểu hiện không rõ ràng như tiêu chảy, đau bụng, hoặc chẳng hề có triệu chứng (nhồi máu cơ tim thầm lặng – thấy nhiều trong các bệnh nhân đái tháo đường), hoặc lại hết sức đột ngột, biểu hiện bằng biến chứng hôn mê, rối loạn nhịp tim, ngừng tim hay chết bất ngờ…
+
+
+=== Triệu chứng thực thể ===
+- Huyết áp: có thể tăng cao do hệ quả của việc tăng tiết catecholamine, hoặc có thể giảm thấp trong trường hợp suy tim nặng, shock tim.
+ - Mạch: có thể rất chậm hoặc rất nhanh.
+ - Tiếng tim: T1, T2 thường nhỏ, có thể có T3, T4, âm thổi cuối tâm thu ngắn. Âm thổi có thể nghe được ở mỏm tim.
+ - Tĩnh mạch cổ nổi: có thể thấy nếu nhồi máu cơ tim thất phải 
+ - Nhiệt độ: thường tăng, khoảng 38 °C trong tuần đầu.
+ - Rale phổi: có thể có rale ẩm đáy phổi.
+
+
+== Cận lâm sàng ==
+
+
+=== Điện tim đồ ===
+Điện tâm đồ có thể bình thường ở bệnh nhân mới mắc bệnh nên cần được theo dõi thường xuyên mỗi 6 giờ.
+ Vai trò: phân biệt giai đoạn tối cấp, cấp hay đã ổn định của nhồi máu. Ngoài ra còn giúp định khu vùng nhồi máu cơ tim.
+ Hình ảnh điện tâm đồ nhồi máu cơ tim: biến đổi thiếu máu ở điện tim đồ biểu hiện ở sự thay đổi của sóng T, dẫn đến cơ tim bị tổn thương ghi nhận được sự thay đổi của đoạn ST bắt đầu chênh lên, cuối cùng là sóng Q xuất hiện biểu hiện của hoại tử cơ tim. Cần phân biệt nhồi máu cơ tim có sóng Q và không có Q vì có giá trị tiên lượng khác nhau.
+ Nhồi máu cơ tim thành dưới thì 70–80% có kèm theo nhồi máu thất phải, cần khảo sát thêm V3R và V4R.
+
+
+=== Men tim ===
+
+
+==== Myoglobin ====
+Thấy trong các cơ kể cả cơ tim. Bình thường, nộng độ trong huyết thanh là <70 ng/ml, sẽ tăng trong các bệnh có tổn thương cơ. Trong nhồi máu cơ tim, myoglobin sẽ tăng sớm nhất, từ giờ thứ 2, nhanh hơn cả các men tim khác, đạt tối đa có thể gấp 6 lần bình thường, trở về bình thường sau 2-3 ngày.
+
+
+==== CK và CK-MB ====
+Dùng để ước lượng độ rộng của nhồi máu cơ tim hơn là dùng để chẩn đoán. Tăng vào giờ thứ hai của bệnh, đạt đỉnh vào 24 giờ và trở về bình thường sau 48–72 giờ nếu men tăng cao 3-4 ngày cho biết sự tái phát. CK-MB có giá trị đặc hiệu >95%.
+
+
+==== LDH ====
+ Tăng vào khoảng 24–48 giờ sau khi nhồi máu, duy trì đến ngày thứ 7, có khi đến 14 ngày. Có giá trị trong chẩn đoán nhồi máu muộn. Hiện nay ít được sử dụng để chẩn đoán nhồi máu cơ tim.
+
+
+==== Transaminase ====
+ Gồm GOT và GPT, hiện nay ít được sử dụng trong chẩn đoán.
+
+
+==== Troponin T và I ====
+ Đặc hiệu nhất, chỉ tăng khi có nhồi máu cơ tim hay suy tim rất nặng. Cả troponin T và I điều có giá trị chẩn đoán như nhau và thường tăng vào giờ thứ ba của bệnh, đạt đỉnh sau 24–48 giờ, kéo dài 5–14 ngày. Trong nhồi máu cơ tim, troponin có thể tăng gấp 20 lần giá trị bình thường.
+
+
+=== CRP ===
+ Xét nghiệm không giúp ích cho chẩn đoán nhồi máu cơ tim, nhưng có ích trong việc tiên lượng mức độ nặng, đánh giá nguy cơ tử vong nhồi máu cơ tim cấp. Có 3 mức nguy cơ bệnh mạch vành đối với nồng độ CRP-hs là: nguy cơ thấp (<1 mg/L), nguy cơ trung bình (1–3 mg/L), nguy cơ cao (>3 mg/L). Gia tăng kết hợp giữa CRP và LDL gia tăng đáng kể nguy cơ tim mạch so với bệnh mạch vành.
+
+
+=== BNP và NT-PRO-BNP ===
+ Giá trị nồng độ NT-proBNP của bệnh nhân đau thắt ngực 3 giờ đầu trong giới hạn bình thường và đạt đỉnh sau 24 giờ. Ở bệnh nhân nhồi máu cơ tim cấp, nồng độ NT-proBNP và BNP tăng một cách nhanh chóng đạt tối đa vào thời điểm 20-30 giờ sau khởi phát triệu chứng. Nồng độ NT-proBNP là yếu tố tiên lượng tử vong độc lập với các yếu tố nguy cơ khác và liên quan chặt chẽ với tình trạng suy tim sau hội chứng vành cấp. Giá trị tiên lượng tử vong của nồng độ NT-proBNP ở bệnh nhân bệnh động mạch vành là 721 ng/L (độ nhạy 71,3% và độ đặc hiệu 71,3%.
+
+
+=== Siêu âm tim ===
+ Siêu âm tim 2D hữu ích trong phụ giúp chẩn đoán. Hình ảnh rối loạn vận động khu trú có thể thấy ở thiếu máu cục bộ cơ tim, nhồi máu cơ tim cấp, sợi hóa cơ tim hay trong các loạn nhịp tim.
+ Nhồi máu cơ tim cấp dẫn đến rối loạn vận động khu trú, các vùng còn lại tăng động bù trừ, khi không thấy bù trừ có thể là tổn thương nhiều nhánh động mạch vành hoặc tắc nghẽn đã được thông thương.
+ Nhồi máu cơ tim cũ biểu hiện trên siêu âm 2D bằng hình ảnh vô động hay loạn động, sợi hóa cơ tim sáng hơn, mỏng hơn các vùng kế.
+ Siêu âm 2D hữu ích trong chẩn đoán nhồi máu thất phải, còn nhạy hơn cả điện tim đồ.
+
+
+=== Chụp động mạch vành ===
+ Được sử dụng khi triệu chứng cơ năng không đặc hiệu, ECG khó cắt nghĩa. Trên hình ảnh chụp động mạch vành có dấu hiệu tắc nghẽn và rối loạn vận động vùng.
+
+
+== Phân loại nhồi máu cơ tim ==
+Định nghĩa nhồi máu cơ tim cấp quốc tế lần thứ III đã phân loại nhồi máu cơ tim thành các loại sau:
+
+Loại 1: Nhồi máu cơ tim nguyên phát: do mảng xơ vữa dẫn tới hình thành cục máu đông trong lòng mạch vành kết quả làm giảm tưới máu nuôi hoại tử cơ tim.
+Loại 2: Nhồi máu cơ tim thứ phát: tổn thương hoại tử cơ tim có bệnh khác ngoài bệnh mạch vành gây mất cân bằng cung cầu oxy của cơ tim. 
+Loại 3: Nhồi máu cơ tim dẫn tới tử vong trong trường hợp không có kết quả men tim: đột tử nghi ngờ thiếu máu cục bộ cơ tim và  có dấu thiếu máu cục bộ cơ tim mới hoặc block nhánh trái mới, nhưng tử vong xảy ra trước khi có thể lấy được mẫu máu hoặc trước thời điểm men tim tăng.
+Loại 4a: Nhồi máu cơ tim do can thiệp động mạch mạch vành qua da (PCI).
+Loại 4b: Nhồi máu cơ tim do huyết khối trong stent.
+Loại 5: Nhồi máu cơ tim do mổ bắc cầu mạch vành.
+
+
+== Phân độ nhồi máu cơ tim cấp ==
+Phân độ theo suy bơm thì Killip & Kimball đã lập bảng xếp loại phân ra 4 tầng I-IV nhằm tiên lượng mỗi NMCT cấp sau lần khám đầu tiên:
+
+
+== Biến chứng nhồi máu cơ tim cấp ==
+Biến chứng cơ học: Thông liên thất do thủng vách liên thất, hở van 2 lá cấp do đứt dây chằng cột cơ, vỡ tim.
+Shock tim: thường do rối loạn chức năng thất trái nặng.
+Nhồi máu thất phải: thường gặp ở bệnh nhân nhồi máu vùng dưới.
+Suy tim: là một trong những nguyên nhân chính gây tử vong ở NMCT.
+Viêm màng ngoài tim: Viêm màng ngoài tim cấp xảy ra trong vòng 24 – 96 giờ sau NMCT cấp. Hội chứng Dressler xảy ra từ 1-8 tuần sau NMCT cấp, có thể do tự miễn.
+Biến chứng điện học
+ - Rối loạn nhịp thất: các rối loạn nhịp thất nặng như rung thất và nhịp nhanh thất thường xuất hiện sớm trong 48 giờ đầu. 
+ - Rối loạn nhịp trên thất: nhịp nhanh xoang, nhịp nhanh kịch phát trên thất, rung nhĩ.
+ - Rối loạn nhịp chậm: nhịp chậm xoang, block nhĩ thất.
+
+
+== Tiên lượng nhồi máu cơ tim ==
+Trong nghiên cứu TIMI II, tạo thành thang điểm đánh giá nguy cơ tử vong của bệnh nhồi máu cơ tim trong 30 ngày. Tỷ lệ tử vong của bệnh nhân trong 30 ngày có điểm TIMI < 4 điểm là 1%, trong khi đó TIMI > 8 là 8,8%.
+
+
+== Chẩn đoán ==
+Vì nhồi máu cơ tim nguy hiểm đến tính mạng và diễn biến nhanh chóng, phương châm chẩn bệnh là tuyệt đối tránh bỏ sót.
+Bất cứ bệnh nhân nào tuổi trên 45, bị đau ngực (nhất là bên trái) hay khó thở và nhất là có các yếu tố nguy cơ trên, cần phải chứng minh không bị nhồi máu cơ tim trước khi nghĩ đến căn bệnh gì khác. Thường nên đưa vào bệnh viện để theo dõi.
+
+Chẩn đoán nhồi máu cơ tim:
+
+Bệnh sử: đặc điểm của đau ngực
+Kiểm tra: các biến đổi trên điện tâm đồ: Nhồi máu cơ tim thường làm ST chênh lên và thay đổi sóng T. Sau khi cơ tim bị hủy thành sẹo, thường có biến đổi sóng Q. Điều cần biết là đôi khi bệnh nhân bị nhồi máu cơ tim nhưng điện tâm đồ vẫn hoàn toàn bình thường. Dựa theo thay đổi của phần nào của điện tâm đồ có thể biết phần nào của tim bị nhồi máu (Zimetbaum & Josephson, 2003):
+Vách tim trước (I21.0): V1-V4
+Vách tim dưới (I21.1): II, III, F
+Vách tim bên (I21.2): I, F, V5, V6
+Vách tim sau (I21.2): V1, V2
+Kiểm tra: các thay đổi về nồng độ men tim và troponin. Khi cơ tim bị thiếu oxygen, màng tế bào của cơ bị rạn nứt và các chất bên trong bị phóng thích vào máu. Nồng lượng trong máu của số chất đặc biệt của cơ tim ("men tim" Creatinine kinase (CK) và Troponin – dạng I hay T) có thể được dùng để chẩn đoán sự hủy hoại cơ tim. Điều cần biết là đôi khi mặc dầu bệnh nhân đang bị nhồi máu cơ tim nồng độ men tim có thể vẫn bình thường trong vài giờ đầu. Do đó, trong khi bệnh nhân nằm tại bệnh viện để theo dõi, điện tâm đồ và nồng độ men tim phải được lập lại sau 6–8 tiếng để xác định bệnh.
+Kiểm tra: chụp động mạch vành (coronary angiogram) sẽ xác định được mạch nào bị nghẽn. Đây là cách chắc chắn nhất để xác định, định dạng và quyết định phương thức điều trị nhồi máu cơ tim. Theo Tổ chức Y tế Thế giới WHO chẩn đoán xác định bệnh nhồi máu cơ tim phải có hai trong ba tiêu chuẩn sau:
+Đau ngực thắt (như trên) trên 20 phút
+Thay đổi trên một loạt 2 (hoặc 3) điện tâm đồ (cách nhau vài tiếng)
+Men tim tăng (rồi giảm)
+
+
+== Sơ cứu kịp thời ==
+Theo sổ tay hướng dẫn, việc cần hành động khi bắt gặp người đang bị bệnh nhồi máu cơ tim là:
+
+Gọi xe cứu thương bằng số điện thoại khẩn cấp 115;
+Nếu người bệnh còn tỉnh, cho họ ở tư thế ngồi hoặc thoải mái nhất với họ;
+Nếu người bệnh bất tỉnh nhưng còn thở bình thường, đặt họ nằm nghiêng 1 bên;
+Nếu người bệnh bất tỉnh, thở bất thường hoặc không còn thở, lập tức ép tim và thổi ô-xy (CPR).
+
+
+== Điều trị ==
+
+Nguyên tắc chính của điều trị là đưa oxygen tới phần cơ tim đang bị tiêu hủy vì mạch nghẽn.
+
+
+=== Cấp cứu ===
+Bệnh nhân có triệu chứng đau thắt ngực cần được điều trị trong phòng cấp cứu. 
+
+Dưỡng khí oxygen
+Điện tâm đồ
+Aspirin: thuốc này có cộng dụng làm loãng máu và làm giảm sự tăng trưởng của cục máu đông.
+Glyceryl trinitrat: thuốc này có thể cho vào dưới lưỡi bệnh nhân – có nhiều tác dụng: làm thư giãn mạch máu (tăng đường kính mạch máu dễ cho máu đi qua chỗ nghẽn, giảm lượng máu trở về tim phải (bớt công việc cho tim – preload), giảm huyết áp (dễ cho tim thất trái bơm máu ra – afterload)
+Chống đau: morphine có thể dùng để chống đau, làm bệnh nhân bớt sợ hãi (giảm adrenaline, giảm độ nhịp tim, bớt công việc cho tim)
+Theo dõi biến chứng: loạn nhịp tim, thay đổi huyết áp.
+
+
+=== Làm thông động mạch vành tim ===
+Điều trị nội khoa: thuốc làm tan cục máu đông (thrombolysis): streptokianse, urokinase...trong giai đoạn cấp cứu, điều trị duy trì chống cục máu đông bằng Asprin hoặc Vasopolis (trong trường hợp dị ứng với Aspirin hoặc ở những bệnh nhân loét dạ dày, hành tá tràng)
+Điều trị ngoại khoa: thò ống thông xuyên qua động mạch đùi đi vào động mạch vành tim, làm nong mạch, phá vỡ cục máu đông và mảng xơ vữa, đồng thời có thể nhét ống căng mạch (cardiac catherization & angioplasty +/- stent).
+
+
+=== Giải phẫu ghép động mạch tim ===
+
+Mục đích của phẫu thuật này tiếp tế máu cho phần tim đang bị khủng hoảng do động mạch khu vực bị nghẽn
+Tĩnh mạch từ chân bệnh nhân được cắt lấy và đem lên nối từ động mạch chủ vào phần động mạch phía sau khúc bị nghẽn.
+
+
+=== Theo dõi ===
+Sau khi qua giai đoạn hiểm nghèo ban đầu của nhồi máu cơ tim, bệnh nhân cần nằm một thời gian (2–3 ngày) trong đơn vị điều trị tim hoặc đơn vị điều trị tăng cấp đề phòng để chữa kịp thời những biến chứng như loạn nhịp tim.
+Trong thời gian hồi phục sau khi xuất viện, bệnh nhân nên tránh hoạt động quá sức (thí dụ giao hợp), mang vác vật nặng... khoảng một vài tháng, tránh hồi hộp, căng thẳng, xúc động mạnh (không xem bóng đá, phim kinh dị...). Nhiều địa phương cấm lái xe vài tuần. Duy trì Vasopolis ở những bệnh nhân mẫn cảm với thuốc chống đông khác.
+Bác sĩ sẽ gặp lại bệnh nhân sau vài tuần để theo dõi và tra cứu xét nghiệm thêm.
+
+
+=== Phòng ngừa biến chứng khác ===
+Đa số bệnh nhân sẽ phải tiếp tục dùng thuốc điều trị tránh bị nhồi máu cơ tim lần nữa và những bệnh tương tự như tai biến mạch máu não.
+
+aspirin: liều thấp, cần theo dõi tác dụng phụ trên đường tiêu hóa (loét dạ dày, tá tràng, rối loạn tiêu hóa), những trường hợp mẫn cảm với Aspirin có thể dự phòng bằng các sản phẩm giúp phòng nhồi máu cơ tim khác (Vasopolis)
+clopidogrel
+Thuốc chẹn β
+Thuốc ức chế men chuyển (ACE)
+Thuốc giảm mỡ máu
+
+
+== Xem thêm ==
+Hội chứng Dressler
+
+
+== Tham khảo ==
+Beers MH, Berkow R, editors: The Merck Manual. 17th edition. Whitehouse Station (NJ): Merck Research Laboratories; 1999. ISBN 0-911910-10-7
+Herrick JB.: "Clinical features of sudden obstruction of the coronary arteries". In: JAMA 1912;59:2015–2019.
+Rossi S, editor: Australian Medicines Handbook 2006. Adelaide: Australian Medicines Handbook; 2006. ISBN 0-9757919-2-3
+Pitt B, Remme W, Zannad F, Neaton J, Martinez F, Roniker B, et al.: "Eplerenone, a selective aldosterone blocker, in patients with left ventricular dysfunction after myocardial infarction". In: N Engl J Med 2003;348(14):1309–21. PMID 12668699
+Smith A, Aylward P, Campbell T, et al.: Therapeutic Guidelines: Cardiovascular. 4th edition. North Melbourne: Therapeutic Guidelines; 2003. ISSN 1327-9513
+Zimetbaum PJ, Josephson ME: "Use of the electrocardiogram in acute myocardial infarction". In: N Engl J Med 2003;348(10):933–40. PMID 12621138.
+Bệnh mạch vành, GS.TS Nguyễn Huy Dung, 2011
+Sức khỏe trái tim, PGS.TS.BS Nguyễn Quang Tuấn, 2011
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+
+Nhồi máu cơ tim Lưu trữ 2007-09-27 tại Wayback Machine
+Atlas of Pathology
+Risk Score Calculator Lưu trữ 2006-10-05 tại Wayback Machine

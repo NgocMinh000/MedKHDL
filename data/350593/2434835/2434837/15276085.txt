@@ -1,0 +1,37 @@
+Anagrelide (Agrylin/Xagrid, Shire và Thromboreductin, AOP Orphan Pharmaceuticals AG) là một loại thuốc dùng để điều trị tăng tiểu cầu thiết yếu, hoặc sản xuất quá mức tiểu cầu trong máu. Nó cũng đã được sử dụng trong điều trị bệnh bạch cầu dòng tủy mạn tính.
+Phát hành có kiểm soát Anagrelide (GALE-401) trong các thử nghiệm lâm sàng giai đoạn III của Galena Biopharma để điều trị chứng tăng tiểu cầu thiết yếu.
+
+
+== Sử dụng trong y tế ==
+Anagrelide được sử dụng để điều trị tăng tiểu cầu thiết yếu, đặc biệt khi điều trị hiện tại của bệnh nhân không đủ. Bệnh nhân tăng tiểu cầu thiết yếu phù hợp với anagrelide thường đáp ứng một hoặc nhiều yếu tố sau:
+
+tuổi trên 60
+số lượng tiểu cầu trên 1000 × 10 9/L
+tiền sử huyết khối
+Theo một thử nghiệm ngẫu nhiên của Hội đồng nghiên cứu y học năm 2005, sự kết hợp hydroxyurea với aspirin là vượt trội so với sự kết hợp của anagrelide và aspirin để kiểm soát ban đầu của chứng tăng tiểu cầu thiết yếu. Cánh tay hydroxyurea có khả năng mắc bệnh tủy, huyết khối động mạch và chảy máu thấp hơn, nhưng nó có tỷ lệ huyết khối tĩnh mạch cao hơn một chút. Anagrelide có thể hữu ích trong thời gian khi hydroxyurea tỏ ra không hiệu quả.
+
+
+== Tác dụng phụ ==
+Tác dụng phụ thường gặp là nhức đầu, tiêu chảy, yếu/mệt mỏi bất thường, rụng tóc, buồn nôn.
+Thử nghiệm MRC tương tự được đề cập ở trên cũng đã phân tích tác dụng của anagrelide đối với xơ hóa tủy xương, một đặc điểm phổ biến ở bệnh nhân mắc bệnh tủy. Việc sử dụng anagrelide có liên quan đến sự gia tăng nhanh chóng mức độ lắng đọng reticulin (cơ chế xảy ra xơ hóa), khi so sánh với những người sử dụng hydroxyurea. Bệnh nhân có tình trạng suy tủy được biết là có quá trình tăng xơ hóa tủy rất chậm và có phần thay đổi. Xu hướng này có thể được tăng tốc bởi anagrelide. Sự gia tăng xơ hóa này dường như có liên quan đến sự sụt giảm huyết sắc tố khi nó tiến triển. Ngừng anagrelide (và chuyển bệnh nhân sang hydroxyurea) dường như đảo ngược mức độ xơ hóa tủy. Do đó, bệnh nhân dùng anagrelide có thể cần được theo dõi định kỳ về điểm số reticulin của tủy, đặc biệt là nếu thiếu máu phát triển, hoặc trở nên rõ rệt hơn nếu xuất hiện ban đầu.
+Các tác dụng phụ ít gặp hơn bao gồm: suy tim sung huyết, nhồi máu cơ tim, bệnh cơ tim, bệnh cơ tim, khối tim hoàn chỉnh, rung tâm nhĩ, tai biến mạch máu não, viêm màng ngoài tim, nhồi máu phổi, xơ phổi, xơ phổi co giật.
+Do những vấn đề này, anagrelide thường không nên được xem xét cho liệu pháp đầu tiên cho điều trị tăng tiểu cầu thiết yếu.
+
+
+== Cơ chế hoạt động ==
+Anagrelide hoạt động bằng cách ức chế sự trưởng thành của tiểu cầu từ megakaryocytes. Cơ chế hoạt động chính xác vẫn chưa rõ ràng, mặc dù nó được biết đến là chất ức chế phosphodiesterase. Nó là chất ức chế mạnh (IC50 = 36nM) của phosphodiesterase -II.  Nó ức chế PDE-3 và phospholipase A2.
+
+
+== Tổng hợp ==
+Thuốc ức chế phosphodiesterase có hoạt tính kháng tiểu cầu. 
+
+Ngưng tụ benzyl chloride 1 với etyl este của glycine tạo ra sản phẩm kiềm hóa 2. Việc giảm nhóm nitro dẫn đến anilin và phản ứng này với cyanogen bromide có thể cho cyanamide 3 làm chất trung gian ban đầu. Việc bổ sung aliphatic sau đó sẽ dẫn đến sự hình thành vòng quinazoline (4). Sự hình thành amide giữa imide mới được tạo thành và este sau đó sẽ phục vụ để tạo thành vòng imidazolone, bất kể chi tiết nào của trình tự, đều thu được anagrelide (5).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web Shire Dược phẩm Agrylin/Xagrid cho khách quốc tế Lưu trữ 2020-05-17 tại Wayback Machine
+Trang web Shire Dược phẩm Xagrid cho khách truy cập Vương quốc Anh Lưu trữ 2012-02-20 tại Wayback Machine
+Trang web dược phẩm AOP mồ côi

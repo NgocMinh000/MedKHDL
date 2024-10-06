@@ -1,0 +1,34 @@
+Vorinuler (rINN)  còn được gọi là axit suberanilohydroxamic (suberoyl + anilide + axit hydroxamic được viết tắt là SAHA) là thành viên của một nhóm hợp chất lớn hơn có tác dụng ức chế histone deacetylase (HDAC). Các chất ức chế histone deacetylase (HDI) có phổ rộng các hoạt động biểu sinh.
+Vorinostat được bán trên thị trường dưới cái tên Zolinza ( zoh-LIN -zə) bởi Merck để điều trị các biểu hiện da ở bệnh nhân u lympho tế bào da T (CTCL) khi bệnh kéo dài, nặng hơn, hoặc quay trở lại trong hoặc sau hai liệu pháp toàn thân. Hợp chất được phát triển bởi nhà hóa học Ronald Breslow và nhà nghiên cứu tưởng niệm Sloan-Kettering, Paul Marks.
+
+
+== Sử dụng trong y tế ==
+Vorinostat là chất ức chế histone deacetylase  được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phê chuẩn để điều trị CTCL vào ngày 6 tháng 10 năm 2006. Nó cũng không chứng minh được hiệu quả trong điều trị bệnh bạch cầu cấp dòng tủy trong một nghiên cứu pha II.
+
+
+== Cơ chế hoạt động ==
+Vorinuler đã được chứng minh là liên kết với vị trí hoạt động của histone deacetylase và hoạt động như một chất thải cho các ion kẽm cũng được tìm thấy trong vị trí hoạt động của histone deacetylase. Sự ức chế của histin deacetylase dẫn đến sự tích tụ của histone acetyl hóa và protein acetyl hóa, bao gồm các yếu tố phiên mã quan trọng cho sự biểu hiện của gen cần thiết để tạo ra sự khác biệt của tế bào. Nó hoạt động trên lớp I, II và IV của histone deacetylase.
+
+
+== Các thử nghiệm lâm sàng ==
+Vorinostat cũng đã được sử dụng để điều trị hội chứng Sézary, một loại ung thư hạch khác có liên quan mật thiết đến CTCL.
+Một nghiên cứu gần đây cho thấy rằng vorinuler cũng có một số hoạt động chống lại đa hình glioblastoma  tái phát, dẫn đến thời gian sống trung bình là 5,7 tháng (so với 4 đùa4,4 tháng trong các nghiên cứu trước đó). Các thử nghiệm khối u não tiếp theo được lên kế hoạch trong đó vorinuler sẽ được kết hợp với các loại thuốc khác.
+Bao gồm cả vorinuler trong điều trị ung thư biểu mô phổi không tế bào nhỏ (NSCLC) tiên tiến cho thấy tỷ lệ đáp ứng được cải thiện và tăng tỷ lệ sống tự do tiến triển trung bình và sống sót chung.
+Nó đã cho kết quả đáng khích lệ trong một thử nghiệm giai đoạn II đối với các hội chứng myelodysplastic kết hợp với idarubicin và cytarabine.
+
+
+== Điều tra tiền lâm sàng ==
+Vorinostat đang được điều tra như là một tác nhân đảo ngược độ trễ tiềm tàng HIV (LRA) như là một phần của chiến lược điều trị điều tra được gọi là "sốc và giết". Vorinuler đã được chứng minh là kích hoạt lại HIV trong các tế bào T bị nhiễm HIV gần đây, cả in vitro và in vivo. 
+Vorinostat cũng đã thể hiện một số hoạt động chống lại những thay đổi về sinh lý alpha 1 -antitrypsin thiếu  và xơ nang. Bằng chứng gần đây cũng cho thấy vorinuler có thể là một công cụ trị liệu cho Niemann-Pick type C1 (NPC1), một bệnh lưu trữ lipid lysosomal hiếm gặp.
+Các thí nghiệm tiền lâm sàng của Đại học Alabama tại Birmingham cho thấy các loại thuốc trị ung thư vorinuler, belinuler và panobinuler có thể được tái sử dụng để điều trị các bệnh nhiễm trùng do papillomavirus ở người hoặc HPV gây ra.
+
+
+== Xem thêm ==
+Trichostatin A
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Vorinuler liên kết với protein trong PDB

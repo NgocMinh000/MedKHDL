@@ -1,0 +1,219 @@
+Bộ điều tốc ly tâm (còn được gọi là bộ điều tốc Watt hay bộ điều tốc quả nặng) là một loại điều tốc điển hình sử dụng lực ly tâm nhằm kiểm soát tốc độ của một động cơ, thông qua kiểm soát lượng nhiên liệu được nạp vào, giúp động cơ duy trì một tốc độ ổn định với mọi tải trọng hoặc điều kiện cung cấp nhiên liệu. Bộ điều tốc ly tâm sử dụng các nguyên tắc kiểm soát tỷ lệ, là một ứng dụng kinh điển của lực ly tâm và được ứng dụng rộng rãi trong cơ khí.
+Bộ điều tốc ly tâm được sử dụng phổ biến nhất trong động cơ hơi nước ngày trước vì nó quyết định lượng hơi nước được nạp vào xi-lanh. Nó cũng được ứng dụng trong động cơ đốt trong và các tua-bin nhiên liệu hay trong một số loại đồng hồ có chuông.
+
+
+== Lịch sử hình thành ==
+Bộ điều tốc ly tâm đầu tiên được chế tạo vào năm 1788 bởi James Watt theo sự đề nghị của Matther Boulton. Nó được miêu tả như một bộ điều tốc có hai con lắc tạo thành một hình nón. Sau nhiều lần đổi mới, nó được Watt sử dụng trong động cơ hơi nước của mình. Tuy nhiên ông không bao giờ tuyên bố bộ điều tốc ly tâm là một sáng chế của mình. Nhiều người lầm tưởng Watt là người đầu tiên sáng chế ra thiết bị này, nhưng nó đã được sử dụng để điều chỉnh khoảng cách và áp suất giữa các đá nghiền và cánh quạt trong các cối xay gió từ thế kỉ 17.
+
+
+== Cấu tạo ==
+Một bộ điều tốc ly tâm đơn giản gồm có :
+
+Một ròng rọc để nối bộ điều tốc với động cơ bởi một dây curoa
+Hai quả nặng được gắn vào một cánh tay đòn
+Cánh tay đòn này được gắn bắt chéo qua một trục cố định.
+Phía cuối 2 cánh tay đòn được gắn 2 thanh ngắn bởi 1 trục khác, 2 thanh ngắn này được gắn vào một vòng đai có thể trượt trên trục.
+Vòng trượt được nối với một hệ thống (có thể là đòn bẩy) để đến một van điều tiết của ống dẫn nhiên liệu
+
+
+== Chuyển động của bộ ly điều tốc ly tâm ==
+Bộ điều tốc ly tâm có 2 chuyển động:
+
+Chuyển động quay quanh trục khiến quả nặng dưới tác dụng của lực ly tâm văng ra. Ngoài ra, các quả nặng chịu tác dụng của trọng lượng kéo xuống. Chuyển động của các quả nặng gây ra sự quay quanh các trục của cánh tay đòn và thanh ngắn khiến vòng trượt chuyển động
+Chuyển động tịnh tiến lên và xuống của vòng trượt (trực tiếp tác điều khiển van điều tiết).
+
+
+== Hoạt động ==
+
+Động cơ quay khiến cho bộ điều tốc quay vì chúng được nối bởi rây curoa. Năng lượng được truyền từ động cơ đến bộ điều tốc
+Các quả nặng sẽ bị văng ra xa khi trục quay quay nhanh bởi lực ly tâm. Cánh tay đòn của vật nặng bị nâng lên và vì được nối với một van điều tiết sẽ làm đóng van này khiến lượng nhiên liệu nạp vào giảm đi và làm cho động cơ quay chậm lại.
+Nếu động cơ quay chậm đi, các quả nặng sẽ bị kéo xuống bởi tác dụng của trọng lực, các cánh tay đòn bị kéo xuống và làm mở van điều tiết khiến nhiên liệu được nạp vào nhiều hơn và động cơ quay nhanh hơn.
+Cứ như vậy, bộ điều tốc giữ động cơ ở một tốc độ quay ổn định.
+
+
+== Nguyên lý của bộ điều tốc ly tâm ==
+
+Bỏ qua khối lượng của các cánh tay đòn cũng như ma sát. Các lực tác dụng lên quả nặng bao gồm: Lực ly tâm (Fc), trọng lượng (mg) và lực kéo của cánh tay đòn (T). Xét các momen lực ở đối với trục quay ta có:
+
+  
+    
+      
+         
+        
+          F
+          
+            c
+          
+        
+        h
+        −
+        m
+        g
+        r
+        =
+        0
+      
+    
+    {\displaystyle \ F_{c}h-mgr=0}
+  
+
+Vì có
+
+  
+    
+      
+         
+        
+          F
+          
+            c
+          
+        
+        =
+        m
+        r
+        
+          ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ F_{c}=mr\omega ^{2}}
+  
+
+Vậy
+
+  
+    
+      
+         
+        m
+        r
+        
+          ω
+          
+            2
+          
+        
+        h
+        −
+        m
+        g
+        r
+        =
+        0
+      
+    
+    {\displaystyle \ mr\omega ^{2}h-mgr=0}
+  
+
+Hay
+
+  
+    
+      
+         
+        
+          ω
+          
+            2
+          
+        
+        =
+        
+          
+            g
+            h
+          
+        
+      
+    
+    {\displaystyle \ \omega ^{2}={g \over h}}
+  
+
+Mặt khác 
+  
+    
+      
+         
+        
+      
+    
+    {\displaystyle \ \qquad }
+  
+
+  
+    
+      
+         
+        
+          ω
+          
+            2
+          
+        
+        =
+        
+          
+            
+              2
+              π
+              N
+            
+            60
+          
+        
+      
+    
+    {\displaystyle \ \omega ^{2}={2\pi N \over 60}}
+  
+  (N là số vòng quay trên phút)
+Do đó
+
+  
+    
+      
+         
+        h
+        =
+        
+          
+            
+              3600
+              g
+            
+            
+              4
+              
+                π
+                
+                  2
+                
+              
+              
+                N
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \ h={3600g \over 4\pi ^{2}N^{2}}}
+  
+
+
+=== Sự phụ thuộc của h vào tốc độ quay của động cơ ===
+
+Tại tốc độ cao, sự thay đổi của h là rất nhỏ (đường cong của h ở tốc độ cao gần như thẳng), biểu thị cho việc bộ điều tốc không nhạy ở tốc độ cao.
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Lực ly tâm

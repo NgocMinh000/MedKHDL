@@ -1,0 +1,61 @@
+Âm vị học là ngành nghiên cứu hệ thống âm thanh được sử dụng nhằm truyền tải ý nghĩa trong bất cứ một ngôn ngữ nói nào của con người. Một ngôn ngữ bên cạnh cú pháp và từ vựng, còn có hệ thống âm vị tác động đến thính giác. Khác với ngữ âm học nghiên cứu cách tạo ra, truyền tải và nhận thức âm thanh một cách vật lý, âm vị học nghiên cứu chức năng hoặc cách ký hiệu âm thanh trong một ngôn ngữ nhất định. Thuật ngữ "âm vị học" được dùng trong ngôn ngữ học thế kỷ 20 có thể bao gồm cả âm vị học và ngữ âm học.
+
+
+== Đọc thêm ==
+Anderson, John M.; and Ewen, Colin J. (1987). Principles of dependency phonology. Cambridge: Cambridge University Press.
+Bloch, Bernard. (1941). Phonemic overlapping. American Speech, 16, 278-284.
+Bloomfield, Leonard. (1933). Language. New York: H. Holt and Company. (Revised version of Bloomfield's 1914 An introduction to the study of language).
+Brentari, Diane (1998). A prosodic model of sign language phonology. Cambridge, MA: MIT Press.
+Chomsky, Noam. (1964). Current issues in linguistic theory. In J. A. Fodor and J. J. Katz (Eds.), The structure of language: Readings in the philosophy language (pp. 91–112). Englewood Cliffs, NJ: Prentice-Hall.
+Chomsky, Noam; and Halle, Morris. (1968). The sound pattern of English. New York: Harper & Row.
+Clements, George N. (1985). The geometry of phonological features. Phonology Yearbook, 2, 225-252.
+Clements, George N.; and Samuel J. Keyser. (1983). CV phonology: A generative theory of the syllable. Linguistic inquiry monographs (No. 9). Cambridge, MA: MIT Press. ISBN 0-262-53047-3 (pbk); ISBN 0-262-03098-5 (hbk).
+de Lacy, Paul. (2007).  The Cambridge Handbook of Phonology.  Cambridge University Press.  ISBN 0-521-84879-2 (hbk).
+Donegan, Patricia. (1985). On the Natural Phonology of Vowels. New York: Garland. ISBN 0824054245.
+Firth, J. R. (1948). Sounds and prosodies. Transactions of the Philological Society 1948, 127-152.
+Gilbers, Dicky; and de Hoop, Helen. (1998). Conflicting constraints: An introduction to optimality theory. Lingua, 104, 1-12.
+Goldsmith, John A. (1979). The aims of autosegmental phonology. In D. A. Dinnsen (Ed.), Current approaches to phonological theory (pp. 202–222). Bloomington: Đại học Indiana Press.
+Goldsmith, John A. (1989). Autosegmental and metrical phonology: A new synthesis. Oxford: Basil Blackwell.
+Goldsmith, John A (1995). “Phonological Theory”.  Trong John A. Goldsmith (biên tập). The Handbook of Phonological Theory. Blackwell Handbooks in Linguistics. Blackwell Publishers.
+Gussenhoven, Carlos & Jacobs, Haike. "Understanding Phonology", Hodder & Arnold, 1998. 2nd edition 2005.
+Halle, Morris. (1954). The strategy of phonemics. Word, 10, 197-209.
+Halle, Morris. (1959). The sound pattern of Russian. The Hague: Mouton.
+Harris, Zellig. (1951). Methods in structural linguistics. Chicago: Chicago University Press.
+Hockett, Charles F. (1955). A manual of phonology. Đại học Indiana publications in anthropology and linguistics, memoirs II. Baltimore: Waverley Press.
+Hooper, Joan B. (1976). An introduction to natural generative phonology. New York: Academic Press.
+Jakobson, Roman. (1949). On the identification of phonemic entities. Travaux du Cercle Linguistique de Copenhague, 5, 205-213.
+Jakobson, Roman; Fant, Gunnar; and Halle, Morris. (1952). Preliminaries to speech analysis: The distinctive features and their correlates. Cambridge, MA: MIT Press.
+Kaisse, Ellen M.; and Shaw, Patricia A. (1985). On the theory of lexical phonology. In E. Colin and J. Anderson (Eds.), Phonology Yearbook 2 (pp. 1–30).
+Kenstowicz, Michael. Phonology in generative grammar. Oxford: Basil Blackwell.
+Ladefoged, Peter. (1982). A course in phonetics (2nd ed.). London: Harcourt Brace Jovanovich.
+Martinet, André. (1949). Phonology as functional phonetics. Oxford: Blackwell.
+Martinet, André. (1955). Économie des changements phonétiques: Traité de phonologie diachronique. Berne: A. Francke S.A.
+Napoli, Donna Jo (1996.  Linguistics: An Introduction. New York: Oxford University Press.
+Pike, Kenneth. (1947). Phonemics: A technique for reducing languages to writing. Ann Arbor: University of Michigan Press.
+Sandler, Wendy and Lillo-Martin, Diane. 2006.  Sign language and linguistic universals. Cambridge: Cambridge University Press
+Sapir, Edward. (1925). Sound patterns in language. Language, 1, 37-51.
+Sapir, Edward. (1933). La réalité psychologique des phonémes. Journal de Psychologie Normale et Pathologique, 30, 247-265.
+de Saussure, Ferdinand. (1916). Cours de linguistique générale. Paris: Payot.
+Stampe, David. (1979). A dissertation on natural phonology. New York: Garland.
+Swadesh, Morris. (1934). The phonemic principle. Language, 10, 117-129.
+Trager, George L.; and Bloch, Bernard. (1941). The syllabic phonemes of English. Language, 17, 223-246.
+Trubetzkoy, Nikolai. (1939). Grundzüge der Phonologie. Travaux du Cercle Linguistique de Prague 7.
+Twaddell, William F. (1935). On defining the phoneme. Language monograph no. 16. Language.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+What is phonology?
+What is autosegmental phonology?
+What is generative phonology?
+What is lexical phonology?
+What is metrical phonology?
+What is a phonological derivation?
+What is phonological hierarchy?
+What is phonological symmetry?
+What is a phonological universal?
+Metrical phonology
+Generative phonology: Its origins, its principles, and its successors Lưu trữ 2013-03-23 tại Wayback Machine (by John Goldsmith)
+phonoblog Lưu trữ 2010-02-25 tại Wayback Machine

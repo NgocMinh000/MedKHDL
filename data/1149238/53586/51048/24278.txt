@@ -1,0 +1,168 @@
+Học máy hay máy học (tiếng Anh: machine learning) là một lĩnh vực của trí tuệ nhân tạo liên quan đến việc nghiên cứu và xây dựng các kĩ thuật cho phép các hệ thống "học" tự động từ dữ liệu để giải quyết những vấn đề cụ thể. Các thuật toán học máy xây dựng một mô hình dựa trên dữ liệu mẫu, được gọi là dữ liệu huấn luyện, để đưa ra dự đoán hoặc quyết định mà không cần được lập trình chi tiết về việc đưa ra dự đoán hoặc quyết định này. Ví dụ như các máy có thể "học" cách phân loại thư điện tử xem có phải thư rác (spam) hay không và tự động xếp thư vào thư mục tương ứng. Học máy rất gần với suy diễn thống kê (statistical inference) tuy có khác nhau về thuật ngữ.
+Một nhánh của học máy là học sâu  phát triển rất mạnh mẽ gần đây và có những kết quả vượt trội so với các phương pháp học máy khác
+Học máy có liên quan lớn đến thống kê, vì cả hai lĩnh vực đều nghiên cứu việc phân tích dữ liệu, nhưng khác với thống kê, học máy tập trung vào sự phức tạp của các giải thuật trong việc thực thi tính toán. Nhiều bài toán suy luận được xếp vào loại bài toán NP-khó, vì thế một phần của học máy là nghiên cứu sự phát triển các giải thuật suy luận xấp xỉ mà có thể xử lý được.
+Học máy có hiện nay được áp dụng rộng rãi bao gồm máy truy tìm dữ liệu, chẩn đoán y khoa, phát hiện thẻ tín dụng giả, phân tích thị trường chứng khoán, phân loại các chuỗi DNA, nhận dạng tiếng nói và chữ viết, dịch tự động, chơi trò chơi và cử động rô-bốt (robot locomotion).
+
+
+== Định nghĩa ==
+Dưới góc nhìn của trí tuệ nhân tạo, động lực chính học máy bởi là nhu cầu thu nhận tri thức (knowledge acquisition). Thật vậy, trong nhiều trường hợp ta cần kiến thức chuyên gia là khan hiếm (không đủ chuyên gia ngồi phân loại lừa đảo thẻ tín dụng của tất cả giao dịch hàng ngày) hoặc chậm vì một số nhiệm vụ cần đưa ra quyết định nhanh chóng dựa trên xử lý dữ liệu khổng lồ (trong mua bán chứng khoán phải quyết định trong vài khoảng khắc của giây chẳng hạn) và thiếu ổn định thì buộc phải cần đến máy tính. Ngoài ra, đại đa số dữ liệu sinh ra ngày nay chỉ phù hợp cho máy đọc (computer readable) tiềm tàng ngưồn kiến thức quan trọng. Máy học nghiên cứu cách thức để mô hình hóa bài toán cho phép máy tính tự động hiểu, xử lý và học từ dữ liệu để thực thi nhiệm vụ được giao cũng như cách đánh giá giúp tăng tính hiệu quả.
+Tom Mitchell, giáo sư nổi tiếng của Đại học Carnegie Mellon University - CMU định nghĩa cụ thể và chuẩn mực hơn như sau: "Một chương trình máy tính CT được xem là học cách thực thi một lớp nhiệm vụ NV thông qua trải nghiệm KN, đối với thang đo năng lực NL nếu như dùng NL ta đo thấy năng lực thực thi của chương trình có tiến bộ sau khi trải qua KN" (máy đã học).
+
+
+== Biểu diễn ==
+Biểu diễn (tiếng Anh: representation) là một trong những vấn đề quan trọng của học máy. Biểu diễn ở đây có thể hiểu làm sao mã hóa (encode) những thông tin của thế giới thật giúp hoàn thành nhiệm vụ một cách hiệu quả và đầy đủ nhất có thể. Thông tin ở đây bao hàm cả thông tin về dữ liệu đầu vào, đầu ra hay các trạng thái của hệ thống; cũng như cách đánh giá hiệu quả của chương trình.
+Thông thường, trong học máy người ta hay xây dựng các mô hình sử dụng những biến ngẫu nhiên cho việc biểu diễn dữ liệu và nội trạng thái của hệ thống. Ví dụ: dùng biến ngẫu nhiên để biểu thị cho tính chất của email là spam (tương ứng giá trị 0) hay là bình thường (tương ứng 1). Mối tương quan giữa các biến ngẫu nhiên này có thể sử dụng ví dụ như mô hình xác suất dạng đồ thị để miêu tả. Mặt khác, để đo hiệu quả có thể dùng các hàm thiệt hại (hay hàm tiện ích, trong tiếng Anh là loss function và utility function tương ứng).
+
+
+== Tính phổ quát ==
+Một trong những trọng tâm khác của học máy là đạt được tính phổ quát (tiếng Anh: generalization), nói cách khác là tính chất của chương trình có thể làm việc tốt với dữ liệu mà nó chưa gặp bao giờ (tiếng Anh: unseen data). Một chương trình chỉ hiệu quả với dữ liệu đã gặp nhìn chung không có nhiều tính hữu dụng.
+Lấy ví dụ về xếp thư điện tử tự động như trên, một hệ thống tự động sau khi trải qua quá trình học từ dữ liệu ("training") có thể suy diễn một số nguyên tắc riêng (chẳng hạn như xem xét nội dung: nếu thư được viết bằng tiếng Anh mà chứa một số từ như "porn", "sell", "good product" hoặc người gửi đến từ Somalia trong khi người nhận ở Hà Nội không thân quen nhau) để quyết định xem có phải là thư rác hay không. Tuy nhiên, nếu như trong dữ liệu bài giảng (training data) có ngôn ngữ khác trong thực tế (tiếng Việt thay vì tiếng Anh) hoặc thậm chí không phải dạng thuần văn bản (dạng ảnh khiến cho bóc tách nội dung khó hơn hoặc không thể) thì rất có thể máy sẽ dự báo không chính xác nữa.
+Một số chương trình có thể tự động cập nhật trong thời gian thực (ví dụ như người sử dụng có chỉ ra rằng thư bị sắp xếp sai danh mục).
+
+
+== Tương tác với con người ==
+Một số hệ thống học máy nỗ lực loại bỏ nhu cầu trực giác của con người trong việc phân tích dữ liệu, trong khi các hệ thống khác hướng đến việc tăng sự cộng tác giữa người và máy. Không thể loại bỏ hoàn toàn tác động của con người vì các nhà thiết kế hệ thống phải chỉ định cách biểu diễn của dữ liệu và những cơ chế nào sẽ được dùng để tìm kiếm các đặc tính của dữ liệu. Học máy có thể được xem là một nỗ lực để tự động hóa một số phần của phương pháp khoa học. Một số nhà nghiên cứu học máy tạo ra các phương pháp bên trong các khuôn khổ của thống kê Bayes.
+
+
+== Tương quan với Khai phá dữ liệu ==
+Khai phá dữ liệu và học máy là hai khái niệm hay bị nhầm lẫn. Hai lĩnh vực này nhìn chung gần với nhau và đôi khi dùng chung nhiều phương pháp, công cụ nhưng khác biệt chính là ở mục tiêu:
+
+Khai phá dữ liệu: thường mục tiêu là tìm kiếm những thông tin, tri thức hoàn toàn mới tiềm năng có ích trong nguồn dữ liệu.
+Học máy: dự đoán một số thông tin của dữ liệu dựa trên những đặc tính đã biết.
+
+
+== Các loại giải thuật ==
+Các thuật toán học máy được phân loại theo kết quả mong muốn của thuật toán. Các loại thuật toán thường dùng bao gồm:
+
+Học có giám sát—trong đó, thuật toán tạo ra một hàm ánh xạ dữ liệu vào tới kết quả mong muốn. Một phát biểu chuẩn về một việc học có giám sát là bài toán phân loại: chương trình cần học (cách xấp xỉ biểu hiện của) một hàm ánh xạ một vector 
+  
+    
+      
+        [
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        
+          X
+          
+            N
+          
+        
+        ]
+      
+    
+    {\displaystyle [X_{1},X_{2},\ldots X_{N}]}
+  
+ tới một vài lớp bằng cách xem xét một số mẫu dữ liệu - kết quả của hàm đó.
+Học không giám sát—mô hình hóa một tập dữ liệu, không có sẵn các ví dụ đã được gắn nhãn.
+Học nửa giám sát—kết hợp các ví dụ có gắn nhãn và không gắn nhãn để sinh một hàm hoặc một bộ phân loại thích hợp.
+Học tăng cường—trong đó, thuật toán học một chính sách hành động tùy theo các quan sát về thế giới. Mỗi hành động đều có tác động tới môi trường, và môi trường cung cấp thông tin phản hồi để hướng dẫn cho thuật toán của quá trình học.
+Chuyển đổi—tương tự học có giám sát nhưng không xây dựng hàm một cách rõ ràng. Thay vì thế, cố gắng đoán kết quả mới dựa vào các dữ liệu huấn luyện, kết quả huấn luyện, và dữ liệu thử nghiệm có sẵn trong quá trình huấn luyện.
+Học cách học—trong đó thuật toán học thiên kiến quy nạp của chính mình, dựa theo các kinh nghiệm đã gặp.
+Phân tích hiệu quả các thuật toán học máy là một nhánh của ngành thống kê, được biết với tên lý thuyết học điện toán.
+
+
+== Các chủ đề về máy học ==
+Danh sách các chủ đề của môn học này:
+
+Mô hình hóa các hàm mật độ xác suất điều kiện: hồi quy và phân loại
+Mạng nơ-ron
+Máy học cực độ (Extreme learning machine)
+Cây quyết định
+Lập trình biểu thức gen
+Lập trình di truyền
+Hồi quy quá trình Gauss
+Phân tích biệt thức tuyến tính
+k láng giềng gần nhất
+Độ dài thông điệp tối thiểu
+Cảm tri nguyên
+Hàm cơ sở xuyên tâm
+Máy vector hỗ trợ (Support Vector Machine)
+Mô hình hóa các hàm mật độ xác suất qua các mô hình phát sinh:
+Thuật toán cực đại kì vọng
+Các mô hình đồ họa gồm mạng Bayes và mạng Markov
+Ánh xạ topo phát sinh
+Các kỹ thuật suy luận xấp xỉ đúng:
+Chuỗi Markov phương pháp Monte Carlo
+Phương pháp biến thiên
+Tối ưu hóa: hầu hết các phương pháp trên đều sử dụng tối ưu hóa hoặc là các thể hiện của các thuật toán tối ưu hóa.
+
+
+== Xem thêm ==
+Trí tuệ nhân tạo
+Trí tuệ điện toán
+Khai phá dữ liệu
+Nhận dạng mẫu
+Các ẩn bản quan trọng trong học máy (khoa học máy tính)
+Các ấn bản quan trọng trong học máy (thống kê)
+Rô-bốt tự hành
+Lập trình suy diễn lôgic
+
+
+== Tham khảo ==
+Bishop C. M. (1995). Neural Networks for Pattern Recognition, Nhà in Đại học Oxford. ISBN 0-19-853864-2
+Richard O. Duda, Peter E. Hart, David G. Stork (2001) Pattern classification (ấn bản lần 2), Wiley, New York, ISBN 0-471-05669-3.
+MacKay D. J. C. (2003). Information Theory, Inference, and Learning Algorithms, Nhà in Đại học Cambridge. ISBN 0-521-64298-1
+Sholom Weiss và Casimir Kulikowski (1991). Computer Systems That Learn, Morgan Kaufmann. ISBN 1-55860-065-5
+
+
+== Liên kết ngoài ==
+
+
+=== Tài nguyên chung ===
+UCI description Lưu trữ 2008-05-21 tại Wayback Machine
+MLnet Mailing List
+Kmining List of machine learning, data mining and KDD scientific conferences
+Book "Intelligent Systems and their Societies Lưu trữ 2005-08-30 tại Wayback Machine" của Walter Fritz
+Links from Open Directory Project Lưu trữ 2017-03-09 tại Wayback Machine
+Eruditionhome Lưu trữ 2006-02-12 tại Wayback Machine - nơi chứa nhiều mục đề về Học máy
+MLpedia Lưu trữ 2011-07-27 tại Wayback Machine - Từ điển bách khoa wiki dành riêng cho chủ đề Học máy
+
+
+=== Tạp chí và Hội thảo ===
+Journal of Machine Learning Research
+Machine Learning Journal
+Machine Learning papers tại CiteSeer
+NIPS: Neural Information Processing Systems
+ICML: International Conference on Machine Learning Lưu trữ 2005-12-18 tại Wayback Machine
+
+
+=== Nhóm nghiên cứu ===
+Machine Learning tại Đại học Hebrew
+Machine Learning and Natural Language Processing tại Đại học Freiburg
+Machine Learning and Data Mining in Bioinformatics Group tại TU München
+Machine Learning and Biological Computation Group tại Đại học Bristol
+Machine Learning and Applied Statistics Lưu trữ 2005-06-30 tại Wayback Machine của Microsoft Research
+Department of Knowledge Technologies của Học viện Jozef Stefan
+Statistical Multimedia Learning Group tại Đại học British Columbia
+Machine Learning Systems Group tại Jet Propulsion Laboratory, Học viện Kỹ thuật California
+Department of Empirical Inference Lưu trữ 2005-12-28 tại Wayback Machine tại Viện Max Planck về điều khiển học sinh học, Tübingen
+Machine Learning Group tại Đại học Toronto
+Intelligent Data Analysis Group Lưu trữ 2007-06-27 tại Wayback Machine tại Fraunhofer FIRST, Berlin
+Machine Learning Group tại Đại học Tự do Bruxelles
+
+
+=== Phần mềm ===
+Chương trình mạng nơ ron đa lớp (Multi Layer Neural Network) và mạng nơ ron tự tổ chức (Self Organizing Maps) có giải thích bằng tiếng Việt. Lưu trữ 2011-07-15 tại Wayback Machine
+Sử dụng phần mềm mạng nơ ron 3 lớp Spice-MLP Lưu trữ 2011-09-29 tại Wayback Machine
+Sử dụng phần mềm mạng tự tổ chức Spice-SOM Lưu trữ 2011-09-29 tại Wayback Machine
+Hướng dẫn sử dụng mạng nơ ron trong các ứng dụng thực tế Lưu trữ 2011-06-26 tại Wayback Machine trong đó có minh họa phân loại ảnh khuôn mặt, ảnh người đi bộ, ảnh xe hơi, dự báo chứng khoán và một số ví dụ khác
+SPIDER Lưu trữ 2005-12-20 tại Wayback Machine - một hộp công cụ học máy hoàn chỉnh cho Matlab
+PRTools PRTools là một gói phần mềm hoàn chỉnh khác tương tự SPIDER và được cài trong Matlab. SPIDER có vẻ có nhiều hỗ trợ mức thấp, nhưng các công cụ của PRTools có phần đa dạng hơn. PRTools có sách và tài liệu tốt. Cả SPIDER và PRTools được cung cấp miễn phí trên mạng cho các ứng dụng phi thương mại.
+Orange, bộ chương trình học máy với các script viết bằng Python và giao diện lập trình đồ họa
+YALE là một công cụ mạnh miễn phí cho Học máy và Khai phá dữ liệu
+Weka Machine Learning Software
+Matlab MATLAB có hỗ trợ hộp công cụ cho nhiều công cụ học máy. Hiện giờ hộ công cụ Tin sinh học đã có Support Vector Machines và các bộ phân loại KNN (k láng giềng gần nhất). Hộp công cụ thống kê thực hiện biệt thức tuyến tính và phân loại bằng cây quyết định. Hộp công cụ mạng nơ-ron là một bộ công cụ hoàn chỉnh để cài đặt mạng nơron. Trong thời gian gần đây, các phương pháp mới để đánh giá hiệu quả của các bộ phân loại và để thẩm định chéo đã làm Matlab trở nên hấp dẫn hơn đối với học máy.
+MLC++ là thư viện lớp C++ dành cho học có giám sát

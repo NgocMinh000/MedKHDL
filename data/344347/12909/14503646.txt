@@ -1,0 +1,42 @@
+Hội chứng viêm phục hồi miễn dịch (tiếng Anh: Immune reconstitution inflammatory syndrome (IRIS) (hay hội chứng phục hồi miễn dịch) là một tình trạng được thấy trong một số trường hợp AIDS hoặc ức chế miễn dịch, trong đó hệ thống miễn dịch bắt đầu hồi phục, nhưng sau đó đáp ứng với nhiễm trùng cơ hội mắc phải trước đó với đáp ứng viêm nghịch lý làm cho các triệu chứng nhiễm trùng trở nên tồi tệ hơn.
+
+
+== Trong nhiễm HIV và ức chế miễn dịch ==
+Việc ức chế tế bào T CD4 bởi HIV (hoặc bằng thuốc ức chế miễn dịch) gây ra sự giảm phản ứng bình thường của cơ thể đối với một số bệnh nhiễm trùng. Điều này không chỉ làm cho việc chống nhiễm trùng trở nên khó khăn hơn mà còn có nghĩa là mức độ nhiễm trùng thường gây ra các triệu chứng thay vào đó không bị phát hiện (nhiễm trùng cận lâm sàng). Nếu số lượng CD4 tăng nhanh (do điều trị hiệu quả HIV, hoặc loại bỏ các nguyên nhân gây ức chế miễn dịch khác), sự gia tăng đột ngột của phản ứng viêm tạo ra triệu chứng không đặc hiệu như sốt, và trong một số trường hợp làm tổn thương nặng hơn mô bị nhiễm bệnh.
+Có hai bối cảnh IRIS phổ biến. Đầu tiên là những lần “khám phá” ra một nhiễm trùng cơ hội huyền bí. Thứ hai là tái phát triệu chứng “nghịch lý” của một bệnh nhiễm trùng trước đó mặc dù thành công trong điều trị vi sinh. Thông thường trong IRIS nghịch lý, nuôi cấy vi sinh là vô trùng. Trong cả hai trường hợp, có sự phục hồi giả thuyết về khả năng miễn dịch qua trung gian tế bào T đặc hiệu với việc kích hoạt hệ thống miễn dịch sau liệu pháp HIV chống lại kháng nguyên dai dẳng, cho dù là sinh vật còn nguyên vẹn, sinh vật chết hoặc mảnh vụn.
+Mặc dù những triệu chứng này có thể nguy hiểm, nhưng chúng cũng chỉ ra rằng cơ thể bây giờ có thể có cơ hội tốt hơn để đánh bại nhiễm trùng. Điều trị tốt nhất cho tình trạng này là không rõ. Trong các phản ứng IRIS nghịch lý, các sự kiện thường sẽ tự nhiên trở nên tốt hơn theo thời gian mà không cần bất kỳ liệu pháp bổ sung nào. Trong việc tiết lộ IRIS, phương pháp điều trị phổ biến nhất là sử dụng thuốc kháng sinh hoặc thuốc chống vi-rút chống lại sinh vật truyền nhiễm. Trong một số trường hợp nghiêm trọng, cần dùng thuốc chống viêm, chẳng hạn như corticosteroid để ức chế viêm cho đến khi nhiễm trùng được loại bỏ.
+Nhiễm trùng thường gặp nhất với IRIS bao gồm Mycobacterium tuberculosis và viêm màng não do cryptococcus. Những người nhiễm AIDS có nguy cơ mắc IRIS cao hơn nếu họ bắt đầu  HAART  lần đầu tiên hoặc nếu gần đây họ đã được điều trị nhiễm trùng cơ hội (NTCH). Thông thường, khi bệnh nhân có số lượng tế bào T CD4 ban đầu thấp và nhiễm trùng cơ hội tại thời điểm chẩn đoán HIV, họ được điều trị để kiểm soát nhiễm trùng cơ hội trước khi HAART được bắt đầu khoảng hai tuần sau đó. Điều này đúng với hầu hết các NTCH, ngoại trừ các NTCH liên quan đến hệ thần kinh trung ương.
+
+
+== Trong viêm màng não do cryptococcus ==
+IRIS đặc biệt có vấn đề trong viêm màng não do cryptococcus vì IRIS khá phổ biến và có thể gây tử vong.
+IRIS đã được mô tả trong các vật chủ miễn dịch bị viêm màng não do Cryptococcus gattii và  Cryptococcus neoformans  var.  grubii , nấm môi trường thường ảnh hưởng đến vật chủ miễn dịch. Vài tuần hoặc thậm chí vài tháng điều trị thích hợp, có một sự suy giảm đột ngột khởi phát với các triệu chứng viêm màng não ngày càng tồi tệ và tiến triển hoặc phát triển các triệu chứng thần kinh mới.
+Chụp cộng hưởng từ cho thấy sự gia tăng kích thước của tổn thương não và các bất thường về dịch não tủy (số lượng tế bào trắng, protein, glucose) tăng. Nuôi cấy DNT thường vô trùng và không có sự gia tăng về hiệu giá kháng nguyên tiền mã hóa DNT.
+Tình trạng viêm ngày càng tăng có thể gây chấn thương não hoặc gây tử vong.
+Cơ chế chung đằng sau IRIS là tình trạng viêm gia tăng khi hệ thống miễn dịch phục hồi nhận ra các kháng nguyên của nấm khi ức chế miễn dịch bị đảo ngược. IRIS do cryptococcus có ba giai đoạn:
+
+trước HAART, với một ít viêm dịch não tủy (DNT) và khiếm khuyết trong giải phóng kháng nguyên;
+trong quá trình phục hồi miễn dịch ban đầu HAART, với tín hiệu tiền viêm bởi các tế bào trình diện kháng nguyên mà không có phản ứng tác động; và
+tại IRIS, một cơn bão cytokine với đáp ứng interferon-gamma tế bào T giúp đỡ loại 1 chiếm ưu thế.
+Ba dự đoán lâm sàng về nguy cơ IRIS nghịch lý liên quan đến tiền điện tử bao gồm:
+
+không có tăng bạch cầu DNT ban đầu (chẳng hạn, số lượng bạch cầu DNT thấp);
+Protein phản ứng C tăng;
+thất bại trong việc khử trùng DNT trước khi phục hồi miễn dịch.
+IRIS có thể là nguyên nhân dẫn đến kết quả nghịch lý tồi tệ hơn đối với viêm màng não do cryptococcus trong điều hòa miễn dịch so với các vật chủ bị suy giảm miễn dịch, trong đó Cryptococcus neoformans thường là bệnh nguyên. Điều trị bằng corticosteroid toàn thân trong IRIS có thể có lợi trong việc ngăn ngừa tử vong hoặc suy thoái thần kinh tiến triển. Steroid được trao cho những người bị thất bại trong điều trị chống nấm / tái phát cryptococcus (trong đó nuôi cấy DNT không vô trùng) có thể lỗi do điều trị.
+
+
+== Ở hồi phục của dơi sau hội chứng mũi trắng ==
+Dơi phục hồi sau hội chứng mũi trắng (WNS) có thể là sự xuất hiện tự nhiên đầu tiên của IRIS, trong một báo cáo do USGS công bố. WNS được tiêu biểu hóa bởi sự nhiễm trùng qua da của nấm Pseudogymnoascus destructans trong thời gian ngủ đông, khi hệ thống miễn dịch bị ức chế một cách tự nhiên để bảo tồn năng lượng trong suốt mùa đông. Nghiên cứu này cho thấy những con dơi trải qua sự viêm dữ dội tại vị trí bị nhiễm trùng sau khi trở lại euthermia, một dạng của IRIS.
+
+
+== Xem thêm ==
+Danh sách tình trạng da
+Phản ứng Jarisch-Herxheimer, một hội chứng viêm toàn thân khác phát sinh sau khi điều trị bằng kháng sinh
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+"Immune Reconstitution Syndrome" at TheBody.com (by Nicholas Cheonis, Winter 2004/2005)

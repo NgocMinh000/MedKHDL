@@ -1,0 +1,11 @@
+Tiêu chuẩn Thông dụng để Đánh giá Các biến cố bất lợi (Common Terminology Criteria for Adverse Events - CTCAE), trước đây được gọi là Tiêu chuẩn Thông dụng để Đánh giá Độc tính (Common Toxicity Criteria - CTC hoặc NCI-CTC), là một bộ tiêu chí để phân loại tiêu chuẩn về tác dụng phụ của thuốc được sử dụng trong điều trị ung thư. Hệ thống CTCAE là một sản phẩm của Viện Ung thư Quốc gia Hoa Kỳ (NCI). Phiên bản 5.0 hiện tại được phát hành vào ngày 27 tháng 11 năm 2017. Nhiều thử nghiệm lâm sàng hiện đang mở rộng ra ngoài ung thư, mã hóa các quan sát dựa trên hệ thống CTCAE. Tiêu chuẩn bao gồm các mức độ từ 1 đến 5. Các điều kiện và triệu chứng cụ thể có thể có giá trị hoặc nhận xét mô tả riêng cho từng cấp độ, nhưng nguyên tắc chung là:
+
+1 - Nhẹ
+2 - Trung bình
+3 - Nặng
+4 - Nguy hiểm đến tính mạng
+5 - Tử vong
+Xem tài liệu tham khảo để biết chi tiết đầy đủ về các tiêu chí hiện tại.
+
+
+== Tham khảo ==

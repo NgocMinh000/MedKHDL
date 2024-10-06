@@ -1,0 +1,51 @@
+Máy Turing là một mô hình toán học về thiết bị xử lý các ký tự, tuy đơn giản, nhưng có thể thực hiện được tất cả các thuật toán máy tính. Các máy Turing đã được Alan Turing trình bày vào năm 1936. Nó được xây dựng không dành cho việc trực tiếp chế tạo ra máy tính, mà là dành cho các thí nghiệm tưởng tượng để tìm hiểu về các giới hạn của việc tính toán trên máy móc. Việc nghiên cứu các tính chất của máy Turing cho biết nhiều kiến thức quan trọng trong lĩnh vực khoa học máy tính và lý thuyết về độ phức tạp tính toán.
+Máy Turing mà có khả năng mô phỏng lại hoạt động của tất cả các máy Turing khác được gọi là máy Turing vạn năng (hay đơn giản là máy vạn năng). Máy vạn năng cũng đã được Alonzo Church mô tả, khi xây dựng các lý thuyết về phép tính lambda. Lý thuyết của Church và Turing được tổng kết lại trong luận đề Church-Turing. Luận đề này khẳng định mọi hàm toán học tính được thì cũng có thể dùng các máy Turing để tính, và do đó cho phép định nghĩa các khái niệm như sự tính được của hàm hay thuật toán.
+Trong lý thuyết về ngôn ngữ hình thức, máy Turing có khả năng đoán nhận tất cả các ngôn ngữ sinh bởi văn phạm cấu trúc câu.
+
+
+== Miêu tả ==
+
+Ở dạng đơn giản và thông dụng, máy Turing có thể được mô tả với các bộ phận sau:
+
+Một dải băng (dài vô hạn), ở trên có nhiều ô. Mỗi ô có ghi một ký tự, và ký tự này có thể được đọc ra bên ngoài, hoặc được bên ngoài ghi đè lên đó (thay thế bằng ký tự khác). Các ký tự thuộc một bảng ký tự hữu hạn V (tức là có hữu hạn các ký tự), trong đó có một ký tự đặc biệt gọi là ký tự trống. Các ô trên dải băng chưa bao giờ được ghi đè lên từ bên ngoài, luôn được coi là có ghi sẵn ký tự trống.
+
+Một đầu đọc và ghi, chạy trên dải băng hoặc đứng yên cho dải băng chạy qua. Tại một thời điểm, đầu đọc này có thể thực hiện một trong 4 nhiệm vụ:
+Đọc ký tự trên ô mà đầu đọc đang nằm trên nó.
+Ghi đè ký tự mới lên ô mà đầu đọc đang nằm trên nó.
+Di chuyển sang ô bên trái
+Di chuyển sang ô bên phải
+
+Một bộ phận ghi nhớ lại các trạng thái của máy Turing. Tại một thời điểm, máy Turing luôn ở một trong số hữu hạn các trạng thái, và bộ ghi nhớ cho biết máy đang ở trạng thái nào. Tập tất cả các trạng thái có thể ký hiệu là S. Trong số các trạng thái, có trạng thái khởi động (hay trạng thái ban đầu), mặc định là máy Turing sẽ luôn ở trạng thái này khi bắt đầu hoạt động (ví dụ khi bật máy lên).
+Một hàm chuyển trạng thái hay bảng câu lệnh quy định hoạt động của máy Turing. Bảng này thường là danh sách chứa các quy tắc có dạng Si Ci → Sj Cj Dj. Ở đây Si, Sj là các trạng thái trong S. Ci, Cj là các ký tự trong bảng ký tự V (đọc được từ băng hoặc ghi lên băng). Dj là một trong 2 hướng di chuyển của đầu đọc, sang trái hoặc sang phải. Quy tắc Si Ci → Sj Cj Dj có thể hiểu là: nếu máy đang ở trạng thái Si và đầu đọc đọc được ký tự Ci thì thực hiện các công việc sau:
+Ghi đè ký tự Cj lên ô mà đầu đọc đang nằm trên
+Di chuyển đầu đọc lệch một ô theo hướng Dj (sang trái hoặc phải)
+Chuyển máy sang trạng thái Sj và ghi nhớ nó vào bộ ghi nhớ trạng thái.
+Trong một số mô hình, nếu máy đang ở trạng thái Si và đầu đọc đọc được ký tự Ci, nhưng chưa có quy tắc nào quy định việc hành xử của máy lúc đó, thì máy được dừng lại và không tiếp tục chạy nữa.
+Trong số các trạng thái trong S, có thể quy định ra những trạng thái được gọi là trạng thái kết thúc. Trong lý thuyết về ngôn ngữ hình thức, nếu một đoạn ký tự (gọi là một từ hay một câu) ghi trên dải băng đưa máy Turing chạy từ trạng thái ban đầu đến một trong số các trạng thái kết thúc thì câu viết đó được gọi là đoán nhận bởi máy Turing đã cho.
+Ngoài mô hình đã miêu tả, còn có nhiều dạng khác như dải băng chỉ có một đầu (trái hoặc phải) là vô tận; hoặc máy có nhiều dải băng, nhiều đầu đọc,... tuy nhiên tất cả các máy đó đều có hoạt động tương đương với máy đã mô tả. Cụ thể hơn, trong lý thuyết ngôn ngữ hình thức, nếu có thể xây dựng máy theo một dạng bất kỳ đoán nhận một tập hợp các từ nào đó, thì luôn có thể xây dựng máy Turing theo dạng đã mô tả ở trên đoán nhận cùng tập hợp các từ này.
+
+
+== Định nghĩa ==
+Về mặt toán học, máy Turing có thể được định nghĩa bằng một bộ chứa các phần tử sau:
+
+Tập S hữu hạn chứa các trạng thái của máy.
+Tập V hữu hạn chứa các ký tự ghi trên băng.
+Hàm chuyển trạng thái f: S×V → S×V×{Phải, Trái}
+Ngoài ra có thể định nghĩa thêm:
+
+Phần tử đặc biệt là ký tự trống B trong V, các ký tự khác trống trong V được gọi là các ký tự đầu vào.
+Trạng thái đặc biệt là trạng thái ban đầu S0 trong S.
+Các trạng thái kết thúc thuộc tập F là tập con trong S.
+
+
+== Tham khảo ==
+
+Kenneth Rosen, Toán học rời rạc Ứng dụng trong tin học, Nhà xuất bản Giáo dục, 2007
+
+
+== Xem thêm ==
+Máy hữu hạn trạng thái
+Ôtômát
+Ôtômát hữu hạn
+Ôtômát đẩy xuống
+Máy Turing lượng tử

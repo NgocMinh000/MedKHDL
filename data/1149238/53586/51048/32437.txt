@@ -1,0 +1,54 @@
+Điều khiển học (tiếng Anh: cybernetics) là khoa học về việc điều khiển, thu thập, truyền và xử lý thông tin, thường bao gồm liên hệ điều chỉnh ngược trong các cơ thể sống, trong máy móc và các tổ chức và các kết hợp của chúng (ví dụ hệ thống kỹ thuật xã hội, các máy móc do máy tính điểu khiển, chẳng hạn robot).
+
+
+== Lịch sử ==
+
+Vào khoảng những năm 1940, điều khiển học hiện đại bắt đầu với vai trò một ngành nghiên cứu kết hợp giữa các lĩnh vực hệ thống điều khiển, thần kinh học, lý thuyết mạng điện, và mô hình logic. Norbert Wiener đặt ra thuật ngữ "cybernetics" để chỉ đến ngành nghiên cứu các "cơ chế có mục đích" (teleological mechanisms) và thuật ngữ này được phổ biến bởi cuốn sách của ông với tựa đề Cybernetics, or control and communication in the animal and machine ("Điều khiển học, hay điều khiển và giao tiếp trong động vật và máy móc", 1948). Vì vậy, ông Wiener được coi như cha đẻ của điều khiển học.
+
+
+== Nội dung ==
+Lý thuyết thông tin
+Lý thuyết thuật toán
+Lý thuyết tự động học
+Lý thuyết hành vi
+Lý thuyết điều khiển tối ưu
+Lý thuyết nhận dạng
+
+
+== Phân ngành ==
+Điều khiển học kỹ thuật
+Điều khiển học sinh học
+Điều khiển học xã hội
+
+
+== Xem thêm ==
+Người máy
+Điều khiển học kinh tế
+Điều khiển học quân sự
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+BioCybernetics Wiki
+Biological cybernetics portal
+Archives of Cybernetics Discussion Group Lưu trữ 2006-01-17 tại Wayback Machine
+Web Dictionary of Cybernetics and Systems Lưu trữ 2009-12-13 tại Wayback Machine
+Glossary Slideshow (136 slides) Lưu trữ 2015-07-05 tại Wayback Machine
+Principia Cybernetica Web
+Mindmap-based-page by Ragnar Heil
+The Cybernetics Society
+American Society for Cybernetics
+IEEE Systems, Man, & Cybernetics Society
+Cybernetics and Information Theory in the United States, France and the Soviet Union
+Medizinische Kybernetik | Medical Cybernetics
+Cybernetics category in the Open Encyclopedia Project
+Systemics and cybernetics in a historical perspective (pdf document) Lưu trữ 2003-08-17 tại Wayback Machine
+(more related pdf documents Lưu trữ 2006-07-14 tại Wayback Machine)
+Basics of Cybernetics Lưu trữ 2010-08-11 tại Wayback Machine
+Several definitions of cybernetics
+Project in Chile by Stafford Beer
+
+Bản mẫu:Điều khiển học

@@ -1,0 +1,57 @@
+ZyCoV-D là một loại vắc-xin COVID-19 dựa trên plasmid DNA được phát triển bởi công ty dược phẩm Ấn Độ Cadila Healthcare, với sự hỗ trợ của Hội đồng Hỗ trợ Nghiên cứu Công nghiệp Công nghệ sinh học. Vắc-xin đã được cấp phép sử dụng khẩn cấp tại Ấn Độ.
+
+
+== Sử dụng ==
+Vắc-xin được tiêm bằng phương pháp tiêm trong da sử dụng một loại máy tiêm phun tia (jet injector).
+
+
+=== Hiệu quả ===
+Vào ngày 1 tháng 7 năm 2021, Cadila Healthcare báo cáo vắc-xin có hiệu quả 66,6% trong ngăn ngừa triệu chứng của COVID-19 và 100% trong ngăn ngừa bệnh ở mức độ vừa và nặng, theo phân tích sơ bộ từ dữ liệu thử nghiệm giai đoạn 3.
+
+
+== Dược lý ==
+Vắc-xin có chứa một vector plasmid DNA mang gen mã hóa protein gai của SARS-CoV-2. Giống như các vắc-xin DNA khác, tế bào của người được tiêm sẽ sản sinh ra protein gai, kích hoạt phản ứng miễn dịch của cơ thể.
+
+
+== Sản xuất ==
+Vào ngày 23 tháng 4 năm 2021, quá trình sản xuất vắc-xin ZyCoV-D được khởi động, với công suất hàng năm đạt 240 triệu liều.
+
+
+== Thử nghiệm lâm sàng ==
+
+
+=== Thử nghiệm tiền lâm sàng ===
+Vào tháng 2 năm 2020, Cadila Healthcare quyết định tiến hành phát triển vắc-xin COVID-19 dựa trên plasmid DNA tại Trung tâm Công nghệ Vắc-xin (VTC) của công ty này tại Ahmedabad. Ứng viên vắc-xin đã vượt qua các thử nghiệm tiền lâm sàng sau khi thử nghiệm thành công trên động vật. Bản báo cáo thử nghiệm được xuất bản thông qua bioRxiv và sau đó được xuất hiện trên tạp chí Vaccine. Cơ quan quản lý sau đó đã cho phép tiến hành thử nghiệm Giai đoạn I và II trên người.
+
+
+=== Giai đoạn I và II ===
+Giai đoạn thử nghiệm I đối với ứng viên vắc-xin được bắt đầu vào ngày 15 tháng 7 năm 2020 và được tiếp tục cho tới tháng 10 năm 2020. Ứng viên vắc-xin được thử nghiệm trên 48 tình nguyện viên khỏe mạnh trong độ tuổi từ 18 đến 55, với ba mũi tiêm cách nhau 28 ngày. Thử nghiệm cho thấy vắc-xin này "an toàn, dung nạp tốt và có tính sinh miễn dịch".
+Cadila Healthcare bắt đầu thử nghiệm giai đoạn II đối với ứng viên vắc-xin từ ngày 6 tháng 8 năm 2021 với hơn 1.000 tình nguyện viên tham gia, được tiến hành theo phương pháp ngẫu nhiên, mù đôi, có sử dụng nhóm đối chứng bằng giả dược. Công ty cho biết giai đoạn II đã được hoàn thành vào tháng 11 năm 2020.
+
+
+=== Giai đoạn III ===
+Vào tháng 11 năm 2020, công ty thông báo sẽ thử nghiệm vắc-xin trên khoảng 30.000 bệnh nhân trong cuộc thử nghiệm giai đoạn III. Vào tháng 1 năm 2021, Cục Kiểm soát Thuốc Ấn Độ (DCGI) cho phép công ty tiến hành thử nghiệm lâm sàng giai đoạn III trên 28.216 tình nguyện viên Ấn Độ trong độ tuổi từ 12–99. Trong số này có khoảng 1.000 người trong độ tuổi từ 12–18. Kết quả sơ bộ từ thử nghiệm giai đoạn III được công bố vào tháng 7 năm 2021.
+
+
+=== Cấp phép ===
+
+Vào ngày 1 tháng 7 năm 2021, Cadila Healthcare đã nộp hồ sơ lên Cục Kiểm soát Thuốc Ấn Độ (DCGI), xin được cấp phép sử dụng khẩn cấp đối với vắc-xin ZyCoV-D. Vào ngày 20 tháng 8 năm 2021, sau khi được ban chuyên gia của Tổ chức Kiểm soát Tiêu chuẩn Thuốc Trung ương (CDSCO) đề xuất cấp phép, DCGI đã quyết định cấp phép sử dụng khẩn cấp cho vắc-xin này.
+
+
+== Xem thêm ==
+Đại dịch COVID-19 tại Ấn Độ
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+
+Raghavan P (8 tháng 7 năm 2021). “Explained: How ZyCov-D vaccine works, how it is different”. The Indian Express (bằng tiếng Anh).
+“What is ZyCov-D, world's first DNA vaccine for Covid?”. Hindustan Times (bằng tiếng Anh). 2 tháng 7 năm 2021.

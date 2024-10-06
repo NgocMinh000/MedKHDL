@@ -1,0 +1,22 @@
+f.lux là một chương trình máy tính đa nền tảng điều chỉnh nhiệt độ màu của màn hình theo vị trí và thời gian trong ngày, cung cấp thời gian nghỉ ngơi cho mắt. Chương trình được thiết kế để giảm mỏi mắt khi sử dụng vào ban đêm, giúp giấc ngủ được tốt hơn.
+
+
+== Chức năng ==
+
+Sau khi cài đặt, người dùng có thể chọn vị trí dựa trên tọa độ địa lý, mã ZIP hoặc tên của vị trí. Sau đó, chương trình sẽ tự động điều chỉnh nhiệt độ màu của màn hình thiết bị theo thời gian trong ngày, dựa trên các yếu tố như Mặt Trời mọc và Mặt Trời lặn tại vị trí đó. Vào lúc hoàng hôn, phần mềm sẽ thay đổi dần nhiệt độ màu sang màu ấm hơn và khôi phục lại màu ban đầu vào lúc mặt trời mọc.
+f.lux cung cấp nhiều cấu hình màu sắc và giá trị nhiệt độ; bao gồm chế độ xem phim, giảm sắc độ đỏ (trong 2,5 giờ) và chế độ phòng tối không ảnh hưởng đến tầm nhìn điều chỉnh vào ban đêm. Thời gian có thể được đảo ngược trên f.lux cho PC để cung cấp ánh sáng ấm áp vào ban ngày (đối với những người làm việc vào ban đêm). Chương trình có thể điều khiển đèn LED Philips Hue, để nhiệt độ màu của đèn chiếu sáng trong nhà theo cài đặt của f.lux.
+
+
+== Nền tảng ==
+Phần mềm có sẵn cho hệ điều hành Microsoft Windows, macOS và Linux (ngoại trừ Ubuntu 18.04 LTS), và cũng có sẵn cho các thiết bị iOS mặc dù phải được Jailbreak. Apple đã không cho phép ứng dụng này trên cửa hàng App Store của mình do việc sử dụng các công cụ dành riêng cho nhà phát triển. Nhà phát triển đã lưu trữ một thời gian ngắn một dự án Xcode trên GitHub, cho phép người dùng iOS 9 tải ứng dụng trên thiết bị của họ nhưng đã rút lại theo yêu cầu của Apple. Sau thông báo của Apple về một chức năng tương tự, được gọi là Night Shift trên iOS 9.3, nhà phát triển đã kêu gọi Apple cung cấp các công cụ dành cho nhà phát triển và cho phép các ứng dụng của họ được đưa lên App Store. Đã có phiên bản xem trước cho hệ thống Android của Google.
+
+
+== Đón nhận ==
+Những người ủng hộ f.lux đưa ra giả thuyết rằng việc thay đổi nhiệt độ màu của màn hình để giảm ánh sáng trắng xanh vào ban đêm sẽ giúp giấc ngủ được tốt hơn. Giảm tiếp xúc với ánh sáng xanh vào ban đêm có liên quan đến việc tăng tiết melatonin. Mặc dù nhà phát triển cung cấp danh sách các nghiên cứu có liên quan trên trang web của họ, nhưng bản thân chương trình vẫn chưa được thử nghiệm khoa học để xác định hiệu quả. f.lux đã được các báo chí, blogger và giới công nghệ đánh giá tích cực và rộng rãi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức

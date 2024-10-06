@@ -1,0 +1,13 @@
+Biên phẫu thuật là biên độ của mô không rõ ràng xung quanh một khối u đã được phẫu thuật cắt bỏ, được gọi là "vùng cắt bỏ", trong ung thư phẫu thuật. Việc cắt bỏ là một nỗ lực để loại bỏ một khối u ung thư để không có phần phát triển ác tính vượt qua các cạnh hoặc rìa của khối u bị loại bỏ và các mô xung quanh. Chúng được giữ lại sau khi phẫu thuật và được kiểm tra bằng kính hiển vi bởi một nhà nghiên cứu bệnh học để xem liệu rìa có thực sự không có tế bào khối u hay không. Nếu các tế bào ung thư được tìm thấy ở các cạnh, việc mổ ít có khả năng đạt được kết quả mong muốn.
+Biên/rìa được phân loại bởi các nhà bệnh học là:
+
+R0 - không có tế bào ung thư nhìn thấy bằng kính hiển vi ở rìa cắt bỏ
+R 1 - tế bào ung thư biểu hiện bằng kính hiển vi ở rìa cắt bỏ (rìa dương tính vi mô)
+R2 - kiểm tra tổng thể bằng mắt thường cho thấy mô khối u có ở rìa cắt bỏ (rìa dương tính vĩ mô)
+
+R0 cũng có thể được gọi là "sạch", "âm tính khối u", "lề không có khối u", "lề tự do", "lề da / mô bình thường" hoặc "lề âm"; R1 và R2 là "khối u dương tính". Sự hiện diện của các tế bào bất thường không phải là một phần của khối u chính, chẳng hạn như xâm lấn bạch huyết, tăng sản ống động mạch không điển hình hoặc ung thư biểu mô tiểu thùy tại chỗ trong mô vú, có thể không ngăn được rìa được xếp loại là R0.
+Kích thước của rìa/biên là một vấn đề quan trọng trong các khu vực quan trọng về chức năng (ví dụ, các mạch lớn như động mạch chủ hoặc các cơ quan quan trọng) hoặc trong các khu vực mà mức độ phẫu thuật được giảm thiểu do lo ngại về thẩm mỹ (ví dụ, khối u ác tính của khuôn mặt hoặc ung thư biểu mô tế bào vảy của dương vật). Kích thước lề mong muốn xung quanh khối u có thể thay đổi. Trong phẫu thuật cắt bỏ ung thư vú, dường như có một sự khác biệt giữa các bác sĩ ung thư bức xạ châu Âu và châu Mỹ, trước đây thích rìa/biên lớn hơn 5 mm.
+Ngoài các phương pháp truyền thống nhìn vào vết "cạo"(các lát mô mỏng được lấy ra từ rìa của lề) hoặc các vết in mờ và nhuộm màu, các kỹ thuật gần đây được sử dụng để đánh giá lề bao gồm tia X với nén, mẫu đông lạnh và các kỹ thuật mới như như chụp cắt lớp mạch lạc quang học và quang phổ phản xạ khuếch tán định lượng. 
+
+
+== Tham khảo ==

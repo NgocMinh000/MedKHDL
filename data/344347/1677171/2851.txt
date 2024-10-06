@@ -1,0 +1,134 @@
+Escherichia coli (), còn được gọi là E. coli (), là vi khuẩn coliform Gram âm, kỵ khí tùy nghi, hình que, thuộc chi Escherichia. Vi khuẩn thường gặp ở đoạn dưới ống tiêu hóa của các sinh vật máu nóng. Hầu hết các chủng E. coli đều vô hại, nhưng một số serotype như EPEC, ETEC, v.v. có thể gây ngộ độc thực phẩm nghiêm trọng cho vật chủ và đôi khi là nguyên nhân gây ra các sự cố ô nhiễm thực phẩm khiến sản phẩm bị thu hồi. Hầu hết các chủng không gây bệnh cho người và là một phần của hệ vi sinh vật đường ruột bình thường; những chủng như vậy là vô hại hoặc thậm chí có lợi cho con người (mặc dù những chủng này có xu hướng ít được nghiên cứu hơn những chủng gây bệnh). Ví dụ, một số chủng E. coli có lợi cho vật chủ của chúng bằng cách sản xuất vitamin K2 hoặc bằng cách ngăn chặn sự xâm nhập của vi khuẩn gây bệnh vào ruột. Những mối quan hệ cùng có lợi giữa E. coli và con người là một loại mối quan hệ sinh học hỗ sinh — trong đó cả con người và E. coli đều có lợi cho nhau. E. coli theo phân thải ra ngoài môi trường. Ở điều kiện hiếu khí, vi khuẩn phát triển ồ ạt trong phân tươi trong ba ngày, sau đó số lượng giảm dần.
+E. coli và các vi khuẩn kỵ khí tùy nghi khác chiếm khoảng 0,1% hệ vi sinh vật đường ruột. E. coli lây truyền qua đường phân-miệng. Các tế bào vi khuẩn có thể tồn tại bên ngoài cơ thể trong một khoảng thời gian giới hạn, E. coli là sinh vật chỉ thị để kiểm tra tình trạng nhiễm phân trong các mẫu vật lấy từ môi trường. Tuy nhiên, có nghiên cứu đã chỉ ra rằng vi khuẩn E. coli có thể tồn tại ngoài môi trường trong nhiều ngày và phát triển bên ngoài vật chủ.
+Nuôi cấy E. coli dễ dàng và không tốn kém trong môi trường phòng thí nghiệm, và loài vi khuẩn này đã được nghiên cứu chuyên sâu trong hơn 60 năm. E. coli là sinh vật hóa dưỡng, tức là môi trường sống phải chứa carbon và năng lượng. E. coli là sinh vật mô hình đại diện cho sinh vật nhân sơ (prokaryote) được nghiên cứu rộng rãi nhất và là loài vi khuẩn rất quan trọng trong lĩnh vực công nghệ sinh học và vi sinh vật học. E. coli đóng vai trò là vật chủ cho phần lớn nghiên cứu và thao tác liên quan đến DNA tái tổ hợp. Trong điều kiện thuận lợi, chỉ mất ít nhất 20 phút để E. coli sinh sản.
+
+
+== Sinh học và hóa sinh ==
+
+
+=== Các type và hình thái học ===
+E. coli là vi khuẩn coliform Gram âm, kỵ khí tùy nghi, không có bào tử. Tế bào vi khuẩn thường có dạng hình que, dài khoảng 2,0 μm và đường kính 0,25–1,0 μm, thể tích tế bào là 0,6–0,7 μm3. Thuốc kháng sinh có thể điều trị hiệu quả nhiễm trùng E. coli bên ngoài đường tiêu hóa và hầu hết các bệnh nhiễm trùng đường ruột. Tuy nhiên không thể dùng kháng sinh để điều trị nhiễm trùng đường ruột do một chủng vi khuẩn E. coli. Vi khuẩn di chuyển nhờ tiên mao. Tiên mao cũng giúp vi khuẩn gắn vào vi nhung mao của ruột thông qua một phân tử kết dính được gọi là intimin.
+
+
+=== Trao đổi chất ===
+E. coli có thể sống trên nhiều loại chất nền và sử dụng quá trình lên men acid hỗn hợp trong điều kiện yếm khí, tạo ra lactat, succinat, ethanol, acetat và carbon dioxide. Vì nhiều con đường trong quá trình lên men acid hỗn hợp tạo ra khí hydro, nên những con đường này yêu cầu nồng độ khí hydro ban đầu thấp, do đó E. coli thường sống cùng với các sinh vật tiêu thụ hydro, chẳng hạn như sinh vật sinh methan hoặc vi khuẩn khử sulfat.
+E. coli có ba con đường đường phân tự nhiên: Con đường Embden–Meyerhof–Parnas (EMPP), con đường Entner–Doudoroff (EDP) và con đường pentose phosphat (OPPP). Mỗi phân tử glucose chuyển hóa theo EMPP gồm 10 bước, kết quả tạo ra 2 pyruvat, 2 ATP và 2 NADH trên. Glucose chuyển hóa theo OPPP đóng vai trò là con đường oxy hóa để tổng hợp NADPH. Mặc dù EDP thuận lợi hơn về mặt nhiệt động học trong ba con đường trên, E. coli không sử dụng EDP để chuyển hóa glucose, chủ yếu dựa vào EMPP và OPPP. E. coli chỉ dùng EDP trong quá trình vi khuẩn tăng trưởng với gluconat.
+
+
+=== Nuôi cấy ===
+E. coli tăng trưởng tối đa ở 37 °C (99 °F), nhưng một số chủng trong phòng thí nghiệm có thể phân đôi ở nhiệt độ lên tới 49 °C (120 °F). E. coli phát triển trong nhiều loại môi trường phòng thí nghiệm (ví dụ môi trường LB Broth), hoặc bất kỳ môi trường nào có chứa glucose, amoni phosphat, natri chloride, magnesi sulfat, dikali phosphat và nước. Sự tăng trưởng có thể được thúc đẩy bởi quá trình hô hấp hiếu khí hoặc kị khí, sử dụng nhiều cặp oxy hóa khử khác nhau, bao gồm quá trình oxy hóa acid pyruvic, acid formic, hydro và amino acid, và quá trình khử các chất nền như oxy, nitrat, fumarat, dimethyl sulfoxide, và trimethylamin N-oxide. E. coli được phân loại là vi khuẩn kỵ khí tùy nghi, sử dụng oxy khi có tiếp xúc oxy. Tuy nhiên, E. coli có thể tiếp tục phát triển trong điều kiện không có oxy bằng quá trình lên men hoặc hô hấp kỵ khí. Khả năng tiếp tục phát triển trong điều kiện thiếu oxy là một lợi thế đối với vi khuẩn vì khả năng sống sót của loài tăng lên trong môi trường xung quang là nước.
+
+
+=== Chu kỳ tế bào ===
+Chu kỳ tế bào vi khuẩn được chia thành ba giai đoạn. Giai đoạn B bắt đầu từ lúc vi khuẩn hoàn thành quá trình phân bào đến khi bắt đầu sao chép DNA. Giai đoạn C là thời gian cần thiết để sao chép DNA trong nhiễm sắc thể. Giai đoạn D tính từ lúc kết thúc sao chép DNA và kết thúc quá trình phân bào. Tỷ lệ nhân đôi của E. coli cao hơn khi có nhiều chất dinh dưỡng hơn. Tuy nhiên, độ dài của các khoảng thời gian C và D không thay đổi, ngay cả khi thời gian nhân đôi nhỏ hơn tổng của các khoảng thời gian C và D. Ở tốc độ tăng trưởng nhanh nhất, quá trình nhân đôi khởi động ngay trước khi vòng nhân đôi trước đó hoàn thành, dẫn đến có nhiều vị trí nhân đôi trên sợi DNA và các chu kỳ tế bào có tính chất chồng chéo.
+
+
+== Sự đa dạng ==
+
+
+=== Serotype ===
+
+Một hệ thống phân chia phổ biến của E. coli không dựa trên mối liên hệ tiến hóa là theo serotype, dựa trên các kháng nguyên bề mặt chính (kháng nguyên O: một phần của lớp lipopolysacaride; H: tiên mao; kháng nguyên K: vỏ vi khuẩn), ví dụ: O157:H7). Tuy nhiên, thông thường chỉ viết serotype, tức là kháng nguyên O. Hiện tại đã biết khoảng 190 serotype.
+
+
+== Bộ gen của vi khuẩn E.coli ==
+
+Trình tự DNA hoàn chỉnh đầu tiên của bộ gen E. coli (chủng K-12 dẫn xuất MG1655 trong phòng thí nghiệm) được công bố vào năm 1997. Đó là phân tử DNA dạng vòng dài 4,6 triệu cặp base, chứa 4288 gen mã hóa protein (nằm trong 2584 operon), 7 operon RNA ribosome (rRNA) và 86 gen RNA vận chuyển (tRNA). Mặc dù bộ gen E. coli được phân tích di truyền chuyên sâu trong khoảng 40 năm, tuy nhiên nhiều gen trong số này chưa được biết đến. Mật độ mã hóa rất cao, với khoảng cách trung bình giữa các gen chỉ là 118 cặp base. Bộ gen có chứa một số lượng đáng kể gen nhảy, vùng lặp lại, thể tiền thực khuẩn (prophage) và tàn tích của thể thực khuẩn.
+Cho đến năm 2013, đã biết đến hơn 300 trình tự bộ gen hoàn chỉnh của các loài Escherichia và Shigella.
+
+
+== Danh pháp gen ==
+Các gen trong E. coli thường được đặt tên theo danh pháp thống nhất do Demerec và công sự đề xuất. Tên gen là từ viết tắt gồm 3 chữ cái bắt nguồn từ chức năng của gen (khi đã biết chức năng) hoặc kiểu hình đột biến và được in nghiêng. Khi nhiều gen có cùng một từ viết tắt, các gen khác nhau được chỉ định bằng chữ hoa đứng đằng sau từ viết tắt đó và cũng được in nghiêng. Ví dụ, recA được đặt tên theo vai trò của gen trong tái tổ hợp tương đồng (homologous recombination) kèm với chữ A. Các gen cũng liên quan đến chức năng trên được đặt tên là recB, recC, recD, v.v. Các protein được đặt tên bằng cách viết hoa chữ cái đầu, ví dụ: RecA, RecB, v.v.
+
+
+== Nghiên cứu về hệ protein ==
+
+
+=== Hệ protein ===
+Trình tự bộ gen của E. coli gồm 4288 gen mã hóa protein, trong đó 38% số gen này không có chức năng. Bộ gen chứa trình tự xen đoạn (inserted sequence, IS), tàn dư thể thực khuẩn và nhiều vùng có thành phần bất thường là hệ quả chuyển gen ngang, thể hiện tính dẻo của bộ gen E. coli.
+Có nhiều nghiên cứu khám phá hệ protein (proteome) của E. coli. Đến năm 2006, 1.627 (38%) protein dự đoán thông qua khung đọc mở (ORF) đã được xác định bằng thực nghiệm. Mateus và cs (2020) đã phát hiện 2,586 protein có chứa ít nhất 2 peptide (60% tổng số protein).
+
+
+=== Biến đổi sau dịch mã (PTM) ===
+Mặc dù ít protein vi khuẩn có cơ chế biến đổi sau dịch mã (post-translational modification, PTM) như protein của sinh vật nhân thực, nhưng có một số lượng đáng kể protein trải qua cơ chế biến đổi này ở E. coli. Ví dụ, Potel và cs (2018) đã tìm thấy 227 phosphoprotein trong đó 173 protein này được phosphoryl hóa ở vị trí histidin. Điều thú vị là phần lớn amino acid được phosphoryl hóa là serin (1.220 vị trí), chỉ có 246 vị trí trên histidin, 501 vị trí trên theronin và 162 vị trí trên tyrosin.
+
+
+== Hệ vi khuẩn chí ==
+E. coli thuộc một nhóm vi khuẩn được gọi một cách không chính thức là coliform, được tìm thấy trong đường tiêu hóa của động vật máu nóng. E. coli thường xâm nhập đường tiêu hóa của trẻ sơ sinh trong vòng 40 giờ từ lúc trẻ chào đời, thông qua thức ăn, nước uống hoặc từ những người bế trẻ. Trong ruột, E. coli dính vào dịch nhầy của ruột già. Đây là vi khuẩn kỵ khí tùy nghi chính của đường tiêu hóa người. (vi khuẩn kỵ khí tùy nghi là những sinh vật đều có thể phát triển trong điều kiện có hoặc không có oxy) Nếu E. coli không có yếu tố di truyền mã hóa cho yếu tố độc lực, chúng là những sinh vật hội sinh lành tính.
+
+
+=== Sử dụng trong điều trị ===
+Do chi phí thấp, tốc độ phát triển nhanh và dễ dàng sửa đổi gen trong môi trường phòng thí nghiệm, E. coli được sử dụng để sản xuất protein tái tổ hợp, ứng dụng trong điều trị. Các chủng E. coli K-12 và các dẫn xuất (DH1, DH5α, MG1655, RV308 và W3110) là các chủng được sử dụng rộng rãi nhất trong ngành công nghệ sinh học. Chủng E. coli không gây bệnh Nissle 1917 (EcN), (Mutaflor) và E. coli O83:K24:H31 (Colinfant) được sử dụng làm probiotic trong y học, chủ yếu để điều trị các bệnh đường tiêu hóa khác nhau, bao gồm bệnh viêm ruột. Người ta cho rằng chủng EcN có thể cản trở sự phát triển của mầm bệnh cơ hội, gồm Salmonella và các mầm bệnh đường ruột coliform khác, thông qua việc sản xuất protein microcin để tạo ra đại thực bào chứa sắt (siderophore).
+
+
+== Vai trò gây bệnh ==
+Hầu hết các chủng E. coli không gây bệnh, sống tự nhiên trong ruột, chỉ có một vài chủng có độc lực gây bệnh đường tiêu hóa Các dấu hiệu và triệu chứng phổ biến bao gồm đau bụng dữ dội, tiêu chảy, viêm đại tràng xuất huyết, nôn mửa và có thể có sốt. Trong những trường hợp hiếm gặp hơn, các chủng có độc lực cũng là nguyên nhân gây hoại tử ruột và thủng nhưng không tiến triển thành hội chứng tán huyết-ure huyết, viêm phúc mạc, viêm tuyến vú, nhiễm trùng huyết và viêm phổi do vi khuẩn Gram âm. Trẻ nhỏ dễ mắc bệnh nặng hơn, chẳng hạn như hội chứng tán huyết urê huyết. Tuy nhiên, những người khỏe mạnh ở mọi lứa tuổi đều có nguy cơ mắc các căn bệnh nghiêm trọng gây ra bởi E. coli.
+Một số chủng E. coli, ví dụ O157:H7, có thể tạo ra độc tố Shiga (được phân loại là tác nhân khủng bố sinh học). Độc tố Shiga gây ra các phản ứng viêm trong các tế bào đích của ruột, để lại các tổn thương dẫn đến tiêu chảy phân nhầy máu, đây là triệu chứng của nhiễm trùng E. coli sinh độc tố Shiga (STEC). Chất độc này tiếp tục phá hủy sớm các tế bào hồng cầu, làm tắc nghẽn hệ thống lọc máu của cơ thể như thận. Trong một số trường hợp hiếm gặp (thường ở trẻ em và người già) gây ra hội chứng tán huyết-ure huyết (HUS), có thể dẫn đến suy thận và tử vong. Triệu chứng của hội chứng tán huyết-urê huyết gồm: giảm số lần đi tiểu, ngủ lịm, tái nhợt ở má và bên trong mí mắt dưới. Ở 25% bệnh nhân HUS, các biến chứng về hệ thần kinh xảy ra, từ đó gây ra đột quỵ. Ngoài ra, thận không hoạt động gây ra ứ dịch, dẫn đến phù phổi, phù chân và tay. Ứ dịch xung quanh phổi, cản trở hoạt động của tim, gây tăng huyết áp.
+E.coli gây nhiễm khuẩn đường tiết niệu (UPEC) là một trong những nguyên nhân chính gây nhiễm trùng đường tiết niệu. UPEC là một phần của hệ vi khuẩn chí trong ruột, có thể xâm nhập ngược vào đường tiết niệu. Đặc biệt đối với nữ giới, việc chùi hậu môn sau sau khi đi đại tiện (chùi từ sau ra trước) có thể dẫn đến nhiễm phân vào lỗ niệu sinh dục. Giao hợp qua đường hậu môn cũng có thể đưa vi khuẩn này vào niệu đạo của nam giới và khi chuyển từ giao hợp qua đường hậu môn sang âm đạo, nam giới cũng có thể đưa UPEC vào hệ thống sinh dục nữ.
+E. coli sinh độc tố ruột (ETEC) là nguyên nhân phổ biến nhất gây ra tiêu chảy ở khách du lịch, với khoảng 840 triệu trường hợp trên toàn thế giới ở các nước đang phát triển mỗi năm. Vi khuẩn lây truyền qua thực phẩm hoặc nước uống bị ô nhiễm, bám vào niêm mạc ruột. Tại đây nó tiết ra một trong hai loại độc tố ruột, dẫn đến tiêu chảy nước. Tỷ lệ và mức độ nghiêm trọng của các bệnh nhiễm trùng cao hơn ở trẻ em dưới 5 tuổi, trong đó có tới 380.000 ca tử vong hàng năm.
+Tháng 5 năm 2011, một chủng E. coli, O104:H4 gây nên đợt bùng phát vi khuẩn ở Đức. Một số chủng E. coli là nguyên nhân chính gây ngộ độc thực phẩm. Sự bùng phát bắt đầu khi một số người ở Đức bị nhiễm E. coli gây xuất huyết ruột (EHEC), dẫn đến hội chứng tán huyết-ure huyết (HUS). Sự bùng phát không chỉ liên quan đến Đức mà còn 15 quốc gia khác, bao gồm cả các khu vực ở Bắc Mỹ. Ngày 30 tháng 6 năm 2011, Bundesinstitut für Risikobewertung (BfR) (Viện Đánh giá Rủi ro Liên bang, một viện liên bang thuộc Bộ Thực phẩm, Nông nghiệp và Bảo vệ Người tiêu dùng Đức) đã thông báo rằng hạt cỏ cà ri từ Ai Cập có khả năng là nguyên nhân gây ra đợt bùng phát EHEC.
+Một số nghiên cứu đã chứng minh E. coli không có mặt trong trong hệ vi khuẩn chí của đường ruột gặp ở những người mắc chứng rối loạn chuyển hóa phenylketone niệu. Giả thuyết được đưa ra rằng sự vắng mặt của những vi khuẩn chí này sẽ làm giảm quá trình sản xuất vitamin B2 (riboflavin) và K2 (menaquinon) quan trọng. Đây là những vitamin liên quan mật thiết đến nhiều vai trò sinh lý ở người như chuyển hóa tế bào và xương.
+E. coli kháng carbapenem (E. coli sinh carbapenemase) là chủng E. coli đề kháng với kháng sinh nhóm carbapenem. Cabapenem được coi là thuốc cuối cùng được sử dụng để điều trị các bệnh nhiễm trùng. Đây là chủng kháng thuốc vì vi khuẩn sinh ra một loại enzyme gọi là carbapenemase, enzyme này làm vô hiệu hóa phân tử thuốc.
+
+
+=== Thời gian ủ bệnh ===
+Khoảng thời gian từ khi ăn phải vi khuẩn STEC đến khi cảm thấy ốm được gọi là "thời kỳ ủ bệnh". Thời gian ủ bệnh thường là 3–4 ngày sau khi tiếp xúc, nhưng có thể ngắn nhất là 1 ngày hoặc dài nhất là 10 ngày. Các triệu chứng thường bắt đầu từ từ với đau bụng nhẹ hoặc tiêu chảy không ra máu, nặng hơn trong vài ngày. Tùy từng bệnh nhân, hội chứng tán huyết-ure huyết tiến triển trung bình 7 ngày sau khi có các triệu chứng đầu tiên, khi tình trạng tiêu chảy đang cải thiện.
+
+
+=== Điều trị ===
+Nguyên tắc chính trong điều trị là đánh giá tình trạng mất nước, bù dịch và chất điện giải. Sử dụng thuốc kháng sinh đã được chứng minh là rút ngắn quá trình diễn tiến bệnh và thời gian bài tiết vi khuẩn E. coli sinh độc tố ruột (ETEC) ở người lớn ở các vùng lưu hành bệnh và mắc bệnh tiêu chảy ở khách du lịch. Tuy nhiên tỷ lệ vi khuẩn kháng các loại kháng sinh thông dụng đang gia tăng và nói chung là không khuyến khích dùng kháng sinh. Loại kháng sinh được sử dụng phụ thuộc vào dịch tễ học, tức là phụ thuộc tính nhạy cảm kháng sinh ở khu vực địa lý cụ thể. Hiện tại, kháng sinh được lựa chọn là fluoroquinolone hoặc azithromycin, đặc biệt là rifaximin. Rifaximin dạng uống (một dẫn xuất rifamycin bán tổng hợp) là một chất kháng khuẩn hiệu quả và dung nạp tốt để kiểm soát người lớn mắc tiêu chảy ở khách du lịch. Rifaximin hiệu quả hơn đáng kể so với giả dược và không kém hiệu quả hơn ciprofloxacin trong việc giảm thời gian tiêu chảy. Mặc dù rifaximin có hiệu quả ở những bệnh nhân mắc tiêu chảy ở khách du lịch chủ yếu do E. coli, nhưng thuốc tỏ ra không hiệu quả ở những bệnh nhân bị viêm dạ dày lấn.
+
+
+=== Phòng ngừa ===
+Hầu hết các nỗ lực phát triển vắc-xin đều tập trung vào type ETEC. Các kháng thể chống lại độc tố chịu nhiệt (LT) và các yếu tố định vị (colonization factor - CF) của ETEC giúp bảo vệ và chống lại các yếu tố định vị sản xuất độc tố chịu nhiệt. Hiện tại không có vắc-xin được cấp phép để tiêm phòng cho ETEC.
+Để phòng ngừa lây truyền E. coli, cần rửa tay, sống vệ sinh cũng như nước uống phải đảm bảo. Ngoài ra, nấu chín kỹ thịt và tránh tiêu thụ đồ uống sống, chưa tiệt trùng, chẳng hạn như nước trái cây và sữa là những phương pháp khác đã được chứng minh để ngăn ngừa vi khuẩn E. coli. Cuối cùng, nên tránh lây nhiễm chéo dụng cụ và khu vực rửa thức ăn khi nấu nướng.
+
+
+== Sinh vật mẫu trong nghiên cứu khoa học sự sống ==
+
+Do nuôi cấy trong phòng thí nghiệm lâu đời và dễ thao tác, E. coli đóng một vai trò quan trọng trong kỹ thuật sinh học hiện đại và vi sinh công nghiệp. Công trình khoa học của Stanley Norman Cohen và Herbert Boyer ở vi khuẩn E. coli, sử dụng plasmid và enzyme giới hạn để tạo ra DNA tái tổ hợp, đã trở thành nền tảng của công nghệ sinh học.
+E. coli là vật chủ rất linh hoạt trong việc tạo ra protein dị loài, cho phép sản xuất protein tái tổ hợp ở E. coli. Các nhà nghiên cứu có thể đưa gen vào vi khuẩn bằng cách sử dụng plasmid cho phép biểu hiện protein ở mức độ cao và protein như vậy có thể được sản xuất hàng loạt trong quá trình lên men công nghiệp. Một trong những ứng dụng hữu ích đầu tiên của công nghệ tái tổ hợp DNA là sản xuất insulin người.
+Các tế bào E. coli biến đổi được sử dụng trong quá trình phát triển vắc-xin, xử lý sinh học, sản xuất nhiên liệu sinh học, chiếu sáng và sản xuất enzyme cố định.
+Chủng K-12 là một dạng đột biến của E. coli biểu hiện quá mức enzyme alkaline phosphatase (ALP).
+
+
+=== Sinh vật mẫu ===
+E. coli thường được sử dụng làm sinh vật mẫu trong nghiên cứu vi sinh. Một số chủng cấy như E. coli K12 thích nghi tốt với môi trường phòng thí nghiệm và không giống như các chủng hoang dã, các chủng được cấy này mất khả năng phát triển trong ruột. Nhiều chủng trong phòng thí nghiệm mất khả năng hình thành màng sinh học. Các tính năng này bảo vệ các chủng hoang dã khỏi các kháng thể, nhưng đòi hỏi phải tiêu tốn nhiều năng lượng và nguyên liệu. E. coli thường được sử dụng như một vi sinh vật đại diện trong nghiên cứu các phương pháp khử trùng và xử lý nước mới, bao gồm cả xúc tác quang hóa. Bằng các phương pháp đếm khuẩn lạc thủ công sau khi pha loãng tuần tự và cấy trên các đĩa gel agar (đĩa thạch), có thể đánh giá nồng độ của các sinh vật sống hoặc số khuẩn lạc trong một thể tích nước đã xử lý, cho phép đánh giá so sánh hiệu suất của vật liệu xử lý nước.
+Năm 1946, Joshua Lederberg và Edward Tatum lần đầu tiên mô tả hiện tượng được gọi là sự tiếp hợp của vi khuẩn bằng cách sử dụng E. coli làm vi khuẩn mẫu, và hiện tại E. coli vẫn là mô hình chính để nghiên cứu sự tiếp hợp. E. coli là một phần không thể thiếu trong các thí nghiệm đầu tiên tìm hiểu về di truyền học của thực thực khuẩn. Các nhà nghiên cứu ban đầu, chẳng hạn như Seymour Benzer, đã sử dụng E. coli và thể thực khuẩn T4 để tìm hiểu hình thái cấu trúc gen. Trước nghiên cứu của Benzer, người ta không biết liệu gen có cấu trúc tuyến tính (mạch thẳng) hay là phân nhánh.
+
+
+== Sử dụng E. coli trong tin sinh học ==
+Từ năm 1961, các nhà khoa học đã đề xuất ý tưởng về các mạch di truyền được sử dụng để xử lý thao tác điện toán. Sự hợp tác giữa các nhà sinh học và nhà khoa học máy tính đã cho phép thiết kế các cổng logic kỹ thuật số về quá trình trao đổi chất của E. coli. Operon Lac được sử dụng để thực hiện các chức năng điện toán. Quá trình điện toán này được kiểm soát ở giai đoạn phiên mã DNA thành mRNA.
+Một số nghiên cứu đang được tiến hành nhằm lập trình cho E. coli giải các bài toán phức tạp, chẳng hạn như bài toán đường đi Hamilton (xem đường đi Hamilton).
+Tháng 7 năm 2017, các thí nghiệm riêng biệt với E. coli được công bố trên tạp chí Nature cho thấy tiềm năng sử dụng các tế bào sống cho các nhiệm vụ điện toán và lưu trữ thông tin. Một nhóm được thành lập với các cộng tác viên của Viện Thiết kế Sinh học thuộc Đại học bang Arizona và Viện Wys về Kỹ thuật lấy cảm hứng từ Sinh học (Harvard's Wyss Institute for Biologically Inspired Engineering) của Đại học Harvard đã phát triển một máy tính sinh học bên trong E. coli. Máy tính sinh học này đáp ứng với hàng chục input (đầu vào). Nhóm nghiên cứu gọi chiếc máy tính này là "ribocomputer", vì chứa acid ribonucleic. Trong khi đó, các nhà nghiên cứu Harvard đã thăm dò khả năng lưu trữ thông tin ở vi khuẩn sau khi lưu trữ thành công hình ảnh và phim trong DNA của các tế bào E. coli sống. Năm 2021, một nhóm nhà nghiên cứu do nhà sinh lý học Sangram Bagh dẫn đầu đã thực hiện một nghiên cứu với E. coli để giải quyết bài toán mê cung 2 × 2 nhằm thăm dò nguyên tắc điện toán phân tán giữa các tế bào.
+
+
+== Lịch sử ==
+Năm 1885, bác sĩ nhi khoa người Đức gốc Áo Theodor Escherich phát hiện ra sinh vật này trong phân của những người khỏe mạnh. Ông gọi vi khuẩn là Bacterium coli Commune vì ông tìm thấy vi khuẩn trong ruột già.
+Bacterium coli là loài thuộc chi Bacterium. Hiện tại danh pháp chi Bacterium không còn hợp lệ vì không còn tìm thấy dấu vết của loài trước đây (Bacterium triloculare). Migula phân loại vi khuẩn này thành Bacillus coli vào năm 1895 và sau đó Aldo Castellani và Albert John Chalmers xếp loài vi khuẩn này vào một chi mới mang tên Escherichiađặt tên theo người phát hiện.
+Năm 1996, vụ ngộ độc thực phẩm E. coli xảy ra tại Wishaw, Scotland, khiến 21 người tử vong.
+
+
+== Ứng dụng khác ==
+bên cạnh việc sử dụng làm sinh vật trung gian cho các quá trình và thí nghiệm di truyền, E. coli có một số ứng dụng khác. E. coli được sử dụng để tạo ra propan tổng hợp và hormon GH tái tổ hợp của người.
+
+
+== Tham khảo ==
+
+
+== Cơ sở dữ liệu và liên kết ngoài ==
+EcoCyc – quản lý dựa trên tài liệu của toàn bộ bộ gen và điều hòa phiên mã, chất vận chuyển và con đường trao đổi chất
+Cơ sở dữ liệu Membranome cung cấp thông tin về các protein xuyên màng của E. coli và một số sinh vật khác
+Thống kê về E. coli Lưu trữ 2006-07-17 tại Wayback Machine
+Nhiễm khuẩn E.coli | Nguyên nhân & yếu tố rủi ro
+Cơ sở dữ liệu tương tác Bacteriome Lưu trữ 2010-11-26 tại Wayback Machine E. coli
+EcoGene (cơ sở dữ liệu bộ gen và trang web dành riêng cho chủng Escherichia coli K-12 PpMG1655)
+EcoSal Tài nguyên web được cập nhật liên tục dựa trên ấn phẩm cổ điển của ASM Press Escherichia coli và Salmonella: Sinh học tế bào và phân tử
+ECODAB Cấu trúc của các kháng nguyên O tạo thành cơ sở phân loại huyết thanh học của E. coli
+Coli Trung tâm Chứng khoán Di truyền Các chủng và thông tin di truyền về E. coli K-12
+PortEco (trước đây là EcoliHub) – nguồn dữ liệu toàn diện về E. coli K-12 và thể thực khuẩn, plasmid và các yếu tố di truyền di động của nó, do NIH tài trợ
+EcoliWiki thuộc PortEco
+RegulonDB Lưu trữ 2017-11-19 tại Wayback Machine RegulonDB là mô hình điều hòa gen phức tạp về điều hòa phiên mã của tế bào E. coli K-12.
+Escherichia coli gây bệnh đường tiết niệu (UPEC)
+Ma trận AlignACE tìm kiếm các vị trí liên kết bổ sung trong trình tự bộ gen của E. coli
+E. coli trên Ngân hàng Dữ liệu Protein

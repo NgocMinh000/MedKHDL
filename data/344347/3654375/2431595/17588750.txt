@@ -1,0 +1,20 @@
+Quy tắc Harrison là một quan sát (observation) trong sinh học tiến hóa của Launcelot Harrison, phát biểu rằng giữa các loài thân thuộc, kích thước cơ thể vật chủ và ký sinh trùng có xu hướng đồng biến.
+
+
+== Sự thay đổi kích thước cơ thể vật ký sinh ==
+Launcelot Harrison, nhà động vật học và nhà ký sinh trùng học người Úc, đã công bố một nghiên cứu vào năm 1915 kết luận rằng kích thước cơ thể của vật chủ và ký sinh trùng có xu hướng đồng biến, một tương quan mà sau này được gọi là quy tắc Harrison. Bản thân Harrison ban đầu đề xuất quy tắc này để giải thích sự biến đổi của các loài rận có họ hàng gần. Sau đó, các tác giả tiếp theo đã xác minh lý thuyết này có thể áp dụng cho nhiều loài ký sinh bao gồm cả tuyến trùng, ký sinh trùng giáp xác Rhizocephalan, bọ chét, chấy, ve, ruồi ký sinh cũng như côn trùng hại thực vật với các cây chủ cụ thể.
+
+
+== Sự thay đổi độ lệch chuẩn kích thước cơ thể vật ký sinh ==
+Robert Poulin bổ sung rằng khi so sánh giữa các loài, độ lệch chuẩn kích thước cơ thể ký sinh trùng tăng theo kích thước cơ thể vật chủ. Ngoài ra chúng ta cũng mong đợi khả năng biến đổi lớn ở kỳ vọng kích thước cơ thể vì các giá trị về tương quan sinh trưởng (allometry) này tuân theo phân phối quy tắc lũy thừa (power law).
+Năm 2017, Harnos và cộng sự đã áp dụng các phương pháp thống kê kiểm soát phát sinh chủng loại học (phylogenetically controlled statistical methods) để kiểm tra quy tắc Harrison và kết luận bổ sung Poulin trên rận ở chim. Kết quả của họ chỉ ra rằng ba họ rận chính (Ricinidae, Menoponidae, Philopteridae) tuân theo quy tắc Harrison và 2/3 họ (Menoponidae, Philopteridae) tuân theo quy tắc bổ sung của Poulin.
+
+
+== Ý nghĩa ==
+Tương quan sinh trưởng giữa kích thước cơ thể vật chủ và ký sinh trùng tạo thành một khía cạnh rõ ràng của quan hệ đồng tiến hóa vật chủ-vật ký sinh. Kích thước cơ thể của ký sinh trùng cũng tỷ lệ thuận với độ phong phú của loài và do đó nó có khả năng ảnh hưởng đến độc lực của ký sinh trùng.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

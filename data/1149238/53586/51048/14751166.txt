@@ -1,0 +1,47 @@
+Phản hồi tích cực, phản hồi dương (trong sinh lý học gọi là điều hòa ngược dương tính) là một quá trình xảy ra trong một vòng phản hồi, trong đó ảnh hưởng của một nhiễu loạn nhỏ đến một hệ thống bao gồm sự gia tăng cường độ của nhiễu loạn. Nghĩa là, A tạo ra nhiều B hơn, từ đó tạo ra nhiều A hơn.  Ngược lại, một hệ thống trong đó kết quả của một thay đổi hành động để giảm hoặc chống lại nó có phản hồi tiêu cực. Cả hai khái niệm này đều đóng một vai trò quan trọng trong khoa học và kỹ thuật, bao gồm sinh học, hóa học và điều khiển học.
+Về mặt toán học, phản hồi tích cực được định nghĩa là mức tăng vòng lặp tích cực xung quanh vòng lặp nguyên nhân và kết quả. Nghĩa là, phản hồi tích cực cùng pha với đầu vào, theo nghĩa là nó tăng lên để làm cho đầu vào lớn hơn.
+Phản hồi tích cực có xu hướng gây mất ổn định hệ thống. Khi mức tăng của vòng lặp là dương và trên 1, thông thường sẽ có sự tăng trưởng theo cấp số nhân, tăng dao động, hành vi hỗn loạn hoặc các phân kỳ khác từ trạng thái cân bằng. Thông số hệ thống thường sẽ đẩy mạnh về phía giá trị cực đoan, trong đó có thể gây tổn hại hoặc phá hủy hệ thống, hoặc có thể kết thúc với hệ thống bám vào trạng thái ổn định mới. Phản hồi tích cực có thể được kiểm soát bởi các tín hiệu trong hệ thống được lọc, làm ẩm hoặc giới hạn hoặc có thể bị hủy hoặc giảm bằng cách thêm phản hồi tiêu cực.
+Phản hồi tích cực được sử dụng trong các thiết bị điện tử kỹ thuật số để buộc các điện áp thoát ra khỏi các điện áp trung gian thành các trạng thái '0' và '1'. Mặt khác, chạy trốn nhiệt là một loại phản hồi tích cực có thể phá hủy các mối nối bán dẫn. Phản hồi tích cực trong các phản ứng hóa học có thể làm tăng tốc độ phản ứng, và trong một số trường hợp có thể dẫn đến vụ nổ. Phản hồi tích cực trong thiết kế cơ học làm cho các điểm tới hạn, hoặc 'quá trung tâm', các cơ chế bám vào vị trí, ví dụ như trong các công tắc và kìm khóa. Mất kiểm soát, nó có thể khiến cầu bị sập. Phản hồi tích cực trong các hệ thống kinh tế có thể gây ra chu kỳ bùng nổ. Một ví dụ quen thuộc của phản hồi tích cực là âm thanh rít hoặc hú lớn do phản hồi âm thanh tạo ra trong các hệ thống địa chỉ công cộng: micrô thu âm từ loa của chính nó, khuếch đại và gửi lại qua loa. 
+
+
+== Tổng quan ==
+Phản hồi tích cực tăng cường hoặc khuếch đại một hiệu ứng bằng cách nó có ảnh hưởng đến quá trình phát sinh nó. Ví dụ, khi một phần của tín hiệu đầu ra điện tử trở về đầu vào và cùng pha với nó, mức tăng của hệ thống được tăng lên. Phản hồi từ kết quả đến quá trình khởi tạo có thể là trực tiếp hoặc có thể thông qua các biến trạng thái khác. Các hệ thống như vậy có thể cung cấp các hành vi chất lượng phong phú, nhưng liệu phản hồi là tức thời tích cực hay tiêu cực trong dấu hiệu có ảnh hưởng cực kỳ quan trọng đến kết quả. Phản hồi tích cực củng cố và phản hồi tiêu cực kiểm duyệt quá trình ban đầu. Tích cực và tiêu cực theo nghĩa này đề cập đến mức tăng vòng lặp lớn hơn hoặc nhỏ hơn 0 và không ngụ ý bất kỳ phán đoán giá trị nào về tính mong muốn của kết quả hoặc hiệu ứng. Do đó, một tính năng chính của phản hồi tích cực là các nhiễu loạn nhỏ trở nên lớn hơn. Khi một sự thay đổi xảy ra trong một hệ thống, phản hồi tích cực sẽ gây ra thay đổi hơn nữa, theo cùng một hướng.
+
+
+=== Căn bản ===
+
+Một vòng lặp phản hồi đơn giản được hiển thị trong sơ đồ. Nếu vòng lặp đạt được AB là dương, thì tồn tại một điều kiện phản hồi tích cực hoặc tái tạo.
+Nếu các hàm A và B là tuyến tính và AB nhỏ hơn thống nhất, thì tổng hệ thống đạt được từ đầu vào đến đầu ra là hữu hạn, nhưng có thể rất lớn khi AB tiến đến sự thống nhất. Trong trường hợp đó, có thể thấy rằng mức tăng tổng thể hoặc "vòng kín" từ đầu vào đến đầu ra là:
+
+  
+    
+      
+        
+          G
+          
+            c
+          
+        
+        =
+        A
+        
+          /
+        
+        (
+        1
+        −
+        A
+        B
+        )
+      
+    
+    {\displaystyle G_{c}=A/(1-AB)}
+  
+
+Khi AB> 1, hệ thống không ổn định, do đó không có mức tăng được xác định rõ; mức tăng có thể được gọi là vô hạn.
+Do đó tùy thuộc vào phản hồi, thay đổi trạng thái có thể hội tụ hoặc phân kỳ. Kết quả của phản hồi tích cực là làm tăng các thay đổi, do đó những nhiễu loạn nhỏ có thể dẫn đến những thay đổi lớn.
+Một hệ thống ở trạng thái cân bằng trong đó có phản hồi tích cực đối với bất kỳ thay đổi nào từ trạng thái hiện tại của nó có thể không ổn định, trong trường hợp đó hệ thống được cho là ở trạng thái cân bằng không ổn định. Độ lớn của các lực tác động để di chuyển một hệ thống như vậy ra khỏi trạng thái cân bằng của nó là một hàm tăng của "khoảng cách" của trạng thái từ trạng thái cân bằng.
+Phản hồi tích cực không nhất thiết bao hàm sự bất ổn của một trạng thái cân bằng, ví dụ các trạng thái ổn định trong và ngoài có thể tồn tại trong kiến trúc tích cực phản hồi. 
+
+
+== Tham khảo ==

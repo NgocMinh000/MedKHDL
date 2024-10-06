@@ -1,0 +1,20 @@
+Trong sinh lý học, một kích thích là một sự thay đổi có thể phát hiện được (detectable) trong môi trường bên trong hoặc bên ngoài. Khả năng của một sinh vật hoặc cơ quan sinh học để phản ứng với các kích thích bên ngoài được gọi là độ nhạy (sensitivity), trong tiếng Việt còn gọi là độ cảm ứng của sinh vật (induction). Khi một kích thích được áp dụng cho một thụ thể cảm giác (sensory receptor, hay nơ-ron cảm giác), nó thường gợi ra hoặc ảnh hưởng đến phản xạ (reflex) thông qua sự truyền tải kích thích (transduction).
+Những thụ thể cảm giác này có thể nhận thông tin từ bên ngoài cơ thể, như trong các thụ thể cảm ứng (touch receptors) được tìm thấy trong da hoặc các thụ thể ánh sáng trong mắt, cũng như từ bên trong cơ thể, như trong các chemoreceptor (thụ thể cảm nhận hóa học) và các mechanoreceptor (thụ thể cảm nhận cơ học). Một kích thích nội bộ thường là thành phần đầu tiên của một hệ thống kiểm soát cân bằng nội môi (homeostatic).
+Các kích thích bên ngoài có khả năng tạo ra các phản ứng toàn thân (systemic responses) trong toàn bộ cơ thể, như trong phản ứng chiến-hay-chạy. Để kích thích được phát hiện với xác suất cao, mức của nó phải vượt quá ngưỡng tuyệt đối (absolute threshold); nếu tín hiệu đạt ngưỡng, thông tin được truyền đến hệ thần kinh trung ương (CNS), nơi nó được tích hợp và quyết định về cách phản ứng được thực hiện. Mặc dù kích thích thường khiến cơ thể phản ứng lại, nhưng cuối cùng cũng do CNS xác định liệu tín hiệu có gây ra phản ứng hay không.
+
+
+== Các loại ==
+
+
+=== Nội bộ ===
+
+
+==== Mất cân bằng nội môi ====
+Đây là động lực (driving force) chính cho những thay đổi của cơ thể. Những kích thích này được theo dõi chặt chẽ bởi các thụ thể và cảm biến ở các phần khác nhau của cơ thể. Những cảm biến này đáp ứng với áp lực (lực nén) hoặc kéo dài, thay đổi hóa học, hoặc thay đổi nhiệt độ. Ví dụ về các mechanoreceptor bao gồm các baroreceptor (thụ thể cảm nhận áp suất) giúp phát hiện những thay đổi trong huyết áp, đầu dây thần kinh Merkel (Merkel nerve ending) có thể phát hiện cảm ứng và áp lực bền vững (sustained), và các tế bào lông (hair cell) phát hiện các kích thích âm thanh. Mất cân bằng nội mô có thể phục vụ như là kích thích nội bộ bao gồm các mức độ dinh dưỡng và ion trong máu, nồng độ oxy và mức nước. Độ lệch cân bằng nội môi lý tưởng có thể tạo ra cảm giác nguyên thủy (primordial feeling), chẳng hạn như đau đớn, khát nước hoặc mệt mỏi, thúc đẩy hành vi để khôi phục lại cơ thể tới trạng thái cân bằng (stasis) như rút lui, uống hoặc nghỉ ngơi.
+
+
+==== Huyết áp ====
+Huyết áp, nhịp tim và lượng máu tim bơm ra (cardiac output) được đo bằng các thụ thể kéo dài (stretch receptors) được tìm thấy trong các động mạch cảnh (carotid artery). Dây thần kinh (nerve) tự nhúng trong các thụ thể này và khi chúng phát hiện sự kéo căng, chúng được kích thích và kích hoạt (fire) tiềm năng hành động (action potential) đến hệ thần kinh trung ương. Những xung (impulses) này ức chế sự co thắt mạch máu và làm giảm nhịp tim. Nếu những dây thần kinh này không phát hiện được sự giãn nở, cơ thể xác định nhận thức huyết áp thấp như là một kích thích nguy hiểm và các tín hiệu không được gửi đi, ngăn chặn hành động ức chế CNS; mạch máu co lại (constrict) và nhịp tim tăng lên, làm tăng huyết áp trong cơ thể.
+
+
+== Tham khảo ==

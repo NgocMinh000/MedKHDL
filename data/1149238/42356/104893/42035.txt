@@ -1,0 +1,46 @@
+Mắt hay nhãn là cơ quan của hệ thống thị giác. Cơ quan này cung cấp cho sinh vật sống tầm nhìn, khả năng tiếp nhận và xử lý chi tiết hình ảnh, cũng như cho phép một số chức năng phản ứng ảnh độc lập với tầm nhìn. Mắt phát hiện ánh sáng và chuyển đổi nó thành các xung điện hóa học trong tế bào thần kinh. Ở các sinh vật bậc cao, mắt là một hệ thống quang học phức tạp, thu thập ánh sáng từ môi trường xung quanh, điều chỉnh cường độ của nó thông qua một màng chắn, tập trung nó thông qua một cụm thấu kính có thể điều chỉnh để tạo thành một hình ảnh, chuyển đổi hình ảnh này thành một tập hợp các tín hiệu điện và truyền các tín hiệu này đến não thông qua các con đường thần kinh phức tạp kết nối mắt thông qua dây thần kinh thị giác với vỏ thị giác và các khu vực khác của não. Đôi mắt với sức mạnh phân giải đã có mười dạng cơ bản khác nhau và 96% các loài động vật sở hữu một hệ thống quang học phức tạp. Mắt xử lý hình ảnh có trong động vật thân mềm, hợp âm và động vật chân đốt.
+"Đôi mắt" đơn giản nhất, chẳng hạn như những con mắt trong vi sinh vật, không làm gì khác ngoài việc phát hiện xem môi trường xung quanh là sáng hay tối, điều này đủ cho sự nhận dạng và điều hòa của nhịp sinh học. Với các đôi mắt phức tạp hơn, các tế bào hạch nhạy cảm võng mạc gửi tín hiệu dọc theo đường võng mạc đến nhân trên chéo để điều chỉnh sinh học và đến khu vực trước sinh để kiểm soát phản xạ ánh sáng đồng tử.
+
+
+== Tổng quan ==
+
+Mắt phức tạp có thể phân biệt hình dạng và màu sắc. Các lĩnh vực thị giác của nhiều sinh vật, đặc biệt là động vật ăn thịt, liên quan đến các khu vực lớn của tầm nhìn hai mắt để cải thiện nhận thức về độ sâu. Ở các sinh vật khác, mắt được đặt để tối đa hóa tầm nhìn, chẳng hạn như ở thỏ và ngựa, có tầm nhìn một mắt.
+Mắt nguyên sinh đầu tiên tiến hóa giữa các loài động vật 600 triệu năm trước về thời điểm xảy ra vụ nổ Cambri. Tổ tiên chung cuối cùng của động vật sở hữu bộ công cụ sinh hóa cần thiết cho thị lực, và đôi mắt tiên tiến hơn đã tiến hóa ở 96% các loài động vật ở sáu trong số ~ 35   phyla chính. Ở hầu hết các động vật có xương sống và một số động vật thân mềm, mắt hoạt động bằng cách cho phép ánh sáng đi vào và chiếu lên một bảng tế bào nhạy cảm với ánh sáng, được gọi là võng mạc, ở phía sau mắt. Các tế bào hình nón (cho màu sắc) và các tế bào hình que (cho độ tương phản ánh sáng yếu) trong võng mạc phát hiện và chuyển đổi ánh sáng thành tín hiệu thần kinh để nhìn. Các tín hiệu thị giác sau đó được truyền đến não thông qua dây thần kinh thị giác. Đôi mắt như vậy thường có hình cầu, chứa đầy một chất giống như gel trong suốt được gọi là hài hước thủy tinh thể, với một thấu kính hội tụ và thường là mống mắt; sự thư giãn hoặc thắt chặt các cơ xung quanh mống mắt làm thay đổi kích thước của con ngươi, từ đó điều chỉnh lượng ánh sáng đi vào mắt, và giảm quang sai khi có đủ ánh sáng. Mắt của hầu hết các loài chân, cá, động vật lưỡng cư và rắn có hình dạng thấu kính cố định và tầm nhìn tập trung đạt được bằng cách quan sát ống kính ống kính tương tự như cách máy ảnh lấy nét.
+Mắt đa hợp được tìm thấy trong số các động vật chân đốt và bao gồm nhiều khía cạnh đơn giản, tùy thuộc vào chi tiết giải phẫu, có thể cho một hình ảnh pixel hoặc nhiều hình ảnh trên mỗi mắt. Mỗi cảm biến có ống kính và tế bào cảm quang riêng. Một số mắt có tới 28.000 cảm biến như vậy, được sắp xếp theo hình lục giác và có thể cho tầm nhìn 360° đầy đủ. Mắt hợp chất rất nhạy cảm với chuyển động. Một số động vật chân đốt, bao gồm nhiều loài trong bộ Strepsiptera, có đôi mắt chỉ gồm một vài khía cạnh, mỗi mặt có một võng mạc có khả năng tạo ra một hình ảnh, tạo ra tầm nhìn. Với mỗi mắt nhìn một thứ khác nhau, một hình ảnh hợp nhất từ tất cả các mắt được tạo ra trong não, cung cấp những hình ảnh có độ phân giải cao rất khác nhau.
+Sở hữu tầm nhìn màu sắc siêu nhạy chi tiết, tôm Mantis đã được báo cáo là có hệ thống thị giác màu phức tạp nhất thế giới. Trilobites, hiện đã tuyệt chủng, có đôi mắt ghép độc đáo. Chúng đã sử dụng các tinh thể canxit trong suốt để tạo thành thấu kính cho mắt. Trong đó, chúng khác với hầu hết các loài động vật chân đốt khác, có đôi mắt mềm mại. Số lượng ống kính trong một mắt như vậy khác nhau; tuy nhiên, một số trilobites chỉ có một và một số có hàng ngàn thấu kính ở một mắt.
+Trái ngược với mắt ghép, mắt đơn là mắt có một thấu kính. Ví dụ, nhện nhảy có một cặp mắt đơn giản lớn với trường nhìn hẹp, được hỗ trợ bởi một loạt các mắt khác, nhỏ hơn cho tầm nhìn ngoại vi. Một số ấu trùng côn trùng, như sâu bướm, có một loại mắt đơn giản khác nhau thường chỉ cung cấp hình ảnh thô, nhưng (như trong ấu trùng bọ cánh cứng) có thể có khả năng phân giải 4 độ vòng cung, nhạy cảm với phân cực và có khả năng tăng độ nhạy tuyệt đối của nó vào ban đêm theo hệ số từ 1.000 trở lên. Một số mắt đơn giản nhất, được gọi là ocelli, có thể được tìm thấy ở động vật như một số loài ốc, mà thực sự không thể "nhìn thấy" theo nghĩa thông thường. Chúng có các tế bào nhạy sáng, nhưng không có ống kính và không có phương tiện nào khác để chiếu hình ảnh lên các tế bào này. Họ có thể phân biệt giữa ánh sáng và bóng tối, nhưng không còn nữa. Điều này cho phép ốc sên tránh ánh nắng trực tiếp. Trong các sinh vật sống gần các lỗ thông hơi dưới biển sâu, mắt ghép đã được đơn giản hóa và thích nghi với ánh sáng hồng ngoại được tạo ra bởi các lỗ thông hơi nóng bằng cách này, sinh vật có mắt này có thể phát hiện ra suối nước nóng và tránh bị đun sôi.
+
+
+== Phân loại mắt ==
+
+Trong giới động vật có nhiều loại mắt.
+Ở nhiều loài, chỉ có các tế bào thần kinh nhạy sáng để cảm nhận mức độ sáng tối của môi trường, nhưng không thu được hình ảnh hai chiều hay 3 chiều của môi trường. Ở sên, các tế bào thần kinh nhạy sáng được nằm sâu hơn trong hốc, tạo nên cảm giác về hướng tới của ánh sáng. Ở ốc anh vũ, có sự tiến hoá mạnh hơn khi các tế bào nằm nhạy sáng trải thành võng mạc nằm sau một lỗ nhỏ, giúp tạo ra hình ảnh hai chiều của không gian xung quanh theo cơ chế máy ảnh đục lỗ.
+Các loài côn trùng thường có mắt đa hợp chứa các ống dẫn ánh sáng đến từng tế bào thần kinh nhạy sáng; tạo ra mảng ảnh. Mỗi ống dẫn sáng có một thấu kính và (các) tế bào nhạy sáng độc lập. Lượng ống dẫn sáng trong một mắt đa hợp có thể lên tới hàng chục nghìn, xếp cạnh nhau theo cấu trúc lục giác, tạo ra hình ảnh chứa toàn bộ không gian xung quanh. Các mắt đa hợp rất nhạy cảm với chuyển động. Ở một số loài, mối ống dẫn sáng có nhiều tế bào nhạy sáng đủ để tạo ra hình ảnh riêng.
+Các động vật có dây sống và một số loài nhuyễn thể hội tụ hình ảnh xung quanh bằng thấu kính lên một võng mạc chứa các đầu dây thần kinh nhạy cảm với ánh sáng. Các tín hiệu thần kinh từ võng mạc được đưa về não xử lý và tái dựng hình ảnh môi trường. Cá, rắn và một số loài lưỡng cư có thấu kính có hình dạng cố định; việc điều khiển hội tụ ảnh xa gần được thực hiện bằng cách di chuyển thấu kính ra xa hay lại gần võng mạc. Các loài khác điều khiển hội tụ ảnh bằng cách làm biến dạng thấu kính. Lượng ánh sáng thu thập có thể được điều khiển bằng đóng mở đồng tử. Kiểu sắp xếp dây thần kinh cũng khác nhau tuỳ loài, khiến cho mắt động vật có vú có điểm mù, còn mắt bạch tuộc thì không.
+
+
+== Mắt đa hợp ==
+
+Đa số các mắt đa hợp được tìm thấy trên các loài chân khớp như côn trùng hay giáp xác.
+Mỗi mắt đa hợp có hình cầu, được chia làm từ hàng chục đến hàng nghìn múi. Mỗi múi có đường dẫn ánh sáng từ một hướng riêng, qua các thấu kính riêng, tới các tế bào nhạy sáng nằm bên trong, có thể phân biệt được độ sáng tối và đôi khi cả màu sắc hay độ phân cực của ánh sáng. Hình ảnh thu nhận bởi bộ não của các loài chân khớp này được tổng hợp từ các tín hiệu đơn lẻ đến từ các múi, tương ứng với từng hướng nhìn đơn lẻ.
+Nhược điểm của mắt đa hợp so với mắt đơn là, do không có một thấu kính trung tâm hay võng mạc trung tâm với khả năng điều chỉnh độ hội tụ, việc ghép hình từ các ống dẫn sáng đơn lẻ tạo nên hình ảnh có độ phân giải hai chiều thấp. Tuy nhiên, ưu điểm của mắt đa hợp là quan sát được toàn bộ không gian mà không cần di chuyển đầu hay thay đổi cơ học trong mắt, khiến việc theo dõi các di chuyển nhanh rất dễ dàng, thông qua cảm nhận thay đổi cường độ sáng giữa các ống dẫn tương ứng với các hướng khác nhau. Các ống dẫn có hướng này cũng đôi khi giúp quan sát tốt độ phân cực ánh sáng.
+Bản thân mắt đa hợp được chia làm hai loại chính và các phân loại nhỏ, cùng với một số ngoại lệ, tuỳ thuộc vào cơ chế quang học trong tạo ảnh (phản xạ, khúc xạ hay hấp thụ), và cơ chế xử lý tín hiệu của não.
+
+
+== Mắt đơn ==
+
+Các mắt đơn thường có cấu trúc là tạo hình ảnh hai chiều của không gian xung quanh lên một võng mạc chứa các tế bào thần kinh nhạy sáng, thông qua hiện tượng khúc xạ qua thấu kính hội tụ.
+Việc tạo ảnh trên võng mạc chứa hàng triệu đến hàng trăm triệu tế bào thần kinh, thay vì hàng nghìn ống dẫn như ở mắt đa hợp, làm tăng đáng kể độ phân giải của ảnh hai chiều thu được. Hơn nữa, ảnh thu được có độ sâu, tức là có thông tin ba chiều, tập trung vào các vật thể xa hay gần nhờ vào sự thay đổi sự hội tụ của thấu kính.
+Mắt của các loài động vật có dây sống tiến hóa khá độc lập với mắt của mực hay bạch tuộc, và hội tụ về một cơ chế hoạt động khá giống nhau. 
+
+
+=== Mắt người ===
+
+
+=== Mắt bạch tuộc ===
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

@@ -1,0 +1,7 @@
+Kinect (tên mật trong thời gian phát triển là Project Natal) là thiết bị cảm biến ngoại vi thu chuyển động phát triển bởi Microsoft dành cho máy console Xbox 360 và Windows. Khi kết nối vào Xbox 360, người chơi có thể điều khiển và tương tác với máy console mà không cần tay cầm điều khiển, thông qua giao diện người dùng tự nhiên sử dụng cử chỉ và lệnh thoại. Mục đích của dự án này là làm nâng cao trải nghiệm của người dùng Xbox 360 lên một tầm cao mới, vượt xa cách chơi game truyền thống. Kinect cạnh tranh trực tiếp với Wii Remote Plus của Wii và PlayStation Move với bộ cảm biến PlayStation Eye của PlayStation.
+Kinect phát hành tại Bắc Mỹ vào ngày 4 tháng 11 năm 2010, tại châu Âu vào ngày 10 tháng 11 năm 2010, tại Úc, New Zealand và Singapore ngày 18 tháng 11 năm 2010, và tại Nhật Bản ngày 20 tháng 11 năm 2010. Khi mua thiết bị sẽ có hai lựa chọn, một là mua Kinect sẽ tặng kèm Kinect Advantures, hai là mua Kinect tặng kèm Kinect Advantures cùng với máy Xbox 360 4 GB hoặc 250 GB. Phiên bản cho Windows được ra mắt sau đến hai năm, ngày 1 tháng 2 năm 2012.
+Kinect lập kỷ lục Guinness thế giới về "thiết bị điện tử bán chạy nhất" sau khi bán được tổng cộng 8 triệu thiết bị trong 60 ngày đầu tiên. 24 triệu máy đã được "tẩu tán" cho đến tháng 1 năm 2012.
+Microsoft ra mắt bộ công cụ phát triển phần mềm Kinect cho Windows 7 ngày 16 tháng 6 năm 2011. Bộ công cụ phát triển phần mềm này cho phép các nhà phát triển viết ứng dụng cho Kinect ở ngôn ngữ C#, C++/CLI, Visual Basic 2005.
+
+
+== Tham khảo ==

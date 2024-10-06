@@ -1,0 +1,23 @@
+Yersinia pestis (Y. pestis) (trước đây là Pasteurella pestis) là một loài vi khuẩn coccobacillus gram âm, không có tính di động, hình que thuộc họ Yersiniaceae. Nó là tác nhân gây bệnh của dịch hạch — căn bệnh đã gây nhiều trận dịch kinh hoàng với tỉ lệ tử vong rất cao trong lịch sử nhân loại (nếu không được điều trị, tử vong ở thể hạch là 75%, và ở thể phổi là gần 100%) như ở trận Đại dịch hạch (1665 ở Anh với 60.000 người chết) và Cái chết đen (giữa thế kỉ 14, giết chết 1/3 dân số châu Âu). Có 3 dạng bệnh dịch hạch chính là dịch hạch thể hạch, dịch hạch thể phổi và dịch hạch thể máu.
+Giống Yersinia là các coccobacillus nhuộm Gram âm và lưỡng cực (hình quả tạ). Cũng như các Enterobacteriaceae khác, nó có khả năng lên men đường. Yersinia pestis có khả năng tiết ra chất nhờn chống thực bào. Vi khuẩn trở nên di động trong môi trường phân lập, nhưng bất động khi ở trong vật chủ (động vật có vú).
+
+
+== Lịch sử ==
+
+Y. pestis được khám phá vào năm 1894 do công của bác sĩ và nhà vi khuẩn học người Pháp Alexandre Yersin trong trận dịch của bệnh dịch hạch tại Hồng Kông. Yersin là thành viên của "trường phái Pasteur". Shibasaburo Kitasato, một nhà vi khuẩn học người Nhật được huấn luyện tại Đức, thuộc "trường phái Koch" đối thủ, lúc bấy giờ cũng tham gia tìm tác nhân gây bệnh của dịch hạch. Tuy nhiên chính Yersin là người đã liên kết bệnh dịch hạch với Yersinia pestis. Vi khuẩn này lúc đầu được gọi là Pasteurella pestis, và sau đó được đặt lại tên theo tên của Yersin.
+
+
+== Tính sinh bệnh và miễn dịch ==
+Tính sinh bệnh là do hai kháng nguyên kháng thực bào F1 và VW; cả hai đều cần thiết cho độc tính của vi khuẩn. Chúng được vi khuẩn sản xuất ra ở 37 °C, điều này giải thích tại sao một số côn trùng như bọ chét chỉ mang khuẩn không độc tính. Hơn nữa, Y. pestis sống sót và sản xuất các kháng nguyên F1 và VW bên trong các tế bào máu như bạch cầu đơn nhân mà không trong bạch cầu đa nhân trung tính. Miễn dịch tự nhiên hay cảm ứng có được là do cơ thể sản xuất kháng thể opsonin đặc hiệu chống lại các kháng nguyên F1 và VW. Chúng kích thích hiện tượng thực bào ở bạch cầu trung tính.
+Hiện nay có vắcxin bất hoạt formalin cho người lớn ở mức nguy cơ cao, nhưng nó không hiệu quả lắm và có thể gây phản ứng viêm trầm trọng. Các thí nghiệm với kĩ thuật di truyền sản xuất vắcxin dựa trên các kháng nguyên F1 và VW đang được tiến hành và tỏ ra có nhiều triển vọng.
+
+
+== Tính nhạy cảm ==
+Y. pestis nhạy cảm cao đối với vài loại kháng sinh, chủ yếu là streptomycin và chloramphenicol.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+ Dữ liệu liên quan tới Yersinia pestis tại Wikispecies

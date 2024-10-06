@@ -1,0 +1,58 @@
+Trong Sinh học, chu kỳ sống là quá trình lặp lại theo trình tự nhất định các thay đổi mà một cá thể sinh vật phải trải qua bắt đầu từ khi được sinh ra cho đến các giai đoạn sinh trưởng, phát triển trở nên cơ thể trưởng thành, có thể sinh sản, rồi chết. Trong tiếng Anh, thuật ngữ này là life cycle.
+Các cá thể cùng loài đều có chu kỳ sống như nhau. Ví dụ:
+
+Người bắt đầu sinh ra từ hợp tử - phát triển dần thành phôi, thai - thành em bé - lớn dần thành bố hoặc mẹ - rồi sinh thế hệ tiếp theo (hình 1). Trường hợp này thường gặp ở động vật sinh sản hữu tính, khi chu kỳ sống bắt đầu từ hợp tử là kết quả của thụ tinh giữa trứng với tinh trùng, phát triển thành phôi, từ đó nên cá thể trưởng thành, có thể có biến đổi hình thái hoặc không.
+
+Nếu cá thể là sinh vật đơn bào, sinh sản vô tính theo phương thức nguyên phân, thì mỗi chu kỳ sống của "con" bắt đầu từ khi được "mẹ" sinh ra, lớn lên rồi phân chia tạo ra tế bào mới. Trong trường hợp này, mỗi chu kỳ sống là một chu kỳ tế bào gồm lớn lên (pha G1), tổng hợp DNA và các chất (pha S), rồi lại tiếp tục sinh trưởng (pha G2) và phân chia (pha M) (hình 2).
+Trong ngôn ngữ hàng ngày, chu kỳ sống thường được gọi là vòng đời; trong sinh học phát triển, chu kỳ sống bao hàm toàn bộ sự phát triển cá thể (ontogenesis).
+
+
+== Lược sử và các kiểu ==
+Phát hiện về chu kỳ sống của sinh vật đã có từ rất lâu, nhưng cơ chế của quá trình mới được sáng tỏ dần từ khoảng vài thế kỉ trước, khi các nhà khoa học nghiên cứu về sinh sản và phát triển ở nhiều loài thực vật và động vật. Wilhelm Hofmeister vào năm 1851 đã chứng minh rằng ở thực vật thì chu kỳ sống có sự xen kẽ các thế hệ. Một số thuật ngữ (haplobiont và diplobiont) được sử dụng để mô tả các vòng đời được đề xuất ban đầu cho chu kỳ sống của tảo nhờ Nils Svedelius, và sau đó được sử dụng cho các sinh vật khác. Các thuật ngữ khác (autogamy và gamontogamy) được sử dụng trong vòng đời của nguyên sinh vật được đề xuất bởi Karl Gottlieb Grell. Các phát hiện trên diễn ra trong khoảng những năm 1840 và 1850.
+Chu kỳ sống của các loài sinh vật sinh sản hữu tính thường bao gồm giai đoạn đơn bội (n) xen kẽ với giai đoạn lưỡng bội (2n), nghĩa là có sự thay đổi của mức bội thể. Do đó, để quay lại giai đoạn đơn bội, thì chu kỳ sống bắt buộc phải qua giảm phân. Dựa vào đó, các nhà nghiên cứu phân chia thành 3 kiểu chu kỳ sống:
+
+kiểu giao tử thể, thường gọi là kiểu đơn bội (haplontic)
+kiểu bào tử thể, thường gọi là kiểu lưỡng bội (diplontic)
+kiểu xen kẽ (haplodiplontic).
+
+
+== Chu kỳ giao tử thể (đơn bội) ==
+
+Trong kiểu chu kỳ này (haplontic life cycle), phần lớn thời gian tồn tại và phát triển của một cá thể là trong giai đoạn đơn bội (n), có thể ở dạng đơn bào hoặc ở dạng đa bào.
+Các dạng sống đơn bội (n) nguyên phân tạo ra các giao tử thể gọi là bào tử (spore). Sau khi hai bào tử hợp nhất trong thụ tinh, thì hợp tử lưỡng bội (2n) được hình thành, là tế bào lưỡng bội duy nhất trong toàn bộ vòng đời (hình 3).
+
+Kiểu vòng đời đơn bội như vậy phổ biến ở hầu hết các loại nấm, một số loài vi tảo như vi tảo cổ (Archaeplastidans), Chlamydomonas, chi trùng sốt rét (Plasmodium), nhóm excavates, nhóm nấm đảm (basidiomycetes).
+
+Chu kỳ sống của trùng sốt rét cũng giống như tảo lục hiển vi nói trên, nhưng có điểm đặc biệt. Các loài trùng sốt rét bắt buộc phải kí sinh, nên phải trải qua hai giai đoạn ở hai vật chủ khác nhau là người và muỗi sốt rét, do vậy, mỗi chu kỳ sống lại gồm hai "vòng đời" họp thành: "vòng đời" ở người (vật chủ chính) và "vòng đời" ở muỗi (vật chủ trung gian) tách biệt nhau.
+- Khi muỗi sốt rét đốt người, nó đùn vào máu người bị đốt những trùng sốt rét ở dạng đơn bội (n), gọi là bào tử động (sporozoite). Các tế bào đơn bội này sẽ kí sinh bên trong tế bào người (phương thức nội kí sinh), sinh sản rất nhanh qua nguyên phân, tạo ra rất nhiều trùng con xâm nhập vào hàng loạt hồng cầu, từ đó gây bệnh sốt rét. Vòng đời mỗi cá thể này rất ngắn, nhưng mỗi cá thể sinh sản nhiều nên "tổng" vòng đời rất dài, làm người bệnh lên cơn rất nhiều lần. Tuy nhiên, trong nhiều trường hợp bệnh tự khỏi do trùng sốt rét dần bị tiêu diệt vì bộ gen bị suy thoái bởi không được tái tổ hợp và sức đề kháng của người bệnh, nếu không bị muỗi đốt lại.
+- Khi người bệnh bị muỗi đốt, thì trùng sốt rét vào trong cơ thể muỗi (vật chủ trung gian và cũng gọi là vectơ truyền bệnh), khởi đầu giai đoạn hữu tính: phát sinh giao tử đực, giao tử cái và thụ tinh, qua đó bộ gen được tổ hợp lại, làm trùng tăng cường sức sống. Vòng đời 2n này rất ngắn (hình 4), nhưng qua đó người bệnh có thể bị nặng hơn và có khả năng truyền bệnh mình đã mắc cho người khác qua muỗi làm vectơ.
+
+
+== Chu kỳ bào tử thể ==
+
+Trong kiểu chu kỳ này, thay vì phân chia ngay lập tức để tạo ra các tế bào đơn bội, thì hợp tử phân chia theo số nguyên các lần phân bào theo lối nguyên phân, để tạo ra một cá thể lưỡng bội đa bào hoặc một nhóm các tế bào lưỡng bội đơn bào (tập đoàn hoặc mô lưỡng bội). Các tế bào từ các cá thể lưỡng bội sau đó trải qua quá trình giảm phân để tạo ra các giao tử. Các tế bào đơn bội có thể phân chia lại (bằng nguyên phân) để hình thành nhiều tế bào đơn bội hơn, như trong nhiều loại nấm men, nhưng giai đoạn đơn bội không phải là giai đoạn chiếm ưu thế trong vòng đời mà là giai đoạn lưỡng bội chiếm ưu thế, còn giai đoạn đơn bội có khi chỉ xuất hiện trong cơ quan sinh sản của thể bào tử (hình 5), tức là trong quá trình tạo giao tử, rồi giao tử nhanh chóng hợp nhất với nhau tạo ra hợp tử lưỡng bội.
+Kiểu vòng đời lưỡng bội như thế phổ biến ở các sinh vật bậc cao như các động vật có xương sống, cây có hoa. Đó cũng là nhóm sinh vật có thể bào tử là dạng mà con người thường nhìn thấy.
+
+
+== Kiểu xen kẽ ==
+
+Trong kiểu xen kẽ (haplodiplontic), giai đoạn đơn bội và giai đoạn lưỡng bội thay thế nhau và chiếm tỉ lệ thời gian không chênh lệch nhau nhiều. Ở giai đoạn đơn bội (n), cơ thể tồn tại trong dạng thể giao tử, còn ở giai đoạn lưỡng bội (2n) thì cơ thể tồn tại ở dạng thể bào tử. Các sinh vật có chu kỳ sống kiểu trung gian này thường gặp nhiều ở nhất ngành Dương xỉ.
+
+
+== Xem thêm ==
+Phân bào nguyên nhiễm: nguyên phân.
+Phân bào giảm nhiễm: giảm phân.
+Quá trình phát sinh giao tử: tạo giao tử.
+Thể bào tử.
+Thể giao tử.
+Chu kỳ là gì: chu kỳ.
+
+
+== Nguồn trích dẫn ==
+
+
+== Liên kết ngoài ==
+
+Life Cycles: Reflections of an Evolutionary Biologist. John Tyler Bonner. Princeton University Press, Princeton (New Jersey).
+Valero, M (1992). “Evolution of alternation of haploid and diploid phases in life cycles”. Trends in Ecology & Evolution. 7 (1): 25–29. doi:10.1016/0169-5347(92)90195-h. PMID 21235940.
+Mable, B.; Otto, S. (1998). “The evolution of life cycles with haploid and diploid phase” (PDF). BioEssays. 20 (6): 453–462. doi:10.1002/(sici)1521-1878(199806)20:6<453::aid-bies3>3.0.co;2-n.

@@ -1,0 +1,7 @@
+Adenosine diphosphat, viết tắt là ADP, là một nucleotide. Nó là một ester của pyrophosphoric acid với nucleoside adenosine. ADP bao gồm các nhóm pyrophosphate, ribose đường pentose và nucleobase adenine.
+ADP là sản phẩm của dephosphorylation ATP bởi các ATPase.
+ADP (Adenosine Diphosphat) được hình thành từ ATP sau bị đứt một liên kết cao năng, giải phóng một gốc Phosphat để cung cấp năng lượng (7,3 cal/mol) cho mọi hoạt động sống của tế bào. Nếu như phân tử này đứt thêm 1 liên kết cao năng nữa, giải phóng một gốc phosphat nữa thì sẽ tạo thành AMP (Adenosine monophosphate).
+ATP là một nguyên tử chuyển hóa năng lượng quan trọng trong tế bào.
+
+
+== Tham khảo ==

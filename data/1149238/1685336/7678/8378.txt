@@ -1,0 +1,56 @@
+Thu thập ngẫu nhiên là một phương pháp tư duy sáng tạo. Đây là phương pháp bổ sung thêm cho quá trình tập kích não.
+Phương pháp này được đề nghị bởi Edward de Bono.
+
+
+== Đặc điểm và yêu cầu ==
+Xu hướng chung về sự suy nghĩ của con người là tư duy bởi sự nhận biết các kiểu mẫu mà người ta hay gọi nôm na là các "phương pháp" hay các "nếp suy nghĩ". Chúng ta phản ứng lại các mẫu đó dựa trên những kinh nghiệm trong quá khứ và mở rộng các kinh nghiệm này. Mặc dù vậy, đôi khi, chúng ta sẽ bị giam bên trong lối tư duy của mình. Với một nếp (phương pháp) tư duy đặc thù có thể sẽ không đủ để kiến tạo một lời giải tốt cho một loạt các vấn đề riêng biệt.
+Một ví dụ điển hình là trường hợp của các học sinh PTTH, chúng ta biết rất rõ, đa số khi giải các bài toán tích phân hay các bài toán hóa học định tính, các em đã được "gạo sẵn" các dạng toán theo một loại "công thức hay mẫu mã" được cung cấp bởi các thầy dạy (ở các trung tâm luyện thi) và cứ như thế "nhắm mắt" mà giải các đề bài cho đến khi gặp những bài tưởng chừng dùng công thức này hay công thức nọ có thể làm ra nhưng lại lay hoay mãi mà không tìm ra được một giải thuật đúng đắn.
+Kỹ thuật thu thập ngẫu nhiên cho phép liên kết một kiểu tư duy mới với kiểu tư duy mà chúng ta đang sử dụng. Cùng với sự có mặt của kiểu tư duy mới này thì tất cả các kinh nghiệm sẵn có sẽ cùng được nối vào với nhau.
+Phương pháp này đòi hỏi người tiến hành phải biết dùng kĩ thuật động não.
+
+
+== Các bước tiến hành ==
+Lưu ý: phần ví dụ theo sau phần này sẽ minh họa rõ ràng hơn các thủ thuật để tiến hành.
+
+Chọn ra ngẫu nhiên một danh từ trong một từ điển hay trong một danh mục các từ vựng đã được chuẩn bị từ trước. Thường danh từ được chọn là danh từ cụ thể sẽ giúp ích hơn. Danh từ cụ thể hiểu theo nghĩa là những danh từ chỉ vật mà mình có thể nhận biết bằng giác quan hay sờ mó được. Cách chọn ngẫu nhiên khác là lấy ra từ một tạp chí một danh từ nào đó hoặc có thể dùng sự hỗ trợ của phần mềm để chọn.
+Không nên chọn một danh từ trừu tượng hay một khái niệm tổng quát.
+Dùng danh từ này như là điểm khởi đầu cho giải quyết vấn đề bằng tập kích não.
+Nếu như từ được chọn không nằm trong phần chuyên môn của người tiến hành phương pháp này, có thể thấy mình sẽ có thêm nhiều tri thức sáng suốt nhờ vào các bước tìm tòi kế tiếp.
+Mặc dù vậy, cách tốt nhất là chọn những danh từ không liên quan gì đến vấn đề đang cần giải đáp nhưng lại có thể nằm trong chuyên môn của người tiến hành vì như thế nhiều ý tưởng mới hơn sẽ được tìm ra.
+Nếu như từ chọn ra là thích hợp, một dãy những ý kiến và khái niệm vào quá trình tập kích não sẽ nảy sinh.
+Trong khi một số từ tìm ra trở nên vô dụng, thì qua đó, có thể sẽ tìm ra những phương hướng mới cho vấn đề.
+Nếu bạn kiên trì nhiều lần, thì có thể tìm ra bước đột phá.
+
+
+== Ví dụ ==
+Giả sử vấn đề muốn giải quyết là "giảm ô nhiễm không khí thành phố". Theo lối nghĩ thông thường, chúng ta đều thấy cách giải quyết là sử dụng thiết bị xúc tác để chuyển hóa các chất thải được gắn trong ống khói xe hơi và dùng các loại xăng sạch hơn sẽ có khả năng cháy gần như hoàn toàn trong buồng đốt cũng như là tăng cường việc lọc khí thải ở các nhà máy.
+Bây giờ lựa ngẫu nhiên một danh từ trích từ tựa của những cuốn sách trên tủ, chẳng hạn ta tìm thấy chữ "cây cỏ" (thực vật). Tập kích não từ chữ này bạn có thể đào bới tìm ra một số ý mới:
+Cây xanh trên các vệ đường có thể chuyển hoá CO2 thành O2.
+Tương tự, nếu thổi khí thải ra từ động cơ xe qua một dung môi của tảo thì cũng chuyển hoá được CO2 sang O2. Và có lẽ, bộ lọc không khí từ các phi thuyền không gian dùng cách này?
+Chứa vi khuẩn trao đổi lưu huỳnh vào bộ chuyển hóa khí thải để làm sạch chúng. Có lẽ hợp chất của nitơ cũng được làm giàu giống như vi khuẩn này?
+Sản phẩm của các loại cây cỏ là giấy. Giấy có thể dùng làm màng lọc của các bộ lọc không khí ở các máy điều hoà nhiệt độ, các động cơ nổ (xe hơi, xe gắn máy).
+Sản phẩm của cây cao su là nhựa có thể làm nguyên liệu chế tao bộ lọc không khí thải ra.
+Sản phẩm của cây mía là đường có thể chế thành rượu cồn một loại chất đốt sạch (dùng ở Brazil)
+Cây xanh sống nhờ năng lượng mặt trời, có thể nào thay vì dùng chất đốt gây ô nhiễm thì thay bằng năng lượng mặt trời hay các năng lượng sạch hơn.
+...
+Trên đây là những ý kiến thô thiển nảy sinh. Một số có thể sai và không thực tế. Tuy nhiên, một trong chúng có thể dùng làm cơ sở cho những phát triển lợi ích.
+
+
+== Biến thể của phương pháp ==
+Ngoài việc dùng các danh từ ngẫu nhiên người ta còn có thể dùng hình ảnh như là đối tượng để tập kích não tìm ý mới. Cách làm như sau:
+
+Nghĩ ra bất kì một chữ Anh ngữ nào, rồi lấy nó làm từ khóa điền vào khung tìm kiếm của máy truy tìm dữ liệu.
+Thay vì tìm các trang Web, thì dùng máy để tìm các hình ảnh.
+Bây giờ chọn ra một hình bất kì mà máy truy tìm cung cấp. Lấy nó làm đối tượng để tập kích não tương tự như đã tiến hành.
+
+
+== Đọc thêm ==
+Tập kích não
+Tư duy sáng tạo
+
+
+== Tham khảo ==
+
+Creative Thinking for Business Lưu trữ 2005-11-08 tại Wayback Machine
+Mind Tools
+Thu thập ngẫu nhiên -- bài do chính tác giả Võ Quang Nhân hiệu chỉnh và gửi đăng

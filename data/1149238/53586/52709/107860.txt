@@ -1,0 +1,30 @@
+Abstract Factory, đầy đủ là Abstract Factory pattern, là thiết kế mẫu hướng đối tượng trong việc thiết kế phần mềm cho máy tính, cung cấp một giao diện lớp có chức năng tạo ra một tập hợp các đối tượng liên quan hoặc phụ thuộc lẫn nhau mà không chỉ ra đó là những lớp cụ thể nào tại thời điểm thiết kế. Mẫu thiết kế Abstract Factory đóng gói một nhóm những lớp đóng vai trò "sản xuất" (Factory) trong ứng dụng, đây là những lớp được dùng để tạo lập các đối tượng. Các lớp sản xuất này có chung một giao diện lập trình được kế thừa từ một lớp cha thuần ảo gọi là "lớp sản xuất ảo".
+
+
+== Thiết kế động với Abstract Factory ==
+Một Về bản chất, Abstract Factory Pattern chỉ khác Factory Pattern ở chỗ bản thân đối tượng Factory không được chỉ ra cụ thể tại thời điểm thiết kế, tức nó là một giao diện hoặc lớp trừu tượng (interface, abstract). Nếu như Factory Patttern phân loại đối tượng dựa trên tham số đầu vào thì đối với Abstract Factory Pattern, thủ tục createObject() còn phụ thuộc thêm vào các yếu tố phụ khác như môi trường hệ điều hành chẳng hạn. Ứng với mỗi yếu tố phụ thứ hai ta có một lớp Factory cụ thể.Một trong những vấn đề gặp phải là khung giao diện Abstract Factory thường hay bị sửa đổi, thí dụ như bổ sung thủ tục chẳng hạn, khi đó các lớp cụ thể thực thi giao diện này sẽ phải được dịch và triển khai lại. Để giảm nhẹ vấn đề này người ta thường thiết kế giao diện Abstract Factory một cách linh động.
+
+
+== Cấu trúc mẫu ==
+Trong đó:
+
+AbstractFactory: định nghĩa một giao tiếp cho thao tác khởi tạo các "sản phẩm" ảo (AbstractProduct)
+ConcreteFactory: thực thi giao tiếp AbstractFactory để tạo ra đối tượng cụ thể
+AbstractProduct: định nghĩa một lớp ảo cho một loại đối tượng "sản phẩm"
+Product: kế thừa từ từ lớp "sản phẩm" ảo AbstractProduct, các lớp Product định nghĩa từ đối tượng cụ thể
+Client: sử dụng các lớp AbstractFactory và AbstractProduct trong hệ thống
+
+
+== Tình huống áp dụng ==
+- Phía client sẽ không phụ thuộc vào việc những sản phẩm được tạo ra như thế nào.
+- Ứng dụng sẽ được cấu hình với một hoặc nhiều họ sản phẩm.
+- Các đối tượng cần phải được tạo ra như một tập hợp để có thể tương thích với nhau
+- Chúng ta muốn cung cấp một tập các lớp và chúng ta muốn thể hiện các ràng buộc, các mối quan hệ giữa chúng mà không phải là các thực thi của chúng(interface). Trong trường hợp không định nghĩa được các lớp trừu tượng Product thì việc tạo ra các ConcreteProduct theo mẫu này là rất khó hoặc không thể
+- Mỗi khi có thêm một "sản phẩm" ta lại phải định nghĩa thêm một lớp "sản xuất"
+
+
+== Ví dụ ==
+Giả sử ta cần viết một ứng dụng quản lý địa chỉ và số điện thoại cho các quốc gia trên thế giới. Địa chỉ và số địa thoại của mỗi quốc gia sẽ có một số điểm giống nhau và một số điểm khác nhau. Ta xây dựng các lớp như ví dụ sau:
+
+
+== Tham khảo ==

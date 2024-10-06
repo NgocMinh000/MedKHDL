@@ -1,0 +1,42 @@
+Đại bộ phận virus (thí dụ virus cảm cúm phổ biến và rất nhiều virus động vật) đều có sẵn kết cấu màng bọc virus (chữ Anh: viral envelope), cốt để che đậy bề mặt bên ngoài của vỏ bọc. Vật chất màng bọc virus thông thường có nguồn gốc ở màng tế bào của túc chủ (mang dắt theo phốtpholipít và prôtêin), nhưng mà cũng có bao hàm glicôprôtêin của virus. Màng bọc virus giúp đỡ virus tránh né sự thị sát của hệ thống miễn dịch của túc chủ. Glicôprôtêin của mặt ngoài màng bọc có thể dùng để nhận thức phân biệt và kích hoạt thụ thể của mặt ngoài màng tế bào của túc chủ. Sau khi virus tiến vào tế bào, màng bọc virus sẽ cùng nhau điều hoà hợp nhất với màng tế bào của túc chủ, khiến cho vỏ bọc và bộ gen của virus có thể tiến vào đồng thời truyền nhiễm tế bào túc chủ. 
+Màng bọc virus có sẵn tính kháng nguyên, chức năng chủ yếu là giúp đỡ virus tiến vào tế bào. Đầu tiên glicôprôtêin - phần ở trên của mặt ngoài màng bọc, nhận thức phân biệt đồng thời kết hợp thụ thể của mặt ngoài túc chủ, kế tiếp, màng bọc virus kết hợp với màng tế bào của túc chủ, cuối cùng vỏ bọc virus và bộ gen virus tiến vào túc chủ, hoàn thành xong quá trình truyền nhiễm.
+Bởi vì thành phần chủ yếu của màng bọc virus là lipít, vậy thì mẫn cảm với dung môi của lipít, do điêtyl ête đạt tới phá hoại màng bọc virus và tiêu diệt hoạt tính virus, cho nên các chuyên gia thường dùng điêtyl ête để đi đến giám định virus có hay không có màng bọc.
+Tầng phân tử kép lipít của vỏ bọc virus vô cùng mẫn cảm với khô khan (desiccation), nhiệt và thuốc tẩy sạch (detergent), do đó virus không mang theo màng bọc càng thêm dễ tiêu diệt hoạt tính so với một số virus có màng bọc, rồi ngăn cản chức năng sinh tồn của nó ở bên ngoài túc chủ, khiến cho sự truyền bá của nó rất khó xa lìa túc chủ.
+
+
+== Thí dụ ==
+Một ít họ và chi virus có sẵn màng bọc virus đạt tới truyền nhiễm loài người là:
+
+
+=== Virus DNA ===
+Họ virus Sởi mụn
+Họ virus Đậu mùa (Poxviridae)
+Họ virus Gan (Hepadnaviridae)
+
+
+=== Virus RNA ===
+Chi virus Màu vàng (Flavivirus)
+Họ virus Màng áo khoác (Togaviridae)
+Loài virus Kiểu dáng mũ
+Loài virus Viêm gan kiểu D (Hepatitis D virus)
+Họ virus Dịch keo chính (Orthomyxoviridae)
+Họ virus Dịch keo phụ (Paramyxoviridae)
+Họ virus Đạn pháo (Rhabdoviridae)
+Họ virus Bunia (Bunyaviridae)
+Họ virus Kiểu dáng sợi tơ (Filoviridae)
+
+
+=== Virus phiên mã nghịch ===
+Họ virus Phiên mã nghịch
+
+
+== Xem thêm ==
+Màng bồ kết vi khuẩn
+Màng tế bào
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+“Virus Structure”. Molecular Expressions: Images from the Microscope. Truy cập ngày 27 tháng 6 năm 2007.

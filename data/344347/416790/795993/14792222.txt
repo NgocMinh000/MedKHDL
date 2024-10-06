@@ -1,0 +1,21 @@
+Dịch tễ học bệnh lý phân tử (MPE) là một chuyên ngành kết hợp dịch tễ học và bệnh lý học.  Nó được định nghĩa là "dịch tễ học về bệnh lý phân tử và tính không đồng nhất của bệnh".  Bệnh học và dịch tễ học có chung mục tiêu làm sáng tỏ căn nguyên của bệnh và MPE nhằm mục đích đạt được mục tiêu này ở cấp độ phân tử, cá nhân và dân số.  Thông thường, MPE sử dụng tài nguyên và dữ liệu bệnh lý mô trong các nghiên cứu dịch tễ học hiện có.  Dịch tễ học phân tử bao gồm MPE và dịch tễ học phân tử loại thông thường với việc sử dụng các hệ thống chỉ định bệnh truyền thống.
+
+
+== Quá trình bệnh ==
+Dữ liệu từ các dự án Atlas bộ gen ung thư chỉ ra rằng tiến hóa bệnh là một quá trình không đồng nhất vốn có.  Mỗi bệnh nhân có một quá trình bệnh duy nhất (Nguyên tắc bệnh duy nhất), xem xét tính độc đáo của exposome và ảnh hưởng duy nhất của nó đến quá trình bệnh lý phân tử.  Khái niệm này đã được áp dụng trong y học lâm sàng cùng với y học chính xác và y học cá nhân hóa.
+
+
+== Phương pháp luận ==
+Trong MPE, các nhà điều tra mổ xẻ mối liên hệ giữa các phơi nhiễm (ví dụ, các yếu tố môi trường, chế độ ăn uống, lối sống và di truyền); thay đổi trong các phân tử tế bào hoặc ngoại bào (chữ ký phân tử bệnh); và tiến hóa và tiến triển bệnh.  Các nhà điều tra có thể phân tích bộ gen, methylome, epigenome, chuyển hóa, transcriptome, proteome, microbiome, miễn dịch và tương tác.  Một yếu tố rủi ro giả định có thể được liên kết với chữ ký phân tử cụ thể.
+Nghiên cứu MPE cho phép xác định một dấu ấn sinh học mới cho tiện ích lâm sàng tiềm năng, sử dụng dữ liệu dựa trên dân số quy mô lớn (ví dụ, đột biến PIK3CA trong ung thư đại trực tràng để chọn bệnh nhân điều trị bằng aspirin).  Cách tiếp cận MPE có thể được sử dụng sau một nghiên cứu kết hợp trên toàn bộ bộ gen (GWAS), được gọi là "phương pháp GWAS-MPE".  Kiểu hình điểm cuối bệnh chi tiết có thể được tiến hành bằng phương pháp bệnh lý phân tử hoặc mô bệnh học thay thế hoặc phân tích hóa mô miễn dịch của các mô và tế bào bệnh trong GWAS.
+Là một phương pháp thay thế, các biến thể rủi ro tiềm tàng được xác định bởi GWAS có thể được kiểm tra kết hợp với phân tích bệnh lý phân tử trên các mô bệnh.  Phương pháp GWAS-MPE này không chỉ mang lại ước tính hiệu quả chính xác hơn, thậm chí còn có tác dụng lớn hơn đối với các phân nhóm cụ thể của bệnh, mà còn hiểu biết về sinh bệnh học bằng cách liên kết các biến thể di truyền với các dấu hiệu bệnh lý phân tử của bệnh.  Vì chẩn đoán phân tử đang trở thành thực hành lâm sàng thông thường, dữ liệu bệnh lý phân tử có thể hỗ trợ nghiên cứu dịch tễ học.
+
+
+== Lịch sử ==
+MPE bắt đầu bằng việc phân tích các yếu tố nguy cơ (như hút thuốc) và phát hiện bệnh lý phân tử (như đột biến gen gây ung thư KRAS trong ung thư phổi).
+Các nghiên cứu để kiểm tra mối quan hệ giữa phơi nhiễm và dấu hiệu bệnh lý phân tử của bệnh (đặc biệt là ung thư) ngày càng phổ biến trong suốt những năm 1990 và đầu những năm 2000.
+Việc sử dụng bệnh lý phân tử trong dịch tễ học đặt ra thiếu phương pháp và hướng dẫn tiêu chuẩn hóa cũng như các chuyên gia và chương trình đào tạo liên ngành.  Nghiên cứu MPE yêu cầu một khung khái niệm và phương pháp luận mới (phương pháp dịch tễ học) vì MPE kiểm tra tính không đồng nhất trong một biến kết quả.
+Thuật ngữ "dịch tễ học bệnh lý phân tử" được sử dụng bởi Shuji Ogino và Meir Stampfer vào năm 2010   Nguyên tắc cụ thể của MPE được phát triển sau năm 2010.  Mô hình MPE được sử dụng rộng rãi trên toàn cầu, và đã trở thành chủ đề trong các hội nghị quốc tế.  Chuỗi Cuộc họp Dịch tễ học Bệnh học Phân tử Quốc tế (MPE) đã được mở cho cộng đồng nghiên cứu trên toàn thế giới, các cuộc họp thứ hai và thứ ba được tổ chức tại Boston, vào tháng 12 năm 2014 và tháng 5 năm 2016,. 
+
+
+== Tham khảo ==

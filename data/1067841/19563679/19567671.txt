@@ -1,0 +1,127 @@
+Vắc-xin COVID-19 của Pfizer–BioNTech (pINN: tozinameran), được bán với nhãn hiệu Comirnaty, là một loại vắc-xin COVID-19 dựa trên mRNA. Vắc-xin ban đầu được phát triển bởi công ty Đức BioNTech, sau đó công ty này hợp tác với hãng dược phẩm Trung Quốc Fosun cùng với công ty Pfizer của Mỹ hỗ trợ thử nghiệm lâm sàng, vận chuyển và sản xuất.
+Vắc-xin được tiêm bằng cách tiêm bắp. Trong vắc-xin chứa mRNA biến đổi nucleoside (modRNA) mã hóa một thể đột biến của protein gai virus SARS-CoV-2, bên ngoài là lớp hạt nano lipid. Mỗi người cần tiêm đủ hai mũi, mỗi mũi cách nhau ba tuần. Cùng với vắc-xin COVID-19 của Moderna, đây là một trong hai loại vắc-xin RNA phòng COVID-19 được triển khai trong năm 2020.
+Các cuộc thử nghiệm lâm sàng đã được bắt đầu từ tháng 4 năm 2020; tới tháng 11, vắc-xin đã bước vào giai đoạn thử nghiệm lâm sàng thứ ba, với hơn 40.000 tình nguyện viên tham gia. Một bản phân tích sơ bộ cho thấy hiệu quả ngăn ngừa nhiễm bệnh có thể lên tới trên 90% trong vòng bảy ngày sau khi tiêm mũi thứ hai. Các tác dụng phụ phổ biến nhất bao gồm đau nhẹ và vừa tại vùng tiêm, mệt mỏi và đau đầu. Các báo cáo về tác dụng phụ nghiêm trọng, như các phản ứng mẫn cảm, rất hiếm khi xảy ra, và hiện chưa phát hiện các biến chứng lâu dài nào. Việc giám sát các kết quả chính từ các cuộc thử nghiệm sẽ tiếp tục tới tháng 8 năm 2021, các kết quả phụ khác sẽ kết thúc giám sát vào tháng 1 năm 2023.
+Đây là loại vắc-xin COVID-19 đầu tiên được một cơ quan quản lý dược phẩm quốc gia cấp phép sử dụng khẩn cấp và cũng là loại vắc-xin đầu tiên được cho phép sử dụng rộng rãi. Vào tháng 12 năm 2020, Anh Quốc là nước đầu tiên cấp phép sử dụng khẩn cấp vắc-xin, kế đó là Hoa Kỳ, Liên minh châu Âu và một số quốc gia khác trên toàn cầu.
+Pfizer và BioNTech hiện đặt mục tiêu sản xuất khoảng hai tỷ liều vắc-xin trên toàn cầu vào năm 2021. Tại Trung Quốc, vắc-xin được sản xuất và phân phối bởi Fosun. Pfizer đã có các thỏa thuận đặt mua với tổng trị giá khoảng 3 tỷ đô la Mỹ dành cho các quốc gia Hoa Kỳ, Liên minh châu Âu, Anh Quốc, Nhật Bản, Canada, Peru, Singapore, và México. Việc phân phối và lưu trữ vắc-xin này đặt ra nhiều thách thức do nó cần được bảo quản ở nhiệt độ cực thấp.
+
+
+== Phát triển và kinh phí ==
+Trước khi diễn ra đại dịch COVID-19, chưa có một loại vắc-xin phòng bệnh truyền nhiễm nào được sản xuất trong chưa đến vài năm, và khi đó cũng chưa tồn tại một loại vắc-xin nào phòng ngừa nhiễm một loại virus corona ở người. Virus gây bệnh COVID-19 được phát hiện vào tháng 12 năm 2019, và BioNTech đã bắt đầu phát triển một loại vắc-xin COVID-19 từ ngày 10 tháng 1 năm 2020, khi trình tự gen của SARS-CoV-2 được Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Trung Quốc công bố thông qua GISAID, kích hoạt các biện pháp ứng phó khẩn cấp trên toàn cầu nhằm chuẩn bị một đợt bùng phát dịch và gấp rút phát triển vắc-xin phòng bệnh.
+BioNTech bắt đầu chương trình 'Project Lightspeed' nhằm phát triển một loại vắc-xin phòng virus COVID-19 mới dựa trên công nghệ mRNA đã được công ty này làm chủ trước đó. Một vài biến thể vắc-xin đã được chế tạo trong các phòng thí nghiệm của hãng tại Mainz, và trong số đó có 20 ứng cử viên được ra mắt các chuyên gia tại Viện Paul-Ehrlich ở Langen, Đức.
+
+
+=== Kinh phí ===
+BioNTech nhận được một khoản đầu tư trị giá 135 triệu đô la Mỹ từ Fosun vào tháng 3 năm 2020, đổi lấy 1,58 triệu cổ phần tại BioNTech cùng với quyền tiếp thị và phát triển kế tiếp vắc-xin BNT162b2 tại Trung Quốc, Hồng Kông, Ma Cao và Đài Loan.
+Vào tháng 6 năm 2020, BioNTech nhận được 100 triệu € (119 triệu đô la Mỹ) từ Ủy ban châu Âu và Ngân hàng Đầu tư Châu Âu. Vào tháng 9 năm 2020, chính phủ Đức cấp cho BioNTech khoản kinh phí 375 triệu € (445 triệu đô la Mỹ) dành cho chương trình phát triển vắc-xin COVID-19 của hãng.
+CEO của Pfizer Albert Bourla cho biết ông đã quyết định không nhận khoản tài trợ từ Chiến dịch Thần tốc (Operation Warp Speed) của chính phủ Hoa Kỳ "bởi tôi muốn giải phóng các nhà khoa học [khỏi] bất cứ sự quan liêu nào khi phải báo cáo và đồng thuận về cách sử dụng khoản kinh phí đó". Pfizer sau đó vẫn có được thỏa thuận với Hoa Kỳ cùng một số quốc gia khác trong việc phân phối vắc-xin.
+
+
+=== Nghiên cứu lâm sàng ===
+Các nghiên cứu Giai đoạn I / II được bắt đầu tại Đức vào ngày 23 tháng 4 năm 2020, và tại Hoa Kỳ vào ngày 4 tháng 5 năm 2020, với bốn ứng cử viên vắc-xin bước vào giai đoạn thử nghiệm lâm sàng. Giai đoạn thử nghiệm thứ II / III với mẫu ứng viên 'BNT162b2' bắt đầu từ tháng 7. Kết quả thử nghiệm Giai đoạn III cho thấy hiệu quả 95% được công bố vào ngày 18 tháng 11 năm 2020.
+Các kết quả sơ bộ từ các cuộc thử nghiệm Giai đoạn I-II đối với BNT162b2, được công bố vào tháng 10 năm 2020, đã cho thấy được độ hiệu quả và an toàn của loại vắc-xin này. Trong cùng tháng đó, Cơ quan Quản lý Dược phẩm châu Âu (EMA) bắt đầu quá trình rà soát định kỳ đối với BNT162b2.
+Tính đến tháng 11 năm 2020, quá trình thử nghiệm đối với BNT162b2 đang ở Giai đoạn III. Việc thử nghiệm được thực hiện theo phương pháp ngẫu nhiên có đối chứng bằng giả dược nhằm nghiên cứu liều lượng, lựa chọn ứng viên vắc-xin và mức độ an toàn của vắc-xin ở những người khỏe mạnh. Quá trình nghiên cứu giai đoạn đầu đã xác định được mức độ an toàn và liều lượng phù hợp cho hai ứng viên vắc-xin, sau đó kéo dài suốt giữa năm 2020 nhằm đánh giá độ hiệu quả và an toàn của BNT162b2 với số lượng lớn người tham gia, lên tới hàng chục nghìn người tại nhiều quốc gia hợp tác với Pfizer và Fosun.
+Giai đoạn III đánh giá mức độ an toàn, công hiệu, khả năng dung nạp và tính miễn dịch của BNT162b2 ở nồng độ trung bình (hai mũi tiêm cách nhau 21 ngày) ở ba nhóm tuổi: 12–15 tuổi, 16–55 tuổi và trên 55 tuổi. Để được cấp phép tại EU, EMA đã xác nhận mức độ hiệu quả tổng quan của vắc-xin là 95%. EMA chỉ rõ rằng liều thứ hai nên được tiêm ba tuần sau liều đầu tiên.
+
+Giai đoạn thử nghiệm thứ III, dự kiến tiếp tục từ 2020 tới 2022, được thiết kế nhằm đánh giá khả năng ngăn ngừa nhiễm bệnh thể nặng của BNT162b2 và thời gian hiệu lực của phản ứng miễn dịch.
+Hiện chưa rõ khả năng ngừa bệnh nặng cũng như thời gian tồn tại phản ứng miễn dịch ở trẻ em, phụ nữ mang thai hoặc những người có hệ miễn dịch kém.
+Pfizer và BioNTech đã bắt đầu thử nghiệm ngẫu nhiên có đối chứng Giai đoạn II/III đối với phụ nữ mang thai trên 18 tuổi (NCT04754594). Nghiên cứu sẽ sử dụng 30 µg BNT162b2 hoặc giả dược tiêm bắp 2 liều cách nhau 21 ngày. Giai đoạn II sẽ có 350 phụ nữ có thai được chọn ngẫu nhiên 1:1 để tiêm BNT162b2 hoặc giả dược ở tuần thứ 27 đến 34 của thai kỳ. Giai đoạn III sẽ đánh giá mức độ an toàn, khả năng dung nạp và tính miễn dịch của BNT162b2 hoặc giả dược với phụ nữ mang thai ở tuần 24 tới 34. Pfizer và BioNTech đã thông báo bắt đầu tiêm các liều đầu tiên trong cuộc thử nghiệm vào ngày 18 tháng 2 năm 2021.
+
+
+== Công nghệ vắc-xin ==
+
+Công nghệ được BioNTech sử dụng cho vắc-xin BNT162b2 dựa trên việc sử dụng mRNA biến đổi nucleoside (modRNA) mã hóa một phần protein gai tìm thấy trên bề mặt virus corona SARS-CoV-2 (COVID‑19), kích hoạt phản ứng miễn dịch chống lại virus xâm nhập.
+BNT162b2 là ứng viên có tiềm năng nhất trong số ba ứng viên còn lại với công nghệ tương tự được phát triển bởi BioNTech. Trước khi chọn BNT162b2, BioNTech và Pfizer đã tiến hành thử nghiệm Giai đoạn I đối với BNT162b1 tại Đức và Hoa Kỳ, còn Fosun cũng tiến hành thử nghiệm Giai đoạn I tại Trung Quốc. Trong các thử nghiệm Giai đoạn I, BNT162b2 cho thấy mức độ an toàn tốt hơn các ba ứng viên còn lại.
+
+
+=== Trình tự gen ===
+Chuỗi modRNA trong vắc-xin dài 4.284 nucleotide. Trong phân tử RNA này có chứa chóp (hay mũ) ở đầu 5'; vùng không được dịch mã ở đầu 5' được lấy từ trình tự của alpha globin ở người; một peptide nhận tín hiệu (bases 55–102) và hai đột biến proline (K986P và V987P, ký hiệu là "2P") khiến protein gai có cấu tạo ổn định tiền dung hợp (prefusion-stablized), làm giảm khả năng dung hợp màng, từ đó tăng biểu hiện và kích thích các kháng thể trung hòa; một đoạn gen đã tối ưu hóa codon trong protein gai của SARS-CoV-2 (bases 103–3879); sau đó là một vùng không được dịch mã ở đầu 3' (bases 3880–4174) tổ hợp từ AES và mtRNR1 nhằm tăng biểu hiện protein và độ ổn định của phân tử mRNA cùng với đuôi poly(A) có chứa 30 phần dư adenosine, một chuỗi liên kết dài 10 nucleotide, và thêm 70 adenosine dư nữa (bases 4175–4284). Chuỗi RNA này không có chứa các phần dư uridine; chúng được thay thế bởi 1-methyl-3'-pseudouridylyl. Các đột biến proline 2P trong phân tử protein gai ban đầu được phát triển để dùng cho vắc-xin MERS bởi các nhà nghiên cứu tại Trung tâm Nghiên cứu Vắc-xin thuộc Viện Dị ứng và Bệnh Truyền nhiễm Quốc gia Hoa Kỳ, Viện nghiên cứu Scripps và nhóm nghiên cứu của Jason McLellan (hiện thuộc Đại học Texas tại Austin, trước đây thuộc Đại học Dartmouth).
+
+
+=== Thành phần ===
+Ngoài phân tử mRNA, vắc-xin còn chứa các thành phần bất hoạt (tá dược) sau:
+
+ALC-0315, ((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate)
+ALC-0159, 2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide
+1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC)
+cholesterol
+natri hiđrophotphat
+kali đihiđrophotphat
+kali chloride
+natri chloride
+saccarose
+nước
+Bốn thành phần đầu tiên kể trên là các lipid. Các lipid cùng modRNA tạo thành hạt nano. ALC-0159 là một liên hợp polyethylene glycol (tức là lipid đã được PEG hóa).
+Vắc-xin được phân phối trong các lọ chứa "hỗn hợp tiêm bắp đông lạnh màu trắng đến trắng ngà, vô trùng và không chất bảo quản". Các lọ vắc-xin cần được rã đông ở nhiệt độ phòng và pha loãng bằng nước muối sinh lý trước khi tiêm.
+
+
+== Cấp phép ==
+
+
+=== Khẩn cấp ===
+Cơ quan Quản lý Dược phẩm Anh (MHRA) đã cấp "giấy phép tạm thời khẩn cấp" cho vắc-xin nhằm "giải quyết các vấn đề y tế công cộng quan trọng" vào ngày 2 tháng 12 năm 2020 theo quy định trong Đạo luật Dược năm 1968. Đây là loại vắc-xin COVID-19 đầu tiên được cấp phép sử dụng ở cấp độ quốc gia sau khi trải qua các cuộc thử nghiệm quy mô lớn, đồng thời cũng là vắc-xin mRNA đầu tiên được cấp phép sử dụng trên người. Anh trở thành nước phương Tây đầu tiên cấp phép sử dụng một loại vắc-xin COVID-19 trên phạm vi toàn quốc, mặc dù một số chuyên gia không đồng thuận với quyết định cấp phép sớm như vậy.
+Vào ngày 8 tháng 12 năm 2020, Margaret "Maggie" Keenan, 90 tuổi, đến từ Fermanagh, trở thành người đầu tiên được tiêm vắc-xin. Lọ vắc-xin cùng với ống tiêm sử dụng trong buổi tiêm đầu tiên này đã được Bảo tàng Khoa học tại London lưu lại trong bộ sưu tập vĩnh viễn của viện. Tới ngày 20 tháng 12, 521.594 công dân Anh đã được tiêm vắc-xin trong chương trình tiêm chủng quốc gia của nước này. 70% trong đó là những người từ 80 tuổi trở lên.
+Sau Anh, các quốc gia sau đây cũng đã tiến hành nhanh chóng quá trình cấp phép sử dụng vắc-xin COVID-19 của Pfizer–BioNTech: Argentina, Úc, Bahrain, Canada, Chile, Costa Rica, Ecuador, Hồng Kông, Iraq, Israel, Jordan, Kuwait, Malaysia, México, Oman, Panama, Philippines, Qatar, Ả Rập Xê Út, Singapore, Hàn Quốc, Các Tiểu vương quốc Ả Rập Thống nhất và Hoa Kỳ.
+Tổ chức Y tế Thế giới (WHO) cũng đã cấp phép sử dụng khẩn cấp cho vắc-xin.
+Tại Hoa Kỳ, việc cấp phép sử dụng khẩn cấp (EUA) là "một cơ chế nhằm tạo điều kiện phân phối và sử dụng các biện pháp điều trị y khoa, bao gồm có vắc-xin, trong các tình huống y tế công cộng khẩn cấp, như đại dịch COVID-19 hiện tại". Sau khi được cấp phép EUA, BioNTech và Pfizer phải tiếp tục thử nghiệm lâm sàng Giai đoạn III nhằm hoàn thiện dữ liệu về mức độ an toàn và hiệu quả, sau đó có thể xin cấp phép hoàn toàn vắc-xin tại Hoa Kỳ. Ban cố vấn về các Liệu pháp Miễn dịch (ACIP) thuộc Trung tâm kiểm soát và phòng ngừa dịch bệnh Hoa Kỳ (CDC) đã phê chuẩn khuyến cáo tiêm vắc-xin cho người từ 16 tuổi trở lên.
+Vào ngày 16 tháng 2 năm 2021, Cơ quan Quản lý Sản phẩm Y tế Nam Phi (SAHPRA) đã cấp phép sử dụng khẩn cấp vắc-xin COVID-19 của Pfizer.
+
+
+=== Sử dụng rộng rãi ===
+Vào ngày 19 tháng 12 năm 2020, Cơ quan Dược phẩm Thụy Sỹ (Swissmedic) đã cấp phép sử dụng rộng rãi vắc-xin COVID-19 của Pfizer–BioNTech sau hai tháng nhận được đơn đăng ký; cơ quan này cho biết vắc-xin đạt đủ các điều kiện về an toàn, hiệu quả và chất lượng. Đây là trường hợp cấp phép rộng rãi đầu tiên đối với vắc-xin COVID-19. Vào ngày 23 tháng 12, một người phụ nữ 90 tuổi ở Lucerne đã trở thành người đầu tiên được tiêm vắc-xin tại Thụy Sỹ. Sự kiện trên cũng bắt đầu chiến dịch tiêm chủng quy mô lớn tại châu Âu lục địa.
+Vào ngày 21 tháng 12 năm 2020, Ủy ban Dược phẩm Sử dụng trên người (CHMP) thuộc Cơ quan Quản lý Dược phẩm châu Âu (EMA) ra khuyến cáo cấp phép tiếp thị có điều kiện cho vắc-xin COVID-19 Pfizer–BioNTech với tên nhãn hiệu Comirnaty. Khuyến cáo trên được Ủy ban châu Âu chấp thuận vào cùng ngày.
+Vào ngày 23 tháng 2 năm 2021, Cơ quan Quản lý Y tế Brazil cấp phép cho vắc-xin COVID-19 của Pfizer–BioNTech theo quy trình cấp phép tiếp thị tiêu chuẩn của nước này. Đây là vắc-xin COVID-19 đầu tiên được đăng ký chính thức trong cả nước, thay vì chỉ được cấp phép sử dụng khẩn cấp.
+
+
+== Tác dụng bất lợi ==
+Các tác dụng bất lợi của vắc-xin COVID-19 Pfizer–BioNTech tương tự với các vắc-xin khác dành cho người lớn. Trong các cuộc thử nghiệm lâm sàng, các tác dụng phụ được ghi nhận rất phổ biến (theo tần suất xuất hiện) là: đau và sưng tại vùng tiêm, mệt mỏi, đau đầu, đau cơ, ớn lạnh, đau khớp và sốt. Phản ứng sốt hay gặp phải hơn sau liều tiêm thứ hai.
+Các phản ứng mẫn cảm nặng đã được quan sát trong khoảng 11 trên 1 triệu liều vắc-xin đã tiêm. Theo một báo cáo của CDC Hoa Kỳ, 71% các trường hợp phản vệ trên xảy ra trong vòng 15 phút sau tiêm và hầu hết (81%) là ở những người có tiền sử dị ứng hoặc có phản ứng mẫn cảm. Cơ quan Quản lý Dược phẩm Anh (MHRA) vào ngày 9 tháng 12 năm 2020 khuyến cáo những người có tiền sử phản ứng mẫn cảm "đáng kể" không nên tiêm vắc-xin COVID-19 của Pfizer–BioNTech. Vào ngày 12 tháng 12, giới chức Canada đưa ra tuyên bố tương tự, cho rằng "Cả hai trường hợp tại Anh đều có tiền sử phản ứng mẫn cảm nặng và đã được điều trị phản vệ ngay lập tức bằng adrenaline. Cả hai đều đã bình phục."
+Cơ quan Quản lý Dược phẩm châu Âu thường xuyên rà soát các dữ liệu về tính an toàn của vắc-xin. Trong một báo cáo công bố ngày 4 tháng 3 năm 2021, cơ quan này kết luận "lợi ích của Comirnaty trong phòng ngừa COVID-19 vẫn lớn hơn bất cứ rủi ro nào, và hiện cũng chưa cần có bất cứ thay đổi nào trong việc sử dụng vắc-xin này."
+
+
+== Sản xuất ==
+
+Pfizer và BioNTech sản xuất vắc-xin tại các cơ sở của mình ở Hoa Kỳ và châu Âu. Giấy phép phân phối và sản xuất tại Trung Quốc thuộc về Fosun sau khi công ty này đàm phán thành công khoản đầu tư vào BioNTech.
+Quá trình sản xuất vắc-xin được chia thành ba giai đoạn. Giai đoạn đầu tiên là quá trình tách dòng phân tử các plasmid DNA mã hóa protein gai bằng cách đưa chúng vào vi khuẩn Escherichia coli. Giai đoạn này được tiến hành tại Hoa Kỳ, cụ thể là tại một xưởng sản xuất thí nghiệm của Pfizer tại Chesterfield, Missouri (gần St. Louis). Sau bốn ngày phát triển, vi khuẩn sẽ bị tiêu diệt và phân giải. Các chất bên trong tế bào của chúng được thanh lọc trong một tuần rưỡi để thu về sản phẩm DNA mong muốn. DNA được lưu trữ đông lạnh trong các lọ nhỏ để đem đi vận chuyển. Đây là khâu rất quan trọng, tới mức Pfizer đã phải huy động máy bay và trực thăng của hãng để hỗ trợ.
+Giai đoạn thứ hai được thực hiện tại một nhà máy của Pfizer tại Andover, Massachusetts, Hoa Kỳ và tại các nhà máy của BioNTech ở Đức.  Số DNA trên được dùng làm khuôn để tổng hợp chuỗi mRNA mong muốn, với thời gian kéo dài khoảng bốn ngày. Khi đã tạo và thanh lọc được chuỗi mRNA, chúng được làm đông và đựng trong các túi nhựa có kích cỡ tương đương một chiếc túi siêu thị lớn, mỗi túi có thể chứa từ 5 đến 10 triệu liều. Các túi này được chất lên những chiếc giá đặc biệt trên xe tải để đưa tới nhà máy tiếp theo.
+Giai đoạn ba được thực hiện tại các nhà máy của Pfizer ở Portage, Michigan (gần Kalamazoo), Hoa Kỳ và ở Puurs, Bỉ. Đây là giai đoạn kết hợp mRNA với các hạt nano lipid, sau đó đóng gói và làm đông lạnh các lọ vắc-xin. Avanti Polar Lipids, một công ty con của Croda International, là nhà cung cấp các lipid cần thiết. Tính đến tháng 11 năm 2020, nút thắt lớn trong giai đoạn sản xuất vắc-xin nằm tại giai đoạn này. Khoảng thời gian từ lúc kết hợp mRNA và các lipid tới lúc hoàn thành các lọ vắc-xin chỉ mất bốn ngày, nhưng mỗi lọ vắc-xin phải dành vài tuần trong các tủ chứa đông lạnh để trải qua 40 bài kiểm tra chất lượng.
+Nhà máy Pfizer tại Puurs chịu trách nhiệm sản xuất tất cả số vắc-xin dành cho các thị trường ngoài Hoa Kỳ. Do đó, tất cả các liều vắc-xin phân phối cho các nước châu Mỹ bên ngoài Hoa Kỳ phải trải qua ít nhất hai chuyến bay xuyên Đại Tây Dương (một chuyến để đưa DNA tới châu Âu và một chuyến để vận chuyển về các lọ vắc-xin đã hoàn thành).
+Vào tháng 2 năm 2021, Pfizer tiết lộ toàn bộ quá trình trên ban đầu mất trung bình tới 110 ngày, nhưng công ty đã giảm con số này xuống còn 60 ngày. Hơn phân nửa thời gian trong quá trình sản xuất vắc-xin là các bài kiểm tra chất lượng rất kỹ lưỡng ở mỗi giai đoạn. Pfizer cũng cho biết quá trình sản xuất yêu cầu 280 nguyên liệu và phụ thuộc vào 25 nhà cung cấp ở 19 quốc gia.
+Các nhà sản xuất vắc-xin thường mất vài năm để tối ưu hóa quá trình sản xuất một loại vắc-xin trước khi tiến hành sản xuất đại trà. Do tính cấp thiết trong đại dịch COVID-19, Pfizer và BioNTech phải ngay lập tức bắt đầu sản xuất bằng quy trình chế tạo vắc-xin ban đầu trong phòng thí nghiệm, sau đó mới có thể tìm cách đẩy nhanh tốc độ và mở rộng quy mô sản xuất.
+Vào tháng 9 năm 2020, BioNTech thông báo đã ký thỏa thuận mua một cơ sở sản xuất của Novartis tại Marburg, Đức để mở rộng quy mô sản xuất vắc-xin. Sau khi đi vào hoạt động, cơ sở này sẽ sản xuất lên tới 750 triệu liều mỗi năm, hay hơn 60 triệu liều mỗi tháng. Đây sẽ là cơ sở thứ ba của BioNTech tại châu Âu tham gia sản xuất vắc-xin, trong khi Pfizer đang vận hành ít nhất bốn khu sản xuất tại Hoa Kỳ và châu Âu.
+
+
+== Vận chuyển ==
+Mỗi lọ vắc-xin có thể chứa 2,25 ml vắc-xin sau khi pha loãng (0,45 ml vắc-xin đông lạnh cộng với 1,8ml chất pha loãng). Theo nội dung trên nhãn lọ vắc-xin, mỗi lọ chứa năm liều, mỗi liều 0.3 ml doses, tuy nhiên số vắc-xin thừa có thể được dùng cho một, thậm chí là hai mũi tiêm nữa. Nhân viên y tế có thể dùng ống tiêm khoảng chết thấp để lấy thêm các liều tiêm, đồng thời nên vứt bỏ các lọ có lượng vắc-xin thừa không đủ một liều. Cơ quan Y tế Ý đã chính thức cho phép dùng các liều vắc-xin còn thừa trong một lọ. Tính đến ngày 8 tháng 1 năm 2021, mỗi lọ vắc-xin có chứa đủ sáu liều. Tại Hoa Kỳ, mỗi lọ sẽ được tính là năm liều khi dùng bơm tiêm thường và sáu lọ khi dùng bơm tiêm khoảng chết thấp.Vắc-xin cần được bảo quản ở nhiệt độ trong khoảng −80 đến −60 °C (−112 đến −76 °F); năm ngày trước khi tiêm có thể bảo quản ở nhiệt độ từ 2 đến 8 °C (36 đến 46 °F); trước khi tiêm hai tiếng có thể giữ ở mức 25 °C (77 °F) hoặc 30 °C (86 °F). Vào tháng 2 năm 2021, Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) cập nhật giấy phép sử dụng khẩn cấp (EUA), cho phép các lọ vắc-xin đông lạnh chưa pha loãng được vận chuyển và lưu trữ ở nhiệt độ từ −25 đến −15 °C (−13 đến 5 °F) trong khoảng thời gian lên tới hai tuần trước khi tiêm.
+Kể cả các nước thu nhập cao cũng chỉ có công suất chuỗi cung ứng lạnh giới hạn dành cho việc vận chuyển và lưu trữ vắc-xin ở nhiệt độ cực lạnh, trong khi vắc-xin này cần được tiêm hai liều cách nhau ba tuần, và sẽ bị hỏng trong vòng năm ngày sau rã đông. Vắc-xin cần được bảo quản và vận chuyển ở nhiệt độ cực lạnh từ −80 đến −60 °C (−112 đến −76 °F), thấp hơn rất nhiều so với loại vắc-xin tương đương của Moderna. Giám đốc công ty Bio Farma của Indonesia Honesti Basyir cho biết đất nước đông dân thứ tư thế giới không thể mua vắc-xin Pfizer do chuỗi cung ứng lạnh tại đây không đủ khả năng lưu trữ và vận chuyển. Tương tự như Indonesia, mạng lưới chuỗi cung ứng lạnh hiện có tại Ấn Độ chỉ có thể xử lý ở khoảng nhiệt độ từ 2 đến 8 °C (36 đến 46 °F), quá lớn so với yêu cầu.
+
+
+== Đặt hàng ==
+Pfizer trong một thông cáo báo chí ngày 9 tháng 11 cho biết có thể phân phối 50 triệu liều trước cuối năm 2020, và khoảng 1,3 tỷ liều trên toàn cầu tới năm2021. Vào tháng 2 năm 2021, BioNTech thông báo hãng sẽ tăng dây chuyền sản xuất lên hơn 50% để cho ra hai tỷ liều vắc-xin trong năm 2021.
+Vào tháng 7 năm 2020, chương trình phát triển vắc-xin Chiến dịch Thần tốc ký thỏa thuận đặt mua trị giá 1,95 triệu đô la Mỹ với Pfizer nhằm cung cấp 100 triệu liều vắc-xin COVID-19 cho Hoa Kỳ nếu chứng minh được tính an toàn và hiệu quả. Tới giữa tháng 12 năm 2020, Pfizer đã có các thỏa thuận cung cấp 300 triệu liều vắc-xin cho Liêm minh châu Âu, 120 triệu liều cho Nhật Bản, 40 triệu liều (10 triệu liều trước 2021) cho Anh Quốc, 20 triệu liều cho Canada, một lượng chưa rõ vắc-xin cho Singapore, và 34,4 triệu liều cho México. Fosun cũng đã có các đơn đặt hàng 10 triệu liều vắc-xin cho Hồng Kông và Ma Cao. Chính quyền Hồng Kông cho biết sẽ nhận lô đầu tiên với 1 triệu liều vắc-xin trước quý I năm 2021.
+BioNTech và Fosun đồng ý cung ứng cho Trung Quốc đại lục một lô 100 triệu liều vắc-xin trong năm 2021, tùy theo sự cho phép của cơ quản quản lý. Nguồn cung ban đầu sẽ được vận chuyển từ các cơ sở sản xuất của BioNTech tại Đức.
+Vào tháng 1 năm 2021, Pfizer và BioNTech ngỏ ý muốn cung cấp 50 triệu liều vắc-xin COVID-19 cho nhân viên y tế khắp châu Phi từ tháng 3 đến hết năm 2021, với giá ưu đãi 10 đô la Mỹ một liều. Sau đó Nam Phi đã chốt 20 triệu liều dự kiến được vận chuyển tới sau tháng 3.
+
+
+== Tên gọi ==
+BNT162b2 là tên mã trong quá trình phát triển và thử nghiệm, tozinameran là tên quốc tế không độc quyền (pINN) được đề xuất, và Comirnaty là tên nhãn hiệu. Theo BioNTech, cái tên Comirnaty "là sự kết hợp của các thuật ngữ COVID‑19, mRNA, community (cộng đồng), và immunity (miễn dịch)."
+Ngoài ra vắc-xin cũng có tên chung là "COVID-19 mRNA vaccine (nucleoside-modified)" (Vắc-xin mRNA COVID‑19 (biến đổi nucleoside)) và có thể được phân phối với tên trên bao bì là "Pfizer–BioNTech COVID‑19 Vaccine" (Vắc-xin COVID-19 của Pfizer–BioNTech).
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+World Health Organization (2021). Background document on the mRNA vaccine BNT162b2 (Pfizer-BioNTech) against COVID-19: background document to the WHO interim recommendations for use of the Pfizer–BioNTech COVID-19 vaccine, BNT162b2, under emergency use listing, ngày 14 tháng 1 năm 2021 (Bản báo cáo). Tổ chức Y tế Thế giới (WHO). hdl:10665/339218. WHO/2019-nCoV/vaccines/SAGE_recommendation/BNT162b2/background/2021.1.
+
+
+== Liên kết ngoài ==
+
+“Global Information About Pfizer–BioNTech COVID‑19 Vaccine (also known as BNT162b2)”. Pfizer.
+“Tozinameran”. Drug Information Portal. U.S. National Library of Medicine.
+Comirnaty assessment report European Medicines Agency Committee for Medicinal Products for Human Use
+A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of RNA Vaccine Candidates Against COVID‑19 in Healthy Individuals Lưu trữ 2020-09-28 tại Wayback Machine Pfizer clinical protocol
+“How the Pfizer-BioNTech Covid-19 Vaccine Works”. The New York Times.
+“Pfizer-BioNTech COVID-19 Vaccine”. Centers for Disease Control and Prevention (CDC).

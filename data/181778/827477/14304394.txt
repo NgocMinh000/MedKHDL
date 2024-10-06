@@ -1,0 +1,78 @@
+Synap còn được gọi là điểm tiếp hợp thần kinh là cấu trúc tiếp xúc giữa các neuron với nhau hoặc giữa  neuron với cơ quan phản ứng.
+Khái niệm này dịch theo phiên âm Việt hoá từ tiếng Anh synapse (phiên âm IPA: /sɪnæps/) và tiếng Pháp (cũng viết: synapse, phiên âm: xy-nap-xơ). Nói nôm na, synap là điểm nối giữa các sợi thần kinh giống như điểm nối giữa các đường dây điện, qua đó mà luồng "điện thần kinh" có thể chuyển giao từ trung ương thần kinh đến các cơ quan phản ứng, hoặc từ neuron này sang neuron khác.
+
+
+== Lược sử thuật ngữ ==
+Từ lâu, các bác sĩ cũng như những nhà nghiên cứu sinh lý học người đã cho rằng dây thần kinh của người không thể rất dài mà lòng vòng trong cơ thể được. Trước đó lâu hơn nữa, các nghiên cứu (trên giải phẫu ếch chẳng hạn) cũng đã chứng tỏ mỗi sợi thần kinh có chỗ xuất phát và điểm đến. Bởi vậy các sợi thần kinh phải có chỗ nối nào đấy.
+Khoảng gần cuối thế kỷ XIX, nhà sinh lý thần kinh học Tây Ban Nha là Santiago Ramón y Cajal giả thuyết rằng các tế bào thần kinh (tức neuron) không thể liên tục trên khắp cơ thể nhưng vẫn kết nối và giao tiếp với nhau. Sau đó, người ta xác nhận có kết nối và giao tiếp như thế, gọi là "synapse". Thuật ngữ này bắt nguồn từ tiếng Hy Lạp là συνάψις (synapis) có nghĩa là "kết hợp" và ἅπτειν là "buộc" - được giới thiệu vào năm 1897 bởi nhà thần kinh học người Anh Charles Sherrington trong Sách giáo khoa Sinh lý học của Michael Foster, xuất bản ở London, nhưng thực sự được đề xuất bởi học giả người Anh Arthur Woollgar Verrall.
+
+
+== Vai trò ==
+Các "mối nối" thần kinh này là vô cùng quan trọng trong hoạt động của cơ thể động vật.
+
+Trước hết synap cho phép truyền tín hiệu là xung thần kinh đến các tế bào  khác rất xa nó trong cơ thể, mà không bắt buộc sợi thần kinh phải thật dài.
+Sau đó, synap cho phép truyền tín hiệu là xung thần kinh đến thậm chí từng các tế bào đích riêng biệt để gây ra phản ứng chính xác.
+Tương đối mới đây, các nhà nghiên cứu còn khẳng định synap đóng một vai trò trong sự hình thành trí nhớ của con người.
+Ngoài ra, các synap còn đóng vai trò thiết yếu trong quá trình xử lý thông tin, chứ không như một "mối nối" hay một "công-tắc" đơn giản.
+
+
+== Các loại ==
+Synap chỉ có ở động vật bậc cao. Theo cách phân loại ở sinh học phổ thông hiện nay, có hai loại tuỳ cơ sở phân loại.
+Nếu dựa trên cơ sở kết nối giữa các tế bào, thì gồm:
+
+Synap thần kinh – thần kinh, nghĩa là kết nối giữa neuron này với neuron khác, nói nôm na là như nối giữa các đoạn dây điện ở nhà với nhau.
+Synap thần kinh – cơ, nghĩa là kết nối giữa neuron với cơ, truyền xung thần kinh làm cơ phản ứng.
+Nếu dựa trên bản chất xung thần kinh, thì gồm:
+
+Synap hoá học, trong đó xung truyền qua được nhờ chất (hoá học) trung gian thần kinh.
+Synap điện-hoá, trong đó các điện tử "nhảy" thẳng qua khe synap sang bên kia.
+Ở các tài liệu chuyên ngành, người ta thường phân loại theo loại tế bào nhận xung.
+
+Synap giữa tận cùng sợi trục neuron với thành mạch máu (axosecretory).
+Synap giữa tận cùng sợi trục neuron này đến khoảng giữa sợi trục của neuron khác (axoaxonic).
+Synap giữa các synap ở sợi trục này với sợi trục khác (axodendritic).
+Synap giữa tận cùng sợi trục neuron với xoang gian bào (axo extracellular)
+Synap giữa các tận cùng sợi trục neuron với nhau (axodendritic).
+
+
+== Cơ chế hoạt động ==
+
+
+=== Cơ chế chung ===
+Cơ chế hoạt động của synap như thế nào để xung thần kinh có thể lan truyền được trong toàn bộ cơ thể, ở tất cả các loại khác nhau là rất phức tạp và chưa được khám phá hết. Tuy nhiên, vào khoảng gần cuối thế kỷ XX, các nhà khoa học đã nắm vững cơ chế của synap hoá học, trong đó xung thần kinh ở dạng điện động được truyền qua synap nhờ chất dẫn truyền thần kinh (neurotransmitter) mà Sinh học phổ thông còn gọi là chất trung gian thần kinh.
+
+Loại synap phổ biến nhất ở động vật là synap hóa học (chemical synapse), trong đó thông tin của xung điện động được truyền nhờ các chất hóa học gọi là chất trung gian thần kinh, phổ biến nhất là acetylcholine.
+Loại synap sử dụng acetylcholine có cấu trúc như mô tả ở hình 1.
+
+Phần tận cùng của nhánh sợi trục phình ra gọi là chùy synap.
+Phần màng của chùy tiếp xúc với neuron sau synap gọi là màng trước synap.
+Phần màng của sợi nhánh của neuron sau synap ở vị trí này gọi là màng sau synap, trên đó có các thụ thể tiếp nhận chất trung gian hóa học này.
+Giữa hai màng này có khe hở gọi là khe synap.
+Trong chùy có nhiều bóng synap cấu trúc hình cầu bên trong chứa acetylcholine và các ti thể cung cấp năng lượng cho quá trình chuyển hóa vật chất trong neuron này.
+Khi xung thần kinh truyền đến chùy synap, thì các ion Ca++ từ ngoài (dịch ngoại bào) tràn vào trong chùy làm hàng loạt các bóng synap gắn vào màng trước rồi lập tức vỡ ra, giải phóng acetylcholine vào khe synap. Các phân tử acetylcholine lập tức gắn vào các thụ thể tương ứng ở màng sau synap (thuộc neuron khác) nhanh chóng làm thay đổi tính thấm màng của neuron này, từ đó gây xuất hiện điện động ở neuron kế tiếp và cứ thế lan truyền.
+Sau khi điện động hình thành và lan truyền ở màng sau synap, thì enzyme acetylcholinesterase ở màng sau sẽ phân giải acetylcholine thành acetat và choline. Hai chất này quay trở lại chùy synap để tái tổng hợp thành acetylcholine được chứa trong các bóng.
+Sự truyền tin như vậy chỉ theo một chiều, vì chỉ ở chùy synap mới có bóng chứa acetylcholine, đồng thời chỉ màng sau synap mới có thụ thể tương ứng tiếp nhận chất trung gian này.
+
+­Ngoài acetylcholine, cơ thể động vật còn có nhiều hóa chất giữ vai trò trung gian thần kinh như: noradrenaline, dopamin, serotonin... (xem thêm ở mục "Amin đơn" của trang Sinh học bệnh trầm cảm). Mỗi synap chỉ chứa một loại chất và có cấu tạo và cơ chế hoạt động tương tự như trên (hình 3).
+Với phương tiện nghiên cứu hiện đại và công nghệ  ngày nay, nhà khoa học có thể ước tính chính xác số lượng phân tử chất dẫn truyền phát sinh ở mỗi synap và nó không quá nhiều trong mỗi lần truyền. Tuy nhiên, tổng số các tín hiệu ở nhiều synap như nhau được tích tụ lại, rồi tập trung đến mức độ nhất định - gọi là ngưỡng - thì sẽ đáng kể và tạo ra xung điện động tiếp có thể "chạy" với tốc độ 100m/s.
+
+
+=== Vai trò trong trí nhớ ===
+
+Do sự "tích tụ" nói trên, synap đóng vai trò nhất định trong sự hình thành trí nhớ. Khi các chất dẫn truyền kích hoạt các thụ thể tương thích ở khe synap, thì kết nối giữa hai tế bào thần kinh được tăng cường; và khi nhiều tế bào thần kinh cùng hoạt động thì dẫn đến quá trình gọi là điện thế hóa dài hạn (long-term potentiation, viết tắt: LTP). Nghĩa là neuron sau synap có thể điều chỉnh cả chức năng và số lượng thụ thể của nó. Những thay đổi tín hiệu sau synap này thường liên quan đến thụ thể  N-methyl-d-aspartic acid receptor (NMDAR) tác động tới LTP và có thể ảnh hưởng tới trầm cảm do dòng Ca++ vào.
+
+
+== Xem thêm ==
+
+Synap hóa học
+Synap điện
+Bóng synap
+Bệnh do rối loạn synap
+
+
+== Tham khảo ==
+Synap trong hệ thần kinh trung ương (của Sanford L. Palay) ở https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2229686/
+Cấu trúc và hoạt động của synap ở https://www.neuroscientificallychallenged.com/glossary/synapse
+
+
+== Nguồn trích dẫn ==

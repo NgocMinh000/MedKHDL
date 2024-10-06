@@ -1,0 +1,9 @@
+Trong trí tuệ nhân tạo, GOFAI (viết tắt tiếng Anh: "Good Old-Fashioned Artificial Intelligence", nghĩa là trí tuệ nhân tạo tốt và cổ điển) mô tả cách tiếp cận đầu tiên với trí tuệ nhân tạo dựa trên lô-gic, tìm kiếm và giải quyết bài toán. Trong robot học, thuật ngữ này được mở rộng thành GOFAIR (thêm "R" cho "Robotics" - robot học).
+GOFAI là hệ hình chủ đạo trong nghiên cứu trí tuệ nhân tạo (TTNT) từ giữa những năm 50 đến cuối những năm 80 của thế kỉ trước. Sau đó, các phương pháp hạ ký hiệu (sub-symbolic) mới hơn được phát triển. Thuật ngữ "GOFAI" được tạo ra bởi John Haugeland trong cuốn sách năm 1985 Artificial Intelligence: The Very Idea, khám phá những ẩn ý triết học của nghiên cứu TNTT.
+Cách tiếp cận này dựa trên giả thuyết rằng nhiều mặt của trí thông minh có thể đạt được bằng các thao tác ký hiệu, một giả thuyết được gọi là "giả thuyết hệ thống ký hiệu vật lý" của Allen Newell và Hebrbertt A. Simon vào giữa những năm 1960. Đầu những năm 1980, nhiều nhà nghiên cứu bắt đầu nghi ngờ chuyện thao tác ký hiệu ở tầng cao có thể giải thích tất cả các hành vi thông minh. Đối thủ của cách tiếp cận ký hiệu bao gồm những nhà robot học như Rodney Brooks, những người hướng đến việc tạo ra robot tự hành không cần biểu diễn ký hiệu (hoặc biểu diễn một cách tối thiểu) và các nhà nghiên cứu trí thông minh tính toán, những người dùng các kỹ thuật như mạng nơ-ron và tối ưu hóa để giải các bài toán trong học máy và công nghệ điều khiển. Ngày nay, cả hai cách tiếp cận đều được sử dụng phổ biến, thường cho các bài toán khác nhau.
+GOFAI hướng đến việc tạo ra trí thông minh tổng quát, giống con người trong máy móc trong khi hầu hết các nghiên cứu hiện tại đều nhắm vào một bài toán con cụ thể. Nghiên cứu về trí thông minh tổng quát ngày nay được đặt trong lĩnh vực con của trí tuệ nhân tạo tổng quát.
+
+
+== Tham khảo ==
+
+Haugeland, John (1985), Artificial Intelligence: The Very Idea, Cambridge, Mass: MIT Press, ISBN 0-262-08153-9

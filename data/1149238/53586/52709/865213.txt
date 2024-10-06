@@ -1,0 +1,30 @@
+Khai thác văn bản (hay còn gọi là khai phá văn bản, tiếng Anh: text mining hoặc text data mining) là một quá trình xử lý và trích xuất thông tin nằm trong văn bản, quá trình này là một phần của việc phân tích văn bản trong khai thác dữ liệu.  Thông tin được thể hiện dưới dạng các mẫu, xu hướng, thứ tự sắp xếp được trích xuất thông qua các luật hoặc thông qua quá trình học dựa trên các mẫu thống kê.
+Khai thác văn bản bao gồm các bước cơ bản như: tiền xử lý, học mô hình, phán đoán, tổng hợp phân tích và trình bày kết quả. Tiền xử lý có thể gồm việc phân tách đoạn văn bản thành các đoạn nhỏ hơn, làm giàu văn bản bằng các tri thức bên ngoài, hoặc loại bỏ những thông tin nhiễu trong văn bản. Quá trình học là quá trình tìm ra các mẫu trong một tập các văn bản đã được tiền xử lý hoặc chưa qua tiền xử lý, kết quả quá trình học là một mô hình biểu diễn các mẫu được tìm thấy. Quá trình phán đoán là quá trình áp dùng mô hình vừa học được trên các văn bản mới, văn bản mới sẽ được gán nhãn thêm thông tin. Cuối cùng là quá trình tổng hợp và trình bày kết quả. Khai phá văn chia thành các vấn đề nhỏ hơn bao gồm phân loại tài liệu (text categorization, text classification), gom cụm văn bản (text clustering), trích xuất thực thể (concept/entity extraction), phân tích tình cảm (sentiment analysis), tóm tắt tài liệu (document summarization), và trích xuất quan hệ giữa các thực thể (entity relation modeling).
+
+
+== Ứng dụng ==
+Bảo mật thông tin
+Truyền thông đa phương tiện
+Mạng xã hội
+Marketing
+Phân tích tình cảm (sentiment analysis)
+
+
+== Xem thêm ==
+Khai phá dữ liệu
+Phân tích văn bản
+
+
+== Phần mềm ==
+General Architecture for Text Engineering (GATE) – công cụ xử lý ngôn ngữ tự nhiên và khai phá văn bản được phát triển bởi trường đại học Sheffield, nước Anh.
+OpenNLP - bộ mã nguồn mở xử lý ngôn ngữ tự nhiên nổi tiếng nhất
+Natural Language Toolkit (NLTK) – bộ thư viện viết bằng ngôn ngữ Python về xử lý ngôn ngữ tự nhiên.
+Unstructured Information Management Architecture (UIMA) - kiến trúc phần mềm cho việc phát triển các ứng dụng phân tích dữ liệu phi cấu trúc.
+
+
+== Tham khảo ==
+
+BingLiu, Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data (Data-Centric Systems and Applications), Second Edition, tháng 7 năm 2011, ISBN 3642194591.
+Manu Konchady, Text Mining Application Programming (Programming Series), May 2006, ISBN 1584504609
+Matthew A. Russell,  Mining the Social Web: Analyzing Data from Facebook, Twitter, LinkedIn, and Other Social Media Sites, tháng 2 năm 2011, ISBN 1449388345.
+Ian H. Witten, Eibe Frank, and Mark A. Hall, Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems), tháng 1 năm 2011.

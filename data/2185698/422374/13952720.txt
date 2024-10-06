@@ -1,0 +1,84 @@
+Virus dịch tả lợn châu Phi (African swine fever virus, viết tắt: ASFV) là tác nhân gây bệnh sốt lợn ở châu Phi (ASF). Virus gây sốt xuất huyết với tỷ lệ tử vong cao ở lợn, nhưng lây nhiễm liên tục vào vật chủ tự nhiên, Lợn rừng châu Phi, lợn lông rậm và ve mềm của chi Ornithodoros. Loài ve có khả năng hoạt động như một vật chủ trung gian không có dấu hiệu bệnh.
+ASFV là một virus DNA sợi kép lớn, nhân lên trong tế bào chất của các tế bào bị nhiễm bệnh.
+ASFV là virus duy nhất được biết đến với bộ gen DNA sợi kép được truyền bởi động vật chân đốt. Virus gây bệnh làm chết các con lợn nhà. Một số chủng phân lập có thể gây ra cái chết của động vật nhanh, trong vòng một tuần sau khi bị nhiễm bệnh. Trong tất cả các loài khác, virus gây ra không có bệnh rõ ràng. ASFV là loài đặc hữu của châu Phi cận Sahara và tồn tại trong tự nhiên thông qua một chu kỳ lây nhiễm từ ve và lợn rừng, lợn lông rậm và warthog. Bệnh này được mô tả lần đầu tiên sau khi những người định cư châu Âu đưa lợn vào khu vực lưu hành bệnh ASFV và đây là một ví dụ về bệnh truyền nhiễm mới nổi.
+
+
+== Virus học ==
+
+ASFV là một loại virus DNA sợi kép, lớn, có bộ gen tuyến tính chứa ít nhất 150 gen. Số lượng gen khác nhau một chút giữa các dòng virus khác nhau. ASFV có những điểm tương đồng với các virus DNA lớn khác, ví dụ như poxvirus, iridovirus và mimivirus. Tương tự như các cơn sốt xuất huyết do virus khác, các tế bào đích chính để nhân lên là các tế bào đơn dòng, đại thực bào. Sự xâm nhập của virus vào tế bào chủ là qua trung gian thụ thể, nhưng cơ chế chính xác của endocytosis hiện chưa rõ ràng.
+Virus mã hóa các enzyme cần thiết để sao chép và sao chép bộ gen của nó, bao gồm các yếu tố của hệ thống sửa chữa cắt bỏ base, protein cấu trúc và nhiều protein mà không cần thiết cho sự sao chép trong tế bào, nhưng thay vào đó có vai trò trong sự tồn tại và truyền virus của vật chủ. Sự nhân lên của virus diễn ra trong các khu vực hạt nhân. Đó là một quá trình được phối hợp chặt chẽ với ít nhất bốn giai đoạn phiên mã ngay lập tức - trước sớm, sớm, trung gian và muộn. Phần lớn sự sao chép và lắp ráp xảy ra ở các khu vực hạt nhân rời rạc của tế bào được gọi là các nhà máy virus và cuối cùng là virion tiền sinh được vận chuyển đến màng plasma dọc theo các vi ống nơi chúng nhú ra hoặc bị đẩy ra dọc theo các tế bào actin để lây nhiễm vào các tế bào mới. Khi virus tiến triển trong suốt vòng đời của nó, hầu hết nếu không phải tất cả các bào quan của tế bào chủ đều bị biến đổi, thích nghi hoặc, trong một số trường hợp, bị phá hủy.
+
+
+== Dấu hiệu và triệu chứng ==
+
+Ở dạng cấp tính của bệnh gây ra bởi các chủng virus có độc lực cao, lợn có thể bị sốt cao, nhưng không có triệu chứng đáng chú ý nào khác trong vài ngày đầu. Sau đó lợn dần mất cảm giác ngon miệng và trở nên chán nản. Ở lợn da trắng, tứ chi chuyển sang màu xanh tím và xuất huyết trở nên rõ ràng trên tai và bụng. Các nhóm lợn bị nhiễm bệnh nằm co ro cùng nhau run rẩy, thở bất thường và đôi khi ho. Nếu bị buộc phải đứng, chúng có vẻ đứng không được ổn định. Trong vài ngày bị nhiễm trùng, lợn rơi vào trạng thái hôn mê và sau đó chết. Ở lợn nái mang thai, sảy thai tự nhiên xảy ra. Nếu bị nhiễm trùng nhẹ, lợn bị nhiễm bệnh sẽ giảm cân, gầy và phát triển các dấu hiệu viêm phổi, loét da và sưng khớp.
+
+
+=== Chẩn đoán ===
+Các triệu chứng lâm sàng của nhiễm ASFV rất giống với sốt lợn cổ điển, và hai bệnh thường phải được phân biệt bằng chẩn đoán trong phòng thí nghiệm. Chẩn đoán này thường được thực hiện bằng ELISA hoặc phân lập virus từ máu, hạch bạch huyết, lá lách hoặc huyết thanh của lợn bị nhiễm bệnh.
+
+
+== Lịch sử ==
+
+Vụ dịch đầu tiên được ghi nhận lại là đã xảy ra vào năm 1907 sau khi ASF được mô tả lần đầu tiên vào năm 1921 tại Kenya. Bệnh vẫn được giới hạn ở châu Phi cho đến năm 1957 khi nó được báo cáo ở Lisbon, Bồ Đào Nha. Một vụ dịch nữa xảy ra ở Bồ Đào Nha vào năm 1960. Sau những vụ dịch ban đầu này, căn bệnh đã được hình thành ở bán đảo Iberia và những đợt bùng phát lẻ tẻ xảy ra ở Pháp, Bỉ và các nước châu Âu khác trong những năm 1980. Cả Tây Ban Nha và Bồ Đào Nha đã tìm cách tiêu diệt căn bệnh này vào giữa những năm 1990 thông qua chính sách giết mổ.
+
+
+=== Cuba ===
+Năm 1971, một vụ dịch này đã xảy ra ở Cuba, dẫn đến việc giết 500.000 con lợn để ngăn chặn dịch bệnh trên toàn quốc. Vụ dịch được coi là "sự kiện đáng báo động nhất" năm 1971 của Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc.
+
+
+==== Thuyết âm mưu ====
+Sáu năm sau sự kiện, tờ Newsday, trích dẫn các nguồn không thể kiểm soát được, tuyên bố rằng những kẻ phá hoại chống Castro, với ít nhất là sự ủng hộ ngầm của các quan chức Cơ quan Tình báo Trung ương Hoa Kỳ, được cho là đã đưa virus dịch tả lợn châu Phi vào Cuba sáu tuần trước khi dịch bùng phát vào năm 1971, để gây bất ổn nền kinh tế Cuba và khuyến khích phản đối trong nước đối với Fidel Castro. Virus này được cho là đã được chuyển đến các hợp tác xã từ một căn cứ quân sự ở Khu vực Kênh đào Panama bởi một nguồn tin tình báo Mỹ giấu tên.
+
+
+=== Vùng Caribe ===
+ASFV vượt Đại Tây Dương, và các vụ dịch đã được báo cáo ở một số đảo Caribe, bao gồm cả Hispaniola (Cộng hòa Dominica). Các vụ dịch lớn của ASF ở Châu Phi thường được báo cáo cho Tổ chức Thú y Thế giới (trước đây gọi là L'office International des épizooties).
+
+
+=== Đông và Bắc Âu ===
+
+ASFV lần đầu tiên xảy ra ở châu Âu vào năm 1957, khi nó du nhập ở Bồ Đào Nha. Từ đó, nó lan sang Tây Ban Nha và Pháp. Mặc dù các nỗ lực phối hợp để tiêu diệt ASFV đã được thực hiện, chẳng hạn như giết động vật nhiễm bệnh số lượng lớn và xây dựng các cơ sở nông nghiệp hiện đại, căn bệnh này chỉ bị loại bỏ trong những năm 1990.
+Bên ngoài châu Phi, một vụ dịch xảy ra vào đầu năm 2007 tại Gruzia và sau đó lan sang Armenia, Azerbaijan, Iran, Nga và Belarus, gây lo ngại rằng ASFV có thể lan rộng hơn về mặt địa lý và có tác động kinh tế tiêu cực đến ngành chăn nuôi lợn.
+Vào tháng 8 năm 2012, dịch tả lợn ở châu Phi đã được báo cáo ở Ukraina.
+Vào tháng 6 năm 2013, một vụ dịch bùng phát đã được báo cáo ở Belarus.
+Sốt lợn châu Phi đã trở thành 'bệnh địa phương' ở Liên bang Nga kể từ khi lan sang Bắc Kavkaz vào tháng 11 năm 2007, rất có thể thông qua việc di chuyển của lợn rừng bị nhiễm bệnh từ Gruzia đến Chechnya, báo cáo năm 2013 của Tổ chức Lương thực và Nông nghiệp, một tổ chức thuộc Liên Hợp Quốc cho hay. Báo cáo cho thấy bệnh đã lây lan từ phía bắc từ vùng Kavkaz đến các vùng khác của Nga, nơi sản xuất lợn tập trung nhiều hơn ở Vùng Liên bang Trung tâm (nơi sinh sống của 28,8% lợn Nga) và Vùng Liên bang Volga (với 25,4% gia súc toàn quốc) và phía tây bắc về phía Ukraina, Belarus, Ba Lan và các quốc gia Baltic. Tại Nga, báo cáo cho biết thêm, căn bệnh này 'đang trở thành địa phương ở tỉnh Tver (khoảng 106 km về phía bắc Moskva và khoảng 500 km về phía đông của các nước láng giềng duyên hải của Nga trên biển Baltic. Trong số các trung gian truyền bệnh của sự lây lan ở Nga của virut dịch tả lợn châu Phi là 'phân phối' các 'sản phẩm lợn bị nhiễm bệnh' bên ngoài các khu vực bị ảnh hưởng (cách ly và buôn bán), trên một quãng đường lớn (hàng ngàn km) trong nước.
+'Những người mua sỉ, đặc biệt là hệ thống cung cấp thực phẩm quân sự, đã nhiều lần liên can tới phân phối bất hợp pháp thịt bị nhiễm virus', là những vật chủ trung gian của sự lây lan của virus, báo cáo của Tổ chức Lương thực và Nông nghiệp cho biết, và chứng của điều này là 'sự bùng phát lặp lại trong tỉnh Leningrad'. Báo cáo cảnh báo rằng 'các quốc gia tiếp giáp với Liên bang Nga, đặc biệt là Ukraina, Moldova, Kazakhstan và Latvia, dễ bị nhiễm dịch bệnh tả lợn ở châu Phi, chủ yếu là do an toàn sinh học của ngành chăn nuôi lợn của họ hầu như là thấp. Ngăn chặn sự lây lan của [dịch tả lợn châu Phi] sang Ukraina đặc biệt quan trọng đối với toàn bộ ngành chăn nuôi lợn ở châu Âu. Trước những diễn biến đáng lo ngại ở Liên bang Nga, các nước châu Âu phải cảnh giác. Họ phải sẵn sàng ngăn chặn và phản ứng hiệu quả với những bùng phát dịch [tả lợn châu Phi] vào lãnh thổ của họ trong nhiều năm tới '... Để ngăn chặn sự lây lan của virus, 'kịch bản hiện tại ở Liên bang Nga cho rằng [phòng ngừa] cần được đặc biệt nhấn mạnh ở cấp độ sân sau thường không chính thức và không chỉ liên quan đến những người nuôi lợn, mà tất cả các tác nhân trong toàn bộ chuỗi giá trị, người trung gian, lò mổ, v.v... Họ cần lưu ý về cách phòng ngừa và nhận biết bệnh và phải hiểu tầm quan trọng của việc báo cáo dịch bệnh cho chính quyền quốc gia. Điều đặc biệt quan trọng là [các vùng chưa có dịch tả lợn ở Châu Phi] cần phải được bảo vệ bằng cách ngăn chặn dịch bùng phát tại đó và bằng cách nhanh chóng đáp ứng với nó khi nó xảy ra'.
+Vào tháng 1 năm 2014, các nhà chức trách đã công bố sự hiện diện của dịch tả lợn châu Phi ở Litva và Ba Lan, vào tháng 6 năm 2014 tại Latvia và vào tháng 7 năm 2015 tại Estonia.
+Estonia vào tháng 7 năm 2015 đã ghi nhận trường hợp đầu tiên của dịch lợn ở châu Phi ở lợn nuôi ở Valgamaa ở biên giới đất nước với Latvia. Một trường hợp khác đã được báo cáo cùng ngày tại quận Viljandi, cũng giáp với Latvia. Tất cả những con lợn đã bị giết và xác của chúng bị thiêu hủy. Chưa đầy một tháng sau, gần 15.000 con lợn được nuôi đã bị giết và đất nước này đang 'vật lộn để thoát khỏi hàng trăm tấn lợn chết'. Số lợn chết 'dự kiến sẽ tăng'.
+Latvia vào tháng 1 năm 2017 đã tuyên bố tình trạng khẩn cấp sốt lợn ở châu Phi liên quan đến dịch ở ba khu vực, bao gồm một trang trại lợn ở vùng Krimulda, dẫn đến việc tiêu hủy khoảng 5.000 lợn nái và heo con bằng cách sử dụng khí đốt. Vào tháng Hai, một đợt giết lợn khổng lồ khác đã được yêu cầu, sau khi một trang trại quy mô công nghiệp của cùng một công ty ở vùng Salaspils bị phát hiện nhiễm bệnh, dẫn đến việc giết bỏ khoảng 10.000 con lợn.
+Vào tháng 6 năm 2017, Cộng hòa Séc đã ghi nhận trường hợp đầu tiên trong lịch sử về bệnh dịch tả lợn ở châu Phi. Cộng hòa Séc tại Zlin, thông qua một biện pháp của cơ quan thú y có liên quan, bằng cách đưa ra một quy định ngăn chặn sự lây lan của nhiễm trùng ASF bằng cách loại bỏ khu vực bị ô nhiễm qua hàng rào mùi. Hàng rào mùi với tổng chiều dài 44,5 km đã có thể giữ lợn rừng trong khu vực y tế.
+Năm 2018, Romania đã trải qua một đại dịch tả lợn ở châu Phi trên toàn quốc, khiến cho hầu hết lợn nông trại bị giết bỏ.
+Vào tháng 8 năm 2018, các nhà chức trách thông báo đợt bùng phát đầu tiên của dịch tả lợn châu Phi tại Bulgaria.
+Vào tháng 9 năm 2018, một vụ dịch đã xảy ra ở lợn rừng ở miền nam Bỉ. Các nhà quan sát chuyên nghiệp nghi ngờ nhập khẩu lợn rừng từ các nước Đông Âu bởi các thợ săn giải trí là nguồn gốc của virus. Đến ngày 4 tháng 10, 32 con lợn rừng đã thử nghiệm dương tính với virus này. Để kiểm soát dịch bệnh, 4.000 con lợn trong nước đã được giết mổ phòng ngừa ở khu vực Gaume và khu rừng được tuyên bố là cấm hoạt động giải trí.
+
+
+=== Nga ===
+Từ khoảng năm 2007 đến ngày 31 tháng 8 năm 2018, 1367 trường hợp ASF của lợn nhà hoặc lợn hoang dã đã được bộ phận thú y của Rosselkhoznadzor (tiếng Nga: Россельхознадзор), Cục Thú y và Kiểm dịch Thực vật Liên bang Nga) và truyền thông nhà nước, báo cáo. Theo báo cáo chính thức của vùng trung tâm và vùng phía nam liên bang Nga nằm trong số bị ảnh hưởng nhiều nhất bởi bệnh (với vài lần của vùng phía đông). Nhiều khu vực thiết lập kiểm dịch địa phương một số trong đó đã được kết thúc sau đó.
+
+
+=== Trung Quốc ===
+Vào tháng 8 năm 2018, Trung Quốc đã báo cáo dịch cúm lợn châu Phi đầu tiên bùng phát ở tỉnh Liêu Ninh, đây cũng là trường hợp được báo cáo đầu tiên ở Đông Á. Tính đến  ngày 1 tháng 9 năm 2018, đất nước này đã tiêu hủy hơn 38.000 con lợn. Kể từ tuần 10 tháng 9 năm 2018, Trung Quốc đã chặn vận chuyển lợn sống và các sản phẩm từ lợn ở một phần lớn của đất nước  để tránh lây lan thêm ra ngoài 6 tỉnh nơi đang xác nhận virus. Vào cuối năm 2018, các vụ dịch đã được báo cáo ở 23 tỉnh và thành phố trên khắp Trung Quốc.
+Ze Chen và Shan Gao từ Đại học Nankai đã phát hiện virus dịch tả lợn ở châu Phi (ASFV) ở Dermacentor (ve cứng) từ cừu và bò bằng cách sử dụng trình tự RNA nhỏ. Phân đoạn 235 bp này có nhận dạng 99% so với phân đoạn DNA 235 bp của ASFV và chứa ba đột biến nucleotide đơn (C38T, C76T và A108C). C38T, dẫn đến một đột biến amino acid G66D, cho thấy sự tồn tại của một chủng ASFV mới, khác với tất cả các chủng ASFV được báo cáo trong cơ sở dữ liệu NCBI GenBank và chủng ASFV (GenBank: MH713612.1) được báo cáo ở Trung Quốc vào năm 2018.
+
+
+=== Bỉ ===
+Vào tháng 9 năm 2018, sự bùng phát của dịch tả lợn châu Phi đã được ghi nhận ở Bỉ.
+
+
+=== Việt Nam ===
+Tính đến ngày 23 tháng 5 năm 2019, dịch tả lợn châu Phi đã lan ra 37 tỉnh tại Việt Nam: Hải Phòng, Thanh Hóa, Hà Nội, Hà Nam, Hải Dương, Thái Bình, Hưng Yên, Hòa Bình, Điện Biên, Thái Nguyên, Ninh Bình, Nam Định, Quảng Ninh, Bắc Kạn, Sơn La, Nghệ An, Lạng Sơn, Bắc Ninh, Thừa Thiên - Huế, Lai Châu, Bắc Giang, Vĩnh Phúc, Quảng Trị, Đồng Tháp, An Giang, Kiên Giang, Hậu Giang, Vĩnh Long, Bình Dương,, Đồng Nai, Bình Phước, Gia Lai, Cần Thơ, Quảng Nam... (còn 2 tỉnh chưa liệt kê vào). Trong đó, Hưng Yên là tỉnh đầu tiên phát hiện ra ổ dịch; Quảng Trị là tỉnh cuối cùng phát hiện thấy ổ dịch cho đến thời điểm 12/4/2019; Cần Thơ là tỉnh cuối cùng phát hiện thấy ổ dịch cho đến thời điểm 24/5/2019; Bình Dương, Bình Phước, Đồng Nai đã phát hiện ổ dịch tính tới thời điểm 21/5/2019.
+Ngày 12 tháng 6 năm 2019 dịch lan tới TPHCM.
+Tính đến ngày 22/9/2019 dịch tả lợn Châu Phi xuất hiện tại 7.600 xã của 645 huyện tại 63/63 tỉnh, thành phố trong cả nước làm trên 5.000.000 con lợn phải tiêu huỷ.
+
+
+=== Thuyết thay thế ===
+Sự xuất hiện của ASF bên ngoài châu Phi cùng thời điểm với sự xuất hiện của AIDS đã dẫn đến một số quan tâm về việc liệu hai loại virus này có liên quan với nhau hay không, và một báo cáo xuất hiện trên The Lancet ủng hộ điều này vào năm 1986. Tuy nhiên, việc khám phá ra rằng virus gây suy giảm miễn dịch ở người (HIV) gây ra bệnh AIDS đã phủ định bất kỳ mối liên hệ tiềm năng nào của AIDS với ASF.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Khẩn cấp ngăn chặn dịch tả lợn châu Phi vào Việt Nam
+Nguy cơ bệnh dịch tả lợn Châu Phi vào Việt Nam: Bộ trưởng khẩn cấp ra công điện “chặn”
+Dịch tả lợn châu Phi đáng sợ, nguy hiểm và khó tiêu diệt thế nào?

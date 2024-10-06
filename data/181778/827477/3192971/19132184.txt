@@ -1,0 +1,10 @@
+Kênh ion là protein màng cho phép các ion đi qua màng tế bào. Kênh ion thiết lập điện thế nghỉ, hình thành điện thế hoạt động và các tín hiệu điện khác nhờ đóng/mở dòng chảy của ion qua màng tế bào nhằm kiểm soát dòng chảy của ion và điều chỉnh khối lượng tế bào. Kênh có mặt trong màng của tất cả các tế bào.
+Nghiên cứu về các kênh ion là nhiệm vụ của bộ mon lý sinh học, điện sinh lý và dược lý, vơi các kỹ thuật như kẹp điện áp, hóa mô miễn dịch, tinh thể học tia X, nội soi huỳnh quang và RT-PCR.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+“Voltage-Gated Ion Channels”. IUPHAR Database of Receptors and Ion Channels. International Union of Basic and Clinical Pharmacology.
+“TRIP Database”. a manually curated database of protein-protein interactions for mammalian TRP channels. Bản gốc lưu trữ ngày 10 tháng 8 năm 2016.

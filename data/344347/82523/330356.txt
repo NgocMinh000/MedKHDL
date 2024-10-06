@@ -1,0 +1,61 @@
+Penicillin là một nhóm kháng sinh thu được từ nấm Penicillium hay được điều chế. Vào năm 1928, trong lúc quan sát một số đĩa Petri có chứa vi khuẩn Staphylococcus (hay tụ cầu khuẩn), Alexander Fleming đã nhận thấy có điều gì đó kỳ lạ trong một đĩa: các cụm vi khuẩn Staphylococcus không xuất hiện trong khu vực có một loại nấm mốc đang phát triển. Đấy là loại nấm sau này được xác định là Penicillium notatum (hay Penicillium chrysogenum) . Phải 10 năm sau thì penicillin mới được nhà hoá sinh người Anh gốc Đức Ernst Boris Chain và nhà nghiên cứu bệnh học Úc Howard Florey và một số nhà khoa học khác nghiên cứu kỹ. Người ta bắt đầu sử dụng nó để điều trị nhiễm trùng vào năm 1942. Tuy nhiên, nếu không có khoảnh khắc tình cờ của Alexander Fleming thì việc sản xuất quy mô lớn penicillin như một loại thuốc kháng sinh để điều trị cho con người trong Thế chiến thứ hai đã không thể xảy ra.
+Có một số họ penicillin tăng cường có hiệu quả chống lại các vi khuẩn khác; chúng bao gồm penicillin chống tụ cầu khuẩn, aminopenicillin và penicillin kháng giả khuẩn. Chúng có nguồn gốc từ nấm Penicillium. Fleming đã nhận chung giải Nobel Sinh lý và Y khoa năm 1945 cho khám phá của ông, cùng với các nhà khoa học Đại học Oxford Howard Florey và Ernst Boris Chain (người đã phát triển các cách cải tiến để sản xuất và tập trung thuốc và chứng minh tác dụng kháng khuẩn của nó).
+Penicillin sát trùng bằng cách giết vi khuẩn và hạn chế sự sinh trưởng của chúng.
+Khoảng 10% số người ghi nhận rằng họ bị dị ứng với penicillin; tuy nhiên, đến 90% nhóm này có thể không thực sự bị dị ứng. Dị ứng nghiêm trọng chỉ xảy ra trong khoảng 0,03%. Những người bị dị ứng với penicillin thường được dùng cephalosporin C vì các nhóm chức năng của nó. Tất cả các penicillin đều là kháng sinh β-lactam, là một số thành tựu mạnh mẽ và thành công nhất trong khoa học hiện đại.
+
+
+== Dùng trong y học ==
+"Penicillin" thường được dùng để chỉ benzylpenicillin (penicillin G), procaine benzylpenicillin (procaine penicillin), benzathine benzylpenicillin (benzathine penicillin), và phenoxymethylpenicillin (penicillin V).
+Procaine penicillin và benzathine penicillin có cùng đặc tính kháng khuẩn như benzylpenicillin nhưng nó có tác dụng trong thời gian dài hơn. Phenoxymethylpenicillin thì có ít tác dụng chống vi khuẩn gam âm hơn so với benzylpenicillin. Benzylpenicillin, procaine penicillin và benzathine penicillin dùng theo cách tiêm, còn phenoxymethylpenicillin theo đường uống.
+
+
+== Cấu trúc ==
+
+Thuật ngữ "penam" được dùng để miêu tả khung chính thông thường của một loại penicillin. Lõi này có công thức phân tử R-C9H11N2O4S, với R là một chuỗi có sự khác biệt giữa các penicillin. Lõi penam có khối lượng phân tử 243 g/mol, với các penicillin lớn hơn thì khối lượng phân tử gần 450 như cloxacillin có khối lượng phân tử 436 g/mol. Đặc điểm cấu trúc chính của các penicillin là vòng β-lactam có 4 nhóm; cấu trúc moiety này cần thiết cho tính kháng khuẩn của penicillin. Vòng β-lactam tự gắn kết với vòng thiazolidine có 5 nhóm khác. Sự kết hợp của 2 vòng này làm cho vòng β-lactam hoạt động hơn so với từng vòng β-lactam riêng biệt vì các vòng được kết hợp bóp méo liên kết amide củ aβ-lactam và do đó loại bỏ sự bền vững cộng hưởng của liên kết hóa học thường được tìm thấy trong các liên kết này.
+
+
+== Sinh tổng hợp ==
+
+Nhìn chung, có 3 bước chính và quan trọng trong việc sinh tổng hợp ra penicillin G (benzylpenicillin).
+
+Bước thứ nhất là trùng ngưng 3 amino acid—L-α-aminoadipic axit, L-cysteine, L-valine thành tripeptit. Trước khi trùng ngưng thành tripeptit, amino acid L-valine phải trải qua epimer (đồng phân không gian) hóa để tạo thành D-valine. tripeptit được trùng ngưng được đặt tên là δ-(L-α-aminoadipyl)-L-cysteine-D-valine (ACV). Phản ứng trùng ngưng và epimer hóa được xúc tác bởi enzym δ-(L-α-aminoadipyl)-L-cysteine-D-valine synthetase (ACVS).
+Bước thứ 2 trong sinh tổng hợp penicillin G là chuyển đổi oxy hóa ACV mạch thẳng thành isopenicillin N trung gian có 2 vòng bởi enzym isopenicillin N synthase (IPNS), được mã hóa bởi gen pcbC. Isopenicillin N là một chất trung gian rất yếu, do nó không thể hiện hoạt động kháng khuẩn mạnh.
+Bước cuối cùng là sự chuyển hóa amin bởi enzym isopenicillin N N-acyltransferase, trong đó gốc α-aminoadipyl bênh cạnh chuỗi của isopenicillin N bị loại bỏ và thay cho chuỗi phenylacetyl. Phản ứng này được điều khiển bởi gen penDE, là duy nhất trong quá trình tạo penicillin.
+
+
+== Quá trình ngẫu nhiên tìm ra penicillin ==
+Nhà sinh học người Scotland, Alexander Fleming là một nhà khoa học đam mê nghiên cứu và kỹ lưỡng trong việc xem xét lại các phần thí nghiệm của mình. Ông thường rất do dự khi ném đi những mẻ cấy vi khuẩn cũ cho đến khi hoàn toàn chắc rằng không nghiên cứu được gì hơn từ chúng.
+Trước khi chuẩn bị nghỉ hè trong vòng 2 tuần (1928), thông thường phòng thí nghiệm sẽ được vệ sinh thật sạch, Alexander Fleming đã quên không dọn dẹp. Khi trở về sau kỳ nghỉ, vào buổi sáng thứ sáu ngày 28 tháng 9 năm 1928, ông thấy một vài đĩa dùng để nuôi cấy vi khuẩn đã bị mốc. Trước khi vứt bỏ chúng, ông phát hiện thấy mốc ở trên một chiếc đĩa đã tiêu diệt mẻ vi khuẩn mà ông nuôi cấy tại đó. Mốc đó là một loại nấm, Penicillium chrysogenum, phát triển trên bánh mì. Fleming viết báo cáo khoa học về phát hiện của ông, nhưng chưa thực sự bám sát vào tính thực tiễn của nó. Tuy Alexander Fleming là người đầu tiên tìm ra tính năng của penicillin nhưng ông không có công nghệ để nuôi cấy hàng loạt ở quy mô công nghiệp.
+Việc ứng dụng mới được các nhà khoa học Anh, Úc... trong Chiến tranh thế giới II nghiên cứu kỹ hơn và cho sản xuất hàng loạt. Năm 1938, Fleming nhận được thư của hai nhà khoa học từ trường Đại học Oxford là Ernst Boris Chain và Howard Walter Florey, với lời đề nghị được hợp tác với ông để tiếp tục thực hiện công trình nghiên cứu về penicillin. Và sự hợp tác đã mang lại thành công, tháng 8 năm 1940, báo cáo kết quả nghiên cứu đã được công bố trên tập san khoa học Lancet. Fleming đã được đồng nhận giải Nobel vì thành tích này, ông thản nhiên bình luận rằng: "Đôi khi người ta lại tìm ra những thứ mà mình đang không tìm kiếm".
+
+
+== Đưa penicillin ra thực tiễn và sản xuất hàng loạt ==
+Trong Chiến tranh thế giới II, một nhóm các nhà khoa học tìm kiếm cách chữa trị cho những vết thương bị nhiễm trùng của binh sĩ, tình cờ phát hiện ra khám phá của Fleming và thử nghiệm với một dạng của nấm mốc đó. Chúng như có sức mạnh thần kỳ. Ngay sau đó, nó được sản xuất với số lượng không thể tin nổi và được đưa ra mặt trận.
+Hơn 50 năm sau, penicillin vẫn là chất kháng sinh được sử dụng nhiều nhất thế giới. Đó là nhờ sự phát hiện tình cờ của nhà khoa học không thích dọn dẹp. Hơn 21 công ty hoá chất tham gia vào chương trình sản xuất cấp tốc penicillin trong suốt Chiến tranh thế giới II. Cho đến khi kết thúc cuộc chiến họ đã sản xuất 650 tỉ đơn vị mỗi tháng.
+
+
+== Tính năng của penicillin ==
+Penicillin sát trùng bằng cách giết vi khuẩn và hạn chế sự sinh trưởng của chúng. Chất này không giết các phần tử trong trạng thái nghỉ mà chỉ tiêu diệt các phần tử đang sinh trưởng và sinh sản. Penicillin tiêu diệt nhiều loài vi khuẩn gây bệnh khác nhau như pneumococci, streptococci, gonococci, meningococci, clostridium và syphilis spirochete. Penicillin được sử dụng làm dược phẩm trị các căn bệnh chết người như viêm nội tâm mạc, nhiễm trùng máu, gas gangrene, lậu mủ, và sốt vàng da, giang mai, viêm loét lưỡi cấp...
+
+
+== Tác dụng phụ ==
+
+Penicillin có thể làm dị ứng như: phát ban, tiêu chảy. Một người đã dị ứng với một loại Penicillin thường sẽ không được dùng bất cứ loại Penicillin nào. Lượng penicillin làm thay đổi hàm lượng histamine trong cơ thể, gây ra chứng Aquagenic Urticaria(dị ứng với nước).
+
+
+== Chú thích ==
+
+
+== Tài liệu ==
+Nicolaou, K.C. (1996). Classics in Total Synthesis: Targets, Strategies, Methods. Sorensen, E.J.; with a foreword by E.J. Corey . Weinheim: VCH. ISBN 3-527-29284-5.
+Dürckheimer, Walter (ngày 1 tháng 3 năm 1985). Blumbach, Jürgen; Lattrell, Rudolf; Scheunemann, Karl Heinz. “Recent Developments in the Field of β-Lactam Antibiotics”. Angewandte Chemie International Edition in English. 24 (3): 180–202. doi:10.1002/anie.198501801.
+Hamed, Refaat B. (ngày 1 tháng 1 năm 2013). Gomez-Castellanos, J. Ruben; Henry, Luc; Ducho, Christian; McDonough, Michael A.; Schofield, Christopher J. “The enzymes of β-lactam biosynthesis”. Natural Product Reports. 30 (1): 21–107. doi:10.1039/c2np20065a. PMID 23135477.
+
+
+== Liên kết ngoài ==
+
+Model of Structure of Penicillin, by Dorothy Hodgkin et al., Museum of the History of Science, Oxford Lưu trữ 2009-03-27 tại Wayback Machine
+The Discovery of Penicillin, A government produced film about the discovery of Penicillin by Sir Alexander Fleming, and the continuing development of its use as an antibiotic by Howard Florey and Ernst Boris Chain.
+Penicillin at The Periodic Table of Videos (University of Nottingham)
+Penicillin Released to Civilians Will Cost $35 Per Patient Popular Science, August 1944, article at bottom of page
+Bản mẫu:Kháng sinh

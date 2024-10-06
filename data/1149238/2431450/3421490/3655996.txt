@@ -1,0 +1,9 @@
+Hạch thần kinh là những khối neuron thuộc phần thần kinh ngoại biên của hệ thống thần kinh. Chúng có thể nằm ở xa hoặc ngay bên cạnh một số cơ quan. Trong số hạch này có 2 chuỗi hạch nằm hai bên cột sống và một hạch lớn nằm trong khoang bụng (gọi là hạch mặt trời).
+Trong hệ thống thần kinh sinh dưỡng, gồm các hạch giao cảm và hạch đối giao cảm. Trong hệ thống thần kinh vận động, bao gồm hạch sinh ba và hạch rễ lưng. 
+
+
+== Cấu tạo ==
+Các tế bào thần kinh tập hợp lại tạo thành các hạch thần kinh, các hạch thần kinh được nối với nhau bởi các dây thần kinh và tạo thành chuỗi hạch thần kinh nằm theo chiều dọc của cơ thể.
+
+
+== Tham khảo ==

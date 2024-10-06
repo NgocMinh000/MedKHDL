@@ -1,0 +1,76 @@
+Chiếu xạ thực phẩm là quá trình chiếu bức xạ ion hóa lên thực phẩm nhằm tiêu diệt các sinh vật còn tồn dư trong thực phẩm, nhờ đó bảo quản thực phẩm, làm giảm nguy cơ bệnh tật do thực phẩm gây ra, ngăn chặn sự lây lan của các loài xâm hại, và làm chậm trễ hoặc loại bỏ mọc mầm hoặc chín, hỏng .
+Các bức xạ ion hóa có thể được phát ra bởi nguồn bằng chất phóng xạ hoặc tạo ra bằng điện. Chiếu xạ nói chung còn được dùng trong khử trùng dụng cụ y tế và tương tự . Các dụng cụ hay thực phẩm chiếu xạ không trở thành thể có tính phóng xạ, không gây nguy hiểm về phóng xạ cho người dùng .
+Thực phẩm đã chiếu xạ cần được thông báo bằng dấu hiệu Radura quốc tế, hoặc tại Hoa Kỳ là dấu do Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) quy định. Đó là do nhận thức của người tiêu dùng về thực phẩm xử lý bằng chiếu xạ là tiêu cực nhiều hơn những xử lý bằng các phương tiện khác , và sự chấp nhận về pháp lý tại các nước khác nhau còn khác nhau. Các nghiên cứu chung thì cho ra kết quả là thực phẩm chiếu xạ là an toàn, không độc hại, lượng chất độc sinh ra cực thấp, và an toàn hơn hẳn các xử lý bằng hóa chất.
+
+
+== Nguyên lý tác động ==
+Khi tác động lên thực phẩm, tác nhân vật lý như nhiệt, sóng điện từ (vi ba, tia X) và phóng xạ, sẽ làm đứt một số liên kết mong manh trong các phân tử hữu cơ, gây biến tính phân tử. Nó dẫn đến phân tử giảm hoặc mất khả năng tham gia quá trình sống. Nếu số lượng phân tử đủ nhiều thì tế bào tổn thương hoặc chết, đặc biệt là tổn thương ở phân tử DNA.
+Quá trình xào nấu bằng nhiệt làm khối thực phẩm đã nấu chín là biến tính và chết toàn bộ. Ở mức tác động thấp hơn, khi dùng liều chiếu thích hợp (là tích của cường độ và thời gian chiếu) như trong lò vi sóng hay trong buồng chiếu xạ, sao cho chỉ làm biến tính một lượng phân tử nhất định và trải đều ở mọi tế bào trong khối thực phẩm, thì các tế bào này hoặc chết, hoặc tổn thương và trao đổi chất chậm lại. Các vi sinh vật và tác nhân gây bệnh bị tiêu diệt hoặc thui chột. Nhờ đó thực phẩm giữ được trạng thái dinh dưỡng lâu hơn, khi đó biến đổi mô gây ra chủ yếu bởi những men đã sinh ra trước khi chiếu.
+Do nhu cầu tiêu diệt cả các tác nhân gây bệnh, nên chiếu xạ thực phẩm sử dụng tia phóng xạ, và đôi khi mới dùng tia X.
+Quá trình chiếu xạ không tạo ra thêm các đồng vị phóng xạ trong thực phẩm, nên không gây nguy hiểm về phóng xạ cho người dùng .
+
+
+== Ứng dụng ==
+Chiếu xạ được sử dụng để giảm hoặc loại bỏ các nguy cơ bệnh do thực phẩm sinh ra. Tùy thuộc vào liều lượng, một số hoặc tất cả các mầm bệnh sinh vật, vi sinh vật, vi khuẩn, virus có trong thực phẩm sẽ bị phá hủy hoặc trở nên không có khả năng sinh sản. Một số thực phẩm được chiếu xạ với liều đủ để đảm bảo rằng chúng được khử trùng và không thêm bất kỳ sự hư hỏng hay gây bệnh vi sinh vật vào sản phẩm cuối cùng .
+Chiếu xạ cũng được sử dụng làm giảm tổn thất sau thu hoạch. Bên cạnh việc làm giảm các tác nhân gây bệnh, thì chiếu xạ cũng tác động tới các tế bào, làm chậm tốc độ tác động của các enzym vốn được sản sinh ra trong quá trình tự nhiên và là tác nhân có thể làm thay đổi thực phẩm, và do đó làm chậm quá trình hư hỏng, chín, hay mọc mầm của thực phẩm .
+
+
+== Nhận thức công chúng ==
+Nhận thức nói chung của người tiêu dùng về thực phẩm xử lý bằng chiếu xạ là tiêu cực , hình thành do tâm lý lo ngại về tàn dư phóng xạ sau chiếu, dẫu rằng nói chung đã khẳng định "thực phẩm chiếu xạ rất an toàn" .
+Trên thế giới hiện có hơn 60 quốc gia chính thức chấp nhận chiếu xạ thực phẩm, với khoảng 500.000 tấn lương thực được xử lý mỗi năm trên toàn thế giới. Các quốc gia khác nhau cũng có những quy định khác nhau về loại thực phẩm được phép chiếu xạ, và mức độ chiếu. Tại Áo, Đức và nhiều nước khác của Liên minh châu Âu chỉ sấy khô các loại thảo mộc, gia vị, và gia vị có thể được xử lý bằng chiếu xạ và chỉ với liều cụ thể. Trong khi đó tại Brazil tất cả các loại thực phẩm được cho phép chiếu xạ ở bất kỳ liều nào .
+
+
+== Chiếu xạ tại Việt Nam ==
+Tại Việt Nam pháp luật hiện không đặt vấn đề chính thức công nhận hay phản đối chiếu xạ thực phẩm. Các chiếu xạ đã được thử nghiệm từ lâu, được coi như một tiến bộ kỹ thuật, tuy nhiên không được đưa vào ứng dụng đại trà vì nhu cầu nội địa gần như chưa có. Những năm gần đây cơ sở chiếu xạ ra đời, phục vụ xuất khẩu hoa quả là chính .
+Cục An toàn bức xạ và hạt nhân thuộc Bộ Khoa học và Công nghệ là cơ quan chuyên trách về quản lý an toàn phóng xạ, thực hiện kiểm soát và tư vấn về an toàn . Từ năm 2003 Bộ KH&CN ban hành các tiêu chuẩn, từ yêu cầu chung đến các quy phạm cụ thể.
+
+Tiêu chuẩn Việt Nam TCVN 7247:2003 về thực phẩm chiếu xạ - Yêu cầu chung .
+Tiêu chuẩn Việt Nam TCVN 7509:2005 về qui phạm thực hành chiếu xạ tốt để diệt côn trùng trong các loại hạt ngũ cốc .
+...
+Quy trình chiếu, các đánh giá an toàn, kể cả cấp giấy chứng nhận đã chiếu xạ, được vận dụng theo nơi cung cấp thiết bị chiếu, nguồn chiếu, hoặc theo yêu cầu của nơi nhập khẩu hàng hóa.
+
+
+== Chỉ dẫn ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+World Health Organization publications:
+Food irradiation – A technique for preserving and improving the safety of Food, WHO, Geneva, 1991 (revised)
+Wholesomeness of irradiated food, WHO, Geneva, Technical Report Series No. 659, 1981
+Safety and nutritional adequacy of irradiated food, WHO, Geneva, 1994
+High-dose irradiation: Wholesomeness of food irradiated with doses above 10 kGy, WHO, Geneva, 1999, Technical Report Series No. 890
+Facts about Food Irradiation, A series of Fact Sheets from the International Consultative Group on Food Irradiation (ICGFI), 1999, IAEA, Vienna, Austria
+Diehl, J.F., Safety of irradiated foods, Marcel Dekker, N.Y., 1995 (2. ed.)
+Satin, M., Food irradiation, Technomic, Lancaster, 1996 (2. ed.)
+Urbain, W.M., Food irradiation, Academic Press, Orlando, 1986
+Molins, R. (ed.), Food irradiation – Principles and applications, Wiley Interscience, N.Y., 2001
+Sommers, C.H. and Fan, X. (eds.), Food Irradiation Research and Technology, Blackwell Publishing, Ames, IA, 2006
+Hauter, W. and Worth, M., Zapped! Irradiation and the Death of Food, Food & Water Watch Press, Washington, DC, 2008. Lưu trữ 2010-08-06 tại Library of Congress Web Archives
+The Food That Would Last Forever: Understanding the Dangers of Food Irradiation, by Gary Gibbs, Garden City Park, N.Y.: Avery Pub. Group, c1993
+anon., Food Irradiation: Available Research Indicates That Benefits Outweigh Risks, RCED-00-217, ngày 24 tháng 8 năm 2000, Government Accountability Office, United States General Accounting Office, Resources, Community, and Economic Development Division, Washington, D.C. 20548 "Food Irradiation" Lưu trữ 2010-10-20 tại Wayback Machine
+Farkas, J. and Mohácsi-Farkas, C., History and future of food irradiation, Food Sci. Technol. 22(2011),121-128
+WHO Statement on 2-Dodecylcyclobutanone and Related Compounds, 2003
+Evaluation of the Significance of 2-Dodecylcyclobutanone and other Alkylcyclobutanones
+
+
+== Liên kết ngoài ==
+Codex Alimentarius
+Codex Alimentarius General Standard for Irradiated Foods (CAC/STAN 106-1983, rev.1 2003)
+Codex Alimentarius Recommended International Code of Practice Code for Radiation Processing of Foods (CAC/RCP 19-1979, rev.2 – 2003)
+General Standard for the Labelling of Prepacked Foods (CODEX STAN 1-1985) Lưu trữ 2011-04-06 tại Wayback Machine
+Food Irradiation Processing Alliance Lưu trữ 2014-02-28 tại Wayback Machine FIPA represents the irradiation service industry, manufacturers of food irradiators and suppliers of cobalt-60 sources.
+Food & Water Watch – food irradiation page
+U.S. Food Irradiation FAQ, Food and Water Watch
+Remarks by Mark Worth, Public Citizen, to the FDA, ngày 12 tháng 1 năm 2005
+Irradiation of Food and Food Packaging, Center for Food Safety and Applied Nutrition (US Government)
+Irradiation Fact Sheet, Center for Food Safety (US non-profit organisation)
+Facts about Food Irradiation, a series of 14 fact sheets, International Consultative Group on Food Irradiation, International Atomic Energy Agency, Vienna, 1991 (tiếng Anh)
+Bibliography on Food Irradiation, Federal Research Centre for Nutrition and Food, Karlsruhe, Germany (tiếng Anh)
+Should we irradiate fruit and vegetables? Dateline NBC investigation
+Irradiation FAQ provided by BENEBION of Mexico (tiếng Anh)
+anon. What's wrong with food irradiation, revised February 2001, Organic Consumers Association, US Lưu trữ 2008-05-06 tại Wayback Machine
+Comment by Dr. Henry Delincée on an affidavit misrepresenting the conclusions of his studies on unique radiolytical byproducts
+The Basics on the Foodfight Over Irradiation | health.usnews.com

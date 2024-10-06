@@ -1,0 +1,27 @@
+Sốt ban xuất huyết Brazil (BPF) là một căn bệnh của trẻ em do vi khuẩnHaemophilus influenzae biogroup aegyptius gây ra, có thể tử vong do nhiễm trùng huyết. BPF lần đầu tiên được xác nhận tại bang São Paulo của Brazil vào năm 1984. Vào thời điểm này, trẻ nhỏ trong độ tuổi từ 3 tháng đến 10 tuổi đang mắc phải một căn bệnh lạ có đặc điểm là sốt cao và tổn thương xuất huyết trên cơ thể. Những trường hợp này đều gây tử vong và ban đầu được cho là do viêm màng não. Chỉ đến khi khám nghiệm tử thi, nguyên nhân của những cái chết này mới được xác nhận là do nhiễm khuẩn H.enzae aegyptius. Mặc dù BPF được cho là bị giới hạn ở Brazil, nhưng các trường hợp khác đã xảy ra ở Úc và Hoa Kỳ trong năm 1984 đến năm 1990.
+Loài Haemophilus là loài coccobacilli gram âm không hình thành bào tử. Chúng ít vận động sống hiếu khí hoặc kị khí. Chúng đòi hỏi các yếu tố tăng trưởng được hình thành sẵn có trong máu, cụ thể là hemin (yếu tố X) và NAD+/NADP (yếu tố V). Vi khuẩn phát triển tốt nhất ở 35 đến 37 °C và có độ pH tối ưu là 7,6. Các loài vi kuẩn thuộc chi Haemophilus là ký sinh bắt buộc, sống trên hệ thần kinh thực vật vùng phổi của người.
+
+
+== Dấu hiệu ==
+Trong các trường hợp BPF được ghi nhận, các triệu chứng bao gồm sốt cao (38,5 °C hoặc cao hơn), buồn nôn, nôn mửa, đau bụng dữ dội, sốc nhiễm trùng và cuối cùng là tử vong. Triệu chứng đau mắt đỏ xảy ra 30 ngày trước khi bắt đầu sốt. Biểu hiện thực tế của trẻ bị nhiễm BPF bao gồm các tổn thương da ban xuất huyết ảnh hưởng chủ yếu đến khuôn mặt và tứ chi, tím tái, hoại tử nhanh chóng của mô mềm, đặc biệt là tay, chân, mũi và tai. Phân tích các trường hợp tử vong do BPF cho thấy xuất huyết ở da, phổi và tuyến thượng thận. Mô bệnh học cho thấy xuất huyết, hoại tử ở lớp hạ bì, cầu thận, phổi và phân thùy gan.
+
+
+== Các yếu tố rủi ro ==
+Các yếu tố rủi ro liên quan đến BPF không được biết rõ. Tuy nhiên, có ý kiến cho rằng trẻ em dưới 5 tuổi dễ mắc bệnh BPF hơn vì chúng ít tác nhân diệt khuẩn trong huyết thanh chống lại nhiễm trùng. Trẻ lớn hơn và người lớn có hiệu giá kháng thể diệt khuẩn cao hơn nhiều. Ngoài ra, trẻ em sống trong các khu vực địa lý nóng hơn, nguy cơ nhiễm BPF cao hơn.
+
+
+== Phòng ngừa ==
+Phương pháp cơ bản để kiểm soát viêm kết mạc bao gồm vệ sinh và chăm sóc đúng cách cho mắt bị ảnh hưởng. Nếu viêm kết mạc được phát hiện là do H. aegyptius Biogroup III gây ra thì việc điều trị bằng kháng sinh kịp thời tốt nhất bằng rifampicin, ngăn ngừa tiến triển thành BPF. Nếu người nhiễm bệnh cư trú ở Brazil, phải báo cáo cho cơ quan y tế để điều tra nơi cư trú. Điều tra này sẽ xác định nguồn vi khuẩn tại địa phương.
+
+
+== Điều trị ==
+Điều trị thành công BPF vô cùng khó khăn, chủ yếu là do khó có được chẩn đoán đúng bệnh. Vì bệnh bắt đầu với triệu chứng viêm kết mạc, H. aegyptius không mẫn cảm với thuốc nhỏ mắt kháng sinh đang được sử dụng để điều trị. Điều trị này là không hiệu quả vì nó chỉ điều trị nhiễm trùng mắt tại địa phương, trong khi nếu tiến triển thành BPF, cần phải điều trị bằng kháng sinh toàn thân. Mặc dù BPF nhạy cảm với nhiều loại kháng sinh thường được sử dụng, bao gồm ampicillin, cefuroxime, cefotaxime, rifampin và chloramphenicol, khi chẩn đoán được bệnh thì bệnh đã tiến triển, qua thời điểm vàng để điều trị hiệu quả. Cới tốc độ tiến triển nhanh chóng của BPF, ít có khả năng bệnh sẽ được điều trị thành công. Với liệu pháp kháng sinh, tỷ lệ tử vong của BPF là khoảng 70%.
+
+
+== Tham khảo ==
+
+Barbosa, S.F.C.; Hoshino-Shimizu, S.; das Gracas A. Alknin, M.; Goto, H. (2003). “Implications of Haemophilus influenzae Biogroup aegyptius Hemagglutinins in the Pathogenesis of Brazilian Purpuric Fever”. Journal of Infectious Diseases. 188 (1): 74–80. doi:10.1086/375739. PMID 12825174.
+Harrison, L.H.; Da Silva, G.A.; Pittman, M.; Fleming, D.W.; Vranjac, A.; Broome, C.V. (1989). “Epidemiology and Clinical Spectrum of Brazilian Purpuric Fever”. Journal of Clinical Microbiology. 27 (4): 599–604. PMC 267380. PMID 2656737.
+Harrison, L.H.; Simonsen, V.; Waldman, E.A. (2008). “Emergence and Disappearance of a Virulent Clone of Haemophilus influenzae Biogroup aegyptius,cause of Brazilian Purpuric Fever” (PDF). Clinical Microbiology Reviews. 21 (4): 599–605. doi:10.1128/CMR.00020-08. PMC 2570154. PMID 18854482.
+McGillivary, G.; Tomaras, A.P.; Rhodes, E.R.; Actis, L.A (2005). “Cloning and sequencing of a genomic island found in the Brazilian Purpuric Fever clone of Haemophilis influenzae Biogroup aegyptius”. Infection and Immunity. 73 (4): 1927–1938. doi:10.1128/IAI.73.4.1927-1938.2005. PMC 1087403. PMID 15784532.
+Rubin, L.G.; St. Geme III, J.W. (1993). “Role of Lipooligosaccharide in Virulence of the Brazilian Purpuric Fever Clone of Haemophilus influenzaeBiogroup aegyptius for Infant Rats”. Infection and Immunity. 61 (2): 650–655. PMC 302776. PMID 8093694.

@@ -1,0 +1,10 @@
+Hiểu ngôn ngữ tự nhiên (NLU) hoặc diễn dịch ngôn ngữ tự nhiên (NLI) là một chủ đề con của xử lý ngôn ngữ tự nhiên trong lĩnh vực trí tuệ nhân tạo, làm việc với việc đọc hiểu máy tính. Hiểu ngôn ngữ tự nhiên được xem là một vấn đề AI dạng khó.
+Hiểu ngôn ngữ tự nhiên có lợi ích thương mại đáng kể bởi vì các ứng dụng liên quan đến lý luận tự động, dịch tự động, hỏi đáp, thu thập tin tức, phân loại văn bản, giao diện giọng nói người dùng, lưu trữ, và phân tích nội dung quy mô lớn.
+
+
+== Xem thêm ==
+Ngôn ngữ học tính toán
+Nhận dạng tiếng nói
+
+
+== Ghi chú ==

@@ -1,0 +1,40 @@
+CURB-65, còn được gọi là tiêu chí CURB, là một nguyên tắc dự đoán lâm sàng được xác nhận để dự đoán tỷ lệ tử vong trong bệnh viêm phổi cộng đồng và nhiễm trùng. CURB-65 dựa trên điểm CURB trước đó và được Hiệp hội Lồng ngực Anh khuyến nghị để đánh giá mức độ nghiêm trọng của viêm phổi. CURB-65 được phát triển tại Đại học Nottingham bởi Tiến sĩ WS Lim và cộng sự năm 2002. Năm 2018, một quy tắc mới được giới thiệu trên cơ sở của CURB-65.
+Mỗi yếu tố nguy cơ ghi một điểm, cho điểm tối đa là 5:
+
+Confusion (lú lẫn): Điểm kiểm tra tâm thần (bảng AMTS) từ 8 điểm trở xuống.
+Urea máu lớn hơn 7 mmol/L (19 mg/dL)
+Respiratory rate (nhịp thở) từ 30 lần/phút trở lên
+Blood pressure: huyết áp tâm thu dưới 90 mmHg hoặc huyết áp tâm trương từ 60 mmHg trở xuống
+65 tuổi trở lên
+
+
+== Tiên lượng ==
+
+
+=== Viêm phổi ===
+Điểm càng cao, nguy cơ tử vong ở ngày thứ 30 càng cao:
+
+0 — 0,7%
+1 — 3,2%
+2 — 13,0%
+3 — 17,0%
+4 — 41,5%
+5 — 57,0%
+CURB-65 đã được so sánh với chỉ số tiên lượng nặng viêm phổi (PSI) trong việc dự đoán tỷ lệ tử vong do viêm phổi. Tuy nhiên, PSI phức tạp hơn và yêu cầu lấy mẫu khí máu động mạch; do đó, điểm CURB-65 được sử dụng dễ dàng hơn trong các cơ sở chăm sóc sức khỏe ban đầu. Một biến thể của CURB-65 bỏ qua định lượng urê (CRB-65), chỉ dựa vào bệnh sử và kết quả thăm khám lâm sàng hơn là xét nghiệm máu.
+CURB-65 được sử dụng như một phương tiện để quyết định hành động cần thiết được thực hiện cho bệnh nhân đó.
+
+0-1: Điều trị ngoại trú
+2: Cân nhắc thời gian ngắn nằm viện hoặc theo dõi rất chặt chẽ như một bệnh nhân ngoại trú
+3: Nhập khoa hô hấp
+4-5: Nhập ICU (hồi sức tích cực).
+
+
+=== Nhiễm trùng ===
+Bệnh nhân bị bất kỳ loại nhiễm trùng nào (một nửa số bệnh nhân bị viêm phổi), nguy cơ tử vong tăng lên khi điểm số tăng lên:
+
+từ 0 đến 1: Tỷ lệ tử vong<5%
+từ 2 đến 3: Tỷ lệ tử vong<10%
+từ 4 đến 5: Tỷ lệ tử vong 15-30%
+
+
+== Tham khảo ==

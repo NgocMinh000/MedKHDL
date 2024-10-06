@@ -1,0 +1,32 @@
+Công cụ truy vấn dữ liệu, tên ngắn hơn là công cụ tìm kiếm (tiếng Anh: search engine), là một loại chương trình tiện ích được nhiều trang Web hay các phần mềm ứng dụng hỗ trợ nhằm giúp cho người dùng có thể tìm kiếm cụm từ, bài viết, đề tài, tập tin, hay dữ liệu được cung cấp bởi trang Web (hay bởi chính phần mềm ứng dụng) đó một cách nhanh chóng và đầy đủ hơn.
+
+
+== Hình thức ==
+Về hình thức thì thường một công cụ tìm kiếm thường được đặt chung với GUI (giao diện đồ họa) trong một khung riêng hay trong một menu. Phần chính của công cụ này là một khung chữ (hay hộp chữ, tiếng Anh: text box).
+Để kiếm một cụm từ, đề tài, bài viết, hay dữ liệu thì người dùng chỉ cần gõ vào đó các từ hay cụm từ liên quan. Cụm từ này được gọi là từ khoá (keyword).
+Sau khi nhấn nút ra lệnh (search) thì trang Web sẽ trả về danh sách các trang WEB hay trang mà nội dung có chứa từ khoá. Nếu không tìm ra thì hoặc sẽ báo lỗi hoặc hiển thông báo không tìm thấy và yêu cầu người dùng thực hiện những bước khác.
+Công cụ tìm kiếm có thể chỉ đơn giản tìm các cụm từ trong các tựa bài viết hay phức tạp hơn là được hỗ trợ bằng các máy truy tìm mà đa số là dùng Google.
+Tuỳ theo sự phát triển về phần mềm của công cụ tìm kiếm, nó có thể có những hỗ trợ đặc biệt. Một số công cụ tìm kiếm có khả năng truy tìm một lần nhiều cụm từ hay tìm các cụm từ thoả mãn các điều kiện khác nhau. Trong trường hợp này thì hỗ trợ thường được tăng cường bởi các phép toán. Chẳng hạn, người ta có thể kiếm các bài viết phải có mặt hai cụm từ cùng một lúc qua phép toán lôgic AND (còn được biết là phép toán lôgic +).
+
+
+== Vài thí dụ ==
+
+Công cụ tìm kiếm kiếm của Wikipedia: Chỉ tìm ra tên tựa bài của văn bản nào trùng hợp với từ khoá.
+Công cụ tìm kiếm của phần mềm ứng dụng Microsoft Word: để mở công cụ tìm kiếm, người dùng có thể nhấp chuột lên menu"Edit"rồi chọn menu con"Find". Công cụ này chỉ cho phép tìm kiếm cụm từ nội bên trong một hồ sơ văn bản.
+Công cụ tìm kiếm của hệ điều hành Microsoft Windows và Adobe Reader: Cả hai công cụ này cho phép kiếm các hồ sơ có chứa từ khoá trong một hồ sơ, một thư mục hay trong tất cả các ổ đĩa của máy tính.
+
+
+== Cơ chế hoạt động ==
+Do sự khác nhau về chức năng và mụch đích của công cụ truy tìm. cơ chế hoạt động của các công cụ tìm kiếm có thể khác nhau ít nhiều. Tuy nhiên, nguyên tắc chung vẫn là:
+
+Công cụ tìm kiếm sẽ dựa trên một cơ sở dữ liệu.
+Cơ sở dữ liệu này được thiết lập từ tất cả các từ có mặt trong các tệp hay các bài văn bản bằng cách chỉ số hoá (indexing) các từ đó.
+Khi có một yêu cầu (request) thì công cụ tìm kiếm sẽ dựa trên các chỉ số tương ứng và truy ngược về văn bản nguồn. Đồng thời máy có thể dùng thêm các thuật toán chuyên biệt để phân định số lần xuất hiện của một từ hay một cụm từ trong các văn bản để dùng cho phân loại, xếp hạng hay hỗ trợ các phép toán.
+Trường hợp công cụ truy tìm không thể tìm ra đáp án thì nó có thể trả lời bằng cách báo lỗi hay có những phương thức xử lý khác tuỳ theo nhu cầu của người thiết kế phần mềm.
+
+
+== Phân biệt với ==
+Máy truy tìm dữ liệu
+
+
+== Tham khảo ==

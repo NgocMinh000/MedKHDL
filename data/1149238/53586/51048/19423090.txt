@@ -1,0 +1,9 @@
+Hệ thống thích ứng là một tập hợp các thực thể tương tác hoặc phụ thuộc lẫn nhau, thực hoặc trừu tượng, tạo thành một tổng thể tích hợp với nhau có thể phản ứng với những thay đổi hoặc thay đổi môi trường trong các phần tương tác, theo cách tương tự như cân bằng nội môi sinh lý liên tục hoặc thích nghi tiến hóa trong sinh học. Các vòng phản hồi đại diện cho một tính năng chính của các hệ thống thích nghi, chẳng hạn như hệ sinh thái và các sinh vật riêng lẻ; hoặc trong thế giới con người, là cộng đồng, tổ chức và gia đình.
+Các hệ thống thích ứng nhân tạo bao gồm robot có hệ thống điều khiển sử dụng phản hồi tiêu cực để duy trì trạng thái mong muốn.
+
+
+== Tham khảo ==
+
+
+== Sách tham khảo ==
+Martin H., Jose Antonio.; Javier de Lope; Darío Maravall (2009). “Adaptation, Anticipation and Rationality in Natural and Artificial Systems: Computational Paradigms Mimicking Nature”. Natural Computing. 8 (4): 757–775. doi:10.1007/s11047-008-9096-6.Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)

@@ -1,0 +1,21 @@
+Chẩn đoán y tế (viết tắt Dx  hoặc DS) là quá trình xác định bệnh nào hoặc tình trạng nào đã tạo ra các triệu chứng và dấu hiệu của một người bệnh.  Nó thường được gọi là chẩn đoán với bối cảnh y tế bị ẩn đi.  Thông tin cần thiết cho chẩn đoán thường được thu thập từ lịch sử và khám thực thể của người cần chăm sóc y tế.  Thông thường, một hoặc nhiều thủ tục chẩn đoán, chẳng hạn như xét nghiệm chẩn đoán, cũng được thực hiện trong quá trình này.  Đôi khi chẩn đoán sau sinh được coi là một loại chẩn đoán y tế.
+Chẩn đoán bệnh thường là công việc mang nhiều thách thức, bởi vì nhiều dấu hiệu và triệu chứng là không đặc hiệu.  Ví dụ, đỏ da (ban đỏ), bản thân là một dấu hiệu của nhiều rối loạn và không nói cho các bác sĩ đó là căn bệnh gì.  Do đó, việc chẩn đoán phân biệt, trong đó một số giải thích có thể được so sánh và đối chiếu, cần phải được thực hiện.  Điều này liên quan đến sự tương quan của các mẩu thông tin khác nhau theo sau là sự công nhận và phân biệt các mẫu.  Đôi khi, quá trình này được thực hiện dễ dàng bởi một dấu hiệu hoặc triệu chứng (hoặc một nhóm của một số) mang tính bệnh lý.
+Chẩn đoán là một thành phần chính của thủ tục thăm khám của bác sĩ.  Từ quan điểm của thống kê, thủ tục chẩn đoán bao gồm các xét nghiệm phân loại.
+
+
+== Lịch sử ==
+Những ví dụ đầu tiên được ghi nhận về chẩn đoán y khoa được tìm thấy trong các tác phẩm của Imhotep (2630-2611 TCN) ở Ai Cập cổ đại (Giấy cói Edwin Smith).  Một sách giáo khoa y tế thời Babylon, Sổ tay Chẩn đoán được viết bởi Esagil-kin-APLI (fl. 1069-1046 TCN), được giới thiệu việc sử dụng chủ nghĩa kinh nghiệm, luận lý và tính hợp lý trong việc chẩn đoán bệnh hoặc bệnh.  Y học cổ truyền Trung Quốc, như được mô tả trong Hoàng đế nội kinh, đã chỉ định bốn phương pháp chẩn đoán: kiểm tra, nghe tim thai, thẩm vấn và sờ nắn.  Hippocrates được biết là đã chẩn đoán bằng cách nếm nước tiểu của bệnh nhân và ngửi mùi mồ hôi của họ.
+
+
+== Sử dụng trong y tế ==
+Chẩn đoán, theo nghĩa của thủ tục chẩn đoán, có thể được coi là một nỗ lực phân loại tình trạng của một cá nhân thành các loại riêng biệt và riêng biệt cho phép đưa ra các quyết định y tế về điều trị và tiên lượng.  Sau đó, một ý kiến chẩn đoán thường được mô tả về mặt bệnh hoặc tình trạng khác, nhưng trong trường hợp chẩn đoán sai, bệnh hoặc tình trạng thực tế của cá nhân không giống như chẩn đoán của cá nhân.
+Một thủ tục chẩn đoán có thể được thực hiện bởi các chuyên gia chăm sóc sức khỏe khác nhau như bác sĩ, nhà trị liệu vật lý, bác sĩ nhãn khoa, nhà khoa học chăm sóc sức khỏe, bác sĩ chỉnh răng, nha sĩ, bác sĩ phẫu thuật, y tá hoặc trợ lý bác sĩ.  Bài viết này sử dụng từ bác sĩ chẩn đoán như bất kỳ loại nào trong số những người này.
+Một thủ tục chẩn đoán (cũng như ý kiến đạt được qua đó) không nhất thiết liên quan đến việc làm sáng tỏ nguyên nhân của các bệnh hoặc điều kiện quan tâm, đó là nguyên nhân gây ra bệnh hoặc tình trạng.  Làm sáng tỏ như vậy có thể hữu ích để tối ưu hóa điều trị, xác định thêm tiên lượng hoặc ngăn ngừa sự tái phát của bệnh hoặc tình trạng trong tương lai.
+Nhiệm vụ ban đầu là phát hiện chỉ định y tế để thực hiện quy trình chẩn đoán.  Chỉ định bao gồm:
+
+Phát hiện bất kỳ sai lệch nào so với những gì được coi là bình thường, chẳng hạn như có thể được mô tả về mặt, ví dụ, giải phẫu (cấu trúc của cơ thể người), sinh lý học (cách cơ thể hoạt động), bệnh lý (những gì có thể đi sai với giải phẫu và sinh lý học), tâm lý học (suy nghĩ và hành vi) và cân bằng nội môi của con người (liên quan đến các cơ chế để giữ cho hệ thống cơ thể cân bằng).  Kiến thức về những gì bình thường và đo lường tình trạng hiện tại của bệnh nhân theo các chỉ tiêu đó có thể giúp xác định sự ra đi cụ thể của bệnh nhân khỏi cân bằng nội môi và mức độ khởi hành, từ đó có thể giúp định lượng chỉ định cho xử lý chẩn đoán thêm.
+Một khiếu nại được thể hiện bởi một bệnh nhân.
+Việc một bệnh nhân đã tìm kiếm một bác sĩ chẩn đoán có thể tự nó là một chỉ định để thực hiện một thủ tục chẩn đoán.  Ví dụ, trong chuyến thăm của bác sĩ, bác sĩ có thể đã bắt đầu thực hiện quy trình chẩn đoán bằng cách theo dõi dáng đi của bệnh nhân từ phòng chờ đến phòng khám của bác sĩ ngay cả trước khi cô ấy bắt đầu đưa ra bất kỳ phàn nàn nào.
+
+
+== Tham khảo ==

@@ -1,0 +1,24 @@
+Tế bào thần kinh GnRH, hoặc tế bào thần kinh tiết hormone giải phóng gonadotropin, là những tế bào trong não kiểm soát việc giải phóng hormone sinh sản từ tuyến yên. Các tế bào não này kiểm soát sự sinh sản bằng cách tiết GnRH vào dòng máu mao mạch cửa tuyến yên, vì vậy đôi khi được gọi là “tế bào thần kinh giới tính”. Mạng lưới mao mạch nhỏ này mang GnRH đến thùy trước tuyến yên, giải phóng hormone tạo hoàng thể (LH) và hormone kích thích nang trứng (FSH) vào dòng máu lớn hơn. Khi tế bào thần kinh GnRH thay đổi kiểu tiết hormone GnRH thì cơ thể bắt đầu dậy thì. Nếu tế bào thần kinh GnRH không tạo các kết nối thích hợp, hoặc kích thích tuyến yên không thành công bằng GnRH, thì chưa bắt đầu dậy thì. Rối loạn hệ thống GnRH gây ra các rối loạn sinh sản như suy sinh dục (do suy giảm gonadotropin) hoặc hội chứng Kallmann.
+
+
+== Nguồn gốc của tế bào thần kinh GnRH ==
+Năm 1989, hai nhóm nghiên cứu độc lập phát hiện ra rằng các tế bào thần kinh GnRH, ở người lớn, nằm rải rác khắp vùng dưới đồi, không bắt nguồn từ vùng này của não. Thay vào đó, chúng di chuyển vào não dọc theo các sợi trục khứu giác từ mũi. Hầu hết các tế bào thần kinh GnRH được sinh ra từ các tế bào gốc ở tấm khứu giác phôi (mô mũi phôi). Gần đây hơn, người ta đã phát hiện ra rằng một tập hợp con các tế bào thần kinh GnRH có thể truy tìm nguồn gốc của chúng không phải từ tấm khứu giác phôi mà từ mào thần kinh trước đó trong quá trình hình thành phôi thai. Tập hợp con của các tế bào này di chuyển vào tấm khứu giác phôi, nơi chúng kết hợp với các tế bào thần kinh GnRH được sinh ra trong vùng này, và cùng nhau di chuyển vào não.
+
+
+== Hành trình từ mũi đến não ==
+Trên hành trình từ mũi đến não, các tế bào thần kinh GnRH đi qua mô mũi, hộp sọ ban đầu, và di chuyển qua một số vùng của não trước trước khi đến đích. Trên đường đi, các phân tử được tiết ra và liên kết với màng sẽ hướng dẫn chúng đi đúng hướng và giúp thiết lập tốc độ di chuyển của chúng. Các tế bào thần kinh GnRH không vào được não hoặc di chuyển đến sai vùng sẽ không hoạt động và thậm chí có thể trải qua quá trình chết tế bào theo chương trình. Các tế bào thần kinh GnRH không di chuyển vào não là nguyên nhân chính gây ra Hội chứng Kallmann. GABA, khử cực các tế bào thần kinh GnRH của phôi thai, làm chậm chuyển động nhưng giúp chúng di chuyển thẳng theo đường của chúng. SDF kích hoạt các kênh GIRK tăng phân cực, tăng tốc độ di chuyển. Các tín hiệu hướng dẫn khác như semaphorins  và HGF  cũng điều hòa chuyển động của tế bào thần kinh GnRH.
+
+
+=== Di chuyển của tế bào thần kinh GnRH ===
+Các nhà khoa học đã khám phá ra cách các phân tử dẫn đường khiến các tế bào thần kinh GnRH tăng tốc hoặc chậm lại. Thông thường, các ion calci trong tế bào đều nhanh chóng được kéo vào các bào quan như ti thể hoặc lưới nội chất. Các phân tử hướng dẫn gây ra sự giải phóng các ion calci này bằng cách đưa các ion này trở lại tế bào chất, nơi các protein cảm biến calci sẽ tổ chức lại bộ xương tế bào gồm vi ống  và actin  của tế bào, là những sợi phân tử tạo ra hình dạng của tế bào. Điều này gây ra các cơn co trong tế bào (tương tự như sự co cơ) liên kết với các protein kết dính trên bề mặt tế bào, kéo tế bào về phía trước.
+
+
+== Sinh lý GnRH ==
+Sự chuyển sang hoạt động điện tần số cao trong các tế bào thần kinh GnRH là tín hiệu bắt đầu dậy thì. Tế bào thần kinh GnRH nhận đầu vào từ các chất dẫn truyền thần kinh cổ điển như glutamate và GABA. Những chất dẫn truyền thần kinh này gây ra hoạt động điện được điều hòa thông qua quá trình phát triển để gây ra những thay đổi rộng rãi trong việc xâm nhập ion calci vào tế bào thông qua các kênh ion nhạy cảm với điện thế. Việc này kích hoạt giải phóng GnRH vào dòng máu mao mạch cửa tuyến yên, nơi hormone GnRH kích hoạt tuyến yên giải phóng hormone hoàng thể hóa và hormone kích thích nang trứng. Ngoài các chất dẫn truyền thần kinh cổ điển, một số phân tử hướng dẫn có thể thay đổi hệ thống dây dẫn của tế bào thần kinh GnRH đến hệ thống mao mạch cửa, làm thay đổi cường độ của tín hiệu đến tuyến yên.
+
+
+== Điều hòa tế bào thần kinh GnRH ==
+Tế bào thần kinh GnRH tích hợp thông tin từ cơ thể để điều hòa sinh sản. Chất kích hoạt tế bào thần kinh GnRH mạnh nhất là một loại hormone có tên là Kisspeptin. Tế bào thần kinh GnRH cũng tích hợp thông tin từ cơ thể thông qua các hormone như neuropeptide Y  và adiponectin. Các hormone này cung cấp cho các tế bào thần kinh GnRH thông tin về tình trạng của cơ thể để giúp xác định xem việc sinh sản nên ưu tiên hay kìm hãm.
+
+
+== Tham khảo ==

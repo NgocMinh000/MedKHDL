@@ -1,0 +1,10 @@
+Điện cơ đồ (Electromyography- EMG) là một kỹ thuật y học chẩn đoán điện để đánh giá và ghi lại hoạt động điện được tạo ra bởi cơ xương.  EMG được thực hiện bằng cách sử dụng một dụng cụ gọi là máy đo điện cơ để tạo ra một bản ghi gọi là điện cơ đồ.  Máy đo điện cơ phát hiện điện thế được tạo ra bởi các tế bào cơ  khi các tế bào này được kích hoạt bằng điện hoặc thần kinh.  Các tín hiệu có thể được phân tích để phát hiện các bất thường về y tế, mức độ kích hoạt hoặc lệnh tuyển dụng hoặc để phân tích cơ chế sinh học của chuyển động của con người hoặc động vật.
+
+
+== Sử dụng trong y tế ==
+Xét nghiệm EMG có nhiều ứng dụng lâm sàng và y sinh.  EMG được sử dụng như một công cụ chẩn đoán để xác định các bệnh thần kinh cơ, hoặc là một công cụ nghiên cứu để nghiên cứu về kinesiology và rối loạn kiểm soát vận động.  Tín hiệu EMG đôi khi được sử dụng để hướng dẫn độc tố botulinum hoặc tiêm phenol vào cơ bắp.  Tín hiệu EMG cũng được sử dụng như một tín hiệu điều khiển cho thiết bị giả như bàn tay, cánh tay, và chi dưới giả.
+Máy đo gia tốc có thể được sử dụng để theo dõi thần kinh cơ trong gây mê toàn thân bằng thuốc ức chế thần kinh cơ, để tránh hiện tượng dư hóa sau phẫu thuật (PORC).
+Ngoại trừ trong trường hợp một số tình trạng bệnh cơ nguyên phát hoàn toàn, EMG thường được thực hiện với một xét nghiệm y học chẩn đoán điện khác để đo chức năng dẫn truyền của các dây thần kinh.  Đây được gọi là nghiên cứu dẫn truyền thần kinh (NCS).  Kim EMG và NCS thường được chỉ định khi có đau ở chân tay, yếu do chèn ép dây thần kinh cột sống hoặc lo ngại về một số tổn thương hoặc rối loạn thần kinh khác.  Chấn thương dây thần kinh cột sống không gây ra đau cổ, đau lưng hoặc đau thắt lưng và vì lý do này, bằng chứng không cho thấy EMG hoặc NCS hữu ích trong chẩn đoán nguyên nhân đau thắt lưng, đau ngực hoặc đau cột sống cổ.  Kim EMG có thể hỗ trợ chẩn đoán chèn ép hoặc tổn thương dây thần kinh (như [[hội chứng ống cổ tay]]), chấn thương rễ thần kinh (như đau thần kinh tọa) và các vấn đề khác của cơ hoặc dây thần kinh.  Các điều kiện y tế ít phổ biến hơn bao gồm xơ cứng teo cơ bên, bệnh nhược cơ và loạn dưỡng cơ.
+
+
+== Tham khảo ==

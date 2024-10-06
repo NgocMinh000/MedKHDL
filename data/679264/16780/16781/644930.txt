@@ -1,0 +1,57 @@
+Huyết áp là áp lực đẩy do sự tuần hoàn của máu trong các mạch máu, và là một trong những dấu hiệu chính cho biết cơ thể còn sống hay đã chết. Khi tim đập, huyết áp thay đổi từ cực đại (áp lực tâm thu) đến cực tiểu (áp lực tâm trương). Huyết áp trung bình, gây ra do sức bơm của tim và sức cản trong mạch máu, sẽ giảm dần khi máu theo động mạch đi xa khỏi tim. Huyết áp giảm nhanh nhất khi máu chạy trong các động mạch nhỏ và các tiểu động mạch và tiếp tục giảm khi máu đi qua các mao mạch và huyết áp đạt mức nhỏ nhất trong tĩnh mạch quay trở lại tim. Các yếu tố ảnh hưởng đến huyết áp bao gồm: trọng lực, các van trong tĩnh mạch, nhịp thở, co cơ...
+Thuật ngữ "huyết áp" thường được dùng để chỉ áp lực đo ở cánh tay, mặt trong của tay ở vị trí cùi chỏ (động mạch tay). Huyết áp được biểu thị bằng một phân số mà tử số là áp lực tâm thu, mẫu số là áp lực tâm trương, đơn vị áp lực là milimet thủy ngân (mmHg), ví dụ: 140/90.
+Ngày nay với công nghệ dự báo chuỗi thời gian bằng mạng nơ-ron nhân tạo, người ta còn có thể dự báo huyết áp của bệnh nhân trong một số ngày tới dựa vào các số liệu huyết áp của bệnh nhân trong quá khứ.
+
+
+== Những thay đổi về huyết áp trong chu kỳ tim ==
+
+Tim bơm máu vào động mạch từng đợt gây ra huyết áp tâm thu và huyết áp tâm trương.
+- Huyết áp động mạch cao nhất khi tim co bóp trong thì tâm thất thu. Áp suất tại thời điểm này gọi là huyết áp tối đa hay huyết áp tâm thu. Huyết áp tâm thu thay đổi tùy tuổi, thường từ 90-140mmHg.
+- Huyết áp trong thì tâm thất dãn là huyết áp tối thiểu hay còn gọi là huyết áp tâm trương. Huyết áp tâm trương thay đổi từ  50-90mmHg.
+Huyết áp ở người được đo ở cánh tay, gọi là huyết áp động mạch. Huyết áp của trâu, bò, ngựa được đo ở đuôi.
+
+
+== Dự báo huyết áp ==
+Dự báo huyết áp là quá trình dự báo các giá trị huyết áp của một người trong tương lai căn cứ và các giá trị huyết áp của người đó trong quá khứ. Như vậy, giá trị huyết áp của một người sau quá trình đo thường xuyên sẽ lập thành một chuỗi số liệu, gọi là chuỗi thời gian. Người ta thường sử dụng các phương pháp xác suất thống kê để mô hình hóa chuỗi thời gian đó. Hiện nay công nghệ dùng để dự báo chuỗi thời gian được sử dụng phổ biến là công nghệ mạng nơ-ron nhân tạo.
+
+
+== Dụng cụ đo huyết áp ==
+Các dụng cụ đo huyết áp hay dùng: Huyết áp kế thủy ngân, huyết áp kế đồng hồ, huyết áp kế điện tử
+
+
+== Các yếu tố ảnh hưởng huyết áp ==
+Nhịp tim và lực co tim: Tim đập nhanh, mạnh làm tăng huyết áp. Tim đập chậm, lực co tim giảm thì huyết áp giảm.
+Sức cản của mạch máu: Lòng mạch hẹp lại do thành máu bị xơ vữa, làm tăng huyết áp. Tuổi già, thành mạch kém đàn hồi gây bệnh cao huyết áp.
+Khối lượng máu: Khi mất máu, khối lượng máu giảm làm huyết áp giảm. Thường xuyên ăn mặn làm áp suất thẩm thấu tăng, tăng thể tích máu gây bệnh cao huyết áp.
+Độ quánh máu
+
+Trong hệ mạch, huyết áp giảm gần từ động mạch đến mao mạch và tĩnh mạch. Huyết áp giảm dần là do ma sát của máu với thành mạch và ma sát của các phần tử máu với nhau khi máu chảy trong hệ mạch.
+
+
+== Điều hòa huyết áp ==
+Bất kỳ tác nhân nào làm thay đổi những yếu tố: nhịp tim, thể tích máu, tiết diện mạch,... đều làm thay đổi huyết áp.
+Huyết áp có thể biến động tạm thời khi hoạt động lao động nặng, tập thể thao, xúc động mạnh, nồng độ O2 trong không khí thấp,...
+Một số chất tác động dẫn đến thay đổi huyết áp:
+- Histamin: Do các mô trong cơ thể sản xuất ra. Histamin làm tăng tính thấm của mao mạch, gây dãn mạch và làm giảm huyết áp.
+- Ion Ca2+: Nồng độ ion Calci trong máu cao làm tim đập nhanh và gây co mạch.
+- NO: Được tiết ra từ các tế bào nội mạc. NO là chất cảm ứng chính gây dãn mạch, làm giảm huyết áp. (Tác dụng của NO được tìm ra bởi ba nhà khoa học Mỹ là: Robert Furchgott, Louis Ignarro và Ferid Murad. Nghiên cứu của họ đã được giải Nobel năm 1998).
+- Endothelin: Là một chất cảm ứng mạnh làm co mạch, có bản chất là một peptide. (Đây là kết quả của các nghiên cứu độc lập của Masashi Yanagisawa - nghiên cứu sinh tại đại học Tsukuba ở Nhật Bản)
+
+
+== Huyết áp và trọng lực ==
+ 
+Trọng lực có tác dụng đáng kể lên huyết áp. Ví dụ khi bạn đứng, đầu bạn cao hơn ngực khoảng 0,35m và huyết áp trong não bạn thấp hơn ở nơi gần tim khoảng 27mmHg. Nếu huyết áp trong não bạn quá thấp sẽ không đủ cung cấp máu, chắc chắn bạn sẽ ngất. Nhờ làm cơ thể bạn bị ngã xuống đất, ngất có hiệu quả đặt bạn ở ngang mức của tim, làm tăng nhanh chóng dòng máu lên não bạn.
+Thách thức bơm máu chống lại trọng lực là đặc biệt lớn với các động vật có cổ dài. Ví dụ: Hươu cao cổ cần huyết áp tâm thu trên 250 mm Hg ở vị trí gần tim. Khi hươu cao cổ cúi đầu uống nước, các van một chiều và các xoang theo cơ chế điều hòa ngược làm giảm cung lượng tim, ngăn huyết áp cao đó làm tổn thương cho não.
+Trọng lực cũng là yếu tố tác động lên dòng máu ở tĩnh mạch, đặc biệt là tĩnh mạch ở chân. Mặc dù huyết áp tĩnh mạch là tương đối thấp. Song có một số cơ chế hỗ trợ máu tĩnh mạch trở về tim, đó là: - Sự co bóp nhịp nhàng của các cơ trơn ở thành tiểu động mạch và tĩnh mạch trong chuyển động của máu. - Sự co bóp của các cơ vân trong vận động ép máu qua các tĩnh mạch về tim. Điều này giải thích tại sao khi bạn đi lại lên xuống định kì lối đi giữa hai hàng ghế trong một chuyến bay dài giúp ngăn chặn nguy cơ hình thành cục máu đông trong tĩnh mạch. - Sự thay đổi về áp suất trong khoang lồng ngực khi hít vào làm tĩnh mạch chủ và các tĩnh mạch lớn khác gần tim dãn ra và đẩy máu.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Blood Pressure Association (UK)
+British Hypertension Society: list of validated blood pressure monitors Lưu trữ 2009-01-29 tại Wayback Machine
+Pulmonary Hypertension Cleveland Clinic
+American Heart Association [1]
+Blood pressure monitoring
+Control of Blood Pressure

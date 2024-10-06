@@ -1,0 +1,38 @@
+Vật trung gian truyền bệnh hay còn gọi là Vector (Véc-tơ) 
+là sinh vật mang mầm bệnh (ký sinh trùng) và truyền ký sinh trùng từ người này sang người khác. Động vật có vú, chim, động vật chân đốt và côn trùng tất cả đều có nguy cơ truyền bệnh cho người. Các vật hại truyền bệnh được gọi là vật chủ trung gian.
+
+
+== Tổng quan ==
+Vật chủ trung gian mang sinh vật gây bệnh từ vật chủ nhiễm bệnh là một động vật hay một người và truyền cho một vật chủ trung gian khác hoặc trực tiếp sang người mà nó ký sinh. Việc truyền bệnh xảy ra trực tiếp do cắn, chích hoặc gây bội nhiễm các mô hoặc gián tiếp do truyền nhiễm bệnh. Muỗi và ve là các vật chủ trung gian truyền bệnh đáng chú ý nhất bởi cách thức truyền bệnh phổ biến nhất của chúng là qua máu hay chuột là vật trung gian truyền bệnh dịch hạch.
+Cần phân biệt thuật ngữ vật chủ trung gian (vật chủ phụ) với sinh vật trung gian truyền bệnh qua các khái niệm:
+
+Trung gian truyền bệnh sinh học, còn được gọi là vật chủ trung gian khi ký sinh trùng có sự phát triển tăng trưởng về số lượng trong cơ thể trung gian truyền bệnh. Ví dụ: muỗi Anopheles là trung gian truyền bệnh sinh học của ký sinh trùng sốt rét.
+Trung gian truyền bệnh cơ học, còn được gọi là sinh vật trung gian truyền bệnh khi ký sinh trùng không có sự phát triển tăng trưởng về số lượng trong cơ thể của trung gian truyền bệnh. Ví dụ: ruồi nhà là trung gian truyền bệnh cơ học của ký sinh trùng Entamoeba histolytica truyền bệnh lỵ a míp.
+Các bệnh lây truyền qua vật chủ trung gian phổ biến ở các vùng nhiệt đới và bán nhiệt đới và tương đối hiếm ở các vùng ôn đới, mặc dù sự biến đổi về khí hậu có thể tạo điều kiện thích hợp cho sự bùng phát của các dịch bệnh ở các vùng ôn đới.
+
+
+== Một số loài ==
+Ruồi là loài côn trùng sống rất gần con người. Chỗ trú ẩn thường xuyên của ruồi là những nơi vô cùng bẩn thỉu như thùng rác, nhà vệ sinh, bờ rào, thức ăn thừa, thảm cây thấp hay xung quanh các động vật khác. Vì thế nên chúng luôn mang mầm bệnh và trở thành vật trung gian nguy hiểm truyền nhiễm mầm bệnh cho con người. Ngoài ra, ruồi còn đốt và hút máu gia súc và kể cả người. Chúng có thể khiến con người mắc bệnh thương hàn, tả, tiêu chảy, kiết lị, nhiễm trùng mắt, giun sán hay các bệnh ngoài da như nấm, mụn cóc... Nhiều trường hợp biến chứng còn có thể sốt cao, co giật và hôn mê.
+Muỗi là loại côn trùng sinh trưởng trong các đầm lầy, ao hồ, vũng nước đọng và có tính nguy hiểm khá cao. Tác hại của muỗi không thể hiện ngay lập tức nhưng để lại hậu quả khá nặng nề. Việt Nam với khí hậu nhiệt đới là nơi lý tưởng để muỗi sinh tồn và phát triển mạnh mẽ. Muỗi là vật trung gian truyền bệnh giữa người với người, giữa người và động vật. Muỗi hút máu người, động vật bị bệnh sẽ mang theo virut và lây lan cho người, động vật bị chúng hút máu tiếp theo. Các loại bệnh mà muỗi gây ra cho con người đều rất nguy hiểm như sốt xuất huyết, sốt rét, Viêm não Nhật Bản, giun chỉ...Nguy hiểm nhất trong các loài muỗi là muỗi vằn anophen.
+Gián là loại côn trùng gây hại cho sức khỏe con người. Gián thường sống thành bầy đàn, hoạt động vào bạn đêm, có tập tính sống ở những nơi bẩn thỉu. Gián ăn tất cả những thứ xuất hiện trước mắt chúng, thực phẩm của con người, động vật chết, ăn xác lột của chúng, nhấm móng tay, móng chân, quần áo, sách vở...Gián là tác nhân hủy hoại, làm thức ăn bị nhiễm khuẩn, truyền và phát tán một số loại bệnh đã được khẳng định hoặc nghi ngờ vì nó mang mầm bệnh tiêu chảy, kiết lỵ, dịch tả, phong, dịch hạch, thương hàn, virus bại liệt... Ngoài ra, nó còn mang các loại trứng giun gây ra các bệnh về đường ruột cho con người. Các mảnh da lột, phân và xác chết gián gây nguy hiểm cho những người mắc bệnh hen suyễn và dị ứng, đặc biệt là trẻ em.
+Chuột là loài động vật bẩn thỉu và là tác nhân truyền bệnh dịch hạch gây là đại dịch cái chết đen khủng khiếp trên thế giới.
+Nghêu, sò, ốc là vật trung gian của hàng loạt các loại nang sán, ấu trùng, ký sinh trùng: vi khuẩn tả, lỵ, thương hàn, amip, Coliforms, E.coli... (khi ở dưới nước); các loại ký sinh trùng, ấu trùng của các loại giun, sán... (trong quá trình thu hoạch, vận chuyển, bày bán nhưng không đảm bảo vệ sinh).
+
+
+== Tham khảo ==
+Pawan, J.L. (1936). "Transmission of the Paralytic Rabies in Trinidad of the Vampire Bat: Desmodus rotundus murinus Wagner, 1840." Annual Tropical Medicine and Parasitol, 30, ngày 8 tháng 4 năm 1936:137–156.
+Pawan, J.L. "Rabies in the Vampire Bat of Trinidad with Special Reference to the Clinical Course and the Latency of Infection." Annals of Tropical Medicine and Parasitology. Vol. 30, No. 4. December 1936
+Quammen, David (ngày 4 tháng 4 năm 2013). “Planet of the Ape; 'Between Man and Beast,' by Monte Reel”. The New York Times. Truy cập ngày 7 tháng 4 năm 2014.
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Vật chủ
+Mầm bệnh
+Bệnh truyền nhiễm
+Ký sinh trùng
+Vi trùng
+Vi khuẩn
+Virus

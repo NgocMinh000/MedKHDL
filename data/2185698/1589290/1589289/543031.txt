@@ -1,0 +1,50 @@
+I.	Đặc điểm cấu tạo:
+-	Số lượng: 4 tuyến
+-	Vị trí: nằm ngay sau tuyến giáp (2 tuyến ở cực trên và 2 tuyến ở cực dưới)
+-	Kích thước: rất nhỏ, chỉ khoảng 6x3x2 mm.
+-	Do tuyến cận giáp rất nhỏ, màu sắc tuyến lại rất giống màu sắc của tuyến giáp nên rất khó phân biệt bằng mắt thường, vì thế rất dễ cắt bỏ một phần hay toàn bộ tuyến cận giáp trong những phẫu thuật cắt bỏ tuyến giáp. Thế nhưng chỉ cần một phần nhỏ của tuyến cận giáp còn lại thì phần này sẽ tăng sinh tế bào để đảm bào chức năng của toàn bộ tuyến.
+-	Cấu tạo: tuyến cận giáp ở người trưởng thành gồm hai loại tế bào: tế bào chính và tế bào ưa oxy. Trong đó tế bào chính là thành phần cấu tạo chủ yếu của tuyến cận giáp, tế bào ưa oxy chỉ có ở người trưởng thành mà không có ở nhiều loài động vật.
+-	Chức năng: tế bào chính bài tiết ra parahormon, còn chức năng của tế bào ưa oxy đến nay còn chưa biết rõ.
+
+II.	Hormon của tuyến cận giáp (Parahormon - PTH):
+1.	Bản chất hóa học:''
+-	Hormon là một polypeptide gồm có 110 amino acid, ban đầu được tổng hợp ở ribosom dưới dạng preprohormon sau đó chúng được cắt nhỏ hơn thành prohormon có 90 amino acid và lại được cắt bớt chỉ còn 84 amino acid ở lưới nội bào tương và bộ Golgi và được lưu trữ trong các hạt bài tiết nằm trong bào tương để chờ giải phóng vào máu.
+-	Dạng hoạt động của hormon trong máu tuần hoàn là một phân tử polypeptide có 84 amino acid. Nhưng chuỗi polypeptide nhỏ hơn với 34 amino acid nằm ở phía nhóm – NH2 cũng có đủ hoạt tính sinh học như phân tử hormone có 84 amino acid.
+-	Tác dụng của hormone: Đây là một hormone sinh mạng của cơ thể, nó đóng vai trò trong điều hòa nồng độ ion Ca2+ và ion phosphate (PO43-) trong huyết tương. Dưới tác dụng của hormone, nồng độ ion calci huyết tương tăng lên nhưng ngược lại nồng độ ion phosphate lại giảm đi.
+PTH thực hiện chức năng này bằng những tác dụng trên xương, thận và ruột.
+2.	Tác dụng trên xương:
+Hormon có tác dụng làm tăng mức giải phóng calci từ xương vào máu bằng tác dụng lên sự biệt hóa và hoạt động cả các tế bào như: tế bào xương, tế bào tạo xương, tế bào hủy xương
+-	Trên tế bào xương và tế bào tạo xương:
+Ở mô xương, PTH gắn với receptor trên màng tế bào xương và tế bào tạo xương. Quá trình gắn này sẽ làm hoạt hóa bơm calci, làm tế bào xương và tế bào tạo xương sẽ bơm ion calci từ dịch xương vào dịch ngoại bào. Khi bơm này được hoạt hóa mạnh sẽ làm giảm nồng độ ion calci trong dịch xương, khi bơm không hoạt động thì làm cho muối calci phosphate lại tiếp tục lắng động vào khuôn xương (trong xương, các tế bào xương và tế bào tạo xương liên hệ với nhau làm thành một hệ thống tế bào tiếp nối nhau trải khắp xương và bề mặt của xương chỉ trừ vùng tiếp giáp với các tế bào hủy xương).
+-	Trên tế bào hủy xương:
+Do trên tế bào hủy xương không có receptor trực tiếp của PTH nên tác dụng trên tế bào này phải thông qua tế bào xương, tế bào hủy xương và tác dụng này thường xảy ra chậm hơn. Tác dụng thường trải qua 2 giai đoạn:
+-	Hoạt hóa ngay tức khắc các tế bào hủy xương sẵn có do đó làm tăng quá trình hủy xương để giải phóng ion calci vào dịch xương.
+-	Hình thành nên các tế bào hủy xương mới: tác dụng này sẽ xuất hiện sau vài ngày, lúc này các tế bào hủy xương mới tăng lên (có thể kéo dài hàng vài tháng dưới ảnh hưởng của PTH). Chính sự hủy xương mạnh làm xương bị rỗ và yếu hơn sẽ kích thích các tế bào xương và tạo xương sửa chữa tổn thương. Do vậy ở thời gian lâu thì ở xương sẽ có sự gia tăng của cả ba loại tế bào nhưng dưới tác dụng của PTH thì bao giờ quá trình hủy xương cũng diễn ra mạnh hơn tạo xương.
+3.	Tác dụng trên thận:
+-	Làm giảm bài xuất ion calci ở thận
+-	Làm tăng tái hấp thu ion calci và magnesi ở ống thận đặc biệt ở ống lượn xa và ống góp.
+-	Làm giảm tái hấp thu ion phosphate ở ống lượn gần do đó làm tăng đào thải ion phosphate ra nước tiểu.
+>>> Các tác dụng trên sẽ làm tăng nồng độ ion calci và làm giảm nồng độ ion phosphate trong máu.
+4.	Tác dụng trên ruột:
+PTH hoạt hóa quá trình tạo 1,2 dihydroxycholecalciferol từ vitamin D3 (cholecalciferol) nên PTH có những tác dụng trên ruột như sau:
+-	Tăng tạo enzyme ATPase ở riềm bàn chải của tế bào biểu mô niêm mạc ruột.
+-	Tăng tạo chất vận tải ion calci ở tế bào niêm mạc ruột.
+-	Tăng hoạt tính enzyme phosphatase kiềm ở tế bào niêm mạc ruột.
+>>> Cả ba tác dụng trên đểu làm tăng hấp thu ion calci và phosphate ở ruột.
+5.	Điều hòa bài tiết:
+Nồng độ PTH bình thường trong máu là vào khoảng dưới 50 pg/ml. Hormon được bài tiết nhiều hay ít tùy thuộc vào nồng độ ion calci và phosphate trong máu đặc biệt là ion calci. Chỉ cần giảm nhẹ nồng độ ion calci thi tuyến sẽ tăng tiết hormone ngay, và tình trạng giảm calci kéo dài có thể làm tuyến sẽ nở to ra còn nồng độ ion calci trong máu tăng thì hoạt động và kích thước của tuyến sẽ giảm.
+III.	Những rối loạn hoạt động của tuyến cận giáp:
+1.	Nhược năng tuyến cận giáp:
+Là tình trạng tuyến cận giáp không bài tiết đủ lượng PTH do giảm hoạt động chức năng của tuyến sẽ dẫn đến những rối loạn trong cơ thể do tình trạng giảm nồng độ ion calci gây ra.
+-	Biểu hiện: Ngưỡng kích thích của sợi thần kinh giảm xuống (xảy ra cả với sợi thần kinh cảm giác và vận động) do đó làm tăng đáp ứng thần kinh cơ.
+-	Thể nhẹ: Phát hiện nhờ làm nghiệm pháp Chvostek và Trousseau phát hiện dấu hiệu co cơ.
+-	Thể nặng: Xuất hiện các cơn tetany, gây co các cơ trong cơ thể nhưng quan trọng nhất là khi co thắt các cơ ở thanh quản gây ngừng thở nếu không cấp cứu kịp bệnh nhân sẽ tử vong.
+-	Xét nghiệm: làm xét nghiệm máu và nước tiểu sẽ phát hiện tình trạng giảm nồng độ PTH, ion calci; nồng độ phosphate huyết tương tăng lên, giảm ở trong nước tiểu.
+2.	Ưu năng tuyến cận giáp:
+Thường là do có khối u ở một số các tuyến cận giáp. Bệnh thường hay gặp ở phụ nữ hơn do khi có thai và cho con bú thường kích thích tuyến cận giáp và đây chính là điều kiện để có thể phát triển thành khối u.
+Tình trạng ưu năng tuyến cận giáp làm tăng quá trình hủy xương mạnh nên làm tăng cao nồng độ ion calci trong máu, đồng thời xương cũng rỗng, yếu hơn và dễ gãy hơn và lượng ion calci được đào thải qua thận nhiều cũng dễ gây ra tình trạng bị sỏi thận.
+
+
+== Tham khảo ==
+
+"Sinh lý học" Bộ môn sinh lý học, trường đại học Y Hà Nội; Nhà xuất bản Y Học, 2001

@@ -1,0 +1,33 @@
+Mimivirus là một chi virus bao gồm một loài được khám phá ra, loài này có tên khoa học Acanthamoeba polyphaga mimivirus (APMV). APMV thường được gọi một cách đơn giản là "mimivirus", có nghĩa "virus bắt chước". Nó có vỏ capsid với đường kính lớn nhất của các virus được khám phá, cũng như bộ gen lớn và phức tạp đối với những virus khác. Tuy những nhà sinh học chưa hiểu biết nhiều về virus này, nhưng cộng đồng sinh học chú trọng khám phá này vì cấu trúc phức tạp của nó, có cả người miêu tả nó là vực mới và liên kết chờ đợi dã lâu giữa virus và vi khuẩn.
+
+
+== Sự khám phá ==
+APMV tình cờ được khám phá ra năm 1992 ở trong amip Acanthamoeba polyphaga, nguồn tên của nó, trong việc nghiên cứu về bệnh legionellosis. Virus này được tìm thấy sau khi nhuộm Gram, nên nhà khoa học tưởng lầm nó là vi khuẩn Gram dương. Bởi vậy, nó được đặt tên là "Bradfordcoccus", theo nguồn của amip tại Bradford (Anh). Năm 2003, những nhà nghiên cứu tại trường Đại học Địa Trung Hải tại Marseille (Pháp) xuất bản bài thuyết trình trong tạp chí Science nhận ra vi sinh vật này là loài virus.
+Mimivirus có thể là tác nhân gây ra một số loại viêm phổi; tuy nhiên, đây là đề xuất lâm thời chỉ dựa trên bằng chứng gián tiếp theo những kháng thể gặp trong người bị viêm phổi. Tuy mimivirus chỉ được phân loại là tác nhân gây bệnh tạm thời, nhưng càng ngày càng thêm bằng chứng rằng nó có thể gây viêm phổi virus.
+
+
+== Phân loại ==
+Ủy ban Quốc tế về Phân loại Virus (International Committee on Taxonomy of Viruses, ICTV) chưa xếp mimivirus trong họ virus. Tuy nhiên, người ta dự đoán theo dữ liệu siêu bộ gen (metagenomic) rằng họ được đề xuất, Mimiviridae, bao gồm thêm loài. Ngoài ra, nó được xếp trong Nhóm I của hệ thống phân loại Baltimore.
+Mimivirus thuộc về một nhóm virus cỡ lớn, virus DNA lớn có nhân và tế bào chất (nucleocytoplasmic large DNA viruses, NCLDV), đây không phải là hệ thống phân loại theo đúng nghĩa. Các virus này là loài lớn đều có đặc tính phân tử chung và bộ gen lớn. Bộ gen mimivirus cũng chứa 21 gene để biến chất đồng đãng thành protein mà phần nhiều NCLDV vẫn giữ rất nhiều, và sự nghiên cứu gợi ý rằng mimivirus là một loài tách ra sớm khỏi nhóm chung NCLDV.
+
+
+== Cấu trúc ==
+Mimivirus là một trong những virus lớn nhất được khám phá, chỉ có loại phụ mamavirus thì lớn hơn, với đường kính vỏ capsid tới 400 nm. Những sợi protein dài đến 100 nm nhô ra từ mặt capsid, tính vào những sợi này thì virus dài đến 600 nm tổng cộng. Những con số này rất sơ sơ; các thuyết trình khoa học nói khác nhau, trong khi "cỡ" của virus được cho là từ 400 nm đến 800 nm, tùy theo tính chiều dài tổng cộng hay đường kính capsid. Với chiều dài này, nó lớn bằng vài loài vi khuẩn, như là Rickettsia conorii (bệnh còi xương) and Tropheryma whipplei (bệnh Whipple). Capsid hình như có lục giác khi nhìn dưới kiếnh hiển vi điện tử, cho nên tính đối xứng capsid có hình khối hai mươi mặt đều. Hình như nó không có vỏ virus bên ngoài, nên có lẽ virus không thoát khỏi tế bào chủ bằng phương pháp xuất bào.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Raoult, Didier (2004). et al. “The 1.2-megabase genome sequence of Mimivirus”. Science (bằng tiếng Anh). Hiệp hội Tiến bộ Khoa học Mỹ. 306 (5700): 1344–1350. doi:10.1126/science.1101485. PMID 15486256. 
+Ghedin, Elodie (2005). Jean-Michel Claverie. “Mimivirus relatives in the Sargasso sea”. Virology Journal (bằng tiếng Anh). 2: 62. doi:10.1186/1743-422X-2-62. 
+
+
+== Xem thêm ==
+Thực virus thể Sputnik (Sputnik virophage)
+
+
+== Liên kết ngoài ==
+
+Mimivirus – loài virus khổng lồ – Thư viện Khoa học
+Hình ảnh mimivirus – ICTVdB

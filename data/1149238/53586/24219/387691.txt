@@ -1,0 +1,26 @@
+"Hệ trí tuệ nhân tạo lai" sử dụng song song các phương pháp và kỹ thuật trí tuệ nhân tạo. Trên quan điểm khoa học nhận dạng, tất cả các hệ thống trí tuệ tự nhiên đều là hệ thống lai, vì nó thực hiện các hoạt động trên cả hai cấp ký hiệu và dưới ký hiệu. Trong vài năm trước đây, các hệ thống Trí tuệ nhân tạo (TTNT) tích hợp được tăng cường thảo luận. Trên cơ sở cho rằng các hệ thống TTNT chuyên dụng và đơn giản đã được tạo ra.(chẳng hạn như các hệ thống máy tính quan sát, đánh vần, vv, hoặc phần mềm sử dụng một số trong những mô hình đã đề cập ở trên) và bây giờ là lúc tích hợp để tạo hệ thống TTNT mở rộng. Những người đề xuất phương pháp tiếp cận này gồm: Marvin Minsky, Ron Sun, Aaron Sloman, và Michael A. Arbib. 
+Một ví dụ của Hệ TTNT lai là hệ thống kiểm soát có thứ bậc, trong đó lớp thấp nhất là lớp dưới ký hiệu. Các lớp cao hơn, có thời gian giãn cách nhất định, là một mô hình trừu tượng và quy hoạch.
+Xem thêm:
+Mạng nơ-ron
+Lô-gic mờ
+
+
+== Tham khảo ==
+R. Sun & L. Bookman, (eds.), Computational Architectures Integrating Neural and Symbolic Processes. Kluwer Academic Publishers, Needham, MA. 1994. http://www.cogsci.rpi.edu/~rsun/book2-ann.html Lưu trữ 2009-05-05 tại Wayback Machine
+S. Wermter and R. Sun, (eds.) Hybrid Neural Systems. Springer-Verlag, Heidelberg. 2000. http://www.cogsci.rpi.edu/~rsun/book4-ann.html Lưu trữ 2009-09-24 tại Wayback Machine
+R. Sun and F. Alexandre, (eds.) Connectionist-Symbolic Integration. Lawrence Erlbaum Associates, Mahwah, NJ. 1997.
+Albus, J. S., Bostelman, R., Chang, T., Hong, T., Shackleford, W., and Shneier, M. Learning in a Hierarchical Control System: 4D/RCS in the DARPA LAGR Program Lưu trữ 2008-09-16 tại Wayback Machine NIST, 2006
+International Journal of Hybrid Intelligent Systems http://ijhis.hybridsystem.com/
+http://www.iospress.nl/html/14485869.php Lưu trữ 2005-12-11 tại Wayback Machine
+International Conference on Hybrid Intelligent Systems http://his.hybridsystem.com/
+HIS'01: http://www.softcomputing.net/his01/
+HIS'02: http://tamarugo.cec.uchile.cl/~his02/ Lưu trữ 2006-02-09 tại Wayback Machine
+HIS'03: http://www.softcomputing.net/his03/
+HIS'04: http://www.cs.nmt.edu/~his04 Lưu trữ 2006-03-03 tại Wayback Machine
+HIS'05: http://www.ica.ele.puc-rio.br/his05 Lưu trữ 2005-12-23 tại Wayback Machine
+HIS'06 http://his-ncei06.kedri.info/ Lưu trữ 2011-05-10 tại Wayback Machine
+HIS'07 September 17-19, 2007, Kaiserslautern, Germany, http://www.eit.uni-kl.de/koenig/HIS07_Web/his07main.html
+hybrid systems resources: http://www.cogsci.rpi.edu/~rsun/hybrid-resource.html Lưu trữ 2009-09-25 tại Wayback Machine
+
+
+== Tham khảo ==

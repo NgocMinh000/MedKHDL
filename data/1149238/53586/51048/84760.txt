@@ -1,0 +1,102 @@
+Robot hoặc Rôbốt, Rô-bô (tiếng Anh: robot) là một loại máy có thể thực hiện những công việc một cách tự động bằng sự điều khiển của máy tính hoặc các vi mạch điện tử được lập trình. Robot là một tác nhân cơ khí, nhân tạo, thường là một hệ thống cơ khí-điện tử.
+Từ ngữ "robot" thường được hiểu với hai nghĩa: robot cơ khí và phần mềm tự hoạt động. Do sự đa dạng mức độ tự động của hệ thống cơ-điện tử mà ranh giới phân chia robot với phần còn lại không được rõ ràng, thể hiện ở quan niệm về định nghĩa robot. Về lĩnh vực Robot, Mỹ và Nhật Bản là những nước đi đầu thế giới về lĩnh vực này.
+Thuật ngữ "robot" xuất phát từ tiếng Séc robota, có nghĩa là "lao động cưỡng bức", và từ 'robot' lần đầu tiên được sử dụng để biểu thị một nhân vật hư cấu trong vở kịch "Các Robot Toàn năng của Rossum" (tiếng Séc: Rossumovi Univerzální Roboti) năm 1920 của nhà văn Séc Karel Čapek (tuy nhiên người phát minh thực sự của từ lại là người anh trai Josef Čapek) . Sự phát triển của công nghiệp điện tử dẫn đến sự ra đời của robot tự động điện tử đầu tiên, được tạo ra bởi William Grey Walter ở Bristol, Anh năm 1948, cũng như các công cụ máy tính điều khiển số (CNC) cuối những năm 1940 bởi John T. Parsons và Frank L. Stulen. Robot đầu tiên, kỹ thuật số và lập trình được xây dựng bởi George Devol năm 1954 và được đặt tên là Unimate .
+Nếu robot được thể hiện ra hình dạng, hình thái, và những hành vi chuyển động của nó mô phỏng hoặc tạo cảm giác giống như con người thì robot đó thường được gọi là người máy.
+
+
+== Tiêu chuẩn của robot ==
+Ngày nay, người ta vẫn còn đang tranh cãi về vấn đề: "Một loại máy như thế nào thì đủ tiêu chuẩn để được gọi là một rôbốt?" Một cách gần chính xác, rôbốt phải có một vài (không nhất thiết phải đầy đủ) các đặc điểm sau đây:
+
+Không phải là tự nhiên, tức là do con người sáng tạo ra.
+Có khả năng nhận biết môi trường xung quanh.
+Có thể tương tác với những vật thể trong môi trường.
+Có sự thông minh, có khả năng đưa ra các lựa chọn dựa trên môi trường và được điều khiển một cách tự động theo những trình tự đã được lập trình trước.
+Có khả năng điều khiển được bằng các lệnh để có thể thay đổi tùy theo yêu cầu của người sử dụng.
+Có thể di chuyển quay hoặc tịnh tiến theo một hay nhiều chiều.
+Có sự khéo léo trong vận động.
+
+
+== Những điểm cần chú ý của định nghĩa robot ==
+
+
+=== Đặc điểm bộ não ===
+Theo những kỹ sư rôbốt, hình dáng bên ngoài của máy móc không quan trọng bằng việc hoạt động của nó được điều khiển như cách nào? Hệ thống điều khiển càng có tác dụng bao nhiêu, máy móc càng có khả năng được gọi là rôbốt bấy nhiêu. Một đặc điểm tiêu biểu để phân biệt robot nữa đó là khả năng đưa ra các lựa chọn. Càng có khả năng đưa ra nhiều lựa chọn để giải quyết một vấn đề bao nhiêu, robot càng được đánh giá cao.
+Ví dụ:
+
+Các loại đồng hồ đo của xe hơi (tốc độ, quãng đường,...) không bao giờ được xem như là một robot.
+Những chiếc xe đồ chơi được điều khiển bằng sóng radio gần như hoàn toàn không được gọi là robot mặc dù thỉnh thoảng nó vẫn được gọi là rôbốt điều khiển từ xa.
+Một chiếc xe hơi với máy tính gắn bên trong có khá năng tự động lái (Bigtrak) theo những trình tự đã được lập trình sẵn có thể được gọi là robot.
+Xe điều khiển tự động có thể cảm nhận môi trường xung quanh, đưa ra các quyết định cho xe chuyển động dựa trên cơ sở những thông tin mà nó cảm nhận được thì hoàn toàn được gọi là robot.
+Xe có giác quan (KTTT) trong truyện giả tưởng có khả năng đưa ra quyết định, đánh dấu đường đi và có thể giao tiếp với con người thật sự là một rôbốt.
+
+
+=== Đặc điểm hình dáng cơ thể ===
+
+Tuy nhiên, theo nhiều người, nếu một cái máy có thể tự động hóa được, đặc biệt nếu nó là một bộ phận giống tay, chân hoặc là một cỗ máy có tay chân (cánh tay rô-bốt) hoặc có khả năng xoay tròn thì được gọi là rô-bốt. Trong trường hợp rô-bốt mang hình dáng bên ngoài như con người còn được gọi là người máy.
+Những ví dụ được gọi là rô-bốt:
+
+Dương cầm điện tử cũng có thể được gọi là rô-bốt.
+Máy phay CNC nhiều lúc cũng được gọi là rô-bốt.
+Cánh tay tự động ở nhà máy là rô-bốt.
+Đồ chơi cơ khí giống người (Roboraptor) là rô-bốt.
+Dạng rô-bốt giống người hoặc mang hình dáng bên ngoài giống người (người máy như Asimo) hoàn toàn được gọi là rô-bốt.
+Có một ví dụ rất thú vị: máy phay CNC 3 trục có hệ thống điều khiển rất giống với cánh tay rô-bốt nhưng nó vẫn thường được gọi là một cái máy. Rõ ràng, việc có tay hay chân của rô-bốt đã tạo ra sự khác biệt giữa các loại máy móc. Tuy nhiên, việc có hình dáng giống người chưa đủ cơ sở để khẳng định một máy móc là rô-bốt. Rô-bốt là một loại máy có khả năng thực hiện được một công việc nào đó cho dù công việc đó có hiệu quả hay không. Vì vậy, một con rô-bốt đồ chơi trẻ em bằng nhựa dù có hình dạng giống Asimo nhưng không bao giờ là một rô-bốt.
+
+
+== Ứng dụng ==
+Robot thường được dùng nhiều trong các lĩnh vực như y học, nghiên cứu khoa học, thể thao, quân sự, giúp đỡ người khuyết tật...
+
+
+== Những định nghĩa khác về rô-bốt ==
+
+Không có một định nghĩa nào về rô-bốt có thể thuyết phục tất cả mọi người, nên rô-bốt còn có những cách định nghĩa khác như sau:
+
+Tiêu chuẩn quốc tế ISO 8373 định nghĩa rô-bốt như sau: "Đó là một loại máy móc được điều khiển tự động, được lập trình sẵn, sử dụng vào nhiều mục đích khác nhau, có khả năng vận động theo nhiều hơn 3 trục, có thể cố định hoặc di động tùy theo những ứng dụng của nó trong công nghiệp tự động."
+Joseph Engelberger, một người tiên phong trong lĩnh vực rô-bốt công nghiệp nhận xét rằng: "Tôi không thể định nghĩa rô-bốt, nhưng tôi biết loại máy móc nào là rô-bốt khi tôi nhìn thấy nó!!".
+Từ điển Cambridge trực tuyến định nghĩa rô-bốt rằng: "Đó là một loại máy có thể thực hiện những công việc một cách tự động bằng sự điều khiển của máy tính".
+Người máy hay Rô-bốt là công cụ cơ điện tử, thủy lực, nhân tạo, ảo,... thay thế con người trong công nghiệp hay môi trường nguy hiểm. Rô-bốt còn là công cụ để giúp con người giải trí, tìm hiểu khoa học.
+
+
+== Tai nạn ==
+Tuy người máy có thể giúp con người rất nhiều trong những công việc mà con người không thể làm nhưng trong khi sử dụng người máy đồng thời cũng xảy ra những tai nạn đáng tiếc. Tháng 9 năm 1978 ở Nhật Bản, đã xảy ra một vụ việc mà người máy làm nghề cắt gọt đã cắt chết một người. Vụ này đã trở thành lần đầu tiên người máy đã trở thành kẻ sát nhân trong lịch sử được ghi nhận. Năm 1981 vẫn ở Nhật Bản cũng đã xảy ra vụ tương tự.
+
+
+=== Nguyên nhân ===
+Nhiều nhà chuyên môn sau khi nghiên cứu đã nhận xét. Việc người máy bỗng trở nên mất kiểm soát là do các linh kiện trong hệ thống bị bất ngờ gặp trục trặc hoặc hệ thống điện tử bị nhiễm sóng điện tử nặng. Vì sự việc xảy ra quá nhanh nên khó lòng kiểm soát được vụ việc.
+
+
+=== Biện pháp ===
+Sau những tai nạn, con người càng thận trọng hơn với việc sử dụng người máy. Ở nhiều nước hiện đại, đã sản xuất và sử dụng người máy, đã đặt ra các luật lệ và quy tắc an toàn khi sử dụng hay sản xuất người máy. Đồng thời tăng cường các hệ thống của người máy nhằm hạn chế tối đa các bộ phận bị trục trặc.
+Không dừng ở đó, mối lo ngại về người máy quá thông minh có thể làm phản và tạo ra một cuộc chiến tranh khổng lồ đã được tưởng tượng như trong phim Kẻ hủy diệt vì thế nhà văn viễn tưởng Asimov đã ra 3 luật để nhằm đảo bảo an toàn cho loài người.
+
+Điều 1: Trong bất cứ trường hợp nào người máy cũng không được gây thương vong cho con người, hoặc thấy người lâm nạn mà khoanh tay đứng nhìn.
+Điều 2: Trong mọi trường hợp, người máy phải phục tùng mệnh lệnh của con người, nhưng khi mệnh lệnh đó trái với điều 1 thì cho phép không thi hành.
+Điều 3: Dưới tiền đề không làm trái với quy định ở điều 1 và điều 2, người máy có quyền bảo vệ bản thân mình.
+
+
+== Các cuộc thi robot ==
+ROBOCON là cuộc thi chế tạo robot của sinh viên khu vực châu Á - Thái Bình Dương.
+RoboCup là một cuộc thi robot được tổ chức tại Trung Quốc
+
+
+== Chú thích ==
+
+
+== Nghiên cứu thêm ==
+Glaser, Horst Albert and Rossbach, Sabine: The Artificial Human, Frankfurt/M., Bern, New York 2011 "The Artificial Human"
+TechCast Article Series, Jason Rupinski and Richard Mix, "Public Attitudes to Androids: Robot Gender, Tasks, & Pricing"
+Cheney, Margaret [1989:123] (1981). Tesla, Man Out of Time. Dorset Press. New York. ISBN 0-88029-419-1
+Craig, J.J. (2005). Introduction to Robotics. Pearson Prentice Hall. Upper Saddle River, NJ.
+Gutkind, L. (2006). Almost Human: Making Robots Think. New York: W. W. Norton & Company, Inc.
+Needham, Joseph (1986). Science and Civilization in China: Volume 2. Taipei: Caves Books Ltd.
+Sotheby's New York. The Tin Toy Robot Collection of Matt Wyse, (1996)
+Tsai, L. W. (1999). Robot Analysis. Wiley. New York.
+DeLanda, Manuel. War in the Age of Intelligent Machines. 1991. Swerve. New York.
+Journal of Field Robotics
+
+
+== Liên kết ngoài ==
+
+Robot tại Encyclopædia Britannica (tiếng Anh)
+Robotics trên DMOZ
+Robot tại Từ điển bách khoa Việt Nam

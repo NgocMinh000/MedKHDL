@@ -1,0 +1,15 @@
+Hormone giải phóng gonadotropin (GnRH) còn được gọi là gonadoliberin, và còn nhiều tên gọi khác cho dạng nội sinh của nó, chẳng hạn như gonadorelin (INN) trên dược phẩm, là một hormone giải phóng chịu trách nhiệm cho việc giải phóng hormone kích thích nang (FSH) và LH từ thùy trước của tuyến yên. GnRH là một hormone peptide được tổng hợp và giải phóng bởi các tế bào thần kinh GnRH ở vùng dưới đồi. Peptide này thuộc họ hormone giải phóng gonadotropin. Đây là bước khởi đầu trong trục vùng dưới đồi– tuyến yên – tuyến sinh dục.
+
+
+== Cấu trúc ==
+Trình tự  của GnRH được làm sáng tỏ bởi những người đoạt giải Nobel năm 1977 là Roger Guillemin và Andrew V. Schally:
+pyroGlu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH2
+Giống như cách trình bày tiêu chuẩn cho peptide, trình tự được viết từ đầu tận cùng amino đến đầu tận cùng carboxyl; cũng tiêu chuẩn là khi không có lưu ý về đồng phân quang học, thì tất cả các amino acid đều ở dạng L của chúng. Các chữ viết tắt xuất hiện là các amino acid có protein tiêu chuẩn, ngoại trừ pyroGlu, ở đây muốn đề cập đến axit pyroglutamic, một dẫn xuất của axit glutamic. Gốc NH2 tại đầu tận cùng carboxyl chỉ ra rằng thay vì kết thúc giống như một carboxylate tự do, nó kết thúc như một carboxamide.
+
+
+== Chức năng ==
+GnRH được tiết vào dòng máu cửa tuyến yên tại gò trung tâm. Dòng máu sẽ mang GnRH đến tuyến yên, chứa các tế bào gonadotrope, nơi GnRH sẽ kích hoạt thụ thể riêng của nó là thụ thể hormon giải phóng gonadotropin (GnRHR), một thụ thể kết cặp G-protein có khả năng kích thích dạng beta của Phosphoinositide phospholipase C, làm tiếp tục huy động calci và protein kinase C. Điều này dẫn đến việc hoạt hóa các protein liên quan đến quá trình tổng hợp và giải phóng của gonadotropin LH và FSH. GnRH bị phân hủy bởi sự phân giải protein trong vòng vài phút sau đó.
+Hoạt động GnRH rất ít trong thời thơ ấu, và được kích hoạt ở tuổi dậy thì hoặc tuổi vị thành niên. Trong giai đoạn sinh sản, hoạt động kích thích này là rất quan trọng cho chức năng sinh sản thành công như được kiểm soát bởi các vòng phản hồi. Tuy nhiên, khi một thai kỳ được thiết lập, hoạt động GnRH là không cần thiết. Hoạt động kích thích này có thể bị gián đoạn do bệnh dưới đồi-tuyến yên, hoặc rối loạn chức năng (tức là, ức chế vùng dưới đồi) hoặc tổn thương hữu cơ (chấn thương, khối u). Mức prolactin tăng có thể làm giảm hoạt tính của GnRH. Ngược lại, lại hyperinsulinemia làm tăng hoạt động của GnRH dẫn đến hoạt động LH và FSH rối loạn, như đã thấy trong hội chứng buồng trứng đa nang (PCOS). GnRH không hình thành ở hội chứng Kallmann.
+
+
+== Chú thích ==

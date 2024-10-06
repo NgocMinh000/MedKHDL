@@ -1,0 +1,27 @@
+Luật Grimm (Grimm's law, còn gọi là loạt biến âm ngôn ngữ German thứ nhất (First Germanic Sound Shift) hay quy tắc Rask (Rask's rule)) là một tập hợp phát biểu của Jacob Grimm và Rasmus Rask mô tả cách mà phụ âm tắc ngôn ngữ Ấn-Âu nguyên thủy (PIE) phát triển trong ngôn ngữ German nguyên thủy (Proto-Germanic/PG, tiền thân chung của ngữ tộc German). Nó cho ta thấy một loạt sự đối ứng giữa âm tắc và xát trong các ngôn ngữ German với âm tắc trong một số ngôn ngữ Ấn-Âu centum khác (Grimm chủ yếu lấy tiếng Latinh ra làm minh họa).
+
+
+== Lịch sử ==
+Luật Grimm là loạt biến âm có hệ thống đầu tiên được tìm ra, giúp đưa âm vị học lịch sử trở thành một ngành học riêng trong ngôn ngữ học lịch sử. Sự đối ứng giữa âm p tiếng tiếng Latinh với âm f trong ngôn ngữ German được Friedrich von Schlegel ghi nhận trước tiên, vào năm 1806. Năm 1818, Rasmus Rask mở rộng sự đối ứng ra, so sánh với cả tiếng Hy Lạp và tiếng Phạn. Năm 1822, Jacob Grimm ghi lại luật này trong cuốn Deutsche Grammatik, và nhìn nhận sự tác động trong tiếng Đức chuẩn. Ông còn nhận ra rằng có nhiều từ sai khác với điều mà luật dự đoán, những ngoại lệ này làm các nhà ngôn ngữ học lúng túng trong vài thập niên, cho đến khi chúng được nhà ngôn ngữ học Đan Mạch Karl Verner giải thích thỏa đáng bằng luật Verner.
+
+
+== Tổng quan ==
+Luật Grimm gồm ba phần, xảy ra liền kề nhau theo chuỗi biến âm dây chuyền (chain shift). Các phần thường được liệt kê như sau:
+
+Âm tắc vô thanh PIE trở thành âm xát vô thanh.
+Âm tắc hữu thanh PIE trở thành âm tắc vô thanh
+Âm tắc bật hơi hữu thanh trở thành âm tắc hữu thanh và âm xát (như tha âm).
+Chuỗi biến âm dây chuyền này (theo thứ tự 3,2,1) có thể được thể hiện như sau:
+
+bʰ > b > p > ɸ
+dʰ > d > t > θ
+gʰ > g > k > x
+gʷʰ > gʷ > kʷ > xʷ
+Ở đây mỗi âm vị PIE chạy một nấc về bên phải để trở thành âm vị ngôn ngữ German nguyên thủy. Để ý rằng trong PG, âm được viết là ⟨b⟩, ⟨d⟩, ⟨g⟩ và ⟨gw⟩ là âm tắc trong một số trường hợp và xát trong số khác, nên bʰ > b được hiểu là bʰ > b/β. Âm xát vô thanh PG được quy ước viết là ⟨f⟩, ⟨þ⟩, ⟨h⟩ và ⟨hw⟩.
+Nguyên nhân chính xác của chuỗi biến âm này chưa rõ ràng, và có lẽ phải trải qua một số bước trung gian.
+
+
+== Ví dụ ==
+
+
+== Chú thích ==

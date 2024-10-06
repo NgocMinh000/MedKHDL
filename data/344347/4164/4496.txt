@@ -1,0 +1,21 @@
+Chu trình tiềm tan hay Tiềm sinh virus (tiếng Anh là lysogeny hoặc lysogenic cycle) là một pha (phase) trong chu kỳ sinh sản của virus. Pha này bổ sung với pha tan (lytic phase), xảy ra sau giai đoạn xâm nhiễm của virus động vật.
+Chu kỳ tiềm tan bao gồm các giai đoạn sau:
+
+virus tiêm bộ gen (genome) vào tế bào vật chủ.
+bộ gen của virus gắn xen/chèn vào nhiễm sắc thể của vật chủ.
+khi bộ gen tế bào vật chủ nhân đôi trong nguyên phân thì sẽ đồng thời nhân cả bộ gen của virus và truyền virus qua các thế hệ tế bào tiếp theo.
+khi được "kích hoạt", bộ gen của virus sẽ tách ra khỏi DNA vật chủ và chuyển sang pha tan. Nghĩa là bộ gen của virus sẽ được khuếch đại và phiên mã tạo ra hạt virus. Virus sẽ thực hiện động tác đóng gói và phá vỡ màng tế bào vật chủ để tự giải phóng.
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

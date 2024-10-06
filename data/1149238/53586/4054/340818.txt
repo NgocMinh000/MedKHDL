@@ -1,0 +1,110 @@
+Ngữ dụng học (pragmatics) là một chuyên ngành thuộc ngôn ngữ học và tín hiệu học nghiên cứu về sự đóng góp của bối cảnh tới nghĩa. Ngữ dụng học bao hàm cả Lý thuyết hành vi ngôn từ, Hàm ngôn hội thoại, tương tác lơi nói và cả những cách tiếp cận khác tới hành vi ngôn ngữ trong triết học, xã hội học và nhân học. Khác với Ngữ nghĩa học nghiên cứu về nghĩa qui ước hoặc "mã hóa" trong một ngôn ngữ, Ngữ dụng học nghiên cứu về cách làm sao nghĩa lại được chuyển tải qua không chỉ cấu trúc và hiểu biết ngôn ngữ (ngữ pháp, từ vưng, v.v..) của người nói và người nghe, mà còn qua cả ngữ cảnh của phát ngôn, cùng với những hiểu biết có từ trước đó liên quan tới chủ đề, ý đồ được suy ra của người nói, và các yếu tố khác nữa. Theo cách nhìn này, Ngữ dụng học giải thích về sao người sử dụng ngôn ngữ lại có thể vượt qua những rào cản rõ ràng về sự mơ hồ nghĩa (hay lưỡng nghĩa), vì nghĩa phụ thuộc vào cách thức, vị trí, thời gian,v..v..của một phát ngôn.
+Khả năng hiểu hàm ý của một người khác được gọi là Ngữ năng ngữ dụng (pragmatic competence).
+
+
+== Quá trình hình thành ==
+Tuy là một ngành mới xuất hiện trong hệ thống ngôn ngữ học nhưng những vấn đề của ngữ dụng học đã được quan tâm từ rất lâu. Ngay từ thời Hi Lạp cổ đại, Aristote đã phát triển môn tu từ học cổ điển, trong đó nhấn mạnh đến việc vận dụng từ ngữ trong những tương tác thực tế để đạt đến những hiệu quả giao tiếp.
+Năm 1913, nhà tín hiệu học Ch.S. Peirce khẳng định rằng khi nghiên cứu một tín hiệu, cần phải quan tâm đến cả ba bình diện gồm kết học, nghĩa học và dụng học.
+Ngữ dụng học hiện đại được xem là một phản ứng của giới ngôn ngữ học trước những luận điểm cấu trúc luận cực đoan của Ferdinand de Saussure. Saussure nêu ra những cặp lưỡng phân nổi tiếng trong ngôn ngữ, trong đó phải kể đến là ngôn ngữ/lời nói; nội tại/ngoại tại. Ông đề cao ngôn ngữ, tập trung sự chú ý vào ngôn ngữ học nội tại và sao lãng những thứ thuộc về ngoại tại.
+Vào đầu thập niên 1960, cùng với sự xuất hiện của lý thuyết hành động ngôn từ(speech act theory) do J.L. Austin và J.Searle khởi xướng, ngữ dụng học bắt đầu bước vào thời kì phát triển mạnh mẽ, giải đáp và khám phá rất nhiều những địa hạt mới mẻ của ngôn ngữ học. Từ đây, ngôn ngữ học đã được mở rộng phạm vi quan tâm, bao quát đến từng lời nói cụ thể, từng giao tiếp cụ thể của con người.
+
+
+== Sự mơ hồ về nghĩa ==
+Một câu như "You have a green light" là một câu mơ hồ về nghĩa. Nếu không có các yếu tố ngữ cảnh, danh tính người nói, mục đích của người nói, sẽ rất khó để hiểu nghĩa của câu này một cách rõ ràng. Thí dụ:
+
+Bạn có một cái đèn màu xanh.
+Bạn đang lái xe và gặp đèn xanh.
+Bạn được cho phép tiếp tục một dự án.
+Bạn có một cái đốm xanh sáng trên cơ thể.
+Tương tự, câu "Sherlock saw the man with binoculars" có thể có nghĩa rằng Sherlock theo dõi người đàn ông nào đó bằng ống nhòm, hoặc cũng có thể có nghĩa rằng Sherlock đang theo dõi một người đàn ông cầm cái ống nhòm (mơ hồ nghĩa cú pháp ). Nghĩa của một câu phụ thuộc vào khả năng hiểu ngữ cảnh và mục đích của người nói. Như đã được định nghĩa trong Ngôn ngữ học, một câu là một thực thể trừu tượng - một chuỗi các từ tách rời khỏi bối cảnh phi ngôn ngữ - đối lập với phát ngôn, một ví dụ điển hình của hành động ngôn từ trong một ngữ cảnh cụ thể. Một vật thể ý thức càng gắn bó chặt chẽ với các từ thông thường, thành ngữ, cụm từ, chủ đề bao nhiêu thì người khác càng có thể dễ dàng phỏng đoán nó bấy nhiêu; ngược lại nó càng tách rời khỏi các biểu ngữ thông thường và các chủ đề bao nhiêu thì các biến thể trong cách hiểu càng đa dạng bấy nhiêu. Điều này ám chỉ rằng câu thực ra về mặt bản chất là không có nghĩa; không có nghĩa nào được gán sẵn cho một câu hoặc từ, chúng chỉ có thể làm đại diện tượng trưng cho một ý tưởng. Câu "The cat sat on the mat" là một câu trong Tiếng Anh. Nếu một người gọi người khác là "The cat sat on the mat" thì đây là một ví dụ cho phát ngôn. Vì vậy, không có câu, biểu ngữ, thuật ngữ nào đại diện tượng trưng cho một ý nghĩa thực; nó không được xác định cụ thể (con mèo nào, ngồi trên tấm thảm nào?) và có thể mơ hồ về nghĩa.
+Mặt khác, nghĩa của một phát ngôn được suy ra từ hiểu biết ngôn ngữ và hiểu biết phi ngôn ngữ về ngữ cảnh của phát ngôn đó (có thể đủ hoặc không đủ để xóa bỏ sự mơ hồ nghĩa). Trong toán học, có nghịch lý của Berry (Berry's paradox) chứa một từ mang nghĩa mơ hồ một cách hể thống "definable" (có thể định nghĩa). Sự mơ hồ về nghĩa của từ cho thấy rằng sức mạnh mô tả của bất cứ ngôn ngữ nào của con người đều có giới hạn.
+
+
+== Từ nguyên học ==
+Thuật ngữ "pragmatics" có nguồn gốc từ Latin "pragmatics" bắt nguồn từ tiếng Hy Lạp πραγματικός (pragmatikos), có nghĩa "hợp cho hành động", có gốc từ πρᾶγμα (pragma) "hành vi, hành động"  và từ πράσσω (prassō), "chuyển đi, thực hành, đạt được".
+
+
+== Lĩnh vực nghiên cứu ==
+Nghiên cứu về ý của người nói, không tập trung vào ngữ âm hay hình thái ngữ pháp của phát ngôn, mà tập trung tìm hiểu mục đích và niềm tin của người nói là gì.
+Nghiên cứu về nghĩa trong ngữ cảnh và những ảnh hưởng của ngữ cảnh đó tới thông điệp. Nó yêu cầu những hiểu biết về danh tính của người nói, địa điểm, thời gian phát ngôn.
+Nghiên cứu về hàm ngôn, cụ thể như những thứ được truyền đạt ngay cả khi chúng không được nhắc tới trực tiếp.
+Nghiên cứu về quan hệ khoảng cách, cả về xã hội và vật chất giữa những người nói, để hiểu xem yếu tố nào xác định sự lựa chọn giữa cái được nói và cái không được nói.
+Nghiên cứu về cái không được hàm ý, đối lập với cái được hàm ý, cụ thể như cái không được nói và không dự tính trước, hoặc không có ý đồ trước.
+Cấu trúc thông tin, nghiên cứu về các cách phát ngôn được đánh dấu để vận hành hiệu quả nên chung của những thực thể được nhắc tới giữa người nói và người nghe
+Ngữ dụng học hình thức, nghiên cứu về những yếu tố của nghĩa và cách sử dụng, với ngữ cảnh đóng vai trò quan trọng, bằng cách sử dụng những phương pháp và mục tiêu của ngữ nghĩa học.
+
+
+== Cách dùng sở chỉ trong ngôn ngữ ==
+Khi ta nói đến cách sử dụng sở chỉ trong ngôn ngữ (referential uses of language) là ta đang nói đến cách ta dùng các tín hiệu để tham chiếu tới các sự vật nhất định. Dưới đây là cách giải thích cho: 1) tín hiệu là gì, 2) nghĩa được hoàn thiện như thế nào dựa cách sử dụng chúng.
+Một tín hiệu là một liên kết hoặc quan hệ dựa cái được biểu đạt (signified) và cái biểu đạt (signifier) như định nghĩa của Sausuure và Huguenin. Cái được biểu đạt là một số các thực thể hoặc khái niệm trong thế giới. Cái biểu đạt miêu tả cái được biểu đạt. Ví dụ như:
+Cái được biểu đạt: khái niệm con mèo
+Cái biểu đạt: từ "con mèo" 
+Mối quan hệ giữa chúng gán cho tín hiệu một ý nghĩa. Mối quan hệ này có thể được giải thích rõ hơn bằng cách xem xét chúng ta hiểu "nghĩa" như thế nào.
+
+
+== Các lĩnh vực liên quan ==
+Có một sự "đan xen" nhất định giữa Ngữ dụng học và Ngôn ngữ học xã hội, bởi lẽ cả hai bộ môn này đều nghiên cứu về yếu tố nghĩa quyết định bởi cách sử dụng trong phát ngôn trong cộng đồng. Tuy nhiên, các nhà ngôn ngữ học xã hội thường có xu hướng quan tâm nhiều hơn tới các biến thể trong ngôn ngữ giữa các cộng đồng với nhau.
+Ngữ dụng học giúp các nhà nhân chủng học liên hệ yếu tố ngôn ngữ tới các hiện tượng xã hội bao quát hơn; vì vậy nó ảnh hưởng tới cả bộ môn ngôn ngữ học nhân học. Vì ngữ dụng học chủ yếu miêu tả những yếu tố tác động trong một phát ngôn cụ thể, bao gồm cả những nghiên cứu về quyền lực, giới tính, danh tính, và sự tương tác của chúng với những hành vi ngôn từ cụ thể. Ví dụ, nghiên cứu về sự chuyển mã (code switching)có liên quan trực tiếp tới ngữ dụng học, vì một sự chuyển mã có tác động làm thay đổi lực ngữ dụng.
+Theo Charles W. Morris, ngữ dụng học tìm hiểu mối quan hệ giữa các tín hiệu và người sử dụng nó, còn ngữ nghĩa học có xu hướng tập trung tới những thực thể hoặc ý tưởng mà một từ qui chiếu tới, và cú pháp học (Syntax) xác định mối quan hệ giữa các tín hiệu và biểu tượng. Ngữ nghĩa học là ý nghĩa trực kiện (hay nghĩa đen) của một ý tưởng còn ngữ dụng học là nghĩa hàm ẩn của ý tưởng đó.
+Lý thuyết hành vi ngôn từ (Speech act Theory) mà tiên phong là J.L. Austin và sau đó được John Searle tiếp tục phát triển, xoay quanh ý tưởng về Ngôn hành (performative), một dạng của phát ngôn thực hiện chính hành động mà nó mô tả. Lý thuyết hành vi ngôn từ nghiên cứu về Hành động ngôn trung (Illocutionary Acts)  có rất nhiều mục tiêu chung với ngữ dụng học, như đã phác họa ở trên.
+
+
+== Hình thức hóa Ngữ dụng học ==
+Đã từng có rất nhiều tranh luận về ranh giới giữa Ngữ nghĩa học và Ngữ dụng học  và đã có rất nhiều những cách thức hình thức hóa khác nhau về những khía cạnh của Ngữ dụng học có liên quan trực tiếp tới ngữ cảnh. Những trường hợp tiêu biểu là những tranh luận về Ngữ nghĩa học chỉ hiệu (Semantics of indexicals) và vấn đề về mô tả sở chỉ, một chủ đề được mở ra sau những học thuyết của Keith Donnellan. Một lý thuyết logic thông dụng về hình thức hóa Ngữ dụng học đã được Cảllo Dalla Pozza phát triển, mà theo ông, có thể liên kết Ngữ nghĩa học cổ điển (gán giá trị cho nội dung các mệnh đề là đúng hoặc sai) và Ngữ nghĩa học trực giác (gán với Lực ngôn trung). Cách biểu diễn ngữ dụng học hình thức được bắt nguồn từ ý tưởng của Frege về tín hiệu khẳng định như hình thức của hành vi khẳng định.
+
+
+== Ngữ dụng học trong lý thuyết văn học ==
+Ngữ dụng học (mà cụ thể là khái niệm về Ngôn hành trong Lý thuyết hành vi ngôn từ) củng cố thêm có lý thuyết của Judith Butler về Ngôn hành về giống (Gender performativity). Trong cuốn Gender Trouble, bà cho rằng giống và giới không phải là các phạm trù tự nhiên, mà được phân vai trong xã hội bằng các "Hành vi lặp lại" (reiterative acting).
+Trong cuốn Exciteable speech bà mở rộng thêm lý thuyết ngôn hành sang cả Phát ngôn thù ghét và Sự kiểm duyệt ngôn từ, bà tranh luận rằng sự kiểm duyệt ngôn từ tất yếu sẽ làm tăng sức mạnh cho bất cứ diễn ngôn nào nó cố kìm hãm và từ đó, vì Nhà nước là cơ quan nắm toàn bộ quyền lức để định nghĩa Phát ngôn thù ghét, chính Nhà nước khiến cho nó trở thành ngôn hành.
+Jacques Derrida nhận thấy rằng một số công trình Ngữ dụng học cũng phù hợp với chương trình ông đã phác thảo trong cuốn Of Grammatology.
+Émile Benveniste tranh luận rằng đại từ "I" và "you" về cơ bản là khác biệt so với các đại từ khác vì vai trò sáng tạo ra các chủ thể
+Gilles Deleuzevà Félix Guattari thảo luận về Ngữ dụng học trong chương thứ tư của cuốn A Thousand Plateaus(20 tháng 11 năm 1923 -- Những định đề Ngôn ngữ học). Họ đưa ra ba kết luận từ Austin: (1) Một phát ngôn ngôn hành không trao đổi thông tin về một hành động một cách gián tiếp - mà nó chính là hành động;
+(2) Mọi khía cạnh của Ngôn ngữ (Ngữ nghĩa học, Cú pháp học, hoặc cả Âm vị học) về bản chất đều tương tác với Ngữ dụng hoc; (3) Không có sự phân biệt nào giữa Ngôn ngữ và Lời nói. Kết luận cuối cùng này nhằm bác bỏ sự phân biệt của Saussure giữa langue và parole (Ngôn ngữ và Lời nói) và sự phân biết của Chomsky giữa cấu trúc bề mặt và cấu trúc tầng sâu.
+
+
+== Một số lý thuyết đáng lưu ý ==
+Hành động ngôn từ (do Austin và Searle đề xuất)
+Nguyên tắc trong giao tiếp và các phương châm hội thoại (do Paul Grice đề xuất)
+Lý thuyết lịch sự (do Lakoff, Leech, Brown và Levinson phát triển)
+Các phương châm về tính lịch sự (Geoffrey Leech)
+Nghĩa tiền giả định (Levinson)
+Các phổ niệm ngữ dụng (Jürgen Habermas)
+Lý thuyết tương đối (Dan Sperber và Deirdre Wilson) 
+Lý thuyết về thang độ (Laurence R. Horn)
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+P ragmatics
+What Is Pragmatics
+Austin, J. L. (1962) How to Do Things With Words. Oxford University Press.
+Brown, Penelope, and Stephen C. Levinson. (1978) Politeness: Some Universals in Language Usage. Cambridge University Press.
+Carston, Robyn (2002) Thoughts and Utterances: The Pragmatics of Explicit Communication. Oxford: Blackwell.
+Clark, Herbert H. (1996) "Using Language". Cambridge University Press.
+Cole, Peter, ed.. (1978) Pragmatics. (Syntax and Semantics, 9). New York: Academic Press.
+Dijk, Teun A. van. (1977) Text and Context. Explorations in the Semantics and Pragmatics of Discourse. London: Longman.
+Grice, H. Paul. (1989) Studies in the Way of Words. Cambridge (MA): Harvard University Press.
+Laurence R. Horn and Gregory Ward. (2005) The Handbook of Pragmatics. Blackwell.
+Leech, Geoffrey N. (1983) Principles of Pragmatics. London: Longman.
+Levinson, Stephen C. (1983) Pragmatics. Cambridge University Press.
+Levinson, Stephen C. (2000). Presumptive meanings: The theory of generalized conversational implicature. MIT Press.
+Lin, G. H. C., & Perkins, L. (2005). Cross-cultural discourse of giving and accepting gifts. International Journal of Communication, 16,1-2, 103-12 (ERIC Collections in ED 503685 http://www.eric.ed.gov/PDFS/ED503685.pdf)
+Mey, Jacob L. (1993) Pragmatics: An Introduction. Oxford: Blackwell (2nd ed. 2001).
+Kepa Korta and John Perry. (2006) Pragmatics. The Stanford Encyclopedia of Philosophy
+Potts, Christopher. (2005) The Logic of Conventional Implicatures. Oxford Studies in Theoretical Linguistics. Oxford: Oxford University Press.
+Robinson, Douglas. (2003). Performative Linguistics: Speaking and Translating as Doing Things With Words. London and New York: Routledge.
+Robinson, Douglas. (2006). Introducing Performative Pragmatics. London and New York: Routledge.
+Sperber, Dan and Wilson, Deirdre. (2005) Pragmatics. In F. Jackson and M. Smith (eds.) Oxford Handbook of Contemporary Philosophy. OUP, Oxford, 468-501. (Also available here.)
+Thomas, Jenny (1995) Meaning in Interaction: An Introduction to Pragmatics. Longman.
+Verschueren, Jef. (1999) Understanding Pragmatics. London, New York: Arnold Publishers.
+Verschueren, Jef, Jan-Ola Östman, Jan Blommaert, eds. (1995) Handbook of Pragmatics. Amsterdam: Benjamins.
+Watzlawick, Paul, Janet Helmick Beavin and Don D. Jackson (1967) Pragmatics of Human Communication: A Study of Interactional Patterns, Pathologies, and Paradoxes. New York: Norton.
+Wierzbicka, Anna (1991) Cross-cultural Pragmatics. The Semantics of Human Interaction. Berlin, New York: Mouton de Gruyter.
+Yule, George (1996) Pragmatics (Oxford Introductions to Language Study). Oxford University Press.
+Silverstein, Michael. 1976. "Shifters, Linguistic Categories, and Cultural Description," in Meaning and Anthropology, Basso and Selby, eds. New York: Harper & Row
+Wardhaugh, Ronald. (2006). "An Introduction to Sociolinguistics". Blackwell.
+Duranti, Alessandro. (1997). "Linguistic Anthropology". Cambridge University Press.
+Carbaugh, Donal. (1990). "Cultural Communication and Intercultural Contact." LEA.
+Mira Ariel (2010). Defining Pragmatics. Cambridge University Press.

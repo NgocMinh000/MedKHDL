@@ -1,0 +1,84 @@
+Đây là bài con của Trí tuệ nhân tạo, nội dung chú trọng vào sự phát triển và lịch sử ngành trí tuệ nhân tạo.
+
+
+== Sự phát triển của lý thuyết trí tuệ nhân tạo ==
+Trí tuệ nhân tạo là đột phá công nghệ mới nhất, là ngành khoa học đang định hình lại xã hội của chúng ta. Đồng thời trí tuệ nhân tạo có tác động sâu sắc đến các ngành công nghiệp máy móc và công ty cung cấp năng lượng.
+Với sự phát triển nhanh chóng về kiến ​​thức và tiến bộ trong trí tuệ nhân tạo đang thúc đẩy mạnh mẽ nhu cầu về các dịch vụ kỹ thuật số mới để giúp khai thác công nghệ này với tiềm năng cao nhất. Cải thiện các sản phẩm đã có trên thị trường để tất cả chúng ta đưa vào sử dụng trong cuộc sống hàng ngày sẽ là cốt lõi cho tương lai của trí tuệ nhân tạo AI.
+Đa số trọng tâm của các nghiên cứu trí tuệ nhân tạo ban đầu được lấy từ cách tiếp cận bằng thực nghiệm của tâm lý học, và xem trọng cái gọi là "trí tuệ ngôn ngữ" - việc hiểu biết ngôn ngữ con người (xem Thử nghiệm Turing, Turing test).
+Các hướng nghiên cứu về trí thông minh nhân tạo không liên quan đến ngôn ngữ bao gồm ngành robotic và ngành thông minh tập thể (colective intelligence). Hai hướng tiếp cận này tập trung vào việc chủ động tác động lên môi trường hoặc việc đưa ra quyết định bằng đồng thuận về một vấn đề nào đó. Các hướng nghiên cứu này có nguồn gốc từ các mô hình thông minh xuất phát từ sinh học và chính trị học.
+Lý thuyết trí tuệ nhân tạo còn được rút ra từ các nghiên cứu về động vật, đặc biệt là côn trùng, do có thể dễ dàng được mô phỏng con trùng bằng robot (xem thêm sự sống nhân tạo (artificial life)) cũng như các động vật với nhận thức phức tạp hơn, ví dụ như loài khỉ, chúng có thể bắt chước con người trong nhiều trường hợp nhưng lại hạn chế về sự phát triển trong việc lập kế hoạch và nhận thức. Các nhà nghiên cứu về trí tuệ nhân tạo đưa ra kết luận rằng những loài động vật, có nhận thức đơn giản hơn con người, đáng ra có thể dễ dàng mô phỏng được. Tuy nhiên, đến giờ vẫn chưa có mô hình tính toán đủ tốt mô phỏng trí thông minh của động vật.
+Có những bài báo đưa ra khái niệm trí thông minh của máy (machine intelligence) như bài A Logical Calculus of the Ideas Immanent in Nervous Activity (Tính toán logic của các ý tưởng nội tại trong hoạt động thần kinh) (1943), do Warren McCulloch và Walter Pitts viết; On Computing Machinery and Intelligence (Về bộ máy tính toán và trí thông minh) (1950), được viết bởi Alan Turing; và Man-Computer Symbiosis viết bởi J.C.R. Licklider. Xem thêm phần điều khiển học (cybernetics) và Thử thách Turing.
+Trước đó cũng đã có các bài báo phủ nhận khả năng tồn tại trí thông minh của máy dựa vào các lý do logic hay triết học như Minds, Machines and Gödel (1961) của John Lucas .
+Với sự phát triển của các kỹ thuật thực hành dựa trên các nghiên cứu về trí tuệ nhân tạo, những người ủng hộ ngành trí tuệ nhân tạo đã cho rằng phe chống đối ngành này đã liên tục thay đổi lập trường của họ trong các vấn đề như máy tính chơi cờ hay nhận dạng tiếng nói, mà trước đây chúng đã từng được coi là thông minh, để phủ nhận các thành tựu của ngành trí tuệ nhân tạo. Bởi vậy, Douglas Hofstadter, trong cuốn Gödel, Escher, Bach, đã chỉ ra rằng chính sự chuyển dịch đó đã định nghĩa trí thông minh là bất cứ việc gì mà con người làm được còn máy móc thì không.
+John von Neumann (trích dẫn trong E.T. Jaynes) đã thấy trước được điều này vào năm 1948 khi trả lời một lời bình luận tại một buổi diễn thuyết cho rằng may móc không thể suy nghĩ: "Bạn nhất quyết rằng có một điều gì đó mà máy móc không thể làm được. Nếu bạn nói cho tôi một cách chính xác đó là điều gì, thì tôi sẽ luôn luôn làm được một cái máy mà sẽ chỉ thực hiện được điều đó!". Von Neumann được cho là đã có ý nói đến luận đề Church-Turing khi khẳng định rằng bất kì một thủ tục có hiệu lực nào cũng có thể được mô phỏng bởi một máy tính (tổng quát) nào đó.
+Vào năm 1969 McCarthy và Hayes đã bắt đầu thảo luận về bài toán khung (frame problem) với bài luận của họ, Some Philosophical Problems from the Standpoint of Artificial Intelligence (Một số vấn đề triết học từ điểm khởi đầu của trí tuệ nhân tạo).
+
+
+== Nghiên cứu trí tuệ nhân tạo thực nghiệm ==
+Trí tuệ nhân tạo đã được bắt đầu nghiên cứu từ thập niên 1950 bởi những nhà tiên phong như Allen Newell và Herbert Simon, người sáng lập phòng thí nghiệm trí tuệ nhân tạo đầu tiên ở Đại học Carnegie Mellon, và John McCarthy và Marvin Minsky, người sáng lập phòng thí nghiệm trí tuệ nhân tạo tại MIT, MIT AI Lab, năm 1959. Họ đã cùng dự hội thảo về trí tuệ nhân tạo tại Đại học Dartmouth vào mùa hè năm 1956, do McCarthy, Minsky, Nathan Rochester của IBM và Claude Shannon tổ chức.
+Vào thời điểm đó, nghiên cứu trí tuệ nhân tạo gồm hai trường phái chính "ngăn nắp" và "bê bối". Trường phái trí tuệ nhân tạo "ngăn nắp" cổ điển hay biểu tượng thường sử dụng các biểu tượng và khái niệm phức tạp. Song song với nó là trường phái "bê bối" (scruffy hay connectionist). Ví dụ điển hình nhất của cách tiếp cận này là mạng thần kinh nhân tạo. Nó "tiến hóa" sự thông minh qua việc xây dựng và hoàn thiện hệ thống bằng một quá trình tự động thay cho việc thiết kế cách thi hành nhiệm vụ một cách có hệ thống. Cả hai cách tiếp cận này đều xuất hiện sớm trong lịch sử trí tuệ nhân tạo. Trong thập niên 1960 và 1970, trường phái "bê bối" suy tàn, nhưng sau này đã được khôi phục vào thập niên 1980 khi những hạn chế của trường phái "ngăn nắp" bắt đầu xuất hiện. Dù vậy, những phương pháp hiện nay dùng cả hai cách tiếp cận này đều có những hạn chế nghiêm trọng.
+Nghiên cứu trí tuệ nhân tạo rất được chú trọng về kinh phí vào thập niên 1980 bởi Cơ quan các dự án nghiên cứu phòng vệ tiên tiến (Defense Advanced Research Projects Agency) của Mỹ và dự án máy tính thế hệ thứ năm ở Nhật. Các nghiên cứu được cấp kinh phí thời đó đã không thể cho ra kết quả tức thời. Do đó, bất chấp những dự tính quy mô của những nhà tiên phong, ngân sách chính phủ dành cho nghiên cứu đã bị cắt giảm mạnh vào cuối thập niên 1980, dẫn đến sự ngưng trệ trong nghiên cứu và tạo ra "mùa đông của trí tuệ nhân tạo". Trong thập niên tiếp theo, nhiều nhà nghiên cứu trí tuệ nhân tạo đã chuyển sang nghiên cứu những lĩnh vực tương tự như học máy, robot học (robotics) và computer vision, nghiên cứu về trí tuệ nhân tạo thuần túy chỉ còn ở mức độ thấp.
+
+
+== AI hiện đại ==
+Việc nghiên cứu TTNT hiện đại chú trọng vào các nhiệm vụ thiên về kỹ thuật thực tế (Những người ủng hộ chiều hướng Trí tuệ nhân tạo mạnh có lẽ sẽ gọi nó là "Trí tuệ nhân tạo yếu".)
+Có một vài lĩnh vực của AI, một trong số đó là ngôn ngữ tự nhiên. Rất nhiều lĩnh vực thuộc "Trí tuệ nhân tạo yếu" có phần mềm hoặc những ngôn ngữ lập trình chuyên dụng được tạo riêng cho chúng. Ví dụ, một trong những chatterbot (ngôn ngữ tự nhiên gần ngôn ngữ con người nhất) là A.L.I.C.E., nó sử dụng một ngôn ngữ lập trình với tên gọi AIML để đặc tả các chương trình, và có một bản khác với tên gọi Alicebot. Tuy nhiên, A.L.I.C.E thực tế là vẫn dựa trên kỹ thuật đối sánh mẫu và chưa có bất cứ sự suy luận nào. Kỹ thuật này tương tự như kỹ thuật Eliza, một chatterbot đầu tiên, được sử dụng vào cuối năm 1966. Jabberwacky có một chút gần gũi với "Trí tuệ nhân tạo mạnh", khi nó học cách làm thế nào để cải thiện dần từ cơ bản lên mà chỉ dựa trên tương tác của người dùng. Mặc dù thế, kết quả có được thực tế là vẫn rất hạn chế, và có thể hợp lý mà nói rằng thực sự không có một trí tuệ nhân tạo nào mà có thể dùng cho đa mục đích được.
+Khi được xem xét với một độ hoài nghi vừa phải, TTNT có thể xem là "một tập các bài toán trong khoa học máy tính mà không có lời giải tốt vào thời điểm này". Khi mà một ngành con của TTNT ứng dụng tốt cho một công việc nào đó, nó sẽ thoát ra khỏi TTNT và có tên riêng. Một vài ví dụ là nhận dạng mẫu, xử lý ảnh, mạng neuron, xử lý ngôn ngữ tự nhiên, robot học và lý thuyết trò chơi. Trong khi cội rễ của các ngành này đều được thiết lập vững chắc từ TTNT, chúng bây giờ lại được xem là một cái gì đó tách biệt.
+Trong khi các nỗ lực để hướng tới một mục tiêu cuối cùng là có trí thông minh như con người càng trở nên chững lại, thì nhiều ngành con mới ra đời lại phát triển. Một vài ví dụ điển hình bao gồm các ngôn ngữ lập trình LISP và Prolog, được ra đời phục vụ cho việc nghiên cứu TTNT nhưng bây giờ lại dành cho các công việc không thuộc TTNT. Nền văn hóa của hacker ban đầu cũng xuất phát từ các phòng thí nghiệm TTNT, đặc biệt ở MIT AI Lab, ngôi nhà của nhiều ngôi sao sáng như McCarthy, Minsky, Seymour Papert (người đã phát triển Logo ở đó), Terry Winograd (người đã từ bỏ TTNT sau khi phát triển SHRDLU).
+Nhiều hệ thống hữu ích khác cũng đã được xây dựng dùng các kĩ thuật mà ít nhất một lần từng được dùng cho nghiên cứu TTNT. Một vài ví dụ bao gồm:
+
+Chinook được xem là Nhà vô địch thế giới Máy-Người trong thu tiền vào năm 1994.
+Deep Blue, máy tính chơi cờ vua, đã đánh bại Garry Kasparov trong một trận đấu nổi tiếng vào năm 1997.
+InfoTame, một động cơ tìm kiếm và phân tích văn bản được phát triển bởi KGB để tự động sắp xếp hàng triệu giấy tờ để có thể ngăn chặn giao tiếp khi cần thiết.
+Logic mờ, một kĩ thuật đưa ra suy luận khi không chắc chắn, được dùng rộng rãi trong các hệ thống điều khiển công nghiệp.
+Hệ chuyên gia vẫn đang được sử dụng ở một mức độ nào đó trong ngành công nghiệp.
+Machine translation systems such as SYSTRAN are widely used, although results are not yet comparable with human translators.
+Mạng neuron được dùng cho nhiều nhiệm vụ khác nhau, từ hệ thống chống xâm nhập đến trò chơi máy tính.
+Các hệ thống nhận dạng ký tự quang học có thể chuyển các tài liệu viết tay bằng tiếng châu Âu bất kì sang văn bản lưu trong máy.
+Nhận dạng chữ viết tay được sử dụng trong hàng triệu thiết bị PDA.
+Nhận dạng tiếng nói có các sản phẩm thương mại và được sử dụng rộng rãi.
+Computer algebra system, như Mathematica và Macsyma, là những điển hình.
+Các hệ thống Machine vision đã được sử dụng trong nhiều ứng dụng công nghiệp từ kiểm định phần cứng (hardware verification) tới các hệ thống bảo vệ.
+Các phương pháp lập kế hoạch TTNT đã được sử dụng để tự động lập phương án chuyển quân Mỹ trong Chiến tranh vùng Vịnh lần thứ nhất. Nhiệm vụ này có thể tiêu tốn thời gian tới nhiều tháng và tiền tới hàng triệu đô-la nếu làm bằng tay. Cơ quan nghiên cứu phòng vệ tiên tiến Mỹ đã tuyên bố rằng riêng lượng tiền tiết kiệm được nhờ ứng dụng này đã nhiều hơn tổng chi phí của họ cho các nghiên cứu TTNT trong vòng 30 năm qua.
+AlphaGo, máy tính chơi cờ vây, đã đánh bại Lee Sedol vào tháng 5 năm 2016.
+Viễn cảnh của TTNT thay thế sự tác động của con người đã có nhu cầu từ rất lâu trước đây, và ngày nay trong một số lĩnh vực chuyên biệt nơi mà các "hệ chuyên gia" được sử dụng hằng ngày để làm tăng thêm hay thay thế các quyết định của con người trong một số lĩnh vực kĩ thuật và y khoa. Một ví dụ về hệ chuyên gia là Clippy, cái kẹp giấy trong Microsoft Office. Nó cố gắng dự đoán những lời khuyên mà người dùng mong muốn.
+
+
+== Trí tuệ nhân tạo thế giới nhỏ ==
+Thế giới thực đầy rẫy các chi tiết khó hiểu và làm mất tập trung: thông thường, khoa học phát triển bằng cách tập trung vào các mô hình nhân tạo đơn giản về thực tế (ví dụ, trong vật lý, các mặt phẳng không có ma sát và các vật thể hoàn toàn cố định). Năm 1970, Marvin Minsky và Seymour Papert, phòng thí nghiệm trí tuệ nhân tạo tại MIT, đề nghị rằng nghiên cứu trí tuệ nhân tạo cần tập trung vào việc phát triển các chương trình có khả năng thể hiện các hành vi thông minh trong các tình huống nhân tạo đơn giản được gọi là các thế giới nhỏ. Nhiều nghiên cứu đã tập trung vào cái gọi là thế giới khối, bao gồm các khối có màu sắc và các hình dạng kích thước khác nhau đặt trên một mặt phẳng. Micro-World AI
+
+
+== Ứng dụng ==
+Xử lý ngôn ngữ tự nhiên
+Program synthesis
+Robotics
+Computer vision
+
+
+== Ngôn ngữ, Phong cách lập trình và Văn hoá phần mềm ==
+Nghiên cứu trí tuệ nhân tạo cổ điển thường được thực hiện bằng các ngôn ngữ Lisp hoặc Prolog. Tính toán Bayes thường sử dụng Matlab hoặc ngôn ngữ lập trình Lush (một biến thể của Lisp). Các ngôn ngữ này kèm theo nhiều thư viện xác suất chuyên dụng. Các hệ thống thực, đặc biệt các hệ thống thời gian thực, thường sử dụng C++.
+Các lập trình viên trí tuệ nhân tạo thường là các nhà nghiên cứu và thường chú trọng vào việc phát triển nhanh (rapid development) và tạo nguyên mẫu (prototyping) hơn là các nguyên tắc kỹ nghệ phần mềm. Do đó, các ngôn ngữ thông dịch được sử dụng để có thể cho phép nhanh chóng thực hiện thực nghiệm và test dòng lệnh. Trong lịch sử, văn hóa trí tuệ nhân tạo gắn bó chặt chẽ với văn hóa Unix và văn hóa hacker, do chúng cùng chia sẻ nơi chôn rau cắt rốn tại MIT.
+Chương trình trí tuệ nhân tạo cơ bản nhất là một lệnh Nếu-Thì đơn, chẳng hạn "Nếu A, thì B". Nếu bạn gõ một chữ 'A', máy tính sẽ in cho bạn một chữ 'B'. Về cơ bản, bạn đang dạy máy tính làm một nhiệm vụ. Bạn cho dữ liệu vào là một thứ, máy tính sẽ đáp lại bằng một cái gì đó bạn bảo nó làm hoặc nói. Mọi chương trình đều có các điều kiện Nếu-Thì. Một ví dụ phức tạp hơn là: nếu bạn gõ từ "Xin chào", máy tính đáp lại "Bạn có khỏe không?" Phản ứng này không phải ý nghĩ của máy tính mà chẳng qua chỉ là một dòng lệnh bạn đã viết từ trước trong chương trình. Mỗi khi bạn gõ "Xin chào", máy tính sẽ luôn luôn trả lời "Bạn có khỏe không?". Nhìn qua thì có vẻ như máy tính đang sống và suy nghĩ, nhưng thực ra đó chỉ là một phản hồi tự động. Trí tuệ nhân tạo thường là một chuỗi dài các lệnh Nếu-Thì.
+Có thể dùng thêm một chút ngẫu nhiên để tạo hai hoặc nhiều hướng trả lời. Ví dụ, nếu bạn gõ từ "Xin chào", máy tính có thể đáp "Bạn có khỏe không?" hoặc "Hôm nay trời đẹp nhỉ?" hay "Công việc của bạn dạo này tốt chứ?". Bây giờ có thể có ba phản ứng (hay ba kiểu 'thì') thay vì chỉ có một. Một chương trình trí tuệ nhân tạo có thể có 1000 cách trả lời cùng một dữ liệu vào. Điều đó làm cho nó đỡ đoán trước được và gần với kiểu trả lời của một người bình thường hơn, vì một người bình thường sẽ trả lời một cách không đoán trước được.
+Nhiều trò chơi, chẳng hạn cờ và các trò chơi chiến lược, sử dụng các phản ứng bằng hành động, do đó, người có thể chơi với máy tính. Các robot với các bộ não trí tuệ nhân tạo cũng sẽ sử dụng các lệnh Nếu-Thì và các lựa chọn ngẫu nhiên để đưa ra các quyết định và nói. Tuy nhiên, dữ liệu vào có thể là các đối tượng trước mặt robot thay vì một dòng chữ "Xin chào", và phản ứng có thể là nhặt đối tượng lên thay vì in một dòng chữ ra màn hình.
+
+
+== AI trong thương mại ==
+Theo Haag, Cummings (2004) có bốn kỹ thuật TTNT đã được sử dụng trong kinh doanh:
+
+Hệ chuyên gia áp dụng khả năng suy luận để đạt tới một kết luận. Một hệ chuyên gia có thể xử lý một lượng lớn thông tin đã biết và cung cấp các kết luận dựa trên các thông tin đó.
+Mạng nơ-ron là TTNT có khả năng tìm kiếm và phân biệt các mẫu. Các Phòng Cảnh sát sử dụng mạng nơ-ron để nhận dạng tham nhũng.
+Các Giải thuật di truyền được thiết kế để áp dụng quá trình đấu tranh sinh tồn để tạo các lời giải ngày càng tốt hơn cho bài toán. Các chuyên gia đầu tư sử dụng Giải thuật di truyền để tạo tổ hợp tốt nhất của các cơ hội đầu tư cho các khách hàng của họ.
+Một Agent thông minh là phần mềm hỗ trợ ta hoặc thay mặt ta thực hiện các công việc có liên quan tới máy tính. Ví dụ, chúng được sử dụng dưới dạng các chương trình khai phá dữ liệu và các agent kiểm soát và theo dõi.
+Lập trình Logic đã từng được coi là một ngành của TTNT.
+
+
+== Tham khảo ==
+Trí tuệ nhân tạo là gì? Lịch sử phát triển Trí tuệ nhân tạo AI. Cổng thông tin điện tử đại học kỹ thuật hậu cần CAND
+
+
+== Liên kết ngoài ==
+Chương trình mạng nơ ron đa lớp (Multi Layer Neural Network) và mạng nơ ron tự tổ chức (Self Organizing Maps) có giải thích bằng tiếng Việt. Lưu trữ 2011-07-15 tại Wayback Machine
+Sử dụng phần mềm mạng nơ ron 3 lớp Spice-MLP Lưu trữ 2011-09-29 tại Wayback Machine
+Sử dụng phần mềm mạng tự tổ chức Spice-SOM Lưu trữ 2011-09-29 tại Wayback Machine
+Hướng dẫn sử dụng mạng nơ ron trong các ứng dụng thực tế Lưu trữ 2011-06-26 tại Wayback Machine trong đó có minh họa phân loại ảnh khuôn mặt, ảnh người đi bộ, ảnh xe hơi, dự báo chứng khoán và một số ví dụ khác

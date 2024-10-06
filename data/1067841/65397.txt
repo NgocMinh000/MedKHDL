@@ -1,0 +1,53 @@
+Haemophilus influenzae là vi khuẩn thuộc họ Pasteurellales, được Richard Pfeiffer phân lập vào năm 1892 trong một trận dịch cúm. Haemophilus influenzae là cầu trực khuẩn (coccobacillus) gram âm, rất khó nuôi cấy trên môi trường thông thường. Haemophilis influenzae có sức đề kháng yếu, dễ bị tiêu diệt bởi ánh nắng, chất sát khuẩn thông thường.
+Haemophilus influenzae có rất nhiều chủng sinh hóa (biovar) lẫn chủng huyết thanh (serotype) khác nhau, trong đó chủng có khả năng gây bệnh cao nhất là type b. Haemophilus influenzae là tác nhân gây ra nhiều bệnh lý khác nhau ở người (viêm đường hô hấp, nhiễm khuẩn huyết, viêm màng não mủ, v.v.) và có thể dự phòng thông qua tiêm chủng vaccine Hib. Ở Việt Nam, tiêm chủng phòng ngừa H. influenzae type b (Hib) nằm trong chương trình tiêm chủng quốc gia mở rộng.
+
+
+== Đặc điểm vi sinh học ==
+
+
+=== Hình thái ===
+Haemophilus influenzae là cầu trực khuẩn gram âm, không di động, kỵ khí tùy nghi (facultatively anaerobic), lên men carbohydrate, phản ứng oxidase và catalase dương tính, khử nitrate thành nitrite và ký sinh bắt buộc. 
+
+
+=== Nuôi cấy ===
+Haemophilus influenzae tương đối khó nuôi cấy (fastidious organism). Từ nguyên (Etymology) của "Haemophilus" nghĩa là yêu (philus) máu (Haemo) gợi ý H. influenzae chỉ mọc được trên môi trường thạch máu (blood agar), hay nói chính xác hơn là mọc được trên môi trường có hai yếu tố của máu: yếu tố X (bản chất là haemin, tức nhân heme liên kết với cation Fe3+, bền vững với nhiệt (không bị phá hủy khi đun sôi ở 120oC) và có trong hồng cầu) và yếu tố V (tức nicotinamide adenine dinucleotide, NAD). 
+Trực khuẩn sử dụng yếu tố X để tổng hợp catalase, peroxidase và các cytochrome của hệ thống chuỗi chuyền electron (electron chain transport). Thạch có 5% máu đủ cung cấp yếu tố X cần thiết cho H. influenzae. 
+Yếu tố V có nhiều ở trong máu; tuy nhiên ở máu động vật (cừu), yếu tố V dễ bị phân hủy do máu chứa nhiều NADase (phân hủy NAD). Trong môi trường thạch nâu (Chocolate agar), yếu tố V được giải phóng khỏi hồng cầu và không bị phân giải bởi NADase (do NADase bị biến tính ở nhiệt độ cao). 
+Do đặc tính cần hai yếu tố X và V trong môi trường nuôi cấy, Haemophilus influenzae không mọc được trên môi trường hồng cầu cừu (Sheep blood agar) nhưng có thể mọc được trên môi trường máu động vật khác (thỏ) với kích thước khuẩn lạc bé hơn nhiều so với mọc trên môi trường thạch nâu cùng điều kiện. 
+
+
+== Đặc điểm lâm sàng ==
+
+
+== Xem thêm ==
+Viêm phổi không điển hình
+Phế cầu khuẩn (Streptococcus pneumoniae)
+Mycoplasma pneumoniae
+Kháng thuốc kháng sinh
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+ Dữ liệu liên quan tới Haemophilus influenzae tại Wikispecies

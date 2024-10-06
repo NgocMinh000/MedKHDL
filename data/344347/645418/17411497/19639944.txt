@@ -1,0 +1,32 @@
+Bài viết sau liệt kê các số liệu tỷ lệ tử vong ca bệnh (số ca tử vong do COVID-19 đã được xác nhận trên tổng số ca được chẩn đoán nhiễm SARS-CoV-2), cùng với tổng số ca tử vong và tỷ lệ tử vong trên đầu người theo từng quốc gia. Để xem các dữ liệu trên theo thời gian, tham khảo các bảng và bản đồ tại bài Đại dịch COVID-19 theo quốc gia và vùng lãnh thổ.
+Tính đến ngày 27 tháng 4 năm 2021, Yemen có tỷ lệ tử vong ca bệnh (CFR) được báo cáo lớn nhất ở mức 19,49%, còn Singapore có tỷ lệ thấp nhất ở mức 0,05%, trong đó Singapore không tính những bệnh nhân nhiễm COVID nhưng tử vong vì những nguyên nhân khác.
+Dữ liệu được tính trên toàn thể dân số và không phản ánh sự khác biệt về tỷ lệ giữa các nhóm tuổi khác nhau. Ví dụ, tại Hoa Kỳ tính đến ngày 27 tháng 4 năm 2021, tỷ lệ tử vong ca bệnh ở các nhóm tuổi 0–17, 18–49, 50–74 và từ 75 trở lên lần lượt là 0,015%, 0,15%, 2,3% và 17%.
+
+
+== Độ tin cậy dữ liệu ==
+Sự khác biệt giữa các chương trình xét nghiệm trên thế giới cũng khiến cho sai số tại mỗi quốc gia cũng khác nhau: không phải mọi ca nhiễm SARS-CoV-2, không phải mọi ca tử vong liên quan đến COVID-19 đều được xác định. Do đó, con số người nhiễm bệnh và tử vong thực sự sẽ lớn hơn con số được quan sát (đã được xác nhận) ở tất cả mọi nơi, nhưng mức độ sẽ khác nhau theo từng nước. Các số liệu này do đó không thích hợp để so sánh giữa các quốc gia. Vì các ca tử vong dễ xác nhận hơn các ca nhiễm (do họ thường không có triệu chứng), con số CFR thực tế có khả năng thấp hơn CFR được ghi nhận.
+Nguyên nhân dẫn đến sự khác biệt giữa CFR thực tế của các quốc gia bao gồm sự khác nhau về độ tuổi, sức khỏe tổng quan của dân số, khả năng chăm sóc y tế và cách phân loại các ca tử vong.
+Các số liệu về số ca tử vong vượt mức dự báo (excess mortality) cho phép ước tính tổng số ca tử vong do COVID-19 trong đại dịch một cách đáng tin cậy hơn.
+Chúng so sánh số ca tử vong nói chung trong thời gian đại dịch với con số từ các năm trước, do đó nó có thể bao gồm hầu hết con số tử vong ở những người nhiễm COVID-19 chưa được xác nhận. Dữ liệu từ Nga cho thấy tỷ lệ tử vong thực tế do COVID-19 có thể cao hơn nhiều so với số ca tử vong được ghi nhận: vào tháng 12 năm 2020, dựa trên số ca tử vong vượt mức dự báo trong năm, tổng số người tử vong do COVID-19 tại Nga được ước tính là hơn 186.000,
+trong khi số liệu tử vong do COVID-19 chính thức chỉ là 56.271.
+Tại Hà Lan, cũng dựa trên thông số này, ước tính có khoảng 20.000 người tử vong do COVID-19 vào năm 2020, trong khi tại đây mới chỉ chính thức ghi nhận 11.525 ca tử vong.
+
+
+== Bảng tỷ lệ tử vong ==
+
+
+== Bản đồ tỷ lệ tử vong ==
+Tổng số ca tử vong do COVID-19 đã được xác nhận trên mỗi 1 triệu người theo quốc gia:
+
+
+== Xem thêm ==
+
+Danh sách dịch bệnh
+Danh sách ca tử vong do đại dịch COVID-19 – các ca tử vong nổi bật
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+COVID-19 Risk Factors

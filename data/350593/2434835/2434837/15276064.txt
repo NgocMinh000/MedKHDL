@@ -1,0 +1,36 @@
+Eribulin là thuốc chống ung thư được bán bởi Eisai Co. dưới tên thương mại Halaven. Eribulin còn được gọi là E7389 và ER-086526, và cũng mang ký hiệu NCI của Hoa Kỳ NSC-707389. Nó được sử dụng để điều trị một số bệnh nhân bị ung thư vú và liposarcoma.
+
+
+== Sở hữu trí tuệ ==
+Hiện nay có 5 bằng sáng chế hoạt động tại Hoa Kỳ có liên quan đến việc áp dụng thuốc Halaven, N201532. Cái đầu tiên hết hạn vào ngày 16 tháng 6 năm 2019, cái cuối cùng (USRE46965) hết hạn vào ngày 08 tháng 1 năm 2027.
+
+
+== Phê duyệt và chỉ định ==
+
+
+=== Ung thư vú ===
+Muối mesylate đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt vào ngày 15 tháng 11 năm 2010, để điều trị cho bệnh nhân ung thư vú di căn, người đã nhận được ít nhất hai chế độ hóa trị liệu trước đó cho bệnh ở giai đoạn muộn, bao gồm cả anthracycline - và hóa trị liệu dựa trên taxane. Nó đã được Health Canada phê duyệt vào ngày 14 tháng 12 năm 2011, để điều trị cho bệnh nhân ung thư vú di căn, người trước đây đã nhận được ít nhất hai chế độ hóa trị liệu để điều trị bệnh di căn. Ung thư vú di căn ảnh hưởng đến khoảng 150.000 người ở Hoa Kỳ, do dân số bệnh nhân, Eisai đã có thể nộp đơn và Đơn thuốc mới (NDA) theo chỉ định bệnh mồ côi và bệnh hiếm gặp.
+
+
+=== Liposarcoma ===
+Vào ngày 28 Tháng 1 năm 2016 FDA Mỹ chấp thuận Halaven để điều trị không hoạt động liposarcoma ở những bệnh nhân nhận được hóa trị trước khi có chứa một thuốc anthracycline. Một thử nghiệm giai đoạn III đã báo cáo: Với Halaven, tỷ lệ sống trung bình chung của bệnh nhân mắc liposarcoma là 15,6 tháng, so với 8,4 tháng đối với bệnh nhân điều trị bằng dacarbazine.
+
+
+== Các thử nghiệm lâm sàng ==
+Eribulin cũng đang được Công ty Eisai điều tra để sử dụng trong nhiều loại khối u rắn khác, bao gồm ung thư phổi không phải tế bào nhỏ, ung thư tuyến tiền liệt và sarcoma.
+
+
+== Nghiên cứu và phát triển ==
+Hai sản phẩm dựa trên eribulin mới đang trong giai đoạn nghiên cứu và phát triển; một công thức kết hợp liposome và thuốc kháng thể, cả hai đều để điều trị khối u rắn. Công thức liposome của eribulin, E7389 liposomal, hiện đang trong giai đoạn thử nghiệm lâm sàng giai đoạn 1. Các thí nghiệm sơ bộ in vivo cho thấy giảm C (tối đa) và thời gian bán hủy dài hơn với công thức liposome. Liệu pháp phối hợp kháng thể eribulin thuốc là một liên doanh giữa Eisai và Merck. Các thử nghiệm lâm sàng kết hợp eribulin và pembrolizumab, một chất ức chế PD-1, để điều trị ung thư vú và các bệnh ung thư tiến triển khác.
+
+
+== Cấu trúc và cơ chế ==
+Eribulin là một chất tương tự macrocyclic ketone tổng hợp hoàn toàn của sản phẩm tự nhiên biển halichondrin B, phân tử cha mẹ là một chất ức chế phân bào xảy ra tự nhiên mạnh mẽ với cơ chế hoạt động độc đáo được tìm thấy trong chi bọt biển Halichondria.
+Eribulin là một chất ức chế độc nhất về mặt cơ học của động lực học vi ống, liên kết chủ yếu với một số lượng nhỏ các vị trí có ái lực cao ở đầu cộng của các vi ống hiện có. Eribulin có cả cơ chế hoạt động gây độc tế bào và không gây độc tế bào. Tác dụng gây độc tế bào của nó có liên quan đến các hoạt động chống vi trùng của nó, trong đó apoptosis của các tế bào ung thư được gây ra sau sự phong tỏa phân bào kéo dài và không thể đảo ngược. Ngoài các cơ chế gây độc tế bào, dựa trên kháng nguyên, các nghiên cứu tiền lâm sàng trong các mô hình ung thư vú ở người đã chỉ ra rằng eribulin cũng có tác dụng phức tạp đối với sinh học của các tế bào ung thư còn sót lại và các khối u còn sót lại không liên quan đến tác dụng kháng khuẩn của nó. Các cơ chế không phân bào này bao gồm tái tạo mạch máu dẫn đến tăng tưới máu khối u và giảm thiểu tình trạng thiếu oxy của khối u, thay đổi kiểu hình phù hợp với sự đảo ngược của chuyển đổi biểu mô-trung mô (EMT) và giảm khả năng di chuyển và xâm lấn dẫn đến giảm khả năng di căn và giảm khả năng di căn. mô hình di căn thực nghiệm tiền lâm sàng. Trong các nghiên cứu khác, điều trị eribulin của leiomyosarcoma và liposarcoma tế bào dẫn đến tăng biểu hiện của cơ trơn và adipocyte kháng nguyên khác biệt, tương ứng. Ung thư kháng taxane thường không đáp ứng với eribulin. Một nghiên cứu gần đây cho thấy sự đề kháng này là do biểu hiện của protein kháng đa thuốc 1 (MDR1). Eribulin dán nhãn huỳnh quang đã được sử dụng để nghiên cứu dược động học và dược lực học ở cấp độ tế bào đơn in vivo.
+Một con đường tổng hợp mới cho thuốc đã được xuất bản vào năm 2009.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

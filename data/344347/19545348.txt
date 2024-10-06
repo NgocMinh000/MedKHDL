@@ -1,0 +1,30 @@
+Trong sinh học phân tử và y học hiện đại, phân tử bắt chước (tiếng Anh: molecular mimicry hoặc molecular similarity) là sự giống nhau về cấu trúc giữa  phân tử ngoại lai của vi sinh vật với phân tử vốn có trong cơ thể vật chủ.
+
+
+== Tổng quan ==
+Về bản chất hoá học, phân tử bắt chước thường là prôtêin hay glycôprôtein hoặc có khi chỉ là chuỗi hydrocarbon; còn điểm mà nó "bắt chước" giống được phân tử vật chủ thường chỉ là tình cờ. Vì điểm giống nhau này, khi nó "lang thang" trong cơ thể vật chủ, kết nối với một thụ thể nhất định nào đó, có thể làm thụ thể này nhầm là tín hiệu tế bào nên phát sinh đường truyền tín hiệu tế bào, từ đó dẫn đến phản ứng bất thường gây rối loạn cho vật chủ.
+Khi phân tử bắt chước tương đồng với kháng nguyên tự nhiên của vật chủ, nó có thể kích hoạt tế bào T hoặc tế bào B hoạt động vì nó giống kháng nguyên của mầm bệnh thật sự. Từ đó nó có thể gây phản ứng dẫn đến tự miễn dịch. Nếu hệ thống miễn dịch của vật chủ có phản ứng, thì cơ thể sẽ cố gắng tiêu diệt các tế bào đã bị "đánh dấu", dẫn đến tổn thương cơ quan, hoặc thậm chí gây ra quá trình chết rụng tế bào hàng loạt.  Dữ liệu gần đây cho thấy các bệnh tự miễn kiểu này ảnh hưởng đến khoảng 1/31 người trong dân số.
+Ngoài ra, cũng có những phân tử không có nguồn gốc từ vi sinh vật ký sinh như trên, mà có nguồn gốc khác. Ví dụ như một số loại phân tử hữu cơ trong chất thải nhựa mà người vứt bỏ (nhiều nhất là ở các đĩa CD), qua nguồn nước có thể xâm nhập vào trẻ em, gây rối loạn dậy thì, vì chúng có cấu trúc giống như hoocmôn sinh dục.
+Người ta phát hiện ba kiểu bắt chước phân tử:
+Kiểu bắt chước có các trình tự amino acid giống hệt nhau trong các phân tử prôtêin khác nhau.
+Kiểu bắt chước do sự tương đồng về cấu trúc vật lí, tức sự giống nhau về cấu tạo 3D, có khi không liên quan gì đến trình tự đơn phân.
+Kiểu bắt chước do sự nhận biết các cấu trúc hóa học hoàn toàn khác nhau trên các phân tử riêng biệt bởi một kháng thể duy nhất.
+
+
+== Bản chất bắt chước ==
+
+
+=== Bắt chước cấu trúc ===
+Người ta đã đưa ra giả thuyết rằng những prôtêin độc hại thể hiện sự bắt chước của chúng nhờ bề mặt phân tử giống như bề mặt prôtêin của vật chủ về nếp gấp (tấm ở cấu trúc bậc II) prôtêin hoặc thậm chí về cấu trúc 3D (cấu trúc bậc III hoặc bậc IV), tình cờ hình thành và được củng cố nhờ quá trình tiến hóa hội tụ. Người ta còn đưa ra giả thuyết rằng những nếp gấp prôtêin giống nhau có thể có được nhờ quá trình chuyển gen theo chiều ngang vào vật chủ nhân thực.
+
+
+=== Bắt chước lí - hoá ===
+Ngoài ra, có thể có sự bắt chước về tương tác tĩnh điện yếu, nhờ đó một kháng nguyên có thể có "ái lực" và hoạt tính cao hơn với một kháng thể nhất định hoặc thụ thể của vật chủ. Đã có bằng chứng cho thấy ngay cả các đặc điểm tổng quát như tương tác axit - base hoặc tương tác kỵ nước - ưa nước đã làm cho pôlipeptit lạ (ngoại lai) tương tác với kháng thể hoặc MHC. Trong những trường hợp này, rõ ràng là "ngoại lai" bắt chước mà lại không hề giống "vật chủ" bất kỳ đặc điểm thực sự nào.
+ Đang thực hiện...
+
+
+== Xem đủ hơn ==
+ẫFujinami RS, von Herrath MG, Christen U, Whitton JL (tháng 1 năm 2006). “Molecular mimicry, bystander activation, or viral persistence: infections and autoimmune disease”. Clin. Microbiol. Rev. 19 (1): 80–94. doi:10.1128/CMR.19.1.80-94.2006. PMC 1360274. PMID 16418524.
+
+
+== Nguồn trích dẫn ==

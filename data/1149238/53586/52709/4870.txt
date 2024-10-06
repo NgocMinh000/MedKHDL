@@ -1,0 +1,40 @@
+Linux From Scratch (LFS) là một dự án có mục đích đem lại cho mọi người những cách thức xây dựng một hệ điều hành Linux riêng cho mình. Những cách thức đó được trình bày trong quyển sách cùng tên, có tác giả chính là Gerard Beekmans.
+
+
+== Nguyên nhân ==
+Có nhiều người hỏi: "Tại sao lại đi cài đặt cả một hệ điều hành Linux bằng tay từ mã nguồn trong khi ai cũng có thể tải xuống những bản phân phối GNU/Linux đã có sẵn trên Internet?" Có rất nhiều lý do để cài đặt một hệ điều hành theo đề nghị của LFS.
+Vai trò quan trọng của LFS là nó chỉ dạy cho người ta về các hoạt động bên trong của hệ điều hành Linux. Khi tự xây dựng một hệ điều hành, như đề nghị bởi LFS, sự phụ thuộc lẫn nhau và sự hoạt động của các ứng dụng chung với nhau trong hệ điều hành sẽ trở nên dễ hiểu hơn. Điều quan trọng nhất là LFS sẽ chỉ dẫn cách xây dựng một hệ điều hành phù hợp với mong đợi và cần thiết của từng người.
+LFS cũng hướng dẫn ta xây dựng một hệ điều hành nhỏ gọn. Khi cài đặt một bản phân phối GNU/Linux có trên thị trường, nó sẽ kết thúc với một hệ điều hành bao gồm nhiều chương trình đi kèm không cần thiết và làm tốn dung lượng đĩa. Trong khi đó một hệ điều hành xây dựng theo đề nghị của LFS chỉ chiếm tối đa 100 MB.
+
+
+== Các phiên bản ==
+Hiện nay, dự án Linux From Scratch được tổ chức thành những dự án con sau: 
+
+
+=== Còn hoạt động ===
+LFS (Linux From Scratch): là cuốn sách chính, giúp ta tạo nên một phiên bản Linux hoàn chỉnh từ mã nguồn. Cuốn sách này là cơ sở để tạo ra thêm các cuốn sách con.
+BLFS (Beyond Linux From Scratch): là cuốn sách con của LSF, nó giúp người dùng có các kiến thức để người dùng có thể tùy biến LFS theo ý của họ.
+ALFS (Automated Linux From Scratch): cung cấp những công cụ để quản lý và tự động hóa việc xây dựng LFS và BLFS.
+CLFS (Cross Linux From Scratch): Một phiên bản nâng cao của LFS. Ngoài việc dạy cho người dùng cách tạo ra Linux, nó còn giúp người dùng hiểu thêm và tạo ra một LFS dựa trên cross-complier (biên dịch chéo)
+HLFS: (Hardened Linux From Scratch) tập trung vào việc xây dựng một hệ thống LFS với tính an ninh cao.
+Hints: Dự án Hints là tập hợp của những tài liệu, ý kiến bên ngoài các quyển sách LFS và BLFS  với mục đích làm cách nào để tăng cường hệ thống LFS.
+Patches: Dự án Patches cung cấp các bản vá cho người dùng LFS.
+
+
+=== Dừng hoạt động ===
+LiveCD: Dự án LiveCD cung cấp một đĩa CD với môi trường dùng để xây dựng một LFS hoặc như một đĩa CD cứu hộ nói chung. LiveCD không thể dùng để tạo ra LFS từ phiên bản 7.0 trở lên
+
+
+== Quá trình cài đặt ==
+Thông thường thì quá trình cài đặt một hệ điều hành Linux From Scratch cần có một dĩa cứng đã được chia ra nhiều phần (partition) và một hệ điều hành GNU/Linux đã được cài sẵn dùng để biên dịch các gói mã nguồn. Nhưng khi dùng dĩa Linux From Scratch LiveCD thì hệ điều hành GNU/Linux cài sẵn không cần thiết. Vì dĩa CD đó chứa đựng tất cả các gói mà nguồn cần thiết, quyển sách LFS, một hệ thống biên dịch tự động, và một môi trường làm việc đồ họa XFCE.
+Trước hết thì hệ thống biên dịch của LFS cần được biên dịch bằng cách dùng hệ thống GNU/Linux đã có sẵn. Một môi trường biên dịch chương trình đầy đủ trên hệ thống GNU/Linux bao gồm: GCC, glibc, binutils và một vài công cụ cần thiết khác. Sau đó thì thư mục gốc (root directory) của hệ thống GNU/Linux dùng để biên dịch các gói mã nguồn LFS cần được chuyển sang phần đĩa cứng mới bằng cách dùng lệnh chroot. Sau khi đã dời thư mục gốc qua phần đĩa cứng mới thì phần còn lại của hệ thống LFS mới được biên dịch tiếp.
+
+
+== Các gói cài đặt trong LFS 7.2 ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang Web của dự án LFS

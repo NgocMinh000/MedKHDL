@@ -1,0 +1,66 @@
+Đại thực bào (tiếng Anh: "macrophage") là những tế bào bạch cầu, phân nhóm thực bào, có vai trò quan trọng trong hệ miễn dịch không đặc hiệu cũng như hệ miễn dịch đặc hiệu ở động vật có xương sống. Vai trò chính của chúng là thực bào các thành phần cặn bã của tế bào và các tác nhân gây bệnh. Một vai trò quan trọng của đại thực bào là chúng đóng vai trò các tế bào trình diện kháng nguyên khởi động đáp ứng miễn dịch đặc hiệu của cơ thể. Đại thực bào có thể lưu hành tự do trong máu hay cố định tại các tổ chức, tại đây chúng có tên gọi khác nhau.
+
+
+== Vòng đời ==
+Các đại thực bào được biệt hóa từ các monocyte là những tế bào thực bào có nguồn gốc từ tủy xương. Một khi tế bào monocyte vượt qua nội mô mạch máu để đi vào các tổ chức bị tấn công, nó trải qua một loạt các biến đổi quan trọng để trở thành đại thực bào. Quá trình hấp dẫn tế bào monocyte lưu động vào các tổ chức tốn thương thực hiện thông qua cơ chế hóa ứng động. Cơ chế này được khởi phát bởi các sự kiện khác nhau tùy theo hoàn cảnh mà chủ yếu là các tế bào bị tổn thương hay các tác nhân gây bệnh sản xuất ra các chất hóa học hấp dẫn đại thực bào. Tại chỗ tổn thương, các tế bào phì hoặc dưỡng bào (mast cell) và các tế bào ưa kiềm phóng thích các chất histamine, các đại thực bào cũng tiết ra các chất cytokine. Tất cả các chất này đều có tính hấp dẫn đại thực bào.
+Các bạch cầu đa nhân trung tính là những thực bào tập trung sớm nhất đến vị trí nhiễm trùng. Tuy nhiên các tế bào này có đời sống khá ngắn ngủi chỉ trong vài ngày. Trong khi đó các đại thực bào có đời sống kéo dài hàng tháng, thậm chí hàng năm. Một điểm đặc biệt cần lưu ý là các đại thực bào không có khả năng phân chia mà chỉ là dạng trưởng thành của các monocyte có nguồn gốc từ tủy xương.
+
+
+== Chức năng ==
+
+
+=== Hiện tượng thực bào ===
+Một trong những vai trò quan trọng nhất của đại thực bào là loại bỏ các thành phần hoại tử và bụi trong phổi. Loại bỏ các tế bào chết đóng vai trò rất quan trọng trong hiện tượng viêm. Trong giai đoạn sớm của viêm, thành phần tế bào viêm chủ yếu là các tế bào hạt trung tính (bạch cầu đa nhân trung tính). Các tế bào này sau khi thực hiện nhiệm vụ thực bào hoặc sẽ bị chết hoặc già đi và trở thành tế bào mủ. Đại thực bào có nhiệm vụ thực bào các tế bào già cỗi và tổn thương này để làm sạch tổ chức.
+Việc loại bỏ bụi cũng như các tổ chức hoại tử được thực hiện một cách hiệu quả nhờ các đại thực bào cố định ở tổ chức. Chúng cư trú tại các vị trí chiến lược như phổi, gan, thần kinh, xương, lách và tổ chức liên kết nhờ đó chúng có thể nhanh chóng bắt giữ các vật lạ như bụi và các tác nhân gây bệnh đồng thời cũng có thể kịp thời phát tín hiệu kêu gọi sự hỗ trợ của các đại thực bào di động khác.
+Một khi các đại thực bào bắt giữ các tác nhân gây bệnh, các tác nhân này sẽ nằm trong các không bào. Không bào này sau đó sẽ hòa màng với tiêu thể (lysosome). Bên trong các tiêu thể, các enzyme cũng như các gốc oxy tự do độc sẽ tiêu hủy tác nhân xâm nhập này. Tuy nhiên, một số vi khuẩn như trực khuẩn lao Mycobacterium tuberculosis có khả năng đề kháng với sự tiêu hóa trong tiêu thể. Trong trường hợp này, chính đại thực bào lại trở thành nơi trú ẩn của vi khuẩn gây bệnh.
+Cùng với các tế bào chết theo chu trình (natural killer cell) và các tế bào T hay độc tế bào, đại thực bào đóng vai trò quan trọng trong miễn dịch qua trung gian tế bào.
+
+
+=== Vai trò trong miễn dịch tự nhiên ===
+Một khi đại thực bào được hoạt hóa bởi sự hiện diện của các tác nhân gây bệnh, nó sẽ phóng thích một loạt các cytokine. Các phân tử này phát huy tác dụng trên nhiều loại tế bào miễn dịch khác nhau. Đây là cơ sở của đáp ứng miễn dịch tiên thiên của cơ thể đối với nhiễm trùng. Các cytokine chính được phóng thích bởi đại thực bào gồm:
+
+Interleukin-1
+IL-1 có tác dụng hoạt hóa tế bào nội mô mạch máu, hoạt hóa các tế bào lympho, gây tổn thương tổ chức tại chỗ tạo điều kiện cho các tế bào thực hiện miễn dịch đi vào các vùng này. IL-1 cũng có tác dụng gây sốt và sản xuất IL-6.
+
+Yếu tố hoại tử khối u α (Tumor Necrosis Factor α: TNF α)
+Hoạt hóa tế bào nội mô mạch máu và tăng tính thấm thành mạch. Hiệu ứng này làm tăng các IgG, bổ thể và các tế bào đi vào tổ chức gây viêm cục bộ. TNF α còn có tác dụng toàn thân như gây sốt, huy động các chất chuyển hóa và gây sốc.
+
+Interleukin-6
+Hoạt hóa các tế bào lympho, tăng sản xuất kháng thể. Tác dụng toàn thân quan trọng của IL-6 là gây sốt và đặc biệt nhất là kích thích sản xuất các protein của đáp ứng pha cấp.
+
+Interleukin-8
+Là một yếu tố hóa ứng động hấp dẫn các bạch cầu trung tính, bạch cầu ưa kiềm và tế bào T đến ổ nhiễm trùng.
+
+Interleukin-12
+Hoạt hóa các tế bào NK, kích thích quá trình biệt hóa của các tế bào CD4 thành các tế bào T hỗ trợ (helper T cell).
+
+
+=== Vai trò trong miễn dịch đặc hiệu ===
+Sau khi bắt giữ và tiêu hóa tác nhân gây bệnh, đại thực bào sẽ trình diện kháng nguyên của các tác nhân này cho các tế bào T hỗ trợ (helper T cell) tương ứng. Quá trình trình diện kháng nguyên này rất phức tạp và tinh tế, được thực hiện thông qua phức hợp tương thích mô chính lớp II (major histocompatibility complex class II: MHC II). Nhờ phức hợp này mà các tế bào T hỗ trợ có thể tiếp cận với đại thực bào, nhận diện được các kháng nguyên trên bề mặt đại thực bào. Đây là bước khởi đầu quan trọng trong đáp ứng miễn dịch đặc hiệu.
+Kết quả của quá trình trình diện kháng nguyên này là sự sản xuất các kháng thể đặc hiệu. Các kháng thể đặc hiệu này sẽ gắn với các kháng nguyên tương ứng của tác nhân gây bệnh tạo điều kiện thuận lợi cho các đại thực bào cũng như các tế bào thẩm quyền miễn dịch khác tiếp cận và tiêu diệt tác nhân gây bệnh. Hiện tượng này còn được gọi là opsonin hóa. Hiện tượng opsonin hóa có thể tạo nên phức hợp tấn công màng gây ly giải tế bào vi khuẩn và tạo điều kiện áp sát và bắt giữ các tác nhân gây bệnh này bởi đại thực bào, tế bào T độc tế bào.
+
+
+== Vai trò sinh lý bệnh của đại thực bào ==
+Do đóng vai trò quan trọng trong quá trình thực bào của cơ thể, đại thực bào có liên quan trong một số tình trạng bệnh lý do miễn dịch. Ví dụ các đại thực bào tham gia vào quá trình hình thành u hạt (granuloma), các tổn thương viêm do nhiều nguyên nhân khác nhau.
+Trong hội chứng đáp ứng viêm hệ thống và trong nhiễm trùng huyết, đại thực bào phóng thích các cytokine gây viêm mạnh, đóng vai trò quan trọng trong quá trình bệnh sinh của các hội chứng này.
+Trong một số bệnh lý hiếm gặp, tình trạng suy giảm miễn dịch có liên quan đến suy giảm chức năng của đại thực bào cũng như khả năng thực bào không hiệu quả.
+Đại thực bào là tế bào chủ đạo trong việc hình thành các tổn thương tiến triển trong chứng xơ vữa động mạch.
+Trong đáp ứng với cúm, đại thực bào được tập trung tại hầu họng. Tuy nhiên sự tập trung này có hại hơn là có lợi. Các đại thực bào này không chỉ tiêu diệt các tế bào nhiễm virus cúm mà chúng còn tiêu diệt cả những tế bào lành xung quanh đó.
+Đại thực bào cũng có liên quan trong nhiễm HIV. Cũng giống như tế bào T, đại thực bào có thể trở thành ổ chứa để các virus này tiếp tục nhân lên.
+
+
+== Các đại thực bào cố định ==
+Như đã đề cập ở trên, đại bộ phận quân số đại thực bào đồn trú tại các vị trí chiến lược nơi thường xảy ra sự đột nhập của các tác nhân gây bệnh cũng như bụi môi trường. Một khi đã cư trú ở các tổ chức đặc biệt thì tên của các đại thực bào cũng thay đổi. Dưới đây là các ví dụ điển hình:
+
+Phổi: Đại thực bào phế nang (alveolar macrophage) hay còn gọi là các tế bào bụi (dust cell).
+Tổ chức liên kết: Mô bào (histiocyte).
+Gan: Tế bào Kupffer.
+Thần kinh: Tế bào đệm nhỏ hoặc vi bào đệm (microglia).
+Xương: Hủy cốt bào (osteoclasts).
+Lách: Tế bào lót xoang.
+Dưới da: Tế bào Langerhans.
+
+
+== Tham khảo ==
+
+Janeway CJ, Travers P, Walport M, Shlomschik M. Immunologie. 5. Auflage. Spektrum Akademischer Verlag.

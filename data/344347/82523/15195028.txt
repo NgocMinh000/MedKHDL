@@ -1,0 +1,12 @@
+Ramoplanin (INN) là một loại thuốc kháng sinh glycolipodepsipeptide có nguồn gốc từ chủng ATCC 33076 của Actinoplanes.
+
+
+== Cơ chế ==
+Ramoplanin là thuốc đầu tiên trong nhóm glycolipodepsipeptide. Ramoplanin và các glycolipodepsipeptide khác gắn vào Lipid I và Lipid II, từ đó ngăn cản quá trình chuyển đổi của Lipid I sang Lipid II thông qua enzyme MurG và ức chế sự kéo dài chuỗi glycan qua transglycosylase. Không giống các kháng sinh glycopeptide, ramoplanin không gắn với chuỗi D-Ala-D-Ala.
+
+
+== Công dụng ==
+Sự phát triển của nó đã được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ theo dõi nhanh chóng khi điều trị nhiễm trùng Clostridium difficile kháng kháng sinh của đường tiêu hóa, Không giống như vancomycin, nó được hấp thu ở đường tiêu hóa, mặc dù nó không ổn định trong máu, thế nên chỉ có thể uống bằng đường uống chống lại nhiễm trùng Clostridium difficile của đường tiêu hóa.
+
+
+== Tham khảo ==

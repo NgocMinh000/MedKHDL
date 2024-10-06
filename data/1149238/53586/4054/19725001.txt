@@ -1,0 +1,24 @@
+Đường đồng ngữ, còn gọi là đồng ngữ tuyến, là đường trên bản đồ phương ngữ khoanh vùng phổ biến của một hiện tượng ngôn ngữ, ví dụ như cách phát âm của một nguyên âm nhất định, nghĩa của từ, hay một đặc điểm hình thái hoặc cú pháp cụ thể nào đó. Đường biên của các phương ngữ chính của một ngôn ngữ thường được phân định bởi một nhóm các đường đồng ngữ, ví dụ như đường Benrath chia tách tiếng Thượng Đức với các ngôn ngữ German Tây khác, hay đường La Spezia-Rimini phân chia các ngôn ngữ Bắc Ý và các ngôn ngữ Roman ở phía tây nó với các phương ngữ Nam Ý và các ngôn ngữ Roman ở phía đông nó. Ngược lại, một đường đồng ngữ riêng lẻ có thể tương ứng hoặc không tương ứng với ranh giới của bất kì ngôn ngữ nào, ví dụ như đường đồng ngữ nguyên âm /y/ của tiếng Pháp cắt qua lãnh thổ Đức và Pháp.
+Một trong những đường đồng ngữ được biết đến nhiều nhất là đường phân chia centum-satem.
+
+
+== Ví dụ ==
+
+
+=== Đường phân chia centum-satem ===
+Đường đồng ngữ centum-satem của ngữ hệ Ấn-Âu phân chia hai hướng tiến hóa của nhóm phụ âm mặt lưỡi của tiếng Ấn-Âu nguyên thủy (Proto-Indo-European, PIE). Trong bản phục dựng chuẩn, ba dãy phụ âm mặt lưỡi sau được ghi nhận:
+
+Ở một số nhánh như Hy Lạp, gốc Ý hoặc German, dãy phụ âm vòm cứng đã hợp nhất với dãy phụ âm vòm mềm: *keup- "run rẩy" và *ḱm̥tom "một trăm" trong PIE đã tiến hóa lần lượt thành cupiō "khao khát" và centum [kentum] "một trăm" trong tiếng Latinh, nhưng *kʷo- (đại từ nghi vấn) trở thành quō "thế nào/ở đâu?". Những ngôn ngữ như vậy được gọi là nhóm centum, đặt tên theo từ centum "một trăm" trong tiếng Latinh.
+Ở những nhánh khác như Balt-Slav hay Ấn-Iran, dãy phụ âm môi-ngạc đã hợp nhất với dãy phụ âm vòm mềm: *keup- trở thành kopáyati "chao đảo" trong tiếng Phạn và *kʷo- trở thành kō "ai?" trong tiếng Avesta, nhưng cũng trong ngôn ngữ này thì *ḱm̥tom đã trở thành satəm. Những ngôn ngữ này được gọi là nhóm satem, đặt tên theo từ satəm "một trăm" trong tiếng Avesta.
+Do các ngữ chi Balt-Slav, Ấn-Iran và các ngữ chi satem khác nằm ở các vùng địa lý liền kề nhau, người ta vẽ được một đường đồng ngữ phân chia các ngôn ngữ centum với các ngôn ngữ satem.
+
+
+== Xem thêm ==
+Phương ngữ
+Dãy phương ngữ
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

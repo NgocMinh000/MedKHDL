@@ -1,0 +1,86 @@
+
+= Chẩn đoán bệnh lao tiềm ẩn =
+Có hai loại xét nghiệm thường được sử dụng để xác định bệnh nhân có bệnh lao tiềm ẩn: xét nghiệm da tuberculin và xét nghiệm IFN-γ (Interferon-gamma).
+Các xét nghiệm da hiện bao gồm hai xét nghiệm sau đây:
+
+Xét nghiệm Mantoux
+Heaf test
+Xét nghiệm IFN-γ bao gồm ba xét nghiệm sau đây:
+
+T-SPOT.TB
+QuantiFERON-TB Gold
+QuantiFERON-TB Gold In-Tube
+Xét nghiệm QuantiFERON tầm soát bệnh lao
+Xét nghiệm Quantiferon là phương pháp xét nghiệm máu, có thể biết sớm nhất sự có mặt của vi khuẩn lao trong cơ thể con người. Phương pháp này kiểm tra dựa trên mức độ phản ứng của hệ miễn dịch với vi khuẩn gây lao.
+Xét nghiệm này có ưu điểm là chỉ cần lấy mẫu máu một lần, kết quả có nhanh trong vòng một ngày. Lưu ý, không thực hiện đối với trẻ em dưới 5 tuổi hoặc người suy giảm hệ miễn dịch, người mới nhiễm khuẩn lao bởi họ chưa có phản ứng miễn dịch với lao.
+Trong chẩn đoán lâm sàng bệnh lao, xét nghiệm Quatiferon có ý nghĩa quan trọng giúp:
+
+Phân biệt bệnh ung thư phổi với bệnh lao phổi.
+Phân biệt bệnh lao xương khớp, hội chứng viêm đa khớp dạng thấp.
+Tầm soát lao, giúp điều trị bệnh về da, đường tiêu hóa, khớp.
+Phân biệt người nhiễm vi khuẩn lao với nhiễm khuẩn không lao khi có cùng triệu chứng.
+Phát hiện trẻ nhỏ nhiễm lao.
+Phát hiện các bệnh lao ngoài phổi: lao màng bụng, lao màng não, lao khớp,...
+Đặc biệt, xét nghiệm có ý nghĩa quan trọng đối với lao tiềm ẩn. Xét nghiệm Quantiferon có giá trị xác định lao tiềm ẩn và thường được chỉ định trong những trường hợp lao âm tính.
+Như vậy, xét nghiệm Quantiferon giúp phát hiện sớm khả năng nhiễm khuẩn lao ở người bệnh, từ đó bác sĩ xác định được phương pháp điều trị kịp thời, hạn chế tối đa các triệu chứng nguy hiểm ở người bệnh. Vì thế nó có ý nghĩa quan trọng trong việc điều trị bệnh lao phổi.
+Xét nghiệm Quantiferon ở đâu?
+- Khoa Hóa Sinh- Huyết học & TTruyền máu, Bệnh viện Phổi Hà Nội, 44 Thanh Nhàn, Hà Nội
+- Khoa Vi sinh Bệnh viện Phổi Trung ương, 436 Hoàng Hoa Thám, Hà Nội
+- Bệnh viện lao và bệnh phổi Hải Phòng
+- Medlatec, Greenlab, Vinmec...
+
+
+== Xét nghiệm da tuberculin ==
+Xét nghiệm da tuberculin (Tuberculin skin test-TST) trong lần lặp đầu tiên, Xét nghiệm Mantoux, được phát triển vào năm 1908. Về mặt khái niệm, nó khá đơn giản: lao tố (còn được gọi là dẫn xuất protein tinh khiết hoặc PPD) là một chất chiết xuất đã chết tiêu chuẩn của vi khuẩn lao được cấy vào da để đo phản ứng miễn dịch của người với vi khuẩn. Vì vậy, nếu một người đã tiếp xúc với vi khuẩn trước đây, họ sẽ biểu hiện một phản ứng miễn dịch với việc tiêm, thường là sưng nhẹ hoặc đỏ quanh chỗ. Đã có hai phương pháp chính của TST: test Mantoux và test Heaf. Thử nghiệm Heaf đã ngưng vào năm 2005 vì nhà sản xuất coi sản xuất của mình không bền vững về mặt tài chính, mặc dù trước đây nó được ưa chuộng ở Anh bởi vì nó được yêu cầu đào tạo ít hơn để quản lý và tham gia ít biến đổi quan sát hơn trong việc giải thích.
+
+
+== Test Mantoux ==
+Xét nghiệm Mantoux hiện được chuẩn hóa bởi WHO. 0,1 ml lao tố (100 đơn vị / ml), cung cấp liều 5 đơn vị được đưa vào bằng cách tiêm vào da trên bề mặt dưới cẳng tay (tiêm dưới da dẫn đến kết quả âm tính giả). Một dấu mực không thấm nước được vẽ xung quanh chỗ tiêm để tránh gặp khó khăn khi tìm thấy nó sau này nếu mức độ phản ứng nhỏ. Bài kiểm tra được đọc từ 48 đến 72 giờ sau đó. Diện tích của sẩn (KHÔNG phải ban đỏ) được đo ngang qua cẳng tay (trái sang phải, không đo theo chiều lên và xuống) và ghi vào với đơn vị milimet.
+
+==Test Heaf==
+
+Bài kiểm tra Heaf được mô tả lần đầu tiên vào năm 1951. Bài kiểm tra sử dụng súng Heaf với đầu sử dụng một lần; mỗi đầu có sáu kim được sắp xếp theo hình tròn. Có đầu chuẩn và đầu trẻ em: đầu tiêu chuẩn được sử dụng trên tất cả các bệnh nhân từ 2 tuổi trở lên; đầu trẻ em là dành cho trẻ sơ sinh dưới 2 tuổi. Đối với đầu chuẩn, kim nhô ra 2 mm khi súng được kích hoạt; cho đầu trẻ em, kim nhô ra 1 mm. Da được làm sạch bằng cồn, sau đó lao tố (100.000 đơn vị / ml) được bôi đều trên da (khoảng 0,1 ml); súng sau đó được áp dụng cho da và bắn. Dung dịch dư thừa sau đó được lau sạch và một dấu mực không thấm nước được vẽ xung quanh chỗ tiêm. Bài kiểm tra được đọc 2 đến 7 ngày sau đó.
+
+Lớp 0: không có phản ứng, hoặc có sẩn tại 3 điểm nhỏ hơn;
+Lớp 1: xuất hiện sẩn tại bốn hoặc nhiều điểm thủng;
+Lớp 2: xuất hiện sẩn trong sáu điểm thủng kết thành một khối để tạo thành một vòng tròn;
+Lớp 3: sẩn 5 mm; Hoặc nhiều hơn
+Lớp 4: sẩn từ 10 mm trở lên hoặc loét
+Kết quả của cả hai bài kiểm tra tương đương như sau:
+
+Heaf lớp 0 & 1 ~ Mantoux nhỏ hơn 5 mm;
+Heaf lớp 2 ~ Mantoux 5–14 mm;
+Heaf lớp 3 & 4 ~ Mantoux 15 trở lên
+
+
+== Chuyển đổi tuberculin ==
+Chuyển đổi lao tố được cho là xảy ra nếu một bệnh nhân trước đó đã có xét nghiệm da lao tố âm tính phát triển xét nghiệm da tuberculin dương tính sau đó. Nó chỉ ra một sự thay đổi từ âm sang dương, và thường biểu thị một nhiễm trùng mới.
+
+
+== Hiện tượng tăng cường ==
+Hiện tượng tăng cường là một cách để có kết quả xét nghiệm dương tính giả. Về mặt lý thuyết, khả năng phát triển phản ứng với TST của một người có thể giảm theo thời gian - ví dụ, một người bị nhiễm lao tiềm ẩn khi còn nhỏ, và được dùng TST như một người trưởng thành. Bởi vì đã có một thời gian dài kể từ khi đáp ứng miễn dịch với bệnh lao là cần thiết, người đó có thể đưa ra kết quả xét nghiệm âm tính. Nếu vậy, có một cơ hội khá hợp lý rằng TST gây nên sự quá mẫn trong hệ thống miễn dịch của người đó - nói cách khác, TST nhắc nhở hệ miễn dịch của người đó về bệnh lao, và cơ thể phản ứng quá mức với những gì nó được coi là tái nhiễm. Trong trường hợp này, khi đối tượng đó được thử lại (như là quy trình chuẩn, xem ở trên), chúng có thể có phản ứng lớn hơn đáng kể đối với phép thử, cho kết quả dương tính rất mạnh; điều này có thể thường được chẩn đoán nhầm là Chuyển đổi Tuberculin. Điều này cũng có thể được kích hoạt bằng cách chủng ngừa BCG, trái ngược với một nhiễm trùng thích hợp. Mặc dù việc tăng cường có thể xảy ra ở bất kỳ nhóm tuổi nào, nhưng khả năng phản ứng sẽ tăng theo độ tuổi.
+Tăng cường chỉ có thể có liên quan nếu một cá nhân đang bắt đầu trải qua các TST định kỳ (ví dụ như nhân viên y tế). Trong trường hợp này, quy trình chuẩn được gọi là thử nghiệm hai bước. Cá nhân được đưa ra xét nghiệm đầu tiên của họ và trong trường hợp có kết quả âm tính, được thử nghiệm lần hai sau 1 đến 3 tuần. Điều này được thực hiện để chống lại việc tăng cường trong những tình huống mà, người đó đã chờ đến một năm để có TST tiếp theo, họ vẫn có thể có phản ứng tăng cường và bị chẩn đoán nhầm là nhiễm trùng mới.
+Ở đây có sự khác biệt trong hướng dẫn của Hoa Kỳ và Vương quốc Anh; trong xét nghiệm của Hoa Kỳ được cho là bỏ qua khả năng dương tính giả do thuốc chủng ngừa BCG, vì BCG được xem là có hiệu quả suy giảm theo thời gian. Do đó, CDC kêu gọi các cá nhân được điều trị dựa trên phân tầng nguy cơ bất kể tiền sử tiêm chủng BCG, và nếu cá nhân chưa được tiêm chủng và TST dương tính thì sẽ được đánh giá điều trị lao đầy đủ bắt đầu bằng X-quang để xác nhận bệnh lao không hoạt động và tiếp tục từ đó.  Ngược lại, hướng dẫn của Vương quốc Anh thừa nhận hiệu quả tiềm năng của việc tiêm vắc-xin BCG, vì nó là bắt buộc và do đó là mối quan tâm phổ biến - mặc dù Vương quốc Anh chia sẻ quy trình quản lý hai xét nghiệm, cách nhau một tuần và chấp nhận kết quả chính xác cũng giả định rằng một dương tính thứ hai là dấu hiệu của một nhiễm trùng cũ (và do đó chắc chắn LTBI) hoặc chính BCG. Trong trường hợp chủng ngừa BCG gây nhầm lẫn kết quả, xét nghiệm Interferon-γ (IFN-γ) có thể được sử dụng vì chúng sẽ không bị ảnh hưởng bởi BCG.
+
+
+== Giải thích ==
+Theo các hướng dẫn của Hoa Kỳ, có nhiều ngưỡng để tuyên bố một kết quả dương tính của bệnh lao tiềm ẩn từ xét nghiệm Mantoux: Đối với những người được thử nghiệm từ các nhóm nguy cơ cao, chẳng hạn như những người nhiễm HIV, ngưỡng cắt là 5 mm. Cho nhóm nguy cơ trung bình, 10 mm; cho nhóm nguy cơ cao, 15 mm. Các hướng dẫn của Hoa Kỳ khuyến nghị nên bỏ qua lịch sử của việc tiêm phòng BCG trước đó. Để biết chi tiết về diễn giải kiểm tra da lao tố, vui lòng tham khảo các hướng dẫn của CDC (tham khảo dưới đây).
+Các hướng dẫn của Vương quốc Anh được xây dựng theo thử nghiệm Heaf: Ở những bệnh nhân đã có BCG trước đây, lao tiềm ẩn được chẩn đoán nếu xét nghiệm Heaf là cấp 3 hoặc 4 và không có dấu hiệu hoặc triệu chứng của bệnh lao hoạt tính; nếu kiểm tra Heaf là lớp 0 hoặc 1, thì kiểm tra được lặp lại. Ở những bệnh nhân không có BCG trước đây, lao tiềm ẩn được chẩn đoán nếu xét nghiệm Heaf là cấp 2, 3 hoặc 4, và không có dấu hiệu hoặc triệu chứng của bệnh lao hoạt tính. Lặp lại thử nghiệm Heaf không được thực hiện ở những bệnh nhân đã có BCG (vì hiện tượng tăng cường). Để biết chi tiết về diễn giải kiểm tra da tuberculin, vui lòng tham khảo hướng dẫn BTS (tham khảo dưới đây).
+Do khuyến cáo của Hoa Kỳ là việc tiêm phòng BCG trước khi được bỏ qua trong việc giải thích các xét nghiệm lao tố, có thể xảy ra kết quả dương tính giả với xét nghiệm Mantoux: (1) trước đây đã có BCG (thậm chí nhiều năm trước) và/hoặc (2) thử nghiệm định kỳ với xét nghiệm da lao tố. Có TST thường xuyên làm tăng đáp ứng miễn dịch ở những người trước đó đã có BCG, do đó những người này sẽ xuất hiện sai để chuyển đổi lao tố. Điều này có thể dẫn đến điều trị nhiều người hơn mức cần thiết, với nguy cơ có thể xảy ra đối với những bệnh nhân bị phản ứng có hại. Tuy nhiên, như  vắc-xin BCG (Bacille Calmette-Guérin) không hiệu quả 100% và ít bảo vệ ở người lớn hơn bệnh nhi, không điều trị những bệnh nhân này có thể dẫn đến nhiễm trùng. 
+Các hướng dẫn của Mỹ cũng cho phép thử lao tố da ở những bệnh nhân ức chế miễn dịch (những người nhiễm HIV, hoặc đang dùng thuốc ức chế miễn dịch), trong khi các hướng dẫn của Anh khuyên rằng không nên sử dụng xét nghiệm lao tố lao cho những bệnh nhân này vì nó không đáng tin cậy.
+
+
+== Các chủng kháng thuốc ==
+Nó thường được giả định bởi hầu hết các học viên y tế trong giai đoạn đầu của một chẩn đoán rằng một trường hợp bệnh lao tiềm ẩn là chủng lao bình thường. Do đó, nó sẽ được xử lý phổ biến nhất với Isoniazid (điều trị sử dụng nhiều nhất cho bệnh lao tiềm ẩn). Chỉ khi vi khuẩn lao không đáp ứng với điều trị các bác sĩ sẽ bắt đầu xem xét các chủng độc lực cao hơn, đòi hỏi phác đồ điều trị dài hơn và triệt để hơn.
+Có bốn loại bệnh lao được công nhận trên thế giới ngày nay:
+
+Bệnh lao (TB)
+Lao đa kháng thuốc (MDR TB) 
+Lao kháng thuốc rộng rãi (XDR TB) 
+Lao kháng thuốc hoàn toàn (TDR TB) 
+
+
+= Tài liệu tham khảo =
+
+
+== Tham khảo ==

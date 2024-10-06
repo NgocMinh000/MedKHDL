@@ -1,0 +1,35 @@
+Adenosine monophosphate (AMP), còn được gọi là axit 5'-adenylic, là một nucleotide. AMP bao gồm một nhóm phosphate, đường ribose và base adenine; nó là một ester của axit photphoric và adenosine nucleoside. Là một nhóm thế, nó có dạng tiền tố adenylyl-.
+AMP đóng vai trò quan trọng trong nhiều quá trình trao đổi chất của tế bào, được chuyển đổi sang ADP và/hoặc ATP. AMP cũng là một thành phần trong quá trình tổng hợp RNA.
+
+
+== Hình thành và phân hủy ==
+AMP không có liên kết phosphoanhydride cao năng liên quan đến ADP và ATP. AMP sản xuất từ ADP:
+
+2 ADP → ATP + AMP
+Hoặc AMP tạo ra bằng cách thủy phân một liên kết phosphate cao năng của ADP:
+
+ADP + H2O → AMP + Pi
+AMP cũng hình thành bằng cách thủy phân ATP thành AMP và pyrophosphate:
+
+ATP + H2O → AMP + PPi
+Khi RNA bị phá vỡ bởi các hệ thống sống, các nucleoside monophosphate, bao gồm adenosine monophosphate, được hình thành.
+AMP tái tạo thành ATP như sau:
+
+AMP + ATP → 2 ADP (adenylate kinase theo hướng ngược lại)
+ADP + Pi → ATP (bước này thường được thực hiện trong aerobes bởi ATP synthase trong quá trình phosphoryl oxy hóa)
+AMP biến đổi thành IMP nhờ enzyme myoadenylate deaminase, giải phóng một nhóm amonia.
+Trong con đường dị hóa, adenosine monophosphate chuyển đổi thành axit uric, được bài tiết ra khỏi cơ thể ở động vật có vú.
+
+
+== cAMP ==
+AMP cũng có thể tồn tại như một cấu trúc vòng được gọi là AMP vòng (hoặc cAMP). Trong một số tế bào, enzyme adenylate cyclase tạo ra cAMP từ ATP, và thông thường phản ứng này được điều chỉnh bởi các hormone như adrenaline hoặc glucagon. CAMP đóng vai trò quan trọng trong việc truyền tín hiệu nội bào.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+Quang phổ MS GMD

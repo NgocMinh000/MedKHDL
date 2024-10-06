@@ -1,0 +1,28 @@
+Nhân thần kinh sọ là một tập hợp các neuron (chất xám) ở trong thân não liên kết với một hay nhiều dây thần kinh sọ. Các sợi trục (mang tín hiệu đến và đi khỏi các dây thần kinh sọ) tạo synapse đầu tiên tại những nhân này. Tổn thương tại các nhân này cho hậu quả tương tự như đứt dây thần kinh xuất phát từ nhân đó.
+
+
+== Sự phân bố của các nhân ==
+
+
+== Hình ảnh tham khảo ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Tham khảo ==
+
+Lennart Heimer, The Human Brain, ISBN 0-387-94227-0
+
+
+== Liên kết ngoài ==

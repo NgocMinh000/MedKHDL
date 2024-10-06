@@ -1,0 +1,20 @@
+Hàng rào máu não (tiếng Anh: blood–brain barrier, viết tắt: BBB) là một lớp các tế bào nội mô hoạt động như một rào cản, ngăn chặn các phần tử nhất định bao gồm tế bào miễn dịch, virus đi từ máu vào hệ thần kinh trung ương, nhưng cho qua các chất dinh dưỡng (sinh học) giúp quá trình chuyển hóa của tế bào não.
+Những thí nghiệm đầu tiên, chỉ ra sự tồn tại của các rào cản này, được thực hiện bởi Paul Ehrlich vào năm 1885. Bằng chứng xác định rõ ràng hàng rào máu-não đã được thực hiện vào năm 1967 bởi các nghiên cứu với kính hiển vi điện tử.
+
+
+== Cấu trúc ==
+Thành phần chủ yếu của hàng rào máu não bao gồm các tế bào nội mô (endothelial cell) liên kết chặt chẽ với nhau. Đối với nhiệm vụ như thiết kế và phát triển của hàng rào máu-não, hai loại tế bào khác, tế bào ngoại mạch (pericyte) và tế bào hình sao (astroglia), có tầm quan trọng rất lớn. Sự tương tác giữa ba loại tế bào này rất chặt chẽ hơn cả bất cứ các loại tế bào khác với nhau. Cùng với nhau, chúng tạo thành hàng rào máu-não của hầu hết các động vật có xương sống. Với đặc tính đó, chúng hạn chế chặt chẽ sự di chuyển các chất từ máu vào não, trong khi các tế bào nội mô mao mạch ở các bộ phận khác của cơ thể lại không có được đặc tính này. Một cấu trúc của tế bào hình sao (astrocyte cell) nhô ra, được gọi là chân tế bào hình sao (astrocytic feet) bao bọc xung quanh các tế bào nội mô của hàng rào máu não, tạo nên các đặc tính sinh hóa của chúng.
+
+
+== Phát hiện ==
+Đầu tiên, vào cuối thế kỷ 19 nhà khoa học Paul Ehrlich trong khi tiến hành thí nghiệm đã có sự chú ý đến hàng rào máu não. Paul Ehrlich là một nhà vi trùng học, chuyên nghiên cứu các cấu trúc có thể thấy được bằng phương pháp nhuộm màu. Khi ông tiêm các chất màu vào cơ thể, các chất màu có thể nhuộm tất cả các bộ phận của cơ thể ngoại trừ não bộ. Vào thời điểm đó, Ehrlich đơn giản cho rằng não không nhận các chất nhuộm màu. Sau đó, trong một buổi thí nghiệm vào cuối năm 1913, Edwin Goldmann chích trực tiếp chất nhuộm màu vào dịch não tủy. Ông ta phát hiện rằng, trong trường hợp này não trở nên nhuộm màu, trong khi các bộ phận còn lại của cơ thể thì không bắt màu. Điều này chứng tỏ có sự tồn tại một hàng rào giữa não và các bộ phận còn lại của cơ thể. Vào thời điểm đó người ta cho rằng, chính hệ thống mạch máu đóng vai trò là hàng rào và hiển nhiên hàng rào máu não vẫn chưa được phát hiện.
+Khái niệm về hàng rào máu não được đề nghị bởi Lina Stern vào năm 1921. Nhưng mãi cho đến năm 1960, khi phát hiện ra kính hiển vi điện tử, hàng rào máu não mới được mô tả một cách đầy đủ.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Interlandi, Jeneen (2013). “"Messing With" the Blood-Brain Barrier May Be Key to Treating a Host of Diseases”. Scientific American. 2013 (June). Truy cập ngày 6 tháng 6 năm 2013.(cần đăng ký mua)
+Shityakov, S., Salvador, E., Förster, C. In silico, in vitro, and in vivo methods to analyse drug permeation across the blood–brain barrier: A critical review. OA Anaesthetics 2013, 1(2):13. [1] Lưu trữ 2016-04-24 tại Wayback Machine
+Derricott, Caitlin (2015). “Using water–solvent systems to estimate in vivo blood–tissue partition coefficients”. Chemistry Central. 9 (58). Truy cập ngày 16 tháng 10 năm 2015.

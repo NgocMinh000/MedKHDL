@@ -1,0 +1,107 @@
+Kanamycin là một kháng sinh nhóm aminoglycoside, thu được từ môi trường nuôi cấy Streptomyces kanamyceticus.
+
+
+== Aminoglycoside ==
+Kháng sinh đầu tiên của nhóm aminoglycosid là streptomycin được tách chiết nǎm 1944 và ngay sau đó người ta đã thấy hiệu quả của thuốc trong điều trị bệnh lao. Nǎm 1949, người ta tách được neomycin, tiếp theo là kanamycin nǎm 1957. Nǎm 1959, một aminoglycosid khác ít được biết tới là paronomycin được triển khai. Ngày nay, bốn aminoglycosid này ít được dùng do tính khả dụng của gentamycin (1963), tobramycin (1975) và amikacin (1976). Gentamicin được sử dụng rộng rãi nhất vì thuốc đã có ở dạng thuốc gốc và do đó rẻ hơn nhiều so với tobramycin hoặc amikacin. Việc sử dụng streptomycin và neomycin giảm còn do nguy cơ gây độc nặng cho tai, mặc dù các chất mới hơn cũng biểu hiện khả nǎng gây độc này. Neomycin chỉ được dùng đường uống trong điều trị bệnh não gan vì độc tính quá cao khi dùng ngoài đường tiêu hóa hoặc rửa tại chỗ. Paronomycin hiện nay chủ yếu được dùng như một thuốc chống ký sinh trùng đường ruột trong điều trị bệnh lỵ amip, giardia, cestodia, leishmania da cũng như cryptosporidio ở bệnh nhân AIDS.
+Đây là những thuốc kháng sinh có hoạt phổ rộng được sử dụng rộng rãi để điều trị trực khuẩn đường ruột Gram (-) và vi khuẩn Gram (+).
+Đều lấy từ nấm, cấu trúc hóa học đều mang đường (ose) và có chức amin nên có tên aminosid. Một số là bán tổng hợp.
+Theo nguồn gốc vi sinh có thể chia ra:
+
+Thuốc chiết xuất từ nấm Streptomyces: Streptomicin, Dihydrostreptomycin, Kanamycin, Neomycin, Paromomycin,...
+Thuốc chiết xuất từ Microspora: Gentamicin, Sisimicin,...
+Có 4 đặc tính chung:
+
+Hầu như không hấp thu qua đường tiêu hóa.
+Cùng một cơ chế tác dụng.
+Phổ kháng khuẩn rộng. Dùng chủ yếu để chống khuẩn hiếu khí gram (-).
+Độc tính chọn lọc với dây thần kinh VIII và với thận (tăng creatinin máu, protein - niệu. Thường phục hồi).
+Các aminoglycosid biểu hiện "khả nǎng diệt phụ thuộc nồng độ" và "hiệu ứng sau kháng sinh" (PAE). "Khả nǎng diệt phụ thuộc nồng độ" mô tả nguyên lý hiệu quả diệt khuẩn tǎng khi nồng độ tǎng. "PAE" biểu hiện khả nǎng ức chế sự phát triển vi khuẩn kéo dài nhiều giờ sau khi không còn phát hiện được nồng độ aminoglycosid. Cả hai hiện tượng này có thể được lợi dụng trong những phác đồ dùng liều cao cách quãng dài.
+Trong những nǎm 1970 và 1980, hàng chục kháng sinh cephalosporin đã ra đời, và nhiều người tin rằng việc sử dụng aminoglycosid sẽ trở nên lỗi thời. Tuy nhiên, việc một số vi khuẩn gram âm trở nên kháng với cephalosporin đang một lần nữa khẳng định sự hữu ích của các aminoglycosid và làm sống lại mối quan tâm tới nhóm thuốc này. Việc sử dụng ở liều cao hơn cách quãng dài hơn có thể đồng thời làm tǎng hiệu quả và giảm độc tính.
+
+
+== Dược lý học và dược động học ==
+Về mặt dược lý học, kanamycin tương tự như các aminoglycosid khác. Nói chung các aminoglycoside có phổ kháng khuẩn với vi khuẩn hiếu khí Gram âm và một số Gram dương như Acinetobacter, Citrobacter, Enterobacter, Escherichia coli, Klebsiella, Proteus có sinh và không sinh indol, Providencia, Pseudomonas, Salmonella, Serratia và Shigella. Tuy nhiên phổ kháng khuẩn của từng loại có khác nhau. Việc sử dụng aminoglycosid tràn lan làm cho các chủng vi sinh vật nói trên kháng kháng sinh phát triển rất nhanh. Nói chung, tình hình kháng đối với kanamycin lớn hơn so với gentamicin hoặc streptomycin.
+Giống như gentamicin, kanamycin hấp thụ kém qua đường tiêu hóa, nhưng hấp thụ nhanh qua đường tiêm bắp. Sau khi tiêm bắp 1 giờ, liều 500 mg và 1 g, nồng độ tối đa đạt được trong huyết thanh tương ứng 20 và 30 microgam/ml. Nửa đời của kanamycin là 3 giờ. Kanamycin thải trừ nhanh qua lọc cầu thận và phần lớn liều tiêm thải qua nước tiểu trong vòng 24 giờ. Kanamycin xuất hiện trong máu dây rốn và trong sữa.
+
+
+== Cơ chế tác động ==
+Kháng sinh tác động lên tế bào vi khuẩn theo các cơ chế:
+
+Ức chế sự thành lập vách tế bào.
+Ức chế nhiệm vụ của màng tế bào.
+Ức chế sự tổng hợp protein.
+Ức chế sự tổng hợp acid nucleic.
+Nhóm Aminoglycoside ức chế sự tổng hợp protein của vi khuẩn: bằng cách gắn vào protein tiếp nhận trên đơn vị 30S của ribosome làm đọc sai thông tin của ARN, làm hình thành các protein không có hoạt tính, ngoài ra còn làm tách các protein ở trạng thái polymer thành monomer.
+Gồm 4 giai đoạn:
+
+Giai đoạn 1 thuốc gắn vào Protein là thụ thể chuyên biệt ở trên tiểu đơn vị 30S của ribosome vi khuẩn.
+Giai đoạn 2 thuốc phong bế hoạt tính của phức hợp đầu tiên "initiation complex" của quá trình thành lập chuỗi Peptide (ARNm + formylmethiomine + ARNt).
+Giai đoạn 3 thông tin ARNm bị đọc sai ở vùng nhận diện (recognition region) của ribosome, kết quả là một amino acid không phù hợp được đưa vào chuỗi peptide, tạo một Protein không có chức năng.
+Giai đoạn 4 sự gắn của thuốc làm vỡ các polysome thành các monosome không có khả năng tổng hợp Protein, các tác động này xảy ra ít nhiều có tính đồng thời và kết quả là tế bào vi khuẩn bị giết.
+Trong số các vi khuẩn Gram dương, kanamycin cũng như aminoglycoside thường có tác dụng đối với tụ cầu vàng và tụ cầu S. epidermitis, nhưng theo báo cáo 1997 của ASTS khoảng 38% đã kháng thuốc.
+Tuy nhiên, aminoglycosid không có tác dụng đối với liên cầu khuẩn, và đa số chủng vi khuẩn đường ruột Enterococcus kháng thuốc. Đối với các chủng Mycobacterium, kanamycin có hoạt tính in - vitro với các chủng M. kansaii, M. marinum và M. intracellulosa. Tuy nhiên, tác dụng lâm sàng của kanamycin với các chủng này so với các aminoglycosid khác chưa được chứng minh đầy đủ.
+Thường có sự kháng thuốc chéo giữa kanamycin, neomycin và paromycin, nhưng không thấy kháng chéo giữa kanamycin và streptomycin với các chủng Mycobacterium như với các chủng vi khuẩn khác.
+Đối với M. tuberculosis, nếu kanamycin dùng đơn độc thì chủng này sẽ kháng rất nhanh.
+
+
+== Chỉ định ==
+Kanamycin được dùng trong thời gian ngắn để điều trị nhiễm khuẩn nặng do các chủng vi khuẩn nhạy cảm (như E. coli, Proteus, Enterobacter aerogenes, Klebsiella pneumoniae, Serratia marcescens vàMima- Herella) đã kháng lại các aminoglycosid khác ít gây độc cơ quan thính giác hơn.
+Điều trị lậu và nhiễm khuẩn lậu mắt ở trẻ sơ sinh.
+Cũng như gentamycin, trong những trường hợp nhiễm khuẩn nặng, khi cần thiết, kanamycin có thể dùng với penicilin hoặc cephalosporin, nhưng tránh dùng khi có độc tính trên tai và trên thận.
+Kanamycin cũng được dùng như thuốc hàng thứ hai trong điều trị lao, nhưng nay thường dùng các thuốc khác an toàn hơn.
+
+
+== Độ ổn định và bảo quản ==
+Bảo quản trong lọ kín tránh ánh sáng, nhiệt độ từ 15 - 300C.
+Dung dịch kanamycin truyền tĩnh mạch tương kỵ với các thuốc sau: Amphotericin, barbiturat, cephalotin natri, clopromazin, các chất điện giải (Ca2+, Mg2+, citrat hoặc phosphat), heparin, hydrocortison, natri methicilin, methohexiton, nitrofurantoin, phenytoin, proclorperazin, sulfafurazol.
+
+
+== Tương tác thuốc ==
+Bản thân kanamycin dễ gây độc cho tai và cho thận. Độc tính với tai và thận tăng lên nếu phối hợp với: 
+
+Kháng sinh khác thuộc nhóm aminosid. Thậm chí nếu người bệnh đã dùng streptomycin hoặc viomycin, nay dùng kanamycin độc tính cũng tăng. Các thuốc khác cũng dễ gây độc cho tai và thận như vancomycin, capreomycin. Với các thuốc lợi niệu mạnh như acid ethacrylic, furosemid. 	Các thuốc cũng dễ gây độc tính cho thận như ciclosporin, amphotericin B, cisplatin nếu phối hợp với kanamycin sẽ làm tăng độc tính cho thận.
+Độc tính gây khó thở và ức chế hô hấp của kanamycin (đặc biệt là khi tiêm trong màng bụng) tăng lên khi phối hợp với thuốc giãn cơ, thuốc mê.
+Calci gluconat làm giảm tác dụng giống cura của kanamycin, còn neostigmin lại có tác dụng đối kháng cura mạnh hơn (neostigmin là chất giải độc các chất giãn cơ kiểu cura). Calci ức chế khả năng chống vi khuẩn của kanamycin trên một số loài vi khuẩn. Vì vậy không dùng kanamycin tiêm phúc mạc cùng với dung dịch calci.
+Nếu đang dùng thuốc chống đông đường uống thì phải thay đổi liều khi phối hợp với kanamycin, vì kanamycin làm giảm việc sản sinh ra vitamin K nội sinh.
+
+
+== Cơ chế tác dụng của kháng sinh ==
+
+
+=== Ức chế sự thành lập vách tế bào ===
+Bao gồm các kháng sinh như: Bacitracin, Cephalosporin, Cycloserine, Penicillin, Rostocetin, Vancomycin.
+Khác với tế bào động vật, vi khuẩn có một lớp vỏ cứng bên ngoài gọi là vách tế bào có nhiệm vụ giữ hình dạng tế bào được nguyên vẹn trước áp lực thẩm thấu cao ở bên trong tế bào, vách chiếm 20% trọng lượng khô của tế bào vi khuẩn Gram dương lớn hơn Gram âm từ 3 đến 5 lần. Khi sự tổng hợp vách tế bào bị ức chế do tác dụng của thuốc kháng sinh, các vi khuẩn Gram dương biến thành dạng hình cầu không có vách (Protoplast) và các vi khuẩn Gram âm có vách không hoàn chỉnh (spheroplast). Những hình thức này làm cho tế bào dễ vỡ ở môi trường có trường lực bình thường.
+
+Giai đoạn đầu tiên của thuốc là gắn vào các thụ thể PBPs (penicilin – binding protein) của tế bào. Có khoảng 3 – 6 thụ thể PBP (lượng phân tử 40000 – 120000) trong đó có một số thụ thể là những men tranpeptidase. Những thụ thể khác nhau có những áp lực khác nhau đối với một loại thuốc.
+Sau khi gắn vào một hay nhiều thụ thể thuốc sẽ phong bế men tranpeptidase, làm ngăn chặn việc tổng hợp peptidoglycan, một thành phần quan trọng của các tế bào. Cơ chế của việc phong bế men tranpeptidase tương tự với acyl – alanyl – D – alanyl, một phân tử mà men vẫn thường tác động của men bị phân bế.
+Giai đoạn tiếp theo có liên quan đến việc hoạt hóa men tự tiêu (autolytic enzyme) gây ra sự ly giải của tế bào ở môi trường đẳng trương (isotonic). Trong môi trường ưu trương, những tế bào bị biến đổi thành protoplast hay sphherolast chỉ được bao bọc bởi một màng tế bào nên dễ vỡ.
+
+
+=== Ức chế nhiệm vụ của màng tế bào ===
+Gồm các thuốc như: Amphotericin B, Colistin, Imidazole, Nystatin, Polymycins.
+Tế bào chất của tất cả các tế bào sống đều được bao bọc bởi một màng tế bào chất. Màng này được xem như một hàng rào có khả năng thẩm thấu chọn lọc, thực hiện chức năng vận chuyển chủ động và như vậy kiểm soát các thành phần bên trong tế bào. Nếu sự toàn vẹn chức năng của màng tế bào chất bị phá vỡ thì những đại phân tử và ions sẽ thoát khỏi tế bào làm tế bào chất. Màng tế bào chất của vi khuẩn và vi nấm có cấu trúc khác với tế bào của động vật và dễ dàng bị phá vỡ bởi một số tác nhân.
+
+
+=== Ức chế sự tổng hợp acid nucleic ===
+Bao gồm các kháng sinh như: Actinomycin, Mitomycin, Nalidixic acid, Novobiocin, Pyrimethamine, Rifampin, Sulfonamides, Trimethoprim.
+Phần lớn những thuốc này ức chế hiệu quả sự tổng hợp DNA của vi khuẩn, một số còn ngăn chặn việc tổng hợp RNA của vi khuẩn.
+
+Actinomycin: ức chế hiệu quả sự tổng hợp DNA. Thuốc gắn vào DNA tạo nên một phức hợp, các phức hợp này ức chế các RNA tương ứng đặc biệt là mRNA. Actynomycin cũng ức chế việc sao chép DNA của virus Mitomycin gắn vào 2 chuỗi DNA ngăn cản chuỗi tách rời và như vậy DNA không được chép. Cả Actinomycin và Mitomycin đều ức chế vách tế bào vi khuẩn lẫn tế bào động vật nên ít được dùng trong điều trị.
+Rifampin: Rifamin ức chế sự tăng trưởng của vi khuẩn bằng cách gắn chặt vào các polymerase tổng hợp các ARN nên ngăn chặn sự tổng hợp RNA của vi khuẩn.
+Các quinolon: các quinolon và cacboxy flouroquinolon kết hợp vào DNA gyrase ức chế tổng hợp DNA.
+Các sulfonamide và trimethoprim: đối với nhiều vi sinh vật, acid para-aminobenzoic (viết tắt là PABA) là một chất chuyển hoá cần thiết trong quá trình tổng hợp acid folic cần thiết để tổng hợp purin và DNA. Sulfonamide do có cấu trúc tương tự PABA, hậu quả là một chất tương tự acid folic nhưng không có hoạt tính được tạo thành và ngăn cản sự phát triển của vi khuẩn.
+Trimethoprin ức chế enzym hydro folic reductase enzym này biến đổi acid hydro folic thành acid tetrahydrofolic, một giai đoạn trong chuỗi phản ứng tổng hợp purin và DNA.
+Sự phối hợp một trong các sulfonamide và trimethoprin, hai chất tác động ở hai khâu khác nhau của một quá trình tổng hợp làm tăng rõ hoạt tính của thuốc. Cotrimoxazol (sulfamehtoxazol và trimethoprim) là chế phẩm phối hợp hiệu quả trong điều trị các bệnh nhiễm trùng.
+
+
+=== Ức chế sự tổng hợp Protein ===
+Là những kháng sinh như: Chloramphenical, Erythromycins, Lincomycins, Tetracylines, Aminoglycoside,...
+
+Cloramphenicol có tác dụng ức chế tạo cầu peptide.
+Erythromycin giúp ngăn cản chuyển động chuyển đoạn của ribosome theo mRNA
+Tetracyclin làm ngăn cản sự gắn kết của ARNt vào phức hợp ribosome ARNm
+Streptomycin làm thay đổi hình dạng 30S mã hóa trên ARNm nên đọc nhầm.
+Vi khuẩn có những ribosome 70S, còn tế bào hữu nhủ lại có ribosome 80S. Những tiểu đơn vị của mỗi loại ribosome khác nhau về chức năng và thành phần hóa học nên kháng sinh có thể ức chế sự tổng hợp Protein ở ribosome của vi khuẩn mà không có ảnh hưởng lớn lên ribosome của tế bào hữu nhủ.
+
+
+== Tham khảo ==

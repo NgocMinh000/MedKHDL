@@ -1,0 +1,51 @@
+Điều khiển thông minh là một lớp các kỹ thuật điều khiển sử dụng các phương pháp tính toán trí tuệ nhân tạo khác nhau như mạng nơ-ron nhân tạo (neural networks), xác suất Bayes, logic mờ, học máy, thuật toán tiến hóa và các giải thuật di truyền.
+
+
+== Tổng quan ==
+Điều khiển thông minh có thể được chia thành các lĩnh vực nhỏ sau đây:
+
+Điều khiển mạng nơ-ron nhân tạo
+Điều khiển Bayesian
+Điều khiển Mờ 
+Điều khiển Neuro-fuzzy
+Hệ chuyên gia
+Giải thuật di truyền
+Tác nhân thông minh (Nhận thức/ Điều khiển ý thức)
+Các Kỹ thuật điều khiển mới được tạo ra liên tục khi các mô hình hành vi thông minh mới được tạo ra và phương pháp tính toán được phát triển để hỗ trợ chúng.
+
+
+=== Bộ điều khiển mạng Neural ===
+Mạng nơ-ron nhân tạo đã được sử dụng để giải nhiều bài toán trong hầu hết mọi lĩnh vực của khoa học và công nghệ. Điều khiển mạng nơ-ron nhân tạo cơ bản bao gồm hai bước:
+
+Nhận dạng hệ thống
+Điều khiển
+Người ta đã chứng minh rằng một mạng tiến với các hàm kích hoạt phi tuyến, liên tục và khả vi có khả năng xấp xỉ phổ quát. Các mạng hồi quy cũng đã được sử dụng để nhận dạng hệ thống. Nhất định, một tập các cặp dữ liệu đầu vào-đầu ra, nhận dạng hệ thống nhằm mục đích hình thành một ánh xạ giữa các cặp dữ liệu. Một mạng lưới như vậy được cho là sẽ nắm bắt được động học của một hệ thống.
+
+
+=== Bộ điều khiển Bayesian ===
+Xác suất Bayes đã tạo ra một số thuật toán được sử dụng phổ biến trong nhiều hệ thống điều khiển tiên tiến, dùng như các bộ ước lượng không gian trạng thái của một số biến được sử dụng trong bộ điều khiển.
+Bộ lọc Kalman và bộ lọc Particle là hai ví dụ phổ biến về các thành phần điều khiển Bayesian. Phương pháp Bayesian dùng để thiết kế bộ điều khiển thường đòi hỏi một nỗ lực quan trọng trong việc suy luận ra cái gọi là mô hình hệ thống và mô hình đo lường, đó là những mối quan hệ toán học liên kết với các biến trạng thái với các phép đo từ cảm biến nằm trong hệ thống điều khiển. Ở khía cạnh này, nó được liên kết rất chặt chẽ với các phương pháp tiếp cận hệ thống lý thuyết với thiết kế điều khiển.
+
+
+== Xem thêm ==
+Lựa chọn hành động
+Hiệu ứng trí tuệ nhân tạo
+Các ứng dụng của trí thông minh nhân tạo
+Xấp xỉ hàm số
+
+Danh sách các công nghệ mới nổi
+Phác thảo của trí tuệ nhân tạo
+
+
+== Tham khảo ==
+
+Stengel, R.F. (1991). “Intelligent Failure Tolerant Control” (PDF). IEEE Control Systems Magazine. 11 (4): 14–23. doi:10.1109/37.88586.
+Stengel, R.F. (1993). “Toward Intelligent Flight Control” (PDF). IEEE Trans. Systems, Man, and Cybernetics. 23 (6): 1699–1717. doi:10.1109/21.257764.
+Antsaklis, P.J. (1993).  Passino, K.M. (biên tập). An Introduction to Intelligent and Autonomous Control. Kluwer Academic Publishers. ISBN 0-7923-9267-1. Lưu trữ bản gốc ngày 10 tháng 4 năm 2009. Truy cập ngày 29 tháng 10 năm 2015.
+Liu, J.; Wang, W.; Golnaraghi, F.; Kubica, E. (2010). “A Novel Fuzzy Framework for Nonlinear System Control”. Fuzzy Sets and Systems. 161 (21): 2746–2759. doi:10.1016/j.fss.2010.04.009.
+
+
+== Đọc thêm ==
+Jeffrey T. Spooner, Manfredi Maggiore, Raul Ord onez, and Kevin M. Passino, Stable Adaptive Control and Estimation for Nonlinear Systems: Neural and Fuzzy Approximator Techniques, John Wiley & Sons, NY;
+Farrell, J.A., Polycarpou, M.M. (2006). Adaptive Approximation Based Control: Unifying Neural, Fuzzy and Traditional Adaptive Approximation Approaches. Wiley. ISBN 978-0-471-72788-0.Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+Schramm, G. (1998). Intelligent Flight Control - A Fuzzy Logic Approach. TU Delft Press. ISBN 90-901192-4-8.

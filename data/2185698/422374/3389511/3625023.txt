@@ -1,0 +1,38 @@
+Bệnh Circo virus, thường gọi Hội chứng còi cọc sau cai sữa heo con (Postweaning multisystemic wasting syndrome - PMWS) là một bệnh truyền nhiễm do virus gây ra trên lợn. Đây là bệnh gây thiệt hại kinh tế nghiêm trọng cho ngành chăn nuôi lợn, được cả thế giới quan tâm.
+
+
+== Lịch sử căn bệnh ==
+Bệnh được phát hiện lần đầu tiên tại Đức năm 1974; đến năm 1990 lan rộng tới châu Âu, Mỹ; Bệnh được phát hiện tại Thái Lan vào năm 1993 bằng phương pháp PCR, kết quả khảo sát sơ bộ tỷ lệ nhiễm circo virus trên lợn ở quốc gia này khoảng 10%.
+Năm 1998, một nhà khoa học Canada đã xác định được dịch tễ học và triệu chứng lâm sàng của lợn khi nhiễm các loại virus gây bệnh với một số biểu hiện còi cọc, vàng da và khó thở.
+Năm 2000, Nhật Bản đã chỉ ra sự suy giảm tế bào bạch huyết theo cơ chế apoptosis của tế bào lympho B là do PCV2 và kết luận rằng: PCV2 kích thích sự phát triển của hội chứng gầy mòn trên lợn bằng cơ chế gây suy giảm hệ thống miễn dịch.
+Năm 2002, Hy Lạp đã phát hiện PCV2 trong tử cung một con heo rừng hoang dã. Đến năm 2005, một con heo rừng 6 - 8 tuổi có triệu chứng gầy còm, khó thở và chết, khi xét nghiệm bệnh phẩm đã phát hiện virus PCV2.
+Năm 2006, Mỹ đã chế tạo và thử nghiệm thành công vaccine phòng bệnh.
+
+
+== Tác nhân gây bệnh ==
+Bệnh do Pocine circovirus (PCV), thuộc họ Circoviridae gây ra cho lợn. PCV là virus nhỏ, đường kính 17 Nm, không có vỏ bao bọc dễ xâm nhập vào các động vật có vú. PCV có hai loại là PCV1 và PCV2; PCV1 xuất hiện trên lợn từ lâu, thường nhiễm vào tế bào nuôi cấy thận nhưng lại không gây bệnh; PCV2 mới xuất hiện gần đây và thường nhiễm ghép với nhiều bệnh khác trên lợn, gây thiệt hại kinh tế cho ngành chăn nuôi. Những tiểu phần PCV2 rất bền vững, có thể tồn tại hầu hết và rất lâu trong môi trường chăn nuôi, ở các lứa tuổi của lợn, rất khó tiêu diệt.
+
+
+== Cơ chế gây bệnh ==
+Virus xâm nhập vào cơ thể lợn ngay những ngày đầu sơ sinh, sau đó tấn công vào tế bào lympho, làm giảm số lượng tế bào lymphocyte, giảm sức đề kháng và khả năng đáp ứng miễn dịch, tăng độ mẫn cảm với các loại vi khuẩn, virus khác.
+Khi nhiễm bệnh, lợn có biểu hiện ở các thể như: hội chứng còi cọc và viêm da, viêm thận.
+
+Thể còi cọc: trên 95% lợn bị nhiễm virus có biểu hiện bệnh rõ ràng với các triệu chứng còi cọc, chậm lớn, xù lông. Ngoài ra, lợn thở khó khăn do phổi bị tổn thương, hệ thống hạch sưng to, vàng da, sốt, chết đột ngột. Khi mổ khám, nhiều cơ quan nội tạng bị tổn thương như ruột sưng, dạ dày loét, sưng gan, viêm phổi và nhục hóa...
+Thể viêm da, viêm thận: heo xuất hiện nhiều vết loét với kích thước khác nhau trên vùng da toàn thân, sau một thời gian, vét loét khô lại và hình thành vảy.
+Tổn thương trên thận: thận sưng dẫn đến hai đầu quả thận không cân đối, viêm, nhạt màu, có xuất huyết trên bề mặt; một số trường hợp, bề mặt thận xuất hiện nhiều điểm trắng.
+
+
+== Tác hại ==
+Bệnh có tỷ lệ nhiễm rất cao, gần 100% vì hầu hết lợn đều mang mầm bệnh trên cơ thể. Tùy thuộc vào tình trạng sức khỏe, giống, môi trường, dinh dưỡng.... số lợn mắc bệnh chiếm 3 - 50%.
+Bệnh có tỷ lệ chết không cao, nhưng bệnh làm suy yếu hệ thống miễn dịch để mở đường cho các mầm bệnh khác xâm nhập và tấn công vào cơ thể, tạo cơ hội cho các bệnh kế phát phát triển. Bệnh do PCV2 sẽ không chết ngay mà chúng chỉ bị còi cọc, chậm lớn, nhưng vẫn tiêu tốn một số lượng lớn thức ăn, làm giảm hiệu quả chăn nuôi.
+
+
+== Phòng và kiểm soát bệnh ==
+Bệnh do virus, không có thuốc đặc trị, biện pháp kiểm soát bệnh quan trọng nhất vẫn là phòng bệnh, chăm sóc tốt ngay từ khi mới sinh, cho lợn bú sữa đầu càng sớm càng tốt và càng nhiều càng tốt; đảm bảo tốt chế độ dinh dưỡng, chăm sóc, tập ăn cho lợn con đúng thời điểm.
+Thực hiện tiêm phòng đầy đủ cho lợn, lựa chọn một trong số các vaccine virus PCV2 vô hoạt, vaccine protein capsid của virus PCV2, vaccine virus tái tổ hợp PCV1 và PCV2 vô hoạt.... để tiêm phòng. Ở châu Âu, Bắc Mỹ tiêm vaccine mũi đầu tiên sau 3 tuần tuổi. Ở Việt Nam thường dùng loại vaccine protein capsid của virus PCV2 và tiêm theo liệu trình:  
+
+Liệu trình 1: tiêm 1 ml vaccine cho lợn 14 - 21 ngày tuổi một lần duy nhất.
+Liệu trình 2: tiêm 2 lần, mỗi lần 2 ml khi lợn 14 - 21 ngày tuổi và lần 2 cách lần đầu 3 tuần.
+
+
+== Chú thích ==

@@ -1,0 +1,26 @@
+Nguyên nhân (cause, còn gọi là etiology) là lý do hay nguồn gốc của một điều gì đó.
+
+
+== Mô tả ==
+Trong y học, thuật ngữ này đề cập đến các nguyên nhân của bệnh hay bệnh lý. Trong trường hợp mà không xác định được nguyên nhân thì coi là vô căn. Vào thời truyền thuyết xa xưa, nguyên nhân gây bệnh có thể chỉ điểm vào " mắt quỷ". Trở về quá khứ vào thế kỷ 1 trước Công nguyên, một học giả La Mã cổ đại có tên Marcus Terentius Varro đã trình bày những ý tưởng sơ khai về vi sinh vật học trong cuốn sách có tựa đề On Agriculture.
+Những tư duy về nguyên nhân bệnh tật từ thời Trung cổ mang nhiều ảnh hưởng của Galen và Hippocrates. Các thầy thuốc châu Âu thời trung cổ đa số giữ quan điểm rằng bệnh tật có liên quan đến không khí và chấp nhận một phương pháp tiếp cận sai lầm đối với nguyên nhân gây bệnh.
+Trong lịch sử y học, đã có nhiều minh chứng về việc khám phá ra căn nguyên bệnh tật, như Robert Koch đã phát hiện trực khuẩn lao (Mycobacterium tuberculosis) gây bệnh lao, Bacillus anthracis gây bệnh than và Vibrio cholerae gây bệnh tả. Những lý luận và bằng chứng này được tổng kết lại trong các định đề của Koch. Nhưng những bằng chứng về quan hệ nhân quả trong các bệnh truyền nhiễm chỉ giới hạn với các trường hợp nguyên nhân đơn lẻ mà có bằng chứng thực nghiệm.
+Trong dịch tễ học, đòi hỏi cần phải có nhiều bằng chứng để suy luận ra mối quan hệ nhân quả. Sir Austin Bradford-Hill đã chứng minh mối quan hệ nhân quả giữa hút thuốc lá và ung thư phổi, và tóm tắt những lý luận thành tiêu chuẩn dịch tễ học về quan hệ nhân quả. Tiến sĩ Al Evans, một nhà dịch tễ học Hoa Kỳ, kế thừa những ý tưởng của người tiền nhiệm đã tổng hợp thành Khái niệm Thống nhất về Nguyên nhân.
+
+
+== Chuỗi mắt xích quan hệ nhân quả và mối tương quan ==
+Cần có cái nhìn sâu sắc hơn về dịch tễ học để phân biệt mối quan hệ nhân quả với tương quan thống kê. Các sự kiện có thể xảy ra cùng lúc đơn giản là do ngẫu nhiên, thiên kiến hoặc bị nhiễu, thay vì sự kiện này gây ra bởi sự kiện khác. Điều quan trọng, cũng để biết sự kiện nào là nguyên nhân. Việc cẩn thận lấy mẫu và đo lường quan trọng hơn phân tích thống kê tinh vi để xác định quan hệ nhân quả. Bằng chứng thực nghiệm (cung cấp hoặc loại bỏ nguyên nhân được giả định) giúp đưa ra chứng cớ thuyết phục nhất về nguyên nhân.
+Liên hệ đến điều này, đôi khi một vài triệu chứng luôn đi cùng nhau, hoặc nhiều hơn những gì có thể mong đợi, dù biết rằng triệu chứng này không thể sinh ra triệu chứng kia. Những trường hợp như vậy được gọi là hội chứng, và thường giả định rằng phải tồn tại một tình trạng để giải thích cho tất cả các triệu chứng.
+Trường hợp khác, không một nguyên nhân đơn lẻ nào đủ để gây ra bệnh, mà là một chuỗi quan hệ nhân quả từ tác nhân đầu tiên cho đến khi phát triển thành ca bệnh lâm sàng. Một tác nhân gây bệnh có thể cần một yếu tố/thành phần độc lập và được kích hoạt mới làm xuất hiện bệnh. Một ví dụ để minh chứng cho những điều trên, dù được công nhận muộn, bệnh viêm loét dạ dày có thể do căng thẳng, nhưng để xuất hiện bệnh đòi hỏi sự hiện diện bài tiết axit trong dạ dày và với nguyên nhân chính là do nhiễm Helicobacter pylori. Nhiều bệnh mãn tính không rõ nguyên nhân cũng có thể được giải thích như trên. Các yếu tố nguy cơ có thể có hoặc không liên quan đến nguyên nhân và điều quan trọng cần phải tìm ra nguyên nhân thật sự của bệnh.
+
+
+== Không đồng nhất yếu tố gây bệnh ==
+Một số bệnh như tiểu đường hoặc bệnh viêm gan, là tập hợp của các hội chứng được xác định bởi các dấu hiệu và triệu chứng, nhưng lại bao gồm những tình trạng khác nhau với những nguyên nhân khác nhau. Đây được gọi là tình trạng không đồng nhất về yếu tố gây bệnh hay đơn giản là một bệnh mà có nhiều nguyên nhân.
+Ngược lại, một nguyên nhân duy nhất có thể gây ra nhiều bệnh, như virus Epstein-Barr, trong những hoàn cảnh khác nhau có thể gây ra các bệnh khác nhau như tăng bạch cầu đơn nhân, ung thư biểu mô vòm họng, hoặc bệnh lymphoma Burkitt.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ Định nghĩa của etiology tại Wiktionary

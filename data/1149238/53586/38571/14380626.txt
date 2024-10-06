@@ -1,0 +1,145 @@
+Các định lý bất toàn của Gödel, hay gọi chính xác là Các định lý về tính bất hoàn chỉnh của Gödel (tiếng Anh: Gödel's incompleteness theorems, tiếng Đức: Gödelscher Unvollständigkeitssatz), là hai định lý nổi tiếng về logic toán học mô tả về giới hạn vốn có của mọi hệ tiên đề hình thức có khả năng mô hình hóa số học cơ bản. Những định lý được Kurt Gödel xuất bản vào năm 1931, rất quan trọng trong logic toán học và triết học của toán học. Những định lý này được diễn giải rộng rãi nhưng không phải phổ quát, rằng mục tiêu chương trình Hilbert nhằm tìm một hệ tiên đề hoàn chỉnh và nhất quán cho toàn bộ toán học là điều không tưởng.
+Định lý bất toàn đầu tiên đã xác định rằng không có hệ thống nhất quán các tiên đề nào mà các định lý của nó có thể được liệt kê bằng một thủ tục hiệu quả (nói cách khác là một thuật toán) lại có thể chứng minh tất cả các sự thật về việc tính toán của các số tự nhiên. Đối với bất kỳ hệ hình thức nhất quán nào, sẽ luôn có các mệnh đề về các số tự nhiên là đúng, nhưng không thể chứng minh được bằng hệ thống này. Định lý bất toàn thứ hai là mở rộng của định lý bất toàn thứ nhất, chứng minh rằng hệ thống đó không thể chứng tỏ được chính tính nhất quán của mình.
+Sử dụng tranh luận đường chéo của Cantor, các định lý bất toàn của Gödel là hai trong số những định lý đầu tiên có mối liên hệ gần gũi với sự giới hạn của các hệ thống chính thức. Các định lý này được nối tiếp bởi định lý bất khả định của Tarski về sự bất khả định hình thức của sự thật, định lí của Alonzo Church rằng Entscheidungsproblem của David Hilbert là không thể giải quyết được và định lý của Alan Turing rằng không có thuật toán nào để giải quyết các Bài toán dừng.
+
+
+== Hệ hình thức: sự hoàn chỉnh, sự nhất quán và sự tiên đề hóa hiệu quả ==
+Các định lý bất toàn được ứng dụng cho các hệ hình thức có đủ độ phức tạp để biểu diễn phép toán cơ bản trên số tự nhiên và đồng thời có tính nhất quán và được tiên đề hóa một cách hiệu quả. Cụ thể là trong khuôn khổ của logic bậc nhất, các hệ hình thức cũng được gọi là các lý thuyết hình thức. Nhìn chung, một hệ hình thức là một công cụ để suy diễn, bao gồm một tập hợp các tiên đề cụ thể với quy tắc sử dụng các ký hiệu (hoặc quy tắc suy luận), cho phép rút ra một định lý mới từ các tiên đề. Một ví dụ là số học Peano bậc nhất, một hệ thống mà tất cả các biến được sử dụng để biểu diễn các số tự nhiên. Trong các hệ thống khác, như lý thuyết tập hợp, chỉ một vài câu của hệ hình thức diễn tả mệnh đề về các số tự nhiên. Các định lý bất toàn nói về khả năng chứng minh hình thức với những hệ thống này, hơn là nói về khả năng chứng minh theo cách hiểu thông thường.
+Có một vài đặc tính mà một hệ hình thức có thể có, bao gồm sự hoàn chỉnh, sự nhất quán và sự tồn tại của sự tiên đề hóa hiệu quả. Các định lý bất toàn chỉ ra rằng một hệ thống bao gồm một số lượng số học vừa đủ không thể thỏa mãn đồng thời ba đặc tính này.
+
+
+=== Sự tiên đề hóa hiệu quả ===
+Một hệ hình thức được cho là được tiên đề hóa một cách hiệu quả (hay còn gọi là được sinh ra một cách hiệu quả) nếu như tập hợp các định lí của nó là đếm được đệ quy.
+Điều đó có nghĩa là có một chương trình tính toán mà về nguyên lý có thể liệt kê danh sách tất cả các định lý của hệ thống mà không bao gồm bất kỳ mệnh đề nào không phải là định lý. Ví dụ về lý thuyết được đề ra một cách có hiệu quả là số học Peano và lý thuyết tập hợp Zermelo–Fraenkel (ZFC).
+Lý thuyết được biết đến là số học chính xác bao gồm tất cả các mệnh đề đúng về số nguyên tiêu chuẩn trong ngôn ngữ của số học Peano. Lý thuyết này nhất quán, hoàn chỉnh, và bao gồm một số lượng vừa đủ các tiên đề. Tuy nhiên nó không có hệ tiên đề đếm được đệ quy vì thế không thỏa mãn giả thuyết của định lý bất toàn.
+
+
+=== Sự hoàn chỉnh ===
+Một tập hợp các tiên đề là hoàn chỉnh nếu như, đối với bất kỳ trường hợp nào trong ngôn ngữ của tiên đề, mệnh đề đó hoặc phủ định của nó là chứng minh được bằng các tiên đề đó. Đây là định nghĩa liên quan tới định lý bất toàn thứ nhất của Gödel. Không nên nhầm lẫn với sự hoàn chỉnh về mặt ngữ nghĩa với ý nghĩa là hệ tiên đề chứng minh được tất cả các hằng đúng của ngôn ngữ được nêu. Trong định lý hoàn chỉnh, Gödel đã chứng minh rằng logic bậc nhất là hoàn chỉnh về mặt ngữ nghĩa. Nhưng nó không hoàn chỉnh về mặt cú pháp, bởi vì có rất nhiều mệnh đề có thể diễn đạt trong ngôn ngữ của logic bậc nhất lại không thể được chứng minh hay không được chứng minh chỉ từ các tiên đề của logic.
+Trong một hệ thống logic đơn thuần, sẽ thật vô lý nếu kỳ vọng vào sự hoàn chỉnh trong cú pháp. Nhưng trong một hệ thống toán học, những nhà tư tưởng như Hilbert tin rằng đó chỉ là vấn đề thời gian để tìm ra cách tiên đề hóa cho phép chứng minh hoặc bác bỏ (bằng cách chứng minh phủ định của nó) mọi công thức toán học.
+Một hệ hình thức có thể không hoàn chỉnh về mặt cú pháp bởi thiết kế vốn dĩ của nó, chẳng hạn như là logic về mặt tổng quát. Hoặc có thể không hoàn chỉnh đơn giản là vì không phải tất cả các tiên đề cần thiết được khám phá hay thêm vào. Ví dụ, hình học Euclid với tiên đề song song là không hoàn chỉnh, bởi vì có vài mệnh đề trong hình học này không thể chứng minh bằng các tiên đề đang tồn tại. Tương tự như vậy, lý thuyết về thứ tự tuyến tính dày đặc không hoàn chỉnh, nhưng trở nên hoàn chỉnh với một tiên đề bổ sung cho rằng sẽ không có điểm kết thúc trong thứ tự này. Giả thuyết continuum là một mệnh đề trong ngôn ngữ của ZFC, nó không thể được chứng minh với lý thuyết này. Vì vậy, ZFC không hoàn chỉnh. Trong trường hợp này, không có một đề xuất hiển nhiên nào cho một định đề giải quyết được vấn đề.
+Lý thuyết số học Peano bậc nhất dường như là nhất quán. Giả sử đúng như vậy, ta còn biết rằng nó có một tập hợp vô hạn các tiên đề nhưng lại đếm được đệ quy, và có thể mã hóa đủ lượng số học cho giả thuyết của định lý bất toàn. Vì thế, bằng định lý bất toàn thứ nhất, số học Peano là không hoàn chỉnh. Định lý đã cho một ví dụ rõ ràng về một mệnh đề của số học không thể được chứng minh hay không được chứng minh trong số học Peano. Hơn nữa, mệnh đề này là đúng trong mô hình thông thường. Thêm vào đó, không có sự mở rộng nhất quán, được tiên đề hóa một cách hiệu quả nào của số học Peano có thể là hoàn chỉnh.
+
+
+=== Sự nhất quán ===
+Tập hợp các tiên đề là nhất quán nếu như không có mệnh đề nào mà cả nó và phủ định của nó là chứng minh được bằng các tiên đề, và mâu thuẫn nếu ngược lại.
+Sự nhất quán của số học Peano có thể chứng minh được bằng lý thuyết ZFC, nhưng không thể chứng minh được bằng chính nó. Tương tự như vậy với trường hợp của ZFC. Tuy nhiên ZFC kết hợp với "Tồn tại một số đếm không tới được" chứng minh ZFC là nhất quán bởi vì nếu κ là một số đếm nhỏ nhất thỏa mãn điều đó, thì Vκ đặt trong vũ trụ von Neumann là một mô hình của ZFC. Và một lý thuyết nhất quán khi và chỉ khi nó có một mô hình.
+Nếu có một lý thuyết biến tất cả các mệnh đề trong số học Peano thành các tiên đề, thì lý thuyết đó là hoàn thiện, và có một hệ đệ quy các tiên đề và có thể mô tả phép cộng và phép nhân. Tuy nhiên, nó không nhất quán.
+Một số ví dụ khác về lý thuyết không nhất quán tới từ các nghịch lý xuất hiện khi sơ đồ tiên đề bao quát không hạn chế được giả định trong lý thuyết tập hợp.
+
+
+== Về việc áp dụng định lý bất toàn trong các lĩnh vực khác ==
+Một số lập luận phản biện và lập luận tương tự (analogy) đôi khi đưa ra các định lý không hoàn chỉnh để hỗ trợ các giả thuyết có chủ đề vượt ra ngoài phạm vi áp dụng của các định lý là toán học và logic. Ví dụ như chủ đề Nguồn gốc vũ trụ và Tiến hóa, để củng cố cho thần học, một số sự hiểu lầm những định lý này dẫn đến khả năng tồn tại những vấn đề không thể giải thích cặn kẽ bằng logic khoa học - chúng có thể là căn cứ để "chứng minh" một thế lực mà sự tồn tại vượt ngoài phạm vi logic và là cơ sở cho thuyết Tạo hóa (Creationism); hay trong để chống lại chủ nghĩa hiện thực trong triết học.
+Tuy nhiên thực tế đa số lập luận trên là siêu hình, và xuất phát từ việc không hiểu rõ rằng hệ logic áp dụng phải là hệ chính thức (xem định nghĩa ở trên) chứ không phải là toàn bộ mọi hệ logic và mọi lĩnh vực. Lí do có thể là họ quy chụp, nhầm lẫn hoặc thừa nhận một mệnh đề phát biểu không chính xác giả thiết của các định lý; và một số tác giả uy tín đã có bình luận trái chiều về việc mở rộng phạm vi áp dụng và giải thích, lập luận như vậy, bao gồm: Torkel Franzén (2005); Panu Raatikainen (2005);  Jean Bricmont (1999); và Ophelia Benson và Jeremy Stangroom (2006). Một số sách của các tác giả trên cũng hướng dẫn cách hiểu chính xác.
+Bricmont và Stangroom (2006, trang 10), ví dụ, trích dẫn từ những bình luận của Rebecca Goldstein về sự khác biệt rõ ràng giữa chủ nghĩa Platon mà Gödel thừa nhận và những tư tưởng chống chủ nghĩa hiện thực mà đôi khi có trong những ý tưởng của ông đưa ra. Sokal và Bricmont (1999, trang 187) chỉ trích Régis Debray trong việc ông ta đã áp dụng định lý trong bối cảnh xã hội học; tuy vậy sau đó Debray đã phản biện rằng việc sử dụng này của ông ta chỉ là phép ẩn dụ chứ không có ý định áp dụng sai (sđd.).
+
+
+== Xem thêm ==
+Máy Gödel
+Định lý hoàn chỉnh của Gödel
+Định lý tăng tốc của Gödel
+
+
+== Tham khảo ==
+
+
+=== Các tác phẩm của Gödel ===
+Kurt Gödel, 1931, "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I", Monatshefte für Mathematik und Physik, v. 38 n. 1, pp. 173–198.
+—, 1931, "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I", in Solomon Feferman, ed., 1986. Kurt Gödel Collected works, Vol. I.  Oxford University Press, pp. 144–195. ISBN 978-0195147209. The original German with a facing English translation, preceded by an introductory note by Stephen Cole Kleene.
+—, 1951, "Some basic theorems on the foundations of mathematics and their implications", in Solomon Feferman, ed., 1995. Kurt Gödel Collected works, Vol. III, Oxford University Press, pp. 304–323. ISBN 978-0195147223.
+
+
+=== Bản dịch các tác phẩm của Gödel khi ông còn sống ===
+B. Meltzer (translation) and R. B. Braithwaite (Introduction), 1962. On Formally Undecidable Propositions of Principia Mathematica and Related Systems, Dover Publications, New York (Dover edition 1992), ISBN 0-486-66980-7 (pbk.) This contains a useful translation of Gödel's German abbreviations on pp. 33–34. As noted above, typography, translation and commentary is suspect. Unfortunately, this translation was reprinted with all its suspect content by
+Stephen Hawking editor, 2005. God Created the Integers: The Mathematical Breakthroughs That Changed History, Running Press, Philadelphia, ISBN 0-7624-1922-9. Gödel's paper appears starting on p. 1097, with Hawking's commentary starting on p. 1089.
+Martin Davis editor, 1965. The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable problems and Computable Functions, Raven Press, New York, no ISBN. Gödel's paper begins on page 5, preceded by one page of commentary.
+Jean van Heijenoort editor, 1967, 3rd edition 1967. From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931, Harvard University Press, Cambridge Mass., ISBN 0-674-32449-8 (pbk). van Heijenoort did the translation. He states that "Professor Gödel approved the translation, which in many places was accommodated to his wishes." (p. 595). Gödel's paper begins on p. 595; van Heijenoort's commentary begins on p. 592.
+Martin Davis editor, 1965, ibid. "On Undecidable Propositions of Formal Mathematical Systems." A copy with Gödel's corrections of errata and Gödel's added notes begins on page 41, preceded by two pages of Davis's commentary. Until Davis included this in his volume this lecture existed only as mimeographed notes.
+
+
+=== Tác phẩm của các tác giả khác ===
+George Boolos, 1989, "A New Proof of the Gödel Incompleteness Theorem", Notices of the American Mathematical Society, v, 36, pp. 388–390 and p. 676, reprinted in Boolos, 1998, Logic, Logic, and Logic, Harvard Univ. Press. ISBN 0-674-53766-1
+Bernd Buldt, 2014, "The Scope of Gödel's First Incompleteness Theorem Lưu trữ 2016-03-06 tại Wayback Machine", Logica Universalis, v. 8, pp. 499–552. doi:10.1007/s11787-014-0107-3
+Arthur Charlesworth, 1980, "A Proof of Godel's Theorem in Terms of Computer Programs", Mathematics Magazine, v. 54 n. 3, pp. 109–121. JSTOR 2689794
+Martin Davis, 2006, "The Incompleteness Theorem", Notices of the AMS, v. 53 n. 4, pp. 414.
+Jean van Heijenoort, 1963, "Gödel's Theorem" in Edwards, Paul, ed., Encyclopedia of Philosophy, v. 3. Macmillan, pp. 348–57.
+Geoffrey Hellman, 1981, "How to Gödel a Frege-Russell: Gödel's Incompleteness Theorems and Logicism", Noûs, v. 15 n. 4, Special Issue on Philosophy of Mathematics, pp. 451–468.
+David Hilbert, 1900, "Mathematical Problems." English translation of a lecture delivered before the International Congress of Mathematicians at Paris, containing Hilbert's statement of his Second Problem.
+Martin Hirzel, 2000, On formally undecidable propositions of Principia Mathematica and related systems I. Lưu trữ 2004-09-16 tại Wayback Machine. An English translation of Gödel's paper.
+Makoto Kikuchi and Kazayuki Tanaka, 1994, "On formalization of model-theoretic proofs of Gödel's theorems", Notre Dame Journal of Formal Logic, v. 5 n. 3, pp. 403–412. doi:10.1305/ndjfl/1040511346 Bản mẫu:Mr
+Stephen Cole Kleene, 1943, "Recursive predicates and quantifiers", reprinted from Transactions of the American Mathematical Society, v. 53 n. 1, pp. 41–73 in Martin Davis 1965, The Undecidable (loc. cit.) pp. 255–287.
+Panu Raatikainen, 2015, "Gödel's Incompleteness Theorems", Stanford Encyclopedia of Philosophy. Truy cập ngày 3 tháng 4 năm 2015.
+Panu Raatikainen, 2005, "On the philosophical relevance of Gödel's incompleteness theorems", Revue Internationale de Philosophie 59 (4):513-534.
+John Barkley Rosser, 1936, "Extensions of some theorems of Gödel and Church", reprinted from the Journal of Symbolic Logic, v. 1 (1936) pp. 87–91, in Martin Davis 1965, The Undecidable (loc. cit.) pp. 230–235.
+—, 1939, "An Informal Exposition of proofs of Gödel's Theorem and Church's Theorem", Reprinted from the Journal of Symbolic Logic, v. 4 (1939) pp. 53–60, in Martin Davis 1965, The Undecidable (loc. cit.) pp. 223–230
+C. Smoryński, 1982, "The incompleteness theorems", in Jon Barwise, ed., Handbook of Mathematical Logic, North-Holland, pp. 821–866. ISBN 978-0-444-86388-1
+Dan E. Willard, 2001, "Self-Verifying Axiom Systems, the Incompleteness Theorem and Related Reflection Principles", Journal of Symbolic Logic, v. 66 n. 2, pp. 536–596. doi:10.2307/2695030
+Richard Zach, 2003. "The Practice of Finitism: Epsilon Calculus and Consistency Proofs in Hilbert's Program" Synthese, v. 137 n. 1, pp. 211–259. doi:10.1023/A:1026247421383
+—, 2005, "Kurt Gödel, Paper on the incompleteness theorems" in Ivor Grattan-Guinness, ed. Landmark Writings in Western Mathematics, Elsevier, pp. 917–925. doi:10.1016/B978-044450871-3/50152-2
+
+
+=== Những cuốn sách về các định lý ===
+Francesco Berto. There's Something about Gödel:  The Complete Guide to the Incompleteness Theorem John Wiley and Sons. 2010.
+Norbert Domeisen, 1990. Logik der Antinomien. Bern: Peter Lang. 142 S. 1990. ISBN 3-261-04214-1. Zbl 0724.03003.
+Torkel Franzén, 2005. Gödel's Theorem: An Incomplete Guide to its Use and Abuse. A.K. Peters. ISBN 1-56881-238-8 MR2146326
+Douglas Hofstadter, 1979. Gödel, Escher, Bach: An Eternal Golden Braid. Vintage Books. ISBN 0-465-02685-0. 1999 reprint: ISBN 0-465-02656-7. MR530196
+ —, 2007. I Am a Strange Loop. Basic Books. ISBN 978-0-465-03078-1. ISBN 0-465-03078-5. MR2360307
+Stanley Jaki, OSB, 2005. The drama of the quantities. Real View Books.
+Per Lindström, 1997. Aspects of Incompleteness, Lecture Notes in Logic v. 10.
+J.R. Lucas, FBA, 1970. The Freedom of the Will. Clarendon Press, Oxford, 1970.
+Ernest Nagel, James Roy Newman, Douglas Hofstadter, 2002 (1958). Gödel's Proof, revised ed.  ISBN 0-8147-5816-9. MR1871678
+Rudy Rucker, 1995 (1982). Infinity and the Mind: The Science and Philosophy of the Infinite. Princeton Univ. Press. MR658492
+Peter Smith, 2007. An Introduction to Gödel's Theorems. Lưu trữ 2005-10-23 tại Wayback Machine Cambridge University Press.  MR2384958
+N. Shankar, 1994.  Metamathematics, Machines and Gödel's Proof, Volume 38 of Cambridge tracts in theoretical computer science.  ISBN 0-521-58533-3
+Raymond Smullyan, 1987. Forever Undecided ISBN 0192801414 - puzzles based on undecidability in formal systems
+—, 1991. Godel's Incompleteness Theorems. Oxford Univ. Press.
+—, 1994. Diagonalization and Self-Reference. Oxford Univ. Press. MR1318913
+—, 2013. The Godelian Puzzle Book: Puzzles, Paradoxes and Proofs. Courier Corporation. ISBN 978-0-486-49705-1.
+Hao Wang, 1997. A Logical Journey: From Gödel to Philosophy. MIT Press. ISBN 0-262-23189-1 MR1433803
+
+
+=== Tác phẩm gồm nhiều tác giả ===
+Francesco Berto, 2009, "The Gödel Paradox and Wittgenstein's Reasons" Philosophia Mathematica (III) 17.
+John W. Dawson, Jr., 1997. Logical Dilemmas: The Life and Work of Kurt Gödel, A. K. Peters, Wellesley Mass, ISBN 1-56881-256-6.
+Rebecca Goldstein, 2005, Incompleteness: the Proof and Paradox of Kurt Gödel, W. W. Norton & Company. ISBN 0-393-05169-2
+Juliet Floyd và Hilary Putnam, 2000, "A Note on Wittgenstein's 'Notorious Paragraph' About the Gödel Theorem", Journal of Philosophy v. 97 n. 11, pp. 624–632.
+John Harrison, 2009, "Handbook of Practical Logic and Automated Reasoning", Cambridge University Press, ISBN 0521899575
+David Hilbert và Paul Bernays, Grundlagen der Mathematik, Springer-Verlag.
+John Hopcroft và Jeffrey Ullman 1979, Introduction to Automata Theory, Languages, and Computation, Addison-Wesley, ISBN 0-201-02988-X
+James P. Jones, Undecidable Diophantine Equations, Bulletin of the American Mathematical Society, v. 3 n. 2, 1980, pp. 859–862.
+Stephen Cole Kleene, 1967, Mathematical Logic. Reprinted by Dover, 2002. ISBN 0-486-42533-9
+Russell O'Connor, 2005, "Essential Incompleteness of Arithmetic Verified by Coq", Lecture Notes in Computer Science v. 3603, pp. 245–260.
+Lawrence Paulson, 2013, "A machine-assisted proof of Gödel's incompleteness theorems for the theory of hereditarily finite sets", Review of Symbolic Logic, v. 7 n. 3, 484–498.
+Graham Priest, 1984, "Logic of Paradox Revisited", Journal of Philosophical Logic, v. 13,` n. 2,  pp. 153–179.
+—, 2004, Wittgenstein's Remarks on Gödel's Theorem in  Max Kölbel, ed., Wittgenstein's lasting significance, Psychology Press, pp. 207–227.
+—, 2006, In Contradiction: A Study of the Transconsistent, Oxford University Press, ISBN 0-19-926329-9
+Hilary Putnam, 1960, Minds and Machines in Sidney Hook, ed., Dimensions of Mind: A Symposium. New York University Press. Reprinted in Anderson, A. R., ed., 1964. Minds and Machines. Prentice-Hall: 77.
+Wolfgang Rautenberg, 2010, A Concise Introduction to Mathematical Logic, 3rd. ed., Springer, ISBN 978-1-4419-1220-6
+Victor Rodych, 2003, "Misunderstanding Gödel: New Arguments about Wittgenstein and New Remarks by Wittgenstein", Dialectica v. 57 n. 3, pp. 279–313. doi:10.1111/j.1746-8361.2003.tb00272.x
+Stewart Shapiro, 2002, "Incompleteness and Inconsistency", Mind, v. 111, pp 817–32. doi:10.1093/mind/111.444.817 
+Alan Sokal và Jean Bricmont, 1999, Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science, Picador. ISBN 0-312-20407-8
+Joseph R. Shoenfield (1967), Mathematical Logic. Reprinted by A.K. Peters for the Association for Symbolic Logic, 2001. ISBN 978-1-56881-135-2
+Jeremy Stangroom và Ophelia Benson, Why Truth Matters, Continuum. ISBN 0-8264-9528-1
+George Tourlakis, Lectures in Logic and Set Theory, Volume 1, Mathematical Logic, Cambridge University Press, 2003. ISBN 978-0-521-75373-9
+Avi Wigderson, 2010, "The Gödel Phenomena in Mathematics: A Modern View", in Kurt Gödel and the Foundations of Mathematics: Horizons of Truth, Cambridge University Press.
+Hao Wang, 1996, A Logical Journey: From Gödel to Philosophy, The MIT Press, Cambridge MA, ISBN 0-262-23189-1.
+Richard Zach, 2006, "Hilbert's program then and now", in Philosophy of Logic, Dale Jacquette (ed.), Handbook of the Philosophy of Science, v. 5., Elsevier, pp. 411–447.
+
+
+== Liên kết ngoài ==
+
+Godel's Incompleteness Theorems trên chương trình In Our Time của BBC. (Incompleteness Theorems Nghe tại đây)
+Mục nhập "Kurt Gödel"  bởi Juliette Kennedy trong Bách khoa Toàn thư Triết học Stanford, ngày 5 tháng 7 năm 2011
+.	
+
+Mục nhập "Gödel's Incompleteness Theorems"  bởi Panu Raatikainen trong Bách khoa Toàn thư Triết học Stanford, ngày 11 tháng 11 năm 2013
+.
+
+Paraconsistent Logic § Arithmetic and Gödel's Theorem entry in the Stanford Encyclopedia of Philosophy.
+MacTutor biographies:
+Kurt Gödel. Lưu trữ 2005-10-13 tại Wayback Machine
+Gerhard Gentzen.
+What is Mathematics:Gödel's Theorem and Around by Karlis Podnieks. An online free book.
+World's shortest explanation of Gödel's theorem using a printing machine as an example.
+October 2011 RadioLab episode about/including Gödel's Incompleteness theorem
+Hazewinkel, Michiel biên tập (2001), “Gödel incompleteness theorem”, Bách khoa toàn thư Toán học, Springer, ISBN 978-1-55608-010-4

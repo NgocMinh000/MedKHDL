@@ -1,0 +1,121 @@
+Xét nghiệm COVID-19 bao gồm việc phân tích các mẫu để đánh giá sự hiện diện hiện tại hoặc trong quá khứ của SARS-CoV-2. Hai nhánh chính phát hiện sự hiện diện của virus hoặc của các kháng thể được tạo ra để phản ứng với việc nhiễm virus. Các xét nghiệm phân tử về sự hiện diện của virus thông qua các thành phần phân tử của nó được sử dụng để chẩn đoán các trường hợp riêng lẻ và cho phép các cơ quan y tế công cộng theo dõi và ngăn chặn các đợt bùng phát. Thay vào đó, các xét nghiệm kháng thể (xét nghiệm miễn dịch huyết thanh) cho biết ai đó đã từng mắc bệnh hay chưa. Các xét nghiệm kháng thể là ít hữu ích hơn để chẩn đoán các bệnh nhiễm trùng hiện tại vì các kháng thể có thể chưa phát triển trong nhiều tuần sau khi nhiễm virus. Xét nghiệm được sử dụng để đánh giá tỷ lệ hiện mắc bệnh, giúp ước tính tỷ lệ tử vong do nhiễm bệnh.
+Các khu vực pháp lý riêng lẻ đã áp dụng các giao thức xét nghiệm khác nhau, bao gồm kiểm tra ai, tần suất kiểm tra, quy trình phân tích, thu thập mẫu và sử dụng kết quả kiểm tra ra sao. Sự khác biệt này có thể ảnh hưởng đáng kể đến các số liệu thống kê được báo cáo, bao gồm số ca bệnh và số thử nghiệm, tỷ lệ tử vong theo số ca bệnh và nhân khẩu học. Vì sự lây truyền SARS-CoV-2 xảy ra vài ngày sau khi phơi nhiễm (và trước khi khởi phát các triệu chứng) nên cần phải giám sát thường xuyên và nhanh chóng để có kết quả.
+Phân tích xét nghiệm thường được thực hiện trong các phòng thí nghiệm y tế tự động, thông lượng cao, bởi các nhà khoa học trong phòng thí nghiệm y tế. Ngoài ra, xét nghiệm tại điểm chăm sóc có thể được thực hiện tại văn phòng bác sĩ và bãi đậu xe, nơi làm việc, cơ sở tổ chức hoặc trung tâm chuyển tuyến.
+
+
+== Phương pháp ==
+
+Các xét nghiệm virus dương tính cho thấy tình trạng nhiễm bệnh trong hiện tại, trong khi các xét nghiệm kháng thể dương tính cho thấy tình trạng nhiễm bệnh trong quá khứ. Các kỹ thuật khác bao gồm chụp CT, kiểm tra nhiệt độ cơ thể tăng cao, kiểm tra nồng độ oxy trong máu thấp và triển khai chó phát hiện tại các sân bay.
+
+
+=== Phát hiện virus ===
+Việc phát hiện virus thường được thực hiện bằng cách tìm kiếm DNA bên trong của virus hoặc các mảnh protein ở bên ngoài virus. Các xét nghiệm tìm kiếm các kháng nguyên của virus (các bộ phận của virus) được gọi là xét nghiệm kháng nguyên.
+Có nhiều loại xét nghiệm tìm kiếm virus bằng cách phát hiện sự hiện diện của DNA của virus. Các loại này được gọi là các xét nghiệm phân tử, đặt tên theo sinh học phân tử. Tính đến  năm 2021, dạng xét nghiệm phân tử phổ biến nhất là xét nghiệm phản ứng chuỗi polymerase phiên mã ngược (RT-PCR). Các phương pháp khác được sử dụng trong các thử nghiệm phân tử bao gồm CRISPR, khuếch đại axit nucleic đẳng nhiệt, phản ứng chuỗi polymerase kỹ thuật số, phân tích microarray và giải trình tự thế hệ tiếp theo.
+
+
+==== Xét nghiệm phản ứng chuỗi polymerase phiên mã ngược (RT-PCR) ====
+Phản ứng chuỗi polymerase (PCR) là một quá trình khuếch đại (sao chép) một đoạn DNA nhỏ, được xác định rõ, lên hàng trăm nghìn lần, tạo ra lượng đủ để phân tích. Các mẫu thử nghiệm được xử lý bằng một số hóa chất cho phép tách chiết DNA. Phiên mã ngược chuyển RNA thành DNA.
+Phản ứng chuỗi polymerase phiên mã ngược (RT-PCR) đầu tiên sử dụng phiên mã ngược để thu được DNA, tiếp theo là PCR để khuếch đại DNA đó, tạo ra đủ để phân tích. RT-PCR do đó có thể phát hiện ra SARS-CoV-2, vốn chỉ chứa RNA. Quá trình RT-PCR thường cần vài giờ. Các xét nghiệm này còn được gọi là xét nghiệm phân tử hoặc xét nghiệm di truyền.
+PCR thời gian thực (qPCR) cung cấp các lợi thế bao gồm việc tự động hóa, thông lượng cao hơn và thiết bị đo đáng tin cậy hơn. Nó đã trở thành phương pháp được ưa thích.
+Kỹ thuật kết hợp đã được mô tả là RT-PCR thời gian thực  hoặc RT-PCR định lượng và đôi khi được viết tắt là qRT-PCR, rRT-PCR hoặc RT-qPCR, mặc dù đôi khi cũng được viết tắt thành RT-PCR hoặc PCR. Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) đề xuất thuật ngữ RT-qPCR, nhưng không phải tất cả các tác giả đều tuân thủ điều này.
+Độ nhạy trung bình đối với các xét nghiệm phân tử nhanh phụ thuộc vào nhãn hiệu. Đối với ID NOW, độ nhạy trung bình là 73,0% với độ đặc hiệu trung bình là 99,7%; đối với Xpert Xpress độ nhạy trung bình là 100% với độ đặc hiệu trung bình là 97,2%. Thuật ngữ độ nhạy đề cập đến khả năng của một xét nghiệm để xác định tất cả những người bị nhiễm, trong khi độ đặc hiệu là khả năng của xét nghiệm để phát hiện một loại virus cụ thể.
+Có thể lấy mẫu bằng nhiều phương pháp khác nhau, bao gồm ngoáy mũi họng, đờm (chất dịch ho ra), gạc họng, chất dịch đường thở sâu được lấy qua ống thông hút hoặc nước bọt. Drosten và cộng sự nhận xét rằng đối với SARS 2003, "từ quan điểm chẩn đoán, điều quan trọng cần lưu ý là gạc mũi và họng có vẻ ít thích hợp hơn để chẩn đoán, vì những vật liệu này chứa ít RNA virus hơn đáng kể so với đờm, và virus có thể không bị phát hiện nếu chỉ có những chất dịch này được kiểm tra."
+Độ nhạy của các mẫu lâm sàng bằng RT-PCR là 63% đối với ngoáy mũi, 32% đối với ngoáy họng, 48% đối với phân, 72–75% đối với đờm và 93–95% đối với chất dịch lấy từ phế quản.
+Khả năng phát hiện virus phụ thuộc vào phương pháp thu thập và khoảng thời gian đã trôi qua kể từ khi lây nhiễm. Theo các thử nghiệm Drosten được thực hiện với gạc họng chỉ đáng tin cậy trong tuần đầu tiên. Sau đó, virus có thể rời khỏi cổ họng và nhân lên trong phổi. Trong tuần thứ hai, việc lấy chất dịch là đờm hoặc trong đường thở sâu được ưu tiên hơn.
+Việc thu thập nước bọt có thể có hiệu quả tương tự như ngoáy mũi và cổ họng, mặc dù điều này không chắc chắn. Lấy mẫu nước bọt có thể làm giảm nguy cơ cho các chuyên gia chăm sóc sức khỏe do không phải tương tác vật lý gần gũi. Điều này cũng làm bệnh nhân thấy thoải mái hơn. Những người được kiểm dịch có thể thu thập mẫu của riêng họ. Giá trị chẩn đoán của xét nghiệm nước bọt phụ thuộc vào vị trí lấy mẫu (sâu trong họng, khoang miệng hoặc tuyến nước bọt). Một số nghiên cứu đã phát hiện ra rằng nước bọt mang lại độ nhạy và độ nhất quán cao hơn khi so sánh với các mẫu ngoáy họng hoặc mũi.
+Vào ngày 15 tháng 8 năm 2020, FDA Hoa Kỳ đã cấp phép sử dụng khẩn cấp cho xét nghiệm nước bọt được Đại học Yale phát triển, cho kết quả trong vài giờ.
+Vào ngày 4 tháng 1 năm 2021, FDA Hoa Kỳ đã đưa ra cảnh báo về nguy cơ kết quả sai, đặc biệt là kết quả âm tính giả, với xét nghiệm RT-PCR thời gian thực Curative SARS-Cov-2 Assay.
+Số lượng virus đo được trong bệnh phẩm đường hô hấp trên giảm sau khi khởi phát triệu chứng.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Các xét nghiệm phân tử khác ====
+Các xét nghiệm khuếch đại axit nucleic đẳng nhiệt cũng khuếch đại bộ gen của virus. Chúng nhanh hơn PCR vì chúng không liên quan đến các chu kỳ làm nóng và làm mát lặp lại. Các xét nghiệm này thường phát hiện DNA bằng cách sử dụng thẻ huỳnh quang, được đọc ra bằng các máy chuyên dụng.
+Công nghệ chỉnh sửa gen CRISPR đã được sửa đổi để thực hiện việc phát hiện: nếu enzym CRISPR gắn vào chuỗi, nó sẽ tạo màu cho dải giấy. Các nhà nghiên cứu hy vọng kết quả xét nghiệm sẽ rẻ và dễ sử dụng trong các cơ sở chăm sóc. Xét nghiệm này khuếch đại RNA trực tiếp, không có bước chuyển đổi RNA-sang-DNA của RT-PCR.
+
+
+==== Xét nghiệm kháng nguyên ====
+
+Kháng nguyên là một phần của mầm bệnh tạo ra phản ứng miễn dịch. Các xét nghiệm kháng nguyên tìm kiếm các protein kháng nguyên từ bề mặt virus. Trong trường hợp của coronavirus, chúng thường là các protein từ các gai trên bề mặt. Các kháng nguyên SARS-CoV-2 có thể được phát hiện trước khi xuất hiện các triệu chứng COVID-19 (ngay khi có các hạt virus SARS-CoV-2) với kết quả xét nghiệm nhanh hơn, nhưng độ nhạy kém hơn so với xét nghiệm PCR đối với virus.
+Thử nghiệm kháng nguyên có thể là một cách để mở rộng quy mô thử nghiệm lên các cấp độ lớn hơn nhiều lần. Thử nghiệm khuếch đại axit nucleic đẳng nhiệt chỉ có thể xử lý một mẫu tại một thời điểm trên mỗi máy. Các xét nghiệm RT-PCR là chính xác nhưng đòi hỏi quá nhiều thời gian, năng lượng và nhân viên được đào tạo để chạy các xét nghiệm. Deborah Birx, người đứng đầu Lực lượng Đặc nhiệm Coronavirus của Nhà Trắng, cho biết: "Sẽ không bao giờ có khả năng xét nghiệm [PCR] 300 triệu lần mỗi ngày hoặc xét nghiệm tất cả mọi người trước khi họ đi làm hoặc đi học. Nhưng với xét nghiệm kháng nguyên thì có thể làm được."
+Có thể lấy mẫu qua tăm bông ngoáy mũi họng, hoặc từ nước bọt (lấy bằng nhiều phương pháp khác nhau, bao gồm cả xét nghiệm dùng kẹo mút cho trẻ em). Sau đó, mẫu được tiếp xúc với các dải giấy có chứa các kháng thể nhân tạo được thiết kế để liên kết với các kháng nguyên coronavirus. Các kháng nguyên liên kết với các dải này và cho hiển thị trực quan. Quá trình này diễn ra trong vòng chưa đầy 30 phút, có thể mang lại kết quả tại điểm chăm sóc và không yêu cầu thiết bị đắt tiền hoặc đào tạo chuyên sâu.
+Vết gạc của virus đường hô hấp thường không có đủ dịch nhầy kháng nguyên để có thể phát hiện được. Điều này đặc biệt đúng đối với những bệnh nhân không có triệu chứng có ít hoặc không có bất kỳ dịch mũi nào. Các protein của virus không được khuếch đại trong xét nghiệm kháng nguyên. Theo WHO, độ nhạy của các xét nghiệm kháng nguyên tương tự đối với các bệnh đường hô hấp như cúm nằm trong khoảng từ 34% đến 80%. WHO cho biết: "Dựa trên thông tin này, một nửa hoặc nhiều hơn số bệnh nhân bị nhiễm COVID-19 có thể bị bỏ sót bởi các xét nghiệm như vậy, tùy thuộc vào nhóm bệnh nhân được xét nghiệm". Trong khi một số nhà khoa học nghi ngờ liệu xét nghiệm kháng nguyên có thể hữu ích đối với COVID-19 hay không, những người khác lập luận rằng xét nghiệm kháng nguyên có độ nhạy cao khi tải lượng virus cao và con người dễ lây lan, nên phù hợp để sàng lọc sức khỏe cộng đồng. Các xét nghiệm kháng nguyên định kỳ có thể nhanh chóng xác định khi nào những người không có triệu chứng bị lây nhiễm, trong khi xét nghiệm PCR sau đó có thể được sử dụng nếu cần chẩn đoán xác định chắc chắn.
+Độ nhạy trung bình của các xét nghiệm kháng nguyên khác nhau giữa các nhãn hiệu, từ 34,1% đối với Coris Bioconcept đến 88,1% đối với SD Biosensor STANDARD Q. Độ đặc hiệu trung bình cao đối với hầu hết các nhãn hiệu với mức trung bình là 99,6%.
+
+
+==== Kiểm tra khả năng ngửi ====
+Mất khứu giác đột ngột có thể được sử dụng để sàng lọc mọi người hàng ngày về việc có nhiễm COVID-19 hay không. Một nghiên cứu của Viện Y tế Quốc gia cho thấy những người bị nhiễm SARS-CoV-2 không thể ngửi thấy hỗn hợp 25% ethanol và nước. Bởi vì các điều kiện khác nhau có thể dẫn đến mất khứu giác, thử nghiệm ngửi mùi sẽ là không xác định nhưng chỉ ra sự cần thiết của xét nghiệm PCR. Vì sự mất khứu giác xuất hiện trước các triệu chứng khác, nên đã có một cuộc kêu gọi thử nghiệm ngửi mùi rộng rãi. Các cơ quan quản lý chăm sóc sức khỏe thường bỏ qua các bài kiểm tra ngửi mùi mặc dù chúng nhanh chóng, dễ dàng và có khả năng tự quản lý hàng ngày. Điều này đã khiến một số tạp chí y tế viết các bài xã luận ủng hộ việc áp dụng thử nghiệm ngửi mùi.
+
+
+==== Chụp hình ====
+Các đặc điểm điển hình có thể nhìn thấy trên CT ban đầu bao gồm đục dịch kính mặt đất đa thanh hai bên với sự phân bố ngoại vi hoặc phía sau. COVID-19 có thể được xác định với độ chính xác cao hơn bằng CT so với RT-PCR.
+Sự thống trị khoang màng phổi, sự mở rộng và hợp nhất có thể phát triển khi bệnh tiến triển. Chụp CT ngực và chụp X-quang ngực không được khuyến khích để chẩn đoán COVID-19. Các phát hiện X quang trong COVID-19 thiếu tính đặc hiệu.
+
+
+=== Xét nghiệm kháng thể ===
+Cơ thể phản ứng với nhiễm virus bằng cách sản xuất các kháng thể giúp tiêu diệt virus. Xét nghiệm máu (còn được gọi là xét nghiệm huyết thanh học hoặc xét nghiệm miễn dịch huyết thanh học) có thể phát hiện sự hiện diện của các kháng thể như vậy. Các xét nghiệm kháng thể có thể được sử dụng để đánh giá phần nào dân số đã từng bị nhiễm bệnh, sau đó có thể được sử dụng để tính toán tỷ lệ tử vong của căn bệnh. Chúng cũng có thể được sử dụng để xác định lượng kháng thể chứa trong một đơn vị huyết tương, để điều trị bằng COVID-19 hoặc để xác minh xem một loại vắc xin đã cho có tạo ra đáp ứng miễn dịch đủ mức hay không.
+Hiệu lực và thời gian bảo vệ của kháng thể SARS-CoV-2 chưa được thiết lập. Do đó, xét nghiệm kháng thể dương tính có thể không ngụ ý khả năng miễn dịch và không bị nhiễm bệnh trong tương lai. Hơn nữa, việc nhiễm bệnh nhẹ hay không có triệu chứng tạo ra đủ kháng thể để xét nghiệm phát hiện được hay không vẫn còn chưa rõ. Các kháng thể của một số bệnh tồn tại trong máu nhiều năm, trong khi những bệnh khác mất dần đi theo thời gian.
+Các kháng thể đáng chú ý nhất là IgM và IgG. Các kháng thể IgM thường có thể phát hiện được vài ngày sau khi nhiễm lần đầu, mặc dù nồng độ của nó trong suốt quá trình nhiễm trùng và sau đó không được đặc trưng rõ ràng. Các kháng thể IgG thường có thể phát hiện được từ 10–14 ngày sau khi nhiễm và thường đạt đỉnh khoảng 28 ngày sau khi nhiễm. Tuy nhiên, mô hình phát triển kháng thể này thường không áp dụng cho SARS-CoV-2, với IgM đôi khi xuất hiện sau IgG, cùng với IgG hoặc hoàn toàn không thấy. Nói chung, tuy nhiên, việc phát hiện IgM trung bình xảy ra 5 ngày sau khi bắt đầu có triệu chứng, trong khi IgG được phát hiện ở mức trung bình 14 ngày sau khi khởi phát triệu chứng. Nồng độ IgG giảm đáng kể sau hai hoặc ba tháng.
+Xét nghiệm di truyền xác minh nhiễm bệnh sớm hơn xét nghiệm kháng thể. Chỉ 30% trong số những người có xét nghiệm di truyền dương tính cho kết quả xét nghiệm kháng thể dương tính vào ngày thứ 7 kể từ ngày lây nhiễm. Trung tâm Phòng ngừa và Kiểm soát Dịch bệnh (CDC) và Cơ quan Quản lý Thực phẩm và Dược phẩm (FDA) tại Mỹ cũng cho biết việc xét nghiệm kháng thể không thể hiện được chính xác hoàn toàn khả năng miễn dịch với SARS-CoV-2
+
+
+==== Các loại xét nghiệm ====
+
+
+===== Xét nghiệm chẩn đoán nhanh (RDT) =====
+RDT thường sử dụng xét nghiệm dòng chảy bên nhỏ, di động, dương/âm có thể được thực hiện tại điểm chăm sóc. RDT có thể xử lý mẫu máu, mẫu nước bọt hoặc dịch ngoáy mũi. RDTs tạo ra các vạch màu để cho biết kết quả dương tính hoặc âm tính.
+
+
+===== Xét nghiệm hấp thụ miễn dịch liên kết với enzym (ELISA) =====
+ELISA có thể định tính hoặc định lượng và thường yêu cầu phòng thí nghiệm. Các xét nghiệm này thường sử dụng mẫu máu toàn phần, huyết tương hoặc huyết thanh. Đĩa được phủ một loại protein virus, chẳng hạn như protein gai của SARS-CoV-2. Các mẫu được ủ với protein, cho phép bất kỳ kháng thể nào liên kết với protein. Sau đó, phức hợp protein-kháng thể có thể được phát hiện bằng cách rửa kháng thể khác tạo ra màu sắc/huỳnh quang.
+
+
+===== Xét nghiệm ngăn chặn =====
+Các xét nghiệm ngăn chặn đánh giá xem liệu các kháng thể mẫu có ngăn chặn được sự lây nhiễm virus trong các tế bào thử nghiệm hay không. Các xét nghiệm này lấy mẫu máu, huyết tương hoặc huyết thanh. Thử nghiệm nuôi cấy các tế bào cho phép sinh sản virus (ví dụ, tế bào Vero E6). Bằng cách thay đổi nồng độ kháng thể, các nhà nghiên cứu có thể hình dung và định lượng có bao nhiêu kháng thể thử nghiệm ngăn chặn được sự nhân lên của virus.
+
+
+===== Xét nghiệm miễn dịch phát quang hóa học =====
+Xét nghiệm miễn dịch hóa phát quang là xét nghiệm định lượng trong phòng thí nghiệm. Họ lấy mẫu máu, huyết tương hoặc huyết thanh. Các mẫu được trộn với một protein virus đã biết, thuốc thử đệm và các kháng thể đặc hiệu, được đánh dấu bằng enzym. Kết quả sẽ phát quang. Phương pháp xét nghiệm miễn dịch vi hạt phát quang hóa học sử dụng các vi hạt có từ tính, được phủ protein. Các kháng thể phản ứng với protein của virus, tạo thành một phức chất. Các kháng thể đánh dấu enzym thứ cấp được thêm vào và liên kết với các phức chất này. Phản ứng hóa học tạo ra ánh sáng. Bức xạ được sử dụng để tính toán số lượng kháng thể. Xét nghiệm này có thể xác định nhiều loại kháng thể, bao gồm IgG, IgM và IgA.
+
+
+===== Ngăn chặn và liên kết =====
+Hầu hết nếu không phải là tất cả các xét nghiệm kháng thể COVID-19 quy mô lớn chỉ tìm kiếm các kháng thể liên kết và không đo lường các kháng thể ngăn chặn quan trọng hơn (NAb). NAb là một kháng thể bảo vệ tế bào khỏi một phần tử lây nhiễm bằng cách vô hiệu hóa các hiệu ứng sinh học của nó. Sự ngăn chặn này làm cho phần tử lây nhiễm không còn lây nhiễm hoặc gây bệnh. Một kháng thể liên kết liên kết với mầm bệnh nhưng mầm bệnh vẫn lây nhiễm; mục đích có thể là để đánh dấu mầm bệnh để hệ thống miễn dịch tiêu diệt. Nó thậm chí có thể tăng cường khả năng lây nhiễm bằng cách tương tác với các thụ thể trên đại thực bào. Vì hầu hết các xét nghiệm kháng thể COVID-19 đều trả lại kết quả dương tính nếu họ chỉ tìm thấy các kháng thể liên kết, các xét nghiệm này không thể chỉ ra rằng đối tượng đã tạo ra các NAb bảo vệ để bảo vệ chống lại sự tái nhiễm.
+Người ta mong đợi rằng các kháng thể liên kết ngụ ý sự hiện diện của NAbs và đối với nhiều bệnh do virus, tổng phản ứng của kháng thể tương quan phần nào với các phản ứng NAb nhưng điều này chưa được làm rõ đối với COVID-19. Một nghiên cứu trên 175 bệnh nhân đã hồi phục ở Trung Quốc có các triệu chứng nhẹ đã báo cáo rằng 10 người không phát hiện được NAbs khi xuất viện, hoặc sau đó. Làm thế nào những bệnh nhân này hồi phục mà không có sự trợ giúp của NAbs và liệu họ có nguy cơ tái nhiễm hay không vẫn chưa được giải quyết. Một nguồn không chắc chắn khác là ngay cả khi có NAb, các virus như HIV có thể trốn tránh các phản ứng của NAb.
+Các nghiên cứu đã chỉ ra rằng NAbs đối với virus SARS ban đầu (tiền thân của virus SARS-CoV-2 hiện tại) có thể vẫn hoạt động trong 2 năm và biến mất sau 6 năm. Tuy nhiên, các tế bào ghi nhớ bao gồm tế bào nhớ B và tế bào nhớ T  có thể tồn tại lâu hơn và có thể có khả năng giảm mức độ tái nhiễm.
+
+
+=== Các xét nghiệm khác ===
+Sau khi hồi phục, nhiều bệnh nhân không còn phát hiện được RNA của virus trong bệnh phẩm đường hô hấp trên. Trong số những người làm vậy, nồng độ RNA ba ngày sau khi phục hồi thường thấp hơn phạm vi mà virus có khả năng sao chép đã được phân lập một cách đáng tin cậy.
+Không có mối tương quan rõ ràng nào được mô tả giữa thời gian bị bệnh và thời gian rơi rụng của RNA virus sau khi phục hồi trong các mẫu bệnh phẩm đường hô hấp trên.
+Xét nghiệm tổng hợp có thể cải thiện thời gian quay vòng, bằng cách kết hợp một số mẫu được xét nghiệm với nhau. Nếu kết quả của kết hợp bệnh phẩm là âm tính, tất cả các mẫu đều âm tính. Nếu kết quả xét nghiệm là dương tính, các mẫu sẽ cần được xét nghiệm lại riêng lẻ.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DK,  và đồng nghiệp (tháng 1 năm 2020). “Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR”. Euro Surveill. 25 (3). doi:10.2807/1560-7917.ES.2020.25.3.2000045. PMC 6988269. PMID 31992387.
+Guglielmi G (tháng 7 năm 2020). “The explosion of new coronavirus tests that could help to end the pandemic”. Nature. 583 (7817): 506–9. Bibcode:2020Natur.583..506G. doi:10.1038/d41586-020-02140-8. PMID 32681157.
+Kevadiya, Bhavesh D.; Machhi, Jatin; Herskovitz, Jonathan; Oleynikov, Maxim D.; Blomberg, Wilson R.; Bajwa, Neha; Soni, Dhruvkumar; Das, Srijanee; Hasan, Mahmudul; Patel, Milankumar; Senan, Ahmed M. (ngày 15 tháng 2 năm 2021). “Diagnostics for SARS-CoV-2 infections”. Nature Materials (bằng tiếng Anh). 20 (5): 593–605. Bibcode:2021NatMa..20..593K. doi:10.1038/s41563-020-00906-z. ISSN 1476-4660. PMC 8264308. PMID 33589798. S2CID 231930978. 
+
+
+== Liên kết ngoài ==
+Data on COVID-19 testing at Our World in Data (ngày 31 tháng 3 năm 2020)
+COVID-19 Testing (at least) – now Free for all? (CDC; US Congress; CSPAN video/6:00; ngày 12 tháng 3 năm 2020)
+Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR; NCBI-PMC, DOI (ngày 23 tháng 1 năm 2020)

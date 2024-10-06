@@ -1,0 +1,135 @@
+COVID-19 (từ tiếng Anh: coronavirus disease 2019 nghĩa là bệnh virus corona 2019) là một bệnh đường hô hấp cấp tính truyền nhiễm gây ra bởi chủng virus corona SARS-CoV-2 và các biến thể của nó. Đây là một loại virus được phát hiện điều tra ổ dịch bắt nguồn từ khu chợ lớn chuyên bán hải sản và động vật ở Vũ Hán, tỉnh Hồ Bắc, Trung Quốc. Virus gây viêm đường hô hấp cấp ở người và cho thấy có sự lây lan từ người sang người. Ngoài chủng virus corona mới phát hiện này, đã có 6 chủng virus corona khác được biết tới ngày nay có khả năng lây nhiễm ở người sang người. Bệnh được phát hiện lần đầu tiên trong đại dịch COVID-19 năm 2019–2020.
+Phương thức lây truyền chủ yếu của nó hiện nay là lây truyền từ người sang người, thường được truyền thông qua các giọt dịch hô hấp mà con người hắt hơi, ho hoặc thở ra. Một người nhiễm bệnh có thể xuất hiện các triệu chứng sau thời gian ủ bệnh kéo dài từ 2 đến 14 ngày, trung bình là 5 ngày, trong thời gian đó nó vẫn có thể truyền nhiễm. Cần thận trọng để giúp hạn chế lây truyền bệnh, bao gồm vệ sinh cá nhân tốt và rửa tay thường xuyên. Những người nghĩ rằng họ đã bị nhiễm bệnh nên đeo khẩu trang y tế và liên hệ bác sĩ ngay lập tức để được tư vấn.
+Virus chủ yếu ảnh hưởng đến đường hô hấp dưới (cũng có các triệu chứng ở đường hô hấp trên nhưng ít gặp hơn) và dẫn đến một loạt các triệu chứng được mô tả giống như cúm, bao gồm sốt, ho, khó thở, đau cơ và mệt mỏi, với sự phát triển cao hơn nữa sẽ dẫn đến viêm phổi, hội chứng suy hô hấp cấp tính, nhiễm trùng huyết, sốc nhiễm trùng và có thể gây tử vong. Các phản ứng y tế đối với căn bệnh này thường là cố gắng kiểm soát các triệu chứng lâm sàng vì hiện tại chưa tìm thấy phương pháp điều trị hiệu quả nào.
+Căn bệnh này lần đầu tiên được xác định bởi các cơ quan y tế tại thành phố Vũ Hán, thủ phủ của tỉnh Hồ Bắc, Trung Quốc, trong số những bệnh nhân bị viêm phổi không rõ nguyên nhân. Nó đã gây ra sự báo động do không có bất kỳ loại vắc-xin hiệu quả cũng như bất kỳ liệu pháp điều trị bằng thuốc chống virus nào và sự lây lan tương đối nhanh chóng của nó trên toàn cầu, từ lần phát hiện đầu tiên vào đầu tháng 1 năm 2020. Các tỷ lệ tử vong ca bệnh được ước tính vào khoảng 1-3%.
+Tổ chức Y tế Thế giới đã tuyên bố dịch viêm phổi do virus corona mới (NCP) là một tình huống khẩn cấp y tế toàn cầu (PHEIC) kể từ ngày 30 tháng 1 năm 2020 và là một đại dịch kể từ ngày 11 tháng 3 năm 2020, dựa trên các tác động của virus đối với các nước nghèo, những nơi có cơ sở hạ tầng chăm sóc sức khỏe yếu kém hơn. Các ca nhiễm virus đã được báo cáo trên khắp thế giới phương Tây và châu Á-Thái Bình Dương, chủ yếu là các du khách có nguồn gốc từ Trung Quốc đại lục, với sự truyền bệnh tại địa phương cũng được báo cáo ở các quốc gia như Đức. Tính tới ngày 16 tháng 11 năm 2020, đã có hơn 54 triệu trường hợp nhiễm COVID-19 được ghi nhận tại hơn 217 quốc gia và vùng lãnh thổ trên thế giới. Những ca tử vong đã được báo cáo ở hầu hết các nước trên thế giới. Kể từ ngày 7 tháng 3 năm 2020, nhiều nước khắp thế giới có bằng chứng truyền bệnh cộng đồng.
+Tại Việt Nam, Thủ tướng Chính phủ Nguyễn Xuân Phúc đã ban hành Quyết định 173/QĐ-TTg công bố dịch viêm đường hô hấp cấp do chủng mới của virus corona gây ra vào ngày 01/02/2020 và sau đó, vào ngày 01/04/2020, đã ban hành tiếp Quyết định 447/QĐ-TTg công bố dịch COVID-19.
+
+
+== Nguồn gốc ==
+Nguồn gốc của COVID-19 bắt đầu từ Vũ Hán, Trung Quốc. Virus corona là một betacorona virus, giống như MERS và SARS, tất cả đều có nguồn gốc từ vật chủ là loài dơi. Virus corona là một họ virus lớn, phổ biến ở nhiều loài động vật khác nhau bao gồm lạc đà, mèo và dơi. Phân tích cây di truyền của virus: SARS, một loại virus corona khác xuất hiện lây nhiễm cho người, bắt nguồn từ loài cầy hương, trong khi MERS, một loại virus corona khác lây nhiễm cho người, bắt nguồn từ lạc đà. Và hiện nay nhiều người cho rằng nguồn gốc của con virus này đến từ 1 phòng thí nghiệm ở Vũ Hán, Trung Quốc.
+
+
+=== Cách thức lây lan ===
+Đến nay, bệnh được xác định là có lây truyền từ người sang người qua đường tiếp xúc trực tiếp với chất tiết từ đường hô hấp của người bệnh. Bệnh còn lây lan đường gián tiếp khi bàn tay người lành tiếp xúc với các đồ vật bị nhiễm virus như bao cao su, băng vệ sinh... đặc biệt là các đồ vật có dính dịch mũi họng của người bị COVID-19, sau đó đưa tay vào mắt, mũi, miệng và gây nhiễm bệnh. Đó, phòng bệnh cơ bản là rửa tay thường xuyên bằng xà phòng và các biện pháp dự phòng không dùng thuốc. Theo một số nghiên cứu, bệnh cũng có thể lây qua đường tiêu hóa. COVID-19 vẫn có khả năng lây nhiễm cao dù người bị bệnh đang trong thời gian ủ bệnh.
+
+
+=== So sánh với virus MERS-CoV và SARS-CoV ===
+Virus SARS-CoV-2 gây bệnh COVID-19 mới xuất hiện gần đây không giống với virus corona gây ra Hội chứng hô hấp Trung Đông (MERS) hoặc virus corona gây ra Hội chứng hô hấp cấp tính nặng (SARS). Tuy nhiên, các phân tích di truyền cho thấy virus này xuất hiện từ một loài virus liên quan đến SARS. Hiện nay, những cuộc điều tra đang diễn ra để tìm hiểu thêm về vấn đề này.
+
+
+== Dấu hiệu và triệu chứng ==
+
+Những người bị nhiễm bệnh có thể không có triệu chứng hoặc có các triệu chứng cơ năng từ nhẹ đến nặng, như sốt, ho và khó thở. Tiêu chảy hoặc các triệu chứng ở đường hô hấp trên (ví dụ như hắt hơi, sổ mũi, đau họng) ít gặp hơn. Một số trường hợp ở Trung Quốc ban đầu chỉ xuất hiện với đau ngực và đánh trống ngực. Vào tháng 3 năm 2020, các báo cáo nổi lên chỉ ra rằng mất khứu giác có thể là triệu chứng phổ biến ở những người mắc bệnh nhẹ, mặc dù không phổ biến như báo cáo ban đầu. Các trường hợp có thể tiến triển thành viêm phổi nặng, suy rối loạn đa tạng và tử vong.
+Thời gian ủ bệnh được Tổ chức Y tế Thế giới ước tính từ 2 đến 10 ngày, hoặc từ 2 đến 14 ngày bởi Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC). Một nghiên cứu được công bố vào tháng 2 bởi một số nhà nghiên cứu ở Trung Quốc, bao gồm cả bác sĩ khám phá ra SARS, đã tìm thấy bằng chứng về thời gian ủ bệnh kéo dài đến 24 ngày.
+
+
+== Nguyên nhân và phương thức ==
+
+
+=== Nguyên nhân gây bệnh ===
+Nguyên nhân gây bệnh đã được khẳng định là do chủng virus tên là SARS-CoV-2 (đọc là Sác-côvi 2) gây ra. Đây là tên chính thức do ICTV đặt ra, cũng còn được WHO và nhiều người quen gọi là "Covid-19", được cho là có nguồn gốc từ động vật. .Về mặt sinh học, khi ở ngoài cơ thể vật chủ, thì COVID-19 không phải là sinh vật, như tất cả các virut khác, do nó chỉ có biểu hiện của vật sống khi ký sinh trong vật chủ như người.
+
+
+=== Phương thức lây truyền ===
+Phương thức lây truyền chính là từ người sang người, qua các giọt dịch hô hấp của cơ thể khi mà người có mầm bệnh hắt hơi, ho hoặc thở ra. Các nhà khoa học và quan chức có trách nhiệm đã xác nhận ba cách lây truyền: truyền trực tiếp, truyền tiếp xúc và truyền khí dung.
+
+Trong cách truyền trực tiếp: các giọt dịch hô hấp (nói nôm na là giọt nước bọt) của người có mầm bệnh bắn trực diện vào cơ quan hô hấp của người khác (thường là mũi, miệng, một số trường hợp là mắt), khi ở gần nhau. Trường hợp này rất hay gặp khi một số người đối diện nhau mà nói chuyện, cười đùa với nhau.
+Trong cách truyền tiếp xúc: các giọt dịch hô hấp của người có mầm bệnh bám trên vật thể nào đó, rồi người khác chạm phải, tay có dính mầm bệnh lại vô tình quệt lên mắt, ngoáy mũi hay cầm thức ăn cho vào miệng. Chẳng hạn như người có mầm bệnh hắt hơi hoặc nhổ lên một tay ghế, người khác nắm hay chạm phải có thể dính mầm bệnh.
+Trong cách truyền khí dung - còn gọi là truyền qua không khí - thì mầm bệnh bay lơ lửng trong không khí, người khác chẳng may hít phải hoặc tiếp xúc qua niêm mạc. Trường hợp này thường gặp khi nhiều người tập trung ở phòng kín (lúc hội họp, tập trung xem biểu diễn) hoặc ngay cả ở ngoài trời (ít gặp hơn, nhưng không phải là khó xảy ra), do mầm bệnh có thể tồn tại trong không khí nhiều giờ, nhất là khi nhiệt độ không khí mát hay lạnh (<18 °C).
+
+
+== Bệnh lý ==
+Kiểm tra mô bệnh học của các mẫu phổi sau khi chết cho thấy tổn thương phế nang lan tỏa với xuất tiết fibromyxoid trong cả hai phổi. Những thay đổi tế bào học của virus đã được quan sát thấy trong các tế bào phổi. Hình ảnh phổi giống như hội chứng suy hô hấp cấp tính (ARDS).
+
+
+== Chẩn đoán ==
+WHO đã công bố một số giao thức xét nghiệm cho SARS-CoV-2. Phương pháp xét nghiệm cơ bản là sử dụng phương pháp phản ứng tổng hợp chuỗi polymerase thời gian thực kết hợp phản ứng sao chép ngược (rRT-PCR), thường cho kết quả từ vài giờ cho đến hai ngày. Xét nghiệm có thể được thực hiện trên mẫu dịch hô hấp hoặc máu. Kết quả thường có trong vòng một vài giờ đến vài ngày. Các nhà khoa học Trung Quốc đã phân lập được một chủng coronavirus và công bố trình tự gen để các phòng thí nghiệm trên toàn thế giới có thể độc lập phát triển các phương thức xét nghiệm PCR để phát hiện các trường hợp nhiễm virus.
+Hướng dẫn chẩn đoán được phát hành bởi Bệnh viện Trung Nam của Đại học Vũ Hán đã đề xuất các phương pháp phát hiện nhiễm virus dựa trên các đặc điểm lâm sàng và rủi ro dịch tễ học. Những bệnh nhân này liên quan đến việc xác định bệnh nhân có ít nhất hai trong số các triệu chứng sau đây ngoài tiền sử có đi du lịch đến Vũ Hán hoặc tiếp xúc với các bệnh nhân bị nhiễm khác: sốt, các đặc điểm của viêm phổi, số lượng bạch cầu bình thường hoặc giảm hoặc giảm số lượng tế bào lympho.
+
+
+== Phòng chống ==
+Các tổ chức y tế trên toàn thế giới đã công bố các biện pháp phòng ngừa để giảm nguy cơ bị lây nhiễm SARS-CoV-2. Các khuyến nghị tương tự như các khuyến nghị được công bố cho các virus corona khác và bao gồm: rửa tay thường xuyên bằng xà phòng và nước; không chạm vào mắt, mũi hoặc miệng bằng tay chưa rửa sạch; và thực hành vệ sinh đường hô hấp tốt, giữ khoảng cách với người có biểu hiện ho, hắt hơi. Những người nghĩ rằng mình có khả năng đang mang virus nên đeo khẩu trang phẫu thuật và tìm kiếm trợ giúp y tế bằng cách gọi cho bác sĩ hơn là đến cơ sở y tế.
+Để ngăn ngừa lây truyền, các Trung tâm kiểm soát bệnh tật (CDC) khuyến nghị những người nhiễm bệnh nên ở nhà, ngoại trừ cần được chăm sóc y tế; gọi điện trước khi đến nơi cung cấp dịch vụ chăm sóc sức khỏe; đeo khẩu trang (đặc biệt là ở nơi công cộng); che chắn miệng khi ho và hắt hơi bằng cách gập khuỷu tay lại hoặc dùng khăn giấy; thường xuyên rửa tay bằng xà phòng và nước; tránh dùng chung vật dụng cá nhân. Người bị nhiễm virus và những người chăm sóc cho bệnh nhân nhiễm virus buộc phải mang khẩu trang theo quy định, nhưng không yêu cầu với người bình thường trong cộng đồng.
+Khuyến cáo phòng ngừa dịch bệnh của Bộ Y tế Việt Nam:
+
+Duy trì vệ sinh sạch sẽ hàng ngày: lau nền nhà, bề mặt dụng cụ, tay nắm cửa bằng chất sát khuẩn thông thường.
+Không tổ chức hoạt động đông người tại gia đình, nơi lưu trú.
+Không đi du lịch đến vùng có dịch bệnh. Hạn chế đến nơi đông người, nếu cần thiết thì đeo khẩu trang, rửa tay thường xuyên và đúng cách.
+Che miệng và mũi khi ho hoặc hắt hơi, tốt nhất bằng khăn vải hoặc khăn tay hoặc ống tay áo để giảm phát tán các dịch tiết đường hô hấp. Không khạc nhổ bừa bãi nơi công cộng. Tránh chạm tay vào mắt, mũi, miệng sau khi ho hoặc hắt hơi.
+Tăng cường thông khí nhà ở.
+Tránh mua bán, tiếp xúc với các loài động vật hoang dã.
+Giữ ấm cơ thể, ăn thức ăn đã được nấu chín kỹ, đủ chất, nghỉ ngơi, sinh hoạt hợp lý, rèn luyện thể thao, tăng cường vệ sinh cá nhân. Rửa tay bằng nước rửa tay 30 phút một lần, một lần rửa tay kéo dài tối thiểu 20 giây.
+Nếu có bất kỳ hiện tượng, triệu chứng bất thường xảy ra ở cơ thể giống như triệu chứng của bệnh, hãy lập tức đến ngay cơ sở y tế uy tín để được khám và cách ly kịp thời. Chú ý khai báo thành khẩn lịch trình di chuyển trong vòng 14 ngày vừa qua để các bác sĩ nắm được.
+Nếu có triệu chứng sốt, ho, khó thở thì phải báo với cơ quan y tế gần nhất. Nếu không có cơ quan y tế gần nhất thì phải gọi cho 115 để khai báo y tế và cách ly 14 ngày tại nhà hoặc tại cơ quan y tế.
+
+
+== Quản lý ==
+Tính đến  ngày 5 tháng 2 năm 2020, chưa có phương pháp điều trị cụ thể đã biết nào. WHO khuyến nghị những tình nguyện viên tham gia vào Thử nghiệm ngẫu nhiên có kiểm soát để kiểm tra tính hiệu quả và an toàn của các phương pháp điều trị tiềm năng.
+Nghiên cứu về các phương pháp điều trị tiềm năng cho căn bệnh này đã được bắt đầu vào tháng 1 năm 2020 và các liệu pháp mới có thể mất đến năm 2021 để phát triển hoàn tất. Trung tâm kiểm soát và phòng ngừa dịch bệnh Trung Quốc đã bắt đầu thử nghiệm các phương pháp điều trị viêm phổi hiện có đối với coronavirus mới này vào cuối tháng 1. Cũng đã có kiểm tra về chất ức chế RNA polymerase hay chất chống virus như remdesivir, và interferon beta.
+Vào cuối tháng 1 năm 2020, các nhà nghiên cứu y học Trung Quốc đã bày tỏ ý định bắt đầu thử nghiệm lâm sàng trên remdesivir, chloroquine và lopinavir/ritonavir, tất cả đều có "tác dụng ức chế khá tốt" trên SARS-CoV-2 ở cấp độ tế bào trong các nghiên cứu khám phá. Vào ngày 5 tháng 2 năm 2020, Trung Quốc bắt đầu sử dụng remdesivir cho các bệnh nhân mắc căn bệnh này.
+Bộ Y tế Nga đã xác định ba loại thuốc dành cho người trưởng thành để chống lại SARS-CoV-2 vào cuối tháng 1 năm 2020, theo đó, ribavirin, lopinavir/ritonavir và interferon beta-1b có thể được sử dụng để chống lại coronavirus. Vì các loại thuốc này thường được sử dụng để điều trị viêm gan C, HIV và bệnh đa xơ cứng tương ứng. Bộ Y tế Nga đã đưa ra các mô tả và hướng dẫn về cách thức điều trị hoạt động và với số lượng khuyến nghị này nên được quy định cho các bác sĩ tại các bệnh viện trên khắp nước Nga. Vào tháng 2, có thông tin rằng Trung Quốc đã bắt đầu thử nghiệm triazavirin, một loại thuốc chống vi-rút của Nga, với hy vọng rằng nó có thể hữu ích trong việc kiểm soát coronavirus mới. Triazavirin được phát triển tại Đại học Liên bang Ural ở Yekaterinburg, ban đầu để chống lại 'Cúm gia cầm' (H5N1). Do sự giống nhau giữa hai bệnh nhiễm trùng, các nhà nghiên cứu cảm thấy nó đáng để thử nghiệm theo các báo cáo. Thuốc Triazavirin năm 2014, được tuyên bố là có hiệu quả chống lại sốt thung lũng Rift và virus Tây sông Nin, cũng như các bệnh nhiễm virus khác.
+
+
+== Dịch tễ học ==
+
+Tỷ lệ tử vong và tỷ lệ mắc bệnh nói chung do nhiễm SARS-CoV-2 vẫn chưa được xác định, cả hai vì tỷ lệ tử vong trong trường hợp này có thể thay đổi theo dòng thời gian trong đợt bùng phát hiện tại và do tỷ lệ các ca nhiễm virus tiến triển thành bệnh có thể chẩn đoán vẫn chưa rõ ràng. Tuy nhiên, từ các nghiên cứu sơ bộ về bệnh hô hấp cấp 2019-nCoV đã cho thấy tỷ lệ tử vong là từ 2% đến 3%, vào tháng 1 năm 2020, WHO cho rằng tỷ lệ tử vong là khoảng 3%.
+Một nghiên cứu chưa được xem xét của Đại học Hoàng gia Luân Đôn trong số 55 trường hợp tử vong, trong đó lưu ý rằng những ước tính sớm về tỷ lệ tử vong có thể quá cao do có các ca nhiễm virus không triệu chứng bị bỏ sót. Họ ước tính tỷ lệ tử vong trung bình của nhiễm virus (tỷ lệ tử vong ở những người nhiễm bệnh) dao động từ 0,8% khi bao gồm cả người mang mầm bệnh không triệu chứng, đến 18% khi chỉ bao gồm các trường hợp có triệu chứng từ tỉnh Hồ Bắc.
+Tính đến  ngày 2 tháng 3 năm 2020, dịch bệnh đã lây lan sang 71 quốc gia và vùng lãnh thổ, với 89.835 trường hợp được xác nhận trên toàn thế giới, 3.061 trường hợp tử vong và 45.604 hồi phục.
+
+
+== Tiên lượng ==
+Dữ liệu ban đầu chỉ ra rằng trong số 41 trường hợp được xác nhận đầu tiên nhập viện tại Vũ Hán, có 13 (32%) cá nhân cần được chăm sóc đặc biệt và 6 (15%) đã chết. Trong số những người đã chết, nhiều người có sức khỏe không ổn định trước đó, biểu hiện các tình trạng như tăng huyết áp, tiểu đường hoặc bệnh tim mạch làm suy yếu hệ thống miễn dịch của họ.
+Trong các trường hợp đầu tiên của bệnh hô hấp cấp SARS-CoV-2 dẫn đến tử vong, thời gian trung bình để bệnh được phát hiện là 14 ngày, với tổng thời gian từ 6 đến 41 ngày.
+Theo WHO, dựa trên phân tích đối với 44.000 trường hợp mắc COVID-19 tại tỉnh Hồ Bắc, khoảng 80% người mắc bệnh nhẹ, 14% mắc bệnh nặng hơn như viêm phổi, 5% nguy kịch và 2% trường hợp tử vong.
+Trong số những người đã chết, nhiều người có các chứng trạng từ trước, bao gồm tăng huyết áp, tiểu đường hoặc bệnh tim mạch, và thời gian từ khi xuất hiện các triệu chứng ban đầu đến lúc tử vong trung bình là 14 ngày (khoảng từ 6 đến 41 ngày). Nam giới có tỷ lệ tử vong là 2,8%, trong khi nữ giới có tỷ lệ tử vong là 1,7%. Ở những người dưới 50 tuổi có nguy cơ tử vong thấp hơn 0,5%, trong khi những người trên 70 tuổi thì lại hơn 8%. Không có trường hợp tử vong nào xảy ra dưới 10 tuổi tính đến ngày 26 tháng 2 năm 2020.
+
+
+== Nghiên cứu ==
+
+
+=== Vắc-xin ===
+
+Hiện đã có vắc-xin phòng chống bệnh nhưng việc nghiên cứu phát triển vắc-xin vẫn tiếp tục được một số cơ quan đảm nhiệm. Những nghiên cứu trước đó về SARS-CoV được sử dụng tối ưu vì SARS-CoV-2 và SARS-CoV đều sử dụng thụ thể ACE2 để xâm nhập vào tế bào của con người. Có 3 chiến lược vắc-xin đang được nghiên cứu. Đầu tiên, các nhà nghiên cứu đang hướng đến tạo nên một vắc-xin toàn phần virus. Việc sử dụng virus đã bị làm yếu hoặc giết chết sẽ tạo nên phản ứng miễn dịch nhắc lại khi người đó bị nhiễm COVID-19. Chiến lược thứ hai, vắc-xin một phần virus, làm hệ miễn dịch mẫn cảm với một số thành phần của virus. Trong trường hợp của SARS-CoV-2, các nghiên cứu tập trung vào protein gai S giúp virus xâm nhập vào tế bào thông qua thụ thể ACE2. Chiến lược thứ ba là vắc-xin axit nucleic (vắc-xin DNA hoặc RNA, một kỹ thuật chế tạo vắc-xin mới). Các vắc-xin thử nghiệm từ một trong những chiến lược trên phải được kiểm nghiệm mức độ an toàn và hiệu quả.
+Vào ngày 16 tháng 3 năm 2020, thử nghiệm lâm sàng đầu tiên của vắc-xin bắt đầu với bốn tình nguyện viên tại thành phố Seattle, Hoa Kỳ. Vắc-xin chứa những đoạn gen vô hại được sao chép từ những con virus gây bệnh.
+Ngày 11 tháng 8 năm 2020, Tổng thống Nga tuyên bố đã nghiên cứu thành công vaccine COVID-19 đầu tiên trên thế giới, dự tính sẽ tung ra thị trường cuối năm 2020.
+
+
+=== Thuốc chống virus ===
+Hiện tại chưa có loại thuốc nào được phê duyệt để điều trị nhiễm virus corona ở người. Nghiên cứu về các phương pháp điều trị tiềm năng cho căn bệnh này đã được bắt đầu vào tháng 1 năm 2020 và một số loại thuốc chống virus đã được thử nghiệm lâm sàng. Mặc dù các loại thuốc hoàn toàn mới có thể mất đến năm 2021 để phát triển, một số loại thuốc có sẵn đang được thử nghiệm đã được phê duyệt cho các phác đồ điều trị chống virus khác hoặc đã được thử nghiệm nâng cao.
+Các loại thuốc chống virus đang được thử nghiệm bao gồm chloroquine; darunavir; galidesivir; interferon beta; hỗn hợp lopinavir/ritonavir; chất ức chế RNA polymerase remdesivir; và triazavirin. Umifenovir (Arbidol) và darunavir đã được đề xuất bởi Ủy ban Y tế Quốc gia.
+Kết quả sơ bộ từ một thử nghiệm ở nhiều trung tâm, được công bố trong một cuộc họp báo và được mô tả bởi Jianjun, Zhenxue và Xu, cho rằng chloroquine có hiệu quả và an toàn trong điều trị viêm phổi liên quan đến COVID-19, "cải thiện phát hiện hình ảnh phổi, thúc đẩy chuyển biến thành âm tính với virus và rút ngắn quá trình điều trị bệnh".
+
+
+== Tâm lý ==
+Ảnh hưởng về tâm lý có thể được gây nên bởi cảm giác bị mắc kẹt trong vụ dịch, bị hạn chế đi lại và bị cô lập. Vào cuối tháng 1 năm 2020, Ủy ban Y tế Quốc gia Trung Quốc đã công bố hướng dẫn cho toàn quốc về việc can thiệp khủng hoảng tâm lý cho SARS-CoV-2, chăm sóc sức khỏe tâm lý cho những người bị ảnh hưởng hoặc có liên hệ chặt chẽ với SARS-CoV-2, những người bị cô lập tại nhà, gia đình và bạn bè của những người bị ảnh hưởng, nhân viên y tế và công chúng.
+
+
+== Đặt tên ==
+Quá trình đặt tên bệnh đã được gọi là "hỗn loạn".
+Ngày 11 tháng 2 năm 2020, Tổ chức Y tế Thế giới đã đặt tên chính thức cho bệnh này là COVID-19, còn loại virus gây ra bệnh được gọi chính thức là SARS-CoV-2. Người đứng đầu Tổ chức Y tế Thế giới Tedros Adhanom cho biết "CO" là viết tắt của "corona", "VI" viết tắt của "virus", "D" là viết tắt của "disease" (dịch bệnh) và "19" là viết tắt của năm "2019", vì dịch bệnh lần đầu tiên được xác định vào cuối tháng 12 năm 2019. Tedros cho biết tên này được chọn để tránh ám chỉ đến một vị trí địa lý cụ thể (ví dụ: Trung Quốc), các loài động vật hoặc nhóm người, phù hợp với các khuyến nghị quốc tế về đặt tên nhằm ngăn chặn sự kỳ thị.
+
+
+== Tranh cãi về nguồn gốc xuất xứ của Virus SARS-CoV-2 ==
+Virus SARS-CoV-2 gây ra một loạt tranh cãi về nguồn gốc xuất xứ của nó. Có rất nhiều giả thuyết đặt ra về nguồn gốc xuất xứ thực sự của chủng virus corona mới này. Các giả thuyết đưa ra có thực sự SARS-Cov-2 xuất phát từ dơi như Trung Quốc công bố hay xuất phát từ phòng thí nghiệm tại Vũ Hán?
+Tổng thống Mỹ Donald Trump liên tục công kích, khẳng định trước truyền thông virus corona chủng mới thực tế là xuất phát từ phòng thí nghiệm của Trung Quốc, ông liên tục gọi SARS-CoV-2 là "virus Trung Quốc". Đồng quan điểm với Mỹ, Úc cũng liên tục đưa ra yêu cầu cần điều tra nguồn gốc thực sự của chủng virus này dẫn đến căng thẳng lớn với Trung Quốc.
+Giả thuyết người thợ mỏ Mặc Giang và nguồn gốc của virus corona 2019. Virus corona chủng mới (SARS-CoV-2) có thể đã xuất hiện và gây ra ba cái chết  cho các công nhân mỏ ở Trung Quốc từ năm 2012.
+Trước áp lực của nhiều quốc gia, WHO cuối cùng cũng có quyết định đến Trung Quốc điều tra nguồn gốc thực sự của SARS-CoV-2.
+Hiện tại, theo một số nghiên cứu, vật chủ trung gian của virus là tê tê hoặc dơi.
+
+
+== Xem thêm ==
+Bệnh virus corona, một nhóm các hội chứng có liên quan chặt chẽ với nhau
+Bệnh X, một thuật ngữ của WHO
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+ Tư liệu liên quan tới COVID-19 tại Wikimedia Commons
+COVID-19 Bệnh virus corona 2019 tại Encyclopædia Britannica (tiếng Anh)
+Coronavirus tại Encyclopædia Britannica (tiếng Anh)
+SARS Hội chứng hô hấp cấp tính nặng tại Encyclopædia Britannica (tiếng Anh)
+COVID-19 in 20 Questions tại Encyclopædia Britannica (tiếng Anh)

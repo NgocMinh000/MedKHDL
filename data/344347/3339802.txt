@@ -1,0 +1,84 @@
+Nhiễm trùng cơ hội (opportunistic infection) là nhiễm trùng do vi khuẩn, virus, nấm hoặc ký sinh trùng gây bệnh gây nên khi hệ thống miễn dịch của cơ thể vật chủ bị suy yếu hoặc hoặc do tăng độc lực của các loài vi sinh vật.
+Tác nhân gây nhiễm trùng cơ hội gọi là các vi sinh vật gây bệnh có điều kiện. Chúng có thể là vi sinh vật ký sinh - bình thường đã có khả năng gây bệnh hay cộng sinh hoặc hỗ sinh - bình thường không gây bệnh.
+
+
+== Nguyên nhân ==
+Suy giảm miễn dịch hoặc ức chế miễn dịch có thể do các nguyên nhân sau:
+
+Suy dinh dưỡng
+Suy kiệt cơ thể
+Tái phát nhiễm trùng.
+Sử dụng thuốc ức chế miễn dịch dành cho bệnh nhân ghép tạng.
+Lây nhiễm HIV.
+Hóa trị liệu ở bệnh nhân ung thư.
+Di truyền bẩm sinh.
+Tổn thương da
+Điều trị kháng sinh lâu ngày dẫn đến nguy cơ kháng kháng kháng sinh của một số loài vi sinh vật.
+Nhiễm trùng qua các kỹ thuật, vật dụng y tế.
+Mang thai 
+Lão hóa
+Giảm bạch cầu (Suy giảm bạch cầu và lympho)
+Việc thiếu hoặc biến ổn các khuẩn bình thường có trong âm đạo người phụ nữ dẫn đến sự phát triển của vi sinh vật cơ hội và sẽ gây ra các nhiễm trùng cơ hội - Viêm nhiễm âm đạo.
+
+
+== Các loại nhiễm trùng ==
+
+Danh sách những loài vi sinh vật gây nhiễm trùng cơ hội điển hình:
+
+Aspergillus sp.
+Candida albicans
+Clostridium difficile
+Coccidioides immitis
+Cryptococcus neoformans
+Cryptosporidium
+Cytomegalovirus
+Geomyces destructans (bats)
+Histoplasma capsulatum
+Isospora belli
+Polyomavirus JC polyomavirus, virus gây ra Progressive multifocal leukoencephalopathy.
+Kaposi's Sarcoma gây ra bởi Human herpesvirus 8 (HHV8), cũng gọi là Kaposi sarcoma-associated herpesvirus (KSHV)
+Legionnaires' Disease (Legionella pneumophila)
+Microsporidium
+Mycobacterium avium complex (MAC) (Nontuberculosis Mycobacterium)
+Mycobacterium tuberculosis
+Pneumocystis jirovecii, trước đây gọi là Pneumocystis carinii f. hominis
+Pseudomonas aeruginosa
+Salmonella
+Staphylococcus aureus
+Phế cầu khuẩn
+Streptococcus pyogenes
+Toxoplasma gondii
+
+
+== Phòng chống (Prevention) ==
+Từ khi nhiễm trùng cơ hội được cho là nguyên nhân gây những căn bệnh nghiêm trọng, nhiều biện pháp mạnh mẽ đã được thực hiện để ngăn ngừa nhiễm trùng. Một chiến lược dự phòng có hiệu quả bao gồm việc phục hồi hệ thống miễn dịch của cơ thể càng sớm càng tốt, tránh tiếp xúc với các tác nhân gây bệnh và sử dụng thuốc kháng sinh ("thuốc phòng chống") nhằm chống lại những nhiễm trùng cụ thể.
+
+
+=== Phục hồi hệ thống miễn dịch ===
+Ở những bệnh nhân nhiễm HIV, bắt đầu quản lý điều trị HIV/AIDS là đặc biệt quan trọng để khôi phục lại hệ thống miễn dịch và làm giảm tỷ lệ mắc các bệnh nhiễm trùng cơ hội 
+Ở những bệnh nhân hóa trị liệu, hoàn thành và thu hồi từ việc điều trị là phương pháp chính để phục hồi hệ thống miễn dịch. Trong một số bệnh nhân có nguy cơ cao, granulocyte colony stimulating factors (G-CSF) có thể được sử dụng để hỗ trợ phục hồi hệ thống miễn dịch
+.
+
+
+=== Phòng tránh phơi nhiễm ===
+Phân mèo nguồn gốc của Toxoplasma gondii, Bartonella spp.
+Ăn thịt hoặc trứng nấu chưa chín, các sản phẩm từ sữa chưa tiệt trùng hoặc nước trái cây nguồn tiềm năng của bệnh lao (cơ sở y tế có nguy cơ cao, vùng có tỷ lệ cao của bệnh lao, bệnh nhân lao được biết đến)
+Tiếp xúc với vật nuôi, đặc biệt là những con vật có tiêu chảy: nguồn gốc của Toxoplasma gondii, Cryptosporidium parvum
+Đất / bụi trong khu vực có histoplasmosis, coccidiomycosis
+Bò sát, gà, vịt: nguồn gốc của Salmonella spp.
+Quan hệ tình dục không an toàn với những người có bệnh lây truyền qua đường tình dục. Thực hành quan hệ tình dục an toàn.
+
+
+=== Thuốc phòng ngừa ===
+Cá nhân có nguy cơ cao thường được kê thuốc dự phòng để ngăn ngừa nhiễm trùng xảy ra. Mức độ rủi ro mà bệnh nhân có thể gặp phải do sự phát triển của một nhiễm trùng cơ hội được phát hiện bằng cách đếm tế bào CD4 của bệnh nhân và đôi khi cần đến các dấu hiệu nhạy cảm khác. Phương pháp điều trị dự phòng phổ biến bao gồm:
+
+
+== Điều trị ==
+Điều trị tùy thuộc vào loại nhiễm trùng cơ hội, nhưng thường sử dụng đến thuốc kháng sinh.
+
+
+== Điều trị thú y ==
+Nhiễm trùng cơ hội do Virus Feline Leukemia và Virus Feline immunodeficiency retroviral có thể được điều trị bằng Lymphocyte T-Cell Immune Modulator.
+
+
+== Tham khảo ==

@@ -1,0 +1,91 @@
+Khiếm thính là tình trạng một người hoặc một động vật có thính giác kém trong khi cá thể khác cùng một loài có thể nghe thấy âm thanh đó dễ dàng. Bệnh do nhiều yếu tố khác nhau, bao gồm tuổi tác, tiếng ồn, bệnh tật, hóa chất và các chấn thương vật lý.
+Tiếng Việt thông thường dùng những danh từ như điếc hoặc lãng tai để chỉ trường hợp khiếm thính.
+
+
+== Phân loại ==
+Vị trí tổn thương:
+Khiếm thính tiếp nhận: tổn thương tai ngoài và tai giữa.
+Khiếm thính dẫn truyền: tổn thương tai trong
+Khiếm thính hỗn hợp: tổn thương cả tai ngoài, tai giữa, tai trong.
+Khiếm thính trung ương: dây thần kinh số 8, tổn thương ở não.
+Cường độ âm thanh có thể nghe được.
+Nghe kém nhẹ: Không nghe được tiếng nói thầm. Khó nghe được tiếng nói ở những nơi ồn.
+Nghe kém trung bình: Không nghe được tiếng nói thầm và tiếng nói thường. Rất khó nghe được tiếng nói ở những nơi ồn
+Nghe kém nặng: Không nghe được ngay cả tiếng nói lớn. Các cuộc nói chuyện được thực hiện rất khó khăn với nhiều nỗ lực. Mức độ này còn gọi dân dã là "lãng tai".
+Nghe kém sâu: Không nghe được ngay cả khi hét sát vào tai. Nếu không sử dụng thiết bị trợ thính thì không thể giao tiếp. Mức độ này còn gọi dân dã là "điếc đặc".
+Thính lực đồ là đồ thị mô tả khả năng nghe. Trong quá trình kiểm tra, thính lực của bạn sẽ được kiểm tra ở các tần số khác nhau. Kết quả kiểm tra được thể hiện trên một đồ thị.
+
+
+== Nguyên nhân ==
+Các yếu tố sau là nguyên nhân chính gây điếc.
+
+
+=== Tuổi ===
+Có sự diễn tiến về sự mất dần khả năng nghe tần số cao khi tuổi càng tăng. Yếu tố này bắt đầu đầu giai đoạn trưởng thành, nhưng không Điều này bắt đầu ở tuổi trưởng thành sớm, nhưng thường không gây trở ngại cho khả năng hiểu khi đàm thoại cho đến sau này. Mặc dù yếu tố di truyền đó đồng phát bình thường của sự lão hóa và là khác biệt với bệnh điếc gây ra do tiếp xúc với tiếng ồn, chất độc hoặc tác nhân gây bệnh.
+
+
+=== Ồn ===
+Ồn là nguyên nhân gây ra phân nửa trường hợp điếc, gây điếc ở nhiều cấp chiếm khoảng 5% dân số toàn cầu.
+Những người sống gần các sân bay, đường cao tốc phải chịu ảnh hưởng của tần số 65 đến 75 dB(A). Nếu cách sống chủ yếu ở ngoài trời hoặc các điều kiện mở cửa, những tiếp xúc này theo thời gian có thể gây giảm thích lực. Cơ quan bảo vệ môi trường Hoa Kỳ và nhiều bang khác đã đưa ra nhiều tiêu chuẩn về tiếng ồn để bảo vệ sức khỏe người dân. EPA xác định mức 70 dB(A) tiếp xúc trong 24 giờ là ngưỡng cần thiết để bảo vệ khỏi điếc và các ảnh hưởng khác từ tiếng ồn, như rối loạn giấc ngủ, các vấn đề liên quan đế căng thẳng,... (EPA, 1974).
+Điếc do tiếng ồn tập trung ở các tần số 3000, 4000, hoặc 6000 Hz. Khi tổn thương do tiếng ồn phát triển, tổn thương sẽ ảnh hưởng tiếp đối với các tần số thấp hơn và cao hơn. Trên thính lực đồ, cấu hình kết quả có một sắc đặc biệt, đôi khi được gọi là một "tiếng ồn tắt." Khi lão hóa và các hiệu ứng khác góp phần làm mất tần số cao hơn (6–8 kHz trên thính lực đồ), vùng tắt này có thể được che khuất và hoàn toàn biến mất.
+Các hạ âm câu tổn thương trong khoảng thời gian ngắn hơn. Ước tính thời gian "an toàn" tiếo xúc có thể sử dụng tỷ lệ trao đổi 3 dB. Vì 3 dB đại diện cho tăng cường độ âm gấp đôi, thời gian tiếp xúc phải bị cắt xuống còn phân nửa để duy trì cùng liệu năng lượng. Ví dụ, an toàn tiếp xúc hàng ngày ở dBA trong 8 giờ, trong khi an toàn tiếp xúc ở 91 dB(A) chỉ trong 2 giờ Chú ý rằng đối với một số người, âm thanh có thể đang gây tổn thương thậm chí ở các mức dưới 85 dBA.
+Một vài tổ chức an toàn và Y tế Hoa Kỳ (như OSHA, và MSHA), sử dụng tỉ số chuyển đổi 5 dB. Trong khi tỉ số chuyển đổi này rất đơn giản để sử dụng, nó đánh giá một cách mạnh mẽ sự tổn thương gây ra nởi tiếng ồn rất lớn. Ví dụ, ở 115 dB, tỷ số chuyển đổi 3 dB có thể giới hạn tiếp xúc trong khoảng nửa phút; tỉ số chuyển đổi 5 dB cho phép 15 phút.
+Ở Hoa Kỳ, 12.5% trẻ em ở tuổi 6-19 bị tổn thương thính giác khi tiếp xúc với tiếng ồn quá mức.
+
+
+=== Di truyền ===
+Mất thính lực có thể được di truyền. Khoảng 75–80% tất cả các ca là di truyền bởi gen lặn, 20–25% là di truyền bởi gen trội, 1–2% là di truyền bởi cha mẹ liên quan đến gen X, và ít hơn 1% là di truyền từ thừa kế ti thể.
+Khi xem xét các gen người điếc, có 2 dạng khác nhau gồm có hội chứng và không có hội chứng. Trường hợp này chiếm khoảng 30% số cá thể điếc trên quan điểm di truyền. Điếc không hội chứng xuất hiện khi không có những vấn đề khác liên quan đến các cá thể khác hơn là điếc. Trên quan điểm di truyền, điều này giải thích cho hơn 70% trường hợp khác có thuộc tính cho phần lớn các trường hợp điếc di truyền. Các trường hợp hội chứng xảy ra với các bệnh và hội chứng như: hội chứng Usher, Stickler, hội chứng Waardenburg, hội chứng Alport và Neurofibromatosis type 2. Đây là các bệnh mà điếc là một trong những triệu chứng hoặc đặc điểm thông thường liên quan đến nó. Các yếu tố di truyền tương ứng với nhiều bệnh khác nhau này là rất phức tạp và khó giải thích một cách khoa học do nguyên nhân không được biết đến. Trong các trường hợp không hội chứng mà bệnh điếc chỉ là một triệu chứng nhìn thấy ở các thể dễ dàng hơn để xác định các gen vật lý.
+
+
+=== Bẩm sinh ===
+Theo bệnh viện FV, việc phát hiện sớm điếc bẩm sinh, đặc biệt trong sáu tháng đầu đời, và can thiệp sớm có thể giúp trẻ phát triển ngôn ngữ và nói chuyện bình thường. Thực tế cho thấy, cứ 1000 trẻ sinh ra thì có từ 4-5 trẻ khiếm thính bẩm sinh, trong đó có 1-2 trẻ bị khiếm thính nặng. Có rất nhiều nguyên nhân gây khiếm thính ở trẻ như mẹ bệnh trong thời gian mang thai, vợ chồng đồng huyết thống, ngộ độc thuốc…, có khoảng 15 % là do di truyền và 30% không rõ nguyên nhân.
+
+
+=== Bệnh ===
+
+
+==== Rối loạn thần kinh ====
+
+
+=== Thuốc ===
+
+
+=== Hóa chất ===
+
+
+=== Chấn thương vật lý ===
+
+
+=== Các yếu tố thần kinh ===
+
+
+== Dịch tễ học ==
+
+Khiếm thích toàn cầu ảnh hưởng khoảng 10% dân số ở những cấp khác nhau. Nó gây bệnh tật trung bình đến nghiêm trọng khoảng 124,2 triệu người năm 2004 (107,9 triệu ở các nước thu nhập thấp và trung bình). Trong số này 65 triệu bị lúc còn nhỏ. Khi sinh có tỉ lệ ~3/1000 ở các nước phát triển và hơn 6/1000 ở các nước đang phát triển có các vấn đề về tai.
+
+
+== Xem thêm ==
+Câm
+Khuyết tật phát triển
+Khiếm thị
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+
+Specialist Library for ENT and Audiology Lưu trữ 2010-01-12 tại Wayback Machine High quality research and patient information on audiology and hearing impairment
+American Hearing Research Foundation Northwestern University's partner in leading hearing research in the United States.
+GeneReviews/NCBI/NIH/UW entry on Deafness and Hereditary Hearing Loss Overview
+Australian Federation of Deaf Societies Lưu trữ 2009-10-23 tại Wayback Machine - Also called AFDS, the peak body for Deaf services in Australia.
+Hard of Hearing Advocates Lưu trữ 2009-06-05 tại Wayback Machine Non-profit foundation dedicated to helping those with hearing loss
+http://www.direct.gov.uk/disability Directgov disabled people - UK Govt information
+World Health Organization fact sheet on deafness and hearing impairment
+National Association of the Deaf. The NAD protects deaf and hard of hearing civil rights.
+International Federation of Hard Of Hearing Young People
+Hearing Loss Association of America Nations Voice for People with Hearing Loss
+Stop CMV - The CMV Action Network Congenital CMV is a leading cause of hearing impariment.
+NIOSH Power Tools Database Lưu trữ 2009-11-12 tại Wayback Machine The database gives information about sound power levels and sound pressure levels for various power tools.
+NIOSH Hearing Loss Prevention Strategic Goals

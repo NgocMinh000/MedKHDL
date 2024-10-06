@@ -1,0 +1,29 @@
+Trật tự từ (chữ Anh: Word order) là thứ tự tổ hợp từ và ngữ trong ngôn ngữ, bao gồm thứ tự sắp xếp chủ ngữ, vị ngữ và tân ngữ, thứ tự sắp xếp tu sức ngữ và trung tâm ngữ, thứ tự sắp xếp giữa các tu sức ngữ. Dựa vào thứ tự sắp xếp chủ ngữ, vị ngữ và tân ngữ, ta có thể chia làm sáu loại hình: SOV, SVO, VSO, VOS, OVS và OSV. 
+
+
+== Thành phần cấu tạo trật tự từ ==
+Phương pháp sắp xếp chủ từ, thụ từ và động từ tổng cộng có sáu loại, dưới đây lấy S đại diện chủ từ (chủ ngữ), V đại diện động từ (vị ngữ), O đại diện thụ từ (tân ngữ), sắp xếp theo trật tự từ thường sử dụng nhất cho đến trật tự từ ít sử dụng nhất: 
+
+SOV, có tiếng Hi Lạp cổ đại, tiếng Phạn, tiếng Pali, tiếng Ba Tư, tiếng Bengali, tiếng Nhật, tiếng Hàn, tiếng Tạng, tiếng Miến Điện, tiếng Tamil, tiếng Kannada, tiếng Malayalam, tiếng Thổ Nhĩ Kì, tiếng Basque, v.v, ngôn ngữ nhân tạo Logic ngữ sử dụng trật tự từ SOV cũng là cách dùng đáng được đón nhận, tuy nhiên ở trong Logic ngữ, trật tự từ SVO tương đối hay sử dụng, chi tiết vui lòng xem ngữ pháp Logic ngữ (en); trong tiếng Trung Quốc cũng có trật tự từ kiểu này, ví dụ như câu chữ 把 (把月饼分五份 đem bánh trung thu chia làm năm phần); ngoài ra, tiếng Latinh - ngôn ngữ về cơ bản có trật tự từ tự do, cũng hay sử dụng thứ tự này nhất, mặc dù sáu loại trật tự từ đều có thể dùng; tiếng Đức và tiếng Hà Lan lấy SOV coi là trật tự từ thứ yếu (dùng trong mệnh đề phụ thuộc); tiếng Pháp, tiếng Tây Ban Nha, tiếng Ý,... cũng sử dụng trật tự từ SOV khi thụ từ là đại từ. Đáng chú ý là, trẻ em đang học nói, trước ba tuổi đều sử dụng SOV, và các thủ ngữ trên toàn cầu "không hẹn mà gặp" là đều chọn dùng trật tự từ SOV.
+SVO, có tiếng Anh, tiếng Pháp, tiếng Ý, tiếng Tây Ban Nha, tiếng Hungary, tiếng Nga, tiếng Trung Quốc, tiếng Việt, tiếng Thái, tiếng Khmer, tiếng Mã Lai, tiếng Indonesia, tiếng Java, tiếng Swahili, tiếng Kʼicheʼ; ngôn ngữ nhân tạo Thế giới ngữ, Logic ngữ; các ngôn ngữ thuộc ngữ hệ Niger–Congo; tiếng Creole.
+VSO, có tiếng Amis, tiếng Bunun (en), tiếng Tagalog, tiếng Ả Rập cổ điển (en), tiếng Hebrew Kinh Thánh (en), các ngôn ngữ thuộc ngữ hệ Maya, tiếng Ireland, tiếng Wales, cùng với một số ngôn ngữ thuộc ngữ chi Celt Hải đảo,...
+VOS, có tiếng Seediq, tiếng Fiji, tiếng Malagasy, tiếng Java cổ đại, tiếng Tzotzil (en),...
+OVS, có tiếng Hixkaryana, ngôn ngữ nhân tạo tiếng Klingon. Loại trật tự từ này tối thiểu được ngôn ngữ tự nhiên của con người sử dụng, thể bị động của rất nhiều ngôn ngữ có trật tự từ SVO chính là OVS (ngoại trừ tiếng Trung Quốc).
+OSV, có tiếng Xavante, tiếng Warao, người Sardinia khi nói tiếng Ý thường hay sử dụng trật tự từ này, tiếng Anh (đặc biệt là tiếng Anh của nhân vật Yoda trong phim điện ảnh Chiến tranh giữa các vì sao càng sử dụng trật tự từ này), tiếng Trung Quốc (chủ yếu liên quan với ngôn ngữ nổi bật chủ đề) có lúc sử dụng trật tự từ này, ngôn ngữ nhân tạo tiếng Klingon đôi lúc cũng sử dụng trật tự từ này.
+Phi cố định, có tiếng Paiwan, tiếng Latinh, tiếng Phần Lan, tiếng Telugu,... loại ngôn ngữ này thông thường có sẵn hệ thống đánh dấu cách vị hoặc biến đổi cách vị tương đối hoàn chỉnh.
+Tiếng Đức và tiếng Hà Lan, khi mệnh đề chính chỉ có một động từ thì trật tự từ của nó có thể coi là SVO, nhưng nếu mệnh đề chính có từ hai động từ hoặc mệnh đề phụ thuộc trở lên thì trật tự từ của nó là SOV, ngữ pháp liên quan đến hai loại ngôn ngữ này vui lòng xem thêm trật tự từ V2 (en).
+Bảng biểu bên dưới cho thấy số lượng ngôn ngữ và tỉ lệ phần trăm vào năm 2013 và 2015 do Matthew Dryer điều tra. Nghiên cứu năm 2005 đã điều tra ra 1.228 ngôn ngữ, nghiên cứu mới hơn vào năm 2013 đã điều tra ra 1.377 ngôn ngữ. Trong nghiên cứu của ông Dryer không có báo cáo tỉ lệ phần trăm.
+
+
+== Vị trí trung tâm ngữ ==
+Ngôn ngữ thuộc trật tự từ SOV (và các ngôn ngữ khác có trật tự từ là tân ngữ nằm trước vị ngữ) có khuynh hướng đem tính từ đặt trước danh từ, trật tự từ loại này gọi là trung tâm ngữ đặt sau; ngôn ngữ thuộc trật tự từ VSO (và các ngôn ngữ khác có trật tự từ là vị ngữ nằm trước tân ngữ) thì ngược lại, có khuynh hướng đem tính từ đặt sau danh từ, trật tự từ loại này gọi là trung tâm ngữ đặt trước. Đối với ngôn ngữ thuộc trật tự từ SVO mà nói, cách sắp xếp trung tâm ngữ đặt sau và trung tâm ngữ đặt trước đều thường thấy.
+
+Tiếng Nhật (trật tự từ SOV, trung tâm ngữ đặt sau): 黒い猫
+Tiếng Anh (trật tự từ SVO, trung tâm ngữ đặt sau): The black cat
+Tiếng Pháp (trật tự từ SVO, trung tâm ngữ đặt trước): Le chat noir
+
+
+== Chú thích ==
+
+
+== Xem thêm ==

@@ -1,0 +1,63 @@
+Sulfacetamide là một loại kháng sinh sulfonamid.
+
+
+== Công dụng ==
+Sulfacetamide 10% kem dưỡng da tại chỗ, được bán dưới tên thương hiệu Klaron hoặc Ovace, được chấp thuận để điều trị mụn trứng cá và viêm da tiết bã. Khi kết hợp với lưu huỳnh, nó được bán dưới tên thương hiệu Plexion, Clenia, Prascion và Avar, chứa 10% sulfacetamide và 5% lưu huỳnh.
+Một số nghiên cứu chỉ ra rằng các dẫn xuất sulfacetamide có thể hoạt động như thuốc chống nấm theo cơ chế phụ thuộc CYP51A1.
+
+
+== Cấu trúc và tính chất hóa học ==
+Đây là những hợp chất hữu cơ chứa một nửa benzenesulfonamide với một nhóm amin gắn vào vòng benzen. Cấu trúc phân tử là C8H10N2O3S. Tên khoa học của nó là N-(4-aminophenyl) sulfonylacetamide. Ở nhiệt độ phòng, nó xuất hiện dưới dạng bột trắng.
+
+
+== Phản ứng giáng hóa và sự ổn định ==
+Sulfacetamide ổn định dưới nhiệt độ và áp suất bình thường. Không có phản ứng nguy hiểm xảy ra trong điều kiện sử dụng bình thường. Nó là một tác nhân kìm khuẩn quan trọng thường được sử dụng trong y học cho người và thú y. Do đó nó có thể tích lũy trong môi trường (chủ yếu là nước mặt).
+Nó có tuổi thọ dài trong môi trường nên các phản ứng thoái hóa khác nhau được nghiên cứu:
+Sự phân hủy xúc tác của sulfacetamide trong dung dịch nước trong quá trình chiếu sáng bức xạ UV với TiO 2 đã được kiểm tra. Người ta đã phát hiện ra rằng sulfacetamide có khả năng chống phân hủy sinh học và nó độc hại với tảo lục Chlorella Vulgaris. Nó trải qua quá trình phân hủy quang xúc tác và độc tính của các sản phẩm trung gian thấp hơn đáng kể so với độc tính ban đầu. Các chất trung gian có thể được khoáng hóa tương phản với sulfacetamide.
+Sulfonamid → sản phẩm trung gian hữu cơ (thoái hóa) (có mặt OH -). 
+
+Ở nhiệt độ cao hơn, các dung dịch sulfacetamide phân hủy thành sản phẩm thủy phân của nó, sulphanilamide với hằng số tốc độ bậc nhất.
+Ngoài ra quá trình oxy hóa sulfacetamide bằng diperiodatocupat (lll) trong môi trường kiềm nước có thể xảy ra. Đồng (lll) được sử dụng, vì nó tham gia vào nhiều phản ứng chuyển điện tử sinh học.
+Sulphanilamide có thể oxy hóa thành sản phẩm màu xanh với phản ứng bậc một và nó có thể tạo thành thuốc nhuộm azo với phản ứng bậc hai.
+
+
+== Các dạng có sẵn ==
+Sulfacetamide như một loại thuốc có sẵn dưới dạng dung dịch, thuốc nhỏ mắt, kem dưỡng da và bột. Nó cũng có thể được tìm thấy ở dạng muối natri, sulfacetamide natri.
+
+
+== Cơ chế hoạt động ==
+Sulfacetamide là một loại kháng sinh sulfonamid. Sulfonamid là kháng sinh kìm khuẩn tổng hợp, có hoạt tính chống vi khuẩn gram dương và gram âm. Nó ngăn chặn sự tổng hợp axit dihydrofolic bằng cách ức chế enzyme dihydropteroate synthase. Nó là một chất ức chế cạnh tranh của axit para-aminobenzoic (PABA). PABA là cần thiết cho sự tổng hợp vi khuẩn của axit folic và nó là một thành phần thiết yếu cho sự phát triển của vi khuẩn. Do đó sự nhân lên của vi khuẩn bị ức chế bởi tác dụng của sulfacetamide.
+
+
+== Biến đổi sinh học ==
+Sulfacetamide được hấp thu qua đường uống. Sự hấp thu qua đường uống của sulfacetamide được tìm thấy là 100%  và liên kết với protein huyết tương là 80. Trong gan nó được chuyển hóa thành các chất chuyển hóa không hoạt động. Thời gian bán hủy trong huyết tương là 7 - 12,8 giờ.
+Sulfonamid thường được chuyển hóa theo một số con đường oxy hóa, acetyl hóa và liên hợp với sulfat hoặc axit glucuronic. Tuy nhiên, có một số khác biệt về biến đổi sinh học giữa các loài nhất định. Acetyl hóa, làm giảm khả năng hòa tan của sulfonamid, ví dụ như kém phát triển ở chó. Các dạng acetylated, hydroxylated và liên hợp có ít hoạt động kháng khuẩn. Hơn nữa, các dạng hydroxyl hóa và liên hợp ít có khả năng kết tủa trong nước tiểu. Quá trình thủy phân diễn ra bởi tác động của amidase.
+Nó được bài tiết chủ yếu qua nước tiểu. Các tuyến tiết ít quan trọng là mật, phân, sữa và mồ hôi. Lọc cầu thận, bài tiết ở ống chủ động và tái hấp thu ở ống là những quá trình chính liên quan.
+
+
+== Hiệu quả ==
+Sulfacetamide là một loại kháng sinh sulfonamid, được sử dụng làm kem để điều trị nhiễm trùng da và làm thuốc nhỏ mắt để điều trị nhiễm trùng mắt. Trên da nó được sử dụng để điều trị mụn trứng cá và viêm da tiết bã. Ở dạng kem, nó được sử dụng để điều trị nhiễm khuẩn trên da. Nó cũng có thể được sử dụng bằng đường uống để điều trị nhiễm trùng đường tiết niệu. Nó giết chết vi khuẩn bằng cách hạn chế sản xuất axit folic, rất cần thiết cho sự phát triển của vi khuẩn. Nó chủ yếu ức chế sự nhân lên của vi khuẩn vì nó hoạt động trong một chất ức chế cạnh tranh.
+
+
+== Tác dụng phụ ==
+Sulfacetamide không nên được sử dụng bởi những người có độ nhạy cảm với lưu huỳnh hoặc sulfa.
+
+
+== Độc tính ==
+Độc tính cấp tính bằng miệng (LD50) ở chuột là 16,5 g/kg. Vì loại này nằm trong Loại độc tính IV của xếp loại độc tính đối với đường uống, nó thực tế không độc hại và cũng không gây kích ứng khi dùng bằng đường uống. Tuy nhiên, nó rất nguy hiểm trong trường hợp tiếp xúc với da (gây kích ứng), nuốt phải và hít phải.
+Nghiên cứu đã chứng minh rằng nó độc hại hơn khi có ánh sáng so với trong bóng tối. Sulfacetamide hơi khó chịu khi có tia UV-A. Trong sự hiện diện của sulfacetamide ánh sáng bị nhạy cảm và xuống cấp có thể gây kích ứng sẽ dẫn đến độc tính khi sử dụng liên tục. Trong bóng tối chỉ có sự kích thích nhẹ đã được hiển thị. Do đó, nó nên được lưu trữ trong bóng tối.
+Không có tác dụng gây ung thư và gây đột biến. Nó có độc tính vừa phải theo xếp hạng nguy hiểm của Chemwatch.
+
+
+== Các biện pháp sơ cứu ==
+
+
+== Ảnh hưởng đến sinh vật ==
+Sulfonamid thường có hiệu quả đối với hầu hết các vi khuẩn gram dương và nhiều vi khuẩn gram âm. Cụ thể vi khuẩn đường ruột và vi khuẩn eubacteria khác bị ảnh hưởng bởi kháng sinh vì nó giết chết vi khuẩn bằng cách hạn chế sản xuất axit folic, rất cần thiết cho sự tăng trưởng của chúng. Tuy nhiên, các chủng vi khuẩn có thể kháng kháng sinh. Nếu một vi khuẩn kháng với sulfonamid, nó kháng tất cả các dạng. Hơn nữa, sulfacetamide gây độc cho sinh vật đất.
+
+
+== Tổng hợp ==
+Sulfacetamide được tổng hợp bằng cách acetyl hóa trực tiếp acetamide với 4-aminobenzenesulfonyl chloride, hoặc bằng cách phản ứng với 4-aminobenzenesulfonamide với anhydrid acetic và khử acetyl khử acetyl chọn lọc sau đó.
+
+
+== Tham khảo ==

@@ -1,0 +1,52 @@
+Bất hoạt virus là việc ngăn chặn virus trong một mẫu nhất định không cho nó làm ô nhiễm sản phẩm mong muốn bằng cách loại bỏ virus hoàn toàn hoặc làm cho chúng không thể lây nhiễm. Những kỹ thuật này được sử dụng rộng rãi trong ngành công nghiệp thực phẩm và huyết tương, vì những sản phẩm đó có thể bị tổn hại do sự hiện diện của các phần tử virus. Một số loại virus phổ biến hơn được loại bỏ bằng các phương pháp này là virus HIV-1 và HIV-2; viêm gan A, B và C; và parvovirus. Các phương pháp này đã được điều chỉnh để loại bỏ prion, vốn không liên quan đến virus, khỏi các sản phẩm máu.
+
+
+== Loại bỏ ==
+Quá trình tổng thể này, được gọi đơn giản là loại bỏ virus, là một quá trình trong đó tất cả các virus trong một mẫu nhất định được loại bỏ bằng phương pháp chiết xuất truyền thống hoặc [năng lượng đầy đủ]. Một số phương pháp nổi bật hơn bao gồm:
+
+Lọc nano
+Sắc ký
+Các quy trình chiết xuất này được coi là "quy trình truyền thống" vì chúng không ảnh hưởng đến virus về mặt hóa học theo bất kỳ cách nào; các quá trình này chỉ đơn giản là loại bỏ chúng ra khỏi mẫu.
+
+
+=== Lọc nano ===
+Các quy trình loại bỏ virus sử dụng kỹ thuật lọc nano loại bỏ virus cụ thể bằng cách loại trừ do chênh lệch kích thước. Loại quy trình này thường được sử dụng cho parvovirus và các loại virus khác có chứa lớp vỏ protein. Virion điển hình của HIV là 180 nm và một loại virus parvovirus điển hình có thể thay đổi từ 15 đến 24 nm, là rất nhỏ. Một ưu điểm lớn của phương pháp lọc, trái ngược với các phương pháp liên quan đến nhiệt độ hoặc độ acid, là quá trình lọc sẽ không làm biến tính các protein trong mẫu. Lọc nano cũng có hiệu quả đối với hầu hết các loại protein. Vì nó không chọn lọc về mặt hóa học, cho dù tính chất hóa học bề mặt của hạt virus là gì, thì các quy trình loại bỏ virus bằng kỹ thuật lọc nano vẫn sẽ có hiệu quả. Một ưu điểm lớn khác của kỹ thuật này là khả năng thực hiện ở quy mô phòng thí nghiệm và sau đó được mở rộng hiệu quả theo tiêu chuẩn sản xuất. Tuy nhiên, điều quan trọng cần xem xét là mức độ loại bỏ virus phụ thuộc vào kích thước lỗ của bộ lọc nano. Trong một số trường hợp, các virus rất nhỏ sẽ không được lọc ra. Cũng cần phải xem xét các ảnh hưởng có thể có của sự thay đổi áp suất và tốc độ dòng chảy.
+Một số bộ lọc được sử dụng để thực hiện các loại quy trình này là Planova 15N, Planova 20N, BioEX, VAG - 300, Viresolve 180, Viresolve 70TM và Virosart.
+
+
+=== Sắc ký ===
+Các phương pháp sắc ký loại bỏ virus là rất phù hợp để làm sạch protein và cũng có hiệu quả chống lại tất cả các loại virus, nhưng mức độ loại bỏ virus phụ thuộc vào thành phần cột và thuốc thử được sử dụng trong quy trình. Hiệu quả của quá trình này có thể khác nhau rất nhiều giữa các loại virus và hiệu quả của nó có thể thay đổi dựa trên bộ đệm được sử dụng. Vấn đề vệ sinh giữa các mẻ trộn cũng là điều cần lưu ý khi thực hiện quy trình này.
+Phương pháp sắc ký màng ngày càng phổ biến để làm sạch và loại bỏ virus.
+
+
+== Bất hoạt hóa ==
+Việc vô hiệu hóa virus khiến cho virus không thể lây nhiễm. Nhiều loại virus có lớp vỏ lipid hoặc protein có thể bị bất hoạt bằng sự biến đổi hóa học. Quá trình bất hoạt virus khác với loại bỏ virus bởi vì, trong quá trình bất hoạt, tính hóa học bề mặt của virus bị thay đổi và trong nhiều trường hợp, các phần tử virus (bây giờ không lây nhiễm) vẫn còn trong sản phẩm cuối cùng. Thay vì chỉ làm cho virus không hoạt động, một số quá trình bất hoạt virus thực sự làm biến tính virus hoàn toàn. Quá trình khử hoạt tính của virus được sử dụng rộng rãi trong ngành công nghiệp huyết tương.
+Để đạt được sự bất hoạt của các virus trong mẫu, cần phải thực hiện các quá trình thanh lọc "đặc biệt" để làm thay đổi virus về mặt hóa học theo một cách nào đó. Một số quy trình được sử dụng rộng rãi hơn như sau:
+
+Bất hoạt hóa dùng dung môi/chất tẩy rửa
+Thanh trùng (gia nhiệt)
+Bất hoạt hóa dùng pH có tính acid
+Trong một số trường hợp, bất hoạt virus không phải là một giải pháp thay thế loại bỏ khả thi vì ngay cả các phần tử virus bị biến tính hoặc bất hoạt khác cũng có thể gây ra những ảnh hưởng có hại đến quá trình xử lý hoặc bản thân sản phẩm.
+
+
+=== Bất hoạt hóa dùng dung môi/chất tẩy rửa ===
+Quy trình này, được Trung tâm Máu New York phát triển là phương pháp bất hoạt virus được sử dụng rộng rãi nhất cho đến nay. Nó chủ yếu được sử dụng trong ngành công nghiệp huyết tương, bởi hơn 50 tổ chức trên toàn thế giới và bởi Hội Chữ thập đỏ Hoa Kỳ. Tuy nhiên, quá trình này chỉ có hiệu quả đối với các virus được bao bọc trong một lớp màng lipid. Các chất tẩy rửa được sử dụng trong phương pháp này làm gián đoạn sự tương tác giữa các phân tử trong lớp phủ lipid của virus. Hầu hết các virus được bao bọc không thể tồn tại nếu không có lớp phủ lipid của chúng, do đó chúng sẽ bị tiêu diệt khi tiếp xúc với các chất tẩy rửa này. Các virus khác có thể không bị tiêu diệt nhưng chúng không thể sinh sản khiến chúng không bị lây nhiễm. Dung môi tạo ra một môi trường trong đó phản ứng kết tụ giữa lớp lipid và chất tẩy rửa diễn ra nhanh hơn. Chất tẩy rửa thường được sử dụng là Triton X-100.
+
+Quá trình này có nhiều ưu điểm của các kỹ thuật loại bỏ "truyền thống". Quá trình này không làm biến tính protein, vì chất tẩy rửa chỉ ảnh hưởng đến lipid và các dẫn xuất của lipid. Quá trình này có thể giết chết 100% virus và thiết bị tương đối đơn giản và dễ sử dụng. Thiết bị được thiết kế để làm sạch vật liệu bất hoạt sau virus nhằm bảo vệ chống lại sự nhiễm bẩn cho các dòng quy trình tiếp theo.
+Việc xử lý dùng dung môi/chất tẩy sử dụng các hóa chất có sẵn và tương đối rẻ tiền, nhưng các hóa chất này phải được loại bỏ khỏi sản phẩm trước khi phân phối, điều này sẽ đòi hỏi các bước quy trình bổ sung. Bởi vì quá trình này loại bỏ/bất hoạt lớp bao lipid của virus, các virus không có bất kỳ loại vỏ lipid nào sẽ không bị ảnh hưởng. Không có hiệu ứng vô hiệu hóa bởi các dung dịch đệm được sử dụng trong quá trình này.
+
+
+=== Thanh trùng ===
+Việc khử hoạt tính của virus bằng phương pháp thanh trùng có thể rất hiệu quả nếu các protein mà bạn đang cố gắng bảo vệ có khả năng chịu nhiệt tốt hơn các tạp chất virus có trong dung dịch. Một số ưu điểm nổi bật hơn của các loại quy trình này là chúng yêu cầu thiết bị đơn giản và chúng có hiệu quả đối với cả virus được bao bọc và không được bao bọc. Vì quá trình thanh trùng liên quan đến việc tăng nhiệt độ của dung dịch đến một giá trị đủ để làm biến tính virus, nên việc virus có bao bọc hay không không quan trọng vì chỉ có vỏ bọc không thể bảo vệ virus khỏi nhiệt độ cao như vậy. Tuy nhiên, có một số protein được phát hiện hoạt động như chất ổn định nhiệt đối với virus. Tất nhiên, nếu protein đích không chịu nhiệt, việc sử dụng kỹ thuật này có thể làm biến tính protein đích đó cũng như tạp chất của virus. Quá trình ủ điển hình kéo dài trong 10 giờ và được thực hiện ở 60°C.
+
+
+=== Bất hoạt hóa dùng pH có tính acid ===
+Một số virus, khi tiếp xúc với độ pH thấp, sẽ biến tính một cách tự nhiên. Tương tự như phương pháp thanh trùng, kỹ thuật này để khử hoạt tính của virus rất hữu ích nếu protein đích có khả năng chống lại độ pH thấp hơn tạp chất của virus. Kỹ thuật này có hiệu quả chống lại các virus được bao bọc và thiết bị thường được sử dụng rất đơn giản và dễ vận hành. Tuy nhiên, loại phương pháp bất hoạt này không hiệu quả đối với virus không có vỏ bọc và cũng cần nhiệt độ cao. Vì vậy, để sử dụng phương pháp này, protein mục tiêu phải chịu được độ pH thấp và nhiệt độ cao, điều này rất tiếc là không phải như vậy đối với nhiều loại protein sinh học. Giai đoạn ủ cho quá trình này thường xảy ra ở độ pH 4 và kéo dài trong khoảng từ 6 giờ đến 21 ngày.
+
+
+=== Bất hoạt hóa dùng tia cực tím ===
+Tia UV có thể làm hỏng DNA của các sinh vật sống bằng cách tạo ra các chất dimer acid nucleic. Tuy nhiên, những thiệt hại thường không quan trọng do sự xâm nhập của tia UV qua các mô sống thấp. Tuy nhiên, tia UV có thể được sử dụng để vô hiệu hóa virus vì các hạt virus rất nhỏ và tia UV có thể tiếp cận vật liệu di truyền, gây ra sự dime hóa acid nucleic. Một khi DNA bị phân hóa, các hạt virus không thể tái tạo vật liệu di truyền của chúng, điều này ngăn chúng lây lan.
+Tia UV kết hợp với riboflavin đã được chứng minh là có hiệu quả trong việc giảm tác nhân gây bệnh trong các sản phẩm truyền máu. Riboflavin và tia UV làm hỏng các acid nucleic trong virus, vi khuẩn, ký sinh trùng và các tế bào bạch cầu của người hiến tặng khiến chúng không thể tái tạo và gây bệnh.
+
+
+== Tham khảo ==

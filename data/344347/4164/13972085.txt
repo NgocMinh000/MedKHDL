@@ -1,0 +1,38 @@
+Sự sống không tế bào (chữ Anh: Non-cellular life) là sự sống không tồn tại kết cấu tế bào. Thuật ngữ này thông thường chỉ hình thức sự sống của virus, một cách phân loại khoa học trong cây phát sinh hệ thống. Ứng cử viên hàng đầu của nó là virus, nhưng trước mắt về việc virus có phải là một loại sự sống hay không, giới khoa học vẫn đang tranh luận. Một bộ phận học giả cũng dùng thuật ngữ này để chỉ sự sống thể hợp bào, bởi vì chúng chứa nhiều nhân tế bào, giữa các nhân không có màng tế bào.
+Thực thể không tế bào (Non-cellular entity), là thuật ngữ khách quan và chặt chẽ hơn sự sống không tế bào, nguyên nhân chủ yếu là về việc virus hoặc thực thể khác có phải là sinh vật, thể sống hoặc có sự sống hay không, giới khoa học vẫn chưa chung quan điểm. Thực thế không tế bào không cần kiếm ăn và bài tiết, cũng không thể sinh trưởng, chỉ có năng lực sinh sản khi gặp được kí chủ. Chúng do lớp vỏ protein bao quanh vật liệu di truyền chứa bên trong đó mà tạo thành.
+Một số sự sống nhân tạo giả thuyết, cùng với các tinh thể đủ khả năng tự sao chép, thông thường không được coi là sự sống.
+
+
+== Tóm tắt ==
+Trong giới sinh vật, hình thức tồn tại sự sống có sẵn tính đa dạng, nhưng chúng đều sẽ lấy tế bào - đơn vị cơ bản nhất mà tạo thành. Loại sinh vật này dựa vào sự khác nhau về kết cấu tế bào, chia làm hai loại: tế bào nhân sơ và tế bào nhân thực, sinh vật tương ứng do chúng tạo thành lần lượt gọi là sinh vật nhân sơ và sinh vật nhân thực. 
+Một số sự sống nhân tạo giả thuyết, có cơ chế tự sao chép, phân tử tối giản có khả năng tự sao chép chẳng hạn như tinh thể, thông thường không được coi là sự sống.
+Một số nhà sinh học cũng chỉ ra rằng, những sinh vật thể hợp bào, tức là "không tế bào", bởi vì chúng chứa nhiều nhân tế bào, giữa các nhân không có màng tế bào, nhưng những thể sống có gắn kết tế bào không nằm trong phạm vi của bài viết này.
+Ngoài hình thức sự sống này ra, còn có một loại là sự sống tồn tại bằng hình thức không tế bào. Loại sinh vật này gọi là sinh vật không tế bào.
+Dựa vào sự khác nhau về kết cấu của sinh vật không tế bào, cơ bản đem nó chia làm hai loại: virus và á virus (subvirus, bao gồm viroid, prion và virusoid (en)).
+
+
+== Phân loại ==
+Phân loại theo vật chất di truyền, có virus DNA, virus RNA, viroid và prion.
+Phân loại theo cách loại hình kí chủ, có thể phệ khuẩn (virus tế bào), virus thực vật (ví dụ như virus khảm thuốc lá) và virus động vật (ví dụ như virus cúm gia cầm, virus đậu mùa, HIV,...).
+Phân loại theo tính chất, có virus ôn hoà (ví dụ như HIV) và virus ác tính (ví dụ như virus dại).
+
+
+== Mimivirus ==
+Cơ chế tự lắp ráp của virus đã ảnh hưởng đến nghiên cứu về nguồn gốc sự sống, bởi vì chúng có khuynh hướng đi theo giả thuyết như này, sự sống có thể bắt nguồn từ các phân tử hữu cơ có khả năng tự lắp ráp.
+Mimivirus - một loại virus to lớn và phức tạp phát hiện vào năm 2003, có khả năng tổng hợp protein, khiến nảy sinh vấn đề là sự sống nhất định phải có kết cấu tế bào hay không. Phát hiện này chứng minh rằng, một số virus có khả năng trải qua giai đoạn từ nương tựa vào tế bào kí chủ ở thời kì đầu chuyển sang sản sinh protêin độc lập. Điều này chứng tỏ rằng có khả năng tồn tại một vực virus trong sự sống. Song điều này vẫn chưa xác định rằng, tiểu virus có thể bắt nguồn từ việc co rút bộ gen phức tạp của virus. Sự sống của vực virus có thể chỉ là virus lớn nào đó, chẳng hạn như Nucleocytoviricota (en). Một nghiên cứu hữu quan vào năm 2012 cho thấy, thông qua nghiên cứu kết cấu gấp xếp prôtêin của virus, Megavirus ví dụ như Mimivirus là sự sống có một vực độc lập, phân biệt với ba vực truyền thống là sinh vật nhân thực, vi khuẩn và cổ khuẩn. Kết luận của hạng mục nghiên cứu này là Megavirus là hình thức kí chủ trải qua tiến hoá đến sự sống phức tạp có khả năng thực hiện chuyên môn hoá cao độ, giống với các vực sinh vật khác nó có một nguồn gốc cổ xưa.
+
+
+== Vị trí sinh học virus ==
+Khi thảo luận phân loại vực của sự sống, sinh vật vô bào (Acytota) cũng có người gọi nó là loài ẩn sinh (Aphanobiota) là tên gọi thỉnh thoảng sử dụng để phân loại giới, vực của virus. Sinh vật có tế bào tương ứng gọi là sinh vật tế bào (Cytota). Sinh vật không tế bào và sự sống tế bào là hai phân loại cấp thượng của sự sống, đem thể sống đã biết trong cả giới sinh vật coi là một nghiên cứu phân loại chỉnh thể, "Học thuyết ba vực" cho biết là, sinh vật tế bào (Cytota) bao gồm ba vực: vi khuẩn, cổ khuẩn và sinh vật nhân thực.
+
+
+== Á virus ==
+Á virus (chữ Anh: Subviral Agent) bao gồm vệ tinh (en) hoặc gọi là virusoid, viroid, prion,... là thừa số sinh học có tính truyền nhiễm giống với virus nhưng không có cơ chế sao chép hoàn chỉnh.
+
+
+== Xem thêm ==
+Sự sống nhân tạo
+Prion
+
+
+== Tham khảo ==

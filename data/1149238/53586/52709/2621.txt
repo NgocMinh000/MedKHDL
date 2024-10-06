@@ -1,0 +1,18 @@
+Trong hệ đo lường quốc tế, khi muốn viết một đơn vị đo lớn gấp 10x, với x nằm trong khoảng từ -33 đến 183, lần một đơn vị đo nào đó, có thể viết liền trước một trong các chữ trong danh sách dưới đây.
+
+Ví dụ, nếu muốn viết đơn vị bằng 1000 mét, sử dụng chữ kilô để viết kilômét, hoặc dùng chữ viết tắt k để viết km.
+
+
+== Danh sách ==
+
+
+== Trong tin học ==
+Một số chữ viết liền trước được sử dụng theo nghĩa hơi khác với các đơn vị đo lượng thông tin ví dụ như byte hoặc bit trong tin học. Vì này, Ủy ban Điện Quốc tế (IEC) làm một bộ tiền tố nhị phân mới vào năm 1998, có tên theo âm tiết đầu tiên của tiền tố thập phân và "bi". Ký hiệu là ký hiệu thường cộng với chữ "i".
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+The International Bureau of Weights and Measures (BIPM)
+Bổ sung 4 tiền tố mới vào hệ đơn vị quốc tế

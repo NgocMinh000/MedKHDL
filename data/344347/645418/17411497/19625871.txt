@@ -1,0 +1,48 @@
+Biến thể đáng lo ngại (tiếng Anh: variant of concern, viết tắt là VOC) của SARS-CoV-2, virus gây bệnh COVID-19, là các biến thể của virus này trong đó đột biến điểm ở miền liên kết thụ thể (RBD) làm tăng ái lực liên kết với tế bào chủ, tạo ra dạng đột biến N501Y, gây ra kháng nguyên RBD-hACE2 không hoặc ít chịu tác động của một số loại văc-xin mới chế tạo và liên quan đến sự lây lan nhanh chóng trong quần thể người. Trong tự nhiên, virut và vi khuẩn luôn luôn có đột biến như các loài sinh vật khác. Tuy nhiên, các sinh vật khác (sinh vật đa bào) khi bị đột biến thường giảm sức sống, bị quái thai, dị dạng và thường chết; trong khi đó, virut và vi khuẩn đột biến lại thường tồn tại và phát triển, miễn là dạng đột biến đó vẫn sinh sản được.
+Trước phát hiện này, một số biến thể mới phát hiện đã được gọi là biến thể được quan tâm (variant of interest). Sau khi phát hiện các dòng biến thể này, thì chúng đã được đưa vào hệ thống danh pháp PANGOLIN (phát sinh loài các dòng bùng phát toàn cầu đã đặt tên), và xuất hiện trong hệ thống của tổ chức Nextstrain cũng như của tổ chức GISAID.
+Gần đây (tính đến tháng 6 năm 2021), trong đại dịch COVID-19, thì virut SARS-CoV-2 đã liên tục phát sinh đột biến, với một số tổ hợp đột biến điểm  đáng quan tâm và đáng lo ngại hơn nhiều những chủng trước đây, do chúng lây truyền nhanh và độc lực mạnh hơn; đồng thời liên quan đến sự xuất hiện của các dạng kháng nguyên trốn (antigenic escape) tức là dòng này có khả năng thoát miễn dịch hay tránh miễn dịch của hệ thống miễn dịch ở vật chủ, do các kháng thể của vật chủ không nhận biết và loại bỏ được chúng.
+
+
+== Từ nguyên ==
+Thuật ngữ VOC ban đầu được gọi là "biến thể quan tâm" (variants of interest) hoặc "biến thể đang được điều tra" (variants under investigation) đang chờ xác minh và xác thực các thuộc tính cơ bản của các dòng mới phát sinh. Sau khi đã được chứng minh xác thực, các biến thể kiểu này được các tổ chức giám sát có đủ trách nhiệm và quyền hạn, chẳng hạn như CDC, đổi tên thành thật ngữ này, nhằm nâng cấp cảnh báo về các dòng này.
+
+
+== Tiêu chí khác ==
+Trong đại dịch COVID-19, một số tổ chức y tế quốc gia và quốc tế, như Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC Mỹ), Y tế Công cộng Anh (PHE) và COVID-19 Genomics UK Consortium Vương quốc Anh và Mạng lưới COVID Genomics Canada,  đã sử dụng các tiêu chí sau để đánh giá các biến thể:
+
+Tăng khả năng truyền
+Tăng tỷ lệ mắc bệnh
+Tăng tỷ lệ tử vong
+Tăng nguy cơ mắc "COVID lâu dài"
+Khả năng tránh bị phát hiện bằng các xét nghiệm chẩn đoán
+Giảm tính nhạy cảm với thuốc kháng vi-rút (khi đã dùng những loại thuốc này)
+Giảm tính nhạy cảm với các kháng thể trung hòa, hoặc trị liệu (ví dụ, huyết tương dưỡng bệnh hoặc kháng thể đơn dòng) hoặc trong các thí nghiệm trong phòng thí nghiệm
+Khả năng tránh miễn dịch tự nhiên (ví dụ, gây ra tái nhiễm trùng)
+Khả năng lây nhiễm cho các cá thể được tiêm chủng
+Tăng nguy cơ mắc các tình trạng cụ thể như hội chứng viêm đa hệ hoặc COVID đường dài.
+Tăng ái lực với các nhóm nhân khẩu học hoặc lâm sàng cụ thể, chẳng hạn như trẻ em hoặc người bị suy giảm miễn dịch.
+
+
+== Phân loại theo từng quốc gia ==
+
+
+=== Tổ chức y tế thế giới ===
+WHO duy trì một danh sách các biến thể đáng lo ngại toàn cầu. Vào ngày 26 tháng 11 năm 2021, WHO đã thêm một biến thể quan tâm thứ năm, biến thể Omicron, trước đây được gọi là B.1.1.529.   Omicron tham gia cùng với các biến thể Alpha, Beta, Gamma và Delta.
+
+
+== Nguồn tham khảo ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+“Coronavirus Disease 2019 (COVID-19)”. Centers for Disease Control and Prevention (CDC). ngày 11 tháng 2 năm 2020.
+“Coronavirus disease (COVID-19) Pandemic”. World Health Organization (WHO).
+“SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences”. National Center for Biotechnology Information (NCBI).
+“COVID-19 Resource Centre”. The Lancet.
+“Coronavirus (Covid-19)”. The New England Journal of Medicine.
+“Covid-19: Novel Coronavirus Outbreak”. Wiley. Bản gốc lưu trữ ngày 24 tháng 9 năm 2020. Truy cập ngày 25 tháng 7 năm 2021.
+“SARS-CoV-2”. Virus Pathogen Database and Analysis Resource.
+“SARS-CoV-2 related protein structures”. Protein Data Bank.

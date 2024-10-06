@@ -1,0 +1,55 @@
+Triết học trí tuệ nhân tạo là một ngành triết học nghiên cứu bản chất của trí tuệ và trí tuệ nhân tạo nhằm trả lời những câu hỏi sau:
+
+Máy tính có thể ứng xử thông minh hay không? Có thể giải quyết những vấn đề mà con người phải dùng suy nghĩ để giải quyết không?
+Máy tính có thể có tâm trí, hiện tượng tâm lý và ý thức như con người không? Nó có thể cảm giác không?
+Trí tuệ của con người và máy tính có giống nhau không? Phải chăng bộ não con người là một máy tính?
+Ba câu hỏi trên phản ánh mối quan tâm của các nhà nghiên cứu trí tuệ nhân tạo, triết gia và các nhà nhận thức học. Câu trả lời cho những câu hỏi này phụ thuộc vào định nghĩa "trí tuệ" hay "ý thức" và cỗ máy chính xác đang được thảo luận.
+Những mệnh đề quan trọng trong triết học về trí tuệ nhân tạo:
+
+"Quy ước tao nhã" của Turing: Nếu một cỗ máy hành xử thông minh như một con người, nó thông minh như con người.
+Đề xuất Dartmouth: "Mọi khía cạnh của việc học hay bất kỳ tính năng nào khác của trí tuệ đều có thể được mô tả chính xác tới mức máy tính có thể mô phỏng."
+Lý thuyết về hệ thống ký hiệu hình thức của Newell và Simon: "Một hệ thống ký hiệu hình thức có các phương pháp cần và đủ của hành vi thông minh nói chung."
+Lý thuyết trí tuệ nhân tạo mạnh của Searle: "Một máy tính lập trình phù hợp với các đầu ra và đầu vào đúng bằng cách nào đó sẽ có một ý thức tương tự ý thức của loài người"
+Cơ chế Hobbes: "Lý trí đơn giản là tính toán."
+
+
+== Một cỗ máy có thể thể hiện như một "trí tuệ thông thường"? ==
+Về lý thuyết hoàn toàn có thể tạo ra một cỗ máy có thể giải quyết tất cả các vấn đề của con người không? Đây là một câu hỏi được các nhà nghiên cứu trí tuệ nhân tạo quan tâm. Nó định nghĩa một phạm trù những gì các cỗ máy có thể làm trong tương lai và chỉ đường cho các nghiên cứu trí tuệ nhân tạo. Câu hỏi chú trọng vào các hành vi của máy và bỏ qua các vấn đề liên quan có thể sẽ làm các nhà tâm lý học, khoa học nhận thức hay triết học hứng thú; để trả lời câu hỏi, không quan trọng một cỗ máy có thực sự suy nghĩ (như một cá nhân) hay nó chỉ hành động như là có thể suy nghĩ.
+Luận điểm cơ bản của hầu hết các nhà nghiên cứu trí tuệ nhân tạo được tóm gọn trong một câu nói, lần đầu tiên xuất hiện là ở hội nghị Dartmouth năm 1956:
+
+Arguments against the basic premise must show that building a working AI system is impossible, because there is some practical limit to the abilities of computers or that there is some special quality of the human mind that is necessary for thinking and yet cannot be duplicated by a machine (or by the methods of current AI research). Arguments in favor of the basic premise must show that such a system is possible.
+The first step to answering the question is to clearly define "intelligence."
+
+
+== Tham khảo ==
+
+Blackmore, Susan (2005), Consciousness: A Very Short Introduction, Oxford University Press
+Brooks, Rodney (1990), “Elephants Don't Play Chess” (PDF), Robotics and Autonomous Systems, 6: 3–15, doi:10.1016/S0921-8890(05)80025-9, truy cập ngày 30 tháng 8 năm 2007
+Chalmers, David J (1996), The Conscious Mind: In Search of a Fundamental Theory, Oxford University Press, New York, ISBN 0-19-511789-1 (Pbk.)
+Cole, David (Fall 2004), “The Chinese Room Argument”,  trong Zalta, Edward N. (biên tập), The Stanford Encyclopedia of Philosophy.
+Bản mẫu:Crevier 1993
+Dennett, Daniel (1991), Consciousness Explained, The Penguin Press, ISBN 0-7139-9037-6
+Dreyfus, Hubert (1972), What Computers Can't Do, New York: MIT Press, ISBN 0060110821
+Dreyfus, Hubert (1979), What Computers Still Can't Do, New York: MIT Press.
+Dreyfus, Hubert; Dreyfus, Stuart (1986), Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer, Oxford, UK: Blackwell
+Fearn, Nicholas (2007), The Latest Answers to the Oldest Questions: A Philosophical Adventure with the World's Greatest Thinkers, New York: Grove Press
+Gladwell, Malcolm (2005), Blink: The Power of Thinking Without Thinking, Boston: Little, Brown, ISBN 0-316-17232-4.
+Harnad, Stevan (2001), “What's Wrong and Right About Searle's Chinese Room Argument?”,  trong Bishop, M.; Preston, J. (biên tập), Essays on Searle's Chinese Room Argument, Oxford University Press
+Hobbes (1651), Leviathan.
+Hofstadter, Douglas (1979), Gödel, Escher, Bach: an Eternal Golden Braid.
+Horst, Steven (Fall 2005), “The Computational Theory of Mind”,  trong Zalta, Edward N. (biên tập), The Stanford Encyclopedia of Philosophy.
+Kurzweil, Ray (2005), The Singularity is Near, New York: Viking Press, ISBN 0-670-03384-7.
+Lucas, John (1961), “Minds, Machines and Gödel”,  trong Anderson, A.R. (biên tập), Minds and Machines, Bản gốc lưu trữ ngày 19 tháng 8 năm 2007, truy cập ngày 1 tháng 1 năm 2011.
+McCarthy, John; Minsky, Marvin; Rochester, Nathan; Shannon, Claude (1955), A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence.
+McDermott, Drew (ngày 14 tháng 5 năm 1997), “How Intelligent is Deep Blue”, New York Times, Bản gốc lưu trữ ngày 4 tháng 10 năm 2007, truy cập ngày 1 tháng 1 năm 2011
+Moravec, Hans (1988), Mind Children, Harvard University Press
+Newell, Allen; Simon, H. A. (1963), “GPS: A Program that Simulates Human Thought”,  trong Feigenbaum, E.A.; Feldman, J. (biên tập), Computers and Thought, McGraw-Hill 
+Newell, Allen; Simon, H. A. (1976), “Computer Science as Empirical Inquiry: Symbols and Search”, Communications of the ACM, 19, Bản gốc lưu trữ ngày 7 tháng 10 năm 2008, truy cập ngày 1 tháng 1 năm 2011
+Bản mẫu:Russell Norvig 2003
+Penrose, Roger (1989), The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics, Oxford University Press, ISBN 0-14-014534-6
+Searle, John (1980), “Minds, Brains and Programs”, Behavioral and Brain Sciences, 3 (3): 417–457, doi:10.1017/S0140525X00005756, Bản gốc lưu trữ ngày 23 tháng 8 năm 2000, truy cập ngày 1 tháng 1 năm 2011
+Searle, John (1992), The Rediscovery of the  Mind, Cambridge, Massachusetts: M.I.T. Press
+Searle, John (1999), Mind, language and society, New York, NY: Basic Books, ISBN 0465045219, OCLC 231867665
+Turing, Alan (tháng 10 năm 1950), “Computing Machinery and Intelligence”, Mind, LIX (236): 433–460, doi:10.1093/mind/LIX.236.433, ISSN 0026-4423
+Bản mẫu:Triết học về tâm trí
+Bản mẫu:Triết học về khoa học

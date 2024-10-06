@@ -1,0 +1,75 @@
+Salmonella thuộc họ Enterobacteriaceae (vi khuẩn đường ruột) là một giống vi khuẩn hình que, trực khuẩn gram âm, kị khí tùy nghi không tạo bào tử, di động bằng tiên mao, sinh sống trong đường ruột, có đường kính khoảng 0,7 µm đến 1,5 µm, dài từ 2 µm đến 5 µm và có vành lông rung hình roi. Hầu hết các loài Salmonella có thể sinh hydro sulfide. Salmonella không lên men lactose (trừ Salmonella arizona) và sucrose nhưng lên men được dulcitol, mannitol và glucose. Chúng kém chịu nhiệt nhưng chịu được một số hóa chất: brilliant green, sodium lauryl sulfate, selenite...
+Có hai loài vi khuẩn Salmonella, Salmonella bongori và Salmonella enterica. Salmonella enterica được chia thành sáu phân loài và hơn 2500 serovar (huyết thanh hình).
+Salmonella được tìm thấy trên toàn thế giới trong cả động vật máu lạnh và động vật máu nóng, và trong môi trường. Các chủng vi khuẩn Salmonella gây ra các bệnh như thương hàn (do Salmonella typhi), phó thương hàn, nhiễm trùng máu (do Salmonella choleraesuis) và ngộ độc thực phẩm (Salmonellosis). Các triệu chứng do Salmonella gây ra chủ yếu là tiêu chảy, ói mửa, buồn nôn xuất hiện sau 12 - 36 giờ sau khi tiêu thụ thực phẩm nhiễm Salmonella. Các triệu chứng thường kéo dài từ 2 - 7 ngày.
+
+
+== Lịch sử ==
+Năm 1874 nhà nghiên cứu bệnh học Ba Lan Tadeusz Browicz mô tả một loại vi khuẩn là nguyên nhân gây ra bệnh thương hàn.
+Năm 1880 Karl Joseph Eberth và Robert Koch phát hiện tác nhân gây bệnh sốt thương hàn ở người.
+Năm 1884, Georg Gaffky thành công trong việc cấy mầm bệnh trong môi trường nuôi cấy thuần khiết.
+Năm 1889, nhóm nghiên cứu dưới quyền bác sĩ thú y Daniel Elmer Salmon tìm thấy vi khuẩn gây ra bệnh "dịch tả cho heo" và tên vi khuẩn được đặt theo tên của ông.
+
+
+== Tác nhân gây bệnh và khả năng nhiễm khuẩn ==
+Salmonellosis (bệnh gây ra bởi vi khuẩn Salmonella) là bệnh có thể truyền nhiễm từ thú sang người và ngược lại. Ngoài ra, sự lây nhiễm cũng thường xảy ra qua thực phẩm, đặc biệt là qua trứng và thịt gia cầm. Không giống như trước đây, ngày nay thịt heo hiếm khi bị nhiễm salmonella.
+Theo dự đoán của WHO, trên toàn thế giới có hơn 16 triệu ca bệnh thương hàn hàng năm, hơn nửa triệu trong số đó là tử vong. Salmonella có khả năng sống sót hàng tuần bên ngoài cơ thể con người hoặc động vật. Ánh sáng mặt trời (tia UV) làm tăng tốc độ chết của các tác nhân gây bệnh. Trong phân khô, chúng còn có thể sống được 2,5 năm. Vi khuẩn không bị giết bằng cách đông lạnh. Trong môi trường axit, vi khuẩn Salmonella chết đi nhanh chóng và chất diệt khuẩn phổ biến giết chết chúng trong vòng vài phút. Ở nhiệt độ dưới 6 °C, mức tăng trưởng của chúng chậm hơn nhiều. Để ngăn ngừa nhiễm khuẩn salmonella, thực phẩm được khuyến cáo là khi chế biến ít nhất nên giữ ở nhiệt độ ở 75 °C trong ít nhất mười phút (nhiệt độ trong lõi), trứng tươi cần bảo quản trong tủ lạnh.
+Riêng tại Việt Nam đã có nhiều trường hợp ngộ độc hàng loạt vì trực khuẩn Salmonella, như là tại Thành phố Đồng Hới với gần 250 người phải nhập viện từ ngày 14 tháng 10 năm 2015 vì bánh mì thịt, bánh mì trứng nhiễm khuẩn, gần 800 công nhân tại Tiền Giang phải nhập viện từ ngày 3 tháng 10 năm 2013. Tại Thành phố Hồ Chí Minh, trong đợt giám sát thí điểm năm 2013, sau khi lấy 1.618 mẫu tại chợ đầu mối Bình Điền, Hóc Môn, Thủ Đức đã phát hiện Salmonella trong 30% mẫu thịt heo và 45% trong mẫu thịt gà. Tại Khánh Hoà, hơn 600 em sinh trường Ischool Nha Trang đã phải nhập viện và khiến ít nhất một bé trai tử vong sau bữa ăn trưa ngày 17/11/2022 do nhiễm khuẩn Salmonella và một số khuẩn khác theo kết luận của Viện Pasteur Nha Trang.
+
+
+==== Khả năng nhiễm khuẩn ====
+Nhiễm khuẩn Salmonella có thể là do:
+
+không bảo đảm an toàn thực phẩm trong khâu chế biến, đặc biệt là trong các nhà bếp lớn phục vụ nhiều thực khách,
+bởi các chất bài tiết (nước bọt, nước tiểu, phân và nước dịch cơ thể khác) của người bệnh, ngay cả trong trường hợp bệnh chưa phát và người bệnh được xem là khỏe mạnh khi khám nghiệm lâm sàng; và động vật, đặc biệt là từ các loài bò sát không bị phát hiện nhiễm bệnh (tỷ lệ nhiễm là 90%), một mối nguy hiểm, đặc biệt là đối với trẻ nhỏ,
+bởi mặt nước bị ô nhiễm và nước tù đọng (ví dụ như trong ống vòi sen và các thiết bị truyền nước mà không được sử dụng lâu dài trước đó)
+bởi sự không vệ sinh của gia cầm đông lạnh khi làm tan đá (nhiều vi khuẩn có trong nước đông)
+bằng trứng tươi sống đến từ gia cầm bị nhiễm khuẩn salmonella (thường là salmonella chỉ có trên vỏ trứng, nhưng cũng có thể lọt vào trong nếu vỏ trứng bị hư hay là rạn nứt, hay là qua tay người), thường gây ngộ độc khi ăn trứng hoặc sản phẩm gia cầm chưa chế biến kỹ hoặc nấu chín.
+nhưng cũng có thể qua sữa chưa được tiệt trùng, cá ngừ sống, dưa chuột, cà chua, giá đỗ nhiễm khuẩn.
+
+
+==== Cách phòng tránh ====
+Rửa sạch tay (với xà bông) sau khi đi vệ sinh, thay tã, chạm vào động vật và trước khi ăn hoặc chế biến thức ăn.
+Chỉ mua và sử dụng các sản phẩm chế biến (bơ, sữa, xúc xích, thịt nguội, pa-tê…) của những nơi cung ứng đáng tin cậy, có điều kiện bảo quản tốt…
+Tách biệt giữa thực phẩm nấu chín và chưa nấu. Khi vận chuyển, bảo quản phải tách biệt trái cây và rau quả với thịt sống. Luôn bảo quản thức ăn chưa dùng trong tủ lạnh.
+Hạn chế ăn trứng sống và chưa nấu chín, hạn chế hoặc tránh món ăn có chứa trứng sống.
+Luộc chín kỹ các loại thịt, đặc biệt là thịt gà (tới khi thịt không còn đỏ hoặc màu hồng).
+Không dùng sữa chưa được tiệt trùng, hay các sản phẩm sữa chưa được tiệt trùng khác.
+Không ăn những trái cây và rau quả đã cắt sẵn và không được bảo quản lạnh.
+Bảo đảm an toàn thực phẩm, sau khi chế biến những món sống phải làm sạch các dụng cụ chế biến, bếp… bằng xà bông và nước hoặc dung dịch tẩy rửa.
+Không để các loài bò sát và lưỡng cư vào trong nhà có trẻ dưới 5 tuổi hoặc những người có hệ miễn dịch suy yếu.
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+
+Bệnh nhiễm khuẩn salmonella, nguyên nhân và phòng tránh Lưu trữ 2017-02-08 tại Wayback Machine, Sở Y tế Cộng đồng Bang Massachusetts, tháng 2/2015
+Background on Salmonella Lưu trữ 2009-01-15 tại Wayback Machine from the Food Safety and Inspection Service of the United States Department of Agriculture Lưu trữ 2008-07-08 tại Wayback Machine
+Salmonella Lưu trữ 2014-11-09 tại Wayback Machine genomes and related information at PATRIC, a Bioinformatics Resource Center funded by NIAID
+Questions and Answers about sanitizing methods
+Symptoms of Salmonella Poisoning Lưu trữ 2012-05-02 tại Wayback Machine
+Salmonella as an emerging pathogen Lưu trữ 2007-02-25 tại Wayback Machine from IFAS
+Notes on Salmonella nomenclature Lưu trữ 2004-09-26 tại Wayback Machine
+Salmonella motility video
+Avian Salmonella Lưu trữ 2011-12-09 tại Wayback Machine

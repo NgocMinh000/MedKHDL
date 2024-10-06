@@ -1,0 +1,12 @@
+Hội chứng Arts là một rối loạn chuyển hóa hiếm gặp, gây ra các vấn đề thần kinh nghiêm trọng ở nam giới do sự cố của enzyme PRPP synthetase 1. Hội chứng Arts là một phần của một loạt các rối loạn liên quan đến PRPS-1 với hoạt động của enzyme bị giảm bao gồm bệnh Charcot-Marie-Tooth và điếc thần kinh cảm giác không liên kết X.
+
+
+== Nguyên nhân ==
+Hội chứng Arts là do mất đột biến chức năng trong gen PRPS1. Mã gen PRPS1 cho enzyme phosphoribosyl pyrophosphate synthetase 1 hoặc PRPP synthetase 1. Enzyme này có liên quan đến việc sản xuất purin và pyrimidine là các khối xây dựng của DNA, RNA, ATP và các phân tử khác. Các đột biến gây ra hội chứng Arts thay thế các amino acid đơn enzyme PRPP synthetase 1. Enzim thu được không ổn định. Sự gián đoạn sản xuất purine và pyrimidine có thể làm giảm khả năng lưu trữ và vận chuyển năng lượng trong các tế bào. Suy giảm các quá trình này có thể có ảnh hưởng đặc biệt nghiêm trọng đến các mô cần một lượng năng lượng lớn, chẳng hạn như hệ thần kinh, dẫn đến các vấn đề thần kinh đặc trưng của hội chứng Arts. Lý do làm tăng nguy cơ nhiễm trùng đường hô hấp trong hội chứng Arts là không rõ ràng.
+
+
+== Di truyền học ==
+Hội chứng Arts theo một di truyền liên kết X. Ở nam giới (chỉ có một nhiễm sắc thể X), một đột biến trong bản sao duy nhất của gen trong mỗi tế bào gây ra rối loạn. Ở nữ giới (người có hai nhiễm sắc thể X), đột biến ở một trong hai bản sao của gen trong mỗi tế bào đôi khi gây ra các đặc điểm của rối loạn; trong những trường hợp khác, những con cái này không gặp bất kỳ triệu chứng nào. Trong một số ít trường hợp hội chứng Arts đã được xác định, các cá nhân bị ảnh hưởng đã thừa hưởng đột biến từ một người mẹ mang một bản sao thay đổi của gen PRPS1. Nếu người mẹ là người mang mầm bệnh, cơ hội truyền đột biến PRPS1 trong mỗi lần mang thai là 50%. Những con đực thừa hưởng đột biến sẽ bị ảnh hưởng; con cái thừa hưởng đột biến sẽ là người mang mầm bệnh và có thể hoặc không bị ảnh hưởng nhẹ. Con đực mắc hội chứng Arts không sinh sản được.
+
+
+== Tham khảo ==

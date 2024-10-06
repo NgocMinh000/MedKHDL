@@ -1,0 +1,28 @@
+Colistin, còn được gọi là polymyxin E, là một kháng sinh sản xuất bởi một số chủng vi khuẩn Paenibacillus polymyxa. Colistin là một hỗn hợp của các vòng polypeptide colistin A và B và thuộc nhóm kháng sinh polypeptide hay còn gọi là polymyxins. Colistin có hiệu quả chống lại trực khuẩn Gram-âm.
+Colistin ít được sử dụng do độc với thận. Nó là phương án lựa chọn cuối cùng cho Pseudomonas aeruginosa đa kháng, Klebsiella pneumoniae, và Acinetobacter.NDM-1 metallo-β-lactamase Enterobacteriaceae đa kháng cũng cho thấy nhạy cảm với colistin.
+Kháng colistin ở người khá hiếm. Gen kháng colistin đầu tiên nằm trong  trong một  plasmid được tìm thấy vào năm 2011 ở Trung Quốc và được biết đến rộng rãi vào tháng 11 năm 2015. Sự có mặt của gen plasmid-borne mcr-1 đã bắt đầu được xác nhận từ tháng 12 năm 2015 ở Đông Nam Á, một số nước châu Âu và Hoa Kỳ.
+
+
+== Cơ chế hoạt động ==
+Colistin là một polycationic peptid và có nhóm ưa nước và ưa lipid. Vùng cation tương tác với màng ngoài vi khuẩn bằng cách thay ion magnesi và calcium trong lipopolysaccharide. Vùng kỵ/ưa nước tương tác với màng tế bào giống như một chất tẩy, hòa tan màng trong môi trường nước. Thuốc có tác dụng diệt khuẩn ngay cả trong môi trường đơn cực.
+
+
+== Phổ kháng khuẩn ==
+Colistin có hiệu quả trong các chủng Pseudomonas, Escherichia, và Klebsiella. Nồng độ kìm khuẩn tối thiểu ở một số vi khuẩn đáng chú ý là:
+Escherichia coli: 0.12–128 μg/ml
+Klebsiella pneumoniae: 0.25–128 μg/ml
+Pseudomonas aeruginosa: ≤0.06–16 μg/ml
+
+
+== Tác dụng không mong muốn ==
+Các độc tính chính khi dùng tiêm tĩnh mạch là độc cho thận (tổn thương thận) và độc thần kinh (tổn thương dây thần kinh), nhưng với liều cao hơn nhiều so liều điều trị được đề xuất bởi nhà sản xuất hoặc không điều chỉnh liều cho bệnh nhân có bệnh thận. Tác động thần kinh và thận xuất hiện thoáng qua và giảm dần khi ngừng hoặc giảm liều.
+Ở liều 160 mg colistimethate tiêm tĩnh mạch mỗi tám giờ, rất hiếm thấy độc tính trên thận. Thật vậy, colistin dường như ít độc hơn các aminoglucoside.
+Tác dụng phụ chính khi dùng dạng xịt là co thắ khí phế quản, có thể dự phòng bằng đồng vận beta2 salbutamol hoặc gây tê sau.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+“Colistin topics page (bibliography)”. Science.gov.
+“Protocol for PCR detection of the gene mcr-1 gene” (PDF). National Food Institute. Technical University of Denmark. Bản gốc (PDF) lưu trữ ngày 15 tháng 6 năm 2016. Truy cập ngày 29 tháng 8 năm 2018.

@@ -1,0 +1,57 @@
+Hình ảnh y khoa là kỹ thuật và quy trình tạo hình ảnh trực quan về bên trong của cơ thể để phân tích lâm sàng và can thiệp y tế, cũng như biểu thị trực quan chức năng của một số cơ quan hoặc mô sinh lý học. Hình ảnh y khoa nhằm tìm kiếm các cấu trúc bên trong được che giấu bởi da và xương cũng như chẩn đoán và điều trị bệnh. Hình ảnh y khoa cũng thiết lập một cơ sở dữ liệu giải phẫu học và sinh lý học bình thường để phục vụ việc xác định các bất thường trong mô sinh học. Mặc dù hình ảnh của các cơ quan và mô bị loại bỏ có thể được thực hiện vì lý do y tế, các thủ tục như vậy thường được coi là một phần của bệnh lý thay vì hình ảnh y khoa .
+
+
+== Khái lược ==
+Theo nghĩa rộng nhất của ảnh y khoa, nó là một phần của hình ảnh sinh học và kết hợp với hình ảnh y khoa sử dụng các công nghệ hình ảnh như X-quang, cắt lớp vi tính (CT), cộng hưởng từ (MRI), siêu âm y khoa, nội soi, đàn hồi mô (elastography), hình ảnh xúc giác (tactile imaging), nhiệt độ ký (thermography), chụp ảnh y khoa (medical photography), chụp cắt lớp trở kháng điện (EIT, Electrical impedance tomography) và kỹ thuật hình ảnh y học hạt nhân như chụp cắt lớp phát xạ positron (PET, positron emission tomography) và chụp cắt lớp vi tính phát xạ photon đơn (SPECT, Single-photon emission computed tomography).
+Những kỹ thuật đo ghi vốn được thiết kế không phải để tạo ra các hình ảnh, chẳng hạn như điện não đồ (EEG, electroencephalography), từ não đồ (MEG, magnetoencephalography), điện tim đồ (EKG, electrocardiography), và các kỹ thuật khác, tạo ra dữ liệu thường được biểu diễn như một biểu đồ tham số theo thời gian, hoặc bản đồ có chứa dữ liệu về vị trí đo. So sánh một cách hạn chế thì các công nghệ này có thể được coi là các hình thức chụp ảnh y tế theo một quy trình khác .
+Hình ảnh y khoa thường được coi là để chỉ định một tập hợp các kỹ thuật tạo ra các hình ảnh về nội tại ngầm trong cơ thể. Nó có thể được xem như là nghiệm số của một bài toán ngược, dựng hình ảnh từ các quan sát gián tiếp bên ngoài. Trong trường hợp siêu âm y khoa, đầu dò bao gồm phát sóng siêu âm vào trong mô và thu tiếng vọng để cho thấy cấu trúc bên trong. Trong trường hợp chụp X quang, đầu dò thu nhận bức xạ tia X sau khi bị hấp thụ ở các mức độ khác nhau tùy theo các mô khác nhau như xương, cơ và mỡ.
+Theo nghĩa thông thường thì hình ảnh y khoa được gọi là chẩn đoán hình ảnh, bao gồm các kỹ thuật chính là X quang, Cắt lớp vi tính (CT), Cộng hưởng từ (MRI), Siêu âm, Y học hạt nhân, DSA.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+A good comprehensive Medical Imaging Textbook albeit a bit dated: Cho, Zang-Hee, Joie P. Jones, and Manbir Singh. Foundations of medical imaging. New York:: Wiley, 1993. ISBN 0-471-54573-2
+Eisenberg, Ronald L.; Margulis, Alexander R.: A Patient's Guide to Medical Imaging. Oxford University Press, 2011. ISBN 978-0-19-972991-3
+Jayaram K. Udupa, Gabor T. Herman "3D Imaging in Medicine, Second Edition" 2 ngày 28 tháng 9 năm 1999 by CRC Press
+
+
+== Liên kết ngoài ==
+Medical Imaging Explained Understanding the types and principles of medical imaging will support knowledge about a variety of machines and techniques about diagnostic imaging.
+Oldest Medical Imaging Group UPenn Medical Imaging Processing Group, MIPG
+Medical imaging trên DMOZ
+MedPix Lưu trữ 2012-05-13 tại Wayback Machine Free Medical Image Database, Search & Download Images
+IPRG Lưu trữ 2018-11-18 tại Wayback Machine Open group related to image processing research resources
+An introduction to some of the more exciting recent advances and dynamic current areas of development in biomedical Raman spectroscopy (including video-rate biomedical imaging). Illuminating disease and enlightening biomedicine: Raman spectroscopy as a diagnostic tool. Analyst, 2013,138, 3871–3884
+Biomedical Imaging and Signal Analysis
+Henry Stewart Talks Series on Medical Imaging Imaging Techniques for Pre-clinical and Clinical Applications

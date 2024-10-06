@@ -1,0 +1,19 @@
+Web Feature Service viết tắt WFS là cách phân phối các đặc trưng địa lý thông qua một dịch vụ web đến với ứng dụng phía người dùng (client) hoặc một trình duyệt (browser). Người dùng có thể yêu cầu dữ liệu một cách có chọn lọc để phục vụ cho phạm vi nhu cầu của mình. Web Feature Service là 1 sự chuẩn hóa của việc phân phối dữ liệu vectơ đến đông đảo người dùng, đồng thời các client có thể nhập vào dữ liệu dạng vectơ khi yêu cầu thông tin và WFS sẽ đáp ứng yêu cầu đó.
+
+
+== Xem thêm ==
+Open Source Geospatial Foundation
+Web Coverage Service (WCS)
+Web Map Service (WMS)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+OpenGIS Web Feature Service (WFS) Implementation Specification
+Filter Encoding Specification
+GeoServer Open Source Reference Implementation
+deegree Open Source Geospatial Web Services
+WFS 2.0 Client – Plugin for QGIS (english)
+WNS: Draft OpenGIS Web Notification Service Implementation Specification

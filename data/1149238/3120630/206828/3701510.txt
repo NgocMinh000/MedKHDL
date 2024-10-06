@@ -1,0 +1,17 @@
+Trong âm nhạc truyền thống phương Tây, một tông nhạc (tone) là một âm thanh có chu kì ổn định. Một Tông nhạc được đặc trưng bởi trường độ, cao độ, cường độ(hay độ lớn), âm sắc(hay chất lượng) của nó. Những nốt dùng trong âm nhạc có thể phức tạp hơn những tông nhạc, vì nó có thể bao gồm sự xuất hiện đột ngột (transients), sự rung (vibrato) và sự thay đổi (envelope modulation).
+Một tông đơn giản hay tông cơ bản có dạng sóng hình sin. Một tông phức tạp là sự kết hợp của hai hay nhiều tông cơ bản có chu kì lặp lại.
+
+
+== Tông cơ bản ==
+Một tông cơ bản là một tông có dạng sóng hình sin, ví dụ một sóng sin hay cosin. Điều này có nghĩa là không quan tâm đến những đặc tính khác như là biên độ(amplitude) hay sự thay đổi (phase), sóng này chứa một chu kì đơn giản. Sóng sin và cosin là loại sóng cơ bản nhất so với các loại sóng khác, và khi một chu kì bổ sung(tức là, những sóng sin và cosin bổ sung với những chu kì khác nhau) được kết hợp, thêm vào, sóng chuyển từ dạng đơn giản sang dạng phức tạp hơn.
+Sóng sin được đặc trưng bởi tần số của nó, số chu kì mỗi giây – hay độ dài sóng của nó (wavelength), khoảng cách mà sóng di chuyển thông qua môi trường của nó trong một khoảng thời gian – và biên độ, độ lớn của mỗi chu kì. Một Tông cơ bản có những quy luật đặc trưng đó là hình dạng và âm thanh của nó thay đổi chỉ trong biên độ và giai đoạn bởi một hệ thống âm thanh tuyến tính (linear acoustic systems)..
+Một dạng sóng sin cơ bản là âm thanh nhân tạo. Hermann von Helmholtz được cho là người đầu tiên tạo ra sóng sin, sử dụng "the Helmholtz siren", một thiết bị gửi thổi khí nén thông qua những cái lỗ trong một tấm quay. Đây có lẽ là âm thanh gần với sóng sin nhất trước khi sáng tạo ra các thiết bị âm thanh điện tử.
+Sóng sin thường không tạo cảm giác dễ chịu khi nghe, và có thể là nguyên nhân của việc suy giảm thính lực dù phát ra tiếng nhỏ so với các âm thanh khác. Việc xác định vị trí âm thanh là khó đối với sóng sin, những âm thanh này dường "vang lên khắp nơi trong phòng".
+
+
+== Định luật Fourier ==
+Định luật Fourier tuyên bố rằng bất kì dạng sóng tuần hoàn nào cũng có thể ước lượng gần đúng như mong muốn về tổng của các chuỗi sóng sin với những chu kì trong một chuỗi hài hòa (harmonic series) và tại các mối quan hệ ở một điểm cụ thể  trong hình sóng (phase) giữa chúng với nhau.
+Chu kì nhỏ nhất (the fundamental frequency), cũng ngược về mặt thời gian của sóng, xác định cao độ của một tông mà con người có thể nghe được. Trong âm nhạc, các nốt đại diện cho các tông với những chu kì nhỏ nhất khác nhau, để mô tả cao độ của các nốt được chơi.
+
+
+== Tham khảo ==

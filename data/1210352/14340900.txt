@@ -1,0 +1,27 @@
+Bệnh nhân là đối tượng được nhận dịch vụ chăm sóc sức khỏe. Bệnh nhân phần lớn bị ốm, bị bệnh hoặc bị thương và cần được điều trị bởi bác sĩ, y tá, nhà tâm lý học, nha sĩ, bác sĩ thú y hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe khác.
+
+
+== Từ nguyên ==
+Trong tiếng Việt, bệnh nhân là cụm từ Hán-Việt chỉ về người bệnh, một từ tương tự như bệnh nhi (người bệnh là trẻ em, bệnh phu là người lớn bị bệnh). Trong tiếng Anh, từ patient - bệnh nhân lúc đầu có nghĩa là 'one who suffers' - 'người đau khổ'. Danh từ tiếng Anh này bắt nguồn từ tiếng Latin patiens, hiện tại phân từ của động từ phụ âm, patior, có nghĩa là 'I am suffering' - 'Tôi đang đau khổ', và gần giống với động từ Hy Lạp cổ πάσχειν (= paskhein, đau khổ) và danh từ cùng gốc của nó πάθος (= pathos).
+
+
+== Bệnh nhân ngoại trú và bệnh nhân nội trú ==
+Bệnh nhân ngoại trú là bệnh nhân nằm viện dưới 24 giờ. Ngay cả khi bệnh nhân không được nhập viện chính thức với ghi nhận là bệnh nhân ngoại trú, họ vẫn được đăng ký và nhà cung cấp thường sẽ đưa ra một lưu ý giải thích lý do cho dịch vụ, thủ tục, quét hoặc phẫu thuật, trong đó bao gồm tên và chức danh và ID của nhân viên tham gia, tên và ngày sinh của bệnh nhân và ID và chữ ký cho sự đồng ý, ước tính khoảng thời gian khám bệnh, các thuốc tê hoặc thuốc cần dùng, và thời gian ước tính xuất viện. Điều trị được cung cấp theo kiểu này được gọi là chăm sóc cấp cứu hay chăm sóc ngoại trú. Đôi khi phẫu thuật được thực hiện mà không cần nhập viện chính thức hay ở lại qua đêm. Đây được gọi là phẫu thuật ngoại trú. Phẫu thuật ngoại trú có nhiều lợi ích, bao gồm giảm lượng thuốc được kê đơn và quản lý thời gian của bác sĩ hoặc bác sĩ phẫu thuật hiệu quả hơn. Nhiều thủ tục hiện đang được thực hiện trong phòng khám của bác sĩ phẫu thuật, được gọi là phẫu thuật tại phòng trụ sở- office-based surgery, thay vì trong phòng phẫu thuật tại bệnh viện. Phẫu thuật ngoại trú phù hợp nhất cho bệnh nhân khỏe mạnh làm các thủ thuật nhỏ hoặc vừa (như vấn đề về tiết niệu, nhãn khoa, hoặc các thủ thuật tai mũi họng, liên quan đến đầu  chi).
+Trong khi đó, bệnh nhân nội trú được "nhập viện" và ở lại qua đêm hoặc trong một khoảng thời gian không xác định, thường là vài ngày hoặc vài tuần, mặc dù trong một số trường hợp nghiêm trọng, như hôn mê hoặc tình trạng thực vật vĩnh viễn, bệnh nhân sẽ phải ở lại bệnh viện trong nhiều năm, đôi khi cho đến khi qua đời. Điều trị được cung cấp theo cách này được gọi là chăm sóc nội trú. Có thủ tục khi bệnh nhân nhập viện, cũng như khi xuất viện.
+Chẩn đoán sai là nguyên nhân hàng đầu của sai sót y tế trong các cơ sở ngoại trú. Kể từ khi báo cáo Lưu trữ 2017-06-10 tại Wayback Machine mang tính bước ngoặt năm 1999 của Viện Y học Quốc gia được công bố - To Err is Human, đã phát hiện có tới 98.000 bệnh nhân tử vong mỗi năm vì các sai sót y tế có thể phòng ngừa được ở Hoa Kỳ, các nỗ lực của chính phủ và khu vực tư nhân đã tập trung vào sự an toàn cho bệnh nhân nội trú. Trong khi các nỗ lực an toàn bệnh nhân tập trung vào các bệnh viện nội trú trong hơn một thập kỷ qua, thì các sai sót y tế thậm chí xảy ra còn nhiều hơn trong các phòng khám bác sĩ và trung tâm ngoại trú.
+
+
+== Thuật ngữ thay thế ==
+Vì những lo ngại về nhân phẩm, quyền con người và tính đúng đắn về chính trị, thuật ngữ "bệnh nhân" - "patient" không phải lúc nào cũng được dùng để chỉ người được chăm sóc sức khỏe. Các thuật ngữ khác đôi khi vẫn được sử dụng bao gồm người tiêu dùng sức khỏe - health consumer, người tiêu dùng chăm sóc sức khỏe - health care consum hoặc khách hàng - client. Tuy nhiên, thuật ngữ như vậy có thể gây khó chịu cho những người nhận chăm sóc sức khỏe cộng đồng vì nó ngụ ý mối quan hệ kinh doanh. (ít nhất ở một số quốc gia, việc hành nghề kinh doanh trong bất kỳ bệnh viện công nào là bất hợp pháp.)
+Trong thú y, khách hàng - client là chủ sở hữu hoặc giám hộ của con vật bị bệnh - cũng được coi là bệnh nhân. Chúng có thể được sử dụng bởi các cơ quan chính phủ, công ty bảo hiểm, nhóm bệnh nhân hoặc các cơ sở chăm sóc sức khỏe. Các cá nhân sử dụng hoặc đã sử dụng các dịch vụ chăm sóc sức khỏe tâm thần có thể tự coi mình là người tiêu dùng, người dùng - users hoặc người sống sót - survivors.
+Trong các viện dưỡng lão và các cơ sở trợ giúp, thuật ngữ người nội trú - resident được sử dụng thay cho bệnh nhân - patient, nhưng thường các nhân viên tại một cơ sở đó sử dụng thuật ngữ bệnh nhân để chỉ cho người nội trú. Cũng như, những người được chăm sóc sức khỏe tại nhà được gọi là khách hàng - clients.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Jadad AR, Rizo CA, Enkin MW (tháng 6 năm 2003). “I am a good patient, believe it or not”. BMJ. 326 (7402): 1293–5. doi:10.1136/bmj.326.7402.1293. PMC 1126181. PMID 12805157.a peer-reviewed article published in the British Medical Journal's (BMJ) first issue dedicated to patients in its 160-year history
+
+Sokol DK (21 tháng 2 năm 2004). “How (not) to be a good patient”. BMJ. 328 (7437): 471. doi:10.1136/bmj.328.7437.471.review article with views on the meaning of the words "good doctor" vs. "good patient"
+"Time Magazine's Dr. Scott Haig Proves that Patients Need to Be Googlers!" Lưu trữ 2015-04-26 tại Wayback Machine – Mary Shomons response Lưu trữ 2015-04-26 tại Wayback Machine to the Time Magazine article "When the Patient is a Googler" Lưu trữ 2013-08-24 tại Wayback Machine

@@ -1,0 +1,39 @@
+Bệnh sốt xuất huyết Bolivia (BHF), còn gọi là sốt đen hoặc sốt Ordog, là bệnh sốt xuất huyết và nhiễm trùng máu có nguồn gốc từ Bolivia do virus Machupo.
+BHF lần đầu tiên được phát hiện vào năm 1963 dưới dạng một virus RNA ambisense của họ Arenaviridae bởi nhóm nghiên cứu do Karl Johnson lãnh đạo. Tỉ lệ tử vong ước tính từ 5 - 30%. Do tính gây bệnh của nó, virus Machupo yêu cầu điều kiện an toàn sinh học cấp độ 4, mức cao nhất.
+Trong tháng 2 và tháng 3 năm 2007, có khoảng 20 trường hợp nghi ngờ BHF (3 người tử vong) đã được báo cáo cho El Servicio Departamental de Salud (SEDES) tại Beni Department, Bolivia và vào tháng 2 năm 2008, ít nhất đã có 200 trường hợp nghi ngờ mới (12 trường hợp tử vong) đến SEDES. Vào tháng 11 năm 2011, một chuyên gia của SEDES đã tham gia cuộc kiểm tra huyết thanh để xác định mức độ nhiễm virus Machupo tại Cục sau khi phát hiện trường hợp xác nhận thứ hai gần thủ đô của Trinidad vào tháng 11 năm 2011 đã bày tỏ mối quan ngại về việc mở rộng sự phân bố của virus bên ngoài vùng lưu hành ở các tỉnh Mamoré và Iténez.
+
+
+== Dịch tễ học ==
+
+
+=== Lịch sử ===
+Căn bệnh này lần đầu tiên xuất hiện vào năm 1962 tại làng San Joachim ở Bolivia, do đó có tên là bệnh sốt xuất huyết "Bolivia". Khi các cuộc điều tra ban đầu không tìm được loài côn trùng truyền bệnh, các nguồn khác đã được tìm kiếm và cuối cùng xác định rằng căn bệnh được phát tán bởi loài chuột. Mặc dù muỗi không phải là nguyên nhân ban đầu được nghi ngờ, nhưng việc sử dụng DDT tiêu diệt muỗi để ngăn ngừa sốt rét đã gây ra sự tích tụ DDT trong các động vật khác nhau dọc theo chuỗi thức ăn (gọi là tích lũy sinh học) dẫn đến tình trạng thiếu mèo trong làng; sau đó, một bệnh dịch hạch chuột đã bùng nổ trong làng, dẫn đến một đại dịch.
+
+
+=== Vật trung gian truyền bệnh ===
+Vector truyền bệnh là chuột Calomys callosus, một loài gặm nhấm bản địa ở Bolivia. Chuột nhiễm bệnh không có triệu chứng và làm cho virus xuất hiện trong phân, do đó lây nhiễm sang người. Có bằng chứng về sự lây truyền BHF từ người sang người nhưng được cho là hiếm gặp.
+
+
+=== Triệu chứng ===
+Nhiễm trùng có khởi phát chậm với sốt, khó chịu, nhức đầu và đau cơ, rất giống với các triệu chứng sốt rét. Petechiae (các đốm máu) ở phần trên cơ thể và xuất huyết từ mũi và lợi được quan sát thấy khi bệnh tiến triển đến giai đoạn xuất huyết, thường là trong vòng bảy ngày sau khi xuất hiện triệu chứng đầu tiên. Tỷ lệ tử vong là khoảng 25%.
+
+
+=== Sự phòng ngừa ===
+Các biện pháp để giảm sự tiếp xúc giữa chuột truyền bệnh và con người có thể đã góp phần hạn chế số vụ bùng phát, không có trường hợp nào mắc phải giữa năm 1973 và 1994. Mặc dù không có thuốc chữa hoặc văc-xin cho bệnh này, vắc-xin đã phát triển cho virus Junín liên quan đến gen gây sốt xuất huyết ở Acghentina đã cho thấy bằng chứng phản ứng chéo với vi khuẩn Machupo, và do đó có thể là một biện pháp dự phòng hiệu quả cho những người có nguy cơ cao bị nhiễm trùng. Nhiễm trùng sau khi sinh (và cho người đó sống sót sau nhiễm trùng), những người từng bị BHF thường bị miễn nhiễm với bệnh này.
+
+
+== Vũ khí sinh học ==
+Sốt xuất huyết ở Bolivian là một trong ba loại sốt xuất huyết và là một trong số hơn một chục loại virus mà Hoa Kỳ nghiên cứu làm vũ khí sinh học có tiềm năng trước khi quốc gia này ngừng chương trình vũ khí sinh học của mình. Nó cũng từng được nghiên cứu bởi Liên bang Xô viết, dưới văn phòng Biopreparat.
+
+
+== Nghiên cứu vắc xin ==
+Các loại vắcxin điều tra đang tồn tại đối với sốt xuất huyết và RVF ở Argentina; tuy nhiên, không được chấp thuận bởi FDA hoặc thường có sẵn ở Hoa Kỳ. 
+Cấu trúc của glycoprotein gắn kết đã được xác định bằng phương pháp tinh thể học tia X và glycoprotein này có thể là thành phần thiết yếu của bất kỳ loại vắcxin thành công nào.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+
+Medical Microbiology 2nd Edition Mims et al. Mosby Publishing 1998. p. 371.

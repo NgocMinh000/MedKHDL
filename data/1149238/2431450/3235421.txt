@@ -1,0 +1,12 @@
+Dây thần kinh là một bó sợi thần kinh được bao bọc giống như dây cáp gọi là sợi trục, trong hệ thần kinh ngoại biên. Một dây thần kinh cung cấp một con đường chung cho các xung thần kinh điện hóa được gọi là hiệu điện thế hành động được truyền dọc theo mỗi sợi trục đến các cơ quan ngoại vi hoặc, trong trường hợp của các dây thần kinh cảm giác, từ ngoại vi trở lại hệ thần kinh trung ương. Mỗi sợi trục trong dây thần kinh là một phần mở rộng của một nơron riêng lẻ, cùng với các tế bào hỗ trợ khác như tế bào Schwann bao bọc các sợi trục trong myelin.
+Trong một dây thần kinh, mỗi sợi trục được bao quanh bởi một lớp mô liên kết gọi là mô nội thần kinh. Các sợi trục được bó lại với nhau thành các nhóm gọi là bó (fascicle) và mỗi nang được bọc trong một lớp mô liên kết gọi là bao ngoài bó sợi thần kinh. Cuối cùng, toàn bộ dây thần kinh được bọc trong một lớp mô liên kết gọi là vỏ dây thần kinh.
+Trong hệ thống thần kinh trung ương, các cấu trúc tương tự được gọi là các bó thần kinh.
+
+
+== Kết cấu ==
+
+Mỗi dây thần kinh được bao phủ bên ngoài bởi một lớp dày đặc các mô liên kết, vỏ dây thần kinh. Bên dưới đây là một lớp tế bào phẳng, bao ngoài bó sợi thần kinh, tạo thành một ống bọc hoàn chỉnh xung quanh một bó sợi trục. Vách màng đáy kéo dài vào dây thần kinh và chia nó thành nhiều bó sợi. Bao quanh mỗi sợi như vậy là mô nội thần kinh. Điều này tạo thành một ống không bị vỡ từ bề mặt của tủy sống đến mức mà sợi trục đồng bộ với các sợi cơ của nó, hoặc kết thúc ở các thụ thể cảm giác. Mô nội thần kinh bao gồm một lớp lót bên trong được gọi là glycocalyx và một lớp lưới bên ngoài, gồm các sợi collagen mỏng manh. Các dây thần kinh bị bó lại và thường đi kèm cùng với các mạch máu, vì các tế bào thần kinh của một dây thần kinh có nhu cầu năng lượng khá cao.
+Trong vỏ dây thần kinh (endoneurium), các sợi thần kinh riêng lẻ được bao quanh bởi một chất lỏng protein thấp gọi là chất lỏng nội sinh. Điều này hoạt động theo cách tương tự như dịch não tủy trong hệ thống thần kinh trung ương và tạo thành một hàng rào thần kinh máu tương tự như hàng rào máu não. Do đó, các phân tử được ngăn chặn qua máu vào chất lỏng nội sinh. Trong quá trình phát triển phù thần kinh do kích thích dây thần kinh (hoặc chấn thương), lượng dịch nội mạc có thể tăng lên tại vị trí kích thích. Sự gia tăng chất lỏng này có thể được hình dung bằng cách sử dụng hình ảnh thần kinh cộng hưởng từ, và do đó, hình ảnh thần kinh MR có thể xác định kích thích thần kinh và/hoặc chấn thương.
+
+
+== Tham khảo ==

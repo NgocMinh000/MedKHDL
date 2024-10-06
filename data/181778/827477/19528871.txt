@@ -1,0 +1,67 @@
+Thần kinh học động vật (Neuroethology) là phương pháp tiếp cận so sánh và tiến hóa để nghiên cứu hành vi của động vật cùng sự kiểm soát cơ học cơ bản của nó từ hệ thần kinh của động vật. Đây là một ngành khoa học có tính liên ngành kết hợp cả khoa học thần kinh (Neuroscience) hay còn gọi là thần kinh học (nghiên cứu về hệ thần kinh) và tập tính học (nghiên cứu hành vi của động vật trong điều kiện tự nhiên). Chủ đề trung tâm của thần kinh học động vật để phân biệt nó với các nhánh khác của khoa học thần kinh chính là cái sự trọng tâm của nó vào các hành vi được chọn lọc tự nhiên được chú ý nhiều như tìm bạn tình, tính định vị và điều hướng, sự di chuyển và cơ chế tự vệ của động vật) hơn là nghiên cứu các hành vi cụ thể đối với tình trạng bệnh thần kinh cụ thể hoặc thí nghiệm động vật trong phòng thí nghiệm.
+Các nhà thần kinh học động vật hy vọng sẽ khám phá ra các nguyên tắc chung của hệ thần kinh từ việc nghiên cứu động vật có hành vi phóng đại hoặc chuyên biệt, họ cố gắng tìm hiểu cách hệ thống thần kinh chuyển các kích thích sinh học thành hành vi tự nhiên. Ví dụ, nhiều loài dơi có khả năng định vị bằng tiếng vang được sử dụng để bắt con mồi và điều hướng và định vị hướng khi bay khi không có ánh sáng. Hệ thống thính giác của loài dơi thường được coi là một ví dụ về cách các đặc tính âm học của âm thanh có thể được chuyển đổi thành một bản đồ cảm giác về các đặc điểm liên quan đến hành vi về phát ra, tiếp nhận, xử lý âm thanh 
+
+
+== Triết lý ==
+Bệnh học thần kinh động vật hay thần kinh học động vật là một phương pháp tiếp cận tích hợp để nghiên cứu hành vi của động vật dựa trên một số nguyên tắc. Cách tiếp cận của nó bắt nguồn từ lý thuyết cho rằng hệ thống thần kinh của động vật đã phát triển để giải quyết các vấn đề về cảm nhận và hoạt động trong một số hốc sinh thái môi trường nhất định và hệ thống thần kinh của chúng được hiểu rõ nhất trong bối cảnh các vấn đề mà chúng đã phát triển để giải quyết. Theo nguyên lý Krogh, các nhà thần kinh học động vật thường nghiên cứu động vật là "chuyên gia" về hành vi mà nhà nghiên cứu muốn nghiên cứu, ví dụ: ong mật và hành vi xã hội của chúng, định vị hướng bằng tiếng vang của dơi, tính bản địa hóa âm thanh của các loài cú. Phạm vi điều tra thần kinh học có thể được tóm tắt từ Jörg-Peter Ewert, một nhà tiên phong về thần kinh học, khi ông coi các loại câu hỏi là trọng tâm của thần kinh học trong bài diễn văn của ông giới thiệu năm 1980 về lĩnh vực này:
+
+Các kích thích được phát hiện từ một sinh vật là như thế nào?
+Các kích thích của môi trường ở ngoại giới được biểu hiện như thế nào trong hệ thần kinh?
+Thông tin về một kích thích cụ thể được hệ thần kinh thu nhận, cảm thụ, lưu trữ và nhớ lại như thế nào?
+Mô hình hành vi được mã hóa bởi mạng nơ-ron thần kinh như thế nào?
+Hành vi được điều phối và điều khiển bởi hệ thần kinh như thế nào?
+Làm thế nào sự phát triển di truyền của hành vi có thể liên quan đến các cơ chế thần kinh?
+Thường thì trọng tâm để giải quyết các câu hỏi trong thần kinh học động vật là phương pháp so sánh, dựa trên kiến thức về hệ thần kinh, giải phẫu, lịch sử vòng đời (lịch sử sự sống), hành vi và môi trường sống của các sinh vật liên quan. Mặc dù không có gì lạ lẫm khi nhiều loại thí nghiệm sinh học thần kinh làm nảy sinh các câu hỏi, vấn đề về hành vi, nhưng nhiều nhà thần kinh học động vật thường bắt đầu chương trình nghiên cứu của họ bằng cách quan sát hành vi của một loài trong môi trường tự nhiên của chúng. Các cách tiếp cận khác để hiểu hệ thống thần kinh bao gồm cách tiếp cận nhận dạng hệ thống, phổ biến trong môi trường kỹ thuật.
+Phản ứng của hệ thống đối với tác nhân kích thích có thể được sử dụng để phân tích hoạt động của hệ thống. Cách tiếp cận như vậy rất hữu ích cho các hệ thống tuyến tính, nhưng hệ thống thần kinh nổi tiếng là phi tuyến tính, và các nhà thần kinh học cho rằng cách tiếp cận như vậy là hạn chế. Lập luận này được hỗ trợ bởi các thí nghiệm trong hệ thống thính giác, cho thấy phản ứng thần kinh đối với âm thanh phức tạp, như tiếng kêu liên lạc, không thể dự đoán được bằng kiến thức thu được từ việc nghiên cứu phản ứng do âm sắc thuần túy (một trong những kích thích phi tự nhiên được ưa chuộng bởi nhà sinh lý học thần kinh thính giác). Điều này là do tính không tuyến tính của hệ thống.
+Thần kinh học động vật hiện đại phần lớn bị ảnh hưởng bởi các kỹ thuật nghiên cứu được sử dụng. Các phương pháp tiếp cận nhất thiết phải rất đa dạng, thể hiện rõ qua nhiều loại câu hỏi trong bộ câu hỏi, các kỹ thuật đo lường được sử dụng, các mối quan hệ được khám phá và các hệ thống mô hình được sử dụng. Các kỹ thuật được sử dụng kể từ năm 1984 bao gồm việc sử dụng thuốc nhuộm nội bào, giúp tạo bản đồ các tế bào thần kinh đã được xác định và sử dụng các lát cắt não, giúp não động vật có xương sống quan sát tốt hơn thông qua các điện cực nội bào (Hoyle 1984). Các lĩnh vực khác mà thần kinh học có thể đứng đầu bao gồm khoa học thần kinh tính toán, di truyền phân tử, nội tiết thần kinh và di truyền biểu sinh. Lĩnh vực mô hình thần kinh hiện có cũng có thể mở rộng sang địa hình thần kinh, do những ứng dụng thực tế của nó trong chế tạo người máy. Trong tất cả những điều này, các nhà thần kinh học phải sử dụng mức độ đơn giản phù hợp để hướng dẫn nghiên cứu một cách hiệu quả nhằm đạt được các mục tiêu của thần kinh học.
+
+
+== Hiện đại ==
+Hiệp hội Thần kinh học Quốc tế đại diện cho ngành thần kinh học hiện nay được thành lập với vị Chủ tịch đầu tiên là Theodore H. Bullock. Hiệp hội này họp ba năm một lần kể từ cuộc họp đầu tiên ở Tokyo vào năm 1986. Thành viên của hiệp hội phát triển do sự thu hút từ nhiều chương trình nghiên cứu trên khắp thế giới, nhiều thành viên của Hiệp hội là sinh viên và giảng viên từ các trường y khoa và khoa sinh học thần kinh từ các trường đại học khác nhau. Những tiến bộ hiện đại trong kỹ thuật sinh lý học thần kinh đã cho phép các phương pháp tiếp cận chính xác hơn trong số lượng ngày càng tăng các hệ thống động vật, vì những hạn chế về kích thước đang được khắc phục đáng kể. Khảo sát về các chủ đề hội nghị chuyên đề của cuộc họp gần đây nhất (đưa ra một số ý tưởng về phạm vi của lĩnh vực này:
+
+Các khía cạnh so sánh của cảm nhận không gian và bản đồ không gian (đối tượng nghiên cứu là các loài gặm nhấm, chim, con người, dơi)
+Ảnh hưởng của các trung tâm xử lý cao hơn trong cảm biến tích cực (động vật linh trưởng, cú, cá chình điện, động vật gặm nhấm, ếch nhái)
+Tiếng kêu và tập tính học khôn ở chim chuyền
+Tính xã hội linh trưởng
+Chức năng tối ưu của hệ thống giác quan (ruồi, bướm đêm, ếch, cá)
+Sự phức tạp của tế bào thần kinh trong hành vi (côn trùng)
+Đóng góp của gen vào hành vi (ruồi giấm, ong mật, cá ngựa vằn)
+Chuyển động của mắt và đầu (động vật giáp xác, con người, rô bốt)
+Các hoạt động nội tiết tố trong não và hành vi (động vật gặm nhấm, động vật linh trưởng, cá, ếch và chim)
+Nhận thức ở côn trùng (ong mật)
+Thần kinh học động vật có thể giúp tạo ra những tiến bộ trong công nghệ thông qua sự hiểu biết nâng cao về hành vi của động vật. Hệ thống mô hình được khái quát hóa từ việc nghiên cứu các loài động vật đơn giản và có liên quan đến con người. Ví dụ, bản đồ không gian vỏ não thần kinh được phát hiện ở dơi, một quán quân chuyên biệt về thính giác và định vị điều hướng trong môi trường bóng tối, đã làm sáng tỏ khái niệm bản đồ không gian tính toán. Ngày nay, kiến thức học được từ thần kinh học động vật đang được áp dụng trong các công nghệ mới. Ví dụ, Randall Beer và các đồng nghiệp của ông đã sử dụng các thuật toán học được từ hành vi đi bộ của côn trùng để tạo ra các robot được thiết kế để đi trên các bề mặt không bằng phẳng. Các nhà thần kinh học tìm cách hiểu cơ sở thần kinh của một hành vi như nó sẽ xảy ra trong môi trường tự nhiên của động vật nhưng các kỹ thuật phân tích sinh lý thần kinh dựa trên cơ sở phòng thí nghiệm và không thể thực hiện được trong môi trường thực địa. Sự phân đôi này giữa nghiên cứu thực địa và phòng thí nghiệm đặt ra một thách thức cho thần kinh học động vật. 
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Beer D., Randall, Roy E. Ritzmann, Thomas McKenna (1993) Biological neural networks in invertebrate neuroethology and robotics. Boston: Academic Press.
+Camhi, J.M. (1984) Neuroethology: Nerve cells and the Natural behavior of Animals, Sinauer Associates.
+Carew, T.J. (2000) Feature analysis in Toads. Behavioral Neurobiology, Sunderland, MA: Sinauer, pp. 95–119.
+Carew, T.J. (2000) Behavioral neurobiology: The Cellular Organization of Natural Behavior, Sinauer Associates.
+Ewert, J.-P. (1974) The neural basis of visually guided behavior. Scientific American 230(3):34-42
+Ewert J.-P. (2004) Motion perception shapes the visual world of amphibians. In: Prete F.R. (Ed.) Complex Worlds from Simpler Nervous Systems. Cambridge, MA, MIT Press, pp. 117–160
+Hoyle, G. (1984) The scope of Neuroethology. Behavioural Brain Science 7:367-412. Graham Hoyle put forth a rather narrow definition of the goals and subject matter of neuroethology and links the field to the field of ethology. This is followed by commentaries from many prominent neuroethologists. It makes for fascinating reading.
+Metzner, W. (1993) The Jamming avoidance response in Eigenmannia is controlled by two separate motor pathways. The Journal of Neuroscience. 13(5):1862-1878
+Pfluger, H.-J. and R. Menzel (1999) Neuroethology, its roots and future. J Comp Physiol A 185:389-392.
+Zupanc, G.K.H. (2004) Behavioral Neurobiology: An Integrative Approach. Oxford University Press: Oxford, UK.
+Sillar, K.T., Picton, L.P., Heitler, W.J. (2016) The Neuroethology of Predation and Escape. John Wiley & Sons Inc., New York.
+Zupanc, G.K.H. (2004) Behavioral Neurobiology an Integrative Approach. Oxford University Press, New York.
+Carew, T.J. (2000) Behavioral Neurobiology: The Cellular Organization of Natural Behavior. Sinauer, Sunderland Mass.
+Simmons, P., Young, D. (1999) Nerve Cells and Animal Behaviour. Second Edition. Cambridge University Press, New York.
+Simmons, P., Young, D. (2010) Nerve Cells and Animal Behaviour. Third Edition. Cambridge University Press, New York.
+Camhi J. (1984) Neuroethology: Nerve Cells and the Natural Behavior of Animals. Sinauer Associates, Sunderland Mass.
+Guthrie, D.M. (1980) Neuroethology: An Introduction. Wiley, New York.
+Ewert, J.-P. (1980) Neuroethology: An Introduction to the Neurophysiological Fundamentals of Behaviour. Springer-Verlag, New York.
+Ewert, J.-P. (1976) Neuroethologie: Einführung in die neurophysiologischen Grundlagen des Verhaltens. HT 181. Springer-Verlag Heidelberg, Berlin, New York.
+Kandel, E.R. (1976) Cellular Basis of Behavior: An Introduction to Behavioral Neurobiology. W.H. Freeman
+Roeder, K.D. (1967) Nerve Cells and Insect Behavior. Harvard University Press, Cambridge Mass.
+Marler, P., Hamilton, W.J. (1966) Mechanisms of Animal Behavior. John Wiley & Sons Inc., New York.
+
+
+== Liên kết ngoài ==
+Günther K. H. Zupanc (2010), Neuroethology, Scholarpedia, 5(10):5306.*International Society for Neuroethology
+Topics in Neuroethology
+https://web.archive.org/web/20071006201121/http://www.tamie.org/insect.png
+Collected Neuroethology articles in Scholarpedia

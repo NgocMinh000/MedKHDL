@@ -1,0 +1,9 @@
+Trong hệ thần kinh, dây thần kinh ly tâm hay dây thần kinh vận động (tiếng Anh: efferent nerves, motor neurons, effector neurons) truyền xung thần kinh ra khỏi hệ thần kinh trung ương đến các cơ quan tác động như cơ và các tuyến nội tiết (và cả các tế bào có mao của tai trong). Khái niệm ly tâm cũng được sử dụng để mô tả kết nối tương đối giữa các kết cấu thần kinh (chẳng hạn synap ly tâm của một neuron làm đầu vào cho một neuron khác nhưng ngược lại thì không). Hoạt động theo chiều ngược lại gọi là hướng tâm và dây thần kinh tương ứng là dây thần kinh hướng tâm.
+Dây thần kinh vận động là các dây thần kinh ly tâm tham gia vào điều kiển cơ. Nhân tế bào của các neuron ly tâm kết nối với duy nhất một sợi trục dài và một vài đen-đrit ngắn hơn phóng ra khỏi thân tế bào. Loại sợi trục này tạo ra mối tiếp hợp thần kinh-vận động với các cơ quan tác động. Thân tế bào của neuron vận động có hình vệ tinh. Nơ-ron này có mặt trong chất xám của dây cột sống và hành não tạo thành một đường điện hóa đến các cơ quan tác động hoặc cơ. Ngoài các dây thần kinh vận động còn có các dây thần kinh thụ cảm ly tâm thường làm nhiệm vụ điều chỉnh độ nhạy của tín hiệu chuyển tiếp từ các dây thần kinh thụ cảm hướng tâm.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Motor neurons, a dynamic list of Petilla convention aligned motor neurons at NeuroLex.

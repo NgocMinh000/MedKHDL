@@ -1,0 +1,60 @@
+Bệnh sử hay phần hỏi bệnh (viết tắt hx hay Hx) của một bệnh nhân là những dữ liệu thu thập được bởi một bác sĩ qua việc hỏi những câu hỏi cụ thể, hoặc hỏi trực tiếp bệnh nhân hoặc dán tiếp qua người quen bệnh nhân và có thể cung cấp các thông tin cần thiết về bệnh nhân, với mục đích là nắm được các thông tin có ích trong việc xây dựng một chẩn đoán y khoa và việc chăm sóc y khoa cho bệnh nhân. Các dấu hiệu có liên quan đến bệnh lý được bệnh nhân hay người thân của bệnh nhân tường trình được gọi là các triệu chứng chú quan, phân biệt với các triệu chứng khách quan là những biểu hiện được xác định bởi thăm khám trực tiếp do các nhân viên y tế thực hiện. Hấu như ở tất cả mọi trường hợp đều dẫn đến việc thu thập bệnh sử theo một hình thức nào đó. Các bệnh sử khác nhau về chiều sâu và trọng tâm. Ví dụ, một chuyên viên cấp cứu làm việc trên xe cứu thương thường giới hạn bệnh sử trong các thông tin quan trọng, như là tiền sử của dấu hiệu hiện thời, dị ứng, vân vân. Ngược lại, một bệnh án tâm thần thường dài dòng và sâu sắc, do nhiều chi tiết về cuộc sống bệnh nhân đáng giá trong việc xây dựng một phác đồ quản sóc một chứng tâm thần.
+Các thông tin thu thập bằng cách này, cùng với thăm khám trực tiếp, cho phép bác sĩ và các chuyên viên y tế hình thành một chẩn đoán và phác đồ điều trị. Nếu không thể đưa ra chẩn đoán xác định, một chẩn đoán sơ bộ và các khả năng khác (chẩn đoán phân biệt) có thể được đưa ra, ghi theo thứ tự nguy cơ theo quy ước. Phác đồ điều trị sau đó có thể bổ sung các xét nghiệm sâu hơn để làm rõ chẩn đoán.
+
+
+== Quy trình hỏi bệnh ==
+
+Một bác sĩ thường đưa ra các câu hỏi để thu thập các thông tin sau đây về bệnh nhân:
+
+Hành chính (nhận dạng và dữ liệu nhân khẩu): họ tên, tuổi, giới tính, địa chỉ.
+Dấu hiệu chính ("Lý do vào viện") - vấn đề hay mối lo lắng về sức khỏe chính, và diễn tiến của triệu chứng (như đau ngực liên tục từ 4 tiếng trước).
+Quá trình bệnh lý -  các chi tiết của lý do vào viện.
+Tiền sử bản thân - bao gồm các chứng bệnh lớn, các phẫu thuật đã trải qua, các bệnh đang điều trị.
+Lược qua các cơ quan Hỏi có hệ thống về các hệ cơ quan khác nhau.
+Tiền sử gia đình - chú trọng những chi tiết có quan hệ với lý do vào viện của bệnh nhân.
+Tiền sử xã hội (tiền sử thân cận) - bao gồm cách sắp xếp sinh hoạt, nghề nghiệp, tình trạng hôn nhân, số con, thói quen (bao gồm thuốc lá, rượu bia, các loại ma túy), các chuyến đi xa gần đây và sự phơi nhiễm với mầm bệnh môi trường qua các hoạt động giải trí và thú nuôi.
+Dược phẩm thông thường hay cấp tính - bao gồm các thuốc kê bởi các bác sĩ, và các thuốc không kê đơn hay thuốc y học cổ truyền
+Các dị ứng - đối với dược phẩm, thức ăn, nhựa latex hay các yếu tố môi trường khác.
+Tiền sử sinh dục, tiền sử phụ khoa/sản khoa, vân vân, nếu phù hợp.
+Kết luận và kết thúc
+Việc hỏi bệnh có thể là hỏi bệnh tổng quát (gồm một bộ câu hỏi cố định và mở rộng, thường chỉ được thực hiện bởi học sinh sinh viên y khoa) hay iterative hypothesis testing (các câu hỏi được giới hạn và thay đổi thích nghi để chọn loại trừ các chẩn đoán có khả năng dựa trên các thông tin đã có, như được thực hiện bởi các nhà lâm sàng bận rộn bị giới hạn về mặt thời gian). Hỏi bệnh vi tính hóa có thể là một phần không thể thiếu trong các hệ thống hỗ trợ quyết định lâm sàng.
+
+
+== Lược qua các cơ quan ==
+
+Dù một tình trạng nhất định có dường như giới hạn trong bất kì một hệ cơ quan nào thì tất cả các hệ cơ quan khác cũng sẽ được hỏi sơ lược trong một phần hỏi bệnh đầy đủ. Phần lược qua các cơ quan thường bao gồm toàn bộ các hệ cơ quan chính trong cơ thể nào có thể cung cấp cơ hội để người khai nhắc đến triệu chứng hay lo lắng mà họ đã không nhắc đến trong phần bệnh sử. Chuyên viên y tế có thể cấu trúc phần sơ lược các cơ quan như sau:
+
+Hệ tim mạch (cơn đau ngực, khó thở, phù mắt cá chân, đánh trống ngực là các triệu chứng quan trọng nhất và có thể phải bao gồm một đoạn mô tả ngắn cho mỗi triệu chứng dương tính).
+Hệ hô hấp (ho, ho ra máu, khó thở, đau khu trú vùng ngực tăng lên khi hít hay thở)
+Hệ tiêu hóa (thay đổi về cân nặng, trung tiện, heart burn, nuốt khó, đau bụng, nôn ói và tình trạng đi tiêu).
+Hệ niệu sinh dục (tần suất đi tiểu, cơn đau trong thời gian tiểu tiện, màu nước tiểu, các loại tiết dịch niệu đạo, thay đổi kiểm soát tiểu tiện như tiểu gấp, tiểu không tự chủ, kinh nguyệt hay hoạt động tình dục).
+Hệ thần kinh (đau đầu, mất ý thức, hoa mắt và chóng mặt, phát âm và các chức năng liên quan như kĩ năng đọc, viết và trí nhớ).
+Các triệu chứng dây thần kinh sọ (thị lực, nhìn đôi, tê mặt, điếc, nuốt khó hầu miệng, các triệu chứng vận động và cảm giác chi, mất phối hợp vận động).
+Hệ nội tiết (mất cân, uống nhiều, tiểu nhiều, thèm ăn và dễ cáu gắt).
+Hệ vận động (bất kì cơn đau xương hay khớp kèm phù khớp hay mềm khớp, yếu tố tăng mạnh hay giảm nhẹ các cơn đau và các tiền sử gia đình dương tính với bệnh khớp).
+Da (các kiểu nổi mẩn đỏ (phát ban), các loại mỹ phẩm hay kem chống nắng dùng gần đây).
+
+
+== Các yếu tố bất lợi ==
+Các yếu tố cản trở một cuộc hỏi bệnh sử đúng nghĩa bao gồm bệnh nhân mất khả năng thực thể để giao tiếp với thầy thuốc, như là bất tỉnh hay các chứng về giao tiếp. Trong những trường hợp đó, có thể cần tới việc hỏi bệnh gián tiếp qua người quen biết bệnh nhân và có thể cung cấp các thông tin phù hợp tuy có nhiều giới hạn hơn hỏi bệnh trực tiếp.
+Hỏi bệnh cũng có thể bất khả thi do hàng loạt các yếu tố ngăn cản mối quan hệ bác sĩ-bệnh nhân đúng mực, như khi chuyển bệnh cho các thầy thuốc xa lạ đối với bệnh nhân.
+Việc hỏi bệnh các vấn đề liên quan đến sinh dục hay khả năng sinh sản có thể bị ức chế do sự nghi ngại không muốn tiết lộ những thông tin thân mật kín đáo về phía người bệnh. Hay ngay cả khi những vấn đề bệnh lý xuất hiện trong tư tưởng người bệnh, họ thường không tự nói ra nếu không có khơi gợi chủ đề bằng một câu hỏi cụ thể về sức khỏe sinh sản hay sinh dục. Sự quen thuộc với bác sĩ thường khiến mọi việc dễ dàng hơn cho bệnh nhân để nói về các vấn đề rịêng tư như chủ đề sinh dục,nhưng đối với một vài bệnh nhân, sự quen thuộc cao độ có thể khiến bệnh nhân không muốn tiết lộ các vấn đề riêng tư như vậy. Khi tìm đến nhân viên y tế vì những vấn đề sinh dục, sự có mặt của cả bệnh nhân và vợ/chồng/người yêu bệnh nhân thường cần thiết, và cũng thường có hiệu quả, nhưng cũng có thể ngăn bệnh nhân tiết lộ một vài vấn đề nhất định, và, theo 1 báo cáo thì điều này tăng mức độ stress của bệnh nhân.
+
+
+== Hỏi bệnh với sự trợ giúp của điện toán ==
+Các hệ thống hỏi bệnh với sự trợ giúp của điện toán đã có mặt từ những năm 60 của thế kỳ XX. Tuy nhiên, việc sử dụng chúng hay không là tùy vào mỗi hệ thống y tế.
+Một lợi thế của việc dùng các hệ thống vi tính hóa như một nguồn thông tin y khoa phụ hay thậm chí nguồn chính là bệnh nhân ít nhạy cảm hơn với xu hướng mong muốn cộng đồng. Ví dụ, khả năng bệnh nhân thuật lại việc họ tham gia vào các hành vi lối sống không lành mạnh là cao hơn. Một ưu điểm khác của việc sử dụng các hệ thống vi tính hóa là cách làm này đem lại sự thuận lợi cho việc chuyển thông tin vào bệnh án điện tử của bệnh nhân.
+Một bất lợi các của các hệ thống hỏi bệnh hiện nay (2012) là chúng không thể nhận biết giao tiếp không lời, cử chỉ của bệnh nhân có thể giúp giải thích các chứng lo âu và có ích trong việc kế hoạch điều trị. Một nhược điểm khác là người ta có thể cảm thấy không thoải mái bằng khi giao tiếp người với người. Trong một bối cảnh hỏi bệnh tình dục dưới hình thức tự phỏng vấn được máy tính hỗ trợ ở Úc, có 51% số người tham gia cảm thấy rất thoải mái, 35% cảm thấy thoải mái, và 14% còn lại cảm thấy không thoải mái hoặc rất không thoải mái.
+Bằng chứng ủng hộ hay chống lại các hệ thống khai thác bệnh sử được máy tính hỗ trợ còn ít ỏi. Ví dụ, như năm 2011, không có các thử nghiệm ngẫu nhiên có nhóm chứng để so sánh hình thức dùng máy tính hỗ trợ với hình thức hỏi và ghi ghép truyền thống trong khai thác tiểu sử gia đình để xác định bệnh nhân có nguy cơ phát triển chứng đái tháo đường tuýp 2 cao.
+
+
+== Xem thêm ==
+Catamnesis
+Cây gia hệ
+Bệnh án
+Y học
+Thăm khám thực thể
+Phân tâm học (Freud uses the term anamnesis to describe neurotics' recounting of their symptoms)
+
+
+== Chú thích ==

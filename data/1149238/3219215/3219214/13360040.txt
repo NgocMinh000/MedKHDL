@@ -1,0 +1,55 @@
+Quản lý sự chú ý đề cập đến các mô hình và công cụ để hỗ trợ quản lý sự chú ý ở cá nhân hoặc ở cấp độ tập thể (xem nền kinh tế chú ý), và ở thời gian ngắn (gần như thời gian thực) hoặc lâu dài (qua các thời kỳ tuần hoặc tháng).
+Nhà nghiên cứu Herbert A. Simon đã chỉ ra rằng khi có thông tin sẵn có, sự chú ý trở thành tài nguyên khan hiếm hơn vì con người không thể tiêu hóa tất cả thông tin.
+Theo Maura Thomas, quản lý sự chú ý là kỹ năng quan trọng nhất cho thế kỷ 21. Với cuộc cách mạng kỹ thuật số và sự ra đời của các thiết bị Internet và truyền thông, quản lý thời gian không còn đủ để đảm bảo chất lượng công việc. Việc phân bổ thời gian để thực hiện một hoạt động không có nghĩa là nó sẽ nhận được sự chú ý nếu thấy sự gián đoạn liên tục và sự phân tâm. Vì vậy, mọi người nên ngừng lo lắng về quản lý thời gian và tập trung vào quản lý sự chú ý.
+Khả năng kiểm soát sự phân tâm và tập trung là điều cần thiết để tạo ra kết quả chất lượng cao hơn. Một nghiên cứu do Stanford tiến hành cho thấy rằng việc đơn tác vụ hiệu quả hơn và hiệu quả hơn nhiều tác vụ. Các nghiên cứu khác nhau đã được tiến hành trong việc sử dụng công nghệ thông tin và truyền thông để hỗ trợ sự chú ý, và đặc biệt là các mô hình đã được xây dựng để hỗ trợ sự chú ý (Davenport & Beck 2001) (Roda & Nabeth 2008).
+Hỗ trợ quản lý sự chú ý mục tiêu là đưa ra một số giải pháp nhất định để:
+
+những hạn chế về nhận thức của con người, chẳng hạn như năng lực hạn chế của trí nhớ ngắn hạn của con người (có thể quản lý được một số lượng trung bình của 4 mục (Cowan 2001) vào một thời điểm nhất định) hoặc giới hạn lý thuyết về nhận thức đối với số người có thể duy trì các mối quan hệ xã hội ổn định (số Dunbar là 150).
+quá tải thông tin
+sự tương tác xã hội quá tải (ví dụ có thể bắt nguồn từ các dịch vụ mạng xã hội trực tuyến mà từ đó mọi người nhận được rất nhiều lời khen ngợi)
+gián đoạn ((Kebinger 2005))
+đa nhiệm ((Rosen 2008))
+Công cụ có thể được thiết kế để hỗ trợ sự chú ý
+
+ở cấp tổ chức, bằng cách hỗ trợ quá trình tổ chức (Apostolou, Karapiperis & Stojanovic 2008)
+ở cấp độ tập thể
+ở cấp độ cá nhân, ví dụ sử dụng các giao diện người dùng chú ý (Vertegaal 2003) (Vertegaal và cộng sự, 2006) (Huberman & Wu 2008).
+ở mức độ cá nhân bằng cách giúp mọi người đánh giá và phân tích các thực tiễn liên quan đến chú ý của họ (ví dụ với công cụ AttentionScape (Davenport, Beck 2001)).
+Những công cụ này thường là hypermedia thích nghi và thường dựa vào việc định hình người dùng (Nabeth 2008) để xác định làm thế nào để hỗ trợ tốt hơn sự chú ý của mọi người.
+
+
+== Dự án ==
+Một số dự án nhất định đã được tiến hành để điều tra cách sử dụng ICT để hỗ trợ sự chú ý như:
+
+AtGentive - Tác nhân chú ý đến học viên hợp tác.
+SAKE - Chính phủ điện tử dựa trên tri thức Agile (IST 027128)
+SUITOR (Maglio và cộng sự 2000)
+
+
+== Xem thêm ==
+Kinh tế sức chú ý
+Quá tải thông tin
+Quản lý thông tin cá nhân
+Quản lý thời gian
+Mô hình người dùng
+
+
+== Tham khảo ==
+
+Apostolou, D.; Karapiperis, S.; Stojanovic, N. (2008). “On Managing Users' Attention in Knowledge-Intensive Organizations”.  Trong G.A. Tsihrintzis;  và đồng nghiệp (biên tập). New Directions in Intelligent Interactive Multimedia, SCI 142. Springer. tr. 239–248. doi:10.1007/978-3-540-68127-4_25.
+Cowan, Nelson (tháng 2 năm 2001). “The magical number 4 in short-term memory: a reconsideration of mental storage capacity”. The Behavioral and Brain Sciences. 1. 24: 87–114. doi:10.1017/S0140525X01003922. PMID 11515286.
+Davenport, T.H.; Beck, J.C. (2001). The Attention Economy: Understanding the New Currency of Business. Harvard Business School Press. ISBN 1-57851-441-X.
+Davenport, T.; Voelpel, S. (2001). “The rise of knowledge towards attention management”. Journal of knowledge management. 5 (3): 212–222. doi:10.1108/13673270110400816.
+Huberman, Bernardo A.; Wu, Fang (2008). “The Economics of Attention: Maximizing User Value in Information Rich Environments” (PDF). Advances in Complex Systems. 11 (4): 487–496. doi:10.1142/S0219525908001830.
+Kebinger, J. (2005). “Current research in workplace interruption management” (PDF). Paper COMP171. Bản gốc (PDF) lưu trữ ngày 20 tháng 11 năm 2008.
+Maglio, P.P.; Barrett, R.; Campbell, C.S.; Selker, T. (2000). “SUITOR: An attentive information system”.  Trong G.A. Tsihrintzis;  và đồng nghiệp (biên tập). Proceedings of the International Conference on Intelligent User Interfaces 2000 (PDF). ACM Press. tr. 169–176. doi:10.1145/325737.325821.
+Nabeth, Thierry (2008). “User Profiling for Attention Support for School and Work”.  Trong Mireille Hildebrandt and Serge Gutwirth (biên tập). Profiling the European Citizen. Springer. tr. 185–200. doi:10.1007/978-1-4020-6914-7_10.
+Roda, Claudia; Nabeth, Thierry (2008). “Attention management in organizations: Four levels of support in information systems”.  Trong A. Bounfour (biên tập). 978-0-415-43771-4 Organizational Capital: Modelling, Measuring and Contextualising. Routledge (advanced research series in management). Routledge. tr. 214–233.
+Rosen, Christine (2008). “The Myth of Multitasking”. The New Atlantis, Spring 2008. 20: 105–110. Bản gốc lưu trữ ngày 18 tháng 2 năm 2009.
+Vertegaal, Roel (2003). “Attentive User Interfaces” (PDF). Communications of the ACM. 46 (3): 30. doi:10.1145/636772.636794. Bản gốc (PDF) lưu trữ ngày 29 tháng 9 năm 2010. 
+Vertegaal, Roel; Shell, J.S.; Chen, D.; Mamuji, A. (2006). “Designing for augmented attention: Towards a framework for attentive user interfaces”. Computers in Human Behavior. 22 (4): 771–789. doi:10.1016/j.chb.2005.12.012.
+Wolpers, Martin; Najjar, Jehad; Verbert, Katrien; Duval, Erik (2007). “Tracking Actual Usage: the Attention Metadata Approach”. International Journal Educational Technology and Society. 10 (3 Special Issue on "Advanced Technologies for Life-Long Learning). ISSN 1176-3647.
+
+
+== Liên kết ngoài ==
+AtGentiveWatch: Chú Ý

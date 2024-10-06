@@ -1,0 +1,12 @@
+Theo Viện Ung thư Quốc gia, vắc-xin kháng nguyên khối u là " vắc-xin được tạo thành từ các tế bào ung thư, các bộ phận của tế bào ung thư hoặc kháng nguyên khối u tinh khiết (các chất được phân lập từ các tế bào khối u)". Một vắc-xin kháng nguyên khối u có thể kích thích hệ thống miễn dịch của cơ thể để tìm và tiêu diệt các tế bào ung thư. Như vậy, vắc-xin kháng nguyên khối u là một loại liệu pháp miễn dịch ung thư.
+
+
+== Cách thức hoạt động ==
+Vắc-xin kháng nguyên khối u hoạt động giống như vắc-xin virus vẫn hoạt động, bằng cách đào tạo hệ thống miễn dịch để tấn công các tế bào có chứa các kháng nguyên trong vắc-xin. Sự khác biệt là các kháng nguyên đối với vắc-xin virus có nguồn gốc từ vi-rút hoặc tế bào bị nhiễm vi-rút, trong khi các kháng nguyên đối với vắc-xin kháng nguyên khối u có nguồn gốc từ các tế bào ung thư. Vì kháng nguyên khối u là kháng nguyên được tìm thấy trong các tế bào ung thư nhưng không phải là tế bào bình thường, nên tiêm vắc-xin chứa kháng nguyên khối u sẽ huấn luyện hệ thống miễn dịch để nhắm mục tiêu các tế bào ung thư không phải là tế bào khỏe mạnh. Kháng nguyên khối u đặc hiệu ung thư bao gồm các peptide từ protein thường không được tìm thấy trong các tế bào bình thường nhưng được kích hoạt trong các tế bào ung thư hoặc các peptide có chứa đột biến đặc hiệu ung thư. Các tế bào trình diện kháng nguyên (APC) như tế bào đuôi gai lấy kháng nguyên từ vắc-xin, xử lý chúng thành các epitope và đưa các epitope vào cho các tế bào T thông qua các protein phức hợp phù hợp tổ chức chính. Nếu các tế bào T nhận ra epitope là ngoại lai, hệ thống miễn dịch thích nghi được kích hoạt và nhắm mục tiêu các tế bào biểu hiện các kháng nguyên.
+
+
+== Phân loại vắc-xin ==
+Vắc-xin ung thư có thể dựa trên tế bào, dựa trên protein hoặc peptide hoặc dựa trên gen (DNA / RNA).
+
+
+== Tham khảo ==

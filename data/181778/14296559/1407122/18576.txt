@@ -1,0 +1,23 @@
+Phân loại thống kê quốc tế về các bệnh tật và vấn đề sức khỏe liên quan (tiếng Anh: International Statistical Classification of Diseases and Related Health Problems), gọi tắt là Phân loại quốc tế về bệnh tật (tiếng Anh: International Classification of Diseases, viết tắt: ICD) cung cấp mã hóa các bệnh thành những mã ngắn gọn, làm chuẩn cho công tác nghiên cứu và thực hành y học. Không những giúp ích khi bệnh nhân được chuyển từ nước này sang nước khác (tránh lỗi dịch), ở trong cùng một nước ICD cũng giúp tránh sự hiểu sai do cách dùng từ khác nhau giữa nhân viên y tế do đào tạo bởi các trường khác nhau, hoặc được đào tạo trong các thời kỳ khác nhau.
+Hiện nay, nhiều quốc gia đang phát triển sử dụng ICD-9, nhưng những quốc gia phát triển đã bắt đầu sử dụng ICD-10
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức của Tổ chức Y tế Thế giới (WHO)
+Tra trực tuyến ICD-10 (WHO)
+Truy cập trực tiếp trang đào tạo trực tuyến ICD-10 (WHO)
+Trang hỗ trợ đào tạo trực tuyến ICD-10 (WHO)
+Công cụ tìm mã trực tuyến
+ICD-10-CM (USA – bản sửa) trên trang Trung tâm kiểm soát và phòng ngừa dịch bệnh (Hoa Kỳ)
+ICD-11 Revision Lưu trữ 2012-02-13 tại Wayback Machine (WHO)
+Truy mã cho ICD-9-CM, ICD-10-CM, ICD-10-PCS, HCPCS, DRGs
+Chuyển đổi mã ICD-9-CM sang ICD-10-CM Lưu trữ 2017-10-27 tại Wayback Machine
+ICD-9-CM and DRG on-line coding engine Lưu trữ 2015-08-12 tại Wayback Machine
+Free ICD-9-CM Code search Lưu trữ 2014-10-24 tại Wayback Machine
+ICD-10 and ICD-10 PCS
+ICD-9 and ICD-10 code lookup Lưu trữ 2014-08-08 tại Wayback Machine
+Free ICD-9 and ICD-10 online browser in english and spanish
+Bản mẫu:Health informatics

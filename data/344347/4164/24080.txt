@@ -1,0 +1,56 @@
+Tải nạp (tiếng Anh: transduction) là quá trình ADN ngoại lai được đưa vào tế bào thông qua vectơ thường là vi-rút.. Đây là một thuật ngữ trong sinh học phân tử và di truyền học vi khuẩn. Trong tiếng Anh, "transduction" dùng để chỉ một đoạn hoặc cả phân tử ADN của tế bào cho chuyển sang tế bào nhận thông qua trung gian. Kết thúc quá trình tải nạp, tế bào nhận sẽ có một đoạn ADN mới gọi là ADN ngoại lai và hiện tượng tái tổ hợp không tương đồng sẽ xảy ra bên trọng tế bào.
+Một ví dụ của quá trình tải nạp là sự vận chuyển ADN từ vi khuẩn này sang vi khuẩn khác thông qua vi-rút. Đây cũng là một ví dụ của hiện tượng chuyển gen ngang. Quá trình tải nạp không yêu cầu tiếp xúc vật lý giữa tế bào cho ADN và tế bào nhận ADN như trong quá trình tiếp hợp. Đồng thời, không như biến nạp, quá trình này không bị ảnh hưởng bởi ADNse - enzym phân hủy ADN. Tải nạp là một công cụ phổ biến được các nhà sinh học phân tử sử dụng để đưa một gen ngoại lai vào bộ gen của tế bào chủ (bao gồm cả tế bào vi khuẩn và tế bào động vật có vú) một cách ổn định. Ngoài ra, các nhà sinh học phân tử còn ứng dụng quá trình này nhằm thay đổi cấu trúc di truyền của vi khuẩn để xác định vị trí gen và cho nhiều thí nghiệm di truyền khác.
+
+
+== Lịch sử ==
+Năm 1952, Norton Zinder và Joshua Lederberg từ Đại học Wisconsin-Madison đã khám phá ra hiện tượng tải nạp ở vi khuẩn Salmonella. 
+
+
+== Trong chu trình tan và tiềm tan ==
+Quá trình tải nạp xảy ra thông qua chu trình tan hoặc tiềm tan. Trong chu trình tan, khi thể thực khuẩn (vi-rút lây nhiễm vi khuẩn hay bacteriophage hoặc phage) lây nhiễm tế bào vi khuẩn, các thể này sẽ bắt đầu khai thác bộ máy sao chép, phiên mã, và dịch mã của tế bào vi khuẩn chủ để tạo ra các hạt vi rút mới gọi là virion. Các hạt thể thực khuẩn mới sau đó được giải phóng bằng cách ly giải vật chủ. Trong chu trình tiềm tan, nhiễm sắc thể của phage được tích hợp vào nhiễm sắc thể của vi khuẩn, và ADN của phage lúc này sẽ được gọi là prophage. Khi ở dạng này, ADN của phage có thể không hoạt động trong thời gian dài. Nếu prophage được kích thích (ví dụ như bằng tia cực tím), bộ gen của phage sẽ được cắt bỏ khỏi nhiễm sắc thể của vi khuẩn. Sau đó, chu kỳ tan sẽ bắt đầu và dẫn đến sự phân giải của tế bào và giải phóng các virion. Quá trình tải nạp chung cỏ thể xảy ra ở cả hai chu trình, trong khi quá trình tải nạp đặc hiệu chỉ xảy ra khi prophage bị cắt trong chu trình tiềm tan. 
+
+
+== Phương pháp vận chuyển thông tin di truyền ==
+
+
+=== Tải nạp vi khuẩn nhờ thể thực khuẩn ===
+Quá trình đóng gói ADN của thực khuẩn thể vào vỏ bọc có độ chính xác thấp. Một số đoạn ADN của vi khuẩn chủ cũng bị đóng gói vào vỏ thực khuẩn thể thay vì bộ gene của nó. Những ARN virus không có khả năng đóng gói ADN nên thường không tạo ra nhầm lẫn trên. Khi ly giải tế bào, những virion bị đóng gói nhầm chứa ADN vi khuẩn có thể được đưa vào một vi khuẩn khác, và như vậy ADN vi khuẩn từ tế bào này đã vô tình được vận chuyển sang tế bào khác. Đoạn ADN này có thể trở thành một phần của nhiễm sắc thể trong tế bào mới, và từ đó được di truyền lại một cách ổn định. Có hai cách mà quá trình này có thể dẫn đến tải nạp.
+
+
+==== Tải nạp chung ====
+Tải nạp chung xảy ra khi các đoạn ADN vi khuẩn ngẫu nhiên được đóng gói thành một thể thực khuẩn, và bất kỳ gen nào của tế bào chủ có thể tham gia vào quá trình này. Quá trình này xảy ra khi một phage đang ở trong chu trình tan, cụ thể là tại thời điểm ADN của vi-rút được đóng gói vào trong các đầu của phage. Nếu vi-rút sử dụng cơ chế "đóng gói đầu" (tiếng Anh: headful packaging), vi-rút đó sẽ cố gắng lấp đầy phần đầu bằng các bộ gen. Cụ thể hơn, nếu phần đầu vẫn còn chỗ trống sau khi bộ gen của vi-rút đã được đóng gói xong, các cơ chế đóng gói vi-rút có thể vận chuyển bộ gen của vi khuẩn chủ vào trong phần đầu nhằm lấp đầy bộ phận này. Ngoài ra, quá trình tải nạp chung có thể xảy ra thông qua hiện tượng tái tổ hợp di truyền. Tải nạp chung là một sự quá trình hiếm gặp và xác xuất thành công là 1/11,000 phage.
+Các virion chứa một phần ADN của vi khuẩn sau đó có thể truyền sang tế bào vi khuẩn khác khi vi-rút bắt đầu chu trình lây nhiễm mới. Khi ADN của vi khuẩn được đóng gói trong vi-rút được đưa vào tế bào nhận, ba điều có thể xảy ra:
+
+ADN được tái chế nhằm thay thế các bộ gen trong tế bào nhận.
+Nếu ADN ban đầu là một plasmid, thì ADN sẽ trở lại thành dạng vòng bên trong tế bào mới.
+Nếu ADN khớp với có đoạn tương đồng với vùng trên nhiễm sắc thể của tế bào nhận, thì sẽ trao đổi vật chất ADN tương tự như các hoạt động tái tổ hợp di truyền của vi khuẩn.
+
+
+==== Tải nạp đặc hiệu ====
+Tải nạp đặc hiệu là quá trình mà theo đó một gen cụ thể của vi khuẩn được chuyển sang một loại vi khuẩn khác. Những gen nằm liền kề với prophage được chuyển do sai sót trong quá trình cắt bỏ. Sau đó, ADN vi khuẩn đã cắt bỏ cùng với ADN của virus được đóng gói thành một hạt vi-rút mới, hạt này sau đó được vận chuyển đến một vi khuẩn mới khi phage bắt đầu chu trình lây nhiễm. Ở tế bào mới, tùy thuộc vào bản chất của thể thực khuẩn mà các gen từ tế bào cho có thể được tích hợp vào nhiễm sắc thể của tế bào nhận hoặc tồn tại trong tế bào chất. Một ví dụ về quá trình tải nạp đặc hiệu xuất hiện thể thực khuẩn λ của Escherichia coli.
+
+
+==== Tải nạp ngang ====
+Tải nạp ngang là quá trình chuyển các đoạn ADN rất dài của vi khuẩn sang vi khuẩn khác. Cho đến nay, hình thức tải nạp này chỉ được mô tả ở Staphylococcus aureus, nhưng nó có thể chuyển nhiều gen hơn và ở tần số cao hơn so với tải nạp chung và đặc hiệu. Trong quá trình tải nạp ngang, prophage bắt đầu sao chép in situ trước khi cắt bỏ trong một quá trình mà sau đó dẫn đến quá trình sao chép ADN của vi khuẩn liền kề. Tiếp theo, quá trình đóng gói thể thực khuẩn đã sao chép bắt đầu vị trí pac (nằm ở khoảng giữa bộ gen của thể thực khuẩn) và các gen của vi khuẩn lân cận xảy ra in situ cho tới khi bộ gen đạt đến 105% kích thước bộ gen của thể thực khuẩn. Việc đóng gói bộ gen liên tiếp sau khi bắt đầu từ vị trí pac giúp cho hàng ngàn base gen của vi khuẩn được đóng gói trong các virion và có thể được vận chuyến sang một tế bào mới. Nếu bộ gen trong các virion chứa đủ thông tin di truyền cho quá trình tái tổ hợp tương đồng, thì đoạn ADN sex được đưa vào nhiễm sắc thể của tế bảo nhận. Do nhiều bản sao của bộ gen của thể thực khuẩn được tạo ra trong quá trình sao chép in situ, một số prophage này sẽ được cắt bỏ bình thường (thay vì được đóng gói in situ), tạo ra các thể thực khuẩn với chu trình lây nhiễm như bình thường.
+
+
+=== Tải nạp tế bào động vật có vú nhờ vectơ vi-rút ===
+Tải nạp bằng vectơ vi-rút có thể được sử dụng để chèn hoặc sửa đổi gen trong tế bào động vật có vú. Quá trình này thường được sử dụng như một công cụ trong nghiên cứu cơ bản và được tích cực nghiên cứu như một phương tiện cho liệu pháp gen
+
+
+==== Quá trình ====
+Một plasmid chứa các gen mong muốn được vận chuyển sẽ được tạo ra. Các gen này được bao quanh bởi các đoạn gen vi-rút có chức năng giúp protein vi-rút nhận biết để đóng gói bộ gen vi-rút thành các hạt vi-rút. Plasmid này sau đó sẽ được chèn (thường bằng cách truyền nạp) vào tế bào sản xuất cùng với các plasmid khác mang các gen vi-rút cần thiết cho sự hình thành virion. Trong các tế bào sản xuất này, các plasmid mang gen vi-rút sẽ được biểu hiện để tạo ra các protein vi-rút được biểu hiện. Các protein này sau đó liên kết các trình tự trên ADN hoặc ARN (tùy thuộc vào loại vectơ vi-rút) mong muốn vận chuyển để chèn các bộ gen này vào các hạt vi-rút. Vì vấn đề an toàn, không có plasmid nào chứa tất cả các trình tự cần thiết để hình thành vi-rút. Do đó, cần phải truyền nhiều plasmid cùng một lúc để thu được virion. Đồng thời, chỉ có plasmid mang các gen mong muốn được vận chuyển mới chứa các tín hiệu cho phép vật liệu di truyền được đóng gói vào trong virion để không có gen nào giúp mã hóa protein vi-rút được đóng gói. Vi-rút được thu thập từ các tế bào sản xuất này sau đó được cho vào các tế bào động vật có vú để thay đổi gen. Vi-rút chứa gen mong muốn được chuyển có khi ở giai đoạn đầu của quá trình lấy nhiễm có sự tương đồng với sự lây nhiễm của các loại vi-rút tự nhiên. Sau khi lây nhiễm, các gen mong muốn được vận chuyển lúc này sẽ được biểu hiện gen. Trong trường hợp sử dụng vectơ lentivirus/retrovirus, các gen này sẽ được chèn vào bộ gen của tế bào. Vì bộ gen được vận chuyển không mang bất kỳ gen nào của vi-rút, nên việc lây nhiễm này không thể tạo ra vi-rút mới (hoặc nói cách khác là vi-rút thiếu khả năng sao chép).
+Một số chất hóa học tăng cường đã được sử dụng để cải thiện hiệu quả quá trình tải nạp như polybrene, protamine sulfate, retronectin, và DEAE Dextran.
+
+
+== Ứng dụng trong y khoa ==
+Liệu pháp gen: Điều trị các bệnh di truyền bằng cách trực tiếp chỉnh sửa các gen đã bị hư hại bên trong bệnh nhân. 
+
+
+== Tham khảo ==
+Biến nạp
+Gen nhảy
+Tái tổ hợp không tương đồng
+
+
+== Nguồn trích dẫn ==

@@ -1,0 +1,12 @@
+Thời gian ủ bệnh là thời gian trôi qua giữa việc tiếp xúc với sinh vật gây bệnh, hóa chất hoặc phóng xạ khi các triệu chứng và dấu hiệu đầu tiên xuất hiện.  Trong một bệnh truyền nhiễm điển hình, thời gian ủ bệnh nghĩa là khoảng thời gian sinh vật nhân lên để đạt đến ngưỡng cần thiết xuất hiện các triệu chứng trên vật chủ. 
+
+Mặc dù thời gian ủ bệnh tiềm ẩn hoặc thời gian trễ có thể đồng nghĩa, đôi khi có sự phân biệt giữa thời gian ủ bệnh, thời gian giữa nhiễm trùng và khởi phát bệnh và thời gian tiềm ẩn, thời gian từ nhiễm trùng đến nhiễm trùng.  Cái nào ngắn hơn phụ thuộc vào bệnh.  Một người có thể là người mang mầm bệnh, chẳng hạn như Streptococcus trong cổ họng, mà không biểu hiện bất kỳ triệu chứng nào.  Tùy thuộc vào bệnh, người bệnh có thể hoặc không truyền nhiễm trong thời gian ủ bệnh.
+Trong thời gian trễ, nhiễm trùng là cận lâm sàng.  Liên quan đến nhiễm virus, trong việc ủ bệnh, virus đang nhân lên.  Điều này trái ngược với độ trễ của virus, một dạng ngủ đông mà virus không nhân lên.  Một ví dụ về độ trễ là nhiễm HIV.  HIV ban đầu có thể không có triệu chứng và không có dấu hiệu của AIDS, mặc dù HIV nhân lên trong hệ bạch huyết và nhanh chóng tích lũy một lượng virus lớn.  Những người này có thể bị nhiễm trùng.
+
+
+== Thời kỳ ủ bệnh bên trong và bên ngoài ==
+Các thuật ngữ "thời gian ủ bệnh bên trong" và "thời gian ủ bệnh bên ngoài" được sử dụng trong các bệnh truyền qua vector.  Thời kỳ ủ bệnh nội tại là thời gian của một sinh vật để hoàn thành sự phát triển của nó trong vật chủ xác định.  Thời kỳ ủ bệnh bên ngoài là thời gian của một sinh vật để hoàn thành sự phát triển của nó trong vật chủ trung gian.
+Ví dụ, một khi bị muỗi ăn, ký sinh trùng sốt rét phải trải qua quá trình phát triển bên trong muỗi trước khi chúng lây nhiễm sang người.  Thời gian cần thiết để phát triển ở muỗi dao động từ 10 đến 28 ngày, tùy thuộc vào loài ký sinh trùng và nhiệt độ.  Đây là thời kỳ ủ bệnh bên ngoài của ký sinh trùng đó.  Nếu một con muỗi cái không tồn tại lâu hơn thời gian ủ bệnh bên ngoài, thì nó sẽ không thể lây truyền bất kỳ ký sinh trùng sốt rét nào.  Sau khi một con muỗi chuyển thành công ký sinh trùng vào cơ thể người thông qua vết cắn, ký sinh trùng bắt đầu phát triển.  Thời gian giữa việc tiêm ký sinh trùng vào người và sự phát triển của các triệu chứng đầu tiên của bệnh sốt rét là thời kỳ ủ bệnh nội tại của nó.
+
+
+== Tham khảo ==

@@ -1,0 +1,21 @@
+Vi khuẩn Coliform được định nghĩa là Vi khuẩn Gram âm hình que không có nội bào tử và là vi khuẩn di chuyển được hoặc không di chuyển được, chúng có thể lên men lactose với việc sản xuất axit và khí khi ủ ở 35-37 °C. Do khả năng hạn chế của một số vi khuẩn coliform lên men đường sữa, định nghĩa đã thay đổi thành vi khuẩn có chứa enzyme B-galactosidase. Chúng thường được sử dụng như là một chỉ số về chất lượng vệ sinh của thực phẩm và nước. Coliforms có thể được tìm thấy trong môi trường nước, trong đất và trên thảm thực vật; chúng có mặt phổ biến với số lượng lớn trong phân của động vật máu nóng. Mặc dù bản thân coliform không phải là nguyên nhân gây bệnh nghiêm trọng, chúng rất dễ nuôi cấy và sự hiện diện của chúng được sử dụng để chỉ ra rằng các sinh vật gây bệnh khác có nguồn gốc phân có thể tồn tại. Các mầm bệnh này bao gồm vi khuẩn gây bệnh, vi rút hoặc động vật nguyên sinh và nhiều ký sinh trùng đa bào. Quy trình Coliform được thực hiện trong điều kiện hiếu khí hoặc kỵ khí.
+Các chi điển hình bao gồm:
+
+Citrobacter
+Enterobacter
+Hafnia
+Klebsiella
+Escherichia
+Escherichia coli (E. coli) có thể được phân biệt với hầu hết các loại coliform khác bởi khả năng lên men lactose ở 44 °C trong xét nghiệm phân coliform, và bằng phản ứng tăng trưởng và màu sắc của nó trên một số loại môi trường nuôi cấy. Khi nuôi cấy trên đĩa eosin methylene blue (EMB), kết quả dương tính với E. coli là khuẩn lạc màu xanh kim loại trên môi trường màu tím sẫm. Cũng có thể nuôi cấy trên Tryptone Bile X-Glucuronide (TBX) để xuất hiện dưới dạng khuẩn lạc màu xanh hoặc màu xanh lá cây sau thời gian ủ bệnh trong 24 giờ. Escherichia coli có thời gian ủ 12-72 giờ với nhiệt độ tăng trưởng tối ưu là 30:37 °C. Không giống như nhóm coliform nói chung, E. coli hầu như chỉ có nguồn gốc từ phân và sự hiện diện của chúng là một sự xác nhận của sự ô nhiễm phân. Hầu hết các chủng E. coli đều vô hại, nhưng một số có thể gây bệnh nghiêm trọng ở người. Các triệu chứng và dấu hiệu nhiễm trùng bao gồm tiêu chảy ra máu, co thắt dạ dày, nôn mửa và thỉnh thoảng, sốt. Các vi khuẩn cũng có thể gây viêm phổi, các bệnh về đường hô hấp và nhiễm trùng đường tiết niệu.
+Một cách dễ dàng để phân biệt giữa các loại vi khuẩn coliform khác nhau là sử dụng đĩa thạch xanh eosin methylene. Đĩa này này bị ức chế một phần với vi khuẩn Gram (+), và sẽ tạo ra sự thay đổi màu sắc trong các khuẩn lạc vi khuẩn Gram (-) dựa trên khả năng lên men lactose. Các chất lên men lactose mạnh sẽ xuất hiện dưới dạng màu xanh đậm / tím / đen và các khuẩn lạc E.coli (cũng lên men lactose) sẽ có màu sẫm, nhưng cũng sẽ có màu xanh ánh kim. Các vi khuẩn coliform khác sẽ xuất hiện dưới dạng các khuẩn lạc dày, nhầy nhụa, với các chất không lên men là không màu, và các chất lên men yếu có màu hồng. 
+
+
+== Xem thêm ==
+Phân tích vi khuẩn trong nước
+Chỉ số Coliform
+Phân coliform
+Chỉ số vi khuẩn
+<i id="mwUQ">Escherichia coli</i> gây bệnh
+
+
+== Tham khảo ==

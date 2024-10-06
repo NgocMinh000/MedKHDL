@@ -1,0 +1,46 @@
+Bệnh gan (liver disease, hepatic disease) là một loại tổn thương hoặc bệnh trong gan. Bất cứ khi nào quá trình của bệnh tật kéo dài, bệnh gan mãn tính sẽ xảy ra.
+
+
+== Dấu hiệu và triệu chứng ==
+Một số dấu hiệu và triệu chứng của bệnh gan như sau:
+
+Vàng da
+Nhầm lẫn và thay đổi ý thức gây ra bởi bệnh não gan.
+Giảm tiểu cầu và rối loạn đông máu.
+Nguy cơ triệu chứng chảy máu đặc biệt diễn ra ở đường tiêu hóa 
+Cổ trướng, sự tích tụ chất lỏng trong khoang bụng.
+
+
+== Nguyên nhân ==
+
+Có hơn một trăm loại bệnh gan khác nhau. Đây là một số phổ biến nhất:
+
+Fasciolzheim, một bệnh nhiễm trùng ký sinh ở gan do sán lá gan thuộc chi Fasciola, chủ yếu là Fasciola hepatica.
+Viêm gan, viêm gan, do nhiều loại virut (viêm gan virut) cũng do một số độc tố gan (ví dụ viêm gan do rượu), tự miễn dịch (viêm gan tự miễn) hoặc do di truyền.
+Bệnh gan do rượu là biểu hiện gan của việc uống quá nhiều rượu, bao gồm bệnh gan nhiễm mỡ, viêm gan do rượu và xơ gan. Các thuật ngữ tương tự như bệnh gan "do thuốc" hoặc "độc hại" cũng được sử dụng để chỉ các rối loạn gây ra bởi các loại thuốc khác nhau.
+Bệnh gan nhiễm mỡ (gan nhiễm mỡ) là một tình trạng có thể đảo ngược, trong đó không bào lớn chất béo triglyceride tích tụ trong các tế bào gan. Bệnh gan nhiễm mỡ không do rượu là một phổ bệnh liên quan đến béo phì và hội chứng chuyển hóa.
+Các bệnh di truyền gây tổn thương gan bao gồm bệnh hemochromatosis, liên quan đến sự tích tụ chất sắt trong cơ thể và bệnh Wilson. Tổn thương gan cũng là một đặc điểm lâm sàng của thiếu hụt alpha 1-antitrypsin  và bệnh lưu trữ glycogen loại II.
+Trong bệnh amyloidosis di truyền liên quan đến transthyretin, gan tạo ra một protein transthyretin đột biến có tác dụng thoái hóa thần kinh và/hoặc bệnh tim nghiêm trọng. Ghép gan có thể đưa ra một lựa chọn điều trị.
+Hội chứng Gilbert, một rối loạn di truyền chuyển hóa bilirubin được tìm thấy trong một tỷ lệ nhỏ dân số, có thể gây vàng da nhẹ.
+Xơ gan là sự hình thành các mô sợi (xơ hóa) ở vị trí các tế bào gan đã chết do nhiều nguyên nhân, bao gồm viêm gan virut, do uống quá nhiều rượu và các dạng độc tính gan khác. Xơ gan gây suy gan mạn tính.
+Ung thư gan nguyên phát thường biểu hiện nhất là ung thư biểu mô tế bào gan và/hoặc ung thư đường mật; các dạng hiếm hơn bao gồm angiosarcoma và hemangiosarcoma của gan. (Nhiều khối u ác tính là tổn thương thứ phát đã di căn từ các bệnh ung thư nguyên phát ở đường tiêu hóa và các cơ quan khác, như thận, phổi.) 
+Xơ gan mật nguyên phát là một bệnh tự miễn nghiêm trọng của mao mạch mật.
+Viêm đường mật xơ chính là một bệnh viêm mãn tính nghiêm trọng của ống mật, được cho là tự miễn trong nguồn gốc.
+Hội chứng Budd-Chiari là hình ảnh lâm sàng gây ra do tắc tĩnh mạch gan.
+
+
+== Cơ chế ==
+Bệnh gan có thể xảy ra thông qua một số cơ chế.
+
+
+=== Phá hủy DNA ===
+Một cơ chế chung, làm tăng tổn thương DNA, được chia sẻ bởi một số nguyên nhân chính gây ra bệnh gan. Những nguyên nhân chính này bao gồm nhiễm vi rút viêm gan B hoặc virus viêm gan C, lạm dụng rượu và béo phì.
+Nhiễm virus do virus viêm gan B (HBV) hoặc virus viêm gan C (HCV) gây ra sự gia tăng các loài oxy phản ứng (ROS). Sự gia tăng của ROS nội bào là khoảng 10.000 lần khi nhiễm HBV mạn tính và 100.000 lần sau khi nhiễm HCV. Sự gia tăng này trong ROS gây ra viêm và tăng thêm nữa trong ROS. ROS gây ra hơn 20 loại thiệt hại DNA. Thiệt hại DNA oxy hóa là đột biến  và cũng gây ra thay đổi biểu sinh tại các vị trí sửa chữa DNA. Thay đổi biểu sinh và đột biến ảnh hưởng đến bộ máy tế bào có thể khiến tế bào nhân lên với tốc độ cao hơn và/hoặc dẫn đến tế bào tránh bị apoptosis, và do đó góp phần gây ra bệnh gan. Vào thời điểm tích lũy các thay đổi biểu sinh và đột biến cuối cùng gây ra ung thư tế bào gan, sự thay đổi biểu sinh dường như có vai trò thậm chí còn lớn hơn trong gây ung thư so với đột biến. Chỉ có một gen, TP53, bị đột biến ở hơn 20% bệnh ung thư gan trong khi 41 gen mỗi gen có các chất xúc tiến hypermethylated (ức chế biểu hiện gen) trong hơn 20% bệnh ung thư gan.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Liver disease tại Encyclopædia Britannica (tiếng Anh)

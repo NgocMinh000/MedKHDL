@@ -1,0 +1,43 @@
+Động vật thân nhớt (danh pháp khoa học: Myxozoa, từ tiếng Hy Lạp: μύξα myxa nghĩa là "nhớt" hoặc "nhầy" + nguyên âm chủ tố o + ζῷον zoon nghĩa là "động vật") là một nhóm động vật ký sinh sống trong môi trường nước. Có hơn 2.180 loài đã được miêu tả và một số tác giả ước tính ít nhất đến 30.000 loài chưa được phát hiện. Nhiều loài có vòng đời sống trên hai vật chủ, liên quan đến cá và giun đốt hoặc động vật hình rêu. Kích thước trung bình của bào tử Myxosporea thường từ 10 μm đến 20 μm trong khi kích thước trung bình của bào tử Malacosporea có thể lên đến 2 mm. Nhiễm trùng xảy ra thông qua các bào tử có mảnh vỏ.
+
+
+== Phát sinh chủng loài ==
+Myxozoa ban đầu được xem là động vật nguyên sinh (protozoa), và được xếp vào trong các nhóm không di động khác trong nhóm Sporozoa. Vì đặc điểm tự nhiên riêng biệt của nó rất rõ ràng với 18S ribosom DNA (rDNA), do đó chúng được xếp trở lại trong nhóm Metazoa. Các phân loại sau đó tiếp tục mâu thuẫn do các bằng chứng không khớp nhau: mặc dù 18S rDNA thì cho thấy mối quan hệ với Cnidaria, rDNA khác cũng được lấy mẫu, và các gen HOX của hai loài, là tương đồng hơn với Bilateria.
+Sự phát hiện ra Buddenbrockia plumatellae, một loài ký sinh giống như giun trên các động vật hình rêu, dài tới 2 mm, là động vật thân nhớt, ban đầu dường như củng cố quan điểm về nguồn gốc đối xứng hai bên (nghĩa là Bilateria), do sơ đồ thân là rất giống với giun. Tuy nhiên, kiểm tra gần hơn cho thấy sự đối xứng theo chiều dọc của Buddenbrockia không là hai bên mà là bốn bên, gieo nghi ngờ vào giả thuyết này.
+Thử nghiệm sâu hơn đã giải quyết câu hỏi hóc búa về di truyền bằng cách truy nguồn ba gen HOX khác biệt đã được nhận dạng trước đó (Myx1-3) là của loài động vật hình rêu Cristatella mucedo và gen thứ tư (Myx4) là của cá chó phương bắc (Esox lucius), các vật chủ tương ứng của hai mẫu Myxozoa tương ứng. Điều này giải thích cho sự nhầm lẫn: các thí nghiệm ban đầu đã sử dụng các mẫu bị ô nhiễm mô của sinh vật chủ, dẫn đến dương tính giả cho một vị trí trong Bilateria. Việc nhân bản cẩn thận hơn của 50 gen mã hóa từ Buddenbrockia đã thiết lập vững chắc nhóm này là các thành viên bị biến đổi mạnh của ngành Cnidaria, với sứa (Medusozoa) là họ hàng gần nhất của chúng. Những điểm tương đồng giữa các nang ở cực của Myxozoa và thích ti nang của Cnidaria đã được rút ra từ lâu, nhưng thường được coi là kết quả của tiến hóa hội tụ.
+Các nhà phân loại học hiện nay công nhận phân nhóm đã lỗi thời Actinosporea như là một giai đoạn trong vòng đời của Myxosporea.
+Đồng hồ phân tử gợi ý rằng Myxozoa và họ hàng gần nhất của chúng, Polypodiozoa, có chung tổ tiên chung gần nhất với Medusozoa khoảng 600 triệu năm trước, trong kỷ Ediacara.
+
+
+== Phân loại ==
+Dường như rõ ràng rằng Myxozoa thuộc về ngành Cnidaria, mặc dù chúng có nhiều khác biệt. Vì lý do này, phân loại của Mixozoa đã trải qua các thay đổi lớn và quan trọng trong các bậc phân loại chi, họ và phân bộ. Vì thế, một phân loại mới trong ngành Cnidaria đã được đề xuất với sửa đổi phân loại dựa theo bào tử tới cấp chi. Dưới đây liệt kê phân loại tới cấp họ.
+
+Myxozoa
+Lớp Myxosporea
+Bộ Bivalvulida
+Phân bộ Platysporina
+Họ Myxobolidae
+Phân bộ Sphaeromyxina
+Họ Sphaeromyxidae
+Phân bộ Variisporina
+Họ Alatasporidae
+Họ Ceratomyxidae
+Họ Chloromyxidae
+Họ Coccomyxidae
+Họ Fabesporidae
+Họ Myxidiidae
+Họ Myxobilatidae
+Họ Ortholineidae
+Họ Parvicapsulidae
+Họ Sinuolineidae
+Họ Sphaerosporidae
+Bộ Multivalvulida
+Họ Kudoidae
+Họ Spinavaculidae
+Họ Trilosporidae
+Lớp Malacosporea
+Bộ Malacovalvulida
+Họ Saccosporidae
+
+
+== Chú thích ==

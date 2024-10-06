@@ -1,0 +1,47 @@
+Viêm cơ tim là tình trạng viêm, hoại tử hoặc ly giải của tế bào cơ tim gây nên do nhiễm trùng, do bệnh mô liên kết, do nhiễm độc hoặc không rõ nguyên nhân. Các quá trình bệnh lý này ảnh hưởng đến cơ tim kèm hoặc không kèm theo triệu chứng toàn thân. Những biểu hiện thường gặp nhất là suy tim, tuy nhiên đôi khi rối loạn nhịp hoặc đột tử là biểu hiện đầu tiên của bệnh. Nhiễm virus là nguyên nhân thường gặp nhất của viêm cơ tim.
+
+
+== Nguyên nhân và dịch tễ ==
+Tỷ lệ mắc bệnh của viêm cơ tim không được biết rõ do có nhiều trường hợp viêm cơ tim nhẹ nhàng tự khỏi nên người bệnh và gia đình không nhận thấy. Viêm cơ tim do virus thường xảy ra rải rác, tuy nhiên đôi khi cũng xảy thành dịch. Ở trẻ bú mẹ, viêm cơ tim do virus thường biểu hiện bằng viêm cơ tim cấp tính và rất trầm trọng. Ở trẻ nhỏ (2 đến 5 tuổi) bệnh cũng thường khởi đầu bằng viêm cơ tim cấp nhưng ít nặng nề hơn. Ở trẻ lớn hơn và thanh thiếu niên, bệnh thường không có triệu chứng và trẻ thường đến phòng khám khi đã có biểu hiện bệnh cơ tim giãn, thường là hậu quả của viêm cơ tim virus tiềm tàng trước đó. Tác nhân gây bệnh thường gặp nhất của viêm cơ tim là adenovirus và Coxsackie virus B cùng nhiều loại virus khác nữa.
+
+
+== Sinh lý bệnh ==
+Viêm cơ tim do virus có thể biểu hiện bằng một tình trạng viêm rất đột ngột đặc trưng bằng sự tẩm nhuận tế bào viêm, thoái hóa và hoại tử tế bào cơ tim, sau đó là quá trình xơ hóa của cơ tim. Một hình thức khác của viêm cơ tim do virus là RNA hoặc DNA, vật chất di truyền của virus, có thể tồn tại lâu dài trong cơ tim. Cơ thể chống lại tình trạng này bằng những phản ứng miễn dịch thông qua sự hoạt hóa các tế bào lympho độc tế bào (cytotoxic lymphocytes) và tế bào giết tự nhiên (natural killer cells). Tuy nhiên những phản ứng miễn dịch này cùng với sự phát triển không bình thường của virus lại làm suy giảm chức năng cơ tim mà không có sự tiêu tế bào rõ rệt. Ngoài ra, sự tồn tại của virus có thể làm thay đổi sự biểu hiện kháng nguyên của phức hợp hòa hợp tổ chức chính (major histocompatibility complex) tạo nên sự phơi nhiễm của hệ miễn dịch với những kháng nguyên tân tạo. Sự giải phóng các cytokine như yếu tố ly giải khối u alpha (TNF alpha) và interleukin 1 cũng khởi động những thay đổi bất thường về đáp ứng miễn dịch của cơ thể. Hậu quả cuối cùng của các quá trình bệnh lý phức tạp trên thường là bệnh cơ tim giãn.
+
+
+== Biểu hiện lâm sàng ==
+Biểu hiện lâm sàng tùy thuộc vào lứa tuổi trẻ bị bệnh và vào bản chất cấp tính hay mạn tính của tình trạng nhiễm virus.
+
+Trẻ sơ sinh thường biểu hiện bệnh bằng sốt, suy tim nặng, suy hô hấp, tím, tiếng tim nghe xa xăm, mạch yếu, nhịp nhanh, hở van hai lá do vòng van bị giãn rộng, nhịp ngựa phi, nhiễm toan và sốc. Các biểu hiện đi kèm có thể là viêm gan virus, viêm màng não nước trong, và nổi ban. Ở thể tối cấp, trẻ có thể tử vong trong vòng 1 đến 7 ngày kể từ khi khởi bệnh. X quang lồng ngực thường cho thấy tim to một cách bất thường, phù phổi. Đo điện tim có thể thấy nhịp nhanh xoang, điện thế phức hợp QRS giảm, bất thường về đoạn ST cũng như sóng T. Đôi khi rối loạn nhịp là biểu hiển đầu tiên của bệnh. Lúc này các triệu chứng như sốt và tim to gợi ý viêm cơ tim cấp.
+Ở trẻ lớn hơn viêm cơ tim cấp cũng có thể biểu hiện bằng suy tim xung huyết cấp nhưng thường gặp hơn là suy tim có tiến triển từ từ hoặc tình trạng nhịp nhanh thất xảy ra đột ngột. Ở những bệnh nhân này, tình trạng nhiễm virus cấp tính đã qua và thường đã có tình trạng bệnh cơ tim giãn.
+
+
+== Xét nghiệm cận lâm sàng ==
+Tốc độ lắng máu là một trong những xét nghiệm phát hiện phản ứng viêm có thể tăng trong viêm cơ tim. Tuy nhiên tốc độ lắng máu có thể tăng trong rất nhiều tình trạng viêm và không do viêm khác. Đây là một xét nghiệm không đặc hiệu.
+Các men tim như creatine phosphokinase, lactate dehydrogenase, troponine T, CK-MB, SGOT (AST), SGPT (ALT) có thể tăng trong viêm cơ tim cấp và mạn tính. Tuy nhiên nếu các men này âm tính cũng không loại trừ được tình trạng viêm cơ tim.
+Kỹ thuật khuếch đại chuỗi polymerase (PCR: Polymerase Chain Reaction) có thể phát hiện được bộ gien của virus trong tế bào cơ tim nhưng không phát hiện được ở máu ngoại vi. Kỹ thuật này xác định được loại virus nào gây bệnh. Tuy nhiên đây là kỹ thuật đắt tiền không phải có sẵn ở các cơ sở y tế.
+Siêu âm tim phát hiện chức năng co bóp của cơ tim giảm rõ và thường có tràn dịch màng ngoài tim, hở van hai lá và không có tổn thương của mạch vành cũng như các bất thường bẩm sinh khác.
+Viêm cơ tim có thể phát hiện được bằng sinh thiết nội tâm mạc. Kỹ thuật này thường được thực hiện bằng thông tim. Sinh thiết nội tâm mạc cũng cho biết các nguyên nhân khác của bệnh cơ tim như bệnh tích trữ, khiếm khuyết ty lạp thể.
+
+
+== Chẩn đoán phân biệt ==
+Các bệnh có thể có biểu hiện giống viêm cơ tim cấp là thiếu hụt carnitine, khiếm khuyết ty lạp thể do di truyền, bệnh cơ tim giãn vô căn, viêm ngoại tâm mạc, xơ chun hóa nội tâm mạc, các bất thường về động mạch vành.
+
+
+== Điều trị ==
+Điều trị viêm cơ tim cấp liên quan đến những biện pháp hỗ trợ trong suy tim nặng. Nếu chức năng co bóp của cơ tim giảm cùng với hạ huyết áp hệ thống thì có thể dùng dopamine hoặc epinephrine. Tuy nhiên tất cả các thuốc gây co bóp tim, kể cả digoxin, đều phải được dùng hết sức thận trọng vì bệnh nhân viêm cơ tim dễ có khuynh hướng bị loạn nhịp với các thuốc này. Digoxin thường chỉ bắt đầu bằng một nửa liều thông thường.
+Nếu có tràn dịch màng ngoài tim gây chèn ép tim thì có thể phải chọc tháo dịch.
+Thuốc chống loạn nhịp đôi khi phải dùng tương đối mạnh thậm chí có thể phải dùng đến amiodarone đường tĩnh mạch. Ở trẻ lớn có thể đặt dụng cụ tạo nhịp hỗ trợ.
+vai trò của corticosteroid trong viêm cơ tim cấp chưa thống nhất. Đôi khi có thể dùng đến thuốc ức chế miễn dịch.
+Hiện tại các nghiên cứu về tác dụng của globuline miễn dịch trong điều trị viêm cơ tim cấp đang được tiến hành.
+
+
+== Tiên lượng ==
+Tiên lượng của viêm cơ tim cấp do virus ở trẻ sơ sinh còn rất đen tối: tỷ lệ tử vong lên đến 75%. Những bệnh nhân có triệu chứng nhẹ nhàng hơn có thể có tiên lượng tốt hơn và y văn cũng đã miêu tả những trường hợp hồi phục hoàn toàn. Tiên lượng của trẻ lớn bị bệnh cơ tim giãn do nguyên nhân virus cũng không khả quan lắm. Những bệnh nhân này tiếp tục có biểu hiện cơ tim giãn, xơ hóa và suy biến chức năng của cơ tim. Ở người lớn có từ 5 đến 10% bệnh nhân tự lui bệnh. Tuy nhiên có đến 50% bệnh nhân chết trong vòng 2 năm và 80% bệnh nhân chết trong vòng 8 năm nếu không được thay tim.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Viêm cơ tim ở trẻ dễ bị nhầm cảm sốt Lưu trữ 2008-12-21 tại Wayback Machine

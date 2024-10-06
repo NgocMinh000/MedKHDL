@@ -1,0 +1,150 @@
+Trong dịch tễ học, nguy cơ quy thuộc (tiếng Anh: attributable risk, viết tắt là AR) là một thuật ngữ đồng nghĩa với hiệu số nguy cơ, được tính bằng sự chênh lệch về tỷ lệ mới mắc tích luỹ (CI) hay tỷ lệ mật độ mới mắc (CD) tùy thiết kế nghiên cứu: 
+
+  
+    
+      
+        A
+        R
+        =
+        
+          I
+          
+            e
+          
+        
+        −
+        
+          I
+          
+            u
+          
+        
+        =
+        C
+        
+          I
+          
+            e
+          
+        
+        −
+        C
+        
+          I
+          
+            u
+          
+        
+        =
+        C
+        
+          D
+          
+            e
+          
+        
+        −
+        C
+        
+          D
+          
+            u
+          
+        
+      
+    
+    {\displaystyle AR=I_{e}-I_{u}=CI_{e}-CI_{u}=CD_{e}-CD_{u}}
+  
+
+Trong đó, 
+  
+    
+      
+        
+          I
+          
+            e
+          
+        
+      
+    
+    {\displaystyle I_{e}}
+  
+ tỷ lệ mới mắc ở nhóm có phơi nhiễm; 
+  
+    
+      
+        
+          I
+          
+            u
+          
+        
+      
+    
+    {\displaystyle I_{u}}
+  
+ tỷ lệ mới mắc ở nhóm không phơi nhiễm; 
+  
+    
+      
+        C
+        
+          I
+          
+            e
+          
+        
+      
+    
+    {\displaystyle CI_{e}}
+  
+ tỷ lệ mới mắc tích lũy ở nhóm có phơi nhiễm; 
+  
+    
+      
+        C
+        
+          I
+          
+            u
+          
+        
+      
+    
+    {\displaystyle CI_{u}}
+  
+ tỷ lệ mới mắc tích lũy ở nhóm không phơi nhiễm; 
+  
+    
+      
+        C
+        
+          D
+          
+            e
+          
+        
+      
+    
+    {\displaystyle CD_{e}}
+  
+ tỷ lệ mật độ mới mắc ở nhóm có phơi nhiễm; 
+  
+    
+      
+        C
+        
+          D
+          
+            u
+          
+        
+      
+    
+    {\displaystyle CD_{u}}
+  
+ tỷ lệ mật độ mới mắc ở nhóm không phơi nhiễm.
+
+
+== Tham khảo ==

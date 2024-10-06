@@ -1,0 +1,28 @@
+Sai sót kháng nguyên ban đầu, còn gọi là dấu ấn kháng nguyên hay hiệu ứng Hoskins, chỉ xu hướng của hệ miễn dịch, khi có một phiên bản khác của loại kháng nguyên (virus hay vi khuẩn) xâm nhập, sẽ sử dụng trí nhớ miễn dịch từ một lần nhiễm bệnh trước đó. Điều này dẫn đến hệ miễn dịch bị "mắc bẫy" bởi lần trước đó mà nó phản ứng với một loại kháng nguyên, và không thể phản ứng hiệu quả với những lần nhiễm bệnh sau đó. Kháng thể hay tế bào T (T-cell) được tạo ra từ lần nhiễm biến chủng đầu tiên của mầm bệnh đó tạo thành một dạng sai lầm kháng nguyên ban đầu.
+Hiện tượng sai sót kháng nguyên ban đầu đã được mô tả với virus cúm, sốt xuất huyết, suy giảm miễn dịch cơ thể (HIV) và một vài loại virus khác.
+Hiện tượng này được Thomas Francis Jr. mô tả lần đầu vào năm 1960 trong bài "Học thuyết về Sai sót kháng nguyên ban đầu".  ITên của học thuyết được gợi hứng từ khái niệm thần học về tội tổ tông (sai lầm nguyên thủy).  Richard Krause dẫn lời của Francis như sau:
+
+"Kháng thể thủơ nhỏ phần lớn tạo ra do kháng nguyên chủ yếu của loại virus tạo ra bệnh cúm tuýp A... Sự in dấu tạo ra bởi lần nhiễm virus đầu tiên kiểm soát việc tạo ra kháng thể của những lần sau đó. Chúng tôi gọi điều này là học thuyết về Sai lầm kháng nguyên ban đầu."
+
+
+== Trong Tế bào B (B-cell) ==
+
+Khi bị nhiễm bệnh, tế bào trí nhớ B được tạo ra, nằm trong cơ thể, và giúp bảo vệ những lần bệnh sau. Các tế bào trí nhớ B này phản ứng với những đặc điểm kháng nguyên (epitope) trên bề mặt của protein virus, nhằm tạo ra loại kháng thể-đặc thù cho kháng nguyên đó, và có thể phản ứng chống bệnh nhanh hơn khả năng vốn có của tế bào B. Điều này giúp rút ngắn thời gian chống bệnh những lần sau.
+Giữa lần nhiễm đầu và lần sau, hay giữa lần nhiễm bệnh và chích vắc-xin, một loại virus có thể biến thể, khi đó protein bề mặt virus (epitope) được biến đổi do đột biến tự nhiên, giúp virus tránh được hệ miễn dịch. Khi điều này xảy ra, loại virus biến thể có xu hướng kích hoạt tế bào trí nhớ B và khiến tạo ra kháng thể. Tuy nhiên, kháng thể tạo ra bởi những tế bào B nhìn chung không kết dính hiệu quả với bề mặt virus đã biến đổi. Thêm vào đó, những kháng thể này lại kiềm hãm việc kích hoạt loại B cell có tính tương thích cao hơn vốn có thể tạo ra kháng thể hữu hiệu hơn với loại virus đã biến đổi. Điều này dẫn đến một phản ứng miễn dịch kém hiệu quả và những lần bệnh sau có thể lâu khỏi hơn.
+Sai lầm kháng nguyên ban đầu cực kỳ quan trọng trong việc ứng dụng vắc-xin. Với sốt xuất huyết, hiệu ứng sai lầm kháng nguyên ban đầu có ảnh hưởng rất lớn trong việc phát triển vắc-xin. Khi một phản ứng miễn dịch với loại virus sốt xuất huyết đã được thiết lập, thì việc chích vắc-xin đối với loại thứ hai hiếm khi hiệu quả. Vì vậy, cần phải tạo ra được 1 loại phản ứng miễn dịch cân bằng với cả bốn loại virus sốt xuất huyết trong lần chích vắc-xin đầu tiên.
+Chất lượng của phàn ứng miễn dịch đối với các chủng virus cúm mới thường bị giảm sút ở những người thường chích ngừa. Tuy vậy, tác động của sai lầm kháng thể đầu tiên chưa được nghiên cứu kỹ lưỡng, và tỏ ra khác biệt với từng loại vắc-xin, khu vực địa lý, và độ tuổi. Các nhà nghiên cứu nhận thấy có sự giảm kháng thể, khi chích vắc-xin H1N1 năm 2009, ở những người đã chích ngừa cúm mùa A/Brisbane/59/2007 (là chủng H1N1 trước đó) trong vòng ba tháng trước đó.
+
+
+== Với tế bào T độc sát tế bào (cytotoxic T cell) ==
+Một hiện tượng tương tự đã được mô tả trong tế bào T độc sát tế bào (CTL). Trong một lần nhiễm bệnh thứ nhì bởi một biến chủng virus sốt xuất huyết khác, các CTL thường gây ra cytokine (tế bào nhân tử) thay vì lysis tế bào. Kết quả là, việc sản xuất các cytokine làm tăng việc thấm thành mạch máu và gây tổn hại nặng cho các tế bào màng trong, một hiện tượng được gọi là sốt xuất huyết ra máu (dengue hemorrhagic fever).
+Nhiều nhóm nghiên cứu đã thử thiết kế vắc-xin HIV và viêm gan C bằng việc kích thích phản ứng CTL. Việc phát hiện phản ứng CTL có thể bị sai lệch do sai sót kháng nguyên ban đầu giúp lý giải sự hạn chế hiệu quả của các loại vắc-xin này. Những virus như HIV có độ biến dị cao và thường xuyên đột biến; sai sót kháng nguyên ban đầu khiến cho việc nhiễm các loại virus HIV có vỏ ngoài hơi khác đi cũng khiến vắc-xin trở nên vô hiệu. Trên thực tế, vắc-xin có thể khiến bệnh trở nên còn nghiên trọng hơn, vì nó khiến phản ứng miễn dịch "mắc bẫy" khi cứ phản ứng như với loại virus đầu tiên, nay đã vô hiệu với loại biến chủng mới.
+
+
+== Xem thêm ==
+Antibody-dependent enhancement
+Cell mediated immunity
+Humoral immunity
+Polyclonal response
+
+
+== Tham khảo ==

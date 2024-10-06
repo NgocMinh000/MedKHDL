@@ -1,0 +1,71 @@
+Ngôn ngữ nổi bật chủ đề (tiếng Anh: topic-prominent language) là ngôn ngữ có cú pháp được tổ chức để cường điệu cấu trúc đề–thuyết của câu. Thuật ngữ này được biết đến nhiều nhất trong 'ngành ngôn ngữ học Mỹ' từ Charles N. Li và Sandra Thompson, họ là những người chỉ rõ sự khác biệt của các ngôn ngữ nổi bật chủ đề (như tiếng Hàn và tiếng Nhật) với các ngôn ngữ nổi bật chủ ngữ (như tiếng Anh).
+Theo quan điểm của Li và Thompson (1976), các 'ngôn ngữ nổi bật chủ đề' có hình thái hoặc cú pháp làm nổi bật sự khác biệt giữa phần đề và phần thuyết (những gì được nói về phần đề đấy). Cấu trúc đề-thuyết có thể mang tính độc lập với thứ tự cú pháp của chủ ngữ, động từ và tân ngữ.
+
+
+== Đặc trưng chung ==
+Nhiều 'ngôn ngữ nổi bật chủ đề' có chung một số đặc trưng cú pháp, các đặc trưng đó đã nảy sinh do các ngôn ngữ đấy có các câu được cấu trúc xoay quanh chủ đề, thay vì xoay quanh chủ ngữ và tân ngữ:
+
+Chúng có xu hướng hạ thấp vai trò của thể bị động cho dù 'cấu trúc câu bị động' có tồn tại đi chăng nữa, vì ý tưởng chính của 'sự bị động hóa' là để biến một tân ngữ thành một chủ ngữ trong các ngôn ngữ có chủ ngữ được mặc định hiểu là chủ đề.
+Chúng hiếm khi có từ chêm (expletive) hoặc "chủ ngữ giả" (đại từ trùng ngữ) như "it" trong câu "it's raining" của tiếng Anh.
+Chúng hay có những câu với thứ gọi là "chủ ngữ kép", thực ra là một chủ đề cộng với một chủ ngữ. Ví dụ, các mẫu câu sau đây mang tính phổ biến trong các ngôn ngữ nổi bật chủ đề:
+Quan thoại
+這個人　個子　很高。 
+  
+    
+      
+        
+          ≡
+          
+            Giản thể
+          
+        
+      
+    
+    {\displaystyle \equiv _{\text{Giản thể}}}
+  
+ 这个人　个子　很高。
+zhège rén gèzi hěn gāo
+"Người này [thì] (chủ đề) vóc dáng (chủ ngữ) cao."
+Tiếng Nhật
+そのヤシは　葉っぱが　大きい。
+sono yashi-wa happa-ga ookii
+"Cây dừa đó thì (chủ đề) lá (chủ ngữ) lớn."
+Chúng không có quán từ/mạo từ (article) – một cách khác để chỉ thị 'thông tin cũ' đối 'thông tin mới'.
+Sự khu biệt giữa chủ ngữ và tân ngữ không được đánh dấu một cách rành mạch.
+Ngôn ngữ Lisu thuộc nhóm Lô Lô-Miến đã được mô tả là rất nổi bật chủ đề, và Sara Rosen đã diễn giải rằng "trong khi mọi tiểu cú (clause) đều có một chủ đề khả nhận dạng, thì chuyện khu biệt chủ ngữ khỏi 'tân ngữ trực tiếp' hoặc khu biệt 'tác thể' khỏi 'bị thể' thì thường là điều bất khả thi. Không có phép chẩn đoán nào để nhận diện chủ ngữ (hoặc tân ngữ) một cách rành mạch trong tiếng Lisu." Sự mơ hồ này được diễn giải trong ví dụ sau: 
+
+
+== Ví dụ ==
+Ví dụ về các 'ngôn ngữ nổi bật chủ đề' bao gồm các ngôn ngữ Đông Á như Tiếng Trung, Tiếng Nhật, Tiếng Hàn, Tiếng Việt, Tiếng Mã Lai, Tiếng Thổ Nhĩ Kỳ, Tiếng Indonesia, Tiếng Anh Singapore và Tiếng Anh Malaysia. Tiếng Hungary, Tiếng Somali và một số ngôn ngữ bản địa châu Mỹ như các ngôn ngữ Sioux cũng đều mang tính nổi bật chủ đề. Các nghiên cứu ngôn ngữ học hiện đại đã chỉ ra rằng Tiếng Bồ Đào Nha Brazil là một ngôn ngữ nổi bật chủ đề hoặc nổi bật chủ đề và chủ ngữ (xem tiếng Bồ Đào Nha Brasil#Ngôn ngữ nổi bật chủ đề). Ngôn ngữ ký hiệu của Mỹ cũng được coi là mang tính nổi bật chủ đề.
+
+
+=== Tiếng Việt ===
+
+
+=== Tiếng Trung Quan Thoại ===
+
+
+=== Tiếng Nhật ===
+
+
+=== Tiếng Lakota ===
+
+
+=== Tiếng Thổ Nhĩ Kỳ ===
+
+
+== Xem thêm ==
+Chỉ tố chủ đề
+Đề và thuyết
+Danh sách các chữ viết tắt chú thích (Tiếng Anh)
+Danh sách các thuật ngữ ngôn ngữ học
+
+
+== Đọc thêm ==
+Từ điển thuật ngữ ngôn ngữ học đối chiếu Anh-Việt, Việt-Anh (Hoàng Dũng - Cao Xuân Hạo, 2005)
+Tiếng Việt, văn Việt, người Việt (Cao Xuân Hạo, 2001)
+Tiếng Việt - Sơ thảo ngữ pháp chức năng (Cao Xuân Hạo, 1991)
+Tiếng Việt – Mấy vấn đề ngữ âm, ngữ pháp và ngữ nghĩa (Cao Xuân Hạo, 1998)
+
+
+== Tham khảo ==

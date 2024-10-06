@@ -1,0 +1,29 @@
+Webdings là một phông chữ dingbat (phông chữ tượng hình) tương tự như Wingdings, được phát triển vào năm 1997. Ban đầu được phân phối cùng với Internet Explorer 4.0, sau đó nó được sử dụng cho web và trong tất cả các phiên bản của Microsoft Windows kể từ Windows 98. Tất cả các ký tự sử dụng Webdings không thể sử dụng chung với các ký tự Unicode trước khi phiên bản 7.0 được phát hành vào tháng 6 năm 2014.
+
+
+== Các loại ký tự ==
+
+Các ký tự trong trong phông chữ này bao gồm các biểu tượng thời tiết, động vật, biển báo và rất nhiều biểu tượng khác.
+Có một ký tự bất thường trong phông chữ như: người đàn ông trong bộ đồ công sở bay lên được thiết kế như một dấu chấm than được nhân cách hóa. Theo Vincent Connare, người thiết kế phông chữ, ký tự này được thiết kế bằng một biểu tượng của hãng thu âm nước Anh 2 Tone Records. Sau đó ký tự này được sử dụng làm một emoji: U+1F574 🕴 MAN IN BUSINESS SUIT LEVITATING.
+Vincent Connare cũng thiết kế biểu tượng tia chớp trong bộ phông chữ giống như biểu tượng trên bìa album Aladdin Sane của David Bowie.
+Sau cuộc tranh cãi về các thông điệp khi gõ "Q33 NY" trong phông chữ Wingdings, Vincent Connare đã hiển thị chuỗi ký tự "NYC" khi sử dụng phông chữ Webdings thành một con mắt, một trái tim và đường chân trời của thành phố, được hiểu là: "I Love New York" (Tôi yêu New York).
+
+
+== Bộ ký tự ==
+
+
+== Xem thêm ==
+Wingdings
+Marlett
+Zapf Dingbats
+Bookshelf Symbol 7
+Phông chữ cốt lõi cho web
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Webdings font information (Kiểu chữ của Microsoft)
+Webdings info page (Kiểu chữ của Microsoft)
+Downloadable version of Webdings for Windows

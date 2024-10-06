@@ -1,0 +1,59 @@
+Trong toán học và khoa học máy tính, một ngôn ngữ hình thức (formal language) được định nghĩa là một tập các chuỗi (string) được xây dựng dựa trên một bảng chữ cái (alphabet), và chúng được ràng buộc bởi các luật (rule) hoặc văn phạm (grammar) đã được định nghĩa trước. Alphabet có thể là tập các ký tự trong ngôn ngữ tự nhiên (natural language) hoặc tập tự định nghĩa các ký tự.
+Giả sử có một alphabet ∑ = {a, b} và ký hiệu L là ngôn ngữ. Như vậy, ta có thể định nghĩa một số ngôn ngữ trên alphabet ∑ như sau:
+
+L1 = {aa, aaa}
+L2 = {aba, aab}
+L3 = {ab, ba, aabb,..., aaabbb,...}
+Lĩnh vực mà lý thuyết ngôn ngữ hình thức nghiên cứu là những mẫu hình (pattern) có cấu trúc bên trong những ngôn ngữ hình thức, và đó là những khía cạnh hoàn toàn mang tính chất có cú pháp. Ngôn ngữ hình thức không còn đơn giản chỉ là để định nghĩa ngôn ngữ tự nhiên, mà nó đã vượt ra ngoài khỏi phạm vi đó, và nó cũng là một cách để hiểu được những quy tắc có cú pháp của ngôn ngữ tự nhiên.
+Lý thuyết ngôn ngữ hình thức còn được ứng dụng trong lĩnh vực khoa học máy tính, cụ thể là các ngôn ngữ lập trình khi mà mỗi từ của ngôn ngữ đó đều mang một ý nghĩa đặc biệt. Còn trong lĩnh vực lý thuyết độ phức tạp tính toán (Computational complexity theory), các vấn đề quyết định (decision problems) được định nghĩa như là các ngôn ngữ hình thức, và các lớp độ phức tạp (complexity classes) được xác định là tập của những ngôn ngữ hình thức. Còn trong toán học, cú pháp của các hệ thống tiên đề được biểu diễn bằng ngôn ngữ hình thức.
+
+
+== Các định nghĩa ==
+Một alphabet, trong ngữ cảnh ngôn ngữ hình thức thì có thể bất kì tập hợp nào, mặc dù thông thường là tập các chữ cái, hoặc ký tự trong bảng ASCII được sử dụng. Hơn nữa, một alphabet có thể là vô hạn (infinite); ví dụ, một tập alphabet ngoài các ký tự ∧, ¬, ∀, (,),... ra còn có vô số x1, x2,... thể hiện các biến. Các thành phần riêng lẻ trong một alphabet được gọi là chữ cái (letter).
+Chuỗi (string) hoặc từ (word): là một chuỗi các chữ cái trên alphabet nào đó.
+Câu (sentence): một chuỗi được gọi là câu nếu nó thuộc về một ngôn ngữ nào đó.
+Ngôn ngữ rỗng (empty language): một ngôn ngữ không chứa bất kì câu nào được gọi là ngôn ngữ rỗng (ký hiệu: ∅). Cần phân biệt ngôn ngữ rỗng và chuỗi rỗng (không chứa ký tự nào trong alphabet).
+
+
+== Phân loại ngôn ngữ theo mô hình Chomsky ==
+
+Noam Chomsky (1928), một nhà triết học người Mỹ về ngôn ngữ và là giáo sư ngôn ngữ học tại MIT đã xây dựng lên một ý tưởng rằng "Loài người học ngôn ngữ không phải bắt đầu từ những hành vi (behavior) (là những phản ứng sự kích thích một cách có định hướng), mà nó dựa trên nhận thức và sự bẩm sinh". Bằng những nỗ lực để chứng minh học thuyết này, ông đã đưa ra một mô hình gọi là Mô hình phân cấp Chomsky.
+Mô hình này gồm bốn loại ngôn ngữ và các gắn kết về ngữ pháp (grammar) và máy (machine):
+
+Loại 0: Recursively Enumerable Languages (ngôn ngữ đếm được theo cách đệ quy)
+Loại 1: Context-Sensitive Languages (ngôn ngữ phụ thuộc ngữ cảnh)
+Loại 2: Context-Free Languages (ngôn ngữ không phụ thuộc ngữ cảnh)
+Loại 3: Regular Languages (ngôn ngữ chính quy)
+
+
+== Các phép toán trên ngôn ngữ ==
+Giả sử tồn tại L1 và L2 là 2 ngôn ngữ trên một hoặc nhiều bộ alphabet nào đó. Ta có thể thực hiện một số phép tính giữa L1 và L2 như sau:
+
+Phép nối (concatenation): L1L2 bao gồm tất cả các chuỗi (string) được kết hợp từ 2 ngôn ngữ.
+Phép giao (intersection): L1∩L2 gồm các chuỗi xuất hiện trong cả hai ngôn ngữ.
+Phép bù (complement): ¬L1 hoặc ¬L2 gồm các chuỗi không nằm trong (hoặc thuộc) 2 ngôn ngữ trên.
+Luật Kleene star
+Phép đảo ngược (Reversal):
+Homomorphism trên chuỗi
+
+
+== Ứng dụng ==
+
+
+=== Ngôn ngữ lập trình ===
+Ứng dụng thường thấy trong lĩnh vực khoa học máy tính của ngôn ngữ hình thức là Trình biên dịch hay trong các giải thuật về chuỗi (tìm kiếm, hoán vị...).
+Một trình biên dịch về cơ bản gồm 2 thành phần riêng biệt. Một là trình phân tích từ vựng (lexical analyser), nó có nhiệm vụ xác định các token của nguồn một chương trình máy tính, ví dụ như các định danh (identifier) (tên của hàm, biến...), các từ khóa (keyword), các ký hiệu... Thành phần thứ 2 là trình phân tích cú pháp (parser) với nhiệm vụ quyết định xem mã nguồn chương trình đó có được viết đúng cú pháp của ngôn ngữ lập trình mà trình biên dịch đó hỗ trợ không. Kết quả của một parser là cây cú pháp trừu tượng (abstract syntax tree) và nó được sử dụng cho các giai đoạn sau của quá trình biên dịch. Hai thành phần đó đều hoạt động dựa trên ngôn ngữ hình thức.
+
+
+=== Lý thuyết và hệ thống và dẫn xuất về hình thức ===
+Trong toán logic, một lý thuyết hình thức (formal theory) là một tập các câu (sentence) được biểu diễn trên một ngôn ngữ hình thức.
+Một hệ thống hình thức (hay còn gọi là phép tính logic (logical calculus) hay hệ thống logic (logical system) là sự kết hợp của một ngôn ngữ hình thức và một bộ máy suy diễn (deductive apparatus).
+Một dẫn xuất (derivation) là một chuỗi hữu hạn các công thức đúng cú pháp.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Định nghĩa Ngôn ngữ hình thức, WolframAlpha.
+Bài giảng Ngôn ngữ hình thức và automat, Trường ĐH Hàng Hải.

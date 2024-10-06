@@ -1,0 +1,47 @@
+Axit δ-Aminolevulinic (còn Dala, δ-ALA, 5ALA hoặc axit 5-aminolevulinic), một amino acid không proteinogenic nội sinh, là hợp chất đầu tiên trong porphyrin con đường tổng hợp, con đường dẫn đến heme  ở động vật có vú và diệp lục  trong thực vật.
+5ALA được sử dụng trong phát hiện quang động và phẫu thuật ung thư.
+
+
+== Sử dụng trong y tế ==
+Là tiền thân của chất nhạy quang, 5ALA cũng được sử dụng như một tác nhân bổ sung cho liệu pháp quang động. Trái ngược với các phân tử cảm quang lớn hơn, nó được dự đoán bằng mô phỏng máy tính để có thể xâm nhập màng tế bào khối u.
+
+
+=== Chẩn đoán ung thư ===
+Phát hiện quang động là việc sử dụng các loại thuốc cảm quang với nguồn sáng có bước sóng phù hợp để phát hiện ung thư, sử dụng huỳnh quang của thuốc. 5ALA, hoặc các dẫn xuất của chúng, có thể được sử dụng để hình dung ung thư bàng quang bằng hình ảnh huỳnh quang.
+
+
+=== Điều trị ung thư ===
+amino acidolevulinic đang được nghiên cứu cho liệu pháp quang động (PDT) trong một số loại ung thư. Nó hiện không phải là phương pháp điều trị đầu tiên cho thực quản Barrett. Công dụng của nó trong ung thư não hiện đang thử nghiệm. Nó đã được nghiên cứu trong một số bệnh ung thư phụ khoa.
+Nó được sử dụng để hình dung mô u trong các thủ tục phẫu thuật thần kinh. Các nghiên cứu từ năm 2006 đã chỉ ra rằng việc sử dụng phương pháp phẫu thuật này có thể làm giảm thể tích còn lại của khối u và kéo dài thời gian sống không tiến triển ở những người bị u thần kinh ác tính. FDA Hoa Kỳ đã phê duyệt amino acidolevulinic hydrochloride (ALA HCL) cho việc sử dụng này vào năm 2017.
+
+
+== Tác dụng phụ ==
+Tác dụng phụ có thể bao gồm tổn thương gan và các vấn đề về thần kinh. Tăng thân nhiệt cũng có thể xảy ra. Cái chết cũng có kết quả.
+
+
+== Sinh tổng hợp ==
+Trong các sinh vật nhân chuẩn không quang hợp như động vật, nấm và động vật nguyên sinh, cũng như nhóm vi khuẩn Alphaproteobacteria, nó được sản xuất bởi enzyme ALA synthase, từ glycine và succ502 CoA. Phản ứng này được gọi là con đường Shemin, xảy ra trong ty thể.
+Trong thực vật, tảo, vi khuẩn (trừ nhóm α-proteobacteria) và vi khuẩn cổ, nó được sản xuất từ axit glutamic thông qua glutamyl-tRNA và glutamate-1-semialdehyd. Các enzyme tham gia vào con đường này là glutamyl-tRNA synthetase, glutamyl-tRNA reductase và glutamate-1-semialdehyd 2.1-aminomutase. Con đường này được gọi là con đường C5 hoặc Beale. Trong hầu hết các loài có chứa plastid, glutamyl-tRNA được mã hóa bởi một gen plastid, và phiên mã, cũng như các bước sau của con đường C5, diễn ra trong plastid.
+
+
+== Tầm quan trọng ở người ==
+
+
+=== Kích hoạt ty thể ===
+Ở người, 5ALA là tiền thân của heme. Sinh tổng hợp, 5ALA trải qua một loạt các biến đổi trong cytosol và cuối cùng được chuyển đổi thành Protoporphyrin IX bên trong ty thể. Phân tử protoporphyrin này chelate với sắt với sự hiện diện của enzyme ferrochelatase để tạo ra Heme.
+Heme làm tăng hoạt động của ty thể do đó giúp kích hoạt hệ hô hấp Krebs Chu kỳ và Chuỗi vận chuyển điện tử  dẫn đến sự hình thành adenosine triphosphate (ATP) để cung cấp đủ năng lượng cho cơ thể.
+
+
+=== Tích lũy Protoporphyrin IX ===
+Các tế bào ung thư thiếu hoặc đã giảm hoạt động ferrochelatase và điều này dẫn đến sự tích tụ Protoporphyrin IX, một chất huỳnh quang có thể dễ dàng hình dung.
+
+
+=== Cảm ứng Heme Oxygenase-1 (HO-1) ===
+Heme dư thừa được chuyển đổi trong các đại thực bào thành Biliverdin và các ion sắt bởi enzyme HO-1. Biliverdin được hình thành tiếp tục được chuyển đổi thành Bilirubin và carbon monoxit. Biliverdin và Bilirubin là những chất chống oxy hóa mạnh và điều chỉnh các quá trình sinh học quan trọng như viêm, apoptosis, tăng sinh tế bào, xơ hóa và tạo mạch.
+
+
+== Thực vật ==
+Trong thực vật, sản xuất 5ALA là bước mà tốc độ tổng hợp chất diệp lục được điều hòa. Thực vật được nuôi dưỡng bởi 5ALA bên ngoài tích lũy một lượng độc tố tiền chất diệp lục, protochlorophyllide, chỉ ra rằng sự tổng hợp của chất trung gian này không bị ức chế ở bất kỳ nơi nào trong chuỗi phản ứng. Protochlorophyllide là một chất nhạy cảm ánh sáng mạnh trong thực vật.
+
+
+== Tham khảo ==

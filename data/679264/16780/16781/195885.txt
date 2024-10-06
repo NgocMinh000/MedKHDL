@@ -1,0 +1,146 @@
+Sự đông máu là một quá trình phức tạp qua đó tạo ra các cục máu đông. Đông máu là một cơ chế quan trọng trong quá trình cầm máu. Khi thành mạch máu bị tổn thương, máu được cầm nhờ chỗ tổn thương được che phủ bởi cục máu đông chứa tiểu cầu và sợi huyết. Rối loạn đông máu có thể làm tăng nguy cơ chảy máu và/hoặc tạo cục máu đông và huyết tắc.
+Cơ chế đông máu được bảo tồn khá chắc trong tiến hóa; ở lớp thú, hệ thống đông máu bao gồm hai thành phần: tế bào (tiểu cầu) và protein (các yếu tố đông máu).
+Phản ứng đông máu được kích hoạt ngay sau chấn thương làm tổn hại đến nội mạc mạch máu. Tiểu cầu lập tức tạo nút chặn cầm máu tại vết thương; đây chính là quá trình cầm máu ban đầu. Quá trình cầm máu thứ phát diễn ra đồng thời; các yếu tố đông máu trong huyết tương đáp ứng trong một chuỗi phản ứng để tạo các sợi huyết có vai trò củng cố nút chặn tiểu cầu.
+
+
+== Sinh lý học ==
+
+
+=== Hoạt hóa tiểu cầu ===
+Tổn thương thành mạch máu làm bộc lộ collagen bình thường vốn chỉ hiện diện bên dưới lớp nội mạc. Tiểu cầu tuần hoàn trong máu gắn vào collagen trên các thụ thể glycoprotein Ia/IIa bề mặt đặc hiệu với collagen. Sự gắn kết này sau đó được gia cố bởi một protein có tên là yếu tố von Willebrand (vWF), với vai trò tạo các liên kết giữa glycoprotein Ib/IX/V tiểu cầu với các sợi collagen.
+Sau đó tiểu cầu được hoạt hóa và tiết các chất từ những hạt trong bào tương tiểu cầu vào huyết tương, đến lượt mình, các chất này hoạt hóa các tiểu cầu khác. Tiểu cầu thay đổi hình dạng, bộc lộ bề mặt phospholipid cần cho sự bám dính của các yếu tố đông máu. Fibrinogen nối kết các tiểu cầu gần nhau bằng cách tạo ra các liên kết thông qua glycoprotein IIb/IIIa. Ngoài ra, tiểu cầu còn được hoạt hóa bởi thrombin.
+
+
+=== Hiện tượng đông máu ===
+Đông máu của quá trình cầm máu thứ phát có hai con đường, con đường kích hoạt qua tiếp xúc (còn gọi là con đường nội sinh) và con đường yếu tố mô (con đường ngoại sinh) cùng dẫn tới sự hình thành sợi huyết. Theo truyền thống, người ta cho rằng dòng thác đông máu gồm hai con đường quan trọng như nhau cùng gặp nhau ở một đoạn đường chung. Thực ra, con đường chủ yếu (thường gặp nhất) khởi phát sự đông máu là con đường yếu tố mô. Các con đường đều là một chuỗi các phản ứng, trong đó một zymogen (tiền chất bất hoạt của enzyme) của một serine protease và đồng yếu tố glycoprotein của nó được hoạt hóa để trở thành các thành phần hoạt động và xúc tác cho phản ứng tiếp theo trong dòng thác, cuối cùng hình thành các sợi huyết liên kết chéo với nhau. Các yếu tố đông máu thường được ký hiệu bằng các chữ số La Mã, với một chữ a viết thường đính kèm để chỉ dạng hoạt hóa (active).
+Các yếu tố đông máu thường là các enzyme serine protease. Một số ngoại lệ bao gồm yếu tố VIII và yếut tố V là các glycoprotein; yếu tố XIII là một transglutaminase. Serine proteases hoạt động bằng cách cắt các protein khác ở các vị trí đặc hiệu. Yếu tố đông máu tuần hoàn dưới dạng các zymogen bất hoạt.
+Dòng thác đông máu theo truyền thống được chia làm ba con đường, con đường yếu tố mô và con đường hoạt hóa qua tiếp xúc cả hai cùng kích hoạt con đường "chung" của yếu tố X, thrombin và fibrin.
+
+
+==== Con đường yếu tố mô ====
+Vai trò chính của con đường yếu tố mô là hình thành một "sự bùng nổ thrombin", một quá trình trong đó thrombin hình thành nhanh chóng. Yếu tố VIIa lưu hành trong máu với một lượng nhiều hơn so với các yếu tố đông máu được hoạt hóa khác.
+
+Tiếp sau sự tổn thương mạch máu, yếu tố mô (Tissue Factor - TF) do tế bào nội mô tiết ra, tạo một phức hợp với yếu tố VII, để hoạt hóa yếu tố này (hình thành TF-VIIa).
+TF-VIIa hoạt hóa yếu tố IX và yếu tố X.
+Bản thân yếu tố VII được hoạt hóa bởi thrombin, yếu tố XIa, plasmin, yếu tố XII và yếu tố Xa.
+Sự hoạt hóa yếu tố Xa bởi phức hợp TF-VIIa hầu như lập tức bị ức chế bởi chất ức chế con đường yếu tố mô (TFPI - tissue factor pathway inhibitor).
+Yếu tố Xa và đồng yếu tố Va của nó từ phức hợp prothrombinase sẽ hoạt hóa prothrombin thành thrombin.
+Thrombin sau đó hoạt hóa các thành phần khác của dòng thác đông máu, kể cả yếu tố V và yếu tố VII, rồi hoạt hóa và phóng thích yếu tố VIII ra khỏi yếu tố vWF.
+Yếu tố VIIIa là đồng yếu tố của yếu tố IXa, hai yếu tố này cùng tạo ra phức hợp "tenase" để hoạt hóa yếu tố X. (Từ "tenase" được ghép từ chữ "ten" ("mười" trong tiếng Anh) và tiếp vĩ ngữ "-ase" dùng cho enzyme.)
+
+
+==== Con đường hoạt hóa tiếp xúc ====
+Con đường hoạt hóa tiếp xúc bắt đầu với sự hình thành phức hợp ban đầu trên nền collagen bởi kininogen cao phân tử (HMWK - high-molecular weight kininogen), prekallikrein, và yếu tố XII (yếu tố Hageman). Prekallikrein được chuyển thành kallikrein còn yếu tố XII thành XIIa. Yếu tố XIIa chuyển yếu tố XI thành FXIa. Yếu tố XIa hoạt hóa yếu tố IX, cùng với đồng yếu tố VIIIa tạo nên phức hợp tenase, hoạt hóa yếu tố X thành Xa. Vai trò thứ yếu của con đường hoạt hóa tiếp xúc trong việc hình thành cục máu đông được minh chứng qua các trường hợp bệnh nhân bị thiếu trầm trọng các yếu tố XII, HMWK, và prekallikrein không có triệu chứng rối loạn đông máu.
+
+
+==== Con đường chung ====
+Thrombin có hàng loạt chức năng khác nhau. Vai trò hàng đầu của nó là chuyển fibrinogen thành fibrin, là chất liệu chính của cục máu đông. Ngoài ra, nó còn hoạt hóa yếu tố VIII và V cùng với chất ức chế của chúng - protein C (khi có thrombomodulin), hoạt hóa yếu tố XIII, chất có vai trò tạo liên kết cộng hóa trị làm nên các liên kết chéo giữa các sợi polymer fibrin.
+Sau khi được hoạt hóa bởi con đường yếu tố mô hoặc con đường hoạt hóa tiếp xúc, dòng thác đông máu được duy trì ở trạng thái ưu đông do sự hoạt hóa liên tục yếu tố VIII và IX để tạo nên phức hợp tenase, cho đến khi được điều chỉnh xuống bởi cơ chế chống đông.  Đông máu là hiện tượng hình thành cục máu đông bịt kín vết thương do hoạt động chủ yếu của tiểu cầu
+
+
+=== Các đồng yếu tố ===
+Nhiều chất cần thiết cho sự vận hành bình thường của dòng thác đông máu:
+
+Calci và phospholipid (một thành phần của màng tiểu cầu) cần thiết cho sự hoạt động của các phức hợp tenase và prothrombinase. Calci xúc tác sự gắn các phức hợp thông qua các nhóm gamma-carboxy tận cùng trên các yếu tố Xa và IXa lên các bề mặt phospholipid của tiểu cầu cũng như các vi hạt chứa các chất gây đông do tiểu cầu tiết ra. Calci cũng cần thiết cho một số vị trí khác trong dòng thác đông máu.
+Vitamin K là một tác nhân cần thiết giúp gamma-glutamyl carboxylase gan gắn một nhóm carboxyl vào nhóm acid glutamic trên các yếu tố II, VII, IX và X, cũng như Protein S, Protein C và Protein Z. Thiếu vitamin K (v.d. trong tình trạng rối loạn hấp thu), sử dụng thuốc kháng đông (warfarin, acenocoumarol và phenprocoumon) hoặc bệnh (ung thư tế bào gan) làm giảm chức năng của enzyme và dẫn tới sự hình thành các protein PIVKA (proteins formed in vitamin K absence - protein tạo thành khi thiếu vitamin K) dẫn đến thiếu một phần hoặc toàn phần sự carboxyl gamma hóa và ảnh hưởng đến khả năng gắn vào phospholipid của các yếu tố đông máu.
+
+
+=== Các chất ức chế ===
+Có ba cơ chế kiểm soát dòng thác đông máu. Bất thường của các cơ chế này dẫn đến tình trạng dễ tạo cục máu đông:
+
+Protein C là chất kháng đông sinh lý chính. Đó là một enzyme serine protease phụ thuộc vitamin K được thrombin hoạt hóa thành APC (activated protein C). Dạng hoạt hóa (cùng với protein S và phospholipid đóng vai trò đồng yếu tố) làm thoái hóa các yếu tố Va và VIIIa. Thiếu về lượng hoặc về chất của một trong các kháng đông trên có thể dẫn đến bệnh máu dễ đông. Rối loạn hoạt động của protein C (kháng rotein C hoạt hóa), thí dụ yếu tố V Leiden hoặc yếu tố VIII nồng độ cao cũng có thể dẫn đến tình trạng máu dễ đông.
+Antithrombin cũng là một chất ức chế serine protease (serpin - serin protease inhibitor) có vai trò làm thoái hóa các serine protease; thrombin và yếu tố Xa, cũng như các yếu tố XIIa và IXa. Chất này thường ở tình trạng hoạt hóa, nhưng sự kết dính antithrombin vào các yếu tố trên chỉ tăng lên khi có mặt heparan sulfat (một glycosaminoglycan) hoặc dùng thuốc heparin (những chất dạng heparin khác cũng làm tăng ái lực đối với yếu tố Xa, thrombin, hoặc cả hai). Thiếu hụt về chất lượng hoặc số lượng của antithrombin (bẩm sinh hay mắc phải, v.d. trong bệnh đái protein) cũng có thể đưa đến tình trạng máu dễ đông.
+Chất ức chế con đường yếu tố mô (TFPI - Tissue factor pathway inhibitor) ức chế yếu tố sự hoạt hóa các yếu tố IX và X có liên quan đến yếu tố VIIa sau khi sự hoạt hóa này khởi động.
+
+
+=== Sự tan fibrin ===
+Sau cùng, tất cả các cục máu đông được tổ chức lại và tái hấp thu bằng một quá trình gọi là sự tan fibrin. Enzyme chính của quá trình này (plasmin) được điều hòa bởi một số chất kích thích và ức chế.
+
+
+== Xét nghiệm đông máu ==
+Có nhiều xét nghiệm để đánh giá chức năng đông máu:
+
+Xét nghiệm thường làm: aPTT, PT (còn dùng để tính INR), fibrinogen (thường bằng phương pháp Clauss, có khi tính gián tiếp qua PT), đếm số lượng tiểu cầu, xét nghiệm chất lượng tiểu cầu (như PFA-100).
+Xét nghiệm khác: TCT, Thời gian máu chảy, xét nghiệm trộn lẫn (khi xét nghiệm từ bất thường trở nên bình thường nếu huyết tương bệnh nhân được pha trộn với huyết tương bình thường), xét nghiệm yếu tố đông máu, kháng thể kháng antiphospholipid, D-dimer, xét nghiệm di truyền (vd. yếu tố V Leiden, đột biến prothrombin G20210A), thời gian pha nọc rắng Russell (dRVVT), độ đàn hồi cục máu đông (TEG hay ROTEM), thời gian hủy euglobulin (ELT).
+Con đường yếu tố tiếp xúc khởi đầu bằng sự hoạt hóa các "yếu tố tiếp xúc" trong huyết tương, được đánh giá qua xét nghiệm aPTT.
+Con đường yếu tố mô khởi đầu bằng sự phóng thích các yếu tố mô (một loại lipoprotein vòng đặc biệt), được đánh giá bằng xét nghiệm thời gian prothrombin (PT). Kết quả PT thường được biểu diễn dưới dạng một tỷ số (INR), thường dùng để theo dõi bệnh nhân dùng những thuốc kháng đông đường uống như warfarin.
+Tầm soát định tính và định lượng fibrinogen được thực hiện bằng xét nghiệm thời gian đông thrombin (TCT). Định lượng chính xác fibrinogen trong máu thường dùng phương pháp Clauss. Một số máy xét nghiệm còn có khả năng đưa ra lượng "fibrinogen phái sinh" từ biểu đồ của xét nghiệm thời gian Prothrombin.
+Nếu một yếu tố đông máu là thành phần của con đường tiếp xúc hoặc con đường yếu tố mô, sự thiếu hụt yếu tố đó sẽ chỉ ảnh hưởng đến một trong số các xét nghiệm: như trong bệnh hemophilia A, thiếu yếu tố VIII, thuộc con đường tiếp xúc, làm xét nghiệm aPTT kéo dài bất thường nhưng PT vẫn bình thường. Các ngoại lệ gồm prothrombin, fibrinogen và một số biến thể của yếu tố X ảnh hưởng đến cả hai loại xét nghiêm aPTT và PT. Khi xét nghiệm PT hoặc aPTT bất thường, các xét nghiệm khác sẽ được chỉ định để đánh giá tình trạng của các yếu tố đông máu.
+
+
+== Vai trò ==
+Bất thường đông máu có thể dẫn đến chảy máu, máu đông hay đôi khi cả hai, tùy vào bản chất của bệnh.
+
+
+=== Rối loạn tiểu cầu ===
+Bệnh lý tiểu cầu có hai dạng: bẩm sinh và mắc phải. Một số loại bệnh tiểu cầu bao gồm Glanzmann's thrombasthenia, hội chứng Bernard-Soulier (phức hợp glycoprotein Ib-IX-V bất thường), hội chứng tiểu cầu xám (thiếu hạt alpha) và thiểu năng dự trữ delta (thiếu các hạt đặc). Hầu hết là các bệnh hiếm gặp. Đa số các bệnh tiểu cầu bẩm sinh khiến bệnh nhân dễ bị chảy máu. Bệnh von Willebrand do thiếu hoặc rối loạn chức năng của yếu tố von Willebrand, và dẫn đến bệnh cảnh dễ chảy máu tương tự; các thể bệnh nhẹ hơn tương đối thường gặp hơn.
+Giảm số lượng tiểu cầu có nguyền nguyên nhân, bao gồm sản xuất không đủ (td. trong hội chứng suy tủy), bệnh miễn dịch (xuất huyết giảm tiểu cầu miễn dịch/ITP), và tăng sử dụng tiểu cầu do nhiều nguyên nhân (thiếu máu giảm tiểu cầu do hủy tiểu cầu/TTP, hội chứng tán huyết - tăng urê huyết/HUS, tiểu hemoglobin cực điểm về đêm/PNH, đông máu nội mạch lan tỏa/DIC, giảm tiểu cầu do heparin/HIT). Đa số các trường hợp tăng sử dụng tiểu cầu dẫn đến hoạt hóa tiểu cầu, một số có liên quan đến huyết tắt.
+
+
+=== Rối loạn các yếu tố đông máu và huyết khối ===
+Những rối loạn yếu tố đông máu nổi tiếng nhất là các bệnh hemophilia. Ba dạng chính là hemophilia A (thiếu yếu tố VIII), hemophilia B (thiếu yếu tố IX hay "bệnh Christmas") và hemophilia C (thiếu yếu tố XI, nguy cơ chảy máu vừa). Cùng với bệnh von Willebrand (biểu hiện khá giống rối loạn tiểu cầu trừ những trường hợp nặng), những bệnh kể trên khiến dễ chảy máu. Hầu hết các trường hợp bệnh hemophilia là do di truyền. Ở người bị suy gan (cấp hoặc mạn), gan không sản xuất các yếu tố đông máu; điều này cũng làm tăng nguy cơ chảy máu.
+Huyết khối (thrombosis) là sự hình thành cục máu đông bệnh lý, còn thuyên tắc (embolism) là khi cục máu đông (thrombus) di chuyển đến một vị trí khác của cơ thể làm tổn hại cơ quan tại chỗ. Hầu hết các trường hợp huyết khối là do các mắc phải vấn đề trên hệ đông máu ngoại sinh (phẫu thuật, ung thư, bất vận động, béo phì, hội chứng hạng ghế phổ thông), nhưng một tỷ lệ nhỏ bệnh nhân có xu hướng mắc tình trạng gọi chung là tăng đông máu (thrombophilia, thí dụ hội chứng kháng phospholipid, yếu tố V Leiden và một số rối loạn di truyền hiếm gặp khác).
+Các đột biến yếu tố XII liên quan đến sự kéo dài thời gian đông máu không triệu chứng lâm sàng và có xu hướng dễ bị viêm tắc tĩnh mạch. Các đột biến khác có liên quan đến dạng hiếm gặp của phù Quincke (hereditary angioedema (loại III).
+
+
+== Thuốc tác động đến cơ chế đông máu ==
+
+
+=== Thuốc giúp đông máu ===
+Việc sử dụng các chất hấp thu như zeolite và các thuốc cầm máu khác được sử dụng để nhanh chóng làm ngưng chảy máu cho các vết thương trầm trọng. Keo thrombin và fibrin được dùng trong phẫu thuật để cầm máu và để điều trị các phình mạch thrombose.
+Desmopressin được dùng để cải thiện chức năng tiểu cầu bằng cách kích thích thụ thể arginine vasopressin 1A.
+Các yếu tố đông máu nồng độ cao được dùng để điều trị bệnh hemophilia, để đảo ngược tác dụng của các thuốc kháng đông, và để điều trị triệu chứng chảy máu ở những bệnh nhân bị rối loạn sự tổng hợp yếu tố đông máu hoặc khi yếu tố đông máu được sử dụng nhiều, vược quá mức tổng hợp. Phức hợp prothrombin cô đặc, cryoprecipitate và huyết thanh tươi đông lạnh là các thuốc cầm máu thường được sử dụng. Yếu tố VII hoạt hóa tái tổ hợp ngày càng được sử dụng nhiều trong điều trị các trường hợp chảy máu nặng.
+Acid tranexamic và acid aminocaproic ức chế sự hủy fibrin, làm giảm chảy máu. Trước khi bị chấm dứt sử dụng, aprotinin từng được dùng trong một số phẫu thuật lớn để làm giảm nguy cơ chảy máu và nhu cầu sử dụng các chế phẩm máu.
+
+
+=== Thuốc kháng đông ===
+Các thuốc kháng đông và các thuốc kháng tiểu cầu nằm trong số những thuốc được sử dụng nhiều nhất. Các thuốc kháng tiểu cầu bao gồm aspirin, clopidogrel, dipyridamole và ticlopidine; dạng dùng ngoài đường tiêu hóa glycoprotein IIb/IIIa inhibitors được dùng cho tình trạng angioplasty.
+Trong các thuốc kháng đông, warfarin (và các coumarin) cùng heparin là thường dùng nhất. Warfarin tương tác với vitamin K, còn heparin và các hợp chất tương tự làm tăng hoạt động của antithrombin trên thrombin và yếu tố Xa. Một lớp thuốc mới, ức chế thrombin trực tiếp, đang được phát triển; một số đã được sử dụng trên lâm sàng (như lepirudin). Cùng đang được phát triển là các hợp chất phân tử nhỏ có tác động trực tiếp lên hoạt tính enzym của một số yếu tố đông máu (e.g. rivaroxaban).
+
+
+== Các yếu tố đông máu ==
+
+
+== Lịch sử ==
+
+
+=== Các phát hiện đầu tiên ===
+Các lý thuyết về sự đông máu đã tồn tại từ thời cổ đại. Nhà sinh lý học Johannes Müller (1801-1858) đã mô tả fibrin, chất liệu của cục máu đông. Tiền chất tan của fibrin, fibrinogen, được đặt tên bởi Rudolf Virchow (1821-1902), và phân lập hóa học bởi Prosper Sylvain Denis (1799-1863). Alexander Schmidt gợi ý rằng sự chuyển fibrinogen thành fibrin là kết quả của một quá trình phản ứng enzyme, và gọi tên enzyme giả định là "thrombin" và tiền chất tương ứng "prothrombin". Arthus phát hiện năm 1890 rằng calci cần cho sự đông máu. Tiểu cầu được xác định năm 1865, và vai trò của chúng được mô tả bởi Giulio Bizzozero năm 1882.
+Lý thuyết thrombin được hình thành với sự hiện diện của yếu tố mô được củng cố bởi Paul Morawitz năm 1905. Ở giai đoạn này, người ta đã biết rằng thrombokinase/thromboplastin ("yếu tố III") được mô tổn thương phóng thích, phản ứng với prothrombin (II), yếu tố này cùng với calci (IV), tạo ra thrombin, làm fibrinogen chuyển thành fibrin (I).
+
+
+=== Các yếu tố đông máu ===
+Hầu hết các yếu tố sinh hóa của quá trình đông máu được phát hiện trong thế kỷ 20.
+Cột mốc đầu tiên của hệ thống đông máu là sự phát hiện ra proaccelerin (yếu tố V) bởi Paul Owren (1905-1990) năm 1947. Chính tác giả này đã khẳng định vai trò của yếu tố trên là tạo ra accelerin (yếu tố VI), về sau được đính chính lại là dạng hoạt hóa của yếu tố V (Va); do đó, tên gọi "yếu tố VI" không còn được sử dụng.
+Yếu tố VII (còn gọi là chất thúc đẩy sự chuyển dạng prothrombin huyết thanh (serum prothrombin conversion accelerator) hay proconvertin, kết tủa bởi barium sulfate) được phát hiện ở một bệnh nhân nữ trẻ vào các năm 1949 và 1951 bởi các nhóm khác nhau.
+Yếu tố VIII là yếu tố thiếu hụt trong bệnh hemophilia A, một tình trạng dễ nhận thấy nhưng bệnh nguyên khó hiểu; được xác định trong những năm 1950 và được gọi là globulin kháng hemophilia do công dụng điều trị hemophilia A.
+Yếu tố IX được khám phá năm 1952 ở một bệnh nhân trẻ bị hemophilia B tên là Stephen Christmas (1947-1993). Sự thiếu hụt yếu tố đông máu này được mô tả bởi BS. Rosemary Biggs và GS. R.G. MacFarlane ở Oxford. Do đó yếu tố này còn được gọi là yếu tố Christmas. Christmas sống ở Canada, và hoạt động cho sự an toàn khi truyền máu cho đến khi qua đời do bị AIDS do truyền máu ở tuổi 46. Một tên gọi khác cho yếu tố này là thành phần thromboplastin huyết tương (plasma thromboplastin component).
+Yếu tố Hageman, hay yếu tố XII, được xác định năm 1955 trên một bệnh nhân có thời gian chảy máu kéo dài nhưng không triệu chứng lâm sàng tên là John Hageman. Yếu tố X, hay yếu tố Stuart-Prower, được phát hiện sau đó, năm 1956. Protein này được xác định trên một nữ bệnh nhân tên là Audrey Prower ở London. Năm 1957, một nhóm nghiên cứu Mỹ đã xác định yếu tố này trên nam bệnh nhân Rufus Stuart. Các yếu tố XI và XIII được xác định năm 1953 và 1961.
+Quan điểm cho rằng quá trình đông máu là một chuỗi phản ứng hay "dòng thác" được phát biểu hầu như đồng thời bởi MacFarlane ở Anh và bởi Davie và Ratnoff ở Mỹ.
+
+
+=== Danh pháp ===
+Việc sử dụng các chữ số La Mã thay vì các tên người hay tên hệ thống đã được thống nhất qua các hội nghị hàng năm (kể từ năm 1955) của các chuyên gia đông máu. Năm 1962, sự đồng thuận đã đạt được cho các yếu tố I-XII. Ủy ban này đã phát triển thành Ủy ban Quốc tế về đông máu và cầm máu ngày nay (International Committee on Thrombosis and Hemostasis - ICTH). Việc đánh số chấm dứt năm 1963 sau khi đặt tên yếu tố XIII. Các tên yếu tố Fletcher và yếu tố Fitzgerald Factor được đặt cho các protein liên quan đến đông máu phát hiện sau, chính là prekallikrein và kininogen khối lượng phân tử cao (high molecular weight kininogen).
+Các yếu tố III và VI không được đánh số, vì thromboplastin chưa bao giờ được xác định rõ, hiện nay được xem là gồm hàng chục yếu tố khác, còn accelerin chính là yếu tố V hoạt hóa (Va).
+
+
+== Các loài khác ==
+Tất cả các loài thú đều có một quá trình đông máu tương tự nhau, sử dụng cả hai cơ chế tế bào và serine protease. Thực tế, bất cứ yếu tố đông máu nào của động vật có vú đều có khả năng "xử lý" phân tử mục tiêu tương đương ở loài thú khác. Loài động vật duy nhất không thuộc lớp thú được biết có sử dụng cơ chế đông máu qua các serine protease là cua móng ngựa.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Cầm máu
+
+
+== Liên kết ngoài ==
+
+
+=== Cấu trúc 3D ===
+UMich Orientation of Proteins in Membranes families/superfamily-97 - Các hướng được tính của các phức hợp có domain GLA màng
+UMich Orientation of Proteins in Membranes families/superfamily-48 - Domain discoidin của các yếu tố đông máu

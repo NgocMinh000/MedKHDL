@@ -1,0 +1,64 @@
+Dị dạng động - tĩnh mạch (AVM) là hiện tượng xuất hiện nối tắt bất thường giữa động mạch và tĩnh mạch, không qua hệ thống mao mạch. Dị dạng mạch máu  này được biết đến bởi sự xuất hiện trong hệ thần kinh trung ương (thường là AVM não), nhưng có thể xuất hiện ở bất kỳ vị trí nào. Mặc dù nhiều AVMs không có triệu chứng cũng có thể gây đau dữ dội, hoặc chảy máu hoặc vấn đề sức khỏe nghiêm trọng khác.
+AVMs thường bẩm sinh. Không rõ có phải do di truyền hay không. AVM thường không được coi là rối loạn di truyền, trừ khi trong bối cảnh của một  hội chứng di truyền cụ thể.
+
+
+== Dấu hiệu và triệu chứng ==
+Triệu chứng của AVM thay đổi theo vị trí. Khoảng 88% người mang AVM không có triệu chứng; thông thường các dị dạng được phát hiện ra khi khám nghiệm tử thi hay trong quá trình điều trị một rối loạn không liên quan, một số trường hợp hiếm các AVM mở rộng hoặc một vi chảy máu trong não có thể gây ra động kinh, suy giảm thần kinh, hay đau đầu.
+Triệu chứng chủ yếu của AVM não bao gồm đau đầu và động kinh, cộng thêm triệu chứng nhất định phụ thuộc vào vị trí của dị dạng. Các triệu chứng có thể gặp bao gồm:
+
+Hạn chế phối hợp vận động, bao gồm yếu cơ và thậm chí liệt;
+Chóng mặt;
+Nói khó, thất ngôn;
+Sinh hoạt khó khăn, như thất điều;
+Rối loạn cảm giác (tê, ngứa, hoặc đau tự phát);
+Suy giảm trí nhớ, như nhầm lẫn, chứng mất trí hay ảo giác.
+AVM não có thể biểu hiện:
+
+Chảy máu (45% trường hợp)
+Đau đầu cấp: có thể được mô tả như là cơn đau đầu tồi tệ nhất của bệnh nhân. Tùy thuộc vào vị trí của chảy máu, có thể liên quan với suy giảm thần kinh. Với các AVM không vỡ, nguy cơ chảy máu tự nhiên khoảng 1% mỗi năm. Sau lần vỡ đầu tiên, hàng năm nguy cơ chảy máu có thể tăng lên hơn 5%.
+Động kinh (46%) Tùy thuộc vào vị trí của các AVM, nó có thể gây ra mất tầm nhìn một bên.
+Đau đầu (34%)
+Suy giảm thần kinh tiến triển (21%)
+Có thể là do hiệu ứng khối hoặc phình tĩnh mạch. Sự hiện diện và bản chất của các dị dạng phụ thuộc vào vị trí tổn thương và các tĩnh mạch dẫn lưu.
+Bệnh nhi
+Suy tim
+Tật đầu to
+Nổi tĩnh mạch da đầu
+
+
+== Chẩn đoán ==
+
+AVMs được chẩn đoán chủ yếu qua các phương pháp sau đây:
+
+Chụp cắt lớp vi tính (CT) là kỹ thuật không xâm lấn dùng tia X để đánh giá cấu trúc giải phẫu trong não bộ để phát hiện máu ở trong hay ngoài não. Một kỹ thuật mới gọi là chụp CT mạch thực hiện tiêm thuốc cản quang vào mạch máu để đánh giá động mạch não. Kỹ thuật này cung cấp hình ảnh tốt nhất của các mạch máu qua ảnh chụp mạch và mô mềm nhờ CT.
+Cộng hưởng từ (MRI) cũng là một xét nghiệm không xâm lấn, sử dụng từ trường, và phát sóng tần số radio cho ra cái nhìn chi tiết quan điểm về các mô mềm của não bộ.
+Chụp cộng hưởng từ mạch (MRA) – tạo ra hình ảnh cộng hưởng từ đặc biệt tái tạo hình ảnh các mạch máu và cấu trúc của não bộ. Chụp cộng hưởng từ mạch có thể là một thử thuật xâm lấn, thực hiện đưa thuốc đối quang từ (ví dụ như, gadolinium ÔNG phản đại lý) vào các mạch máu bệnh nhân bằng cách sử dụng một catheter đưa vào động mạch và qua các mạch máu lên não. Một khi catheter đã được đặt, chất đối quang từ được tiêm vào máu và tiến hành chụp hình MR.
+AVMs có thể xuất hiện tại nhiều vị trí khác nhau của cơ thể:
+
+não (dị dạng não AV)
+lách
+phổi
+thậnref name="pmid16794894">Barley, Fay L.; Kessel, David; Nicholson, Tony; Robertson, Iain (2006). “Selective Embolization of Large Symptomatic Iatrogenic Renal Transplant Arteriovenous Fistula”. CardioVascular and Interventional Radiology. 29 (6): 1084–7. doi:10.1007/s00270-005-0265-z. PMID 16794894.</ref>
+tủy sống
+gan
+khoang liên sườn
+mống mắt
+thừng tinh
+chi – cánh tay vai.
+AVMs có thể xảy ra độc lập hoặc là một phần bệnh lý (ví dụ, Bệnh Von Hippel-Lindau  hay giãn mao mạch xuất huyết di truyền).
+AVMs đã được chứng minh có liên quan đến hẹp van động mạch chủ.
+
+
+== Điều trị ==
+Với các AVM não không triệu chứng bệnh nhân nên được theo dõi các biểu hiện động kinh, đau đầu, suy giảm thần kinh bởi một bác sĩ thần kinh. Điều trị AVM bao gồm nút mạch, phẫu thuật thần kinh hoặc xạ phẫu.
+Nút mạch là thủ thuật cắt nguồn cung cấp máu đến AVM với coil, hạt, acrylates, hoặc polymer được thực hiện dưới hướng dẫn catheter, ngoài ra có thể dùng phẫu thuật hoặc xạ phẫu, nhưng hiếm khi có thể cô lập thành công ngoại trừ AVMs nhỏ. Cũng có thể sử dụng dao Gamma.
+
+
+== Lịch sử ==
+Emmanuel, Luschka, và Virchow lần đầu tiên mô tả dị dạng động tĩnh mạch ở giữa những năm 1800. Olivecrona thực hiện lần đầu tiên phẫu thuật cắt bỏ một AVM não năm 1932.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

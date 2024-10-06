@@ -1,0 +1,72 @@
+Xét nghiệm Mantoux hay thử nghiệm Mendel-Mantoux (còn được gọi là xét nghiệm Mantoux sàng lọc, kiểm tra độ nhạy cảm tuberculin, kiểm tra Pirquet, hoặc thử nghiệm PPD cho dẫn xuất protein tinh khiết) là một công cụ để sàng lọc cho bệnh lao (TB) và cho chẩn đoán bệnh lao. Đây là một trong những xét nghiệm da chính được sử dụng trên khắp thế giới, phần lớn thay thế các xét nghiệm như xét nghiệm tine. Các thử nghiệm Heaf, xét nghiệm tine, đã được sử dụng cho đến năm 2005 tại Anh, khi nó được thay thế bằng các bài kiểm tra Mantoux. Kiểm tra Mantoux được xác nhận bởi American Thoracic Society (Hiệp hội lồng ngực Hoa Kỳ) và Centers for Disease Control and Prevention (Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh). Nó cũng được sử dụng ở Liên Xô và hiện đang thịnh hành ở hầu hết các nước hậu Xô Viết.
+
+
+== Lịch sử ==
+
+Tuberculin là một chiết xuất glycerol của trực khuẩn lao. Dẫn xuất protein tinh khiết (PPD) là phần kết tủa các phân tử không đặc hiệu loài thu được từ dịch lọc của các mẻ cấy vô trùng cô đặc. Phản ứng lao tố được Robert Koch mô tả lần đầu tiên vào năm 1890. Xét nghiệm lần đầu tiên được phát hiện và mô tả bởi bác sĩ người Đức Felix Mendel vào năm 1908. Nó được đặt tên theo Charles Mantoux, một bác sĩ người Pháp xây dựng trên công trình Koch và Clemens von Pirquet để tạo ra thử nghiệm của mình vào năm 1907. Tuy nhiên, xét nghiệm này không đáng tin cậy do các tạp chất trong tuberculin có xu hướng gây ra kết quả sai.
+Esmond R. Long và Florence B. Seibert đã xác định được tác nhân hoạt động trong lao tố là một protein. Seibert sau đó đã dành một số năm phát triển các phương pháp tách và tinh chế protein từ Mycobacterium tuberculosis, thu được protein dẫn xuất tinh khiết (PPD) và cho phép tạo ra một xét nghiệm đáng tin cậy cho bệnh lao. Ấn phẩm đầu tiên của bà về thanh lọc lao tố xuất hiện vào năm 1934. Vào những năm 1940, PPD của Seibert là tiêu chuẩn quốc tế về xét nghiệm lao tố. Năm 1939, MA Linnikova ở Liên Xô đã tạo ra một phiên bản PPD đã sửa đổi. Năm 1954, Liên Xô bắt đầu sản xuất hàng loạt PPD-L, đặt theo tên của Linnikova.
+
+
+== Cách tiến hành ==
+Một liều chuẩn của 5 đơn vị lao tố (TU - 0,1 ml), theo CDC, hoặc 2 TU của Hội huyết thanh học Hoa Kỳ (SSI) tuberculin RT23 trong dung dịch 0,1 ml, theo NHS, được tiêm vào trong da (giữa các lớp bì) và đọc từ 48 đến 72 giờ sau đó. Cách tiêm trong da này được gọi là kỹ thuật Mantoux. Theo dự kiến, một người đã tiếp xúc với vi khuẩn sẽ tăng đáp miễn dịch trong da có chứa các protein của vi khuẩn.
+Phản ứng được đọc bằng cách đo đường kính của sẩn (có thể sờ thấy được, vùng cứng) trên cẳng tay tính bằng milimet. Nếu không có sẩn nổi lên, kết quả sẽ được ghi là "0 mm". Ban (đỏ) không nên được đo.
+
+
+== Phân loại phản ứng lao tố ==
+Kết quả của thử nghiệm này phải được giải thích cẩn thận. Kết quả được xem là có nguy cơ khi kích thước sẩn (5 mm, 10 mm hoặc 15 mm). Kết quả dương tính cho thấy phơi nhiễm lao.
+
+5 mm trở lên là dương tính trong trường hợp:
+Người nhiễm HIV
+Những người có tiếp xúc gần đây với bệnh nhân lao
+Những người có thay đổi nốt sần hoặc dị ứng trên chụp X-quang phù hợp với bệnh lao cũ đã lành
+Bệnh nhân cấy ghép nội tạng và các bệnh nhân ức chế miễn dịch khác
+10 mm trở lên là dương tính trong trường hợp:
+Những người đến gần đây (ít hơn năm năm) từ các quốc gia có tỷ lệ sinh sống cao
+Người tiêm chích ma túy
+Cư dân và nhân viên của các cơ sở tụ họp có nguy cơ cao (ví dụ, nhà tù, nhà điều dưỡng, bệnh viện, nơi trú ẩn vô gia cư, v.v.)
+Nhân viên phòng thí nghiệm
+Những người có tình trạng lâm sàng khiến họ có nguy cơ cao (ví dụ, tiểu đường, điều trị corticosteroid kéo dài, bệnh bạch cầu, bệnh thận giai đoạn cuối, hội chứng kém hấp thu mãn tính, trọng lượng cơ thể thấp, v.v.)
+Trẻ em dưới bốn tuổi, hoặc trẻ em và thanh thiếu niên tiếp xúc với người lớn trong các loại nguy cơ cao
+15 mm trở lên là dương tính trong trường hợp:
+Những người không có yếu tố nguy cơ đã biết về bệnh lao 
+Chuyển đổi xét nghiệm lao tố được định nghĩa là tăng từ 10 mm trở lên trong khoảng thời gian hai năm, bất kể tuổi tác. Các tiêu chí thay thế bao gồm tăng 6, 12, 15 hoặc 18 mm.
+
+
+== Kết quả dương tính giả ==
+Xét nghiệm TST (xét nghiệm tuberculin da) dương tính được đo bằng kích thước của sẩn cứng. Kích thước của sẩn được coi là một kết quả dương tính phụ thuộc vào các yếu tố nguy cơ. Ví dụ, một bệnh nhân có nguy cơ thấp phải có kích thước sẩn lớn hơn mới kết luận dương tính so với bệnh nhân có nguy cơ cao. Các nhóm nguy cơ cao bao gồm những người tiếp xúc gần đây, những người có HIV, những người bị X quang ngực với những thay đổi xơ hóa, những người nhận ghép tạng và những người dùng thuốc ức chế miễn dịch.
+Theo Bộ Y tế Ohio và Bộ Y tế Hoa Kỳ, vaccine chủng ngừa Bacillus Calmette-Guérin (BCG) không bảo vệ chống lại nhiễm lao. Nó, mặc dù, cung cấp cho 80% trẻ em bảo vệ chống lại bệnh viêm màng não lao và bệnh lao đường mật. Do đó, một TST/ PPD dương tính ở một người đã chủng ngừa BCG được hiểu là nhiễm lao tiềm ẩn (LTBI). Do độ đặc hiệu thấp của xét nghiệm, hầu hết các phản ứng duowg tính ở những cá nhân có nguy cơ thấp đều dương tính giả. Một kết quả dương tính giả có thể do vi khuẩn mycobacteria gây ra hoặc dùng thuốc chủng BCG trước đây. Chủng ngừa bằng BCG có thể dẫn đến kết quả dương tính giả trong nhiều năm sau khi chủng ngừa.
+Dương tính giả cũng có thể xảy ra khi khu vực tiêm bị sờ vào, gây sưng và ngứa. Nếu vết sưng nhỏ hơn 5 mm, có thể do lỗi của nhân viên y tế gây viêm cho khu vực.
+Một trường hợp khác của kết quả dương tính giả có thể là phản ứng dị ứng hoặc quá mẫn cảm. Mặc dù hiếm, (khoảng 0,08 báo cáo phản ứng trên một triệu liều lao tố), những phản ứng này có thể nguy hiểm và cần phải thận trọng khi có epinephrin.
+
+
+== Kết quả âm tính giả ==
+Phản ứng với xét nghiệm PPD hoặc tuberculin bị ức chế bởi các điều kiện sau đây:
+
+Nhiễm lao gần đây (dưới 8–10 tuần)
+Bệnh tăng bạch cầu đơn nhân do nhiễm trùng
+Vắc-xin virus sống - Không nên tiến hành thử nghiệm trong vòng 3 tuần sau khi chủng ngừa vắc-xin sống (vd vắc xin MMR hoặc vắc-xin Sabin).
+Sarcoidosis
+Bệnh Hodgkin
+Điều trị bằng corticosteroid / sử dụng steroid
+Suy dinh dưỡng
+Phẫu thuật miễn dịch - Những điều trị về ức chế miễn dịch hoặc những người có HIV và số lượng tế bào T CD4 thấp, thường cho thấy kết quả âm tính từ xét nghiệm PPD. Điều này là do hệ thống miễn dịch cần phải có chức năng gắn kết phản ứng với dẫn xuất protein được tiêm dưới da. Một kết quả âm tính giả có thể xảy ra ở người vừa mới bị nhiễm lao, nhưng hệ miễn dịch của họ chưa phản ứng với vi khuẩn.
+Nhiễm virus đường hô hấp trên
+Trong trường hợp xét nghiệm lao tố thứ hai là cần thiết, cần tiến hành thử nghiệm ở cánh tay kia để tránh làm cho da quá mẫn cảm.
+
+
+== Thử nghiệm hai bước ==
+Xét nghiệm dị ứng: Trong trường hợp anergy, thiếu phản ứng bằng cơ chế phòng vệ của cơ thể khi tiếp xúc với các chất lạ, phản ứng lao tố sẽ xảy ra một cách yếu ớt, do đó ảnh hưởng đến giá trị của xét nghiệm Mantoux. Ví dụ, dị ứng có trong AIDS, một căn bệnh làm suy yếu hệ thống miễn dịch. Do đó, thử nghiệm dị ứng được khuyến cáo trong trường hợp nghi ngờ có dị ứng. Tuy nhiên, không nên thử nghiệm da dị ứng thường quy.
+Một số người bị nhiễm lao có thể có phản ứng tiêu cực khi được thử nghiệm sau nhiều năm nhiễm trùng, vì phản ứng của hệ thống miễn dịch có thể dần dần bị suy yếu. Xét nghiệm da ban đầu này, mặc dù tiêu cực, có thể kích thích (tăng cường) khả năng của cơ thể phản ứng với lao tố trong các xét nghiệm trong tương lai. Do đó, phản ứng dương tính với xét nghiệm tiếp theo có thể bị hiểu nhầm là nhiễm trùng mới, khi thực tế nó là kết quả của phản ứng tăng lên đối với nhiễm trùng cũ. 
+Sử dụng thử nghiệm hai bước được khuyến cáo cho thử nghiệm da ban đầu của người lớn sẽ được xét nghiệm định kỳ (ví dụ, nhân viên y tế). Điều này đảm bảo bất kỳ xét nghiệm dương tính nào trong tương lai có thể được hiểu là do nhiễm trùng mới, thay vì chỉ đơn giản là phản ứng với nhiễm trùng cũ.
+
+Xét nghiệm đầu tiên được đọc 48–72 giờ sau khi tiêm.
+Nếu xét nghiệm đầu tiên là dương tính, hãy xem xét người bị nhiễm bệnh.
+Nếu xét nghiệm đầu tiên là âm tính, cho thử nghiệm thứ hai từ một đến ba tuần sau lần tiêm đầu tiên.
+Xét nghiệm thứ hai được đọc 48–72 giờ sau khi tiêm.
+Nếu xét nghiệm thứ hai là dương tính, hãy xem xét người bị nhiễm bệnh trong quá khứ xa xôi 
+Nếu xét nghiệm thứ hai là âm tính, hãy xem xét người không bị nhiễm bệnh.
+Một người được chẩn đoán là "bị nhiễm bệnh trong quá khứ xa xôi" trên thử nghiệm hai bước được gọi là "lò phản ứng lao tố".
+Khuyến nghị của Hoa Kỳ rằng trước khi tiêm vắc-xin BCG sẽ bị bỏ qua kết quả trong chẩn đoán phổ biến gần như chẩn đoán bệnh lao ở những người đã có BCG (chủ yếu là người nước ngoài).
+
+
+== Tham khảo ==

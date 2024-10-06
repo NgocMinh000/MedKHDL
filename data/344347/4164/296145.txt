@@ -1,0 +1,10 @@
+Các bacteriophage (ăn vi khuẩn) làm chết tế bào chủ gọi là độc (virulent) và chúng sinh sản theo chu trình tan (lytic cycle). Chu trình bắt đầu khi sợi đuôi của phage T4 gắn vào các điểm nhận (receptors sites) trên bề mặt của tế bào E.Coli. Ống đuôi co lại tạo lỗ thủng xuyên vách tế bào và bơm DNA vào trong tế bào tương tự như dùng ống tiêm (syrine) chích thuốc. Capsid rỗng của phage còn lại bên ngoài tế bào.
+
+Sau khi bị nhiễm tế bào E.Coli nhanh chóng bắt đầu nhanh chóng phiên mã và dịch mã các gen thuộc virus. Phage T4 có khoảng 100 gen và phần lớn đã được biết rõ. Một trong những enzym được tạo ra để cắt tế bào chủ.
+Khi DNA của tế bào chủ bị phân huỷ, bộ gen của phage kiểm soát toàn bộ hoạt động của tế bào để tạo các cấu phần của nó. Các nucleotide được dùng để sao chép DNA của phage ra hàng trăm bản sao. Các protein của capsid được tổng hợp thành 3 phần riêng: đầu đa diện, ống đuôi và các sợi đuôi, rồi chúng tự lắp ráp lại với nhau thành các virion con. Phage hoàn tất chu trình khi enzym lysozyme được tạo ra để tiêu hóa vách tế bào. Tế bào vi khuẩn bị vỡ, 100 đến 200 virion thoát ra và chúng có thể lập chu trình mới.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

@@ -1,0 +1,48 @@
+Thể thực khuẩn M13 (Enterobacteria phage M13) là loại thể thực khuẩn dạng sợi có một phân tử DNA mạch đơn (ssDNA), ký sinh ở trực khuẩn Escherichia coli.
+Ở dạng tiền xâm nhập, mỗi M13 là một sợi dài khoảng 700 nm và rộng khoảng 6 nm, nhỏ hơn vật chủ của nó hàng nghìn lần. DNA của nó có cấu trúc vòng tương tự như plasmit, nên còn được gọi là plasmit M13.
+M13 xâm nhập vào vách tế bào E. coli, làm tế bào chủ tiết ra enzym phân huỷ lớp vỏ prôtêin của nó, nhờ đó plasmit M13 thoát ra và có thể xâm nhập sâu hơn nữa vào tế bào chủ.
+Trong nghiên cứu sinh học phân tử và kỹ thuật di truyền, các plasmit M13 được sử dụng trong quá trình DNA tái tổ hợp và nhiều ứng dụng công nghệ nano.
+
+
+== Thành phần ==
+Mỗi "con" M13 ở dạng tiền xâm nhập gồm hai thành phần chính: vỏ prôtêin và lõi DNA.
+
+Vỏ gồm hai lớp chính, do khoảng sáu loại prôtêin họp thành.
+Lớp vỏ trong cùng cấu tạo từ prôtêin P8. Mỗi phân tử P8 gồm khoảng 50 amino acid được mã hóa bởi gen G8P trong bộ gen của nó. Lớp vỏ trong này ở M13 hoang dã, gồm tới khoảng 2700 phân tử, để tạo ra lớp vỏ có thể dài tới 900 nm hoặc hơn nữa. Kích thước này không cố định mà rất linh hoạt, được nó điều chỉnh cho phù hợp với lõi DNA bên trong. Chẳng hạn, khi bộ gen M13 co lại từ 6,4 kb xuống chỉ còn 221 b, thì lớp vỏ cũng ngắn lại tương ứng.
+Có bốn loại prôtêin khác phủ trên bề mặt M13 tạo thành lớp vỏ ngoài, trong đó P7 và P9 phủ ở hai đầu như hai chiếc "chổi cùn". Những prôtêin này rất nhỏ, chỉ chứa khoảng 30 - 33 amino acid, mặc dù phần đầu N của mỗi loại này có thể được bổ sung thêm chút ít amino acid trong quá trình sống của nó.
+Ở đầu kia của M13 là năm phân tử P3 xen kẽ với P6, tạo thành khối prôtêin đầu tiên tương tác với vật chủ E. coli trong quá trình lây nhiễm.
+Lõi của M13 là một phân tử DNA vòng, mạch đơn gồm 6407 nuclêôtit được gói gọn trong lớp vỏ của prôtêin P8 và phủ bên ngoài cùng bởi nhiều vỏ prôtêin nhỏ khác là P3, P6, P7, P8, P9 như trên đã trình bày.
+P8 (cũng viết PVIII) gọi là "capsid protein G8P" được mã hoá bởi gen 8 của nó.
+
+
+== Cơ chế hoạt động ==
+Quá trình xâm nhập ban đầu của MP3 thực hiện nhờ protein P3 của nó gắn vào thụ thể ở đầu sợi pilus F ở màng tế bào chủ Escherichia coli (vật chủ đặc trưng của nó), kích thích tế bào chủ tiết ra enzym tự phân huỷ lớp vỏ prôtêin của nó, nhờ đó DNA của nó (sợi cha mẹ) xâm nhập vào tế bào chất. Sau đó, quá trình nhân đôi DNA M13 ở E. coli theo các bước chính như sau.
+DNA ban đầu của nó gọi là sợi cha mẹ (parental replicative, viết tắt là RF) kí hiệu là "+", sau khi đã ở tế bào chất của vật chủ, thì chuỗi bổ sung (kí hiệu là "-") được tổng hợp ra nhờ các enzyme của vật chủ, gồm DNA gyraza (một loại topôizômeraza II) xúc tác cho sự hình thành các siêu xoắn âm của DNA (nghĩa là được tháo xoắn) và enzym DNA pôlymeraza xúc tác chính cho nhân đôi.
+Cơ chế nhân đôi - về cơ bản - diễn ra theo cơ chế nhân đôi của DNA vòng.
+Sản phẩm cuối cùng là DNA đã nhân đôi gồm "chuỗi dương" (+) RF và "chuỗi âm" (-).
+Một protein của nó là P2 chọn chuỗi (+) ở đầu 3'-hydroxyl của RF, hoạt động như một mồi để khởi tạo ra chuỗi mới.
+Chuỗi âm của RF được chọn làm khuôn mẫu của phiên mã, tổng hợp ra các mRNA của nó, từ đó tạo thành nhiều  protein của nó, đều nhờ bộ máy phiên mã và dịch mã có sẵn trong vật chủ.
+Trong số các protein được tạo ra trong tế bào chất của tế bào chủ có P2, P5 và P10, trong đó:
+-     P5 liên kết với DNA sợi đơn mới để ngăn chặn chuyển đổi sang DNA RF, tạo thành phức hợp cấu trúc P5-DNA.
+-     Khi P5 đạt đến nồng độ nhất định (gọi là "critical concentration" tức nồng độ tới hạn) thì quá trình tổng hợp DNA RF ngừng. Sao chép DNA chuyển sang tổng hợp chuỗi dương (+) đơn.
+
+Trước khi thoát ra ngoài, nó tự lắp ráp "cơ thể" thành một vỏ bọc (capsid) xoắn bao bên ngoài DNA của nó, khi đó mỗi "cơ thể" có cấu trúc  dạng sợi, chiều dài 760-1950 nm và rộng (đường kính) 6-8 nm. Sự lắp ráp diễn ra tại màng trong của tế bào vật chủ.
+
+
+== Xem thêm ==
+Thể thực khuẩn.
+DNA vòng.
+Chu trình tan.
+Chu trình tiềm tan.
+Phagemid.
+
+
+== Tham khảo ==
+Barbas CF, Burton DR, Silverman GJ (tháng 10 năm 2004). Phage Display: A Laboratory Manual (ấn bản thứ 1). Cold Spring Harbor Laboratory Press. ISBN 978-0-87969-740-2.
+Messing J (1993). “M13 Cloning Vehicles” (PDF).  Trong Griffin H.G., Griffin A.M. (biên tập). DNA Sequencing Protocols. Methods in Molecular Biology™. Methods in Molecular Biology. 23. Humana Press. tr. 9–22. doi:10.1385/0-89603-248-5:9. ISBN 0-89603-248-5. PMID 8220775. Bản gốc (large 21mb file) lưu trữ ngày 19 tháng 2 năm 2012.
+
+
+== Đọc đủ hơn ==
+
+
+== Nguồn trích dẫn ==

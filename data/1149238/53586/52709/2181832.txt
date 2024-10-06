@@ -1,0 +1,34 @@
+Trong khoa học máy tính và khoa học thông tin, bản thể học thông thường thể hiện tri thức, hay là một tập khái niệm để định nghĩa  một vấn đề, và mối quan hệ giữa các cặp khái niệm. Nó có thể được dùng với mô hình dưới dạng một tập hợp các phần tử và mối quan hệ giữa chúng. Bản thể học hỗ trợ lý tính về các khái niệm.
+Theo lý thuyết, một bản thể học là "một đặc tả chính thức và rõ ràng của một khái niệm chung". Một bản thể học cung cấp một ngữ nghĩa chung (semantic), đi kèm với các đối tượng và/hoặc các khái niệm tồn tại và các mối quan hệ, các thuộc tính của các đối tượng đó.
+Bản thể học là các framework có cấu trúc cho việc tổ chức thông tin được áp dụng trong các lĩnh vực như trí tuệ nhân tạo, web ngữ nghĩa (semantic web), kỹ thuật thông tin, công nghệ phần mềm, tin học y sinh, khoa học thư viện và kiến trúc thông tin như là dạng thể hiện kiến thức về thế giới hoặc một phần của nó.
+
+
+== Tham khảo ==
+
+
+== Nghiên cứu thêm ==
+Oberle, D., Guarino, N., & Staab, S. (2009) What is an ontology? Lưu trữ 2013-05-30 tại Wayback Machine. In: "Handbook on Ontologies". Springer, 2nd edition, 2009.
+Fensel, D., van Harmelen, F., Horrocks, I., McGuinness, D. L., & Patel-Schneider, P. F. (2001). "OIL: an ontology infrastructure for the Semantic Web". In: Intelligent Systems. IEEE, 16(2): 38–45.
+Gangemi A., Presutti V. (2009). Ontology Design Patterns. In Staab S. et al. (eds.): Handbook on Ontologies (2nd edition), Springer, 2009.
+Maria Golemati, Akrivi Katifori, Costas Vassilakis, George Lepouras, Constantin Halatsis (2007). "Creating an Ontology for the User Profile: Method and Applications" Lưu trữ 2008-12-17 tại Wayback Machine. In: Proceedings of the First IEEE International Conference on Research Challenges in Information Science (RCIS), Morocco 2007.
+Mizoguchi, R. (2004). "Tutorial on ontological engineering: part 3: Advanced course of ontological engineering" Lưu trữ 2013-03-09 tại Wayback Machine. In: New Generation Computing. Ohmsha & Springer-Verlag, 22(2):198-220.
+Gruber, T. R. 1993. "A translation approach to portable ontology specifications". In: Knowledge Acquisition. 5: 199–199.
+Maedche, A. & Staab, S. (2001). "Ontology learning for the Semantic Web". In: Intelligent Systems. IEEE, 16(2): 72–79.
+Natalya F. Noy and Deborah L. McGuinness. Ontology Development 101: A Guide to Creating Your First Ontology Lưu trữ 2010-07-14 tại Wayback Machine. Stanford Knowledge Systems Laboratory Technical Report KSL-01-05 and Stanford Medical Informatics Technical Report SMI-2001-0880, March 2001.
+Prabath Chaminda Abeysiriwardana, Saluka R Kodituwakku, "Ontology Based Information Extraction for Disease Intelligence" Lưu trữ 2015-08-30 tại Wayback Machine. International Journal of Research in Computer Science, 2 (6): pp. 7–19, November 2012. doi:10.7815/ijorcs.26.2012.051
+Razmerita, L., Angehrn, A., & Maedche, A. 2003. "Ontology-Based User Modeling for Knowledge Management Systems". In: Lecture Notes in Computer Science: 213–17.
+Soylu, A., De Causmaecker, Patrick. 2009.Merging model driven and ontology driven system development approaches pervasive computing perspective. in Proc 24th Intl Symposium on Computer and Information Sciences. pp 730–735.
+Smith, B. Ontology (Science), in C. Eschenbach and M. Gruninger (eds.), Formal Ontology in Information Systems. Proceedings of FOIS 2008, Amsterdam/New York: ISO Press, 21–35.
+Uschold, M. & Gruninger, M. (1996). Ontologies: Principles, Methods and Applications. Knowledge Engineering Review, 11(2).
+W. Pidcock, What are the differences between a vocabulary, a taxonomy, a thesaurus, an ontology, and a meta-model? Lưu trữ 2009-10-14 tại Wayback Machine
+Yudelson, M., Gavrilova, T., & Brusilovsky, P. 2005. Towards User Modeling Meta-ontology Lưu trữ 2012-09-27 tại Wayback Machine. Lecture Notes in Computer Science, 3538: 448.
+
+
+== Liên kết ngoài ==
+
+Knowledge Representation at Open Directory Project
+Library of ontologies
+GoPubMed using Ontologies for searching
+ONTOLOG (a.k.a. "Ontolog Forum") - an Open, International, Virtual Community of Practice on Ontology, Ontological Engineering and Semantic Technology
+Ontology Summit - an annual series of events (first started in 2006) that involves the ontology community and communities related to each year's theme chosen for the summit.
+Standardization of Ontologies Lưu trữ 2012-03-04 tại Wayback Machine

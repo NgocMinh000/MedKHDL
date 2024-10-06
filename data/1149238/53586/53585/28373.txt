@@ -1,0 +1,70 @@
+Mạch thần kinh (hay còn gọi là mạch nơ-ron) là một quần thể/tập hợp các nơron kết nối với nhau bởi xynap để thực hiện một chức năng cụ thể khi được kích hoạt. Các mạch thần kinh kết nối với nhau để tạo thành các mạng lưới não bộ quy mô lớn (large-scale brain networks). Mạng thần kinh sinh học đã truyền cảm hứng cho thiết kế của các mạng thần kinh nhân tạo, nhưng mạng thần kinh nhân tạo thường không phải là bản sao chính xác nhất của các bản thể sinh học.
+
+
+== Đặc điểm ==
+Thông thường, một mạch thần kinh bao gồm một hoặc nhiều nhóm các nơron được kết nối vật lý với nhau hoặc có liên quan với nhau về chức năng. Một nơron đơn có thể được nối với nhiều nơron khác và tổng số nơron và kết nối trong một mạng có thể là một giá trị cực kỳ lớn. Các kết nối, gọi là các khớp thần kinh (synapses), thường nối từ các axon tới các tế bào tua gai thần kinh (dendrite), tuy có thể có các vi mạch dendrodentritic [Arbib, tr.666] và các kết nối khác. Ngoài tín hiệu điện, còn có các dạng tín hiệu khác phát sinh từ việc khuếch tán các chất dẫn truyền xung động thần kinh (neurotransmitter). Chúng có ảnh hưởng đối với tín hiệu điện. Do vậy, cũng như các mạng sinh học khác, mạng neural vô cùng phức tạp. Trong khi hiện nay, dù chưa đạt được một mô tả chi tiết nào về hệ thần kinh, người ta vẫn ngày càng hiểu rõ hơn về các cơ chế cơ bản.
+
+
+== Bộ não, mạch thần kinh và máy tính ==
+Trong lịch sử, bộ não đã từng được xem là một dạng máy tính, và ngược lại. Tuy nhiên, điều này chỉ đúng theo nghĩa rộng nhất. Máy tính không phải là mô hình của bộ não (mặc dù có thể mô tả một quá trình suy luận logic như là một chương trình máy tính, hoặc có thể kích thích não bằng một cái máy tính) do chúng đã không được chế tạo với mục đích này.
+Tuy nhiên, từ xưa, các mạch thần kinh dùng trong trí tuệ nhân tạo đã được xem là các mô hình đơn giản của hoạt động thần kinh trong não. Một chủ đề của các nghiên cứu hiện nay trong ngành thần kinh học lý thuyết là câu hỏi: mạch thần kinh cần phức tạp đến đâu và cần có những tính chất gì để có thể tái tạo cái gì đó giống như trí thông minh động vật.
+
+
+== Mạch neural và ngành thần kinh học ==
+Thần kinh học lý thuyết và tính toán quan tâm đến các phân tích lý thuyết và mô hình tính toán của các hệ thần kinh sinh học.
+Do các hệ thần kinh có liên quan mật thiết tới các quá trình nhận thức và ứng xử, ngành này còn liên quan chặt chẽ tới mô hình hóa hành vi và nhận thức.
+Mục tiêu của ngành là xây dựng mô hình của các hệ thần kinh sinh học để tìm hiểu cơ chế hoạt động của các hệ thống sinh học. Để đạt được hiểu biết này, các nhà thần kinh học cố gắng xây dựng một mối liên hệ giữa dữ liệu về các quá trình sinh học quan sát được, các cơ chế sinh học cho xử lý thần kinh với việc học (các mô hình mạng neural sinh học) và lý thuyết (lý thuyết học bằng thống kê và lý thuyết thông tin).
+
+
+=== Các loại mô hình ===
+Ngành thần kinh học sử dụng nhiều mô hình tại nhiều mức độ trừu tượng khác nhau và mô hình các khía cạnh khác nhau của các hệ thần kinh. Từ các mô hình hành vi ngắn hạn của từng nơron, qua các mô hình phát sinh động lực cho các mạch nơron từ tương tác giữa các nơron cá thể, tới các mô hình phát sinh ứng xử từ các mô đun thần kinh trừu tượng đại diện cho các hệ thống con hoàn chỉnh. Các mô hình này còn bao gồm các mô hình về độ dẻo (plasticity) ngắn hạn và dài hạn của các hệ thần kinh và mối liên quan của nó tới việc học và ghi nhớ, từ mức một nơron tới mức hệ thống.
+
+
+=== Các nghiên cứu hiện nay ===
+Trong khi hầu hết các nghiên cứu ban đầu quan tâm đến các tính chất về điện của các neural, một phần đặc biệt quan trọng trong các nghiên cứu gần đây là sự tìm hiểu vai trò của các neuromodulators chẳng hạn dopamine, acetylcholine, và serotonin đối với hành vi và học tập.
+
+
+== Xem thêm ==
+Phản hồi
+List of regions in the human brain
+Khoa học mạng
+Neural coding
+Neural engineering
+Neural oscillation
+Pulse-coupled networks
+Systems neuroscience
+
+
+== Tham khảo ==
+
+Dayan, Peter; Abbott, L.F. Theoretical Neuroscience. Nhà xuất bản MIT.
+Gerstner, Wulfram; Kistler, Werner. Spiking Neuron Models:Single Neurons, Populations, Plasticity. Nhà xuất bản Đại học Cambridge.
+Agre, Philip E. (1997). Learning in Doing: Social, Cognitive and Computational Perspectives. Comparative Cognitive Robotics. Nhà xuất bản Đại học Cambridge. tr. 80. ISBN 0-521-38603-9.
+Arbib, Michael A. biên tập (1995). The Handbook of Brain Theory and Neural Networks.
+Alspector, Bằng sáng chế Hoa Kỳ số 4.874.963 "Neuromorphic learning networks". 17 tháng 10 năm 1989.
+Bertsekas, Dimitri P. (1999). Nonlinear Programming.
+Bertsekas, Dimitri P.; Tsitsiklis, John N. (1996). Neuro-dynamic Programming.
+Boyd, Stephen; Vandenberghe, Lieven (2004). Convex Optimization.
+Fukushima Kunihiko (1975). “Cognitron: A Self-Organizing Multilayered Neural Network”. Biological Cybernetics. 20: 121–136.
+Gardner, E.J.; Derrida, B. (1988). “Optimal storage properties of neural network models”. Journal of Physics A. 21: 271–284.
+Krauth, W.; Mezard, M. (1989). “Storage capacity of memory with binary couplings”. Journal de Physique. 50: 3057–3066.
+Maass, W.; Markram, H. (2002). “On the computational power of recurrent circuits of spiking neurons”. Journal of Computer and System Sciences. 69(4): 593–616.
+MacKay, David (2003). Information Theory, Inference, and Learning Algorithms.
+Mandic, D.; Chambers, J. (2001). Recurrent Neural Networks for Prediction: Architectures, Learning algorithms and Stability. Wiley.
+Minsky, M.; Papert, S. (1969). An Introduction to Computational Geometry. Nhà xuất bản MIT.
+Muller, P.; Insua, D.R. (1995). “Issues in Bayesian Analysis of Neural Network Models”. Neural Computation. 10: 571–592.
+Reilly, D.L.; Cooper, L.N.; Elbaum, C. (1982). “A Neural Model for Category Learning”. Biological Cybernetics. 45: 35–41.
+Rosenblatt, F. (1962). Principles of Neurodynamics. Spartan Books.
+Sutton, Richard S.; Barto, Andrew G. (1998). Reinforcement Learning: An introduction. Bản gốc lưu trữ ngày 6 tháng 8 năm 2005. Truy cập ngày 7 tháng 2 năm 2006.
+Wilkes, A.L.; Wade, N.J. (1997). “Bain on Neural Networks”. Brain and Cognition. 33: 295–305.
+Wasserman, P.D. (1989). Neural computing theory and practice. Van Nostrand Reinhold.
+
+
+== Liên kết ngoài ==
+Comparison of Neural Networks in the Brain and Artificial Neural Networks
+Lecture notes at MIT OpenCourseWare
+Computation in the Brain
+Biological Neural Network Toolbox Lưu trữ 2016-07-14 tại Wayback Machine - A free Matlab toolbox for simulating networks of several different types of neurons
+WormWeb.org: Interactive Visualization of the C. elegans Neural Network - C. elegans, a nematode with 302 neurons, is the only organism for whom the entire neural network has been uncovered.  Use this site to browse through the network and to search for paths between any 2 neurons.
+Introduction to Neurons and Neuronal Networks, Neuroscience Online (electronic neuroscience textbook)
+Delaying Pulse Networks (Wave Interference Networks) Lưu trữ 2016-03-30 tại Wayback Machine

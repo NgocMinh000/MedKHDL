@@ -1,0 +1,9 @@
+Trí tuệ Nhân tạo Phân tán (TNP), còn được gọi là Trí tuệ Nhân tạo Phi tập trung, là một mảng con trong lĩnh vực nghiên cứu trí tuệ nhân tạo, chú trọng phát triển các giải pháp mang tính phân tán để giải quyết các vấn đề. TNP có liên quan chặt chẽ đến lĩnh vực hệ thống đa tác nhân, đồng thời là tiền thân của nó.
+
+
+== Định nghĩa ==
+Trí tuệ Nhân tạo Phân tán (TNP) là một phương thức tiếp cận nhằm giải quyết các vấn đề phức tạp trong mảng học thuật, lập kế hoạch và ra quyết định. Nó mang tính song song đáng xấu hổ, thế nên có thể khai thác năng lực tính toán trên quy mô lớn và phân phối tài nguyên máy tính theo không gian. Các thuộc tính này cho phép nó giải quyết các vấn đề đòi hỏi phải xử lý của các tập dữ liệu khổng lồ. Hệ thống TNP bao gồm các nút xử lý học tập tự trị (tức các tác nhân) được phân tán, thường ở quy mô rất lớn. Các nút TNP có thể hoạt động độc lập và các giải pháp từng phần được tích hợp lại thông qua quy trình giao tiếp giữa các nút. Các hệ thống TNP được xây dựng để có thể dễ dàng thích ứng với những thay đổi trong định nghĩa vấn đề hoặc các tập dữ liệu nền tảng.
+Trái với các hệ thống trí tuệ nhân tạo tập trung hoặc nguyên khối, hệ thống TNP không yêu cầu tất cả dữ liệu và nút liên quan phải được tổng hợp tại một vị trí duy nhất.
+
+
+== Tài liệu tham khảo ==

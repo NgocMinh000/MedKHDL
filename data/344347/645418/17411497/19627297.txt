@@ -1,0 +1,87 @@
+Lây truyền COVID-19 / lây nhiễm COVID-19 là sự truyền bệnh do coronavirus 2019 từ người sang người. Bệnh lây truyền chủ yếu qua đường hô hấp khi người bệnh hít phải các giọt bắn, hạt mà người nhiễm bệnh thải ra khi hít thở, nói chuyện, ho, hắt hơi hoặc hát. Những người bị nhiễm có nhiều khả năng lây lan COVID-19 hơn khi họ ở gần người khác. Tuy nhiên, nhiễm trùng có thể xảy ra ở khoảng cách xa hơn, đặc biệt là trong nhà.
+Sự lây nhiễm bắt đầu sớm nhất là ba ngày trước khi các triệu chứng xuất hiện, và mọi người dễ lây nhiễm nhất ngay trước và trong khi các triệu chứng bắt đầu khởi phát. Khả năng lây nhiễm giảm sau tuần đầu tiên, nhưng những người bị nhiễm vẫn lây nhiễm cho đến 20 ngày. Mọi người có thể lây bệnh cho người khác ngay cả khi họ không có triệu chứng.
+Các hạt lây nhiễm có kích thước từ các hạt aerosol lơ lửng trong không khí trong thời gian dài đến các giọt bắn lớn hơn vẫn còn trong không khí hoặc rơi xuống đất. Ngoài ra, nghiên cứu COVID-19 đã xác định lại cách hiểu truyền thống về cách thức lây truyền của virus đường hô hấp. Những giọt dịch hô hấp lớn nhất không di chuyển xa, và có thể bị hít vào hoặc rơi xuống màng nhầy trên mắt, mũi hoặc miệng để lây nhiễm. Aerosol có nồng độ cao nhất khi mọi người ở gần nhau, điều này dẫn đến việc lây truyền vi-rút dễ dàng hơn khi mọi người ở khoảng cách gần, nhưng việc lây truyền qua đường không khí có thể xảy ra ở khoảng cách xa hơn, chủ yếu ở những vị trí thông gió kém; trong những điều kiện đó, các giọt bắn có thể lơ lửng trong không khí từ vài phút đến hàng giờ.
+Số người nói chung bị lây nhiễm từ một người bị nhiễm bệnh khác nhau; vì chỉ có 10 đến 20% số người chịu trách nhiệm cho việc lây lan bệnh. Bệnh thường lây lan theo từng cụm, nơi các lây nhiễm có thể được truy vết theo cùng vị trí địa lý. Thông thường trong những trường hợp này, các sự kiện siêu lây lan xảy ra, trong đó nhiều người bị lây nhiễm từ cùng một người.
+Một người có thể nhiễm COVID-19 theo cách gián tiếp bằng cách chạm vào bề mặt hoặc vật thể bị ô nhiễm trước khi chạm vào miệng, mũi hoặc mắt của chính họ, mặc dù bằng chứng mạnh mẽ cho thấy điều này không góp phần đáng kể vào việc tạo ra lây nhiễm mới. Mặc dù nó được coi là có thể, nhưng không có bằng chứng trực tiếp về việc vi-rút lây truyền qua da tiếp xúc trực tiếp với da. Virus COVID-19 không  lây lan qua phân, nước tiểu, sữa mẹ, thức ăn, nước thải, nước uống hoặc các vật trung gian truyền bệnh cho động vật (mặc dù một số động vật có thể nhiễm virus này từ người). Nó rất hiếm khi truyền từ mẹ sang con trong thời kỳ mang thai.
+
+
+== Giai đoạn truyền nhiễm ==
+Sau khi một người bị nhiễm COVID-19, họ có thể truyền bệnh cho người khác từ một đến ba ngày trước khi phát triển các triệu chứng, được gọi là lây truyền trước khi có triệu chứng. Truy vết tiếp xúc được sử dụng để tìm và liên lạc với những người đã tiếp xúc với người bị nhiễm bệnh trong 48 đến 72 giờ trước khi họ phát triển các triệu chứng hoặc trước ngày xét nghiệm nếu không có triệu chứng.
+Một người dễ lây nhiễm nhất khi họ biểu hiện các triệu chứng — ngay cả khi nhẹ hoặc không đặc hiệu — vì họ có lượng virus trong cơ thể cao nhất vào thời điểm này. Họ vẫn có khả năng lây nhiễm trung bình từ bảy đến mười hai ngày đối với ca nhiễm trung bình và hai tuần đối với ca nhiễm nặng.
+
+
+=== Lây nhiễm không có triệu chứng ===
+Những người hoàn toàn không có triệu chứng vẫn có thể lây truyền virus. Một đánh giá có hệ thống ước tính rằng tỷ lệ các ca bệnh không có triệu chứng dao động từ 6 đến 41%. Mặc dù không có triệu chứng, họ có thể có cùng lượng virus ngang với các ca bệnh trước khi có triệu chứng và không có triệu chứng, và họ vẫn có khả năng lây truyền virus. Tuy nhiên, thời gian lây nhiễm của các ca bệnh không có triệu chứng đã được quan sát là ngắn hơn với tốc độ thải loại virus nhanh hơn.
+
+
+== Phương thức lây nhiễm ==
+Người bị nhiễm bệnh thở ra virus dưới dạng các giọt bắn và hạt chất lỏng nhỏ. Nhiều thuật ngữ được sử dụng để mô tả các hạt có kích thước khác nhau, và một số được một số nhóm làm việc sử dụng ngôn ngữ cụ thể và mang tính kỹ thuật để giải thích chúng. Điều này dẫn đến sự nhầm lẫn trong việc mô tả cách COVID-19 lan truyền. Nguy cơ lây truyền cao hơn khi một người nhạy cảm ở gần người bị nhiễm bệnh, nhưng sự lây truyền có thể xảy ra trong một căn phòng. Các giọt bắn và sol khí có kích thước khác nhau. Tuy nhiên, nguy cơ lây truyền từ tất cả các giọt bắn kích thước lớn và sol khí luôn thấp hơn nếu có hệ thống thông gió tốt trong nhà hoặc ngoài trời.
+
+
+=== Đường hô hấp (giọt và các hạt trong không khí) ===
+Các giọt lớn nhất được tạo ra trong quá trình thở ra thường có đường kính hơn 100 micron và có thể rơi xuống đất trong vòng vài giây do trọng lực. Những giọt bắn này, được gọi là "chất lỏng hô hấp" được CDC Hoa Kỳ mô tả "bắn tung tóe hoặc phun ra", chỉ có thể truyền COVID-19 ở khoảng cách ngắn — một mét hoặc một vài mét. Giãn cách xã hội làm giảm nguy cơ lây truyền từ con đường này. Phần lớn các hạt thở ra nhỏ hơn, và tồn tại trong không khí trong thời gian dài hơn. Nói chung, con người tạo ra các giọt có kích thước từ dưới 1 micromet đến hơn 100 micromet khi thở ra.
+Các giọt có nhiều kích cỡ khác nhau có thể lơ lửng trong không khí ít nhất vài phút và di chuyển khắp phòng. Khi những giọt này lơ lửng trong không khí, chúng tạo thành một sol khí và sự lây truyền qua những giọt này được gọi là sol khí hoặc sự lây nhiễm qua không khí.
+Có bằng chứng đáng kể về các sự kiện truyền qua khoảng cách xa hơn có liên quan đến việc ở trong nhà, đặc biệt là trong không gian ít thông gió. Sự lây truyền qua đường hàng không thường xảy ra trong nhà ở những địa điểm có nguy cơ cao, bao gồm nhà hàng, bệnh viện, nơi luyện tập của dàn hợp xướng, lớp thể dục, câu lạc bộ đêm, văn phòng và địa điểm tôn giáo.
+
+
+==== Ví dụ ====
+Các ví dụ được ghi lại nhiều lần về sự lây truyền qua đường không khí đã được chỉ ra, thường là ở những nơi người nhiễm bệnh có mặt trong thời gian dài, chẳng hạn như nhà hàng và hộp đêm. Việc lây nhiễm xảy ra mặc dù không có sự gần gũi cần thiết cho quá trình truyền giọt bắn theo lý thuyết trước đó. Những ví dụ lây nhiễm ban đầu bao gồm một buổi thực hành hợp xướng ở Washington, một nhà hàng ở Quảng Châu, một chuyến xe du lịch ở Hồ Nam, và một nhà thờ ở Sydney. Nhà hàng được thông gió kém (ít hơn một lần thay đổi không khí mỗi giờ, ít hơn nhiều so với khuyến cáo), và mặc dù không có sự tiếp xúc chặt chẽ giữa người bị nhiễm và những người bị nhiễm, họ vẫn cách nhau chỉ vài mét.
+Một sự kiện siêu lây nhiễm ở Skagit County, Washington, do các nhạc công tập hợp xướng đã khiến 32 đến 52 trong số 61 người tham dự bị nhiễm bệnh. Một mô hình của việc lây truyền qua không khí hiện có (mô hình Wells-Riley) đã được điều chỉnh để giúp chúng ta hiểu tại sao không gian đông đúc và thông gió kém lại thúc đẩy quá trình lây nhiễm. Lây truyền qua đường không khí cũng xảy ra trong các cơ sở chăm sóc sức khỏe; Sự phát tán xa của các hạt virus đã được phát hiện trong hệ thống thông gió của một bệnh viện.
+
+
+==== Tranh cãi ====
+Sự lây truyền SARS-CoV-2 qua aerosol đã là chủ đề gây tranh cãi. WHO ban đầu coi nó là không đáng kể, điều này đã dẫn đến sự chỉ trích rộng rãi từ các nhà khoa học. Vào tháng 7 năm 2020, WHO đã thay đổi hướng dẫn, nói rằng không thể loại trừ việc truyền qua aerosol tầm ngắn trong những tình huống này. Vào tháng 10 năm 2020, tổ chức này đã công nhận rằng trong khi các bằng chứng cho thấy phương thức lây truyền chính là qua các giọt đường hô hấp, thì sự lây truyền qua đường không khí đang xảy ra, đặc biệt là ở những nơi có nguy cơ cao trong nhà, vốn đông đúc và ít thông gió. Lời khuyên đã được thay đổi thêm vào tháng 4 năm 2021 thành tuyên bố rõ ràng: "Một người có thể bị nhiễm bệnh khi hít phải aerosol hoặc giọt bắn có chứa virus." Hướng dẫn này khuyên bạn nên tránh "Ba chữ C": nơi đông người (crowded), không gian tiếp xúc gần (close contact settings) và không gian kín và hạn chế (confined and enclosed spaces).
+CDC Hoa Kỳ đã bị chỉ trích vì sự chậm trễ trong việc thông báo cho công chúng về sự lây truyền qua đường không khí, với John Allan từ Trường Y tế Công cộng của Đại học Harvard viết rằng "nhiều nhà khoa học đã biết rằng sự lây truyền virus trong không khí đã xảy ra từ tháng 2. CDC bằng cách nào đó đã không nhận ra được bằng chứng tích lũy cho thấy việc lây truyền qua đường không khí là quan trọng và do đó không kịp cảnh báo cho công chúng." Kể từ đó, CDC Hoa Kỳ đã cập nhật hướng dẫn của mình để phản ánh tầm quan trọng của việc truyền qua đường không khí/aerosol.
+Tại Canada, cuộc tranh cãi được cho là do sự phức tạp liên quan đến chuỗi cung ứng mặt nạ phòng độc N-95 và lo ngại rằng nguồn cung có thể cạn kiệt. Cơ quan Y tế Công cộng của Canada đã công nhận sự lây truyền qua đường không khí vào tháng 11 năm 2020, cho biết tầm quan trọng tương đối giữa sự lây truyền qua đường không khí và sự lây truyền qua giọt bắn là chưa rõ.
+Tại Úc, cuộc tranh cãi liên quan đến các hướng dẫn PPE, với nhiều cơ quan chuyên gia khác nhau không đồng ý về cách bảo vệ nhân viên y tế tốt nhất. Vào năm 2021, một một cơ quan mới ban hành hướng dẫn mới, xác nhận việc cần sử dụng mặt nạ phòng độc N-95 trong hầu hết các trường hợp.
+
+
+=== Các chế độ aerosol hóa khác ===
+Một người bị nhiễm bệnh sẽ thở ra khi họ thở, nói, hát và ho. Các giọt chứa vi rút được tạo ra trong phổi, cổ họng và miệng do chuyển động của hơi thở. Tuy nhiên, các giọt chứa vi rút có thể được tạo ra theo những cách khác, trong những trường hợp cụ thể, bao gồm các thủ tục y tế và hành vi của người bị nhiễm.
+
+
+==== Thủ tục y tế tạo aerosol ====
+
+Một số quy trình y tế có thể được chỉ định là quy trình tạo aerosol (AGP). WHO khuyến nghị sử dụng mặt nạ phòng độc có lọc như mặt nạ N95 hoặc FFP2 ở những nơi thực hiện quy trình tạo aerosol, trong khi CDC Hoa Kỳ và Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Châu Âu khuyến nghị các biện pháp kiểm soát này trong mọi tình huống liên quan đến điều trị bệnh nhân COVID -19 (trừ khi thiếu hụt trong khủng hoảng).
+Tuy nhiên, một số quy trình y tế đã được chỉ định là các quy trình này mà không thực sự đo các aerosol mà chúng tạo ra. Aerosol tạo ra bởi một số AGP đã được đo và thấy rằng ít hơn so với aerosol tạo ra khi thở  Ví dụ: Áp lực đường thở dương liên tục (CPAP) đã được chỉ định là AGP nhưng bệnh nhân được cung cấp CPAP tạo ra ít aerosol hơn những người thở bình thường, đã dẫn đến lời kêu gọi xem xét lại danh sách AGP.
+
+
+==== Các hành vi tạo ra aerosol ====
+Trong các cơ sở y tế, các hướng dẫn đã lưu ý rằng các hành vi như ho góp phần làm lây truyền qua aerosol, cần có các biện pháp phòng ngừa thích hợp trong không khí.
+Đã có lo ngại rằng aerosol trong nhà vệ sinh được tạo ra từ việc xả nước trong nhà vệ sinh bị ô nhiễm có thể làm lây lan virus COVID-19. WHO khuyến cáo những người bị nghi ngờ hoặc được xác nhận nhiễm COVID-19 nên sử dụng nhà vệ sinh riêng của họ, và trong khi xả, nên hạ nắp bồn cầu xuống để chặn cả giọt bắn và đám mây aerosol.
+
+
+=== Các phương thức lây truyền khác ===
+
+
+==== Vật và bề mặt ====
+
+Một người có thể bị nhiễm COVID-19 bằng cách chạm vào bề mặt hoặc vật thể có virus trên đó (được gọi là fomite), sau đó chạm vào miệng, mũi hoặc mắt của chính họ, nhưng đó không phải là phương thức lây truyền chính. Virus hoặc RNA sống được đã được phát hiện trên các bề mặt bị ô nhiễm trong khoảng thời gian từ hàng giờ đến hàng ngày, tùy thuộc vào điều kiện môi trường. Tính đến tháng 7 năm 2020, chưa có báo cáo cụ thể nào chứng minh sự lây truyền trực tiếp qua fomite, mặc dù việc lây truyền qua fomite rất khó phân biệt với lây truyền từ chính người truyền nhiễm.
+Số lượng virus hoạt động có thể tồn tại trên bề mặt giảm dần theo thời gian cho đến khi nó không còn có thể gây nhiễm trùng. Một nghiên cứu chỉ ra rằng tối đa vi rút có thể được phát hiện trong bốn giờ trên đồng, một ngày trên bìa cứng và ba ngày trên nhựa (polypropylene) và thép không gỉ (AISI 304). Vào tháng 10 năm 2020, các nhà nghiên cứu y tế kết luận SARS-CoV-2 có thể tồn tại trên các bề mặt thông thường trong tối đa 28 ngày. Người ta đã chứng minh rằng sự lây truyền gián tiếp chủ yếu xảy ra trong nhà, vì ánh sáng mặt trời làm bất hoạt virus này.
+Vì virus sống ổn định trên da người, việc rửa tay và làm sạch bề mặt định kỳ ngăn cản sự lây truyền tiếp xúc gián tiếp qua fomite. Các bề mặt dễ dàng được khử nhiễm trùng bằng các chất khử trùng gia dụng có tác dụng tiêu diệt virus bên ngoài cơ thể người. Chất khử trùng hoặc thuốc tẩy không phải là phương pháp điều trị COVID‑19, vì chúng gây ra các vấn đề sức khỏe khi không được sử dụng đúng cách, chẳng hạn như khi sử dụng trên hoặc bên trong cơ thể người.
+Tỷ lệ lây truyền fomite giảm đều đặn theo thời gian, đó là lý do tại sao có thể hữu ích nếu không đụng chạm đến các gói hàng gửi đến trong vài ngày trước khi mở chúng để giảm nguy cơ lây nhiễm bệnh.
+
+
+==== Gần gũi thân mật ====
+
+Virus có thể lây lan qua nước bọt và chất nhầy, và nụ hôn có thể dễ dàng truyền COVID-19. Có thể việc tiếp xúc trực tiếp với phân bao gồm cả liếm hậu môn cũng có thể dẫn đến lây truyền virus, nhưng tính đến tháng 7 năm 2020 chưa có báo cáo nào được công bố về sự lây truyền COVID-19 qua phân hoặc nước tiểu. Mặc dù COVID‑19 không phải là bệnh lây truyền qua đường tình dục, nhưng sự gần gũi về thể chất có nguy cơ lây truyền cao do ở gần.
+Rửa tay cản trở việc lây truyền tiếp xúc trực tiếp. Các hành vi khác bao gồm tránh hôn và quan hệ tình dục bình thường. Trong quá trình thân mật thể chất, các rào cản như mặt nạ, bao cao su, hoặc niềng răng có thể được sử dụng, và gần gũi xa hơn có thể được thực hiện thông qua thủ dâm hoặc cybersex lẫn cho nhau.
+
+
+==== Mẹ sang con ====
+Tính đến tháng 7/2020, không có trường hợp lây truyền từ mẹ sang con khi mang thai. Các nghiên cứu đã không tìm thấy bất kỳ virus COVID-19 sống trong sữa mẹ. WHO khuyến cáo rằng nên khuyến khích các bà mẹ bị nghi ngờ hoặc xác nhận mắc COVID-19 nên bắt đầu hoặc tiếp tục cho con bú.
+
+
+==== Thực phẩm và nước ====
+Nguy cơ lây truyền liên quan đến thực phẩm là thấp. Tỷ lệ dẫn đến nhiễm trùng có ít hơn 1 trong 10.000 tiếp xúc với các bề mặt bị ô nhiễm, bao gồm cả các bề mặt không liên quan đến thực phẩm.
+Mặc dù RNA của virus đã được tìm thấy trong nước thải chưa qua xử lý, nhưng tính đến tháng 5 năm 2020, có rất ít bằng chứng về virus lây nhiễm trong nước thải hoặc nước uống.
+Sau đợt bùng phát COVID-19 ở Bắc Kinh vào tháng 6, bằng chứng về sự lây truyền thực phẩm đã được báo cáo ở Trung Quốc vào đầu tháng 7 năm 2020 do phát hiện SARS-CoV-2 trên thực phẩm đông lạnh, vật liệu đóng gói và môi trường bảo quản. Ngày 17 tháng 10 năm 2020, CDC Trung Quốc thông báo rằng họ đã phát hiện virus sống SARS-CoV-2 từ thực phẩm nhập khẩu đóng gói dây chuyền lạnh trong một cuộc điều tra đợt bùng phát tại Thanh Đảo trong tháng 10 năm 2020. Tính đến tháng 10 năm 2020, không có bằng chứng trực tiếp nào về việc công chúng lây nhiễm virus từ bao bì thực phẩm bị ô nhiễm.
+
+
+==== Trung gian động vật ====
+Có một số ít các ca nhiễm lây lan từ người đến vật nuôi, bao gồm cả mèo và chó. Các trường hợp khác bao gồm sư tử và hổ ở vườn thú New York, và chồn. Trong môi trường phòng thí nghiệm, những động vật bị nhiễm bệnh bao gồm chồn sương, mèo, chuột đồng Syria vàng, khỉ rhesus, khỉ cynomolgus, chlorocebus, marmoset và chó. Ngược lại, chuột, lợn, gà và vịt dường như không bị nhiễm bệnh hoặc lây truyền bệnh. Không có bằng chứng cho thấy vật trung gian truyền bệnh côn trùng như muỗi hoặc bọ ve làm lây lan COVID-19.
+CDC Hoa Kỳ khuyến cáo rằng chủ sở hữu vật nuôi hạn chế tương tác của vật nuôi với những người bên ngoài hộ gia đình của họ. Vật nuôi không nên dùng khăn che mặt vì việc che mặt có thể gây hại cho chúng và không được khử trùng chúng bằng các sản phẩm tẩy rửa không được phép sử dụng cho động vật. Những người bị bệnh với COVID-19 nên tránh tiếp xúc với vật nuôi và các động vật khác.
+Nguy cơ lây lan COVID-19 từ động vật sang người được coi là thấp. Mặc dù virus này có thể bắt nguồn từ loài dơi, nhưng lây lan trong đại dịch vẫn chủ yếu do sự lây lan từ người sang người. Vật nuôi dường như không đóng vai trò trong việc lây lan COVID-19, nhưng có báo cáo từ các trang trại nuôi chồn bị nhiễm bệnh cho thấy khả năng lây truyền sang người là có thể xảy ra.
+
+
+== Tham khảo ==

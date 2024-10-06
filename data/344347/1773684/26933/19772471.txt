@@ -1,0 +1,56 @@
+Lao siêu kháng thuốc (XDR-TB) là tình trạng bệnh nhân mắc bệnh lao mà vi khuẩn lao có mặt trong cơ thể là chủng kháng một số loại thuốc chống lao hiệu quả nhất. Các chủng lao siêu kháng thuốc dễ dàng xuất hiện khi quản lý và điều trị sai những bệnh nhân mắc lao đa kháng thuốc (MDR-TB).
+Gần như cứ 4 người trên thế giới thì có 1 người bị nhiễm vi khuẩn lao (23.0% [từ 20.4% đến 26.4%]). Chỉ khi vi khuẩn hoạt động thì mới tính là bị bệnh lao. Vi khuẩn trở nên hoạt động do bất cứ nguyên nhân gây suy giảm khả năng miễn dịch của người đó, chẳng hạn như HIV, tuổi cao hoặc một số tình trạng bệnh lý. Bệnh lao thường có thể được điều trị bằng một liệu trình gồm bốn loại thuốc chống lao hàng đầu (tức là isoniazid (H), rifampin (R), pyrazinamide (Z), ethambutol (E)) và fluoroquinolone. Nếu các loại thuốc này bị lạm dụng hoặc điều trị sai, bệnh lao đa kháng thuốc (MDR-TB) có thể phát triển. Cần nhiều thời gian hơn để điều trị MDR-TB bằng các loại thuốc hàng hai (tức là amikacin, kanamycin hoặc capreomycin ), đắt hơn và có nhiều tác dụng phụ hơn. XDR-TB xuất hiện khi các loại thuốc hàng hai này cũng bị lạm dụng hoặc quản lý sai. Tổ chức Y tế Thế giới (WHO) định nghĩa XDR-TB là MDR-TB kháng với ít nhất một loại fluoroquinolone và thuốc tiêm hàng hai (amikacin, capreomycin hoặc kanamycin).
+Dịch tễ học của XDR-TB vẫn chưa được xác định rõ vì nhiều quốc gia thiếu thiết bị và năng lực cần thiết để chẩn đoán chính xác. Đến tháng 6 năm 2008, 49 quốc gia đã xác nhận các trường hợp XDR-TB. Vào cuối năm 2017, 127 quốc gia thành viên của WHO đã báo cáo tổng cộng 10 800 trường hợp mắc lao kháng kháng thuốc và 8,5% trường hợp mắc MDR-TB trong năm 2017 được ước tính là nhiễm XDR-TB.
+Vào tháng 8 năm 2019, Cục Quản lý Thực phẩm và Dược phẩm (FDA) đã phê duyệt việc sử dụng Pretomanid kết hợp với bedaquiline và linezolid để điều trị cho một số lượng hạn chế và cụ thể bệnh nhân trưởng thành mắc bệnh lao phổi siêu kháng thuốc, không dung nạp điều trị hoặc không đáp ứng với nhiều loại thuốc.
+
+
+== Triệu chứng cơ năng và triệu chứng thực thể ==
+Các triệu chứng của XDR-TB không khác với lao thông thường hoặc lao nhạy cảm với thuốc: ho có đờm (hoặc khạc đờm) đặc, đục, đôi khi lẫn máu trong thời gian hơn hai tuần; sốt về chiều, ớn lạnh và đổ mồ hôi ban đêm; mệt mỏi và yếu cơ; giảm cân; và trong một số trường hợp khó thở và đau ngực. Một người có những triệu chứng này không nhất thiết là bị mắc XDR-TB, nhưng họ nên gặp bác sĩ để được chẩn đoán và lên kế hoạch điều trị. Bệnh nhân lao mà các triệu chứng không cải thiện sau một vài tuần điều trị bệnh lao nên thông báo cho bác sĩ lâm sàng.
+
+
+== Quá trình lây truyền ==
+Giống như các chủng lao khác, XDR-TB lây lan qua không khí. Khi một người mắc bệnh lao truyền nhiễm ho, hắt hơi, nói chuyện hoặc khạc nhổ, họ sẽ giải phóng trực khuẩn lao vào không khí. XDR-TB không thể lây lan khi hôn, ăn chung thức ăn hoặc đồ uống hoặc bắt tay với ai đó. Vi khuẩn có khả năng tồn tại trong không khí trong vài giờ.
+
+
+== Chẩn đoán ==
+Chẩn đoán thành công XDR-TB phụ thuộc vào khả năng tiếp cận của bệnh nhân với các dịch vụ chăm sóc sức khỏe có chất lượng. Nếu tìm thấy vi khuẩn lao trong đờm, việc chẩn đoán mắc bệnh lao có thể được thực hiện trong 1 đến 2 ngày, nhưng chẩn đoán không thể phân biệt giữa lao nhạy cảm với thuốc và lao kháng thuốc. Để đánh giá tính nhạy cảm với thuốc, vi khuẩn cần được nuôi cấy và thử nghiệm trong phòng thí nghiệm phù hợp. Chẩn đoán xác định mắc XDR-TB có thể mất từ 6 đến 16 tuần.
+Phương pháp ban đầu được sử dụng để xét nghiệm chẩn đoán MDR-TB và XDR-TB là thử nghiệm nhạy cảm với thuốc (DST). DST có khả năng xác định bốn loại thuốc chống lao chính là Isoniazid (H), Rifampin (R), Ethambutol (E) và Pyrazinamide (Z). Thử nghiệm Nhạy cảm với Thuốc được thực hiện bằng cách phết vi khuẩn lên đĩa chứa môi trường Lowenstein-Jensen để nuôi cấy.
+Chẩn đoán MDR và XDR-TB ở trẻ em vẫn còn là thách thức. Với số lượng các trường hợp được báo cáo mắc chủng siêu kháng thuốc ngày càng tăng trên toàn thế giới, cần có các công cụ chẩn đoán lao tốt hơn dành cho bệnh nhân nhi.
+
+
+== Điều trị ==
+Nguyên tắc điều trị MDR-TB và XDR-TB là giống hệt nhau. Các loại thuốc hàng hai gây độc cho cơ thể và có thể gây ra một loạt tác dụng phụ nghiêm trọng bao gồm viêm gan, trầm cảm, ảo giác và điếc. Bệnh nhân thường phải nhập viện trong thời gian dài và bị cách ly. Ngoài ra, thuốc hàng hai cực kỳ đắt so với chi phí thuốc điều trị lao hàng đầu.
+XDR-TB có mối liên quan đến tỷ lệ tử vong cao hơn nhiều so với MDR-TB, do có ít lựa chọn điều trị hiệu quả. Một nghiên cứu năm 2008 ở vùng Tomsk của Nga, đã báo cáo rằng 14 trong số 29 (48,3%) bệnh nhân mắc lao siêu kháng thuốc đã hoàn thành điều trị. Năm 2018, WHO đã báo cáo rằng tỷ lệ điều trị thành công đối với XDR-TB là 34% (nghiên cứu thuần tập năm 2015), so với 55% đối với MDR/RR-TB (nghiên cứu thuần tập năm 2015), 77% đối với bệnh lao liên quan đến HIV (nghiên cứu thuần tập năm 2016), và 82% đối với bệnh lao nhạy cảm thuốc (nghiên cứu thuần tập năm 2016).
+Một phân tích tổng quan năm 2018 trên 12.030 bệnh nhân từ 25 quốc gia trong 50 nghiên cứu đã chứng minh rằng thành công điều trị tăng lên và tỷ lệ tử vong giảm khi điều trị phối hợp bedaquiline, fluoroquinolone thế hệ sau và linezolid. Một phác đồ điều trị XDR-TB được gọi là Nix-TB: kết hợp pretomanid, bedaquiline và linezolid, đã cho kết quả đầy hứa hẹn trong các thử nghiệm lâm sàng ban đầu.
+
+
+== Dịch tễ học ==
+Các nghiên cứu đã phát hiện ra rằng nam giới có nguy cơ mắc XDR-TB cao hơn nữ giới. Một nghiên cứu cho thấy nam mắc gấp nữ 3 lần, có ý nghĩa thống kê (p<0,05) Các nghiên cứu về ảnh hưởng của tuổi tác với XDR-TB đã nhận thấy rằng những người từ 65 tuổi trở lên ít có khả năng mắc XDR-TB hơn. Một nghiên cứu ở Nhật Bản cho thấy bệnh nhân mắc XDR-TB thường gặp ở người trẻ.
+
+
+== XDR-TB và HIV/AIDS ==
+Lao là một trong những bệnh nhiễm trùng phổ biến nhất ở những người mắc HIV/AIDS.
+
+
+== Xem thêm ==
+Lao đa kháng thuốc (MDR-TB)
+Lao kháng thuốc hoàn toàn (TDR-TB)
+Bệnh lao
+Điều trị bệnh lao
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+World Health Organization Stop TB Department
+Stop TB Partnership
+The Global Plan to Stop TB
+Advocacy to Control TB Internationally - ACTION
+International Standards of TB Care
+Video: Drug-Resistant TB in Russia Lưu trữ 2011-06-05 tại Wayback Machine July 24, 2007, Woodrow Wilson Center event featuring Salmaan Keshavjee and Murray Feshbach
+XDRTB.org: Spread the Story. Stop the Disease. (photo documentary of XDR-TB by James Nachtwey)
+TB Drug Resistance Mutation Database
+British Red Cross helps combat TB
+The Strange, Isolated Life of a Tuberculosis Patient in the 21st Century
+Population Services International Lưu trữ 2019-08-23 tại Wayback Machine.

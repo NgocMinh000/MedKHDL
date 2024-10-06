@@ -1,0 +1,9 @@
+Mạng từ tiếng Việt là cơ sở ngữ liệu tiếng Việt do một nhóm các nhà khoa học Việt Nam trong lĩnh vực Công nghệ thông tin và Ngôn ngữ học nghiên cứu xây dựng dựa trên Mạng từ tiếng Anh (WordNet), cơ sở ngữ liệu tiếng Anh mà Giáo sư Ngôn ngữ học tâm lý George Armitage Miller của trường Đại học Princeton đã phát triển từ năm 1985.
+Mạng từ tiếng Việt là một trong những sản phẩm chính của đề tài "Nghiên cứu, xây dựng và phát triển một số tài nguyên và công cụ thiết yếu cho xử lí văn bản tiếng Việt", mã số KC.01.20/11-15 thuộc chương trình KC.01/11-15 của Bộ Khoa học và Công nghệ.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WordNet

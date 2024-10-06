@@ -1,0 +1,39 @@
+Tập dữ liệu COVID-19 là các cơ sở dữ liệu công khai nhằm chia sẻ dữ liệu các ca bệnh và thông tin y tế liên quan đến đại dịch COVID-19.
+
+
+== Dữ liệu tổng hợp ==
+
+
+=== Hoa Kỳ ===
+
+
+==== Tình nguyện/phi chính phủ ====
+
+
+==== Bộ Y tế và Dịch vụ Nhân sinh ====
+
+
+=== Toàn cầu ===
+Johns Hopkins Coronavirus Resource Center: Dữ liệu tổng hợp toàn cầu bao gồm số ca nhiễm, xét nghiệm, truy vết tiếp xúc và phát triển vắc-xin
+World Health Organization (WHO) Coronavirus Disease Dashboard: một cơ sở dữ liệu số ca nhiễm và tử vong được báo cáo trên toàn cầu và được phân chia theo vùng. Đây là một phần của Nền tảng Dữ liệu Y tế WHO (WHO Health Data Platform).
+COVID-19 Africa Open Data Project: một cơ sở dữ liệu và bảng tóm tắt dữ liệu do tình nguyện viên điều hành, báo cáo số ca nhiễm, tử vong, số ca nhiễm ở các nhân viên y tế, các dịch vụ chăm sóc y tế và nhu cầu cấp thiết ở các cấp độ vùng, quốc gia và quận.
+
+
+== Trung tâm dữ liệu ==
+Health Data Research UK cung cấp một danh mục các nguồn dữ liệu y tế từ Anh Quốc, trong đó có các tập dữ liệu liên quan đến COVID-19.
+NIH Open Access Datasets: Viện Y tế Quốc gia Hoa Kỳ (NIH) cung cấp dữ liệu mở và các nguồn dữ liệu tính toán liên quan đến COVID-19.
+COVID-19 Open Research Dataset (CORD-19): Dự án Semantic Scholar của Viện Trí tuệ Nhân tạo Allen lưu trữ CORD-19, một tập dữ liệu công khai các bài viết học thuật về COVID-19 và các nghiên cứu liên quan. Tập dữ liệu này được cập nhật hàng ngày và bao gồm cả các bài viết đã được thẩm định và các bản in trước. CORD-19 được phát hành lần đầu vào ngày 16 tháng 3 năm 2020 bởi các nhà nghiên cứu và lãnh đạo từ Viện Trí tuệ Nhân tạo Allen, Sáng kiến Chan Zuckerburg, Trung tâm An ninh và Công nghệ Mới nổi của Đại học Georgetown, Microsoft và Thư viện Y khoa Quốc gia Hoa Kỳ. Tập dữ liệu được xây dựng nhờ sử dụng khai thác văn bản đối với các văn bản nghiên cứu hiện có.
+
+
+== Các nguồn tài nguyên cụ thể và đặc biệt ==
+
+
+=== Hệ gen học ===
+Dữ liệu chuỗi gen truy cập mở của SARS-CoV-2 được cung cấp bởi GISAID và được đưa vào một bảng cây phát sinh chủng loại có tính tương tác  trên Nextstrain, một dự án dữ liệu bộ gen mầm bệnh nguồn mở.
+
+
+=== Hình ảnh (X-quang) ===
+Các đặc trưng trên ảnh chụp X-quang và ảnh chụp cắt lớp vi tính (CT) của người có triệu chứng là những tổn thương dạng kính mờ bất đối xứng mà không có tràn dịch màng phổi. Đại học Montreal và viện nghiên cứu Mila đã xây dựng "Bộ dữ liệu hình ảnh COVID-19" (COVID-19 Image Data Collection) vào tháng 3; đây là một danh mục dữ liệu công khai các ảnh chụp X-quang phổi. Ngân hàng dữ liệu Hình ảnh Y khoa tại Valencia đã phát hành một tập dữ liệu lớn các ảnh chụp phổi từ Tây Ban Nha. Hiệp hội X-quang Ý đang tổng hợp một cơ sở dữ liệu trực tuyến toàn cầu các ảnh chụp ở những ca nhiễm đã được xác nhận. Các nền tảng như Eurorad và Radiopaedia phục vụ việc chia sẻ các dữ liệu và ảnh chụp ở các ca nhiễm COVID-19.
+
+
+== Tham khảo ==

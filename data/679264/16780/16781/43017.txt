@@ -1,0 +1,140 @@
+Máu là một tổ chức di động được tạo thành từ thành phần hữu hình là các tế bào (hồng cầu, bạch cầu, tiểu cầu) và huyết tương. Chức năng chính của máu là cung cấp các chất nuôi dưỡng và cấu tạo các tổ chức cũng như loại bỏ các chất thải trong quá trình chuyển hóa của cơ thể như carbon dioxide và axit lactic. Máu cũng là phương tiện vận chuyển của các tế bào (cả tế bào có chức năng bảo vệ cơ thể lẫn tế bào bệnh lý) và các chất khác nhau (các amino acid, lipid, hormone) giữa các tổ chức và cơ quan trong cơ thể. Các rối loạn về thành phần cấu tạo của máu hay ảnh hưởng đến sự tuần hoàn bình thường của nó có thể dẫn đến rối loạn chức năng của nhiều cơ quan khác nhau.
+Có hai vòng tuần hoàn tương đối độc lập về mặt giải phẫu nhưng liên quan chặt chẽ về mặt chức năng: tuần hoàn phổi (hay còn gọi tiểu tuần hoàn) và tuần hoàn hệ thống (hay còn gọi là đại tuần hoàn). Hai vòng tuần hoàn này đều hoạt động chủ yếu bởi sức bơm của cơ tim.
+
+
+== Thành phần cấu tạo của máu người ==
+
+Máu chiếm 7% trọng lượng cơ thể, với tỷ trọng trung bình khoảng 1060 kg/m³, gần giống với tỷ trọng nước nguyên chất (1000 kg/m³). Người trưởng thành trung bình có khoảng 5 lít máu, bao gồm một số loại huyết cầu khác nhau hay còn gọi là thành phần hữu hình và huyết tương. Huyết cầu gồm hồng cầu, bạch cầu, và tiểu cầu. Theo thể tích hồng cầu chiếm khoảng 45% số tế bào máu, huyết tương chiếm khoảng 54,3%, và bạch cầu khoảng 0,7%.
+
+
+=== Huyết cầu ===
+
+Các thành phần hữu hình gồm:
+
+Hồng cầu: chiếm khoảng 95%. Ở động vật có vú, hồng cầu trưởng thành mất nhân và các bào quan. Hồng cầu chứa hemoglobin và có nhiệm vụ chính là vận chuyển và phân phối oxy cũng như cacbonic.
+Bạch cầu: chiếm khoảng 4% là một phần quan trọng của hệ miễn dịch có nhiệm vụ tiêu diệt các tác nhân gây nhiễm trùng và phát động đáp ứng miễn dịch của cơ thể.
+Tiểu cầu: chiếm khoảng 1%, chịu trách nhiệm trong quá trình đông máu. Tiểu cầu tham gia rất sớm vào việc hình thành nút tiểu cầu, bước khởi đầu của quá trình hình thành cục máu đông trong chấn thương mạch máu nhỏ.
+
+
+=== Huyết tương ===
+
+Huyết tương là dung dịch chứa đến 90% nước, 10% là các protein huyết tương và rất nhiều chất khác với một lượng nhỏ, đôi khi chỉ ở dạng vết. Các thành phần chính của huyết tương gồm:
+
+Albumin
+Các yếu tố đông máu
+Các globulin miễn dịch (immunoglobulin) hay kháng thể (antibody)
+Các hormone
+Các protein khác
+Các chất điện giải (chủ yếu là Natri và Clo, ngoài ra còn có calci, kali, phosphate.)
+Các chất thải khác của cơ thể.
+Trong cơ thể, dưới tác động của cơ tim, hệ thần kinh thực vật và các hormone, máu lưu thông không theo quy luật của lực trọng trường. Ví dụ não là cơ quan nằm cao nhất nhưng lại nhận lượng máu rất lớn (nếu tính theo khối lượng tổ chức não) so với bàn chân, đặc biệt là trong lúc lao động trí óc.
+Ở người và các sinh vật sử dụng hemoglobin khác, máu được oxy hóa có màu đỏ tươi (máu động mạch). Máu khử oxy có màu đỏ bầm (máu tĩnh mạch).
+
+
+=== Độ pH của máu ===
+Độ pH của máu trong động mạch thường xấp xỉ 7,40 (dao động từ 7,35 đến 7,45), làm cho nó có tính kiềm nhẹ. pH máu giảm xuống dưới 7,35 được xem là toan máu (thường do nhiễm toan) và pH trên 7,45 được gọi là kiềm máu (thường do nhiễm kiềm). pH máu cùng với các chỉ số áp lực riêng phần của carbonic (PaCO2), bicarbonate (HCO3-) và kiềm dư (base excess) là những chỉ số xét nghiệm khí máu có ý nghĩa quan trọng trong việc theo dõi cân bằng toan-kiềm của cơ thể. Tỷ lệ thể tích máu so với cơ thể thay đổi theo lứa tuổi và tình trạng sinh lý bệnh. Trẻ nhỏ có tỷ lệ này cao hơn người trưởng thành. Phụ nữ có thai tỷ lệ này cũng tăng hơn phụ nữ bình thường. Ở người trưởng thành phương Tây, thể tích máu trung bình vào khoảng 8 lít trong đó có 2,7 đến 3 lít huyết tương. Tổng diện tích bề mặt của các hồng cầu (rất quan trọng trong trao đổi khí) lớn gấp 2.000 lần diện tích da cơ thể.
+
+
+=== Máu ở các động vật có xương sống khác ===
+
+
+== Chức năng của máu ==
+Vận chuyển: Máu vận chuyển Oxi từ phổi đến tế bào, nhận Oxi từ tế bào đến phổi để đào thải ra ngoài, giúp quá trình hô hấp diễn ra thuận lợi; Các chất dinh dưỡng hấp thu từ hệ tiêu hóa được máu vận chuyển đến các cơ quan đích, cung cấp dinh dưỡng để nuôi tế bào; Máu vận chuyển hormon và các chất dẫn truyền từ nơi sản xuất tới cơ quan đích; Máu vận chuyển nhiệt từ các bộ phận sâu trong trong cơ thể đến da và đường hô hấp để đưa nhiệt ra ngoài
+Điều hòa pH máu: nhờ các thành phần trong máu như các chất điện giải K+, CH-, H+,... Hệ thống đệm trong máu chuyển các axit và base mạnh thành các axit và base yếu làm hạn chế đến mức tối thiểu những thay đổi của pH trong quá trình chuyển hóa
+Điều hòa thân nhiệt: Máu có khả năng làm tăng giảm nhiệt độ cơ thể một cách khá nhanh chóng. Máu chứa đựng nhiều tỉ nhiệt của nước cao. Nước bốc hơi sẽ lấy nhiều nhiệt làm giảm nhiệt lúc chống nóng. Nước chứa nhiều nhiệt để chuyển đến các cơ quan chống lạnh. Nước trong máu là chất dẫn nhiệt tốt, nhạy để đem nhiệt đến nơi cần thiết rất nhanh.
+Bảo vệ cơ thể: các loại bạch cầu của máu có khả năng thực bào và tiêu diệt vi trùng. Ngoài ra, trong máu có nhiều kháng thể, kháng độc có tác dụng bảo vệ cơ thể.
+
+
+== Sinh lý máu ==
+
+
+=== Vòng đời ===
+Trong quá trình phát triển phôi thai, đầu tiên quá trình tạo máu (haematopoiesis) xuất hiện ở túi noãn hoàng (yolk sack) rồi sau đó ở gan. Sau khi trẻ ra đời, quá trình tạo máu chủ yếu xảy ra ở tủy xương (phần tủy đỏ). Thành phần protein (nhất là albumin) được sản xuất chủ yếu bởi gan. Hormone được sản xuất bởi các tuyến nội tiết. Thành phần nước được cân bằng chủ yếu bởi hai cơ quan là tiêu hóa và thận dưới sự điều hòa của một mạng lưới thần kinh-thể dịch phức tạp.
+Các tế bào máu bị giáng hóa chủ yếu ở lách và các tế bào Kupffer ở gan. Gan cũng có nhiệm vụ thanh lọc các protein và amino acid. Thận bài tiết các chất thải của quá trình chuyển hóa được máu mang đến để tạo thành nước tiểu. Đời sống bình thường của các hồng cầu kéo dài khoảng 120 ngày. Sau đó chúng sẽ bị phá hủy và được thay thế bởi các tế bào máu mới. Một phần vật chất của hồng cầu bị phá hủy được tái sử dụng cho quá trình tạo máu, phần khác được đào thải ra ngoài (ví dụ sắc tố mật bilirubin).
+
+
+=== Vận chuyển oxy ===
+
+Có nhiều cách đánh giá tình trạng oxy hóa máu, trong đó độ bão hòa haemoglobin thường được sử dụng và có ý nghĩa quan trọng. Độ bão hòa haemoglobin là một hàm không tuyến tính của áp lực riêng phần oxy trong máu. Khi áp lực riêng phần oxy trong máu động mạch thấp, sự thay đổi nhỏ của nó cũng làm ảnh hưởng rất lớn đến độ bão hòa oxy của haemoglobin. Tuy nhiên khi áp lực này đã ở một mức cao nhất định nào đó thì sự thay đổi của nó ít ảnh hưởng đến độ bão hòa. Khoảng 98,5% tổng lượng oxy trong máu động mạch của người khỏe mạnh ở dạng gắn với haemoglobin (Hb). Chỉ có 1,5% ở dạng hòa tan vật lý trong máu và không gắn với Hb. Phân tử Hb là chất vận chuyển oxy chính ở động vật có vú.
+Trong tuần hoàn hệ thống, các động mạch mang máu được oxy hóa (máu đỏ) từ tim trái vào các tiểu động mạch rồi các mao mạch ở các cơ quan và tổ chức. Tại đây, một phần oxy được tiêu thụ và máu nhận thêm khí carbonic cũng như chất thải đi vào các tiểu tĩnh mạch sau mao mạch, về tĩnh mạch rồi trở lại tim phải để sau đó được đưa lên phổi trao đổi oxy. Máu có độ bão hòa oxy khác nhau sẽ hấp thu sóng ánh sáng hồng ngoại khác nhau. Đây là nguyên tắc sử dụng trong các phương pháp đo bão hòa oxy máu qua mạch nảy (pulse oxymetry) trong cấp cứu và hồi sức.
+Tuần hoàn phổi và nhau thai không tuân theo nguyên tắc này. Bình thường máu rời phổi (về tim trái qua các tĩnh mạch phổi) có độ bão hòa oxy từ 96 đến 97%. Máu bị khử oxy từ tim phải lên phổi có độ bão hòa xấp xỉ 75%. Ở thai nhi do nhận oxy từ nhau thai nên áp lực oxy riêng phần thấp hơn nhiều do vậy thai nhi sản xuất một dạng haemoglobin khác là Hb F (F có nguồn gốc từ Fetus: thai nhi)có ái tính rất cao đối với oxy so với Haemoglobin của người lớn là Hb A (A có nguồn gốc từ Adult: trưởng thành). Nhờ ái tính cao của HbF mà thai nhi có thể thu nhận một lượng thỏa đáng oxy từ nguồn cung cấp có độ bão hòa oxy thấp này.
+
+Ở côn trùng, máu không có nhiệm vụ vận chuyển oxy. Các lỗ mở nhỏ trên cơ thể các sinh vật này cũng gọi là khí quản cho phép oxy môi trường khuếch tán trực tiếp vào các tổ chức. Máu ở côn trùng chỉ có nhiệm vụ vận chuyển chất dinh dưỡng đến tổ chức và đào thải chất cặn bã.
+Tương tự như ở côn trùng, một số các động vật không xương sống nhỏ cũng thu nhận oxy bằng cách khuếch tán trực tiếp từ môi trường vào huyết tương. Các động vật lớn cần phải có các protein hô hấp để nâng cao năng lực vận chuyển oxy. Haemoglobin (màu đỏ chứa sắt) là loại protein hô hấp thường gặp nhất trong tự nhiên. Haemocyanin (màu xanh dương) có chứa đồng hiện diện ở các loài giáp xác và động vật thân mềm.
+Ở nhiều động vật không xương sống các protein mang oxy này vận chuyển tự do trong máu. Ngược lại, động vật có xương sống chứa những hồng cầu được biệt hóa, nhờ đó cơ thể có thể chứa được một lượng lớn các sắc tố hô hấp này mà không làm tăng độ nhớt của máu hay phá hủy các cơ quan có chức năng lọc như thận.
+
+
+=== Vận chuyển khí carbonic ===
+Khi máu động mạch lưu thông qua các mao mạch, khí carbonic khuếch tán từ tổ chức vào máu. Một lượng khí carbonic sẽ được hòa tan trong máu. Một phần khác kết hợp với Hb để tạo nên dạng carbamino hemoglobin. Phần carbonic còn lại được chuyển đổi thành bicarbonate và ion hydro. Phần lớn khí carbonic được vận chuyển trong máu dưới dạng ion bicarbonate.
+
+
+=== Vận chuyển ion hydro ===
+Một lượng oxyhaemoglobin mất oxy trở thành Hb khử oxy. Dạng Hb khử oxy này có ái tính với ion hydro cao hơn so với oxyhaemoglobin. Lượng Hb khử này tăng cao sau khi máu đã trao đổi khí ở tổ chức, đồng thời lúc này ion hydro cũng gia tăng. Nhờ đó phần lớn H+ được Hb khử vận chuyển.
+
+
+== Sinh lý bệnh ==
+
+
+=== Y học thời cổ đại ===
+Y học thời Hippocrates xem máu là một trong bốn dịch thể (cùng với niêm dịch, mật vàng và mật đen). Vì rất nhiều bệnh lý được quy cho là thừa máu nên việc trích máu chữa bệnh rất thịnh hành và kéo dài đến thế kỷ thứ 19.
+
+
+=== Chẩn đoán ===
+Xét nghiệm máu thường được sử dụng để chẩn đoán các bệnh lý của máu và của hầu như tất cả cơ quan khác trong cơ thể.
+Các xét nghiệm huyết học thường dùng:
+
+Công thức máu
+Huyết tủy đồ
+Chức năng đông máu (xét nghệm từng yếu tố đông máu hoặc một hệ thống các yếu tố đông máu liên quan.)
+Các xét nghiệm vi sinh vật:
+
+Cấy máu
+Kéo máu tìm ký sinh trùng sốt rét
+Xét nghiệm huyết thanh học: rất nhiều loại xét nghiệm khác nhau.
+Xét nghiệm hóa sinh:
+
+Điện giải đồ
+Urê, creatinin
+Khí máu
+Protein máu
+Đường máu
+Xét nghiệm viêm….
+
+
+=== Bệnh lý ===
+
+Những rối loạn quá trình lưu thông máu cũng như thành phần của cấu tạo máu đóng vai trò quan trọng trong nhiều bệnh lý khác nhau:
+
+Vết thương tùy theo mức độ có thể gây chảy máu nặng nhẹ khác nhau. Trong trường hợp vết thương nhỏ, tiểu cầu nhanh chóng tạo nút tiểu cầu bịt kín nơi chảy máu và khởi động chuỗi phản ứng đông cầm máu Tuy nhiên nếu các vết thương lớn hơn thì cơ chế này không còn hiệu quả và nếu không điều trị kịp thời bệnh nhân sẽ sốc mất máu và đưa đến tử vong. Tổn thương các nội tạng (cơ quan bên trong cơ thể) có thể đưa đến chảy máu trong. Trong chấn thương thường chú ý đến các vị trí chảy máu trong ổ bụng (do vỡ gan, lách, thận) hoặc chảy máu não…
+Cản trở lưu thông dòng máu có thể gây nên thiếu máu cục bộ và tổn thương tái tưới máu (ischemia/reperfusion injury) nếu xảy ra trong thời gian ngắn hoặc gây nên nhồi máu, hoại tử nếu xảy ra trong thời gian khá dài.
+Bệnh huyết hữu (Haemophilia) là một tình trạng bệnh lý di truyền lặn liên kết giới tính nên thường gặp ở con trai. Mẹ mang gene bệnh và truyền cho con trai. Tỷ lệ 50% con trai bị bệnh và 50% con gái mang gene bệnh. Có nhiều thể khác nhau nhưng cơ chế chung là do thiếu một yếu tố đông máu do đó làm rối loạn cơ chế đông cầm máu bình thường. Bệnh thường xuất hiện khi trẻ bắt đầu chạy nhảy và té ngã. Biến chứng nặng nề là xuất huyết nội tạng, hoặc chảy máu khi làm các thủ thuật như nhổ răng, phẫu thuật, do chấn thương….Biến chứng lâu dài (nếu trẻ sống đến tuổi trưởng thành) thường gặp là thoái hóa các khớp chịu lực (như khớp gối) do máu chảy vào trong khớp dần dần phá hủy cấu trúc bình thường.
+Bệnh bạch cầu cấp (hay còn gọi với các tên khác như bệnh máu trắng, bệnh lơ xê mi cấp): là một nhóm gồm nhiều các bệnh ung thư máu có nguồn gôc từ các tổ chức tạo máu.
+Mất máu nặng do chấn thương, phẫu thuật hoặc do tai biến sản khoa cần phải truyền máu.
+Thiếu máu dinh dưỡng ở trẻ em và phụ nữ mang thai hoặc thiếu máu do nhiễm vi sinh vật (nhiễm giun móc) thường gặp ở các nước nghèo và vùng nhiệt đới.
+Thalasemia (bệnh thiếu máu vùng biển): một bệnh lý di truyền phát hiện đầu tiên ở vùng Địa Trung Hải và sau đó tìm thấy ở hầu hết các vùng địa lý và chủng tộc.
+Bệnh thiếu máu hồng cầu hình liềm: cũng là một bệnh di truyền, thường gặp ở người gốc châu Phi.
+Máu cũng là một vector truyền các bệnh nhiễm trùng như AIDS, viêm gan virus B, C, nhiễm virus vùi hạt cự bào (CMV), đôi khi cả sốt rét…
+
+
+=== Điều trị ===
+Truyền máu là phương thức sử dụng máu trực tiếp nhất. Máu được lấy từ người cho máu tình nguyện. Có nhiều hệ nhóm máu khác nhau, điển hình là hệ nhóm máu ABO và Rhesus. Việc phân loại nhóm máu phù hợp cũng như các xét nghiệm phát hiện tác nhân gây bệnh trước khi truyền máu là những quy định bắt buộc và nghiêm ngặt.
+Khuynh hướng hiện nay là không sử dụng máu toàn phần. Máu được lấy từ người cho sẽ được tách ra thành từng chế phẩm khác nhau tùy theo mục đích sử dụng. Các chế phẩm thường dùng là tiểu cầu khối, hồng cầu khối, huyết tương tươi đông lạnh, tủa lạnh, các yếu tố đông máu, globulin miễn dịch…
+Phần điều trị cụ thể, xin xem thêm những bài riêng.
+
+
+== Xem thêm ==
+Thalassemia
+Công thức máu
+Hồng cầu
+Đại thực bào
+Bạch cầu
+Nhiễm trùng huyết
+Nhóm máu
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Blood (biochemistry) tại Encyclopædia Britannica (tiếng Anh)

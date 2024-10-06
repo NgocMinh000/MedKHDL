@@ -1,0 +1,191 @@
+Ngôn ngữ học hay ngữ lý học là bộ môn nghiên cứu về ngôn ngữ. Người nghiên cứu bộ môn này được gọi là nhà ngôn ngữ học. Nói theo nghĩa rộng, nó bao gồm ba khía cạnh: hình thái ngôn ngữ, nghĩa trong ngôn ngữ và ngôn ngữ trong ngữ cảnh. Những hoạt động miêu tả ngôn ngữ sớm nhất biết tới được cho là của Panini (thế kỷ IV trước Công nguyên), với những phân tích về tiếng Phạn (Sanskrit) trong cuốn Ashtadhyayi.
+Ngôn ngữ học phân tích ngôn ngữ con người như một hệ thống liên kết âm thanh (hay cử chỉ ra hiệu) với ý nghĩa. Ngữ âm học nghiên cứu về âm học và cấu âm của sự tạo thành và tiếp nhận âm thanh từ lời nói và ngoài lời nói. Mặt khác, bộ môn nghiên cứu về nghĩa trong ngôn ngữ lại làm sáng tỏ cách các ngôn ngữ mã hóa mối quan hệ giữa các thực thể, các tính chất và các khía cạnh khác của thế giới để chuyển tải, xử lý và gán nghĩa, cũng như điều khiển và giải quyết sự mơ hồ (ambiguilty). Trong lúc Ngữ nghĩa quan tâm tới các điều kiện chân trị, Ngữ dụng lại quan tâm tới những ảnh hưởng của Ngữ cảnh tới ý nghĩa.
+Ngữ pháp tạo lập nên một hệ thống các luật chi phối hình thái của phát ngôn trong một ngôn ngữ nhất định. Nó bao gồm cả âm, nghĩa và âm vị (âm thanh có đặc trưng gì và kết hợp với nhau như thế nào), hình thái học (cấu tạo vào cách kết hợp các từ).
+
+
+== Phân ngành ==
+Các nghiên cứu chuyên ngành của ngôn ngữ học được rất nhiều nhà chuyên ngành theo đuổi; và những nhà nghiên cứu này ít khi đồng ý với nhau, như Russ Rymer đã diễn tả một cách trào phúng như sau:
+
+Linguistics is arguably the most hotly contested property in the academic realm. It is soaked with the blood of poets, theologians, philosophers, philologists, psychologists, biologists, anthropologists, and neurologists, along with whatever blood can be got out of grammarians.
+(Ngôn ngữ học có thể nói là một đấu trường nóng bỏng nhất trong giới trí thức. Đấu trường đó đẫm đầy máu của các nhà thơ, nhà thần học, nhà triết học, nhà văn lý học, nhà tâm lý học, nhà sinh vật học, nhà nhân chủng học và nhà thần kinh học, cùng với tất cả lượng máu có thể lấy ra được của những nhà ngữ pháp học.) 1
+Quan tâm hàng đầu của ngôn ngữ học lý thuyết là mô tả bản chất của khả năng ngôn ngữ của loài người, hay "sự tinh thông"; giải thích cho được khi nói một người "biết" một ngôn ngữ thì người đó thật sự "biết" được gì; và giải thích cho được bằng cách nào con người đã "biết" được ngôn ngữ đó.
+Tất cả con người (trừ những trường hợp bị bệnh đặc biệt) đều đạt tới sự tinh thông ở bất kỳ ngôn ngữ nào được nói (hoặc ra dấu, trong trường hợp ngôn ngữ dấu hiệu) xung quanh họ trong quá trình trưởng thành, với rất ít sự hướng dẫn có ý thức. Động vật khác không làm được như vậy. Do đó, có một tính chất bẩm sinh nào đó khiến cho con người có thể biết cách sử dụng ngôn ngữ. Không có một quá trình "di truyền học" rõ rệt nào gắn với sự khác biệt giữa các ngôn ngữ: một cá nhân có thể lĩnh hội được bất kỳ ngôn ngữ nào mà họ đã được tiếp xúc lâu dài trong môi trường sống khi còn bé, không phân biệt xuất xứ cha mẹ hay dân tộc của họ.
+Các cấu trúc ngôn ngữ là các cặp song hành giữa ý nghĩa và âm thanh (hoặc hình thức ngoại hiện khác). Các nhà ngôn ngữ học có thể chỉ tập trung vào một số lĩnh vực nhất định của ngôn ngữ, có thể sắp xếp như sau:
+
+Ngữ âm học (Phonetics), nghiên cứu quy luật của các thể (aspect) của âm
+Âm vị học (Phonology), nghiên cứu những khuôn mẫu (pattern) của âm
+Hình thái học (Morphology), nghiên cứu bản chất cấu trúc của từ vựng
+Cú pháp học (Syntax), nghiên cứu thủ thuật xây dựng câu trong ngữ pháp
+Ngữ nghĩa học (Semantics), nghiên cứu ý nghĩa từ vựng (từ vựng học) và thành ngữ (ngữ cú học)
+Ngữ dụng học (Pragmatics), nghiên cứu phát biểu trong ngữ cảnh giao tiếp (nghĩa đen và nghĩa bóng)
+Phân tích diễn ngôn (Discourse Analysis), phân tích ngôn ngữ trong văn bản (văn bản nói, viết hoặc ký hiệu)
+Nhiều nhà ngôn ngữ học đồng ý rằng các phân ngành trùng lắp nhau đáng kể trong nghiên cứu. Tuy nhiên, bất kể quan điểm của họ ra sao, mỗi lĩnh vực đều có những quan niệm cốt lõi của nó, đòi hỏi sự tìm tòi, nghiên cứu khoa học kỹ lưỡng.
+Những lĩnh vực được cho là trùng lắp được phân ra dựa theo các yếu tố ngoại tại được xem xét. Ví dụ như:
+
+Phong cách học, môn nghiên cứu những yếu tố ngôn ngữ giúp cho ngôn từ phù hợp ngữ cảnh.
+Ngôn ngữ học phát triển, môn nghiên cứu sự phát triển khả năng ngôn ngữ của một cá nhân, cụ thể là sự tiếp thu ngôn ngữ trong giai đoạn ấu thơ.
+Ngôn ngữ học lịch sử hay Ngôn ngữ học lịch đại, môn nghiên cứu sự thay đổi trong ngôn ngữ.
+Ngôn ngữ học tiến hoá, môn nghiên cứu nguồn gốc và sự phát triển nối tiếp của ngôn ngữ.
+Ngôn ngữ học tâm lý, môn nghiên cứu các quá trình nhận thức và trình bày gắn liền với việc sử dụng ngôn ngữ.
+Ngôn ngữ học xã hội, môn nghiên cứu các khuôn mẫu xã hội của sự đa dạng ngôn ngữ.
+Ngôn ngữ học điều trị, việc ứng dụng lý thuyết ngôn ngữ học vào lĩnh vực nói-sửa các tật nói
+Ngôn ngữ học thần kinh, môn nghiên cứu các mạng lưới dây thần kinh gắn liền với văn phạm và giao tiếp.
+Ngôn ngữ học vạn vật, môn nghiên cứu các hệ thống giao tiếp tự nhiên cũng như do con người truyền dạy cho ở động vật khác so với ngôn ngữ loài người.
+Ngôn ngữ học máy tính, môn nghiên cứu những bổ sung cấu trúc ngôn ngữ bằng khoa học máy tính.
+Ngôn ngữ học ứng dụng, môn nghiên cứu những vấn đề liên quan đến ngôn ngữ trong cuộc sống hàng ngày, đáng chú ý là chính sách ngôn ngữ và giáo dục ngôn ngữ.
+
+
+== Sự đa dạng ==
+Một phần lớn công sức của các nhà ngôn ngữ học được bỏ ra để đi sâu vào tìm hiểu bản chất của sự khác nhau giữa các ngôn ngữ trên thế giới.
+Bản chất của sự đa dạng ngôn ngữ này rất quan trọng để chúng ta hiểu được khả năng ngôn ngữ của loài người nói chung: nếu khả năng ngôn ngữ của con người bị bó buộc hạn hẹp bởi những đặc điểm sinh học của loài, thì các ngôn ngữ phải rất giống nhau. Nếu khả năng ngôn ngữ của con người không bị hạn chế, thì các ngôn ngữ có thể cực kỳ khác nhau.
+Tuy nhiên, có nhiều cách hiểu khác nhau đối với sự giống nhau giữa các ngôn ngữ. Ví dụ như, tiếng Latin được người La Mã sử dụng đã phát triển thành tiếng Tây Ban Nha và tiếng Ý. Sự giống nhau giữa tiếng Tây Ban Nha và tiếng Ý, trong nhiều tình huống, là do cả hai đã kế thừa từ tiếng Latin. Vậy, về nguyên tắc, nếu hai ngôn ngữ có cùng tính chất nào đó thì tính chất này có thể hoặc do có cùng nguồn gốc hoặc do tính chất nào đó thuộc bộ phận ngôn ngữ của con người (human language faculty). Dĩ nhiên, luôn luôn có thể xảy ra một sự ngẫu nhiên dẫn đến sự giống nhau nào đó, như là trường hợp từ 'mucho' trong tiếng Tây Ban Nha và từ 'much' trong tiếng Anh. Cả hai từ không liên quan nhau chút nào về mặt lịch sử, mặc dù chúng có nghĩa và cách phát âm giống nhau.
+Thường thì khả năng có cùng nguồn gốc có thể được loại bỏ. Ai cũng biết, việc học một ngôn ngữ là rất dễ dàng đối với con người, do đó, ta có thể suy đoán rằng các ngôn ngữ đã được nói ít nhất là từ khi có con người hiện đại về mặt sinh học, có thể là tối thiểu năm mươi nghìn năm nay.
+Những phương pháp khách quan quan sát sự thay đổi của ngôn ngữ (ví dụ như, so sánh ngôn ngữ trong các văn bản cổ với ngôn ngữ hậu sinh của chúng được nói ngày nay) cho thấy sự thay đổi là nhanh chóng đến độ chúng ta không thể nào tái dựng lại một ngôn ngữ đã được nói cách đây rất lâu. Từ đây suy ra được rằng, những điểm tương đồng trong các ngôn ngữ được nói ở những nơi khác nhau trên thế giới thông thường không thể được dùng làm bằng chứng chứng minh chúng có cùng tổ tiên.
+Bất ngờ hơn nữa, người ta đã ghi nhận được những trường hợp ngôn ngữ ký hiệu được phát triển trong các cộng đồng người khiếm thính bẩm sinh đã sớm không có cơ hội được tiếp xúc với ngôn ngữ nói. Người ta đã chỉ ra được rằng các tính chất của những ngôn ngữ dấu này nói chung là trùng khớp với nhiều tính chất của các ngôn ngữ nói. Điều này củng cố giả thuyết rằng những tính chất giống nhau đó không phải do một nguồn gốc chung mà là do những đặc điểm tổng quát của phương thức học ngôn ngữ.
+Nói một cách tự do, tổng hợp các tính chất chung của tất cả các ngôn ngữ có thể được gọi là "ngữ pháp phổ quát" (universal grammar) (viết tắt NPTC), một đề tài có các đặc điểm được bàn cãi rất nhiều. Các chuyên gia ngôn ngữ học và phi-ngôn ngữ học cũng sử dụng thuật ngữ này theo nhiều cách khác nhau.
+Các đặc tính chung phổ quát của ngôn ngữ có thể một phần xuất phát từ các phương diện chung toàn cầu những trải nghiệm của con người; Ví dụ như, tất cả mọi người đều trải nghiệm qua nước, và tất cả ngôn ngữ của loài người đều có một từ để chỉ nước. Tuy nhiên, trải nghiệm chung không đủ để lý giải những câu hỏi khó hơn về NPTC. Hãy xét một ví dụ thú vị sau: giả sử tất cả ngôn ngữ loài người đều phân biệt được danh từ và động từ. Nếu đúng như vậy thì hiện tượng này cần được giải thích thấu đáo hơn, vì danh từ và động từ không phải là thứ trải nghiệm được trong thế giới vật chất bên ngoài các ngôn ngữ sử dụng chúng.
+Nói chung, một đặc điểm của NPTC có thể là xuất phát từ những đặc tính chung của nhận thức con người hoặc từ đặc tính nhận thức chung cụ thể nào đó của con người gắn liền với ngôn ngữ. Nhân loại còn hiểu biết quá ít về nhận thức của con người nói chung, không đủ để đưa ra phân biệt có giá trị. Do đó, những điều tổng hợp thường được đưa ra trong ngôn ngữ học lý thuyết mà không khẳng định rõ chúng có mối liên hệ nào đến các khía cạnh khác của nhận thức hay không.
+
+
+== Đặc tính của ngôn ngữ ==
+Từ thời Hy Lạp cổ đại, người ta đã hiểu rằng ngôn ngữ có khuynh hướng được tổ chức theo các phạm trù ngữ pháp như danh từ và động từ, danh cách và đối cách, hay hiện tại và quá khứ. Từ vựng và ngữ pháp của một ngôn ngữ được tổ chức theo những thể loại cơ bản này.
+Ngoài cách dùng nhiều thể loại cụ thể, ngôn ngữ có một đặc điểm quan trọng là nó tổ chức các yếu tố thành những cấu trúc đệ quy; cho phép một ngữ danh từ hàm chứa ngữ danh từ khác (ví dụ như the chimpanzee's lip) hoặc một mệnh đề hàm chứa một mệnh đề khác (Ví dụ như I think that it's raining). Mặc dù phép đệ quy trong ngữ pháp được ngầm công nhận từ rất sớm (bởi nhiều người như Jespersen), tầm quan trọng của phương diện ngôn ngữ này chỉ được nhận thức trọn vẹn sau khi quyển sách  của Noam Chomsky được xuất bản năm 1957, trình bày ngữ pháp chính quy của một phần Anh ngữ. Trước đó, những mô tả chỉ tiết nhất về hệ thống ngôn ngữ chỉ bàn về hệ thống ngữ âm vị học và hình thái học, có khuynh hướng khép kín và thiếu sáng tạo.
+Chomsky đã sử dụng ngữ pháp phi ngữ cảnh được bổ sung thêm nhiều biến đổi. Từ đó về sau, ngữ pháp phi ngữ cảnh đã được viết ra cho rất nhiều bộ phận ngôn ngữ khác nhau (Ví dụ như, generalised phrase structure grammar, cho tiếng Anh), nhưng người ta đã chứng minh rằng ngôn ngữ loài người bao gồm các yếu tố phụ thuộc lẫn nhau, không thể được giải quyết đầy đủ bằng ngữ pháp phi ngữ cảnh. Việc này đòi hỏi phải có giải pháp hiệu quả hơn, ví dụ như các biến đổi chẳng hạn.
+
+
+== Mô tả hay định chuẩn ==
+Những nghiên cứu trong phạm vi ngôn ngữ học hiện nay đều nằm trong lĩnh vực "mô tả" (descriptive); các nhà nghiên cứu tìm cách làm sáng tỏ các bản tính của ngôn ngữ mà không đưa ra các phán xét hay tiên đoán hướng đi của nó trong tương lai. Tuy vậy, có nhiều nhà ngôn ngữ học và các người nghiên cứu nghiệp dư đã cố gắng đưa ra các luật lệ cho ngôn ngữ theo kiểu "định chuẩn" (prescriptive), họ cố gắng đưa ra các "chuẩn" để mọi người theo.
+Những người theo lối đi "định chuẩn" thường là những người trong lĩnh vực giáo dục và báo chí, họ thường ít khi nằm trong lĩnh vực ngôn ngữ học hàn lâm. Những người này có một khái niệm khá rõ về những điều mà họ cho là "đúng" hay "sai", họ có thể tự cho mình nhiệm vụ làm cho các thế hệ tương lai dùng một loại ngôn ngữ có thể dẫn đến "thành công" hơn "thất bại", thường là một lối nói, một cách phát âm mà họ cho là "chuẩn". Các lý do làm cho họ không chấp nhận được các "cách dùng sai" có thể bao gồm sự ngờ vực cho các từ mới (neologism), các lý do liên quan đến các phương ngữ (dialect) bị xã hội chê bai, hay đơn giản là vì các mâu thuẫn với các lý thuyết họ ưa chuộng. Một hình thức cực đoan của hình thái "định chuẩn" là hình thức kiểm duyệt; những nhà kiểm duyệt thường cho họ một nghĩa vụ diệt trừ các từ, các cách dùng, các lối phát âm... mà theo các giá trị xã hội, đạo đức, chính trị... của họ có thể dẫn đến một xã hội xấu.
+Trong khi đó, những người theo lối "mô tả" không chấp nhận khái niệm "cách dùng sai" của những người đi theo lối "quy định". Họ có thể gọi cách dùng đó như là "cá tính đặc trưng" (idiosyncratic) hay họ có thể tìm cách khám phá ra một "luật" mới cho cách dùng đó để mang nó đi vào trong hệ thống (thay vì tự động cho các lối dùng "sai" là nằm ngoài hệ thống như các người theo lối "định chuẩn" làm). Trong phạm vi điều tra điền dã (fieldwork), các nhà ngôn ngữ học miêu tả nghiên cứu ngôn ngữ bằng cách dùng một đường lối diễn tả. Phương pháp của họ gần với phương pháp khoa học được dùng trong các ngành khác.
+
+
+== So sánh viết và nói ==
+Hầu hết các nhà ngôn ngữ học đều có chung lập trường rằng ngôn ngữ nói mang tính chủ đạo hơn, do đó, quan trọng hơn, cần nghiên cứu hơn là ngôn ngữ viết. Quan điểm này có một số lý do như sau:
+
+Việc nói năng là đặc tính chung của loài người trên toàn cầu, trong khi nhiều nền văn hoá và cộng đồng có tiếng nói không có chữ viết;
+Người ta học nói và xử lý ngôn ngữ nói dễ dàng hơn và sớm hơn ngôn ngữ viết.
+Một số nhà khoa học nhận thức tranh luận rằng bộ não có một "đặc khu ngôn ngữ" bẩm sinh. Kiến thức của đặc khu này được cho là có được từ việc học tiếng nói chứ không phải chữ viết, cụ thể là vì ngôn ngữ nói được tin là sự thích nghi theo luật tiến hoá, trong khi chữ viết lại là một phát minh tương đối gần đây.
+Dĩ nhiên. các nhà ngôn ngữ học đồng ý rằng việc nghiên cứu ngôn ngữ viết là có giá trị và rất nên làm. Đối với việc nghiên cứu ngôn ngữ học sử dụng các phương thức ngôn ngữ học tập hợp và ngôn ngữ học máy tính, ngôn ngữ viết thường dễ dàng hơn khi xử lý số lượng lớn dữ liệu ngôn ngữ. Một tập hợp lớn dữ liệu ngôn ngữ nói vừa khó tạo được, vừa khó tìm và thường là được ký âm và được viết ra. Hơn nữa, các nhà ngôn ngữ học đã tìm đến dữ liệu ngôn từ dựa trên chữ viết, dưới nhiều định dạng giao tiếp qua máy tính để làm nguồn nghiên cứu.
+Việc nghiên cứu hệ thống chữ viết ở bất kỳ trường hợp nào cũng được xem là một nhánh của ngôn ngữ học.
+
+
+== Lịch sử ngôn ngữ học ==
+Ngôn ngữ học, một môn nghiên cứu ngôn ngữ một cách hệ thống, khởi nguồn từ Ấn Độ thời đồ sắt bằng việc phân tích tiếng Phạn. Những cuốn sách Pratishakhya (thế kỷ thứ 8 trước công nguyên) có thể xem là một bộ sưu tập những quan sát về những biến đổi, phân thành những tổng hợp khác nhau cho từng trường phái Vệ Đà khác nhau. Việc nghiên cứu các văn bản này một cách có hệ thống đã làm nền tảng để từ đó hình thành môn văn phạm Vyakarana, với chứng tích sớm nhất còn lại ngày nay là tác phẩm của Pāṇini (520 – 460 BC). Pāṇini đã tổng hợp ra gần 4000 những quy luật cho ra đời một thứ ngữ pháp sản sinh hoàn chỉnh và cực kỳ cô đọng của tiếng Phạn. Phương pháp tiếp cận mang tính phân tích của ông đã nhắc đến những khái niệm như âm vị, hình vị và gốc từ. Do chú trọng đến tính ngắn gọn nên ngữ pháp của ông đã cho ra một cấu trúc có tính phi trực giác cao, tượng như "ngôn ngữ máy tính" ngày nay (khác với các ngôn ngữ lập trình mà con người có thể đọc được). Những quy tắc logic và kỹ thuật bậc thầy của ông đã có tầm ảnh hưởng rộng lớn trong ngôn ngữ học cổ đại lẫn hiện đại.
+Ngôn ngữ học Ấn Độ đã giữ vững tầm cao trong nhiều thế kỷ; Patanjali ở thể kỷ thứ hai trước CN vẫn hăng say chỉ trích Panini. Tuy nhiên, trong những thế trước CN, ngữ pháp của Panini đã được xem là ngữ pháp quy định, và sau đó các nhà bình luận đã trở nên hoàn toàn phục thuộc vào đó. Bhartrihari (450 – 510) cho ra lý thuyết rằng hành vi nói năng được tạo ra do bốn giai đoạn: thứ nhất, hình thành ý tưởng; thứ hai, chuyển ý thành lời và sắp xếp thứ tự; thứ ba, thực hiện truyền tín hiệu lời nói vào không khí; cả ba giai đoạn này do người nói thực hiện và giai đoạn cuối cùng là nghe hiểu lời nói, do người nghe hoặc người thông dịch chịu trách nhiệm.
+Ở Trung Á, nhà ngôn ngữ học Ba Tư Sibawayh đã mô tả tiếng Ả Rập một cách chuyên nghiệp và chi tiết vào năm 760, trong quyển sách bất hủ của ông, Al-kitab fi al-nahw (الكتاب في النحو, Quyển sách viết về ngữ pháp), làm sáng tỏ nhiều khía cạnh của ngôn ngữ. Trong sách của mình, ông đã phân biệt rõ ngữ âm học với âm vị học.
+Ngôn ngữ học Tây phương bắt nguồn từ thời văn minh Hy Lạp và La Mã cổ đại với việc tự biện ngữ pháp như trong đoạn Cratylus của Plato, nhưng nhìn chung vẫn kém xa những thành quả đạt được của các nhà ngữ pháp Ấn Độ cổ đại cho đến tận thế kỷ 19, khi các tài liệu học thuật của Ấn Độ bắt đầu có mặt ở châu Âu.
+Một nhà ngôn ngữ học đầu thế kỷ 19 tên Jakob Grimm, đã hệ thống ra quy luật biến đổi cách phát âm của phụ âm, được biết đến với tên Luật Grimm vào năm 1822. Karl Verner đã khám phá ra Luật Verner. August Schleicher đã tạo ra thuyết "Stammbaum" và Johannes Schmidt đã phát triển thuyết "Wellen" ("mô hình sóng") vào năm 1872.
+Ferdinand de Saussure là người sáng lập ra ngôn ngữ học cấu trúc hiện đại. Edward Sapir, một người dẫn đầu trong ngành ngôn ngữ học cấu trúc ở Mỹ, là một trong những người đầu tiên khám phá quan hệ giữa nghiên cứu ngôn ngữ và nhân chủng học. Phương pháp luận của ông có sức ảnh hưởng lớn đối với những người 
+hậu bối của ông. Mô hình ngôn ngữ chính thức của Noam Chomsky, ngữ pháp sản sinh-chuyển hoá, đã phát triển dưới sự ảnh hưởng của thầy mình, Zellig Harris, người lại chịu ảnh hưởng lớn từ Leonard Bloomfield. Mô hình này đã giữ vị trí chủ chốt từ những thập niên 1960.
+Chomsky vẫn là nhà ngôn ngữ học có sức ảnh hưởng lớn nhất ngày nay. Những nhà ngôn ngữ học làm việc theo những khuôn khổ như Head-Driven Phrase Structure Grammar hoặc Ngữ Pháp Chức năng Từ Vựng nhấn mạnh tầm quan trọng của việc chính thức hoá và tính chính xác chính thức trong việc mô tả ngôn ngữ học, và có thể phần nào xa rời công trình gần đây hơn của Chomsky (chương trình "đơn giản tối thiểu" cho Ngữ pháp chuyển hoá) có liên hệ gần gũi hơn với những công trình trước đây của Chomsky. Những nhà ngôn ngữ học theo đuổi Lý Thuyết Tối Ưu trình bày những điều tổng hợp được theo các quy luật có thể có ngoại lệ, một hướng đi khác xa với ngôn ngữ học chính quy, và những nhà ngôn ngữ học theo đuổi các loại ngữ pháp chức năng và ngôn ngữ học nhận thức có khuynh hướng nhấn mạnh tính phi độc lập của kiến thức ngôn ngữ học và tính phi toàn cầu của các cấu trúc ngôn ngữ học, do đó, xa lìa kiểu mẫu Chomsky một cách đáng kể.
+
+
+== Các môn học liên ngành ==
+
+
+=== Ngôn ngữ học ngữ cảnh ===
+Ngôn ngữ học ngữ cảnh bao gồm những môn nghiên cứu sự tác động qua lại giữa ngôn ngữ học và các ngành học khác. Ở môn ngôn ngữ học lý thuyết, ngôn ngữ được xem xét độc lập trong khi những lĩnh vực đa ngành trong ngôn ngữ học nghiên cứu việc ngôn ngữ tương tác với thế giới bên ngoài ra sao.
+Ngôn ngữ học xã hội, ngôn ngữ học nhân học hay Ngôn ngữ học nhân chủng, và nhân học ngôn ngữ là những môn khoa học xã hội chuyên xem xét sự tương tác giữa ngôn ngữ học và toàn xã hội.
+Ngôn ngữ học tâm lý và ngôn ngữ học thần kinh liên kết y học với ngôn ngữ học.
+Những lĩnh vực đa ngành của ngôn ngữ học gồm có thụ đắc ngôn ngữ, ngôn ngữ học tiến hoá, ngôn ngữ học máy tính và khoa học nhận thức.
+
+
+=== Ngôn ngữ học ứng dụng ===
+Ngôn ngữ học lý thuyết quan tâm đến việc tìm ra và miêu tả những điều khái quát được về một ngôn ngữ nhất định cũng như về tất cả các ngôn ngữ. Ngôn ngữ học ứng dụng đem những thành quả đó đi "ứng dụng" vào những lĩnh vực khác. Thường thì ngôn ngữ học ứng dụng được chỉ đến việc sử dụng nghiên cứu ngôn ngữ học trong việc dạy ngôn ngữ, nhưng kết quả nghiên cứu ngôn ngữ học còn được dùng trong các lĩnh vực khác.
+Nhiều lĩnh vực ngôn ngữ học ứng dụng ngày nay liên quan mật thiết đến việc sử dụng máy vi tính. Máy nói và thiết bị nhận dạng giọng nói sử dụng kiến thức ngữ âm học và âm vị học để cung cấp các giao diện giọng nói cho máy tính. Các ứng dụng của ngôn ngữ học máy tính trong việc dịch bằng máy, dịch thuật có sự hỗ trợ của máy tính, và việc xử lý ngôn ngữ tự nhiên là những lĩnh vực ngôn ngữ học ứng dụng gặt hái được nhiều thành quả và đã tiến lên vị trí dẫn đầu trong những năm gần đây khi khả năng của máy tính ngày càng nâng cao. Ảnh hưởng của các ứng dụng này đã đem lại sự tác động tích cực đến các lý thuyết về cú pháp học cũng như ngữ nghĩa học, vì việc mô phỏng các lý thuyết này trên máy tính giới hạn chúng trong phạm vi các thao tác tính toán được và nhờ vậy, đem lại cơ sở toán học vững chắc hơn.
+
+
+=== Ngôn ngữ học lịch đại ===
+Trong khi cốt lõi của ngôn ngữ học lý thuyết là chú trọng nghiên cứu ngôn ngữ vào một thời điểm nhất định (thông thường là ở hiện tại), ngôn ngữ học lịch đại tìm hiểu xem ngôn ngữ thay đổi như thế nào theo thời gian, có khi xem xét đến cả hàng thế kỷ. Ngôn ngữ lịch đại vừa đem đến một lịch sử ngôn ngữ phong phú (môn ngôn ngữ học đã phát triển từ ngôn ngữ học lịch đại), vừa tạo ra một nền móng lý thuyết vững chắc cho việc nghiên cứu sự thay đổi của ngôn ngữ.
+Ở các trường Đại học Mỹ (Hợp chúng quốc Hoa Kỳ), khuynh hướng 
+phi lịch đại chiếm ưu thế trong môn ngôn ngữ học. Nhiều khoá ngôn ngữ học nhập môn chỉ đề cập ngôn ngữ học lịch đại một cách qua loa. Việc chuyển trọng tâm sang hướng phi lịch đại đã bắt đầu với Saussure và trở nên phổ biến với Noam Chomsky.
+Các nhánh ngôn ngữ học có tính lịch đại gồm có ngôn ngữ học lịch đại so sánh và từ nguyên học.
+
+
+== Xem thêm ==
+
+
+=== Danh sách ===
+Danh sách các chủ đề ngôn ngữ học cơ bản
+Danh sách các chủ đề khoa học tri giác
+Danh sách các chủ đề ngôn ngữ học
+Danh sách các chuyên ngành ngôn ngữ học
+Danh sách các trường dạy ngôn ngữ học khoá hè
+
+
+=== Các chủ đề liên quan ===
+
+
+== Tham khảo ==
+
+
+=== Các sách giáo khoa ===
+Aitchison, Jean (1999) [1995]. Linguistics: An Introduction (ấn bản thứ 2). London: Hodder & Stoughton.
+Akmajian, Adrian (2001). Linguistics. et al. MIT Press. ISBN 0-262-51123-1.
+Griniewicz, Sergiusz (2004). Introduction To Linguistics. Elwira M. Dubieniec (ấn bản thứ 2). Białystok, WSFiZ. tr. 91.
+Hudson, G. (2000) Essential Introductory Linguistics. Oxford: Blackwell.
+Lyons, John (1995), Linguistic Semantics, Cambridge University Press. (ISBN 0-521-43877-2)
+Napoli, Donna J. (2003) Language Matters. A Guide to Everyday Questions about Language. Oxford University Press.
+O'Grady, William D., Michael Dobrovolsky & Francis Katamba [eds.] (2001), Contemporary Linguistics, Longman. (ISBN 0-582-24691-1) - Lower Level
+Taylor, John R. (2003), Cognitive Grammar, Oxford University Press. (ISBN 0-19-870033-4)
+Trask, R. L. (1995) Language: The Basics. London: Routledge.
+Ungerer, Friedrich & Hans-Jorg Schmid (1996), An Introduction to Cognitive Linguistics, Longman. (ISBN 0-582-23966-4)
+
+
+=== Các tác phẩm học thuật ===
+Chomsky, Noam, (1969), Aspects of the Theory of Syntax.
+Fauconnier, Gilles
+(1995), Mental Spaces, 2nd ed., Cambridge University Press. (ISBN 0-521-44949-9)
+(1997), Mappings in Thought and Language, Cambridge University Press. (ISBN 0-521-59953-9)
+& Mark Turner (2003), The Way We Think, Basic Books. (ISBN 0-465-08786-8)
+Rymer, p. 48, quoted in Fauconnier and Turner, p. 353
+Sampson, Geoffrey (1982), Schools of Linguistics, Stanford University Press. (ISBN 0-8047-1125-9)
+Sweetser, Eve (1992), From Etymology to Pragmatics, repr ed., Cambridge University Press. (ISBN 0-521-42442-9)
+Van Orman Quine, Willard (1960), Word and Object, MIT Press. (ISBN 0-262-67001-1)
+Zuckermann, Ghil'ad (2003), Language Contact and Lexical Enrichment in Israeli Hebrew, Palgrave Macmillan. ISBN 9781403917232 / ISBN 9781403938695
+
+
+=== Các tác phẩm đại chúng ===
+Bloomfield, Leonard. Language.
+Burgess, Anthony
+(1964), Language Made Plain
+(1992), A Mouthful of Air
+Deacon, Terrence (1998), The Symbolic Species, WW Norton & Co. (ISBN 0-393-31754-4)
+Deutscher, Guy, Dr. (2005), The Unfolding of Language, Metropolitan Books (ISBN 0-8050-7907-6) (ISBN 978-0-8050-7907-4
+Harrison, K. David. (2007) When Languages Die: The Extinction of the World's Languages and the Erosion of Human Knowledge. New York and London: Oxford University Press.
+Hayakawa, Alan R & S. I. (1990), Language in Thought and Action, Harvest. (ISBN 0-15-648240-1)
+Pinker, Steven
+(2000), The Language Instinct, repr ed., Perennial. (ISBN 0-06-095833-2)
+(2000), Words and Rules, Perennial. (ISBN 0-06-095840-5)
+Rymer, Russ (1992), Annals of Science in "The New Yorker", 13th April
+Sapir, Edward. Language.
+Saussure, Ferdinand de. Cours de linguistique générale.jhipouhoup
+White, Lydia (1992), Universal Grammar and Second Language Acquisition.
+
+
+=== Sách tham khảo ===
+Aronoff, Mark & Janie Rees-Miller (Eds.) (2003) The Handbook of Linguistics. Blackwell Publishers. (ISBN 1-4051-0252-7)
+Asher, R. (Ed.) (1993) Encyclopedia of Language and Linguistics. Oxford: Pergamon Press. 10 vols.
+Bright, William (Ed) (1992) International Encyclopedia of Linguistics. Oxford University Press. 4 Vols.
+Brown, Keith R. (Ed.) (2005) Encyclopedia of Language and Linguistics (2nd ed.). Elsevier. 14 vols.
+Bussmann, H. (1996) Routledge Dictionary of Language and Linguistics. Routledge (translated from German).
+Crystal, David
+(1987) The Cambridge Encyclopaedia of Language. Cambridge University Press.
+(1991) A Dictionary of Linguistics and Phonetics. Blackwell. (ISBN 0-631-17871-6)
+(1992) An Encyclopaedic Dictionary of Language and Languages. Oxford: Blackwell.
+Graffi, G. 2001 200 Years of Syntax. A Critical Survey, Amsterdam, Benjamins, 2001.
+Frawley, William (Ed.) (2003) International Encyclopedia of Linguistics (2nd ed.). Oxford University Press.
+Malmkjaer, Kirsten (1991) The Linguistics Encyclopaedia. Routledge (ISBN 0-415-22210-9)
+Trask, R. L.
+(1993) A Dictionary of Grammatical Terms in Linguistics. Routledge. (ISBN 0-415-08628-0)
+(1996) Dictionary of Phonetics and Phonology. Routledge.
+(1997) A student's dictionary of language and linguistics.
+(1999) Key Concepts in Language and Linguistics. London: Routledge.
+
+
+== Liên kết ngoài ==
+
+Subfields according to the Linguistic Society of America Lưu trữ 2007-11-26 tại Wayback Machine
+Glossary of linguistic terms and French<->English glossary at SIL International
+"Linguistics" section Lưu trữ 2008-09-06 tại Wayback Machine of A Bibliography of Literary Theory, Criticism and Philology, ed. J. A. García Landa (University of Zaragoza, Spain)
+Linguistics and language-related wiki articles on Scholarpedia and Citizendium

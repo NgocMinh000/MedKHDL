@@ -1,0 +1,123 @@
+Sau đây là danh sách các dự án trí tuệ nhân tạo trong hiện tại và quá khứ đáng chú ý.
+
+
+== Các dự án chuyên ngành ==
+
+
+=== Mô phỏng bộ não con người ===
+Dự án JAAI, một nỗ lực để quản lý tất cả các quá trình tâm linh phát sinh bởi một con người đối với những người khác và chính mình.
+Dự án aHuman, một dự án dùng để nhân rộng kiến trúc bộ não và các nguyên tắc tính toán của con người để tạo ra tính cách trong một máy tính có các bộ chấp hành khác nhau.
+Dự án Blue Brain, một nỗ lực để tạo ra một bộ não tổng hợp bởikỹ thuật đảo ngược não động vật có vú xuống đến cấp độ phân tử.
+Google Brain Một dự án học sâu của Google X đang cố gắng bắt chước trí thông minh cấp độ con người.
+NuPIC, một mã nguồn mở thực thi bởi thuật toán học vỏ não của Numenta.
+
+
+=== Các kiến trúc nhận thức ===
+4CAPS, được phát triển tại Đại học Carnegie Mellon dưới sự lãnh đạo của Marcel A. Just
+ACT-R, được phát triển tại Đại học Carnegie Mellon dưới sự lãnh đạo của John R. Anderson.
+AIXI, Trí tuệ nhân tạo phổ quát được phát triển bởi Marcus Hutter tại IDSIA và ANU.
+CALO, một chương trình được tài trợ bởi DARPA, và 25 tổ chức cố gắng để tích hợp nhiều cách tiếp cận trí tuệ nhân tạo (xử lý ngôn ngữ tự nhiên, nhận dạng giọng nói, thị giác máy tính, xác suất logic, lập kế hoạch, lập luận, nhiều hình thức của máy học khác) vào một trợ lý AI để học cách giúp quản lý môi trường văn phòng của bạn.
+CHREST, được phát triển bởi Fernand Gobet tại Đại học Brunel và Peter C. Lane tại University of Hertfordshire.
+CLARION kiến trúc nhận thức, được phát triển bởi Ron Sun tại Rensselaer Polytechnic Institute và trường đại học Missouri-Columbia.
+CoJACK, một mô phỏng của ACT-R mở rộng cho hệ thống đa tác nhân JACK, thêm một kiến trúc nhận thức cho các tác nhân để suy luận cho thực hơn (giống như con người) trong môi trường ảo.
+Copycat, bởi Douglas Hofstadter và Melanie Mitchell tại Đại học Indiana.
+DUAL, phát triển tại Đại học New Bulgarian bởi Boicho Kokinov.
+EPIC, phát triển bởi David E. Kieras và David E. Meyer ở Đại học Michigan.
+Kiến trúc H-Cogaff, là một trường hợp đặc biệt của giản đồ CogAff;
+FORR được phát triển bởi Susan L. Epstein tại The City University of New York.
+IDA and LIDA,thực thi lý thuyết Không gian Làm việc Toàn cầu, được phát triển bởi Stan Franklin tại Đại học Memphis.
+OpenCog Prime, được phát triển sử dụng Framework OpenCog.
+PreAct, được phát triển tại ASI.
+Procedural Reasoning System (PRS), được phát triển bởi Michael Georgeff và Amy L. Lansky tại SRI International.
+Lý thuyết Psi được phát triển bởi Dietrich Dörner tại Otto-Friedrich University Bamberg, Đức.
+R-CAST, được phát triển tại Đại học bang Pennsylvania.
+Soar, được phát triển bởi Allen Newell và John Laird tại Đại học Carnegie Mellon và đại học Michigan.
+Society of mind và chương tình kế nhiệm của nó máy Cảm xúc được đề xuất bởi Marvin Minsky.
+Các kiến trúc gộp, được phát triển ví dụ bởi Rodney Brooks (mặc dù có thể được lập luận là chúng là nhận thức).
+
+
+=== Trò chơi ===
+Chinook, một chương trình máy tính chơi trò English draught; chương trình đầu giành danh hiệu vô địch thế giới trong cuộc thi đấu với con người.
+Deep Blue, một máy tính chơi cờ vua được phát triển bởi IBM đã đánh bại Garry Kasparov vào năm 1997.
+Stockfish AI, một công cụ chơi cờ vua mã nguồn mở hiện đang xếp hạng cao nhất trong nhiều bảng xếp hạng cờ máy tính.
+FreeHAL, một chương trình mô phỏng đàm thoại tự học (chatterbot) sử dụng các mạng ngữ nghĩa để tổ chức kiến thức của nó để bắt chước hành vi gần gũi với con người các cuộc hội thoại.
+TD-Gammon, một chương trình học chơi cờ tào cáo hàng đầu thế giới một phần bằng cách chơi chống lại chính nó (học khác biệt với các mạng nơ-ron).
+
+
+=== Chuyển động và thao tác ===
+COG, một robot được phát triển bởi MIT để nghiên cứu lý thuyết của khoa học nhận thức và trí tuệ nhân tạo, nhưng hiện tại đã bị ngưng lại.
+AIBO, robot thú cưng trong nhà, đã được phát triển bởi phòng thí nghiệm Khoa học máy tính (CSL) của Sony.
+
+
+=== Kiến thức và lý luận ===
+Braina, một ứng dụng trợ lý cá nhân thông minh với một giao diện giọng nói dành cho hệ điều hành Windows.
+Cyc, một nỗ lực để lắp ráp một bản thể học và cơ sở dữ liệu của kiến thức hàng ngày, tạo điều kiện để máy tính suy luận như con người.
+Eurisko, một ngôn ngữ  được phát triển bởi Douglas Lenat để giải quyết các vấn đề heuristic, kể cả cách thức nào đóđể sử dụng và thay đổi các heuristic.
+Google Now, một trợ lý cá nhân thông minh với giao tiếp bằng giọng nói trên Android và iOS, cũng như trên trình duyệt web Google Chrome trên các máy tính cá nhân.
+Microsoft Cortana, một trợ lý cá nhân thông minh với giao tiếp bằng giọng nói trên Microsoft's Windows Phone 8.1.
+Mycin, một hệ thống chuyên gia y tế sớm nhất.
+Open Mind Common Sense, một dự án tại MIT Media Lab, xây dựng một cơ sở kiến thức thông thường lớn từ các đóng góp trực tuyến.
+P.A.N., một chương trình phân tích văn bản dành cho công cộng.
+Siri, một trợ lý cá nhân thông minh và tra cứu kiến thức với giao tiếp bằng giọng nói trên iOS của Apple Inc.
+SNePS, đồng thời là một đại diện kiến thức dựa trên mạng nơ rong, frame và logic, và hệ thống hành động.
+Watson, một hệ thống đối đáp được phát triển bởi IBM trả lời. Đã chơi hương trình game show Jeopardy!
+Wolfram Alpha, một dịch vụ trực tuyến trả lời truy vấn bằng cách tính toán câu trả lời từ các dữ liệu có cấu trúc.
+
+
+=== Âm nhạc ===
+Melomics, một công nghệ lấy cảm hứng từ sinh học dành cho soạn và hòa âm âm nhạc, nơi mà các máy tính không thể bắt chước các nhạc sĩ, nhưng phát triển phong cách riêng của chúng.
+
+
+=== Xử lý ngôn ngữ tự nhiên ===
+AIML, một biến thể XML để tạo ra các đơn vị phần mềm ngôn ngữ tự nhiên.
+Artificial Linguistic Internet Computer Entity (A.L.I.C.E.), một chatterbot giành được giải thưởng xử lý ngôn ngữ tự nhiên.
+Cleverbot, kế thừa của Jabberwacky, hiện tại với 170m dòng hội thoại, Deeep Context, fuzzy và xử lý song song. Cleverbot học từ sự tương tác với khoảng 2 triệu người dùng mỗi tháng.
+ELIZA, một chương trình máy tính nổi tiếng năm 1966 được viết bởi Joseph Weizenbaum, nhại lại liệu pháp tâm lý trị liệu bằng cách chuyện trò.
+InfoTame, một máy tìm kiếm dựa trên phân tích văn bản, ban đầu được phát triển bởi KGB để phân loại các tín hiệu truyền thông.
+Jabberwacky, một chatterbot của Rollo Carpenter, nhằm mô phỏng một cuộc trò chuyện tự nhiên của con người.
+PARRY, một chatterbot đầu tiên khác, viết năm 1972 bởi Kenneth Colby, cố gắng để mô phỏng một người bị chứng tâm thần phân liệt.
+SHRDLU, một chương trình xử lý ngôn ngữ tự nhiên sớm nhất được phát triển bởi Terry Winograd tại MIT từ năm 1968 đến năm 1970.
+SYSTRAN, một công nghệ máy dịch của một công ty cùng tên, được sử dụng bởi Yahoo, AltaVista và Google.
+
+
+=== Các thư viện phần mềm ===
+
+
+=== Khác ===
+Synthetic Environment for Analysis and Simulations (SEAS), một mô hình của thế giới thực sử dụng bởi cục An ninh nội địa và Bộ quốc phòng Hoa Kỳ sử mô phỏng và AI để dự đoán và đánh giá các sự kiện tương lai và các kế hoạch hành động.
+
+
+== Các dự án đa mục đích ==
+
+
+=== Các thư viện phần mềm ===
+Apache Mahout, một thư viện có thể mở rộng của các thuật toán máy học.
+Deeplearning4j, một framework mã nguồn mở, phân tán học sâu được viết cho JVM.
+OpenNN, một thư viện C++ toàn diện để thực thi các mạng nơ-ron.
+
+
+=== Các framework GUI ===
+Encog, một framework mạng nơ ron và trí tuệ nhân tạo dành cho Java,.Net và Silverlight.
+Neural Designer, một công cụ thương mại học sâu dành chophân tích tiên đoán.
+Neuroph, một framework mạng nơ ron viết bằng Java.
+OpenCog, một framework giấy phép GPL dành cho trí tuệ nhân tạo được viết bằng C++, Python và Scheme.
+RapidMiner, một môi trường dành cho máy học và khai phá dữ liệu, hiện tại đã được phát triển thương mại.
+Weka, một thực thi miễn phí của nhiều thuật toán học máy trong Java.
+
+
+=== Các dịch vụ đám mây ===
+Data Applied, một trang web dựa trên môi trường khai phá dữ liệu.
+Grok, một dịch vụ đưa vào các dòng dữ liệu và tạo ra các dự báo hữu dụng trong thời gian thực.
+Watson, một dịch vụ thí điểm bởi IBM để khám phá và chia sẻ các hiểu biết theo hướng dữ liệu, và để thúc đẩy các ứng dụng nhận thức.
+
+
+== Xem thêm ==
+So sánh các kiến trúc nhận thức
+Ứng dụng trí tuệ nhân tạo
+Sự tiến bộ trong trí tuệ nhân tạo
+Trí tuệ nhân tạo trong Bảo mật
+
+
+== Liên kết ngoài ==
+Các dự án AI trên GitHub
+Các dự án AI trên SourceForge

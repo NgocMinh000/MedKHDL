@@ -1,0 +1,55 @@
+Chẩn đoán (διάγνωσις) là sự xác định tính chất và nguyên nhân của sự vật, hiện tượng. Chẩn đoán được sử dụng trong nhiều ngành qua nhiều biến thể khác nhau bằng cách sử dụng biện luận, phân tích và kinh nghiệm để phát hiện ra nguyên nhân và kết quả. Trong kỹ thuật hệ thống và khoa học máy tính, chẩn đoán thường được sử dụng để xác định nguyên nhân của triệu chứng, cách giảm nhẹ hay cách giải quyết vấn đề.
+
+
+== Kĩ thuật máy tính và mạng ==
+Mạng Bayes
+Xử lý sự kiện phức
+Chẩn đoán (lĩnh vực con của trí tuệ nhân tạo)
+Tương quan giữa các sự kiện
+Quản lý lỗi
+Phân tích cây lỗi
+Vấn đề mờ
+Chẩn đoán lỗi RPR
+Chẩn đoán từ xa
+Phân tích nguyên nhân gốc rễ
+Xử lý sự cố
+
+
+== Toán học và logic học ==
+Xác suất Bayes
+Tiền đề Hickam (Hickam's dictum)
+Nguyên tắc lược Occam (Occam's razor)
+Luật Sutton
+
+
+== Y học ==
+
+
+=== Phương thức ===
+Hệ thống đánh giá bằng máy vi tính CDR
+Differential diagnosis
+Chẩn đoán y học
+Chẩn đoán truy hồi
+
+
+=== Tools ===
+DELTA (taxonomy)
+DXplain
+
+
+== Organizational Development ==
+Organizational diagnostics
+
+
+== Kỹ thuật ==
+Tám nguyên tắc giải quyết vấn đề
+Five whys
+Chẩn đoán kỹ thuật
+Xử lý lỗi
+
+
+== Taxonomy ==
+Chẩn đoán (taxonomy)
+
+
+== Chú thích ==

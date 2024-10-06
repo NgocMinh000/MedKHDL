@@ -1,0 +1,167 @@
+Sung ngữ (tiếng Anh: adjunct) là một bộ phận tùy ý (hay về mặt cấu trúc thì có thể bỏ qua) trong câu, tiểu cú, hoặc ngữ đoạn sao cho nếu gỡ bỏ ra thì về mặt cấu trúc sẽ không ảnh hưởng đến phần còn lại của câu. Ví dụ: Trong câu "John helped Bill in Central Park", ngữ đoạn "in Central Park" là sung ngữ.
+Định nghĩa chi tiết hơn thì sung ngữ là dạng, từ hay ngữ đoạn bổ nghĩa mà phụ thuộc vào dạng, từ hay ngữ đoạn nào đó khác, đặc biệt nhất là thành phần có chức năng trạng ngữ trong cấu trúc tiểu cú. Theo Tesnière (1959), sung ngữ không phải là tham tố (lẫn biểu thức vị ngữ), và tham tố không phải là sung ngữ. Sự phân biệt tham tố–sung ngữ là chính yếu trong hầu hết lý thuyết về cú pháp và ngữ nghĩa. Thuật ngữ được dùng để biểu thị tham tố và sung ngữ thì khác nhau tùy theo lý thuyết đang xét. Chẳng hạn (trong các tài liệu phương Tây) một số ngữ pháp phụ thuộc người ta sử dụng thuật ngữ circonstant thay vì adjunct (đều chỉ về khái niệm sung ngữ).
+Lĩnh vực ngữ pháp mà tìm tòi về bản chất của vị ngữ, tham tố của vị ngữ, và sung ngữ thì được gọi là lý thuyết kết trị. Vị ngữ thì có kết trị, kết trị quyết định số lượng và kiểu của các tham tố có thể hoặc phải xuất hiện trong chu cảnh của chúng. Kết trị của vị ngữ cũng được nghiên cứu dưới dạng 'tiểu phạm trù hóa'.
+Bài viết này hiện tại chỉ có ví dụ và phương pháp cho tiếng Anh.
+
+
+== Ví dụ ==
+Xét câu John helped Bill in Central Park on Sunday làm ví dụ thì:
+
+John là tham tố chủ ngữ;
+helped là vị ngữ;
+Bill là tham tố tân ngữ;
+in Central Park là sung ngữ thứ nhất;
+on Sunday là sung ngữ thứ hai.
+Sung ngữ trạng từ là thành phần câu mà thường hay xác lập hoàn cảnh mà trong đó hành động hay trạng thái do động từ biểu đạt diễn ra. Câu sau đây dùng sung ngữ chỉ thời gian và nơi chốn:
+
+Yesterday, Lorna saw the dog in the garden.
+(Hôm qua, Lorna có thấy con chó ở trong vườn.)
+Chú ý rằng ví dụ này có tính mơ hồ vì không rõ sung ngữ in the garden bổ nghĩa cho động từ saw (theo nghĩa là chính Lorna mới là người có thấy con chó trong khi cô ấy đang ở trong vườn) hay là bổ nghĩa cho ngữ đoạn danh từ the dog (theo nghĩa là chính con chó mới là sinh vật có ở trong vườn). Định nghĩa đấy có thể được mở rộng để bao gồm luôn các sung ngữ bổ nghĩa cho danh từ hoặc các từ loại khác.
+
+
+== Dạng và phạm vi ==
+Sung ngữ có thể là từ đơn, ngữ đoạn, hoặc cả tiểu cú.
+
+Từ đơn
+She will leave tomorrow.
+Ngữ đoạn
+She will leave in the morning.
+Tiểu cú
+She will leave after she has had breakfast.
+Hầu hết các thảo luận về sung ngữ đều tập trung vào sung ngữ trạng từ, tức là vào những sung ngữ bổ nghĩa cho động từ, ngữ đoạn động từ, hoặc cả tiểu cú giống như các sung ngữ trong ba ví dụ vừa nêu. Tuy nhiên sung ngữ có thể xuất hiện trong những phạm vi khác, tức là nó có thể bổ nghĩa cho hầu hết các phạm trù. Có những loại như sung ngữ cho danh từ, sung ngữ cho tính từ hay sung ngữ cho trạng từ.
+
+the discussion before the game – before the game là sung ngữ cho danh từ.
+very happy – very là sung ngữ cho tính từ.
+too loudly – too là sung ngữ cho trạng từ.
+Sung ngữ luôn luôn là thành tố. Mỗi sung ngữ trong các ví dụ xuyên suốt bài viết này đều là thành tố.
+
+
+== Chức năng ngữ nghĩa ==
+Sung ngữ có thể được phân loại dựa trên ý nghĩa chức năng mà nó đóng góp cho ngữ đoạn, tiểu cú, hay câu mà trong đó nó xuất hiện. Danh sách các chức năng ngữ nghĩa sau đây không hề triệt để, nhưng nó bao gồm hầu hết các chức năng ngữ nghĩa của các sung ngữ được xác định trong các tài liệu về sung ngữ:
+
+Nguyên nhân – Sung ngữ nguyên nhân xác lập lý do hay mục đích cho hành động hoặc trạng thái.
+The ladder collapsed because it was old. (lý do)
+Nhượng bộ – Sung ngữ nhượng bộ xác lập hoàn cảnh trái ngược.
+Lorna went out although it was raining.
+Điều kiện – Sung ngữ điều kiện xác lập điều kiện mà trong đó có hành động xảy ra hoặc có trạng thái hiện diện.
+I would go to Paris, if I had the money.
+Liên tiếp – 'Sung ngữ liên tiếp' xác lập ảnh hưởng hoặc kết quả.
+It rained so hard that the streets flooded.
+Chung kết – Sung ngữ chung kết xác lập mục tiêu của của hành động (cái người ta muốn đạt được).
+He works a lot to earn money for school.
+Công cụ – Sung ngữ công cụ xác lập công cụ được dùng để hoàn thành được hành động.
+Mr. Bibby wrote the letter with a pencil.
+Định vị – Sung ngữ định vị xác lập "nơi đâu", "đến đâu", hoặc "từ đâu" mà trạng thái hay hành động xảy ra hoặc tồn tại.
+She sat on the table. (xác định vị trí)
+Trắc lượng – Sung ngữ trắc lượng xác lập trắc lượng của hành động, trạng thái hoặc phẩm chất mà nó bổ nghĩa.
+I am completely finished.
+That is mostly true.
+We want to stay in part.
+Tình thái – Sung ngữ tình thái xác lập mức độ chắn hẳn trong sự nhìn nhận của người phát ngôn đối với hành động hoặc trạng thái.
+They probably left.
+In any case, we didn't do it.
+That is perhaps possible.
+I'm definitely going to the party.
+Tu sức – Sung ngữ tu sức xác lập cách thức mà hành động xảy ra hoặc cách thức mà trạng thái tồn tại.
+He ran with difficulty. (phương thức)
+He stood in silence. (trạng thái)
+He helped me with my homework. (giới hạn)
+Thời gian – Sung ngữ thời gian xác lập "khi nào", "bao lâu", hoặc "thường xuyên thế nào" mà hành động hay trạng thái xảy ra hoặc tồn tại.
+He arrived yesterday. (thời điểm)
+He stayed for two weeks. (khoảng thời gian)
+She drinks in that bar every day. (độ thường xuyên)
+
+
+== Khu biệt giữa biểu thức vị ngữ, tham tố, và sung ngữ ==
+
+
+=== Chẩn đoán lược bỏ ===
+Sự phân biệt giữa tham tố, sung ngữ, và vị ngữ là chính yếu với hầu hết lý thuyết cú pháp và ngữ pháp. Vị ngữ thì cần có tham tố và cho phép thêm những sung ngữ nhất định nào đó. Tham tố của vị ngữ là cần thiết để hoàn thành ý nghĩa của vị ngữ. Trái lại, sung ngữ của vị ngữ thì cung cấp thông tin bổ trợ về ý nghĩa cốt lõi của vị ngữ-tham tố, tức là nó không cần thiết cho việc hoàn thành ý nghĩa của vị ngữ. Sung ngữ và tham tố có thể được xác định bằng nhiều phép chẩn đoán khác nhau. Chẳng hạn phép chẩn đoán lược bỏ thì giúp xác định nhiều tham tố do đó cũng gián tiếp xác định được nhiều sung ngữ. Thành tố đã cho nào đó nếu bị lược bỏ khỏi câu, tiểu cú, hay ngữ đoạn mà lại sinh ra một biểu đạt không chấp nhận được, thì thành tố đó không phải là sung ngữ, ví dụ:
+
+a. Fred certainly knows.
+b. Fred knows. – certainly có thể là sung ngữ (và quả là vậy).
+a. He stayed after class.
+b. He stayed. – after class có thể là sung ngữ (và quả là vậy).
+a. She trimmed the bushes.
+b. *She trimmed. – the bushes không phải là sung ngữ.
+a. Jim stopped.
+b. *Stopped. – Jim không phải là sung ngữ.
+
+
+=== Các phép chẩn đoán khác ===
+Các đặc trưng để chẩn đoán thêm nữa được dùng để khu biệt giữa tham tố và sung ngữ thì bao gồm tính đa, khoảng cách ra khỏi phần trung tâm, và khả năng đẳng kết.
+Phần trung tâm có thể có nhiều sung ngữ nhưng chỉ có một tham tố (=bổ ngữ):
+
+a. Bob ate the pizza. – the pizza là tham tố tân ngữ (=bổ ngữ).
+b. Bob ate the pizza and the hamburger. the pizza and the hamburger là ngữ đoạn danh từ có chức năng như tham tố tân ngữ.
+c. Bob ate the pizza with a fork. – with a fork là sung ngữ.
+d. Bob ate the pizza with a fork on Tuesday. – with a fork và on Tuesday đều là sung ngữ.
+Tham tố tân ngữ thường hay nằm gần phần trung tâm hơn sung ngữ:
+
+a. the collection of figurines (bổ ngữ) in the dining room (sung ngữ)
+b. *the collection in the dining room (sung ngữ) of figurines (bổ ngữ)
+Sung ngữ có thể đẳng kết với các sung ngữ khác, nhưng không thể đẳng kết với tham tố:
+
+a. *Bob ate the pizza and with a fork.
+b. Bob ate with a fork and with a spoon.
+
+
+=== Tham tố tùy ý so với sung ngữ ===
+Sự phân biệt giữa tham tố và sung ngữ thực ra lại ít rõ ràng hơn các trường hợp mà các đề xuất chẩn đoán đơn giản bên trên nêu ra. Hầu hết nhận định về sự phân biệt tham tố với sung ngữ ghi nhận được thêm mấy sự phân chia nữa cơ. Có một nhận định thì có phân chia thêm ra tham tố bắt buộc và tham số tùy ý. Tham số tùy ý thì có vẻ có mô thức giống như sung tố khi chỉ có mỗi phép chẩn đoán lược bỏ được dùng, ví dụ:
+
+a. Fred ate a hamburger.
+b. Fred ate. – a hamburger không phải là tham tố bắt buộc, nhưng nó có thể là tham tố tùy ý (và quả là vậy).
+a. Sam helped us.
+b. Sam helped – us không phải là tham tố bắt buộc, nhưng nó có thể là tham tố tùy ý (và quả là vậy).
+Sự tồn tại của tham tố tùy ý làm lu mờ đi lằn ranh giữa tham tố và sung ngữ một cách đáng kể. Ngoài các phép chẩn đoán bên trên thì phải sử dụng thêm nhiều chẩn đoán nữa mới có thể khu biệt giữa sung ngữ và tham tố tùy ý. Một phép chẩn đoán nữa là phép thử tiểu cú quan hệ. Thành tố kiểm thử được di chuyển từ tiểu cú mẹ sang một tiểu cú quan hệ hạ cấp mới, đặt ở đằng sau cụm từ which occurred/happened. Nếu kết quả không chấp nhận được thì thành tố kiểm thử chắc hẳn không phải là sung ngữ:
+
+a. Fred ate a hamburger.
+b. Fred ate. – a hamburger không phải là tham tố bắt buộc.
+c. *Fred ate, which occurred a hamburger. – a hamburger không phải là sung ngữ, tức nó phải là tham tố tùy ý.
+a. Sam helped us.
+b. Sam helped. – us không phải là tham tố bắt buộc.
+c. *Sam helped, which occurred us. – us không phải là sung ngữ, tức nó phải là tham tố tùy ý.
+Một ưu điểm đặc thù của phép thử tiểu cú quan hệ đó là khả năng khu biệt được nhiều tham tố với ngữ đoạn giới từ sung ngữ, ví dụ:
+
+a. We are working on the problem.
+b. We are working.
+c. *We are working, which is occurring on the problem. – on the problem là tham tố tùy ý.
+a. They spoke to the class.
+b. They spoke.
+c. *They spoke, which occurred to the class. – to the class là tham tố tùy ý.
+Độ đáng tin cây của phép chẩn đoán tiểu cú quan hệ thực ra là có hạn. Chẳng hạn, nó lại chỉ ra sai rằng nhiều sung ngữ tình thái và phương thức là tham tố. Việc này là minh chứng cho sự khó khăn trong việc mang lại một phép chẩn đoán tuyệt đối cho sự phân biệt đang bàn. Dẫu có nhiều khó khăn, hầu hết lý thuyết cú pháp và ngữ pháp thì ở một mặt người ta đều khu biệt tham tố với sung ngữ và ở một mặt khác người ta đều khu biệt tham tố tùy ý với sung ngữ, và hai hướng này đều dành vị trí chính yếu cho những sự phân chia này trong lý thuyết bao quát ở đây.
+
+
+== Vị ngữ so với sung ngữ ==
+Nhiều ngữ đoạn có vẻ ngoài trông như sung ngữ nhưng trên thực tế lại là (một phần của) vị ngữ. Sự lẫn lộn đấy hay xảy ra với động từ liên hệ, đặc biệt là với dạng của động từ be, ví dụ:
+
+It is under the bush.
+The party is at seven o'clock.
+Các ngữ đoạn giới từ trong các câu trên không phải là sung ngữ hay tham tố gì cả. Giới từ trong mỗi trường hợp đây là một phần của vị ngữ chính thì mới đúng. Vị ngữ chính trong câu đầu tiên là is under, vị ngữ này nhận hai tham tố It và the bush. Tương tự, vị ngữ chính trong câu thứ hai là is at, vị ngữ này nhận hai tham tố The party và seven o'clock. Việc khu biệt giữa vị ngữ, tham tố, và sung ngữ trở nên đặc biệt khó khăn khi có dính líu đến vị ngữ thứ cấp, chẳng hạn như vị ngữ kết quả, ví dụ:
+
+That made him tired.
+Vị ngữ kết quả tired có thể được nhìn nhận như một tham tố của vị ngữ chính made. Nhuwg rõ ràng nó cũng là vị ngữ cho him. Những ví dụ như thế này minh họa rằng việc khu biệt vị ngữ, tham tố, và sung ngữ có thể trở nên khó khăn và có nhiều trường hợp trong đó biểu đạt đã cho thì có chức năng theo nhiều cách chứ không phải một.
+
+
+=== Tổng quan ===
+Biểu đồ sau đây là tổng quan cách phân chia hiện nay:
+
+Biểu đồ tổng quan này ghi nhận ba kiểu thực thể: vị ngữ, tham tố, và sung ngữ, mà ở chỗ tham tố còn được phân chia thêm thành hai cái là bắt buộc và tùy ý.
+
+
+== Thể hiện sung ngữ ==
+Nhiều lý thuyết cú pháp và ngữ pháp sử dụng cây để thể hiện cấu trúc của câu. Nhiều quy ước khác nhau đã được dùng để khu biệt giữa tham tố và sung ngữ trong cây đấy. Trong ngữ pháp cấu trúc ngữ đoạn, nhiều sung ngữ được khu biệt khỏi tham tố ở mức độ sung ngữ của vị ngữ trung tâm sẽ xuất hiện trong cấu trúc ở mức cao hơn so với tham tố tân ngữ của vị ngữ đó. Ở ví dụ sau đây, sung ngữ (Adv hay PP) được nối vào nút phóng chiếu phía bên trên của vị ngữ trung tâm (là VP ngang cấp với sung ngữ) và nằm ở bên phải tham tố tân ngữ (NP hay N):
+
+Tham tố tân ngữ (N hay NP) ở mỗi ví dụ đều được xác định ở mức nó là nút chị em với V và xuất hiện bên phải V, còn cấp bậc của trạng từ early với PP before class thì nằm ở vị trí cao hơn sang bên phải và phía bên trên tham tố tân ngữ. Ngược lại, các kiểu sung ngữ khác thì được cho là nối vào một vị trí ở giữa tham tố chủ ngữ và vị ngữ trung tâm, hoặc phía bên trên và phía bên trái của tham tố chủ ngữ, ví dụ:Chủ ngữ (N) được xác định là tham tố ở mức nó là nút chị em với V(P) và nằm phía bên trái V(P). Trạng từ tình thái certainly được cho thấy là sung ngữ ở mức nối vào nút phóng chiếu trung cấp của V, hoặc nối vào nút phóng chiếu của S. Trong lý thuyết X-bar, sung ngữ đều được thể hiện là thành phần chị em với mức X' và làm nút con của mức X' khác: [X' sung_ngữ [X'...]].
+Còn những lý thuyết mà cho rằng cấu trúc câu có ít phân tầng hơn các phân tích vừa rồi thì đôi khi sử dụng một quy ước đặc biệt để khu biệt sung ngữ khỏi tham tố. Chẳng hạn, một số ngữ pháp phụ thuộc thì dùng đường mũi tên phụ thuộc để đánh dấu sung ngữ, ví dụ:
+
+Các đường mũi tên phụ thuộc thì đều trỏ ra khỏi sung ngữ và hướng về thành tố chi phối của sung ngữ đấy. Các mũi tên xác định được các sung ngữ: Yesterday, probably, many times, very, very long, và that you like. Các đường phụ thuộc không có mũi tên thì xác định được Sam, Susan, that very long story that you like, v.v. là các tham tố (của một trong các vị ngữ trong câu này).
+
+
+== Thuật ngữ trong bài ==
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==

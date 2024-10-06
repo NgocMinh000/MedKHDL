@@ -1,0 +1,23 @@
+Trong số liệu thống kê và nghiên cứu, độ ổn định bên trong hay tính đồng nhất thường là một biện pháp dựa trên các mối tương quan giữa mục khác nhau trên cùng một bài kiểm tra (hoặc cùng một công nghệ lớn hơn test). Nó biện pháp cho dù một số mục đề nghị để đo lường cùng chung xây dựng sản xuất điểm tương tự. Ví dụ, nếu một câu trả lời đồng ý với câu "tôi thích đi xe đạp" và "tôi đã rất thích đạp xe trong quá khứ", và không đồng ý với câu "tôi ghét xe đạp", điều này sẽ chỉ của tính ổn định tốt bên trong của các test.
+
+
+== Cronbach's alpha ==
+Độ ổn định bên trong thường đo với Cronbach là alpha, một số liệu thống kê tính từ cặp mối tương quan giữa mục. tính đồng nhất khoảng giữa tiêu cực, vô cực và một. Hệ số alpha sẽ tiêu cực bất cứ khi nào có lớn hơn trong thể thay đổi hơn giữa thể thay đổi.
+Các quy tắc chấp nhận mô tả tính đồng nhất như sau:
+
+Độ tin cậy cao (0.95 hoặc cao hơn) không nhất thiết phải mong muốn, như này cho thấy rằng các mặt hàng có thể được dự phòng. Mục tiêu trong thiết kế một công cụ đáng tin cậy là cho điểm trên các item tương tự cho là có liên quan (nội bộ phù hợp), nhưng cho từng đóng góp một số thông tin duy nhất là tốt. Chú ý hơn nữa mà Cronbach's alpha nhất thiết phải là cao hơn cho kiểm tra đo thêm cấu trúc thu nhỏ, và thấp hơn khi chung chung hơn cấu trúc rộng hơn được đo. Hiện tượng này, cùng với một số lý do khác, lập luận chống lại sử dụng mục tiêu cắt giá trị cho độ ổn định bên trong các phương pháp. Alpha cũng là một chức năng của các số item vì vậy ngắn hơn các thang đo thường sẽ có thấp tin cậy ước tính sơ vẫn còn có một lợi thế trong nhiều trường hợp.
+Một sự thay thế bằng cách suy nghĩ về nội bộ quán đó là mức độ mà tất cả các item của một test đo cùng một tiềm ẩn biến. Lợi thế của việc này quan điểm hơn khái niệm của một cao trung bình tương quan giữa các item của một bài kiểm tra – quan điểm cơ bản Cronbach's alpha – đó là trung bình mục tương quan bị ảnh hưởng bởi skewness (trong tương quan phân bố item) giống các mục trung bình khác. Như vậy, trong khi các phương thức mục tương quan zero khi các mục của một thử nghiệm nhiều biện pháp không liên quan tiềm ẩn biến, item trung bình tương quan trong những trường hợp như vậy sẽ được lớn hơn không. Do đó, trong khi người lý tưởng của đo là dành cho tất cả các mặt hàng của một thử nghiệm để đo lường cùng một tiềm ẩn biến, alpha đã được chứng minh nhiều thời gian để đạt được khá giá trị cao ngay cả khi các thiết lập của các mục biện pháp không liên quan nhiều tiềm ẩn biến.
+Các phân cấp "hệ số omega" có thể là một phù hợp hơn chỉ số của mức độ mà tất cả các mục trong một bài kiểm tra đo cùng một tiềm ẩn biến. Một số biện pháp khác nhau của tính đồng nhất được đánh giá bởi Revelle & Zinbarg (2009).
+
+
+== Xem thêm ==
+Cronbach's alpha
+Tính ổn định (thống kê)
+Độ tin cậy (thống kê)
+
+
+== Tài liệu tham khảo ==
+
+
+== Link ngoài ==
+http://www.wilderdom.com/personality/L3-2EssentialsGoodPsychologicalTest.html Lưu trữ 2009-08-05 tại Wayback Machine

@@ -1,0 +1,18 @@
+Trong điện toán lý thuyết, phân vùng phổ hoặc phân vùng spectral clustering trong tiếng Anh là một loại phân vùng dữ liệu có tính đến các hiệu ứng quang phổ của đầu vào của nó. Phân vùng quang phổ thường sử dụng các hàm riêng của một ma trận tương tự nhau. So với các thuật toán cổ điển như trung bình K, thì kỹ thuật này cung cấp lợi thế của việc phân loại các bộ dữ liệu cấu trúc "phi hình cầu" trong một không gian biểu diễn phù hợp.
+
+
+== Định nghĩa ==
+Phân vùng quang phổ là một phương pháp phân vùng trong các nhóm K dựa trên việc giảm thiểu tiêu chí loại " cắt " (cắt đơn giản tại K = 2 hoặc cắt nhiều lần tại K≥2). Hai biện pháp này thể hiện sự gắn kết nội bộ của các nhóm công thức, liên quan đến sự phân ly của chúng với nhau. Chúng là các hàm trực tiếp của một ma trận tương tự nhau giữa các đối tượng, được ký hiệu là S. 
+
+
+== Phân vùng dữ liệu trong không gian quang phổ ==
+Phân vùng dữ liệu được thực hiện trên ma trận X. Thật vậy, bước đầu tiên của nó là xem xét từng hàng của ma trận này là đại diện cho một đối tượng trong không gian quang phổ (theo kích thước K). Bước thứ hai  là áp dụng thuật toán phân loại không giám sát trên ma trận này. Việc phân vùng dữ liệu trong các nhóm K  được giới hạn trong việc gán đối tượng ban đầu x i cho nhóm k khi và chỉ khi dòng thứ i của X được gán cho nhóm k.
+
+
+== Ứng dụng ==
+Lập chỉ mục và tìm kiếm theo nội dung ,
+Tìm kiếm tài liệu Web ,
+Phân đoạn hình ảnh ,
+Phân tích thị trường,
+Phân tích tài liệu ,
+Phân loại không giám sát.

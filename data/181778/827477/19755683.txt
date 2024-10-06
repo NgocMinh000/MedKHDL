@@ -1,0 +1,19 @@
+Trong sinh lý học, quy luật tất cả hoặc không có gì cho rằng nếu một tế bào thần kinh được kích thích, nó sẽ luôn tạo xung động với biên độ tối đa. Dù cường độ hay thời gian của nguồn kích thích có tăng lên, độ cao của xung động cũng không bao giờ đổi. Kết luận: sợi thần kinh chỉ phản ứng tối đa hoặc không phản ứng. 
+
+Quy luật này được đưa ra đầu tiên bởi nhà sinh lý học người Mỹ Henry Pickering Bowditch vào năm 1871, nhưng là về sự co của tim: Một kích thích đến tim chỉ khiến tim co bóp nếu cường độ của nó đủ lớn; và nếu nó thành công làm điều đó, trái tim sẽ co bóp với mức độ lớn nhất có thể, phù hợp với điều kiện của các cơ tim lúc đó chứ hoàn toàn không phụ thuộc vào cường độ của kích thích.  Sau đó vào năm 1909, Keith Lucas đã phát hiện ra rằng quy luật này cũng có thể được áp dụng lên cơ vân. Ngoài ra, từng sợi thần kinh riêng lẻ cũng hoạt động theo quy luật này.  
+
+
+== Mối quan hệ giữa kích thích và phản ứng ==
+
+Độ lớn của điện thế hoạt động của  sợi thần kinh không phụ thuộc vào cường độ của kích thích. Khi kích thích quá yếu (dưới ngưỡng), sợi thần kinh không phản ứng. Khi kích thích đủ mạnh (đạt ngưỡng), sợi thần kinh phản ứng bằng một xung động thần kinh ở mức tối đa. Tính chất này của tế bào thần kinh gọi là mối quan hệ tất-cả-hoặc-không-có-gì. Đơn vị thực hiện của mối quan hệ này của mỗi loại mô là khác nhau: của mô thần kinh là sợi thần kinh, của mô cơ vân là sợi cơ vân, và của trái tim là toàn bộ tâm nhĩ hoặc tâm thất.   
+Tuy nhiên, những kích thích không đạt ngưỡng vẫn tạo nên một điện trương lực cục bộ, độ lớn của điện thế sẽ tăng dần với sự tăng của kích thích, cho tới đạt ngưỡng và phản ứng đáp lại. Điều này thể hiện mối quan hệ tất-cả-hoặc-không-có-gì.  
+Những gì ở trên chỉ áp dụng cho một sợi thần kinh đơn lẻ. Còn nếu xét một thân thần kinh (cụm tế bào thần kinh), kích thích càng lớn thì càng nhiều sợi thần kinh phản ứng. Kích thích vừa đạt ngưỡng sẽ chỉ đủ để những sợi thần kinh rất nhạy cảm phản ứng, còn những sợi thần kinh trơ hơn thì cần kích thích mạnh hơn. Nên xung động của thân thần kinh tăng dần khi kích thích tăng dần, cho đến khi tất cả các sợi thần kinh đều đã phản ứng.  
+Cơ tim cũng có thể được kích thích, và chúng phản ứng lại bằng cách co bóp. Nếu kích thích bên ngoài quá thấp, phản ứng co bóp sẽ không diễn ra; nếu kích thích đạt ngưỡng, phản ứng co bóp diễn ra hoàn toàn và tối đa, phù hợp với tình trạng của tim lúc đó. Vì thế, tâm nhĩ và tâm thất hoạt động như một đơn vị duy nhất, nên một kích thích đạt ngưỡng sẽ tạo phản ứng co bóp cho cả hai bộ phần này. Độ mạnh của phản ứng co bóp chỉ phụ thuộc vào tình trạng của cơ tim, chứ không phụ thuộc vào cường độ kích thích. 
+Trong trường hợp của sợi cơ, mỗi sợi cơ sẽ không phải ứng nếu kích thích quá yếu. Tuy nhiên, chúng sẽ phản ứng tối đa nếu kích thích đạt ngưỡng. Sự co cơ sẽ không tăng nếu cường độ kích thích tăng. Tuy nhiên, kích thích lớn hơn sẽ làm nhiều sợi cơ hoạt động hơn và vì thế mô cơ bấp đó sẽ co mạnh hơn. 
+
+
+== Xem thêm ==
+Đơn vị tuyến tính chỉnh lưu (khoa học máy tính)
+
+
+== Tham khảo ==

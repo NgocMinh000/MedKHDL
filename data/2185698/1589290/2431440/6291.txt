@@ -1,0 +1,55 @@
+Hệ tuần hoàn là hệ cơ quan có chức năng tuần hoàn máu trong cơ thể của hầu hết các động vật. Hệ tuần hoàn vận chuyển chất dinh dưỡng, oxy, cacbon đioxyt, hormone, tế bào máu ra và vào các tế bào trong cơ thể để nuôi dưỡng nó và giúp chống lại bệnh tật, ổn định nhiệt độ cơ thể và độ pH, và để duy trì cân bằng nội môi. Bên cạnh đó, hệ tuần hoàn tiếp nhận sản phẩm phân huỷ (chất thải, CO2,..) do tế bào thải ra qua nước mô rồi theo máu đến các cơ quan bài tiết để thải ra ngoài.
+
+
+== Tổng quan chung ==
+Diện tích bề mặt cơ thể rất nhỏ so với thể tích cho nên sự khuếch tán của các chất qua bề mặt cơ thể không đáp ứng được yêu cầu của cơ thể.
+Khoảng cách bên trong rất lớn, gây khó khăn cho sự khuếch tán.
+Phần lớn bề mặt cơ thể của động vật sống trên cạn không thấm nước vì vậy có tác dụng giữ nước.
+Các cơ quan chuyên biệt như hệ tiêu hóa, hệ bài tiết,... có trách nhiệm khắc phục các khó khăn trên. Hệ thống tuần hoàn mang các chất từ nơi này đến nơi khác, giúp các cơ quan thực hiện tốt chức năng của chúng.
+
+
+=== Chức năng ===
+Vận chuyển oxy và chất dinh dưỡng đến các cơ quan trong cơ thể.
+Vận chuyển các chất sản phẩm bài tiết ra khỏi tế bào.
+Có vai trò trong hệ miễn dịch chống lại sự nhiễm khuẩn.
+Vận chuyển hormone.
+Tham gia vào quá trình đông máu, bảo vệ cơ thể
+
+
+=== Cơ quan ===
+Dịch tuần hoàn: còn gọi là máu, dùng để vận chuyển oxygen và chất dinh dưỡng, khí O2 đến các tế bào cũng như mang chất thải từ tế bào trở về và thoát ra ngoài bằng các cơ quan bài tiết. Máu bao gồm: 45% tế bào máu (hồng cầu, bạch cầu, tiểu cầu) và 55% huyết tương (90% nước, 10% các chất khác: vitamin, muối khoáng,..)
+Tim: thực chất là một máy bơm, tạo sự chênh lệch về áp suất để làm cho máu lưu thông. Tim gồm 4 ngăn (2 ngăn tâm nhĩ ở phía trên bao gồm tâm nhĩ phải và tâm nhĩ trái, 2 ngăn tâm thất ở phía dưới bao gồm tâm thất phải và tâm thất trái), giữa tâm thất và tâm nhĩ là van tim (van 2 lá bên trái, van ba lá bên phải)
+Mạch máu: dùng để vận chuyển máu, bao gồm: động mạch, mao mạch và tĩnh mạch.
+
+
+=== Các dạng ===
+
+
+==== Hệ thống tuần hoàn hở ====
+Hệ tuần hoàn hở (có ở đa số Thân mềm, trừ mực ống và bạch tuộc có hệ tuần hoàn kín, và Chân khớp) là hệ tuần hoàn không có mao mạch. Gọi là "hở" vì máu có thể thoát ra khỏi hệ thống tuần hoàn. Máu được tim bơm vào một khoang chính gọi là "khoang cơ thể" bao xung quanh các cơ quan, cho phép các mô trao đổi chất trực tiếp với máu. Sau đó máu quay lại tim bằng hệ thống mạch góp. Hệ thống này chỉ thích hợp với các động vật nhỏ như động vật chân khớp hoặc thân mềm.
+
+
+==== Hệ thống tuần hoàn kín ====
+Hệ thống tuần hoàn kín là hệ thống tuần hoàn ở đó máu lưu thông liên tục trong mạng lưới mạch máu. Trong hệ tuần hoàn này, máu được lưu thông dưới áp lực cao, và do đó, tốc độ chảy của máu sẽ nhanh hơn. Các tế bào của mô không tiếp xúc trực tiếp với máu nhưng tắm trong dịch mô. Dịch mô được hình thành từ máu nhờ quá trình lọc qua thành mao mạch. Ở động vật có xương sống, đa số dịch mô quay trở lại mao mạch với áp suất thấp hơn nhưng một số lại được gom lại vào một hệ thống dẫn riêng biệt gọi là các mạch bạch huyết. Chúng sẽ đem dịch mô trở lại vòng tuần hoàn với áp lực thấp hơn áp lực của dịch mô. Hệ thống tuần hoàn kiểu này hoạt động rất có hiệu quả và là nhân tố quan trọng trong quá trình tiến hóa của các loài động vật có xương sống cỡ lớn.
+
+
+==== Hệ thống tuần hoàn đơn ====
+Hệ thống tuần hoàn đơn là hệ thống tuần hoàn mà máu chỉ đi qua tim một lần trước khi đến các mô của cơ thể. Các loài cá thường có hệ thống tuần hoàn như thế này vì chúng có được đệm đỡ từ môi trường xung quanh và thân nhiệt thay đổi theo nhiệt độ môi trường. Trong hệ tuần hoàn đơn, máu từ tim đi ra dưới áp lực thấp và chảy đến mang qua động mạch vào mang. Sau khi được oxi hóa, máu được tập trung vào động mạch ra mang, chúng gom lại để thành một mạch máu lớn duy nhất gọi là động mạch lưng chảy dọc theo thân cá. Các nhánh của động mạch chủ lưng trực tiếp đi đến các cơ quan trong cơ thể. Sau khi được khử oxi, máu được tập trung dưới áp suất thấp vào một khoang chứa máu lớn gọi là xoang tĩnh mạch. Các xoang chứa máu có thể tích lớn, từ đó máu chảy đến tim.
+
+
+==== Hệ thống tuần hoàn kép ====
+Hệ thống tuần hoàn kép là hệ thống tuần hoàn trong đó máu sau khi được oxy hóa sẽ trở lại tim lần thứ hai trước khi được phân phối đến các mô trong cơ thể. Do đi qua tim hai lần nên áp lực của máu và tốc độ dòng chảy rất cao. Hệ thống tuần hoàn kép gồm hai vòng tuần hoàn nhỏ hơn là vòng tuần hoàn phổi và vòng tuần hoàn hệ thống. Lưỡng cư, Bò sát, Chim và Thú có hệ thống tuần hoàn kép như thế này.
+
+Vòng tuần hoàn phổi: Máu sau khi bị khử oxy được đưa vào tâm nhĩ phải ở trong tim, từ đây máu được chuyển sang tâm thất phải và được bơm lên phổi qua động mạch phổi. Ở phổi, máu giải thoát khí CO2 và hấp thụ oxy rồi quay trở lại tim qua tĩnh mạch phổi.
+Vòng tuần hoàn hệ thống: máu chảy dưới áp lực cao từ tâm thất trái qua động mạch chủ để phân phối đi khắp cơ thể. Sau khi trao đổi chất với các tế bào trong mô, máu trở lại tâm nhĩ phải qua tĩnh mạch chủ trên và tĩnh mạch chủ dưới kết thúc vòng tuần hoàn.
+
+
+== Xem thêm ==
+Tim
+Mạch máu
+Giải phẫu cơ thể người
+
+
+== Tham khảo ==
+
+W.D. Phillips and T.J. Chilton, Biology, Oxford University Press, 1991

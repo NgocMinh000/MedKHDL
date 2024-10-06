@@ -1,0 +1,31 @@
+Ho gà (tiếng Anh: Whooping cough) là ho từng chuỗi kế tiếp nhau, càng lúc càng nhanh rồi yếu dần, sau đó có giai đoạn hít vào thật sâu nghe như tiếng gà gáy, sau cơn ho thì mặt đỏ môi tím, hai mí mắt sưng, tĩnh mạch cổ nổi.
+Ho gà là một trong các bệnh rất hay lây và làm chết nhiều người nhất trong các loại bệnh có thể phòng ngừa được bằng vắc-xin. Mỗi năm có khoảng 30 - 50 triệu bệnh nhân ho gà và 300 ngàn tử vong (theo thống kê của WHO) . Đa số tử vong ở trẻ dưới 1 tuổi. Hơn 90% căn bệnh xảy ra tại các nước chậm tiến.
+Bệnh do vi trùng Bordetella pertussis gây ra; một chứng ho tương tự nhưng nhẹ hơn do Bordetella parapertussis.
+Lịch sử từ thời thế kỷ 12 đã có mô tả chứng bệnh ho gà, đến năm 1578 thì Guillaume de Baillou liệt kê về căn bệnh rõ ràng hơn. Vi trùng B. pertussis được Jules Bordet và Octave Gengou tìm ra năm 1906, sau đó họ bào chế được vắc-xin ngừa hệnh ho gà. Toàn bộ genome của B. pertussis (gồm 4.086.186 cặp base) được xác định năm 2002.
+
+
+== Nguyên nhân ==
+Sau 7 - 10 ngày ủ bệnh, trẻ bị ho gà thường nhảy mũi, ho nhẹ rồi nước mũi chảy ra nhiều. Một hai tuần sau, ho nhiều, dài hơn, và đến thành từng cơn ho sặc sụa. Vì ho nhiều không đủ thời giờ hít hơi vào, trẻ thường ráng hít mạnh sau cơn ho, không khí vào nhanh, qua đường hô hấp có nhiều chất nhấy tạo âm thanh rít như tiếng rù cổ của gà. Cơn ho dữ dội và lâu sẽ làm trẻ nôn ói, mệt và dần dần khó thở. Khi nôn ói nhiều quá trẻ dễ bị thiếu dinh dưỡng. Cơn ho có thể tự phát hay do cười, nói, ngáp. Sau 1 -2 tháng, cơn ho bớt dần và người bệnh hồi phục.
+Ho gà có thể làm người bệnh suy yếu và dễ bị biến chứng như thiếu dinh dưỡng, viêm phổi, viêm não, tăng áp phổi, nhiễm trùng cơ hội.
+Vì kháng thể chống ho gà thiếu hiệu lực vĩnh viễn, nhiều người bị ho gà lần nữa khi lớn lên. Vắc-xin chống ho gà cũng không có hiệu lực lâu dài. Phần lớn những người lớn bị ho gà đã từng có tiêm chủng phòng ngừa bệnh này khi còn bé. Tuy những người này có thể triệu chứng không nặng, họ vẫn lây truyền bệnh cho người thiếu miễn nhiễm chung quanh. Vi trùng ho gà có nhiều trong nước dãi từ mũi hay họng của người bệnh, tung ra ngoài ho hay nhảy mũi và theo không khí bay vào hệ hô hấp của người khác. Vì trong thời gian đầu triệu chứng ho gà không khác gì những chứng bệnh cảm thông thường, người mang bệnh ho gà tiếp tục sinh hoạt trong công chúng và lây bệnh cho nhiều người khác.
+
+
+== Điều trị ==
+Bệnh nhân trưởng thành thường chỉ đến khám bệnh khi ho nhiều tuần lễ không khỏi. Ở trẻ em, cha mẹ lo ngại vì trẻ ho lâu, khó thở hoặc sụt ký. Một số trẻ ho liên tục đến độ mệt xỉu, thiếu dinh dưỡng, thiếu nước, cần chăm sóc trong bệnh viện.
+Phương pháp chẩn đoán dựa vào phép cấy vi trùng, xét nghiệm PCR nước dãi hút lấy từ sau mũi họng. Vì vi trùng ho gà chỉ có trong cơ thể trong 3 tuần đầu tiên của bệnh, xét nghiệm cấy và PCR sau thời gian này không có ích trong chẩn đoán. Trong trường hợp người trưởng thành bị ho lâu ngày không khỏi, xét nghiệm máu có thể cho thông tin về kháng thể chống ho gà.
+Vì lý do nêu trên, bệnh nhân ho gà thường bắt đầu dùng thuốc kháng sinh (thí dụ: erythromycin, azithromycin, co-trimoxazole) 3-4 tuần sau khi nhiễm bệnh. Vì sử dụng quá trễ, thuốc có thể làm giảm khả năng lây bệnh sang người khác nhưng có lẽ không thay đổi mấy thời gian bị bệnh. Những người ở gần người bị ho gà (thí dụ: sống chung gia đình, làm việc chung văn phòng v.v...) nếu kịp uống thuốc kháng sinh phòng ngừa trong một hai tuần khi mới nhiễm bệnh có thể tránh được các triệu chứng nặng của ho gà.
+
+
+== Vắc-xin ==
+Vắc-xin cho vi trùng B. pertussis được bào chế lần đầu tiên năm 1926 - do Dr. Louis W. Sauer. Vắc-xin lúc đó có toàn thể tế bào vi trùng. Ngày nay, vắc-xin không có màng tế bào, hiệu lực cao và ít có tác dụng phụ. Tuy nhiên, miễn nhiễm ho gà không được lâu dài như những vắc-xin khác. Do đó các cơ quan chủng ngừa đề nghị tiêm chủng trẻ em càng sớm càng tốt, và tiêm nhiều đợt, suốt các tuổi từ 2 tháng đến 15 tuổi. Vắc-xin ho gà thường được cho chung vào một liều với vắc-xin phong đòn gánh, bạch hầu, viêm gan siêu vi B, Haemophilus influenzae, Polio - goi chung là Infanrix Hexa - sáu món trong 1 mũi chích).
+Trước khi có loại vắc-xin không màng bào, cơ quan tiêm chủng không khuyên chủng ngừa trên tuổi 7, vì ngại phản ứng phụ như động kinh hay bại xụi. Ngày nay, vắc-xin được bào chế không mang màng bào và có thể dùng cho người trưởng thành. Tuy nhiên không nên tiêm chủng những người đã từng có phản ứng phụ trầm trọng.
+Lịch trình chủng ngừa tại Úc
+
+Nguồn: Trung tâm chủng ngừa Úc
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Pertussis at Todar's Online Textbook of Bacteriology

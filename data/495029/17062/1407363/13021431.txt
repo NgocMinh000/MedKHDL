@@ -1,0 +1,16 @@
+Siêu âm 3D là một kỹ thuật siêu âm y khoa, thường được sử dụng trong các chẩn đoán thai nhi, tim, hậu môn-trực tràng và mạch máu. Siêu âm 3D đề cập cụ thể tới việc hiển thị khối lượng dữ liệu siêu âm và cũng được gọi là siêu âm 4 chiều (không gian 3 chiều cộng với chiều thời gian) khi nó liên quan đến một loạt dữ liệu 3D được thu thập theo thời gian.
+Khi tạo ra một khối lượng dữ liệu 3D siêu âm có thể được thu thập theo 4 cách phổ biến. Tay tự do, bao gồm việc nghiêng đầu dò và chụp một loạt các hình ảnh siêu âm và ghi lại định hướng đầu dò cho mỗi lát cắt. Về mặt cơ học, nơi có sonde tuyến tính nội tuyến được xử lý bởi một động cơ bên trong đầu dò. Sử dụng một endoprobe, tạo ra dữ liệu bằng cách chèn một đầu dò và sau đó loại bỏ các biến năng một cách có kiểm soát. Công nghệ thứ tư là bộ chuyển đổi mảng ma trận sử dụng chùm tia tới điểm lấy mẫu trong toàn bộ vùng có hình kim tự tháp.
+Siêu âm 3D có thể chẩn đoán chính xác các bất thường về não nhất định trên các “điểm mềm” trong hộp sọ trong tuần thứ 15 hoặc 16 của thai kỳ.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+The History of Ultrasounds (including 3D ultrasounds)
+The Endowment for Human Development cung cấp nhiều siêu âm 4D có thể được xem trực tuyến.
+Scans uncover secrets of the womb BBC News
+About the discovery of medical ultrasonography
+Learn how to perform 3D/4d Ultrasounds
+Safety Concerns Lưu trữ 2020-05-13 tại Wayback Machine Chi tiết một số vấn đề về sức khoẻ đối với chẩn đoán không được kiểm soát này
+3D Ultrasound Clinic and Education Facility Lưu trữ 2018-03-17 tại Wayback Machine A 3D Ultrasound clinic in Sacramento, CA that specializes in performing 3D ultrasound and training sonographers.

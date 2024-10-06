@@ -1,0 +1,39 @@
+
+== Kiểm tra siêu âm phased array ==
+Nhiều người đã biết rõ các ứng dụng tạo hình ảnh siêu âm trong y tế, ở đó sóng âm tần số cao được sử dụng để tạo ra các hình ảnh cắt lớp độ nét cao của các cơ quan bên trong cơ thể người. Siêu âm trong y học thường được thực hiện với các đầu dò đặc biệt gồm nhiều biến tử cùng với phần cứng và phần mềm của chúng. Thế nhưng ứng dụng của công nghệ siêu âm đầu dò dãy tổ hợp pha không chỉ giới hạn trong chẩn đoán y học. Trong những năm gần đây, hệ thống tổ hợp pha ngày càng được sử dụng nhiều hơn trong công nghiệp cung cấp thông tin cũng như sự hình dung cao hơn trong kiểm tra siêu âm thông thường bao gồm kiểm tra mối hàn, kiểm tra độ liên kết, phát hiện vết nứt trong khai thác v,v.
+
+
+== Siêu âm phased array là gì? ==
+Đầu dò siêu âm thông thường cho NDT thường bao gồm hoặc là một biến tử vừa tạo ra vừa thu sóng âm tần số cao, hoặc cặp hai biến tử, một cho phát và một cho thu. Tuy nhiên, đầu dò dãy tổ hợp pha thường bao gồm từ 16 đến 256 biến tử nhỏ riêng biệt, mỗi biến tử có thể tạo xung riêng rẽ. Chúng có thể được sắp đặt theo dải, vòng tròn, hoặc có hình dạng phức tạp hơn. Cũng như đối với đầu dò thông thường, các đầu dò dãy tổ hợp pha có thể được thiết kế cho sử dụng tiếp xúc trực tiếp, hoặc kết nối với phần nêm để tạo các đầu dò góc, hoặc sử dụng cho kỹ thuật nhúng với sóng âm truyền qua nước tới chi tiết kiểm tra. Tần số đầu dò thường nằm trong dải từ 2 MHz đến 10 MHz. Hệ thống dãy tổ hợp pha cũng bao gồm thiết bị máy tính tinh vi có khả năng điều khiển đầu dò đa biến tử, thu nhận và số hóa xung quay trở lại và biểu diễn thông tin của xung trên các khổ tiêu chuẩn khác nhau. Không giống như các thiết bị dò khuyết tật siêu âm thông thường, Hệ thống dãy tổ hợp pha có thể quét chùm tia dưới cả dải góc khúc xạ hoặc theo dọc theo đường thẳng, hoặc hội tụ ở những độ sâu khác nhau, do đó tăng tính linh hoạt và khả năng trong thiết lập kiểm tra.
+
+
+== Hình ảnh thu được trông như thế nào? ==
+Trong phần lớn các ứng dụng phát hiện khuyết tật và đo chiều dày, số liệu kiểm tra siêu âm sẽ dựa trên thông tin về thời gian và biên độ thu nhận được qua xử lý sóng dạng RF. Dạng sóng và thông tin từ chúng sẽ được hiển thị bằng một trong bốn dạng: A-scans, B-scans, C-scans, hoặc S-scans. Phần này sẽ giới thiệu các hình ảnh hiển thị ví dụ của siêu âm thông thường và của hệ thống tổ hợp pha.
+
+
+=== Hiển thị dạng A-Scan ===
+A-scan là thể hiện đơn giản của sóng RF biểu diễn thời gian và biên độ của tín hiệu siêu âm, như hiển thị trên các thiết bị dò khuyết tật siêu âm thông thường hoặc các thiết bị đo chiều dày có hiển thị dạng sóng. Dạng sóng A-scan hiển thị phản xạ từ một vị trí chùm tia trên chi tiết kiểm tra. Thiết bị dò khuyết tật A-scan dưới đây hiển thị xung phản xạ từ hai lỗ khoan cạnh trên mẫu đối chứng bằng thép. Cột sóng âm từ của đầu dò tiếp xúc một biến tử đập vào hai trong ba lỗ và tạo ra hai xung phản xạ khác biệt ở thời gian khác nhau tỉ lệ thuận với chiều sâu của các lỗ.
+Đầu dò góc một biến tử sử dụng với thiết bị dò khuyết tật siêu âm thông thường sẽ tạo ra chùm tia theo một góc. Khi chùm tia mở rộng nó sẽ làm cho đường kính chùm tia tăng lên theo khoảng cách, diện tích bao trùm hoặc trường nhìn của đầu dò góc thông thường vẫn sẽ hạn chế trong một góc. Trong ví dụ dưới đây, nêm 45 độ tại một vị trí cố định có thể phát hiện hai lỗ khoan cạnh trong mẫu vì chúng nằm trong chùm tia, nhưng không thể phát hiện lỗ thứ ba nếu không dịch chuyển đầu dò lên phía trước.
+Hệ thống tổ hợp pha sẽ hiển thị A-scan tương tự để đối chứng, tuy nhiên trong phần lớn các trường hợp chúng còn được bổ sung thêm dạng B-scans, C-scans, hoặc S-scans như dưới đây. Các dạng hiển thị hình ảnh tiêu chuẩn trợ giúp cho người kiểm tra có thể hình dung dạng và vị trí của khuyết tật trong chi tiết kiểm tra.
+
+
+=== Hiển thị dạng B-Scan ===
+B-scan là hình ảnh mặt cắt đứng của chi tiết, hiển thị chiều sâu của mặt phản xạ và vị trí theo chiều dọc của nó. Hiển thị B-scan yêu cầu chùm tia quét dọc theo trục đã chọn của chi tiết, hoặc là cơ học hoặc là điện tử, khi lưu trữ số liệu. Trong trường hợp dưới đây B-scan hiển thị hai mặt phản xạ sâu và một mặt phản xạ nông hơn tương ứng với vị trí các lỗ khoan trong chi tiết. Với thiết bị siêu âm thông thường, đầu dò phải di chuyển dọc theo chi tiết.
+
+
+=== Hiển thị dạng C-Scan ===
+C-scan là hình ảnh hai chiều biểu diễn hình chiếu từ trên xuống chi tiết kiểm tra, tương tự như hình ảnh chụp X-quang, trong đó màu sắc đặc trưng cho biên độ ở mỗi điểm trong chi tiết được vẽ trên hệ toạ độ x-y. Với thiết bị thông thường, đầu dò một biến tử phải dịch chuyển theo trường quét x-y trên khắp bề mặt chi tiết. Còn với hệ thống dãy tổ hợp pha, đầu dò chỉ dịch chuyển theo một trục trong khi chùm tia quét điện tử theo trục còn lại. Bộ mã kích thước thường được sử dụng trong những trường hợp kích thước tương ứng của hình ảnh cần được duy trì, mặc dù quét bằng tay không có bộ mã kích thước cũng vẫn có thể cung cấp những thông tin hữu ích trong nhiều trường hợp. Những hình ảnh C-scan của mẫu đối chứng với hệ thống quét nhúng thông thường với đầu dò nhúng hội tụ, và với hệ thống dãy tổ hợp pha sử dụng bộ mã hoá kích thước quét tay và đầu dò dãy thẳng. Trong khi độ phân giải không hoàn toàn tương đương, có nhiều vấn đề cần xem xét. Hệ thống tổ hợp pha có thể sách tay ra ngoại trường, khi mà hệ thống thông thường không thể, và giá chỉ bằng 1/3. Thêm vào đó hình ảnh của tổ hợp pha chỉ hoàn thành trong vài giây, khi mà quét nhúng thông thường cần tới vài phút.
+
+
+=== Hiển thị dạng S-Scan ===
+Hình ảnh quét dạng S-scan hoặc quét hình quạt hiển thị hình ảnh cắt hai chiều thu từ sê ri các đường quét A-scans sau đó được vẽ theo thời gian trễ và góc khúc xạ. Trục hoành tương ứng với chiều rộng của chi tiết còn trục tung tương ứng với độ sâu. Chùm tia quét theo hàng loạt góc tạo thành hình ảnh mặt cắt hình nón. Cần phải ghi nhận rằng trong trường hợp này quét bằng đầu dò dãy tổ hợp pha có thể hiển thị được cả ba lỗ từ một vị trí của đầu dò.
+
+
+== Siêu âm phased array được sử dụng ở đâu? ==
+Hệ thống dãy tổ hợp pha hoàn toàn có thể sử dụng trong hầu hết các công việc kiểm tra mà thiết bị dò khuyết tật siêu âm đã từng sử dụng. Ứng dụng quan trọng nhất là kiểm tra và phát hiện vết nứt của mối hàn, công việc kiểm tra đó được thực hiện ở rất nhiều ngành công nghiệp khác nhau như hàng không, năng lượng, dầu khí, các nhà cung cấp phôi kim loại thanh và ống, xây dựng và bảo dưỡng đường ống, các kết cấu kim loại, và trong sản xuất nói chung. Công nghệ tổ hợp pha còn được sử dụng hiệu quả trong xác định hình dạng chiều dày còn lại trong các ứng dụng kiểm tra sự ăn mòn.
+Tiện lợi của công nghệ tổ hợp pha so với siêu âm thông thường là khả năng sử dụng nhiều biến tử để hướng, hội tụ, và quét chùm tia chỉ với một đầu dò đơn. Hướng chùm tia, thường nói tới quét dạng quạt, có thể sử dụng để vẽ chi tiết ở những góc thích hợp. Điều đó đơn giản đi rất nhiều khi kiểm tra chi tiết có hình dạng phức tạp. Diện tích tiếp xúc của đầu dò nhỏ và khả năng quét chùm tia mà không cần dịch chuyển đầu dò cũng giúp cho việc kiểm tra các chi tiết mà sự tiếp cận cho quét cơ học bị hạn chế. Quét hình quạt cũng được sử dụng nhiều để kiểm tra mối hàn. Khả năng kiểm tra mối hàn với nhiều góc quét từ một đầu dò đã tăng đáng kể khả năng phát hiện các bất liên tục. Hội tụ điện tử cho phép tối ưu hình dạng và kích thước của chùm tia tại vị trí có thể xuất hiện khuyết tật, do đó tối ưu khả năng phát hiện. Khả năng hội tụ tại nhiều độ sâu cũng tăng khả năng xác định kích thước các khuyết tật quan trọng cho những kiểm tra lớn. Hội tụ cũng cải thiện được tỉ lệ tín hiệu/nhiễu trong các ứng dụng, và quét điện tử qua nhiều các nhóm biến tử cho phép tạo ra hình ảnh C-scan rất nhanh.
+
+
+== Tham khảo ==
+
+[1] Tom Nelligan và Dan Kass, Olympus NDT, www.olympus-ims.com

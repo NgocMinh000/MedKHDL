@@ -1,0 +1,37 @@
+Tỷ lệ tử vong ca bệnh (Case fatality rate -  CFR), hay chính xác hơn là Rủi ro tử vong ca bệnh, là tỷ lệ số người tử vong trên tổng số người được chẩn đoán mắc bệnh được ghi nhận. CFR thường được sử dụng cho các bệnh với các khóa học thời gian rời rạc, hạn chế, chẳng hạn như bùng phát các bệnh nhiễm trùng cấp tính. CFR chỉ có thể được coi là cuối cùng khi tất cả các trường hợp đã được giải quyết (đã chết hoặc đã được phục hồi). Số CFR trong quá trình bùng phát với mức tăng cao hàng ngày và thường giảm dần theo thời gian.
+
+
+== Thuật ngữ ==
+Tỷ lệ tử vong - thường bị nhầm lẫn với CFR - là thước đo số người chết (nói chung hoặc do một nguyên nhân cụ thể) trong một dân số, được chia cho tổng số dân số đó, trên một đơn vị thời gian.  Về mặt kỹ thuật, CFR, lấy các giá trị từ 0 đến 1, thực sự là thước đo rủi ro (nghĩa là phần trăm chết do mắc bệnh). Chúng không phải là tỷ lệ - không có tỷ lệ nào được giới hạn trong phạm vi từ 0 đến 1 và cũng không phải là tỷ lệ hoặc mật độ tỷ lệ chết do mắc bệnh. Do đó, ngay cả thông qua thuật ngữ tỷ lệ tử vong trường hợp và CFR thường xuất hiện trong tài liệu khoa học, nếu muốn chính xác, thì thuật ngữ này đã được sử dụng không chính xác, vì nó không tính đến thời gian từ khi bệnh khởi phát đến khi tử vong.
+CFR%= Số người chết vì bệnh : Số ca bệnh được ghi nhận ×100
+
+
+=== Tính toán ví dụ ===
+Giả sử 9 người chết trong số 100 người trong cộng đồng đều được chẩn đoán mắc bệnh tương tự. Điều này có nghĩa là trong số 100 người được chẩn đoán chính thức mắc bệnh, có chín người chết và 91 người đã hồi phục. CFR, do đó, sẽ là 9%. Nếu một số trường hợp chưa được giải quyết (đã chết hoặc đã phục hồi) tại thời điểm phân tích, điều này có thể dẫn đến sai lệch trong việc ước tính CFR.
+
+
+== Tỉ lệ tử vong do lây nhiễm ==
+Tỷ lệ tử vong do lây nhiễm (Infection Fatality Rate - IFR) cũng áp dụng cho các bệnh truyền nhiễm, nhưng nó đại diện cho tỷ lệ tử vong cho tất cả những người nhiễm bệnh, bao gồm tất cả các đối tượng không có triệu chứng và không được chẩn đoán. Nó có liên quan với CFR, nhưng bao gồm cả các ca nhiễm bệnh không triệu chứng hoặc nhẹ, ở những người khỏe mạnh. Khác với CFR, IFR không chỉ dựa trên số ca bệnh được ghi nhận, do đó sẽ không bị thiên lệch do chính sách xét nghiệm. IFR thường được tính toán dựa trên các dữ liệu nghiên cứu khảo sát/ thống kê/ điều tra miễn dịch.  IFR là thước đo cho mức độ nghiêm trọng của việc nhiễm bệnh đối với dân số. 
+IFR%= Số người chết vì bệnh : Số người nhiễm bệnh ×100
+IFR khác với CFR ở chỗ nó nhằm ước tính tỷ lệ tử vong ở cả người bệnh và người khỏe mạnh bị nhiễm: bao gồm người bệnh đã được phát hiện (các ca bệnh) và những người bệnh chưa được phát hiện (nhóm không có triệu chứng hoặc chưa được xét nghiệm/ thống kê). Những người bị nhiễm bệnh, nhưng không có triệu chứng, được cho là không biểu hiện rõ ràng, nhiễm bệnh thầm lặng hoặc cận lâm sàng vẫn có thể vô tình lây truyền cho người khác. Theo định nghĩa, IFR không thể lớn hơn CFR, bởi vì IFR thêm các trường hợp không có triệu chứng vào mẫu số phép tính của nó.
+
+
+== Ví dụ ==
+Các ví dụ sau đây sẽ đề xuất phạm vi CFR có thể có đối với các bệnh trong thế giới thực:
+
+CFR cho cúm Tây Ban Nha (1918) là> 2,5%,  nhưng chỉ khoảng 0,1% đối với cúm châu Á (1956-58) và cúm Hồng Kông (1968-69), và <0,1% đối với các đại dịch cúm khác.
+Bệnh Legionnaires có CFR ≈15%.
+Sốt vàng, ngay cả khi được điều trị, có CFR trong khoảng 20-50%.
+Bệnh dịch hạch có tiên lượng tốt nhất trong ba biến thể chính của bệnh dịch hạch, nhưng nếu không được điều trị, có CFR> 60%.
+Virus Ebola là một trong những loại virus nguy hiểm nhất, với CFR cao tới 90%.
+Bệnh Naegleria (còn được gọi là viêm màng não do amip nguyên phát), gây ra bởi Naegleria fowleri đơn bào (amip ăn não amíp), gần như luôn dẫn đến tử vong, và do đó có CFR> 99%.
+Virus bệnh dại hầu như gây tử vong nếu không được điều trị và do đó, CFR đã tiếp cận 100%; tuy nhiên, nó thường đáp ứng tốt nếu được điều trị kịp thời trong cùng ngày.
+Bệnh Prion tiến triển và luôn gây tử vong, bất kể điều trị.
+
+
+== Xem thêm ==
+Tỷ lệ tử vong
+Chỉ số mức độ nghiêm trọng của đại dịch
+
+
+== Tham khảo ==

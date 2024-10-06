@@ -1,0 +1,24 @@
+Phòng điều khiển (Control room) hay Phòng điều hành (Operations room) là một không gian trung tâm nơi có thể giám sát và kiểm soát một cơ sở vật chất lớn hoặc dịch vụ phân tán về mặt vật lý. Phòng điều khiển thường là một phần của trung tâm chỉ huy lớn hơn. Mục đích của phòng điều khiển là kiểm soát sản xuất và đóng vai trò là không gian trung tâm nơi có thể giám sát và kiểm soát một cơ sở vật chất lớn hoặc dịch vụ phân tán về mặt vật lý. Phòng điều khiển trung tâm được sử dụng phổ biến trong các nhà máy vào những năm 1920. Phòng điều khiển của các cơ sở quan trọng thường được bảo mật chặt chẽ và công chúng không thể tiếp cận được. Nhiều màn hình điện tử và bảng điều khiển thường xuất hiện và cũng có thể có khu vực tường hiển thị (Display wall) lớn hiển thị từ tất cả các vị trí bên trong không gian làm việc. Bản thân một số phòng điều khiển được giám sát video và ghi âm liên tục vì mục đích đảm bảo an ninh và trách nhiệm nhân sự. 
+
+
+== Đại cương ==
+
+Nhiều phòng điều khiển được sử dụng, vận hành trên cơ sở làm việc liên tục thông tầm  "24/7/365" và có thể có nhiều người trực mọi lúc (chẳng hạn như thực hiện "quy tắc hai người"), để đảm bảo cảnh giới liên tục. Các không gian phòng điều khiển có mục đích đặc biệt khác có thể được thiết lập tạm thời cho các dự án đặc biệt (chẳng hạn như sứ mệnh oceanographicexplorer) và đóng cửa hoặc tháo dỡ sau khi dự án kết thúc. Thiết kế của phòng điều khiển kết hợp các tính năng công thái học và thẩm mỹ bao gồm luồng giao thông tối ưu, âm thanh, ánh sáng cũng như đảm bảo điều kiện sức khỏe và sự an toàn của người lao động, nhân viên kỹ thuật cao. Những cân nhắc về mặt công thái học xác định vị trí của con người và thiết bị để đảm bảo rằng người vận hành có thể dễ dàng di chuyển vào, ra và xung quanh phòng điều khiển, đồng thời có thể tương tác với nhau mà không gặp bất kỳ trở ngại nào trong các tình huống khẩn cấp và hạn chế tiếng ồn và những phiền nhiễu khác ở mức tối thiểu.
+Phòng điều khiển thường được tìm thấy trong các khu vực như:
+
+Nhà máy điện hạt nhân và trạm phát điện khác
+Nhà máy lọc dầu và nhà máy hóa chất
+Các hãng hàng không, nơi họ thường được gọi là trung tâm kiểm soát không lưu hoạt động và chịu trách nhiệm điều phối, giám sát và hỗ trợ hoạt động chuyến bay
+Các cơ sở giao thông chính như hệ thống cầu, đường hầm, kênh và việc vận chuyển nhanh, nơi thường có nhân viên túc trực 24 giờ một ngày để giám sát và báo cáo về tắc nghẽn giao thông và ứng phó với các trường hợp khẩn cấp xảy ra
+Các căn cứ quân sự (có quy mô từ silo tên lửa đến NORAD), còn được gọi là phòng hoạt động)
+Trung tâm NASA (Bộ điều khiển chuyến bay làm việc ở một số "phòng điều khiển chuyến bay" trong trung tâm điều khiển chuyến bays; các cơ sở liên kết, chẳng hạn như Phòng thí nghiệm Sức đẩy Phản lực có phòng điều khiển riêng)
+Trung tâm dữ liệu được vi tính hóa, thường phục vụ người dùng từ xa ở nhiều múi giờ
+Trung tâm điều hành mạng
+Các tổ chức lớn như trường đại học, bệnh viện, cơ sở nghiên cứu lớn (như phòng thí nghiệm máy gia tốc hạt), nhà tù an ninh nghiêm ngặt/biệt giam và công viên giải trí
+Dịch vụ khẩn cấp bao gồm cảnh sát, dịch vụ cứu hỏa và dịch vụ y tế khẩn cấp
+Trung tâm cuộc gọi/Trung tâm tổng đài có thể sử dụng chúng để giám sát thông tin liên lạc đến và đi của đại diện dịch vụ khách hàng và để cung cấp giám sát chung
+Các trung tâm điều hành đường sắt, chẳng hạn như Trung tâm điều phối Harriman của Liên minh Thái Bình Dương, kiểm soát các hoạt động đường sắt trên hàng ngàn dặm đường sắt. Nhân viên của bộ phận Điều phối viên tàu tại các cơ sở này suốt ngày đêm để quản lý hoạt động đường sắt hiệu quả. Ở Anh, chúng thường được điều hành riêng biệt bởi từng công ty điều hành tàu hoặc bởi Network Rail, và bao gồm cả đội tàu và nguồn cung cấp đầu máy toa xe.
+
+
+== Chú thích ==
+Lindsay Bjerregaard (6 tháng 12 năm 2017). “Managing System Operations At JetBlue”. MRO network. Penton. The airline tries to anticipate operational needs and stay ahead of potential disruptions as fleet expansion continues.

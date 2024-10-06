@@ -1,0 +1,44 @@
+{{Infobox anatomy
+
+Ốc tai là một phần của tai trong tham gia vào quá trình nghe. Nó là một khoang hình xoắn ốc trong mê đạo xương, ở người có 2,75 vòng quanh trục của nó, được gọi là modiolus. Một thành phần cốt lõi của ốc tai là cơ quan Corti, cơ quan cảm giác của thính giác, được phân bố dọc theo vách ngăn tách các buồng chứa dịch trong ống xoắn ốc của ốc tai.
+Tên gọi ốc tai có nguồn gốc từ tiếng Hi Lạp cổ  κοχλίας (kokhlias) 'xoắn ốc, vỏ ốc'.
+
+
+== Cấu trúc ==
+
+Ốc tai (số nhiều: cochleae) là một khoang xương xoắn ốc, rỗng, hình nón, trong đó sóng lan truyền từ đáy (gần tai giữa và cửa sổ bầu dục) đến đỉnh (đỉnh hoặc tâm của xoắn ốc). Kênh xoắn ốc của ốc tai là một phần của mê đạo xương của tai trong, dài khoảng 30mm và tạo ra 23⁄4 vòng quanh modiolus. Các cấu trúc ốc tai bao gồm:
+
+Ba ống hoặc khoang:
+Ống tiền đình (scala vestibuli): Chứa dịch perilymph, nằm ở phía trên ống ốc tai và tiếp giáp với cửa sổ bầu dục.
+Ống nhĩ (scala tympani): Chứa dịch perilymph, nằm ở phía dưới ống ốc tai và kết thúc ở cửa sổ tròn.
+Ống ốc tai (scala media): Chứa dịch endolymph, một vùng có nồng độ ion kali cao, nơi các lông mao của tế bào tóc nhô vào.
+Helicotrema: Vị trí hợp nhất của ống nhĩ và ống tiền đình, ở đỉnh ốc tai.
+Màng Reissner: Màng ngăn cách ống tiền đình với ống ốc tai.
+Phiến xoắn xương: Một cấu trúc chính ngăn cách ống ốc tai với ống nhĩ.
+Màng đáy: Một cấu trúc chính ngăn cách ống ốc tai với ống nhĩ và xác định các đặc tính truyền sóng cơ học của vách ngăn ốc tai.
+Cơ quan Corti: Biểu mô cảm giác, một lớp tế bào trên màng đáy, trong đó các tế bào tóc cảm giác được cung cấp năng lượng bởi sự chênh lệch điện thế giữa dịch perilymph và dịch endolymph.
+tế bào tóc: Tế bào cảm giác trong cơ quan Corti, có đỉnh là các cấu trúc giống như lông được gọi là stereocilia.
+Dải xoắn ốc: Một dải mô liên kết hỗ trợ ốc tai bên ngoài.
+Ốc tai là một phần của tai trong có hình dạng giống như vỏ ốc (cochlea trong tiếng Hy Lạp có nghĩa là ốc sên). Ốc tai nhận âm thanh dưới dạng rung động, gây ra chuyển động của các lông mao. Các lông mao sau đó chuyển đổi những rung động này thành các xung thần kinh được đưa lên não để giải thích. Hai trong số ba phần chất lỏng là các ống dẫn và phần thứ ba là 'Cơ quan Corti' phát hiện các xung áp lực di chuyển dọc theo dây thần kinh thính giác đến não. Hai ống dẫn được gọi là ống tiền đình và ống nhĩ.
+
+
+=== Cấu trúc vi mô ===
+Các thành của ốc tai rỗng được làm bằng xương, với lớp lót mỏng và tinh tế của mô biểu. Ống xoắn này được chia qua hầu hết chiều dài của nó bởi một vách ngăn màng bên trong. Hai không gian bên ngoài chứa đầy chất lỏng (ống hoặc scalae) được hình thành bởi vách ngăn phân chia này. Ở đỉnh của các ống cuộn xoắn ốc như vỏ ốc, hướng của chất lỏng được đảo ngược, do đó biến đổi ống tiền đình thành ống nhĩ. Khu vực này được gọi là helicotrema. Sự tiếp tục này tại helicotrema cho phép chất lỏng được đẩy vào ống tiền đình bởi cửa sổ bầu dục di chuyển trở lại ra ngoài thông qua chuyển động trong ống nhĩ và sự lệch của cửa sổ tròn; vì chất lỏng gần như không nén được và thành xương cứng nhắc, nên điều cần thiết là thể tích chất lỏng được bảo toàn phải thoát ra ngoài ở đâu đó.
+Vách ngăn theo chiều dài chia hầu hết ốc tai thực chất là một ống chứa đầy chất lỏng, 'ống' thứ ba. Cột trung tâm này được gọi là ống ốc tai. Chất lỏng của nó, dịch nội tai, cũng chứa các chất điện giải và protein, nhưng về mặt hóa học thì khá khác với dịch ngoại tai. Trong khi dịch ngoại tai giàu ion natri, dịch nội tai giàu ion kali, tạo ra một điện thế ion, điện.
+Các tế bào tóc được sắp xếp thành bốn hàng trong cơ quan Corti dọc theo toàn bộ chiều dài của cuộn ốc tai. Ba hàng bao gồm các tế bào tóc ngoài (OHCs) và một hàng bao gồm các tế bào tóc trong (IHCs). Các tế bào tóc trong cung cấp đầu ra thần kinh chính của ốc tai. Ngược lại, các tế bào tóc ngoài chủ yếu 'nhận' đầu vào thần kinh từ não, điều này ảnh hưởng đến khả năng vận động của chúng như một phần của "bộ khuếch đại trước" cơ học của ốc tai. Đầu vào cho OHC đến từ thể ô liu thông qua bó sợi olivocochlear trung bình.
+Ống ốc tai gần như phức tạp như chính tai. Ống ốc tai được giới hạn bởi ba mặt bởi màng đáy, dải xoắn ốc và màng Reissner. Dải xoắn ốc là một lớp mao mạch và tế bào tiết giàu; màng Reissner là một màng mỏng ngăn cách dịch nội tai với dịch ngoại tai; và màng đáy là một màng cứng về mặt cơ học, hỗ trợ cơ quan thụ cảm của thính giác, cơ quan Corti và xác định các đặc tính truyền sóng cơ học của hệ thống ốc tai.
+
+
+== Các loài động vật khác ==
+Ốc tai dạng xoắn là duy nhất đối với động vật có vú. Ở chim và các động vật có xương sống không phải động vật có vú khác, khoang chứa các tế bào cảm giác thính giác đôi khi cũng được gọi là "ốc tai", mặc dù nó không cuộn tròn. Thay vào đó, nó tạo thành một ống có đầu bịt kín, còn được gọi là ống ốc tai. Sự khác biệt này dường như đã phát triển song song với sự khác biệt về phạm vi tần số nghe giữa động vật có vú và động vật có xương sống không phải động vật có vú. Phạm vi tần số cao hơn ở động vật có vú một phần là do cơ chế khuếch đại âm thanh độc đáo của chúng bằng rung động thân tế bào chủ động của các tế bào tóc ngoài. Tuy nhiên, độ phân giải tần số không tốt hơn ở động vật có vú so với hầu hết các loài thằn lằn và chim, nhưng giới hạn tần số trên cao hơn - đôi khi cao hơn nhiều. Hầu hết các loài chim không nghe được ở tần số trên 4–5 kHz, tần số tối đa hiện được biết là ~ 11 kHz ở cú chuồng. Một số loài động vật biển có vú nghe được ở tần số lên đến 200 kHz. Một khoang xoắn dài, thay vì một khoang ngắn và thẳng, cung cấp nhiều không gian hơn cho các quãng tám bổ sung của dải tần nghe, và đã làm cho một số hành vi có nguồn gốc cao liên quan đến thính giác của động vật có vú trở nên khả thi.
+Vì việc nghiên cứu ốc tai về cơ bản nên tập trung vào mức độ của các tế bào tóc, nên điều quan trọng là phải lưu ý đến sự khác biệt về giải phẫu và sinh lý giữa các tế bào tóc của các loài khác nhau. Ví dụ, ở chim, thay vì các tế bào tóc ngoài và trong, có các tế bào tóc cao và ngắn. Có một số điểm tương đồng đáng chú ý liên quan đến dữ liệu so sánh này. Đối với một, tế bào tóc cao có chức năng rất giống với tế bào tóc trong, và tế bào tóc ngắn, thiếu sự chi phối của sợi thần kinh thính giác afferent, giống với tế bào tóc ngoài. Tuy nhiên, một điểm khác biệt không thể tránh khỏi là trong khi tất cả các tế bào tóc đều được gắn vào màng tectorial ở chim, thì chỉ có các tế bào tóc ngoài được gắn vào màng tectorial ở động vật có vú.
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==
+Dallos, Peter; Popper, Arthur N.; Fay, Richard R. The Cochlea.
+Imbert, Michel; Kay, R. H. (1992). Audition. ISBN 9780262023313.
+Jahn, Anthony F.; Santos-Sacchi, Joseph (2001). Physiology of the Ear. ISBN 9781565939943.
+Roeser, Ross J.; Valente, Michael; Hosford-Dunn, Holly (2007). Audiology. ISBN 9781588905420.

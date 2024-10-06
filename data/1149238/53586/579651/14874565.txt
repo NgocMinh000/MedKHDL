@@ -1,0 +1,32 @@
+Trong sinh thái học hành vi, khái niệm tập tính thích ứng (Adaptive behavior) hay hành vi thích nghi hay phản ứng điều hòa là bất kỳ hành vi nào của động vật mà đóng góp trực tiếp hoặc gián tiếp vào thành công sinh sản của một cá thể, và do đó chịu sự tác động của chọn lọc tự nhiên trong cuộc đấu tranh sinh tồn, đây là một đặc điểm chức năng, nhận thức hoặc hành vi có lợi cho một sinh vật trong môi trường của nó. Khả năng của động vật để phản ứng một cách thích hợp đối với những thay đổi hay thách thức minh chứng cho tính hợp lý hay sự hợp lý thực tiễn về những hành động của nó.
+
+
+== Tổng quan ==
+Các ví dụ bao gồm chăm sóc những cá thể thân thích trong các hành vi vị tha, sự lựa chọn những con đực mạnh nhất, khỏe nhất của những con cái và bảo vệ lãnh thổ hoặc hậu cung khỏi các đối thủ của những con đực. Ngược lại, hành vi không thích nghi (non-adaptive behavior) là bất kỳ hành vi nào phản tác dụng đối với sự sống còn hoặc thành công sinh sản của một cá thể. Các ví dụ có thể bao gồm các hành vi vị tha không chăm sóc cưu mang cho cá thể thân thích, chấp nhận trẻ không liên quan và là cấp dưới trong hệ thống phân cấp thống trị. Thích ứng thường được định nghĩa là các giải pháp tiến hóa cho các vấn đề môi trường tái phát và sinh sản. Sự khác biệt cá thể thường phát sinh thông qua cả hành vi thích ứng di truyền và không di truyền. Cả hai đã được chứng minh là có ảnh hưởng trong sự tiến hóa của các hành vi thích nghi của loài, mặc dù sự thích nghi không di truyền vẫn là một chủ đề gây tranh cãi.
+Quần thể thay đổi thông qua quá trình tiến hóa. Mỗi cá thể trong một quần thể có một vai trò duy nhất trong môi trường cụ thể của nó. Vai trò này, thường được gọi là một hốc sinh thái, chỉ đơn giản là cách một sinh vật sống trong một môi trường liên quan đến những cá thể khác. Trải qua nhiều thế hệ, sinh vật phải thích nghi với điều kiện xung quanh để phát triển vị trí thích hợp. Sinh vật sẽ phát triển khi những thay đổi trong môi trường bên ngoài xảy ra. Các loài thành công nhất trong tự nhiên là những loài có khả năng sử dụng các hành vi thích nghi để xây dựng kiến thức trước đó, do đó làm tăng ngân hàng kiến thức tổng thể của chúng. Đổi lại, điều này sẽ cải thiện sự sống sót và sinh sản tổng thể của chúng. Mặt khác, các sinh vật cũng có thể thể hiện hành vi thích nghi di truyền. Những hành vi này được mã hóa trong gen của chúng và được thừa hưởng từ cha mẹ chúng. Điều này mang lại cho các sinh vật khả năng ứng phó với các tình huống với cơ chế phản ứng bẩm sinh của chúng. Sử dụng các cơ chế này, chúng có thể phản ứng phù hợp với môi trường bên trong và bên ngoài mà không cần phải bắt chước.
+
+
+== Tham khảo ==
+Ecology and Behavior from Biology: The Unity and Diversity of Life 10th edition. Starr and Taggart 2004. Thompson publishers ISBN 0-534-39746-8
+Buss, D.M. and Greiling, H. 1999. Adaptive individual differences. Journal of Personality, 67: 209-243.
+Staddon, J. E. R. (1983). Adaptive Behavior and Learning. Cambridge University Press.
+Eberhard, M.J.W. 1975. The evolution of social behavior by kin selection. The Quarterly Review of Biology, 50: 1-33.
+Smith, J.M. 1964. Group selection and kin selection. Nature, 201: 1145-1147.
+Morin, P.A., Moore, J.J., Chakraborty, R., Jin, L., Goodall, J. and Woodruff, D.S. Kin selection, social structure, gene flow, and the evolution of chimpanzees. Science, 265: 1193-1201.
+Parr, L.A. and de Waal, F.B.M. Visual kin recognition in chimpanzees. Nature, 399: 647-648.
+Peters, J.M., Queller, D.C., Imperatriz-Fonseca, V.L., Roubik, D.W. and Strassmann, J.E. 1999. Mate number, kin selection and social conflicts in stingless bees and honeybees. Proceedings of the Royal Society B, 266: 379-384.
+Queller, D.C. and Strassmann, J.E. 1998. Kin selection and social insects. Bioscience, 48: 165-175.
+Krebs, J.R. 1980. Optimal foraging, predation risk and territory defence. Ardea, 68: 83-90.
+Gese, E.M. 2001. Territorial defense by coyotes (Canis latrans) in Yellowstone National Park, Wyoming: who, how, where, when, and why. Canadian Journal of Zoology, 79: 980-987.
+De Kort, S.R., Eldermire, E.L.B., Cramer, E.R.A. and Vehrencamp, S.L. (2009). The deterrent effect of birdsong in territory defense. Behavioral Ecology, 20: 200-206.
+Yasukawa, K. 1981. Song and territory defense in the red-winged blackbird. The Auk, 98: 185-187.
+Rosell, F. and Nolet, B.A. 1997. Factors affecting scent-marking behavior in Eurasian beaver (Castor fiber). Journal of Chemical Ecology, 3: 673-689.
+Kohn, D. 1976. Two concepts of adaption: Darwin's and psychology's. Journal of the History of the Behavioral Sciences, 12: 367-375.
+Lande, R. and Arnold, S.J. 1983. The measurement of selection on correlated characters. Evolution, 37: 1210-26.
+Haldane, J.B.S. 1953. The measurement of natural selection. Genetics, 1: 480-487.
+Andersson, M. (1995). Sexual Selection. Princeton, New Jersey: Princeton University Press.
+Barlow, G.W. 2005. How do we decide that a species is sex-role reversed?. The Quarterly Review of Biology, 80: 28-35.
+Kazutaka, O., Masanori, K. and Tetsu, S. 2010. Unusual allometry for sexual size dimorphism in a cichlid where males are extremely larger than females. Journal of Biosciences, 35: 257-265.
+McCormick, M.I., Ryen, C.A., Munday, P.L., and Walker, S.P.W. 2010. Differing mechanisms underlie sexual size-dimorphism in two populations of a sex-changing fish. PLoS One, 5: e10616.
+Valdovinos, F.S., Ramos-Jiliberto, R., Garay-Narvaez, L., Urbani, P. and Dunne, J.A. 2010. Consequences of adaptive behavior for the structure and dynamic of food webs. Ecology Letters, 13: 1546-1559.
+Houston, A. and McNamara, J.M. (1999) Models of Adaptive Behavior. Cambridge University Press.

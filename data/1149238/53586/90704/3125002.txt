@@ -1,0 +1,361 @@
+Trong tính toán lượng tử, thuật toán lượng tử là một thuật toán chạy bằng mô hình thực tế của tính toán lượng tử, mô hình được sử dụng phổ biến nhất là mô hình tính toán thông qua mạch lượng tử. Một thuật toán cổ điển (không phải lượng tử) là một chuỗi hữu hạn các chỉ thị, hoặc là một quá trình có thứ tự để giải quyết một vấn đề, trong đó mỗi bước hay một chỉ thị có thể được thực hiện trên máy tính cổ điển. Tương tự, thuật toán lượng tử là một quá trình có thứ tự, trong đó mỗi bước có thể được thực hiện trên một máy tính lượng tử. Mặc dù tất các thuật toán cổ điển có thể được thực hiện trên máy tính lượng tử, thuật ngữ "thuật toán lượng tử" thường được sử dụng cho những thuật toán mà vốn đã liên quan đến lượng tử, hoặc sử dụng một vài thuộc tính cốt lõi của tính toán lượng tử như lại chồng chất lượng tử hay vướng víu lượng tử.
+Tất cả các vấn đề có thể giải quyết trên một máy tính lượng tử cũng có thể giải quyết trên máy tính cổ điển. Trong một số trường hợp, nhiều vấn đề không giải quyết được khi sử dụng máy tính cổ điển vẫn không giải được trên máy tính lượng tử. Điều làm cho những thuật toán lượng tử trở lên thú vị là chúng có thể giải quyết một vài vấn đề nhanh hơn các thuật toán cổ điển.
+Thuật toán nổi tiếng nhất là thuật toán Shor về sự phân tích thành các thừa số, và thuật toán Grover về việc tìm kiếm trên một bộ dữ liệu không có cấu trúc hoặc một danh sách không có thứ tự. Thuật toán của Shor chạy với độ phức tạp logarit, nhanh hơn thuật toán cổ điển nổi tiếng nhất về sự phân tích thành các thừa số - sàng lọc tổng quát số học. Thuật toán của Grover chạy với độ phức tạp theo hàm căn bậc hai, nhanh hơn thuật toán cổ điển tốt nhất với cùng một vấn đề.
+
+
+== Tổng quan ==
+Thuật toán lượng tử thường được mô phỏng, trong mô hình tính toán thông qua mạch lượng tử được sử dụng phổ biến nhất, bằng một mạch lượng tử hoạt động với đầu vào là một vài qubit chứa thông tin lượng tử và kết thúc bằng việc đo lường. Một mạch lượng tử bao gồm những cổng lượng tử đơn giản hoạt động trên các qubit với số lượng xác đình, thường là 2 hoặc 3. Thuật toán lượng tử cũng có thể được diễn tả thông qua những mô hình tính toán lượng tử khác.
+Những thuật toán lượng tử có thể được phân loại bằng những kĩ thuật chủ yếu được sử dụng bởi thuật toán. Một vài kĩ thuật – ý tưởng được sử dụng phổ biến trong thuật toán lượng tử bao gồm biến đổi Fourier lượng tử, khuếch đại biên độ và lý thuyết trường lượng tử topo,... Thuật toán lượng tử cũng có thể được nhóm lại bởi những loại vấn đề đã được giải quyết, ví dụ về khảo sát trên thuật toán lượng tử với những vấn đề đại số.
+
+
+== Thuật toán dựa trên biến đổi Fourier lượng tử ==
+Biến đổi Fourier lượng tử là một phép biến đổi tuyến tính trên các qubit, phép biến đổi này tương tự như biến đổi Fourier rời rạc. Biến đổi Fourier lượng tử là một trong những thuật toán lượng tử quan trọng nhất, nó thường là một phần của các thuật toán lượng tử khác, đặc biệt là thuật toán Shor để phân tích thừa số nguyên tố và tính toán các logarit rời rạc.
+Biến đổi Fourier lượng tử dựa trên thuật toán biến đổi Fourier nhanh của James Cooley và John Tukey. Nó có thể được thực hiện hiệu quả trên máy tính lượng tử, bởi nó có thể triệt tiêu các thành phần bằng cách nhân với các ma trận unita (áp dụng toán tử). Biến đổi Fourier lượng tử có thể được cài đặt và thực hiện trên một mạch lượng tử.
+
+
+=== Thuật toán Deutsch-Jozsa ===
+Bài gốc: Thuật toán Deutsch-Jozsa
+Trong bài toán Deutsch-Jozsa, ta có một hộp đen máy tính lượng tử thực thi một hàm. Đơn giản mà nói, nó nhận đầu vào là một giá trị nhị phân gồm n ký tự và trả về giá trị 0 hoặc 1. Coi như hàm f hoặc là bất biến (trả về 0 cho mọi đầu vào, hoặc trả về 1 cho mọi đầu vào) hoặc là cân bằng (trả về 0 cho 1 nửa số đầu vào, trả về 1 cho nửa còn lại); nhiệm vụ của chúng ta là xác định xem f là bất biến hay cân bằng dựa vào hộp đen.
+
+
+=== Thuật toán của Simon ===
+Bài gốc: Thuật toán của Simon
+Thuật toán của Simon giải quyết một vấn đề hộp đen theo hàm mũ nhanh hơn bất kì một thuật toán cổ điển nào, bao gồm những thuật toán xác suất chặn lỗi. Thuật toán này, đã đạt được một tốc độ với độ phức tạp theo hàm số mũ vượt qua tất cả các thuật toán cổ điển mà chúng ta cho là có hiệu quả, là động lực cho thuật toán phân tích thành thừa số của Shor.
+
+
+=== Thuật toán của Shor ===
+Bài gốc: Thuật toán của Shor
+Thuật toán của Shor giải quyết các bài toán logarit rời rạc và bài toán phân tích thừa số nguyên trong thời gian đa thức (thời gian với độ phức tạp tính theo hàm đa thức), trong khi đó những thuật toán cổ điển nổi tiếng nhất tốn thời gian siêu đa thức (thời gian với độ phức tạp tính theo hàm siêu đa thức). Những bài toán này không được thuộc lớp P hoặc NP đầy đủ. Nó cũng đồng thời là một trong những thuật toán lượng tử giải quyết một vấn đề không phải hộp đen trong thời gian đa thức khi mà những thuật toán cổ điển nổi tiếng nhất chạy trong thời gian siêu đa thức.
+
+
+=== Ước lượng các tổng Gauss ===
+Một tổng Gauss là một loại tổng theo hàm số mũ. Thuật toán cổ điển nổi tiếng nhất về ước lượng những tổng này hoạt động với thời gian chạy theo hàm số mũ. Bởi vì vấn đề logarit rời rạc làm rút gọn phép ước lượng tổng Gauss nên một thuật toán cổ điển hiệu quả về việc ước lượng các tổng Gauss sẽ bao hàm một thuật toán cổ điển hiệu quả về tính toán logarit rời rạc, điều mà không chắc có được. Tuy nhiên, các máy tính lượng tử có thể ước lượng các tổng Gauss đển độ chính xác đa thức trong thời gian đa thức.
+
+
+=== Bài toán cân cá và kiểm tra Fourier ===
+Chúng ta có một máy oracle gồm có n hàm Boolean ngẫu nhiên ánh xạ n xâu bit nhị phân vào một giá trị Boolean. Chúng ta được yêu cầu tìm n xâu bit nhị phân z1, …, zn sao cho
+với phép biển đổi Hadamard – Fourier, ít nhất ¾ các xâu bit thỏa mãn.
+
+  
+    
+      
+        
+          |
+        
+        
+          
+            
+              f
+              ~
+            
+          
+        
+        (
+        
+          z
+          
+            i
+          
+        
+        )
+        
+          |
+        
+        ⩾
+        1
+      
+    
+    {\displaystyle |{\tilde {f}}(z_{i})|\geqslant 1}
+  
+
+Và ít nhất ¼ thỏa mãn
+
+  
+    
+      
+        
+          |
+        
+        
+          
+            
+              f
+              ~
+            
+          
+        
+        (
+        
+          z
+          
+            i
+          
+        
+        )
+        
+          |
+        
+        ⩾
+        2
+      
+    
+    {\displaystyle |{\tilde {f}}(z_{i})|\geqslant 2}
+  
+
+Điều này có thể thực hiện bởi thuật toán xác suất chặn lỗi.
+
+
+== Những thuật toán dựa trên khuếch đại biên độ ==
+Khuếch đại biên độ là một kĩ thuật cho phép khuếch đại trên một vùng không gian con xác định của một trạng thái lượng tử. Những ứng dụng của khuếch đại biên độ thường dẫn đến sự tăng tốc bậc hai trên những thuật toán cổ điển tương ứng. Nó có thể được coi như là một sự tổng quát hóa của thuật toán Grover.
+
+
+=== Thuật toán của Grover ===
+Bài gốc: thuật toán Grover
+Thuật toán của Grover tìm kiếm trên một bộ dữ liệu không có cấu trúc hoặc một danh sách không có thứ tự với N phần tử trong đó một phần tử được đánh dấu, chỉ sử dụng 
+  
+    
+      
+        O
+        (
+        
+          
+            N
+          
+        
+        )
+      
+    
+    {\displaystyle O({\sqrt {N}})}
+  
+ truy vấn thay vì Ω(N) truy vấn dựa theo cách cổ điển. Theo cách cổ điển, Ω(N) truy vấn được yêu cầu chỉ khi chúng ta cho phép những thuật toán xác suất chặn lỗi.
+
+
+=== Đếm lượng tử ===
+Đếm lượng tử giải quyết một cách tổng quát các vấn đề tìm kiếm. Phương pháp này giải quyết vấn đề thông qua đếm số lượng các phần tử được đánh dấu trong một danh sách không có thứ tự, thay vì chỉ phát hiện ra khi một phần tử tồn tại. Đặc biệt hơn nữa, nó có thể đếm số lượng những phần tử được đánh dấu trong danh sách N phần tử, với lỗi  thuộc trong khoảng  
+  
+    
+      
+        Θ
+        (
+        (
+        1
+        
+          /
+        
+        ε
+        )
+        ∗
+        s
+        q
+        r
+        t
+        (
+        N
+        
+          /
+        
+        k
+        )
+        )
+      
+    
+    {\displaystyle \Theta ((1/\varepsilon )*sqrt(N/k))}
+  
+ truy vấn, trong đó 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+ là số lượng phần tử được đánh dấu trong danh sách. Chính xác hơn nữa, thuật toán có đầu ra 
+  
+    
+      
+        
+          k
+          ′
+        
+      
+    
+    {\displaystyle k'}
+  
+ là một ước lượng với 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+, số lượng phần tử được đánh dấu, cùng với độ chính xác phép đo 
+  
+    
+      
+        
+          |
+        
+        k
+        −
+        
+          k
+          ′
+        
+        
+          |
+        
+        ⩽
+        ε
+        k
+      
+    
+    {\displaystyle |k-k'|\leqslant \varepsilon k}
+  
+.
+
+
+== Những thuật toán dựa trên những bước đi lượng tử ==
+Bài gốc: bước đi lượng tử
+Một bước đi lượng tử là sự tương ứng vào thế giới lượng tử của một bước đi ngẫu nhiên cổ điển, có thể được mô tả bằng một phân phối xác suất trên một số trạng thái. Một bước đi lượng tử có thể được mô tả bằng một chồng chất lượng tử trên những trạng thái khác. Những bước đi lượng tử có khả năng tăng tốc theo hàm số mũ cho một số vấn đề hộp đen. Chúng cũng có thể cung cấp tốc độ đa thức cho nhiều vấn đề khác. Một khuôn khổ cho việc tạo ra những thuật toán của bước đi lượng tử tồn tại và là một công cụ tương đối linh hoạt.
+
+
+=== Bài toán yếu tố khác biệt ===
+Bài gốc: Bài toán yếu tố khác biệt
+Vấn đề yếu tố khác biệt là một vấn đề xác định liệu tất cả các phần tử của một danh sách là riêng biệt hay không. Một cách cố điển, Ω(N)struy vấn được yêu cầu cho một danh sách có kích thước N, bởi vấn đề này khó hơn vấn đề tìm kiếm đòi hỏi  Ω(N) truy vấn. Tuy nhiên, nó có thể được giải quyết trong 
+  
+    
+      
+        Θ
+        (
+        
+          N
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \Theta (N^{2/3})}
+  
+  truy vấn trên một máy tính lượng tử. Thuật toán tối ưu được phát triển bởi Andris Ambaini.  Scott Aaronson và Yaoyun Shi là những người đầu tiên chứng minh một cận dưới chặt chẽ cho một nhóm hàm lớn nhưng bị giới hạn. Ambainis and Kutin một cách độc lập (bằng những bằng chứng khác nhau) đã mở rộng nghiên cứu của họ để đạt được cận dưới cho tất cả các hàm.
+
+
+=== Bài toán tìm kiếm tam giác ===
+Bài gốc: Bài toán tìm kiếm tam giác
+Vấn đề tìm kiếm tam giác là một vấn đề xác định liệu có một đồ thị cho sẵn bao gồm một tam giác (một tập hợp kích thước 3). Cận dưới được biết đến nhiều nhất cho các thuật toán lượng tử là Ω(N), nhưng thuật toán tốt nhất được biết đến yêu cầu O(N1.297) truy vấn, một bước cải tiến vượt trội hơn O(N1.3) truy vấn trước đó.
+
+
+=== Đánh giá công thức ===
+Một công thức là một cái cây với một cổng tại mỗi nút trong một bit đầu vào tại mỗi nút lá. Vấn đề là phải đánh giá công thức, cái mà đầu ra nằm ở nút gốc, được cho bởi truy cập oracle tới đầu vào. Một công thức nghiên cứu tốt là một cây nhị phân cân bằng với chỉ cổng NAND. Loại công thức này đòi hỏi Θ(Nc) truy vấn sử dụng một cách ngẫu nhiên (nơi mà  
+  
+    
+      
+        c
+        =
+        l
+        o
+        
+          g
+          
+            2
+          
+        
+        
+          (
+          1
+          +
+          s
+          q
+          r
+          t
+          (
+          33
+          )
+          
+            /
+          
+          4
+          )
+        
+      
+    
+    {\displaystyle c=log_{2}{(1+sqrt(33)/4)}}
+  
+) nhưng có thể được giải quyết qua Θ(N0.5) truy vấn bởi một thuật toán lượng tử. Không có thuật toán lượng tử nào tốt hơn cho trường hợp này được biết đến tới tận khi một công thức được tìm ra cho mô hình máy oracle Hamiltonian khác biệt. Kết quả tương tự cho thiết lập chuẩn mực sớm được theo dõi.
+Những thuật toán lượng tử nhanh cho những hàm phức tạp hơn cũng được biết đến.
+
+
+=== Nhóm giao hoán ===
+Vấn đề là phải xác định liệu một nhóm hộp đen, cho bởi k hàm sinh, có giao hoán hay không. Một nhóm hộp đen là một nhóm với một hàm oracle, hàm mà hẳn đã được dùng để thể hiện một nhóm các toán tử (nhân, nghịch đảo, và so sánh với đồng nhất thức). Chúng ta quan tâm tới độ phức tạp truy vấn, tức là số lượng của những lời gọi oracle cần tới để giải quyết bài toán. Những độ phức tạp truy vấn một cách xác định và ngẫu nhiên là  và   một cách tương ứng. Một thuật toán lượng tử đòi hỏi 
+  
+    
+      
+        Ω
+        (
+        
+          k
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \Omega (k^{2/3})}
+  
+  truy vấn nhưng thuật toán nổi tiếng nhất sử dụng 
+  
+    
+      
+        O
+        (
+        
+          k
+          
+            2
+            
+              /
+            
+            3
+          
+        
+        l
+        o
+        g
+        k
+        )
+      
+    
+    {\displaystyle O(k^{2/3}logk)}
+  
+  truy vấn.
+
+
+== Những vấn đề BQP hoàn chỉnh ==
+
+
+=== Lượng tử bất biến tính toán nút ===
+Witten đã chỉ ra rằng và lý thuyết thuyết trường lượng tử topo Chern – Simons (TQFT) có thể được giải quyết trong trường hợp của những đa thức Jones. Một máy tính lượng tử có thể dựa theo một TQFT, và vì thế xấp xỉ với những đa thức Jones, điều mà như chúng ta biết là rất khó để tính toán một cách cổ điển trong trường hợp tồi nhất.
+
+
+=== Mô hình hóa lượng tử ===
+Vấn đề mà những máy tính lượng tử có thể mạnh hơn máy tính cổ điển bắt nguồn từ quan điểm của Richard Feynman rằng tất cả những máy tính cổ điển có vẻ đòi hỏi thời gian đa thức để mô hình hóa những hệ thống lượng tử đa hạt. Từ đó, ý tưởng về những máy tính lượng tử có thể mô hình hóa các quá trình vật lý lượng tử theo hàm số mũ nhanh hơn những máy tính cổ điển được hình thành. Những thuật toán lượng tử có hiệu suất đã được phát triển để mô phỏng các hệ thống hạt boson và fermion. Trong một số trường hợp nhất định, việc mô hình hóa các phản ứng hóa học vượt quá khả năng của siêu máy tính cổ điển hiện thời chỉ đòi hỏi một vài trăm qubit. Những máy tính lượng tử cũng có thể mô hình hóa một cách có hiệu quả lý thuyết trường lượng tử topo. Bên cạnh mối quan tâm bản chất bên trong của nó, kết quả này đã dẫn đến những thuật toán lượng tử có hiệu suất cao trong việc ước lượng sự bất biến topo "lượng tử " như là những đa thức Jones và HOMFLY.
+
+
+== Tham khảo ==
+Reinhold Blümel - Foundations of Quantum Mechanics: From Photons to Quantum Computers -  chapter 8 and 9, page 192 to page 22
+
+
+== Chú thích ==

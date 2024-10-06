@@ -1,0 +1,43 @@
+Trong khoa học máy tính, đặc biệt là trong biểu diễn tri thức và siêu logic học, lĩnh vực suy luận tự động (automated reasoning) được dành riêng cho việc hiểu các khía cạnh khác nhau của lý trí. Nghiên cứu về suy luận tự động giúp phát triển các chương trình máy tính cho phép máy tính suy luận hoàn toàn, hoặc gần như hoàn toàn tự động. Mặc dù suy luận tự động được coi là một phân ngành của trí tuệ nhân tạo, nó cũng có sự liên kết với khoa học máy tính lý thuyết và triết học.
+Các phân ngành phát triển mạnh nhất của suy luận tự động là "chứng minh định lý tự động" hay "automated theorem proving" (và phân ngành kém tự động hơn nhưng thực tế hơn là "chứng minh định lý tương tác" hay "interactive theorem proving") và "kiểm tra chứng minh tự động" hay "automated proof checking" (được coi là suy luận chính xác đảm bảo theo các giả định cố định). Rất nhiều công trình cũng đã được thực hiện trong suy luận theo loại suy bằng cách sử dụng quy nạp và "hữu ích" hay "tố hồi" (abductive).
+Các chủ đề quan trọng khác bao gồm suy luận trong điều kiện bất định và suy luận phi đơn điệu. Một phần quan trọng của lĩnh vực bất định là lập luận, nơi các ràng buộc về tối thiểu hóa và tính nhất quán được áp dụng bên trên các phép suy luận tự động thông thường. Hệ thống OSCAR của John Pollock là một ví dụ về hệ thống lập luận tự động cụ thể hơn so với một hệ thống chứng minh định lý thông thường.
+Các công cụ và kỹ thuật của suy luận tự động bao gồm logic cổ điển và các phép tính, logic mờ, suy luận Bayes, suy luận với entropy tối đa và nhiều kỹ thuật ngẫu nhiên không chính thức khác.
+
+
+== Những năm đầu ==
+Sự phát triển của logic hình thức đóng vai trò lớn trong lĩnh vực suy luận tự động, và nó cũng dẫn đến sự phát triển của trí tuệ nhân tạo. Một chứng minh hình thức là một chứng minh mà mọi suy luận logic đều được kiểm tra lại với các tiên đề cơ bản của toán học. Tất cả các bước logic trung gian đều được cung cấp mà không ngoại lệ. Không có sự nhờ cậy vào trực giác, ngay cả khi việc chuyển từ trực giác sang logic là thường xuyên. Do đó, chứng minh hình thức này ít trực giác hơn và ít dễ mắc lỗi logic hơn.
+Một số người coi cuộc họp mùa hè Cornell năm 1957, quy tụ nhiều nhà logic học và nhà khoa học máy tính, là khởi đầu của suy luận tự động, hoặc suy luận tự động hóa. Những người khác cho rằng nó bắt đầu trước đó với chương trình Logic Theorist năm 1955 của Newell, Shaw và Simon, hoặc với việc Martin Davis thực hiện quy trình quyết định của Presburger năm 1954 (chứng minh rằng tổng của hai số chẵn là chẵn).
+Suy luận tự động, mặc dù là một lĩnh vực nghiên cứu quan trọng và phổ biến, đã trải qua một "mùa đông AI" vào những năm tám mươi và đầu những năm chín mươi. Tuy nhiên, sau đó lĩnh vực này đã hồi sinh. Ví dụ, vào năm 2005, Microsoft đã bắt đầu sử dụng công nghệ xác minh trong nhiều dự án nội bộ của họ và dự định đưa một ngôn ngữ đặc tả logic và kiểm tra (logical specification and checking language) vào phiên bản Visual C năm 2012.
+
+
+== Những đóng góp đáng kể ==
+Principia Mathematica là một tác phẩm mang tính cột mốc trong logic hình thức được viết bởi Alfred North Whitehead và Bertrand Russell. Principia Mathematica - có nghĩa là Nguyên lý của Toán học - được viết với mục đích suy diễn tất cả hoặc một số biểu thức toán học bằng logic ký hiệu. Principia Mathematica ban đầu được xuất bản trong ba tập vào các năm 1910, 1912 và 1913.
+Logic Theorist (LT) là chương trình đầu tiên được phát triển vào năm 1956 bởi Allen Newell, Cliff Shaw và Herbert A. Simon nhằm "mô phỏng suy luận của con người" trong việc chứng minh các định lý, và đã được thử nghiệm trên năm mươi hai định lý từ chương hai của Principia Mathematica, chứng minh được ba mươi tám trong số đó. Ngoài việc chứng minh các định lý, chương trình đã tìm ra một chứng minh cho một trong những định lý mà còn thanh thoát hơn so với chứng minh của Whitehead và Russell. Sau một lần không thành công trong việc xuất bản kết quả, Newell, Shaw và Herbert đã báo cáo trong ấn phẩm của họ năm 1958, The Next Advance in Operation Research:
+
+"Hiện nay trên thế giới có những cỗ máy biết suy nghĩ, học hỏi và sáng tạo. Hơn nữa, khả năng làm những điều này của chúng sẽ tăng nhanh chóng cho đến khi (trong một tương lai có thể nhìn thấy) phạm vi các vấn đề chúng có thể xử lý sẽ rộng giống với phạm vi mà tâm trí con người đã áp dụng." 
+Ví dụ về các chứng minh hình thức
+
+
+== Hệ thống chứng minh ==
+Boyer-Moore Theorem Prover (NQTHM)
+Thiết kế của NQTHM chịu ảnh hưởng bởi John McCarthy và Woody Bledsoe. Được khởi đầu vào năm 1971 tại Edinburgh, Scotland, đây là hệ thống chứng minh định lý hoàn toàn tự động, được xây dựng bằng Pure Lisp. Các điểm chính của NQTHM bao gồm:
+sử dụng Lisp làm logic làm việc.
+dựa vào nguyên lý định nghĩa cho các hàm đệ quy toàn phần.
+sử dụng rộng rãi việc viết lại và "đánh giá biểu tượng".
+một phương pháp suy diễn dựa trên việc thất bại của đánh giá biểu tượng.
+HOL Light
+Được viết bằng OCaml, HOL Light được thiết kế để có nền tảng logic đơn giản và gọn gàng cùng với một cách triển khai không phức tạp. Đây là một trợ lý chứng minh khác cho logic bậc cao cổ điển.
+Coq
+Phát triển ở Pháp, Coq là một trợ lý chứng minh tự động khác, có thể tự động trích xuất chương trình thực thi từ các đặc tả, dưới dạng mã nguồn của Objective CAML hoặc Haskell. Các thuộc tính, chương trình và chứng minh được chính thức hóa trong cùng một ngôn ngữ gọi là Tính toán của Các Cấu trúc Cảm ứng (Calculus of Inductive Constructions - CIC).
+
+
+== Ứng dụng ==
+Suy luận tự động đã được sử dụng phổ biến nhất để xây dựng các hệ thống chứng minh định lý tự động. Tuy nhiên, hệ thống chứng minh định lý thường yêu cầu một số hướng dẫn của con người để hoạt động hiệu quả, vì vậy nó thường được coi là trợ lý chứng minh. Trong một số trường hợp, các hệ thống chứng minh định lý đã đưa ra các cách tiếp cận mới để chứng minh một định lý. Một ví dụ điển hình là chương trình Logic Theorist, chương trình này đã đưa ra một chứng minh cho một trong các định lý trong cuốn *Principia Mathematica* mà ít bước hơn so với chứng minh của Whitehead và Russell. Các chương trình suy luận tự động đang được áp dụng để giải quyết ngày càng nhiều vấn đề trong logic hình thức, toán học và khoa học máy tính, lập trình logic, xác minh phần mềm và phần cứng, thiết kế mạch và nhiều lĩnh vực khác. Thư viện TPTP (Sutcliffe và Suttner 1998) là một thư viện chứa các vấn đề như vậy, được cập nhật thường xuyên. Ngoài ra còn có một cuộc thi giữa các hệ thống chứng minh định lý tự động được tổ chức thường xuyên tại hội nghị CADE (Pelletier, Sutcliffe và Suttner 2002); các vấn đề cho cuộc thi được chọn từ thư viện TPTP.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Hội thảo quốc tế về việc triển khai logic
+Chuỗi hội thảo về các chủ đề thành công thực nghiệm trong Suy luận Tự động

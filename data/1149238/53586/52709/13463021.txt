@@ -1,0 +1,137 @@
+Quản lý thông tin cá nhân (PIM) là hoạt động mà mọi người thực hiện để thu thập, tổ chức, duy trì, truy xuất và sử dụng các mục thông tin cá nhân như tài liệu (giấy và kỹ thuật số), các trang web và email được sử dụng hàng ngày để hoàn thành các tác vụ(liên quan đến công việc hoặc không) và hoàn thành vai trò khác nhau của một người (như cha mẹ, người lao động, bạn bè, thành viên của cộng đồng, v.v.). Đơn giản hơn, PIM là nghệ thuật làm việc trong cuộc sống thông qua thông tin.
+Trên thực tế, PIM quan tâm đến cách mọi người tổ chức và duy trì bộ sưu tập thông tin cá nhân và các phương pháp có thể giúp mọi người làm như vậy. Mọi người có thể quản lý thông tin theo nhiều cách khác nhau, vì nhiều lý do khác nhau và với nhiều loại thông tin khác nhau. Ví dụ: nhân viên văn phòng có thể quản lý các tài liệu vật lý trong tủ đựng hồ sơ bằng cách đặt chúng vào các thư mục được sắp xếp theo thứ tự chữ cái theo tên dự án hoặc có thể quản lý các tài liệu kỹ thuật số trong các thư mục trong một hệ thống tệp phân cấp. Một phụ huynh có thể thu thập và sắp xếp các bức ảnh của con mình vào một album ảnh bằng cách sử dụng một chương trình tổ chức thời gian hoặc có thể gắn thẻ các bức ảnh kỹ thuật số với tên của trẻ.
+PIM xem xét không chỉ các phương pháp được sử dụng để lưu trữ và tổ chức thông tin, mà còn liên quan đến cách mọi người lấy thông tin từ bộ sưu tập của họ để tái sử dụng. Ví dụ: nhân viên văn phòng có thể định vị lại tài liệu vật lý bằng cách nhớ tên của dự án và tìm kiếm thư mục thích hợp bằng tìm kiếm theo bảng chữ cái. Trên một hệ thống máy tính có hệ thống tệp có thứ bậc, một người có thể cần phải nhớ thư mục cấp cao nhất trong đó một tài liệu được đặt, và sau đó duyệt qua nội dung thư mục để điều hướng tới tài liệu bạn muốn. Hệ thống email thường hỗ trợ các phương pháp bổ sung để tìm lại như tìm kiếm tại chỗ (ví dụ: tìm kiếm theo người gửi, chủ đề, ngày tháng). Các đặc tính của các loại tài liệu, dữ liệu có thể được sử dụng để mô tả chúng (siêu dữ liệu), và các tính năng của các hệ thống được sử dụng để lưu trữ và tổ chức chúng (ví dụ: tìm kiếm điền dã) là tất cả các thành phần có thể ảnh hưởng đến cách người dùng thực hiện quản lý thông tin cá nhân.
+Nghiên cứu, hiểu biết và thực hành PIM có thể giúp các cá nhân và tổ chức làm việc hiệu quả hơn, có thể giúp mọi người giải quyết vấn đề "quá tải thông tin" và có thể nêu bật các chiến lược hữu ích để lưu trữ, tổ chức và tạo điều kiện tiếp cận với thông tin đã lưu.
+Có sáu cách để thông tin có thể được xem là mang tính cá nhân:
+
+Thuộc sở hữu của "tôi"
+Về "tôi"
+Trực tiếp đến "tôi"
+Gửi/Đăng bởi "tôi"
+Trải nghiệm của "tôi"
+Có liên quan đến "tôi"
+Một lý tưởng của PIM là mọi người nên luôn có những thông tin phù hợp ở đúng nơi, đúng hình thức, đầy đủ và chất lượng để đáp ứng nhu cầu hiện tại của họ. Các công nghệ và công cụ như trình quản lý thông tin cá nhân giúp mọi người dành ít thời gian hơn cho các hoạt động tốn nhiều thời gian và dễ bị lỗi của PIM (như tìm kiếm và tổ chức thông tin). Sau đó, họ có cái nhìn sâu sắc hơn trong việc sử dụng sáng suốt, thông minh thời gian của họ, hoặc chỉ đơn giản là tận hưởng thông tin.
+
+
+== Lịch sử và nền tảng ==
+PIM là một lĩnh vực mới với nguồn gốc cổ xưa. Khi miệng thay vì chữ viết tay chiếm ưu thế, trí nhớ của con người là phương tiện chủ yếu để bảo vệ thông tin. Khi thông tin ngày càng được thể hiện dưới dạng giấy, các công cụ đã được phát triển theo thời gian để đáp ứng những thách thức ngày càng tăng về quản lý. Ví dụ, tủ đựng tài liệu đứng hiện tại là một vật dụng  tiêu chuẩn trong nhà và nơi làm việc, lần đầu tiên được thương mại hóa vào năm 1893.
+Với sự gia tăng của máy tính vào những năm 1950, họ quan tâm đến máy tính như một nguồn ẩn dụ và một chiếc giường thử nghiệm để tìm hiểu về khả năng xử lý thông tin và giải quyết vấn đề của con người. Newell và Simon đã đi tiên phong trong việc sử dụng máy tính như một công cụ để mô hình hóa  suy nghĩ của con người. Họ sản xuất ra "Nhà lý luận logic", thường được cho là chương trình trí tuệ nhân tạo đầu tiên (AI). Máy tính của những năm 1950 cũng là một nguồn cảm hứng cho việc phát triển một cách tiếp cận xử lý thông tin đối với hành vi và hoạt động của con người. Sau những năm 1950, nghiên cứu cho thấy máy tính, như là một bộ xử lý biểu tượng, có thể "suy nghĩ" (với mức độ đúng đắn khác nhau) giống như con người, những năm 1960 ngày càng quan tâm đến việc sử dụng máy tính để giúp mọi người suy nghĩ tốt hơn và xử lý thông tin hiệu quả hơn. Cùng với Andries van Dam và những người khác, Ted Nelson, người đã đặt ra từ "siêu văn bản", đã phát triển một trong những hệ thống siêu văn bản đầu tiên, Hệ thống Biên tập Siêu văn bản, vào năm 1968. Cùng năm đó, Douglas Engelbart cũng hoàn thành công việc trên một hệ thống siêu văn bản có tên NLS (Hệ thống oN-Line). Engelbart đã đưa ra khái niệm rằng máy tính có thể được sử dụng để làm tăng thêm trí tuệ của con người. Được báo trước bằng việc xuất bản cuốn sách Tâm lý học nhận thức của Ulric Neisser. Những năm 1960 cũng chứng kiến ​​sự xuất hiện của tâm lý nhận thức như là một nguyên tắc tập trung chủ yếu vào sự hiểu biết tốt hơn về khả năng suy nghĩ, học tập và nhớ của con người.
+Máy tính hỗ trợ cho cá nhân, chứ không phải là máy thu thập số từ xa trong một phòng lạnh, có hiệu lực từ cuối những năm 1970 và trong những năm 1980 để sản xuất máy tính cá nhân với sức mạnh và khả năng di động. Những xu hướng này tiếp tục: sức mạnh tính toán gần tương đương với máy tính để bàn của một thập kỷ trước có thể được tìm thấy trong các thiết bị phù hợp với lòng bàn tay. Cụm từ "Quản lý Thông tin Cá nhân" dường như được sử dụng lần đầu tiên vào những năm 1980 giữa sự phấn khích chung về tiềm năng của máy tính cá nhân để nâng cao đáng kể khả năng của con người trong việc xử lý và quản lý thông tin. Những năm 1980 cũng chứng kiến sự xuất hiện của cái gọi là "công cụ PIM" cung cấp hỗ trợ hạn chế cho việc quản lý những thứ như cuộc hẹn và lập kế hoạch, danh sách việc cần làm, số điện thoại và địa chỉ. Một cộng đồng dành cho việc nghiên cứu và cải thiện tương tác giữa con người và máy tính cũng xuất hiện trong những năm 1980.
+Cũng như sự tập trung thông tin của PIM, các nghiên cứu liên quan đến PIM trong những năm 1980 và 1990 mở rộng ra ngoài nghiên cứu về một thiết bị hoặc ứng dụng cụ thể đối với các hệ sinh thái lớn hơn trong quản lý thông tin, ví dụ như tổ chức văn phòng vật lý và quản lý giấy tờ. Malone mô tả các chiến lược tổ chức cá nhân là 'gọn gàng' hoặc 'lộn xộn' và đã mô tả cách tiếp cận 'nộp hồ sơ' và 'xếp chồng' vào việc tổ chức thông tin. Các nghiên cứu khác cho thấy rằng mọi người thay đổi phương pháp của họ để giữ thông tin theo dự đoán việc sử dụng thông tin đó trong tương lai. Các nghiên cứu đã khám phá những hàm ý thiết thực mà nghiên cứu trí nhớ con người có thể mang trong thiết kế, ví dụ như các hệ thống hồ sơ cá nhân, và các hệ thống thu thập thông tin. Các nghiên cứu đã chứng minh được sự ưa thích của việc điều hướng (trình duyệt, "tìm kiếm theo vị trí) trong việc quay lại các tệp cá nhân, một ưu tiên hiện nay vẫn tồn tại mặc dù đã có những cải thiện đáng kể về hỗ trợ tìm kiếm và việc sử dụng tìm kiếm ngày càng trở thành phương thức trở lại ưa thích của e-mail.
+PIM, một lĩnh vực nghiên cứu hiện đại với một cộng đồng các nhà nghiên cứu tự xác định, bắt nguồn từ một cuộc họp SIG trên PIM tại hội nghị CHI 2004 và Hội thảo Khoa học Quốc gia đặc biệt (NSF) tại Seattle vào năm 2005.
+
+
+== Nghiên cứu ==
+Quan tâm đến nghiên cứu của PIM đã tăng lên trong những năm gần đây. Một mục tiêu trong nghiên cứu của PIM là xác định cách để giới thiệu sự hỗ trợ công cụ mới mà không làm tăng sự phức tạp của thách thức quản lý thông tin của một người. Nghiên cứu về PIM có nghĩa là hiểu rõ hơn về cách mọi người quản lý thông tin qua các công cụ và theo thời gian. Không chỉ đơn giản là để nghiên cứu, ví dụ, e-mail sử dụng trong sự cô lập. Một điểm liên quan là giá trị của một công cụ mới phải được đánh giá theo thời gian và trong một ngữ cảnh rộng hơn của các hoạt động PIM khác nhau của một người.
+Nghiên cứu PIM có thể được tổ chức theo ba hoạt động PIM chính:
+
+
+=== Tìm/tìm lại ===
+Tìm và tìm lại thông tin có thể diễn ra trong không gian công cộng (ví dụ như Internet) hoặc riêng tư (ví dụ: ổ cứng của một người). Nghiên cứu về tìm kiếm phần lớn tập trung vào việc tìm kiếm thông tin công khai (ví dụ) và về cách mọi người tìm kiếm và sử dụng thông tin (hành vi thông tin của con người). Đối với việc tìm lại, người ta phải: a) nhớ (nhìn), gọi lại và nhận ra, và lặp lại. Nhớ có vẻ rất khó khăn ngay cả khi sử dụng dấu trang trực tuyến. Gọi lại và nhận ra là điều thường xảy ra khi mọi người tìm kiếm bằng máy tính để bàn bằng cách nhập từ tìm kiếm và sau đó quét danh sách các kết quả cho đến khi họ nhận ra những gì họ đang tìm kiếm. Toàn bộ quá trình ghi nhớ, nhắc lại và nhận ra được lặp lại trong trường hợp thông tin tìm kiếm bao gồm nhiều phần.
+
+
+=== Giữ ===
+Khi mọi người gặp thông tin, nó có thể được tiêu thụ ngay lập tức (ví dụ như một điểm số trò chơi) hoặc giữ nó để sử dụng sau này, trong trường hợp này cần phải có quyết định về cách thức và địa điểm lưu giữ nó để nó có thể được tìm thấy lại. Quá trình này là dễ bị lỗi. Nộp và gắn thẻ thông tin là rất khó  bởi vì mọi người thường không nhớ các thư mục và thẻ hiện có và tạo các trường hợp mới dẫn đến sự phân tán thông tin.
+
+
+=== Siêu hoạt động ===
+Các Siêu hoạt động là các hoạt động chiến lược nhằm xem xét việc thu thập thông tin của một người, cách thức tổ chức thông tin của họ và tổ chức này hoạt động tốt như thế nào và liệu thông tin đó có an toàn và được sao lưu hay không. Nhận thức và sử dụng thông tin sau khi nó được tìm thấy cũng là một phần của các hoạt động này. Nói chung mọi người đấu tranh để tổ chức thông tin của họ, và thường không có thói quen sao lưu đáng tin cậy.
+
+
+== Phương pháp ==
+Một thách thức trong nghiên cứu PIM là phát triển các phương pháp thực tiễn hơn để nghiên cứu các thực tiễn PIM hiện tại với những ý nghĩa thiết thực hơn cho việc phát triển các công cụ, kỹ thuật và đào tạo cải tiến để hỗ trợ PIM tốt hơn. PIM yêu cầu nghiên cứu về con người, với sự đa dạng về bối cảnh và nhu cầu, theo thời gian khi chúng hoạt động trong nhiều tình huống khác nhau, với các hình thức thông tin khác nhau và các công cụ quản lý thông tin khác nhau. Phạm vi điều tra PIM này mang lại nhu cầu về các phương pháp thực tiễn hiệu quả về chi phí có thể mở rộng. Hơn nữa, có một nhu cầu không chỉ cho các nghiên cứu mô tả để hiểu rõ hơn về cách thức mà người ta đang thực hành PIM mà còn cho các nghiên cứu theo quy định nhằm đánh giá và cũng như hướng tới các đề xuất của các giải pháp được đề xuất dưới hình thức các công cụ, kỹ thuật và chiến lược mới PIM.
+Lưu ý rằng bản chất của PIM làm cho nghiên cứu trở nên thách thức trong cùng cực. Các nhà nghiên cứu tìm hiểu cách mọi người quản lý thông tin bằng cách sử dụng các công cụ quản lý thông tin. Nhưng điều quan trọng là thông tin được quản lý là "cá nhân". Các hoạt động phòng thí nghiệm truyền thống có nguy cơ trừu tượng "cá nhân" khỏi PIM. Hơn nữa, người ta không chỉ giữ thông tin; họ giữ thông tin trong các tổ chức đã được thành lập về không gian cá nhân của họ thông tin (PSIs) - cấu trúc thư mục của máy tính xách tay của họ, hoặc ngăn kéo và cách bố trí của máy tính để bàn vật lý của họ hoặc đường thời gian trên Facebook.
+
+
+== Công cụ ==
+Có một số công cụ có sẵn để quản lý thông tin cá nhân, nhưng những công cụ này có thể trở thành một phần của vấn đề dẫn tới "sự phân mảnh thông tin". Các thiết bị và ứng dụng khác nhau thường đi kèm với cách riêng biệt của họ về lưu trữ và tổ chức thông tin. LƯU Ý: Nhiều người nhầm lẫn các công cụ PIM với việc nghiên cứu và thực hành quản lý thông tin cá nhân. Xem trình quản lý thông tin cá nhân để biết thông tin về công cụ quản lý thông tin cá nhân.
+
+
+== Các hoạt động và lĩnh vực có liên quan ==
+PIM chia sẻ đáng kể, có khả năng hiệp đồng trùng lặp với các nguyên tắc như khoa học nhận thức, tương tác con người-máy tính, khoa học thông tin, trí tuệ nhân tạo, quản lý cơ sở dữ liệu và thu hồi thông tin. PIM liên quan đến nhưng khác với các lĩnh vực khác của cuộc điều tra nghiên cứu sự tương tác giữa con người, thông tin và công nghệ, quản lý mạng cá nhân.
+
+
+=== Nhận thức tâm lý và khoa học nhận thức ===
+Tâm lý nhận thức, như nghiên cứu cách mọi người học và nhớ, giải quyết vấn đề, và đưa ra quyết định, nhất thiết phải bao gồm nghiên cứu về cách mọi người sử dụng thông tin có sẵn thông minh. Các lĩnh vực liên quan của khoa học nhận thức, trong nỗ lực để áp dụng các câu hỏi rộng rãi hơn để nghiên cứu và mô phỏng hành vi thông minh, cũng liên quan đến PIM. Khoa học nhận thức có kết nối mạnh mẽ, một số người cho rằng các ngành học, lĩnh vực trí tuệ nhân tạo.
+Có tiềm năng cho sự tương tác lẫn nhau giữa khoa học nhận thức và PIM. Lĩnh vực con của khoa học nhận thức có liên quan rõ ràng đến PIM bao gồm giải quyết vấn đề và ra quyết định. Ví dụ, các thư mục được tạo để giữ thông tin cho một dự án lớn như "kế hoạch đám cưới của tôi" đôi khi có thể giống như một sự phân hủy vấn đề. Để có một ví dụ khác, nhiệm vụ phát hiện tín hiệu từ lâu đã được sử dụng để mô tả và giải thích hành vi của con người và gần đây đã được sử dụng làm cơ sở để phân tích các lựa chọn của chúng ta về những thông tin gì để giữ và làm - một hoạt động chính của PIM.
+
+Hoặc xem xét phân loại và hình thành khái niệm. Các loại và khái niệm đã được học và sử dụng như thế nào? Không thể xem trực tiếp các thể loại và khái niệm nhưng có thể được phản ánh trong các thẻ và thư mục mà mọi người sử dụng để tổ chức thông tin của họ. Hoặc xem xét các hoạt động của việc đọc và viết. Cả hai đều là những lĩnh vực nghiên cứu về tâm lý nhận thức với sự liên quan rõ ràng đến nghiên cứu của PIM.
+Bây giờ các phần lớn của một tài liệu có thể là sản phẩm của các hoạt động "sao chép và dán" (từ các bài viết trước đây của chúng ta) chứ không phải là một sản phẩm của văn bản ban đầu. Chắc chắn, quản lý các văn bản miếng dán để tái sử dụng là một hoạt động PIM, và điều này đặt ra một số câu hỏi thú vị. Làm thế nào để chúng ta đi đến quyết định khi nào để tái sử dụng và khi nào viết từ đầu? Đôi khi chúng ta có thể dành nhiều thời gian hơn để theo đuổi một đoạn văn mà chúng ta đã viết trước đó hơn là phải viết một đoạn văn mới thể hiện những suy nghĩ giống nhau. Hơn thế nữa, chúng ta có thể tự hỏi tại sao sự phụ thuộc vào việc cung cấp các tài liệu đã viết trước đó ngày càng gia tăng sẽ ảnh hưởng đến sự sáng tạo của chúng ta.
+Khi mọi người làm PIM họ làm việc trong một môi trường bên ngoài bao gồm những người khác, công nghệ hiện có và thiết lập tổ chức. Điều này có nghĩa là nhận thức hoàn cảnh, nhận thức phân tán và nhận thức xã hội đều liên quan đến nghiên cứu của PIM.
+
+
+=== Tương tác con người - máy tính và con người - thông tin ===
+Nghiên cứu về PIM cũng liên quan đến lĩnh vực tương tác giữa con người và máy tính (HCI). Tuy nhiên, nghiên cứu của PIM nhấn mạnh vào nghiên cứu rộng hơn về cách mọi người quản lý thông tin của họ theo thời gian bằng cách sử dụng nhiều công cụ khác nhau - một số dựa trên máy tính, một số không.
+Cách tiếp cận người dùng chủ quan là cách tiếp cận đầu tiên dành riêng cho thiết kế hệ thống PIM. Cơ sở lý thuyết của nó được xuất bản lần đầu tiên trong Tạp chí của Hiệp hội Khoa học Thông tin và Công nghệ Thông tin Hoa Kỳ năm 2003. Một giấy tờ khác của JASIST với bằng chứng và cách thực hiện đã được xuất bản vào năm 2008. Bài báo này đã nhận được giải Best JASIST Paper năm 2009. kế hoạch thiết kế người sử dụng đầu tiên đã được phát triển và đánh giá tích cực trong một cuộc họp về các nhân tố con người trong các hệ thống máy tính công bố trong năm 2009.
+
+
+=== Quản lý thông tin nhóm ===
+Quản lý thông tin theo nhóm (GIM, thường được phát âm với chữ "G" mềm) đã được viết về những nơi khác trong bối cảnh PIM. Nghiên cứu về GIM có liên quan rõ ràng đến nghiên cứu về làm việc nhóm có máy tính hỗ trợ (CSCW). Là một cách hữu ích để liên kết từ viết tắt chúng ta có thể nói rằng GIM là CSCW vì PIM là HCI (tương tác giữa con người và máy tính). Mối quan tâm của PIM trùng lặp với nhau nhưng không phải là mối quan tâm của HCI (cũng không phải ngược lại). Thật vậy, một số các bài viết có ảnh hưởng hơn về PIM trong những năm qua đã được xuất bản trong các tạp chí HCI và các cuộc họp hội nghị.
+Tuy nhiên, chữ "I" trong PIM là thông tin - chúng ta có thể làm như thế nào với tư cách cá nhân ("P"), quản lý tốt hơn ("M") thông tin của chúng ta (trong tất cả sáu giác quan được liệt kê ở trên) bất kể hình thức nào cần - giấy tờ và sách, tài liệu kỹ thuật số và email hoặc thậm chí cả nam châm chữ cái trên tủ lạnh trong nhà bếp. "I" trong HCI là viết tắt của "tương tác" vì điều này liên quan đến "C" - máy tính. Một sự khác biệt tương tự có thể được thực hiện đối với GIM và CSCW.
+
+
+=== Quản lý dữ liệu, thông tin, kiến thức, thời gian và nhiệm vụ ===
+Nghiên cứu quản lý thông tin và quản lý tri thức trong các tổ chức liên quan đến nghiên cứu của PIM. Jones lưu ý rằng các vấn đề được thấy đầu tiên ở cấp tổ chức thường di chuyển sang miền PIM.
+PIM có thể giúp thúc đẩy và cũng sẽ có lợi từ công việc thu thập thông tin và quản lý cơ sở dữ liệu. Ví dụ, kỹ thuật khai thác dữ liệu có thể được áp dụng cho tôi và cấu trúc thông tin cá nhân.
+
+
+=== Mối quan hệ với quản lý thời gian và năng suất ===
+Bằng cách lập luận tương tự, một cuộc thảo luận về quản lý thời gian hoặc quản lý tác vụ ở mức độ cá nhân nhanh chóng đưa chúng ta quay trở lại cuộc thảo luận về PIM. Cả thời gian và công việc quản lý sử dụng rất nhiều công cụ thông tin và các hình thức bên ngoài của thông tin như danh sách công việc, lịch, thời gian, biểu đồ Gantt, vv; thông tin này, được quản lý giống như các thông tin khác.
+
+
+=== Quản lý mạng cá nhân ===
+Quản lý mạng cá nhân (PAM) là một khía cạnh quan trọng của PIM và có thể được hiểu là thực tiễn quản lý các liên kết và kết nối cho các lợi ích xã hội và nghề nghiệp.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Một cơ sở khái niệm và đánh giá gần đây cho PIM: https://people.ucsc.edu/~swhittak/giấy tờ/ARIST-cuối cùng.pdf Lưu trữ 2015-12-16 tại Wayback Machine
+
+
+=== Sách và các bài viết ===
+Bellotti, Victoria, Ducheneaut, Nicolas, Howard, Mark & Smith, Ian. (2003) "Taking email to task: the design and evaluation of a task management centered email tool." In Proceedings of the SIGCHI conference on Human factors in computing systems. Ft. Lauderdale, Florida, USA: ACM
+Bergman, Ofer, Boardman, Richard, Gwizdka, Jacek & Jones, William. "Personal information management." Extended Abstracts of the 2004 Conference on Human Factors in Computing Systems (pp. 1598–1599), Vienna, Austria.
+Bergman, Ofer, Beyth-Marom, Ruth & Nachmias, Rafi (2006). "The project fragmentation problem in personal information management." In Proceedings of the SIGCHI conference on Human Factors in computing systems. Montréal, Québec, Canada: ACM.
+Bergman, Ofer, Beyth-Marom, Ruth & Nachmias, Rafi (2008). The user-subjective approach to personal information management systems design: Evidence and implementations. Journal of the American Society for Information Science and Technology 59(2): pp 235–246.
+Bergman, Ofer, Beyth-Marom, Ruth, Nachmias, Rafi, Gradovitch, Noa & Whittaker, Steve (2008). Advanced search engines and navigation preference in personal information management. Special Issue of ACM Transactions on Information Systems on Keeping, Re-finding and Sharing Personal Information 26(4): pp. 30–54.
+Bergman, Ofer, Whittaker, Steve, Sanderson, Mark, Nachmias, Rafi, & Ramamoorthy, Anand (2010). The effect of folder structure on personal file navigation. Journal of the American Society for Information Science and Technology 61(12): pp 2426–2441.
+Bergman, Ofer & Whittaker, Steve. (2016). The Science of Managing Our Digital Stuff. Cambridge, MA: MIT Press.
+Boardman, Richard & Sasse, M. Angela. (2004) "Stuff goes into the computer and doesn't come out": a cross-tool study of personal information management." In Proceedings of the SIGCHI conference on Human factors in computing systems. Vienna, Austria: ACM.
+Dumais, Susan, Cutrell, Edward, Cadiz, J. J., Jancke, Gavin, Sarin, Raman & Robbins, Daniel C. (2003) "Stuff I've seen: a system for personal information retrieval and re-use." In Proceedings of the 26th annual international ACM SIGIR conference on Research and development in information retrieval. Toronto, Canada: ACM
+Jones, W. (2004).Finders, keepers? The present and future perfect in support of personal information management. First Monday, 9(3). Available at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1123/1043 Lưu trữ 2012-11-23 tại Wayback Machine.
+Jones, W. (2007). Personal information management. In B. Cronin (Ed.), Annual Review of Information Science and Technology (ARIST) (Vol. 41). Medford, NJ: Information Today.
+Jones, W. (2007). Keeping Found Things Found: The Study and Practice of Personal Information Management. Burlington, MA: Morgan Kaufmann Publishers. Book info at: Morgan Kaufmann | Amazon ISBN 978-0-12-370866-3
+Jones, W. (2012). The Future of Personal Information Management, Part 1: Our Information, Always and Forever. San Rafael, Calif.: Morgan & Claypool Publishers. Truy cập from http://www.morganclaypool.com/doi/abs/10.2200/S00411ED1V01Y201203ICR021
+Jones, W.  (2013). Transforming Technologies to Manage Our Information: The Future of Personal Information Management, Part 2. San Rafael, Calif.: Morgan & Claypool Publishers. doi:10.2200/S00532ED1V01Y201308ICR028.
+Jones, W. (2015). Building a Better World with our Information: The Future of Personal Information Management, Part 3. San Rafael, Calif.: Morgan & Claypool Publishers. doi:10.2200/S00411ED1V01Y201203ICR021
+Jones, W. & Teevan, J. (Eds.) (2007). Personal Information Management. Seattle, WA: University of Washington Press. Book info at: University of Washington Press | Amazon ISBN 978-0-295-98737-8
+Kaye, Joseph 'Jofish', Vertesi, Janet, Avery, Shari, Dafoe, Allan, David, Shay, Onaga, Lisa, Rosero, Ivan & Pinch, Trevor. (2006) "To have and to hold: exploring the personal archive." In Proceedings of the SIGCHI conference on Human Factors in computing systems. Montréal, Québec, Canada: ACM.
+Lansdale, M.W. (March 1988) "The psychology of personal information management." Applied Ergonomics. 19:1, pp. 55–66.
+Ravasio, Pamela, Schär, Sissel Guttormsen & Krueger, Helmut. (2004) "In pursuit of desktop evolution: User problems and practices with modern desktop systems." ACM Trans. Comput.-Hum. Interact.. 11:2, pp. 156–180.
+Teevan, Jaime, Jones, William & Bederson, Benjamin B. (2006 January) "SPECIAL ISSUE: Personal information management." Commun. ACM. 49:1
+Trullemans, Sandra, Sanctorum, Audrey & Signer, Beat (2016) "PimVis: Exploring and Re-finding Documents in Cross-Media Information Spaces" In Proceedings of the International Working Conference on Advanced Visual Interfaces. Bari, Italy
+Trullemans, Sandra, Vercruysse, Ayrton & Signer, Beat (2016) "DocTr: A Unifying Framework for Tracking Physical Documents and Organisational Structures" In Proceedings of the 8th ACM SIGCHI Symposium on Engineering Interactive Computing Systems. Brussels, Belgium
+Trullemans, Sandra & Signer, Beat (2014) "From User Needs to Opportunities in Personal Information Management: A Case Study on Organisational Strategies in Cross-Media Information Spaces" In Proceedings of the International Conference on Digital Libraries. London, UK
+Trullemans, Sandra & Signer, Beat (2014) "Towards a Conceptual Framework and Metamodel for Context-aware Personal Cross-Media Information Management Systems" In Proceedings of the 33rd International Conference on Conceptual Modelling. Atlanta, USA
+Whittaker, Steve & Sidner, Candace. (1996) "Email overload: exploring personal information management of email." In Proceedings of the SIGCHI conference on Human factors in computing systems: common ground. Vancouver, British Columbia, Canada: ACM.
+Whittaker, S., and Hirschberg, J. (2001). "The character, value and management of paper archive." ACM Transactions on Computer Human Interaction, 8, 150-170.
+Whittaker, Steve (2011). Personal information management: From Consumption to Curation. In B. Cronin (Ed.), Annual Review of Information Science and Technology (ARIST) (Vol. 45). Medford, NJ: Information Today.
+
+
+=== Tài nguyên khác ===
+pim-disc yahoo group Một danh sách gửi thư và nền tảng cộng tác cho các nhà nghiên cứu PIM.
+personalim Xing group Nơi gặp gỡ của các nhà nghiên cứu và học viên PIM nói tiếng Đức.
+Ai làm việc về quản lý thông tin cá nhân? Tác giả của Richard Boardman, Imperial College London (Tháng 7 năm 2003)
+Nguồn thông Tin Cá nhân Quản lý Cổng Cộng đồng quản lý của Đại học Washington, có một bộ sưu tập liên kết, hội thảo, sách 
+Dự án Memoria-Mea, MISG / ICTI EIA-FR Thụy Sĩ
+Danh sách các ấn phẩm của PIM tại trang web của dự án Giữ Những thứ Tìm thấy (KFTF).
+Hội thảo PIM 2008
+Chương trình PIM Một blog tập trung vào những lời khuyên và lời khuyên thiết thực về PIM
+Danh sách phần mềm quản lý tài liệu cá nhân
+Tài nguyên Quản lý Thông tin Cá nhân (PIM) - Wiki dành cho nghiên cứu PIM
+Một danh sách các nguyên mẫu nghiên cứu PIM

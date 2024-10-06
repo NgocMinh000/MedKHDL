@@ -1,0 +1,54 @@
+Axit aspartic (viết tắt là Asp hoặc D) là một α-amino acid với công thức hóa học HOOCCH(NH2)CH2COOH. Anion carboxylat, muối, hoặc este của axit aspartic được gọi là aspartat. Đồng phân L của axit aspartic là một trong 20 amino acid sinh protein. Codon của nó là GAU và GAC.
+Axit aspartic, cùng với axit glutamic, được xếp là loại amino acid có tính axit với pKa bằng 3,9. Axit aspartic khá phổ biến trong các quá trình sinh tổng hợp. Cũng như tất cả các amino acid khác, sự hiện diện của ion H+ của axit phụ thuộc vào môi trường hóa học xung quanh và pH của dung dịch.
+
+
+== Phát hiện ==
+Axit aspartic được Plisson phát hiện lần đầu vào năm 1827, dưới dạng dẫn xuất của nó là asparagin (được phát hiện vào năm 1806), khi đun sôi chiết xuất từ nước ép măng tây với một base.
+
+
+== Đồng phân và danh pháp ==
+Cụm từ "axit aspartic" chỉ một trong hai dạng của nó hoặc chỉ hỗn hợp của cả hai. Trong hai dạng này, chỉ có đồng phân "L-axit aspartic" có nhiều vai trò trong tự nhiên, còn đồng phân "D-axit aspartic" thì có vai trò sinh học ít hơn. Quá trình tổng hợp nhờ enzym sẽ cho một trong hai dạng, còn quá trình tổng hợp trong phòng thí nghiệm sẽ cho một hỗn hợp cả hai dạng, "DL-axit aspartic," được gọi là hỗn hợp racemic.
+
+
+== Vai trò trong sinh tổng hợp các amino acid khác ==
+Axit aspartic thì không thiết yếu ở các loài động vật có vú, do nó được tổng hợp từ oxaloacetat nhờ phản ứng chuyển amin. Nó cũng có thể được tạo ra từ ornithin và citrullin trong chu trình ure. Ở các loài thực vật và vi sinh vật, axit aspartic là tiền chất của nhiều amino acid, bao gồm bốn amino acid thiết yếu ở người là methionin, threonin, isoleucin, và lysin. Quá trình chuyển đổi từ axit aspartic thành các amino acid trên bắt đầu bởi sự khử axit aspartic thành"semialdehyd" tương ứng, O2CCH(NH2)CH2CHO. Asparagin là dẫn xuất của axit aspartic được tạo nên từ phản ứng amid hóa:
+
+-O2CCH(NH2)CH2CO2- + GC(O)NH3+  = -O2CCH(NH2)CH2CONH3+ + GC(O)O-
+(trong đó GC(O)NH2 và GC(O)OH lần lượt là glutamin và axit glutamic)
+
+
+== Các vai trò sinh hóa khác ==
+Aspartat cũng là một chất chuyển hóa trong chu trình ure và tham gia vào sự tân tạo đường. Nó tham gia vào kênh vận chuyển malate-aspartat trong ti thể. Aspartat cung cấp một nguyên tử nitơ trong phản ứng sinh tổng hợp của inosine, tiền chất của các base purine.
+Aspartic là chiếm khoảng 40% trong aspartam, một chất gây ra chứng đau đầu. Những cơn đau đầu có thể xảy ra ở những bệnh nhân có hàm lượng aspartic nhiều ở dạng aspartame.
+D-Aspartic axit (D-Asp) đóng vai trò quan trọng trong việc sản xuất testosteron trong tuyến tiền liệt của các con đực thuộc nhóm động vật có xương sống.
+
+
+=== Chất dẫn truyền thần kinh ===
+Aspartat kích thích thụ thể NMDA, mặc dù không mạnh bằng chất dẫn truyền thần kinh glutamat.
+
+
+== Nguồn thức ăn ==
+Axit aspartic không phải là một amino acid thiết yếu, nghĩa là nó có thể được tổng hợp trong cơ thể qua các chất trung gian chuyển hóa trung tâm. Axit aspartic được tìm thấy trong:
+
+Nguồn động vật: thịt động vật, xúc xích
+Nguồn thực vật: hạt nảy mầm, bông yến mạch, quả bơ, măng tây, mía non, mật từ củ cải đường.
+Thực phẩm bổ sung, dưới dạng axit aspartic nguyên chất hoặc dưới dạng muối (như muối magiê aspartat)
+Chất làm ngọt aspartam.
+
+
+== Tổng hợp nhân tạo ==
+Hỗn hợp racemic của axit aspartic có thể được tổng hợp từ dietyl natri phthalimidomalonat,
+Na+(C6H4(CO)2NC-(CO2Et)2).
+Nhược điểm lớn của cách làm trên là hỗn hợp thu được gồn cả hai đồng phân của axit aspartic, trong khi cơ thể chỉ sử dụng được đồng phân L. Ngày nay nhờ công nghệ sinh học người ta đã có thể dùng các enzym cố định để tạo ra chỉ một trong hai loại đồng phân dựa trên tính chất quang học của chúng Axit aspartic được tổng hợp từ ammoni fumarate và aspartase từ E.coli, E.coli thường bẻ gãy axit aspartic để làm nguồn nitơ nhưng khi lượng ammoni fumarate quá lớn, phản ứng ngược lại sẽ xảy ra, cho phép tổng được axit aspartic với năng suất cao, từ 98.7 mM đến 1 M.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Aspartat transaminase
+Natri poly(aspartat), một polyamide tổng hợp
+
+
+== Liên kết ngoài ==
+American Chemical Society (ngày 21 tháng 4 năm 2010). “Ancestral Eve' Crystal May Explain Origin of Life's Left-Handedness”. ScienceDaily. Bản gốc lưu trữ ngày 23 tháng 4 năm 2010. Truy cập ngày 21 tháng 4 năm 2010.

@@ -1,0 +1,106 @@
+Thang điểm hôn mê Glasgow (tiếng Anh: Glasgow Coma Scale) là một phương pháp đánh giá tình trạng ý thức của người bệnh một cách lượng hóa. Được thiết lập để lượng giá độ hôn mê của nạn nhân bị chấn thương đầu, hiện nay người ta còn dùng thang điểm Glasgow trong những trường hợp bệnh lý khác. Thang điểm này khá khách quan, đáng tin cậy, có giá trị tiên lượng và rất thuận tiện trong việc theo dõi diễn tiến của người bệnh.
+Số điểm của một bệnh nhân cụ thể được ghi một cách ngắn gọn là điểm Glasgow (tiếng Anh: Glasgow Coma Score, viết tắt GCS).
+Thang điểm này được giới thiệu lần đầu vào năm 1974 bởi hai giáo sư khoa thần kinh tại trường Đại học Glasgow là Graham Teasdale và Bryan J. Jennett. Về sau, hai ông cùng viết cuốn Xử trí các chấn thương đầu (Management of Head Injuries) (Nhà xuất bản FA Davis, 1981 ISBN 0803650191), là một tác phẩm nổi tiếng trong giới chuyên môn.
+
+
+== Thang điểm Glasgow (dùng cho bệnh nhân người lớn) ==
+Thang điểm có 3 yếu tố, gồm các đáp ứng bằng mắt, lời nói và vận động. Điểm chi tiết cũng như tổng số điểm của ba loại đáp ứng đều được theo dõi. Tổng điểm GCS thấp nhất là 3 (hôn mê sâu hoặc chết), và cao nhất là 15 (người hoàn toàn tỉnh và đang thức).
+Ở Việt Nam, khi dùng thang điểm Glasgow người ta thường giữ nguyên các chữ viết tắt bằng tiếng Anh là E (mắt - eye opening), V (lời nói - best verbal response) và M (vận động - best motor response).
+
+
+=== Tiếp cận người bệnh ===
+Nguyên tắc là phải luôn bắt đầu bằng việc quan sát, hỏi han, lay gọi người bệnh để xem đáp ứng của họ. Nếu không có đáp ứng với lời nói mới bắt đầu các biện pháp gây đau.
+Ghi nhận điểm cao nhất mà bệnh nhân đạt được trong từng loại đáp ứng.
+
+
+==== Đáp ứng bằng mắt (E) ====
+Có 4 mức độ:
+
+Mở mắt tự phát.
+Mở mắt khi nghe gọi. (Cần phân biệt với ngủ, nếu bệnh nhân ngủ và mở mắt khi bị đánh thức thì ghi là 4 điểm, không phải 3).
+Mở mắt khi bị làm đau. (Ấn vào giường móng, nếu không đáp ứng mới dùng các phép thử khác gây đau nhiều hơn - ấn trên hốc mắt hoặc trước xương ức bằng góc giữa đốt ngón tay thứ nhất và thứ hai).
+Không mở mắt.
+
+
+==== Đáp ứng bằng lời nói (V) ====
+Có 5 mức độ:
+
+Trả lời chính xác. (Bệnh nhân trả lời đúng những nội dung đơn giản, quen thuộc như tên, tuổi của bản thân, quê quán, mùa, năm v.v.).
+Trả lời, nhưng nhầm lẫn. (Bệnh nhân vẫn "nói chuyện" được với người khám nhưng tỏ ra lú lẫn trong các câu trả lời).
+Phát ngôn vô nghĩa. (Bệnh nhân có thể nói thành câu, nhưng không "nói chuyện" với người khám).
+Phát âm khó hiểu. (Có thể kêu rên, nhưng không thành những từ ngữ hẳn hoi).
+Hoàn toàn im lặng.
+
+
+==== Đáp ứng vận động (M) ====
+Có 6 mức độ:
+
+Thực hiện yêu cầu. ("Tuân lệnh", làm những việc đơn giản theo yêu cầu của người khám: mở/nhắm mắt, nắm/xòe bàn tay v.v.)
+Cấu véo đáp ứng chính xác.
+Cấu véo đáp ứng không chính xác.
+Co cứng (kiểu) mất vỏ khi đau. (Phản xạ bất thường: co cứng các chi - tư thế của người bị tổn thương vỏ não).
+Duỗi cứng (kiểu) mất não khi đau. (Co cơ khiến cho vai xoay trong, cánh tay bị úp sấp xuống - tư thế của người bị tổn thương não).
+Không đáp ứng với đau.
+
+
+=== Phân tích các điểm ghi nhận ===
+Tổng số điểm cũng như từng điểm chi tiết đều có ý nghĩa quan trọng, do đó, điểm Glasgow của một bệnh nhân thường được ghi theo kiểu của thí dụ sau: "GCS = 10 (E3 V4 M3) lúc 17:25".
+Việc phân tích chi tiết dành cho các nhà chuyên môn, nhưng nhìn chung, mức độ hôn mê được đánh giá là:
+
+nặng, khi GCS ≤ 8,
+trung bình, với GCS từ 9 đến 12,
+nhẹ, khi GCS ≥ 13.
+
+
+=== Thang điểm Glasgow biến đổi ===
+Ở vài nơi, người ta hiệu chỉnh thang điểm Glasgow bằng cách loại bỏ yếu tố "tránh cái đau" trong phần đáp ứng vận động (M). Do đó, M chỉ có 5 mức điểm, tổng số điểm tối đa là chỉ là 14 (thay vì 15).
+
+
+== Thang điểm hôn mê Glasgow trong nhi khoa ==
+Thang điểm Glasgow (cho người lớn) nhiều khi không thích hợp để áp dụng cho trẻ em, nhất là ở các bé dưới 36 tháng tuổi (lứa tuổi mà hầu hết trẻ em đều nói chưa rành). Do đó, người ta đã thiết lập thang điểm hôn mê Glasgow trong nhi khoa (tiếng Anh: Pediatric Glasgow Coma Scale, viết tắt PGCS).
+Thang điểm này cũng gồm ba loại đáp ứng: mắt (E), lời nói (V) và đáp ứng thần kinh vận động (M). Điểm thấp nhất là 3 (hôn mê sâu hoặc chết), và cao nhất là 15 (trẻ hoàn toàn tỉnh và đang thức).
+
+
+=== Tiếp cận bệnh nhi ===
+Nguyên tắc luôn là bắt đầu bằng việc quan sát, hỏi han, lay gọi bệnh nhi để xem đáp ứng của trẻ. Nếu không có đáp ứng với lời nói mới bắt đầu các biện pháp gây đau.
+Ghi nhận điểm cao nhất mà bệnh nhi đạt được trong từng loại đáp ứng.
+
+
+==== Đáp ứng bằng mắt tốt nhất (E) ====
+Có 4 mức độ:
+
+Mở mắt tự phát.
+Mở mắt khi nghe gọi. (Cần phân biệt với ngủ, nếu trẻ ngủ và mở mắt khi bị đánh thức thì ghi là 4 điểm, không phải 3).
+Mở mắt khi bị làm đau. (Mô tả ở phần người lớn).
+Không mở mắt.
+
+
+==== Đáp ứng bằng lời nói tốt nhất (V) ====
+Có 5 mức độ:
+
+Trẻ giao tiếp bình thường (bằng lời nói nếu đã biết nói).
+Trẻ bứt rứt, khó chịu và khóc thường xuyên.
+Trẻ kêu la khi bị làm đau.
+Trẻ rên rỉ khi bị làm đau, nhưng không thành những từ ngữ hẳn hoi.
+Hoàn toàn im lặng.
+
+
+==== Đáp ứng vận động tốt nhất (M) ====
+Có 6 mức độ:
+
+Trẻ cử động tự nhiên, có chủ đích.
+Trẻ co tay hoặc chân bị sờ chạm.
+Trẻ co tay hoặc chân bị làm đau.
+Co cứng (kiểu) mất vỏ khi đau. (Mô tả ở phần người lớn).
+Duỗi cứng (kiểu) mất não khi đau. (Mô tả ở phần người lớn).
+Không đáp ứng với đau.
+
+
+=== Phân tích các điểm ghi nhận ===
+Việc phân tích chi tiết dành cho các nhà chuyên môn, nhưng nhìn chung, nguy cơ tử vong cao khi tổng số điểm < 8.
+
+
+== Tham khảo ==
+
+Teasdale G, Jennett B. Assessment of coma and impaired consciousness. A practical scale. Lancet 1974,2:81-84. PMID 4136544.
+Development of Glasgow Coma and Outcome Scales Lưu trữ 2005-12-12 tại Wayback Machine, bài phê bình bởi Giáo sư Jennett.

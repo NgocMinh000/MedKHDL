@@ -1,0 +1,137 @@
+Quản lý căng thẳng là một loạt các kỹ thuật và các liệu pháp tâm lý nhằm kiểm soát mức căng thẳng của một người, đặc biệt là stress mạn tính, thường nhằm mục đích cải thiện hoạt động hàng ngày. Trong ngữ cảnh này, thuật ngữ "căng thẳng" chỉ đề cập đến một sự căng thẳng với những hậu quả tiêu cực đáng kể, hoặc là sự căng thẳng trong thuật ngữ được Hans Selye ủng hộ chứ không phải là cái mà ông gọi là eustress, một sự căng thẳng có hậu quả là hữu ích hay ngược lại.
+Stress tạo ra nhiều triệu chứng về thể chất và tâm thần thay đổi theo các yếu tố tình huống của từng cá nhân. Những điều này có thể bao gồm sự suy giảm sức khoẻ thể chất cũng như trầm cảm. Quá trình quản lý căng thẳng được đặt tên như một trong những chìa khóa cho một cuộc sống hạnh phúc và thành công trong xã hội hiện đại. Mặc dù cuộc sống cung cấp nhiều yêu cầu có thể chứng minh là khó nắm bắt, quản lý căng thẳng cung cấp một số cách để quản lý sự lo lắng và duy trì sức khoẻ tổng thể.
+Mặc dù căng thẳng thường được coi là một trải nghiệm chủ quan, nhưng mức căng thẳng có thể đo được dễ dàng, sử dụng các kiểm tra sinh lý khác nhau, tương tự như các phép đo được sử dụng trong máy phát hiện nói dối.
+Nhiều kỹ thuật quản lý căng thẳng thực tế đã sẵn có, một số sử dụng cho các chuyên gia y tế và những người khác, để giúp đỡ bản thân giúp giảm mức căng thẳng, tạo cảm giác tích cực trong việc kiểm soát cuộc sống và thúc đẩy phúc lợi chung.
+Đánh giá hiệu quả của các kỹ thuật quản lý căng thẳng khác nhau có thể khó khăn, vì nghiên cứu hạn chế hiện nay tồn tại. Do đó, số lượng và chất lượng bằng chứng cho các kỹ thuật khác nhau rất khác nhau. Một số được chấp nhận là phương pháp điều trị hiệu quả để sử dụng trong liệu pháp tâm lý, trong khi một số khác có ít bằng chứng ủng hộ chúng được xem là phương pháp điều trị thay thế. Nhiều tổ chức nghề nghiệp tồn tại để thúc đẩy và đào tạo các liệu pháp thông thường hoặc thay thế.
+Có một số mô hình quản lý căng thẳng, mỗi người đều có những giải thích đặc biệt về cơ chế kiểm soát căng thẳng. Nhiều nghiên cứu hơn là cần thiết để cung cấp một sự hiểu biết tốt hơn về cơ chế nào thực sự hoạt động và có hiệu quả trong thực tế.
+
+
+== Nền tảng lịch sử ==
+Walter Cannon và Hans Selye đã sử dụng các nghiên cứu trên động vật để xác lập cơ sở khoa học sớm nhất để nghiên cứu về căng thẳng. Họ đã đo lường phản ứng sinh lý của động vật đối với áp lực bên ngoài, như nhiệt và lạnh, kiềm chế kéo dài, và các thủ tục phẫu thuật, sau đó ngoại suy từ các nghiên cứu này đến con người.
+Các nghiên cứu sau đó về sự căng thẳng ở người do Richard Rahe và các nhà nghiên cứu khác đã đưa ra quan điểm cho rằng căng thẳng là do những căng thẳng cuộc sống rõ rệt, có thể đo lường được, và hơn nữa, những căng thẳng cuộc sống này có thể được xếp loại bởi mức độ căng thẳng trung bình mà họ tạo ra (dẫn đến thang căng thẳng Holmes và Rahe). Do đó, căng thẳng theo truyền thống được khái niệm hoá là kết quả của những lời chế nhạo bên ngoài vượt quá sự kiểm soát của những người trải qua căng thẳng. Gần đây hơn, tuy nhiên, người ta đã lập luận rằng các trường hợp bên ngoài không có khả năng tự gây ra căng thẳng, nhưng thay vào đó ảnh hưởng của họ lại được trung gian bởi nhận thức, năng lực và sự hiểu biết của cá nhân.
+
+
+== Mô hình ==
+Các mô hình tổng quát là:
+
+Trường hợp khẩn cấp/chiến đấu hoặc chuyến bay phản ứng của Walter Cannon (1914, 1932)
+Hội chứng Thích ứng Chung của Hans Selye (1936)
+Mô hình Căng thẳng của Henry
+Mô hình Căng thẳng (stress) về giao dịch (hoặc nhận thức) của Lazarus sau Lazarus (1974)
+Lý thuyết về bảo tồn nguồn tài nguyên của Stevan Hobfoll (1988, 1998, Hobfoll & Buchwald, 2004)
+
+
+=== Mô hình tương hỗ ===
+
+Richard Lazarus và Susan Folkman đề nghị vào năm 1981 rằng căng thẳng có thể được nghĩ là do "sự mất cân bằng giữa nhu cầu và nguồn lực" hoặc khi xảy ra khi "áp lực vượt quá khả năng nhận thức của một người để đối phó". Quản lý căng thẳng đã được phát triển và dựa trên ý tưởng rằng căng thẳng không phải là phản ứng trực tiếp với người căng thẳng mà là nguồn lực của họ và khả năng ứng phó với stress và có thể thay đổi, do đó cho phép kiểm soát căng thẳng.
+Trong số nhiều người căng thẳng mà nhân viên đề cập, đây là những điều phổ biến nhất:
+
+Cuộc xung đột trong công ty
+Cách các nhân viên đang được đối xử bởi ông chủ /người giám sát của họ hoặc công ty
+Thiếu an toàn nghề nghiệp
+Chính sách của công ty
+Đồng nghiệp những người không chia sẻ công bằng
+Kỳ vọng không rõ ràng
+Giao tiếp kém
+Không đủ quyền kiểm soát các bài tập
+Chi trả hoặc phúc lợi không đầy đủ
+Thời hạn khẩn cấp
+Quá nhiều công việc
+Giờ làm việc dài
+Điều kiện vật lý không thoải mái
+Xung đột quan hệ
+Đồng nghiệp mắc lỗi do thiếu cẩn thận
+Đối xử thô lỗ với khách hàng
+Thiếu sự hợp tác
+Cách thức công ty đối xử với đồng nghiệp
+Để phát triển một chương trình quản lý căng thẳng hiệu quả, trước tiên cần xác định các yếu tố là trung tâm của người kiểm soát căng thẳng và xác định các phương pháp can thiệp có tác động đến các yếu tố này. Sự giải thích căng thẳng của Lazarus và Folkman tập trung vào giao dịch giữa con người với môi trường bên ngoài (được gọi là Mô hình Giao dịch). Mô hình cho rằng căng thẳng không phải là một sự căng thẳng nếu người ta không nhận thức được sự căng thẳng như là một mối đe dọa mà là một điều tích cực hay thậm chí là đầy thử thách. Ngoài ra, nếu người đó sở hữu hoặc có thể sử dụng kỹ năng đối phó thích hợp, thì căng thẳng có thể không thực sự là kết quả hoặc phát triển vì những căng thẳng. Mô hình đề xuất rằng mọi người có thể được dạy để quản lý căng thẳng của họ và đối phó với những căng thẳng của họ. Họ có thể học để thay đổi quan điểm của họ về người căng thẳng và cung cấp cho họ khả năng và sự tự tin để cải thiện cuộc sống của họ và xử lý tất cả các loại căng thẳng.
+
+
+=== Quan điểm y tế / mô hình sức khỏe bẩm sinh ===
+Việc Quan điểm sức khoẻ / mô hình sức khoẻ bẩm sinh của stress cũng được dựa trên ý tưởng rằng căng thẳng không nhất thiết phải theo sự hiện diện của một kẻ căng thẳng tiềm ẩn. Thay vì tập trung vào việc đánh giá của cá nhân về cái gọi là căng thẳng liên quan đến kỹ năng đối phó của chính mình (như mô hình giao dịch), mô hình thực hiện chăm sóc sức khoẻ tập trung vào bản chất của sự suy nghĩ, nói rằng đó là quá trình tư duy của một người xác định đáp ứng với các tình huống bên ngoài căng thẳng tiềm ẩn. Trong mô hình này, căng thẳng kết quả từ việc đánh giá bản thân và hoàn cảnh của một người thông qua một bộ lọc tâm thần của sự mất an ninh và tiêu cực, trong khi một cảm giác hạnh phúc kết quả từ tiếp cận thế giới với một "yên tĩnh tâm".
+Mô hình này gợi ý rằng giúp đỡ những người bị căng thẳng hiểu được bản chất của tư duy - đặc biệt là cung cấp cho họ khả năng nhận ra khi họ đang ở trong tình trạng suy nghĩ không an toàn, tách rời khỏi nó, và tiếp xúc với những cảm giác tích cực tự nhiên - sẽ làm giảm căng thẳng của họ.
+
+
+== Các kỹ thuật ==
+Mô tả này gợi ý rằng giúp các kết nối sau đây đến bản gốc của cùng một chuyên gia tư vấn cũng như cho trước khi chúng ở trong trạng thái chưa biết, tách nó ra khỏi nó, và tiếp xúc với những cảm giác tích cực - sẽ làm giảm căng thẳng của họ.
+Nhiều kỹ thuật ứng phó với cuộc sống căng thẳng mang lại. Một số cách sau đây giảm tạm thời mức stress thấp hơn bình thường để bù đắp các mô sinh học có liên quan; một số khác phải đối mặt với sự căng thẳng ở mức độ trừu tượng cao hơn:
+
+Các kỹ thuật quản lý căng thẳng sẽ thay đổi theo mô hình triết học.
+
+
+=== Phòng chống căng thẳng và khả năng phục hồi ===
+Mặc dù nhiều kỹ thuật truyền thống đã được phát triển để đối phó với những hậu quả của stress, nghiên cứu đáng kể cũng đã được tiến hành về phòng ngừa stress, một chủ đề liên quan chặt chẽ đến việc xây dựng lại khả năng chịu đựng tâm lý. Một số cách tiếp cận tự giúp đỡ để ngăn ngừa căng thẳng và xây dựng khả năng phục hồi đã được phát triển, chủ yếu dựa vào lý thuyết và thực hành liệu pháp nhận thức hành vi.
+
+
+=== Đo căng thẳng ===
+Các mức độ căng thẳng có thể được đo. Một cách là thông qua việc sử dụng các bài kiểm tra tâm lý: Thang đo Holmes và Rahe Stress [hai thang đo căng thẳng] được sử dụng để đánh giá các sự kiện trong cuộc sống căng thẳng, trong khi DASS [Trầm cảm Khó chịu] có một tỷ lệ căng thẳng dựa trên tự báo cáo mặt hàng. Những thay đổi về huyết áp và đáp ứng mầu da cũng có thể được đo để kiểm tra mức độ căng thẳng và thay đổi mức độ căng thẳng. Một nhiệt kế kỹ thuật số có thể được sử dụng để đánh giá sự thay đổi nhiệt độ da, có thể cho biết kích hoạt của cuộc chiến chống lại bay máu rút ra từ các chi. Cortisol là hoocmon chính được tiết ra trong suốt quá trình phản ứng căng thẳng và đo cortisol từ tóc sẽ tạo ra mức căng thẳng cơ bản từ 60 đến 90 ngày của một cá nhân. Phương pháp đo căng thẳng hiện nay là phương pháp phổ biến nhất trong phòng khám.
+
+
+=== Hiệu quả ===
+Quản lý căng thẳng có lợi ích về sinh lý và miễn dịch.
+Các kết quả khả quan được quan sát bằng cách sử dụng kết hợp các can thiệp không dùng thuốc:
+
+điều trị sự tức giận hoặc thù hận,
+đào tạo autogenic
+liệu pháp nói chuyện (xung quanh mối quan hệ hoặc các vấn đề tồn tại)
+phản hồi sinh học
+liệu pháp nhận thức cho sự lo lắng hay trầm cảm
+
+
+== Các loại căng thẳng ==
+
+
+=== Căng thẳng cấp tính ===
+Căng thẳng cấp tính là dạng căng thẳng phổ biến nhất trên toàn thế giới.
+Căng thẳng cấp tính liên quan đến áp lực của tương lai gần hoặc đối phó với quá khứ gần đây. Loại căng thẳng này thường bị hiểu sai bởi vì nó là một ý nghĩa tiêu cực. Mặc dù đây là trường hợp trong một số trường hợp, cũng là một điều tốt để có một số căng thẳng cấp tính trong cuộc sống. Chạy hoặc bất kỳ hình thức tập thể dục nào khác được xem là một chứng căng thẳng cấp tính. Một số trải nghiệm thú vị hoặc thú vị như cưỡi một chiếc tàu lượn lượn là một sự căng thẳng cấp tính nhưng thường rất thú vị. Stress cấp tính là một căng thẳng ngắn hạn và do đó, không có đủ thời gian để làm những thiệt hại gây ra căng thẳng dài hạn.
+
+
+=== Căng thẳng mãn tính ===
+Stress mãn tính không giống như stress cấp tính. Nó có hiệu ứng mặc trên người mà có thể trở thành một nguy cơ sức khỏe rất nghiêm trọng nếu nó tiếp tục trong một thời gian dài. Stress mãn tính có thể dẫn đến mất trí nhớ, ảnh hưởng đến cảm nhận không gian và làm giảm sự thèm ăn. Mức độ nghiêm trọng khác nhau giữa người này và người khác cũng có thể là một yếu tố căn bản. Phụ nữ có thời gian căng thẳng kéo dài hơn nam giới mà không biểu hiện những thay đổi về thích nghi không tốt tương tự. Đàn ông có thể đối phó với thời gian căng thẳng ngắn hơn so với phụ nữ nhưng một khi nam giới đạt đến một ngưỡng nhất định, cơ hội cho họ phát triển các vấn đề về tinh thần sẽ tăng lên đáng kể.
+
+
+== Nơi làm việc ==
+Sự căng thẳng tại nơi làm việc là một điều phổ biến trên khắp thế giới trong mọi lĩnh vực kinh doanh. Quản lý căng thẳng đó trở nên quan trọng để theo kịp hiệu suất công việc cũng như mối quan hệ với đồng nghiệp và nhà tuyển dụng. Đối với một số công nhân, thay đổi môi trường làm việc sẽ làm giảm căng thẳng trong công việc. Làm cho môi trường kém cạnh tranh giữa các nhân viên giảm một số lượng căng thẳng. Tuy nhiên, mỗi người đều khác nhau và một số người thích áp lực để thực hiện tốt hơn.
+Mức lương có thể là một mối quan tâm quan trọng của nhân viên. Lương có thể ảnh hưởng đến cách mọi người làm việc vì họ có thể nhằm mục đích quảng bá và kết quả là mức lương cao hơn. Điều này có thể dẫn đến căng thẳng mãn tính.
+Sự khác biệt về văn hoá cũng cho thấy có một số ảnh hưởng lớn đối với các vấn đề đối phó căng thẳng. Nhân viên Đông Nam Á có thể giải quyết một số tình huống làm việc khác với việc một nhân viên Tây Bắc Mỹ sẽ làm việc như thế nào.
+Để quản lý căng thẳng tại nơi làm việc, người sử dụng lao động có thể cung cấp các chương trình quản lý căng thẳng chẳng hạn như liệu pháp, các chương trình truyền thông, và lịch làm việc linh hoạt hơn.
+
+
+=== Môi trường y tế ===
+Một nghiên cứu đã được thực hiện về mức độ căng thẳng trong các học viên nói chung và tư vấn bệnh viện vào năm 1999. Hơn 500 nhân viên y tế tham gia vào nghiên cứu này do R.P Caplan thực hiện. Kết quả này cho thấy 47% công nhân đạt điểm cao trong bảng câu hỏi về mức căng thẳng cao. 27% học viên nói chung thậm chí còn ghi được rất chán nản. Những con số này gây ngạc nhiên cho Tiến sĩ Caplan và nó cho thấy làm thế nào đáng báo động với số lượng lớn các nhân viên y tế trở nên căng thẳng vì công việc của họ. Mức độ căng thẳng của các nhà quản lý không cao như các học viên thực tế. Một con số thống kê mở mắt cho thấy gần 54% công nhân bị lo lắng khi đang ở trong bệnh viện. Mặc dù đây là một mẫu nhỏ cho các bệnh viện trên khắp thế giới, Caplan cho rằng xu hướng này có lẽ khá chính xác ở hầu hết các bệnh viện.
+
+
+=== Các chương trình quản lý căng thẳng ===
+Nhiều doanh nghiệp ngày nay bắt đầu sử dụng các chương trình quản lý căng thẳng cho nhân viên đang gặp khó khăn khi thích ứng với stress tại nơi làm việc hoặc ở nhà. Một số công ty cung cấp thiết bị đặc biệt thích ứng với căng thẳng tại nơi làm việc cho nhân viên của họ, như sổ nhật ký màu và các thiết bị giảm căng thẳng. Nhiều người đã trải qua căng thẳng từ nhà vào môi trường làm việc của họ. Có một vài cách mà các doanh nghiệp ngày nay cố gắng làm giảm căng thẳng cho nhân viên của họ. Một cách là can thiệp cá nhân. Điều này bắt đầu bằng cách theo dõi các căng thẳng trong cá nhân. Sau khi theo dõi những gì gây ra căng thẳng, tiếp theo là tấn công mà căng thẳng và cố gắng tìm ra cách để làm nhẹ bớt họ trong bất kỳ cách nào. Phát triển sự hỗ trợ xã hội rất quan trọng trong can thiệp cá nhân, với người khác để giúp bạn đối phó đã chứng tỏ là một cách rất hiệu quả để tránh căng thẳng. Tránh các stressors hoàn toàn là cách tốt nhất có thể để thoát khỏi căng thẳng nhưng rất khó khăn để làm tại nơi làm việc. Thay đổi các mẫu hành vi, lần lượt có thể, giúp làm giảm một số căng thẳng được đưa vào trong công việc là tốt.
+Các chương trình trợ giúp nhân viên có thể bao gồm các chương trình tư vấn tại chỗ về quản lý căng thẳng. Nghiên cứu đánh giá đã được tiến hành trên EAP để kiểm soát stress và kỹ thuật cấy ghép cá nhân như thư giãn, phản hồi sinh học và tái cấu trúc nhận thức. Các nghiên cứu cho thấy rằng các chương trình này có thể làm giảm mức độ kích thích sinh lý liên quan đến căng thẳng cao. Những người tham gia làm chủ các kỹ thuật giảm stress về hành vi và nhận thức báo cáo sự căng thẳng ít hơn, ít rối loạn giấc ngủ và cải thiện khả năng đối phó với những căng thẳng nơi làm việc.
+Một cách khác để giảm stress ở nơi làm việc là đơn giản là thay đổi khối lượng công việc cho một nhân viên. Một số người có thể quá ngỡ rằng họ có quá nhiều công việc để thực hiện, hoặc một số cũng có thể có công việc nhỏ như vậy mà họ không chắc chắn làm gì với mình trong công việc. Cải thiện thông tin liên lạc giữa các nhân viên cũng có vẻ như một cách tiếp cận đơn giản, nhưng nó rất hiệu quả để giúp giảm căng thẳng. Đôi khi làm cho nhân viên cảm thấy như họ là một phần lớn của công ty, chẳng hạn như cho họ một tiếng nói trong những tình huống lớn hơn cho thấy bạn tin tưởng họ và đánh giá ý kiến của họ. Có được tất cả các nhân viên lưới tốt với nhau là một yếu tố rất cơ bản mà có thể lấy đi nhiều nơi làm việc căng thẳng. Nếu nhân viên hợp sức và ăn kiêng với nhau, cơ hội căng thẳng rất ít. Cuối cùng, việc thay đổi chất lượng vật lý tại nơi làm việc có thể làm giảm căng thẳng. Thay đổi những thứ như ánh sáng, nhiệt độ không khí, mùi và công nghệ cập nhật.
+Can thiệp được chia thành ba bước: căn bản, thứ hai, thứ ba. Giao tiếp cơ bản với việc loại bỏ các căng thẳng hoàn toàn. Phù hợp với phát hiện căng thẳng và tìm ra cách để đối phó với nó và nâng cao kỹ năng quản lý căng thẳng. Cuối cùng, thứ ba liên quan đến phục hồi và rehabbing căng thẳng hoàn toàn. Ba bước này thường là cách hiệu quả nhất để đối phó với căng thẳng không chỉ ở nơi làm việc, mà còn là tổng thể.
+
+
+=== Ngành hàng không ===
+Hàng không là một ngành công nghiệp căng thẳng cao, cho rằng nó đòi hỏi một mức độ chính xác cao mọi lúc. Mức căng thẳng cao cấp có thể làm giảm hiệu quả hoạt động và giảm an toàn. Để có hiệu quả, các công cụ đo áp lực cần phải cụ thể cho ngành công nghiệp hàng không, với môi trường làm việc độc nhất và những căng thẳng khác. Sự đo đạc căng thẳng trong ngành hàng không nhằm định lượng những căng thẳng tâm lý mà các phi công có kinh nghiệm, với mục đích tạo ra những cải tiến cần thiết cho kỹ năng quản lý căng thẳng của phi công và các kỹ năng quản lý căng thẳng.
+Để đo lường chính xác hơn căng thẳng, nhiều trách nhiệm của các phi công được chia thành "khối lượng công việc". Điều này giúp phân loại khái niệm "căng thẳng" rộng rãi của những người căng thẳng cụ thể. Ngoài ra, vì khối lượng công việc khác nhau có thể gây ra những căng thẳng độc nhất, phương pháp này có thể hiệu quả hơn việc đo mức độ căng thẳng như một toàn thể. Các công cụ đo căng thẳng sau đó có thể giúp các phi công xác định những nguồn gây căng thẳng nào là vấn đề nhất đối với họ, giúp họ cải thiện việc quản lý khối lượng công việc, hoạch định nhiệm vụ và đối phó với căng thẳng hiệu quả hơn.
+Để đánh giá khối lượng công việc, một số công cụ có thể được sử dụng. Các loại công cụ đo lường chính là:
+
+Các biện pháp dựa trên kết quả thực hiện;
+Các biện pháp chủ quan, như các câu hỏi mà các phi công tự trả lời; và
+Các biện pháp sinh lý, như đo nhịp tim.
+Việc thực hiện các công cụ đánh giá đòi hỏi thời gian, công cụ đo lường và phần mềm để thu thập dữ liệu.
+
+
+==== Hệ thống đo ====
+Các hệ thống đo áp lực thường được sử dụng phổ biến nhất chủ yếu dựa trên thang điểm đánh giá. Những hệ thống này có khuynh hướng phức tạp, có chứa nhiều cấp độ với nhiều loại khác nhau, để cố gắng nắm bắt được nhiều căng thẳng trong ngành hàng không. Các hệ thống khác nhau có thể được sử dụng trong các chuyên ngành khác nhau.
+
+Thang đo căng thẳng nhận thức (PSS) – PSS là một sử dụng rộng rãi chủ quan công cụ đo mức độ stress. Nó bao gồm 10 câu hỏi, và yêu cầu các học viên đánh giá, theo thang điểm năm điểm, làm thế nào mà họ cảm thấy căng thẳng sau một sự kiện nhất định. Tất cả 10 câu hỏi được tổng kết để có được một tổng số điểm từ 0 đến 40. Ví dụ, trong ngành công nghiệp hàng không, nó đã được sử dụng với các sinh viên đào tạo bay để đánh giá mức độ căng thẳng mà họ cảm thấy sau khi thực tập tập lái máy bay.
+Bảng kiểm kê Kỹ năng Đối phó - Bản kiểm kê này đánh giá kỹ năng của các phi công để đối phó với căng thẳng. Đây là một biện pháp chủ quan khác, yêu cầu các học viên đánh giá, theo thang điểm năm điểm, mức độ mà họ sử dụng tám kỹ năng đối phó chung: Lạm dụng chất gây nghiện, Hỗ trợ cảm xúc, Hỗ trợ bằng công cụ (giúp đỡ các vật hữu hình, tài chính, hoặc chia sẻ nhiệm vụ), Tái định hình tích cực (thay đổi suy nghĩ của người tiêu dùng về một sự kiện tiêu cực, và suy nghĩ của nó như là một tích cực thay thế), Tự đổ lỗi, Kế hoạch, hài hước và Tôn giáo. Tổng số điểm của một cá nhân chỉ ra mức độ mà anh / cô ấy đang sử dụng các kỹ năng đối phó tích cực và tích cực (như hài hước và hỗ trợ tinh thần); không có hiệu quả, kỹ năng đối phó tiêu cực (như lạm dụng chất gây nghiện và tự đổ lỗi); và nơi cá nhân có thể cải thiện.
+Kỹ thuật đánh giá tác động chủ quan (SWAT) - SWAT là một hệ thống đánh giá được sử dụng để đánh giá khối lượng công việc tinh thần nhận thức của cá nhân trong khi thực hiện một nhiệm vụ, như phát triển các dụng cụ trong phòng thí nghiệm, nhiệm vụ nhiều nhiệm vụ máy bay, hoặc tiến hành phòng không. SWAT kết hợp các phép đo và kỹ thuật nhân rộng để phát triển thang đánh giá toàn cầu.
+
+
+==== Hệ thống báo cáo áp lực thí điểm ====
+Các hệ thống báo cáo căng thẳng thí điểm ban đầu đã được điều chỉnh và sửa đổi từ các bảng hỏi và khảo sát tâm lý hiện có. Dữ liệu từ những cuộc điều tra cụ thể này sau đó được xử lý và phân tích thông qua hệ thống hoặc quy mô tập trung vào hàng không. Các bảng câu hỏi định hướng bằng phi công thường được thiết kế để nghiên cứu áp lực công việc hoặc căng thẳng tại nhà . Tự báo cáo cũng có thể được sử dụng để đo lường sự kết hợp của stress nhà, căng thẳng trong công việc, và hiệu suất nhận thức. Một nghiên cứu của Fiedler, Della Rocco, Schroeder và Nguyen (2000) đã sử dụng câu hỏi của Allole và Sloan và Cooper để khám phá sự nhận thức của các phi công về mối quan hệ giữa các loại stress khác nhau. Kết quả cho thấy các phi công tin rằng hiệu suất bị giảm sút khi áp lực gia đình chuyển sang môi trường làm việc. Mức độ căng thẳng trong gia đình chuyển sang môi trường làm việc là đáng kể và tiêu cực liên quan đến các hạng mục hiệu suất bay, chẳng hạn như lập kế hoạch, kiểm soát và tính chính xác của việc đổ bộ. Bảng hỏi có thể phản ánh những nhận thức hồi tố trước của phi công và tính chính xác của những nhận thức này .
+Alkov, Borowsky và Gaynor đã bắt đầu bản câu hỏi 22 mục cho các phi công Hải quân Hoa Kỳ vào năm 1982 để kiểm tra giả thuyết cho rằng các chiến lược đối phó áp lực không đầy đủ đã góp phần làm hỏng các chuyến bay. Các câu hỏi bao gồm các mục liên quan đến thay đổi lối sống và đặc điểm nhân cách. Sau khi hoàn thành bảng câu hỏi, nhóm kiểm tra được chia thành hai nhóm: "lỗi" với rủi ro, và "không-tại-lỗi" trong một rủi ro. Sau đó, các bảng câu hỏi từ hai nhóm này được phân tích để kiểm tra sự khác biệt. Một nghiên cứu về các phi công hàng không thương mại của Anh do Sloan và Cooper (1986) thực hiện đã khảo sát 1.000 thành viên phi công của Hiệp hội Phi công Hàng không Anh (BALPA). Họ đã sử dụng một bản câu hỏi sửa đổi của Alkov, Borowsky và Gaynor để thu thập dữ liệu về nhận thức của phi công về mối quan hệ giữa căng thẳng và hiệu suất. Là một biện pháp chủ quan, dữ liệu của nghiên cứu này dựa trên nhận thức của phi công, do đó dựa vào mức độ chính xác mà họ nhớ lại qua trải nghiệm mối quan hệ của họ với căng thẳng. Mặc dù dựa vào nhận thức chủ quan và ký ức, nghiên cứu cho thấy rằng các báo cáo thí điểm là đáng chú ý.
+Beck Depression Inventory (BDI) là một quy mô khác được sử dụng trong nhiều ngành công nghiệp, bao gồm cả các ngành nghề về sức khoẻ tâm thần, để sàng lọc các triệu chứng trầm cảm.
+Parsa và Kapadia (1997) đã sử dụng BDI để khảo sát một nhóm 57 phi công chiến đấu Không lực Hoa Kỳ đã vận hành chiến đấu. Sự thích nghi của BDI với lĩnh vực hàng không là vấn đề. Tuy nhiên, nghiên cứu cho thấy một số phát hiện không mong muốn. Kết quả cho thấy rằng 89% số phi công báo cáo mất ngủ; 86% cho biết tính dễ cáu kỉnh; 63%, không hài lòng; 38%, tội lỗi; và 35%, mất ham muốn. 50% của hai phi đội và 33% của phi đội khác ghi được trên 9 trên BDI, cho thấy ít nhất là mức độ trầm cảm. Đo lường như vậy có thể khó giải thích một cách chính xác.
+
+
+== Tham khảo ==

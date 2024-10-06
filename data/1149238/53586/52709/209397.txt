@@ -1,0 +1,130 @@
+Thông tin có thể được coi là giải quyết sự không chắc chắn; đó là câu trả lời cho câu hỏi "thực thể là gì" và do đó xác định cả bản chất và bản chất của các đặc tính của nó. Khái niệm thông tin có ý nghĩa khác nhau trong các bối cảnh khác nhau. Do đó, khái niệm này trở nên liên quan đến các khái niệm ràng buộc, giao tiếp, kiểm soát, dữ liệu, hình thức, giáo dục, kiến thức, ý nghĩa, hiểu biết, kích thích tinh thần, mô hình, nhận thức, đại diện và entropy.
+Thông tin được liên kết với dữ liệu, vì dữ liệu đại diện cho các giá trị được quy cho các tham số và thông tin là dữ liệu theo ngữ cảnh và có ý nghĩa kèm theo. Thông tin cũng liên quan đến kiến thức, vì kiến thức biểu thị sự hiểu biết về một khái niệm trừu tượng hoặc cụ thể.  
+Về mặt truyền thông, thông tin được thể hiện dưới dạng nội dung của tin nhắn hoặc thông qua quan sát trực tiếp hoặc gián tiếp. Cái được nhận thức có thể được hiểu là một thông điệp theo đúng nghĩa của nó, và theo nghĩa đó, thông tin luôn được truyền tải như nội dung của một thông điệp.
+Thông tin có thể được mã hóa thành nhiều dạng khác nhau để truyền và giải thích (ví dụ, thông tin có thể được mã hóa thành một chuỗi các dấu hiệu, hoặc được truyền qua tín hiệu). Nó cũng có thể được mã hóa để lưu trữ và liên lạc an toàn.
+Sự không chắc chắn của một sự kiện được đo bằng xác suất xảy ra của nó và tỷ lệ nghịch với điều đó. Một sự kiện càng không chắc chắn, càng cần nhiều thông tin để giải quyết sự không chắc chắn của sự kiện đó. Bit là một đơn vị thông tin điển hình, nhưng các đơn vị khác như nat có thể được sử dụng. Ví dụ, thông tin được mã hóa trong một lần lật đồng xu "công bằng" là log 2 (2/1) = 1 bit và trong hai lần lật đồng xu công bằng là log 2 (4/1) = 2 bit.
+
+
+== Phương pháp lý thuyết thông tin ==
+Trong lý thuyết thông tin, thông tin được lấy dưới dạng một chuỗi các ký hiệu từ một bảng chữ cái, giả sử một bảng chữ cái đầu vào và một bảng chữ cái đầu ra. Xử lý thông tin bao gồm một hàm đầu vào-đầu ra ánh xạ bất kỳ chuỗi đầu vào nào từ χ thành một chuỗi đầu ra từ. Các ánh xạ có thể là xác suất hoặc xác định. Nó có thể có bộ nhớ hoặc không có bộ nhớ.
+
+
+== Đầu vào cảm giác ==
+Thông tin thường có thể được xem như một loại đầu vào cho một sinh vật hoặc hệ thống. Đầu vào có hai loại; một số đầu vào rất quan trọng đối với chức năng của sinh vật (ví dụ, thức ăn) hoặc hệ thống (năng lượng) của chính chúng. Trong cuốn sách Sinh thái học giác quan  nhà sinh lý học David B. Dusenbery đã gọi những đầu vào nguyên nhân này. Các đầu vào (thông tin) khác chỉ quan trọng vì chúng được liên kết với các đầu vào nguyên nhân và có thể được sử dụng để dự đoán sự xuất hiện của đầu vào nguyên nhân sau đó (và có lẽ là một nơi khác). Một số thông tin rất quan trọng vì liên kết với các thông tin khác nhưng cuối cùng phải có kết nối với đầu vào nguyên nhân.
+Trong thực tế, thông tin thường được mang theo bởi các kích thích yếu phải được phát hiện bởi các hệ thống cảm giác chuyên biệt và được khuếch đại bởi các đầu vào năng lượng trước khi chúng có thể hoạt động với sinh vật hoặc hệ thống. Ví dụ, ánh sáng là chủ yếu (nhưng không chỉ, ví dụ, thực vật có thể phát triển theo hướng nguồn sáng) là đầu vào nguyên nhân cho thực vật nhưng đối với động vật, nó chỉ cung cấp thông tin. Ánh sáng màu phản chiếu từ một bông hoa quá yếu để quang hợp nhưng hệ thống thị giác của ong phát hiện ra nó và hệ thần kinh của ong sử dụng thông tin để dẫn ong đến hoa, nơi ong thường tìm thấy mật hoa hoặc phấn hoa, là nguyên nhân đầu vào, phục vụ một chức năng dinh dưỡng.
+
+
+== Mang tính đại diện và phức tạp ==
+Nhà khoa học nhận thức và nhà toán học ứng dụng Ronaldo Vigo cho rằng thông tin là một khái niệm đòi hỏi ít nhất hai thực thể liên quan để có ý nghĩa định lượng. Đây là, bất kỳ danh mục được xác định theo chiều của các đối tượng S và bất kỳ tập hợp con nào của nó R. R, về bản chất, là một đại diện của S, hay nói cách khác, truyền tải thông tin đại diện (và do đó, về khái niệm) về S. Vigo sau đó định nghĩa lượng thông tin mà R truyền tải về S là tốc độ thay đổi độ phức tạp của S mỗi khi các đối tượng trong R được xóa khỏi S. Theo "Thông tin Vigo", mô hình, tính bất biến, độ phức tạp, biểu diễn và thông tin của năm cấu trúc cơ bản của phổ quát khoa học được thống nhất theo một khung toán học mới. Trong số những thứ khác, khuôn khổ nhằm khắc phục những hạn chế của thông tin Shannon-Weaver khi cố gắng mô tả và đo lường thông tin chủ quan.
+
+
+== Gây ảnh hưởng dẫn đến sự biến đổi ==
+Thông tin là bất kỳ loại mẫu nào có ảnh hưởng đến sự hình thành hoặc biến đổi của các mẫu khác. Theo nghĩa này, không cần một tâm trí có ý thức để nhận thức, ít đánh giá cao, mô hình.     Xem xét, ví dụ, DNA. Trình tự các nucleotide là một mô hình có ảnh hưởng đến sự hình thành và phát triển của một sinh vật mà không cần một tâm trí có ý thức. Tuy nhiên, người ta có thể lập luận rằng để con người xác định một cách có ý thức một mẫu, ví dụ như nucleotide, tự nhiên liên quan đến việc xử lý thông tin có ý thức.
+Lý thuyết hệ thống đôi khi dường như đề cập đến thông tin theo nghĩa này, giả sử thông tin không nhất thiết liên quan đến bất kỳ tâm trí có ý thức nào và các mẫu lưu thông (do phản hồi) trong hệ thống có thể được gọi là thông tin. Nói cách khác, có thể nói rằng thông tin theo nghĩa này là thứ có khả năng được coi là đại diện, mặc dù không được tạo ra hoặc trình bày cho mục đích đó. Ví dụ, Gregory Bateson định nghĩa "thông tin" là "sự khác biệt tạo nên sự khác biệt".
+Tuy nhiên, nếu tiền đề của "ảnh hưởng" ngụ ý rằng thông tin đã được nhận thức bởi một tâm trí có ý thức và cũng được giải thích bởi nó, bối cảnh cụ thể liên quan đến việc giải thích này có thể gây ra sự chuyển đổi thông tin thành kiến thức. Các định nghĩa phức tạp về cả "thông tin" và "kiến thức" làm cho việc phân tích ngữ nghĩa và logic như vậy trở nên khó khăn, nhưng điều kiện "chuyển đổi" là một điểm quan trọng trong nghiên cứu thông tin vì
+
+Đưa ra quyết định hoặc đề xuất từ kiến thức kết quả
+Stewart (2001) cho rằng việc chuyển đổi thông tin thành kiến thức là rất quan trọng, nằm ở cốt lõi của việc tạo ra giá trị và lợi thế cạnh tranh cho doanh nghiệp hiện đại.
+Từ điển thông tin Đan Mạch  cho rằng thông tin chỉ cung cấp câu trả lời cho câu hỏi được đặt ra. Cho dù câu trả lời cung cấp kiến thức phụ thuộc vào người được thông báo. Vì vậy, một định nghĩa khái quát về khái niệm nên là: "Thông tin" = Câu trả lời cho một câu hỏi cụ thể ".
+Khi Marshall McLuhan nói về phương tiện truyền thông và ảnh hưởng của chúng đối với nền văn hóa của con người, ông đã đề cập đến cấu trúc của các đồ tạo tác hình thành nên hành vi và tư duy của chúng ta. Ngoài ra, pheromone thường được gọi là "thông tin" theo nghĩa này.
+
+
+== Thuộc tính trong vật lý ==
+Thông tin có một ý nghĩa được xác định rõ trong vật lý. Năm 2003, JD Bekenstein tuyên bố rằng một xu hướng phát triển trong vật lý là định nghĩa thế giới vật lý được tạo thành từ chính thông tin (và do đó thông tin được định nghĩa theo cách này) (xem Vật lý kỹ thuật số). Ví dụ về điều này bao gồm hiện tượng vướng víu lượng tử, trong đó các hạt có thể tương tác mà không cần tham chiếu đến sự phân tách của chúng hoặc tốc độ ánh sáng. Thông tin vật chất tự nó không thể truyền nhanh hơn ánh sáng ngay cả khi thông tin đó được truyền gián tiếp. Điều này có thể dẫn đến tất cả các nỗ lực quan sát vật lý một hạt có mối quan hệ "vướng víu" với hạt khác bị chậm lại, mặc dù các hạt không được kết nối theo bất kỳ cách nào khác ngoài thông tin mà chúng mang theo.
+Giả thuyết vũ trụ toán học cho thấy một mô hình mới, trong đó hầu như mọi thứ, từ các hạt và trường, thông qua các thực thể sinh học và ý thức, cho đến đa vũ trụ, có thể được mô tả bằng các mô hình thông tin toán học. Cùng một mã thông báo, khoảng trống vũ trụ có thể được hình thành là sự vắng mặt của thông tin vật chất trong không gian (đặt các hạt ảo xuất hiện và tồn tại do biến động lượng tử, cũng như trường hấp dẫn và năng lượng tối). Không có gì có thể hiểu được khi mà trong đó không có vấn đề gì, năng lượng, không gian, thời gian hoặc bất kỳ loại thông tin nào có thể tồn tại, điều đó có thể xảy ra nếu sự đối xứng và cấu trúc bị phá vỡ trong đa tạp (ví dụ như đa tạp sẽ có nước mắt hoặc hố). Thông tin vật lý tồn tại ngoài chân trời sự kiện, vì các quan sát thiên văn cho thấy, do sự giãn nở của vũ trụ, các vật thể ở xa tiếp tục vượt qua chân trời vũ trụ, như nhìn thấy từ thời điểm hiện tại, quan điểm của người quan sát địa phương.
+Một liên kết khác được thể hiện bằng thí nghiệm tư duy con quỷ của Maxwell. Trong thí nghiệm này, một mối quan hệ trực tiếp giữa thông tin và một thuộc tính vật lý khác, entropy, được thể hiện. Một hậu quả là không thể phá hủy thông tin mà không tăng entropy của một hệ thống; trong điều kiện thực tế điều này thường có nghĩa là tạo ra nhiệt. Một kết quả triết học khác là thông tin có thể được coi là có thể thay thế được với năng lượng. Toyabe và cộng sự. về mặt thực nghiệm cho thấy thông tin có thể được chuyển đổi thành công việc. Do đó, trong nghiên cứu về cổng logic, giới hạn thấp hơn về mặt lý thuyết của năng lượng nhiệt được giải phóng bởi cổng AND cao hơn so với cổng NOT (vì thông tin bị phá hủy trong cổng AND và được chuyển đổi đơn giản trong cổng NOT). Thông tin vật lý có tầm quan trọng đặc biệt trong lý thuyết về máy tính lượng tử.
+Trong nhiệt động lực học, thông tin là bất kỳ loại sự kiện nào ảnh hưởng đến trạng thái của một hệ thống động có thể diễn giải thông tin.
+
+
+== Ứng dụng của nghiên cứu thông tin ==
+Chu trình thông tin (được giải quyết toàn bộ hoặc trong các thành phần riêng biệt của nó) là mối quan tâm lớn đối với công nghệ thông tin, hệ thống thông tin, cũng như khoa học thông tin. Các trường này xử lý các quy trình và kỹ thuật liên quan đến thu thập thông tin (thông qua cảm biến) và tạo (thông qua tính toán, xây dựng hoặc thành phần), xử lý (bao gồm mã hóa, mã hóa, nén, đóng gói), truyền tải (bao gồm tất cả các phương thức viễn thông), trình bày (bao gồm cả phương pháp trực quan / hiển thị), lưu trữ (như từ tính hoặc quang học, bao gồm cả phương pháp hình ba chiều), v.v.
+
+Trực quan hóa thông tin (rút ngắn là InfoVis) phụ thuộc vào tính toán và biểu diễn kỹ thuật số của dữ liệu và hỗ trợ người dùng nhận dạng mẫu và phát hiện bất thường 
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+Bảo mật thông tin (rút ngắn là InfoSec) là quá trình thực hiện liên tục để bảo vệ thông tin và hệ thống thông tin, khỏi truy cập trái phép, sử dụng, tiết lộ, phá hủy, sửa đổi, gián đoạn hoặc phân phối, thông qua các thuật toán và quy trình tập trung vào giám sát và phát hiện, như cũng như ứng phó sự cố và sửa chữa..
+Phân tích thông tin là quá trình kiểm tra, biến đổi và mô hình hóa thông tin, bằng cách chuyển đổi dữ liệu thô thành kiến thức có thể hành động, để hỗ trợ quá trình ra quyết định.
+Chất lượng thông tin (rút ngắn là InfoQ) là tiềm năng của một bộ dữ liệu để đạt được mục tiêu cụ thể (khoa học hoặc thực tế) bằng cách sử dụng một phương pháp phân tích thực nghiệm nhất định.
+Truyền thông thông tin đại diện cho sự hội tụ của tin học, viễn thông và phương tiện nghe nhìn & nội dung.
+
+
+== Thông tin qua trung gian công nghệ ==
+Người ta ước tính rằng khả năng công nghệ của thế giới để lưu trữ thông tin đã tăng từ 2,6 exabyte (được nén tối ưu) vào năm 1986 - tức là thông tin tương đương với ít hơn một CD-ROM 730 MB mỗi người (539 MB mỗi người) - đến 295 (tối ưu đã nén) exabyte vào năm 2007  Đây là tương đương thông tin của gần 61 CD-ROM mỗi người trong năm 2007 
+Năng lực công nghệ kết hợp của thế giới để nhận thông tin qua các mạng phát sóng một chiều là tương đương thông tin với 174 tờ báo mỗi người mỗi ngày trong năm 2007 
+Năng lực kết hợp hiệu quả của thế giới để trao đổi thông tin qua mạng viễn thông hai chiều là tương đương thông tin với 6 tờ báo mỗi người mỗi ngày trong năm 2007 
+Tính đến năm 2007, ước tính 90% tất cả thông tin mới là kỹ thuật số, chủ yếu được lưu trữ trên ổ đĩa cứng.
+
+
+== Hồ sơ lưu trữ ==
+Hồ sơ là các dạng thông tin chuyên ngành. Về cơ bản, hồ sơ là thông tin được tạo ra một cách có ý thức hoặc là sản phẩm phụ của các hoạt động kinh doanh hoặc giao dịch và được giữ lại vì giá trị của chúng. Chủ yếu, giá trị của chúng là bằng chứng về các hoạt động của tổ chức nhưng chúng cũng có thể được giữ lại cho giá trị thông tin của chúng. Quản lý hồ sơ âm thanh đảm bảo rằng tính toàn vẹn của hồ sơ được bảo quản theo thời gian yêu cầu.
+Tiêu chuẩn quốc tế về quản lý hồ sơ, ISO 15361, định nghĩa hồ sơ là "thông tin được tạo, nhận và duy trì làm bằng chứng và thông tin của một tổ chức hoặc người, theo đuổi nghĩa vụ pháp lý hoặc trong giao dịch kinh doanh". Ủy ban Lưu trữ Quốc tế (ICA) về hồ sơ điện tử đã xác định một hồ sơ là "thông tin được ghi lại được tạo ra hoặc nhận được khi bắt đầu, tiến hành hoặc hoàn thành một hoạt động thể chế hoặc cá nhân và bao gồm nội dung, bối cảnh và cấu trúc đủ để cung cấp bằng chứng về Hoạt động".
+
+
+== Ký hiệu học ==
+Michael Buckland đã phân loại "thông tin" theo cách sử dụng: "thông tin là quá trình", "thông tin là kiến thức" và "thông tin là sự vật".
+Beynon-Davies  giải thích khái niệm thông tin nhiều mặt về mặt dấu hiệu và hệ thống tín hiệu. Bản thân các dấu hiệu có thể được xem xét theo bốn cấp độ phụ thuộc lẫn nhau, các lớp hoặc nhánh của ký hiệu học: thực dụng, ngữ nghĩa, cú pháp và kinh nghiệm. Bốn lớp này phục vụ để kết nối thế giới xã hội một mặt với thế giới vật lý hoặc kỹ thuật.
+Chủ nghĩa thực dụng quan tâm đến mục đích giao tiếp. Chủ nghĩa thực dụng liên kết vấn đề của các dấu hiệu với bối cảnh trong đó các dấu hiệu được sử dụng. Trọng tâm của thực dụng là vào ý định của các tác nhân sống bên dưới hành vi giao tiếp. Nói cách khác, thực dụng liên kết ngôn ngữ với hành động.
+Ngữ nghĩa liên quan đến ý nghĩa của một thông điệp được truyền tải trong một hành động giao tiếp. Ngữ nghĩa xem xét nội dung của truyền thông. Ngữ nghĩa là nghiên cứu về ý nghĩa của các dấu hiệu - sự liên kết giữa các dấu hiệu và hành vi. Ngữ nghĩa có thể được coi là nghiên cứu về mối liên hệ giữa các biểu tượng và các tham chiếu hoặc khái niệm của chúng - đặc biệt là cách các dấu hiệu liên quan đến hành vi của con người.
+Cú pháp liên quan đến chủ nghĩa hình thức được sử dụng để thể hiện một thông điệp. Cú pháp như một lĩnh vực nghiên cứu hình thức giao tiếp về mặt logic và ngữ pháp của các hệ thống ký hiệu. Cú pháp được dành cho việc nghiên cứu về hình thức chứ không phải là nội dung của các dấu hiệu và hệ thống ký hiệu
+Nielsen (2008) thảo luận về mối quan hệ giữa ký hiệu học và thông tin liên quan đến từ điển. Ông giới thiệu khái niệm về chi phí thông tin từ vựng và đề cập đến nỗ lực mà người dùng từ điển phải thực hiện trước tiên để tìm hiểu và sau đó hiểu dữ liệu để họ có thể tạo thông tin.
+Truyền thông thường tồn tại trong bối cảnh của một số tình huống xã hội. Tình hình xã hội đặt bối cảnh cho các ý định được truyền đạt (thực dụng) và hình thức giao tiếp. Trong một tình huống giao tiếp, ý định được thể hiện thông qua các thông điệp bao gồm các tập hợp các dấu hiệu liên quan đến nhau được lấy từ một ngôn ngữ được hiểu lẫn nhau bởi các tác nhân liên quan đến giao tiếp. Sự hiểu biết lẫn nhau ngụ ý rằng các tác nhân liên quan hiểu ngôn ngữ được chọn theo cú pháp đã được thống nhất (cú pháp) và ngữ nghĩa. Người gửi mã hóa tin nhắn bằng ngôn ngữ và gửi tin nhắn dưới dạng tín hiệu dọc theo một số kênh liên lạc (theo kinh nghiệm). Kênh truyền thông được chọn có các thuộc tính vốn có để xác định các kết quả như tốc độ truyền thông có thể diễn ra và khoảng cách.
+
+
+== Xem thêm ==
+Dữ liệu
+Trừu tượng
+Hệ thống thích ứng phức tạp
+Hệ thống phức tạp
+Điều khiển học
+Lưu trữ dữ liệu
+Quyền được thông tin
+Công nghệ thông tin và truyền thông
+Tin học
+Khoảng cách số
+Quản lý thông tin
+Chiến tranh thông tin
+Diễn đàn trực tuyến
+Khoa học thư viện
+Meme
+Triết học thông tin
+Đường cong ROC
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Liu, Alan (2004). The Laws of Cool: Knowledge Work and the Culture of Information. University of Chicago Press.
+Bekenstein, Jacob D. (tháng 8 năm 2003). “Information in the holographic universe”. Scientific American. 289 (2): 58–65. Bibcode:2003SciAm.289b..58B. doi:10.1038/scientificamerican0803-58.
+Gleick, James (2011). The Information: A History, a Theory, a Flood. New York, NY: Pantheon.
+Lin, Shu-Kun (2008). “Gibbs Paradox and the Concepts of Information, Symmetry, Similarity and Their Relationship”. Entropy. 10 (1): 1–5. arXiv:0803.2571. Bibcode:2008Entrp..10....1L. doi:10.3390/entropy-e10010001.
+Floridi, Luciano (2005). “Is Information Meaningful Data?” (PDF). Philosophy and Phenomenological Research. 70 (2): 351–70. doi:10.1111/j.1933-1592.2005.tb00531.x. hdl:2299/1825.
+Floridi, Luciano (2005). “Semantic Conceptions of Information”.  Trong Zalta, Edward N. (biên tập). The Stanford Encyclopedia of Philosophy . Metaphysics Research Lab, Stanford University.
+Floridi, Luciano (2010). Information: A Very Short Introduction. Oxford: Oxford University Press.
+Logan, Robert K. What is Information? - Propagating Organization in the Biosphere, the Symbolosphere, the Technosphere and the Econosphere. Toronto: DEMO Publishing.
+Nielsen, Sandro (2008). “The Effect of Lexicographical Information Costs on Dictionary Making and Use”. Lexikos. 18: 170–89.
+Stewart, Thomas (2001). Wealth of Knowledge. New York, NY: Doubleday.
+Young, Paul (1987). The Nature of Information. Westport, Ct: Greenwood Publishing Group. ISBN 978-0-275-92698-4.
+Kenett, Ron S.; Shmueli, Galit (2016). Information Quality: The Potential of Data and Analytics to Generate Knowledge. Chichester, United Kingdom: John Wiley and Sons. doi:10.1002/9781118890622. ISBN 978-1-118-87444-8.
+
+
+== Liên kết ngoài ==
+
+Semantic Conceptions of Information Review by Luciano Floridi for the Stanford Encyclopedia of Philosophy
+Principia Cybernetica entry on negentropy
+Fisher Information, a New Paradigm for Science: Introduction, Uncertainty principles, Wave equations, Ideas of Escher, Kant, Plato and Wheeler. Lưu trữ 2010-04-09 tại Wayback Machine This essay is continually revised in the light of ongoing research.
+How Much Information? 2003 Lưu trữ 2010-04-07 tại Wayback Machine an attempt to estimate how much new information is created each year (study was produced by faculty and students at the School of Information Management and Systems at the University of California at Berkeley)

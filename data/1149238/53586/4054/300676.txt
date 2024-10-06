@@ -1,0 +1,95 @@
+Từ đa nghĩa (cách gọi khác từ nhiều nghĩa) là những từ có một số nghĩa biểu thị những đặc điểm, thuộc tính khác nhau của một đối tượng, hoặc biểu thị những đối tượng khác nhau của thực tại. Hiện tượng từ đa nghĩa được quan sát thấy ở hầu hết các ngôn ngữ trên thế giới. Ví dụ như từ đi trong tiếng Việt là một từ đa nghĩa, nó vừa có nghĩa gốc là chỉ dịch chuyển bằng hai chi dưới (tôi đi rất nhanh nhưng vẫn không đuổi kịp anh ấy) vừa có nghĩa chuyển là chỉ một người nào đó đã chết (Anh ấy ra đi mà không kịp nói lời trăng trối). Còn trong tiếng Anh từ issue có nghĩa là vấn đề tranh cãi, nhưng đấy không phải là nghĩa duy nhất, nó còn nghĩa khác là tạp chí được xuất bản định kỳ. Từ đa nghĩa khác từ đồng âm ở chỗ các từ đa nghĩa thường có một nét nghĩa chung hay nói cách khác chúng có cùng một nguồn gốc, sau đó mới chia tách ra như hiện tại. Từ đa nghĩa là một trong các nguyên nhân gây nhập nhằng trong xử lý ngôn ngữ tự nhiên. Để xác định chính xác nghĩa của một từ đa nghĩa phải thực hiện phân tích ngữ cảnh.
+
+
+== Nguyên nhân tồn tại ==
+Nguyên nhân tồn tại của từ đa nghĩa là do số lượng từ vựng của một ngôn ngữ có hạn, trong khi số lượng khái niệm của thế giới thực là vô số. Hơn nữa, một số khái niệm có nhiều sắc thái ý nghĩa tương đồng nhau mặc dù không trùng khít. Hiện tượng từ đa nghĩa tồn tại cả ở lớp từ định danh (thực từ) và lớp từ công cụ (hư từ), mặc dù hư từ (như các từ: do, bởi, vì, mà,…) là các từ trừu tượng không dễ để phát triển nghĩa phái sinh cho nó, điều này cho thấy tính chất hết sức mềm dẻo của ngôn ngữ.
+
+
+== Ảnh hưởng ==
+Từ đa nghĩa làm tăng thời gian cần để hiểu chính xác nội dung của văn bản hoặc lời nói, trong một số trường hợp có thể gây hiểu lầm, điều này đặc biệt hay xảy ra đối với người học ngoại ngữ. Từ sự đa nghĩa ở cấp độ từ vựng có thể gây ra hiện tượng đa nghĩa ở cấp độ cao hơn là câu hoặc thậm chí trong một đoạn văn ngắn. Ví dụ trong câu sau, vẫn với từ đa nghĩa "đi":
+
+Anh ấy đi rồi.
+Nếu chỉ duy nhất câu này người đọc không rõ nghĩa chính xác của câu, nó có thể chỉ một người vừa đi đâu đó trước khi người kia đến hoặc một cách nói tránh rằng ai đó vừa chết, vậy đây là câu đa nghĩa.
+Trên thực tế, người bản ngữ xử lý rất tốt hiện tượng nhập nhằng do từ đa nghĩa gây ra căn cứ trên thông tin ngữ cảnh cung cấp.
+
+
+== Một số cách phân loại từ đa nghĩa ==
+
+
+=== Nghĩa gốc và nghĩa chuyển ===
+Trong cách phân chia này người ta dựa vào tiêu chí nguồn gốc của nghĩa. Khái niệm nghĩa gốc là nghĩa có trước, còn nghĩa chuyển là các nghĩa được hình thành sau này và dựa trên nghĩa gốc. Từ "đi" như ở trên là một ví dụ. Nhưng nếu xét về tính ứng dụng, không phải lúc nào nghĩa gốc cũng là nghĩa phổ biến nhất,nếu có thì xem các nghĩa của tính từ "bạc" sau đây:
+
+Mỏng manh, ít ỏi, không trọn vẹn: Mệnh bạc,đời bạc...(1)
+Ít ỏi, sơ sài (trái với hậu): Lễ bạc lòng thành,...(2)
+Không nhớ ơn nghĩa, không giữ được tình nghĩa trọn vẹn trước sau như một: Ăn ở bạc với bố mẹ,...(3)
+Nghĩa (1) của tính từ "bạc" là nghĩa từ nguyên có gốc là tiếng Hán. Nghĩa (2) và (3) của nó đều được phái sinh từ nghĩa (1). Thế nhưng trong tiếng Việt hiện đại, nghĩa (3) mới là nghĩa phổ biến nhất[1]. Dựa vào nghĩa gốc, ta phát hiện các nghĩa phái sinh và các quy tắc chuyển nghĩa của chúng.
+
+
+=== Nghĩa thường trực và nghĩa không thường trực ===
+
+Tiêu chí của cách phân chia này là xem nghĩa của từ đã thực sự mang tính ổn định, thống nhất chưa, hay chỉ đúng trong một số tình huống nào đó mà thôi. Nói một cách chính xác thì một nghĩa được coi là nghĩa thường trực, nếu nó đã đi vào cơ cấu chung ổn định của nghĩa từ và được nhận thức một cách ổn định, như nhau trong các hoàn cảnh khác nhau. Nghĩa không thường trực của từ còn gọi là nghĩa ngữ cảnh, nghĩa này rất hay gặp trong cách nói bóng gió của ngôn ngữ giao tiếp,truyện ngụ ngôn hoặc trong cách nói ẩn dụ, hoán dụ[2]. Ví dụ xét câu sau trong lời bài hát "Áo trắng em đến trường":
+
+Áo trắng em đến trường, cùng đàn chim ca rộn ràng. Từng làn gió vờn tóc em, kỷ niệm buồn vui ngập tràn.
+"Áo trắng" trong câu này chỉ đến nữ sinh, và nó chỉ mang nghĩa đúng trong một số trường hợp mà thôi như vậy ta nói nghĩa của từ áo trắng là nữ sinh là nghĩa không thường trực. Một từ trước khi có thêm một nghĩa mới nào đó có tính chất ổn định thì nghĩa ấy phải trải qua một giai đoạn mang nghĩa không thường trực, theo thời gian nghĩa không thường trực có thể trở thành nghĩa thường trực, điều đó có thành sự thực hay không phụ thuộc vào quyết định của cộng đồng sử dụng ngôn ngữ đó.
+
+
+=== Nghĩa tự do và nghĩa hạn chế ===
+
+
+=== Nghĩa trực tiếp và nghĩa gián tiếp ===
+
+
+== Quan hệ của tính đa nghĩa đến các lớp từ vựng khác nhau ==
+
+
+=== Lớp từ vựng phổ thông ===
+Lớp từ vựng phổ thông là lớp từ có tần số sử dụng lớn nhất (còn gọi là nhóm từ vựng tích cực), đó là những từ thường liên quan mật thiết đến cuộc sống hàng ngày, như các từ "ngủ", "ngon", "ăn" v.v. Nhiều từ trong chúng có số lượng nghĩa lớn, cụ thể từ "ăn" có đến 12 nghĩa, từ "mũi" có 8 nghĩa[3], sở dĩ có hiện tượng này là vì khi được sử dụng nhiều lần và vào nhiều hoàn cảnh khác nhau khả năng biến đổi nghĩa của từ cũng tăng lên.
+
+
+=== Lớp từ vựng chuyên ngành ===
+Lớp từ vựng chuyên ngành là lớp từ vựng thuộc các lĩnh vực khoa học mà bất kỳ chuyên ngành nào cũng có. Nó ít có khả năng trở thành đa nghĩa vì sự hạn chế về tần suất sử dụng (còn gọi là nhóm từ vựng tiêu cực) nhất là các chuyên ngành hẹp và sâu, hơn nữa do yêu cầu về tính học thuật, các từ vựng chuyên ngành thường đơn nghĩa.
+
+
+== Phương pháp hình thành từ đa nghĩa ==
+
+
+=== Phương pháp ẩn dụ ===
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+Ẩn dụ là một phương thức chuyển tên gọi dựa trên sự liên tưởng, so sánh những mặt, những thuộc tính,... giống nhau giữa các đối tượng được gọi tên[4]. Ví dụ như từ "lá" được dùng theo nghĩa gốc là chỉ bộ phận của cây, thường ở trên cành cây, ngọn cây, đa phần có dáng mỏng. Từ nghĩa gốc đó lá đã mở rộng nghĩa của nó trong các từ ghép như lá gan, lá đơn, lá cờ. Sự chuyển nghĩa ở trên có lý do tương đồng, như lá cờ là vật làm bằng vải, có bề mặt mỏng như lá cây.
+
+
+=== Phương pháp hoán dụ ===
+Hoán dụ là phương thức làm biến đổi nghĩa của từ bằng cách chuyển tên gọi từ sự vật hoặc hiện tượng này sang sự vật hoặc hiện tượng khác, dựa trên mối liên hệ giữa các sự vật hoặc hiện tượng ấy[5]. Ví dụ như từ "Nhà Trắng" thường được dùng để chỉ chính quyền của tổng thống Hoa Kỳ đương nhiệm bởi vì đó là nơi làm việc chính của tổng thống Hoa Kỳ và ngôi nhà được sơn màu trắng, như vậy là đã có hiện tượng chuyển tên gọi màu sơn của ngôi nhà sang một khái niệm khác nó, đây là phương thức hoán dụ giữa bộ phận và toàn thể.
+
+
+=== Cách thức phân biệt ===
+Ẩn dụ và hoán dụ hay bị lầm lẫn, nhưng thực tế hai khái niệm cách nhau khá xa. Ẩn dụ dựa trên đặc điểm chung giữa hai khái niệm nghĩa là nội hàm hai khái niệm đó tương đối gần nhau, trong khi hoán dụ lại là phương thức đánh tráo khái niệm do vậy thường có nội hàm cách nhau xa như Nhà Trắng và Chính quyền của tổng thống Hoa Kỳ về nghĩa đen là khác xa nhau.
+
+
+== Chú thích ==
+^ Phân tích nghĩa của từ
+^  Từ vựng và ngữ nghĩa, So sánh ẩn dụ trong thông điệp quảng cáo Lưu trữ 2009-12-29 tại Wayback Machine
+^  Từ điển Tiếng Việt (Hoàng Phê)
+^ Cơ cấu nghĩa của từ
+
+
+== Tham khảo ==
+Từ đồng nghĩa
+Kết hợp các nguồn tri thức khác nhau để xử lý nhập nhằng ngữ nghĩa Lưu trữ 2009-02-05 tại Wayback Machine
+
+
+== Xem thêm ==
+Ngụ ngôn
+Nhập nhằng
+Hoán dụ
+Từ đồng nghĩa
+Từ đồng âm

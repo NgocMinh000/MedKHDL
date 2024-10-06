@@ -1,0 +1,69 @@
+Chất chỉ điểm khối u là một dấu ấn sinh học được phát hiện trong máu, nước tiểu và mô, được dùng để đánh giá sự có mặt của một hay nhiều loại ung thư. Có rất nhiều loại chất chỉ điểm khối u khác nhau, mỗi loại đại diện cho một quá trình bệnh lý nhất định và được sử dụng để phát hiện ung thư. Định lượng chất chỉ điểm khối u có thể phát hiện ung thư nhưng cũng có nhiều nguyên nhân khác gây tăng các chất này (dương tính giả).
+Chất chỉ điểm khối u có thể được sản xuất trực tiếp bởi khác tế bào của khối hoặc các tế bào chịu ảnh hưởng bởi sự có mặt của khối u
+Mặc dù chụp X quang tuyến vú, siêu âm, chụp cắt lớp vi tính, cộng hưởng từ và xét nghiệm chất chỉ điểm khối u có giúp đánh giá giai đoạn và điều trị ung thư nhưng không đưa ra được chẩn đoán xác định mà cần phải sinh thiết.
+
+
+== Phân loại ==
+Các chất chỉ điểm khối u có thể là protein, protein liên hợp, peptides hoặc carbohydrates. Protein hoặc protein liên hợp có thể là enzym, hormone hoặc các đoạn protein. Giải trình tự gene nhằm mục đích chẩn đoán giúp phân loại các dấu ấn sinh học không được bàn luận tại đây.
+
+
+== Chỉ định ==
+Chất chỉ điểm khối u có thể được chỉ định để:
+
+Tầm soát một số ung thư phổ biến. Tầm soát tất cả hoặc phần lớn ung thư đã từng được đề xuất nhưng không cho thấy hiệu quả thực tiễn. Tầm soát một loại ung thư hoặc một vị trí cần có độ nhạy và độ đặc hiệu đạt ngưỡng nhất định. Ví dụ, kháng nguyên đặc hiệu tiền liệt tuyến (PSA) tăng được sử dụng như một dấu hiệu cho ung thư tiền liệt tuyến ở một số quốc gia.
+Theo dõi bệnh nhân ung thư sau điều trị, xác định các bệnh gần đây. Ví dụ: tăng AFP ở một đứa trẻ đã được điều trị u tế bào mầm có thể định hướng đến u nội bì tái phát.
+Chẩn đoán các loại u đặc trưng, đặc biệt là u não và những u tương tự không thể sinh thiết.
+Xác nhận lại chẩn đoán để kiểm tra các đặc điểm như kích thước, mức độ xâm lấn của khối u và nhờ đó giúp đánh giá lại hiệu quả của liệu pháp điều trị. 
+Đánh giá giai đoạn: một số chất chỉ điểm khối u bao gồm quá các quá trình đánh giá giai đoạn của một số vị trí khối u.
+Tiên lượng kế hoạch điều trị trước khi điều trị và giúp bệnh nhân lên kế hoạch sau điều trị bằng phẫu thuật.
+Kiểm tra hiệu quả của điều trị để thay đổi phương pháp nếu không hiệu quả.
+Xem xét một phương pháp điều trị có phù hợp với một nhóm hoặc dưới nhóm u đặc biệt là trong y học cá nhân hóa.
+Như đã được phát biểu trong BMJ 2009, dấu ấn sinh học không được khuyến cáo sử dụng cho mục đích chẩn đoán ung thư, mà được dùng để theo dõi tiến triển, trên từng loại ung thư, từng trường hợp lâm sàng, tầm soát. Việc sử dụng xét nghiệm mà không hiểu giá trị của chúng sẽ gây ra việc chỉ định xét nghiệm chất chỉ điểm khối u không phù hợp và gây ra kiểm tra quá nhiều ung thư.
+
+
+== Kỹ thuật ==
+Các chất chỉ điểm ung thư thường được xét nghiệm trong huyết tương, hiếm khi sử dụng nước tiểu hoặc các dịch khác. Thường sử dụng xét nghiệm miễn dịch nhưng những kỹ thuật khác như xác định hoạt tính enzym cũng đôi khi được sử dụng. Xét nghiệm hóa mô miễn dịch trên mô không cho kết quả định lượng nên không được sử dụng.
+Có nhiều kỹ thuật khác nhau được sử dụng trong nhiều xét nghiệm. Trong theo dõi tiến triển bệnh, điều quan trọng là cần xét nghiệm với cùng một kỹ thuật do kết quả từ các xét nghiệm khác nhau thường không thể so sánh được. Ví dụ như có nhiều kít xét nghiệm thương mại khác nhau để định lượng AFP, dựa trên nhiều kỹ thuật khác nhau hay cho thymidine kinase cũng có nhiều xét nghiệm cho cả hoạt tính của enzym và lượng enzym
+Nếu cần đánh giá lại chất chỉ điểm khối u, một số phòng thí nghiệm lâm sàng cung cấp một hệ thống cơ chế đặc biệt liên kết các kết quả xét nghiệm của người bệnh với nhau. Điều này đòi hỏi một mã đặc trưng cho từng người bệnh. Tại Mỹ người ta dùng Social Security number và căn cước công dân ở Bahrain.
+Các xét nghiệm chất chỉ điểm khối u và cả những xét nghiệm lâm sàng khác thường được nghiên cứu trong các phòng thí nghiệm tại châu Âu. Ở Mỹ, New York là nơi đi đầu trong những nghiên cứu này.
+
+
+== Danh sách các chất chỉ điểm thường dùng ==
+
+
+== Độ chính xác ==
+Độ chính xác của mỗi xét nghiệm rất khác nhau: một số xét nghiệm cho thay đổi nhỏ trong nồng độ hay hoạt động do đó đòi hỏi cần có độ chính xác cao trong khi những xét nghiệm khác có thể có một sự khác biệt lớn giữa giá trị bình thường và bệnh lý nên không cần độ chính xác quá cao. Do đó, độ chính xác cho mỗi thí nghiệm khác nhau phụ thuộc vào từng trường hợp như chẩn đoán và mục đích. Điều này cũng bị ảnh hưởng bởi khoảng hữu ích cho mỗi xét nghiệm được chỉ định cho từng chẩn đoán và mục đích sử dụng. Mỗi phòng xét nghiệm nên kiểm tra độ chính xác của xét nghiệm qua thiết bị và người xét nghiệm.
+Hiệu ứng mẫu bệnh phẩm có nồng độ cao (high dose hook effect) là một sai số của các bộ xét nghiệm miễn dịch khiến cho báo cáo nồng độ thấp trong khi thực tế là cao. Hook effect có thể cản trở việc phát hiện khối u. Hook effect có thể được kiểm tra bằng thí nghiệm pha loãng. Không có hiện tượng high dose hook effect nếu như nồng độ chất chỉ điểm khối u giảm dần sau khi pha loãng.
+
+
+== Xét nghiệm nhiều chất chỉ điểm khối u ==
+So với những xét nghiệm khác, các chất chỉ điểm khối u có một số đặc điểm làm ảnh hưởng đến khả năng sử dụng của chúng: 
+
+Độ nhạy không cao gây âm tính giả, ví dụ: kết quả xét nghiệm là âm tính nhưng vẫn có ung thư hoặc bệnh lý khác.
+Độ đặc hiệu không cao, gây dương tính giả, ví dụ: không có ung thư nhưng xét nghiệm cho kết quả ngược lại gây ra thực hiện các xét nghiệm và lo lắng không cần thiết.
+So với những xét nghiệm khác, giá trị ước lượng (có thể là âm tính hoặc dương tính thật), phụ thuộc mạnh vào xác suất trước xét nghiệm. Giá trị ước lượng có thể tăng nếu hai hoặc nhiều xét nghiệm được thực hiện đồng thời và có giá trị ước lượng tương đương nhau.
+Việc kết hợp nhiều xét nghiệm sẽ cho kết quả chính xác hơn ví dụ:
+
+Đại trực tràng: M2-PK; nếu M2-PK không có sẵn, có thể xét nghiệm CEA, CA 19-9, CA 125
+Ung thư vú:  CEA, CA 15-3, Cyfra 21-1
+Buồng trứng: CEA, CA 19-9, CA 125, AFP, BHCG
+Tử cung: CEA, CA 19-9, CA 125, Cyfra 21-1, SCC
+Tiền liệt tuyến: PSA, FPSA và tỷ lệ
+Tinh hoàn: AFP, BHCG
+Tụy/dạ dày: CEA, CA 19-9, CA 72-4
+Gan: CEA, AFP
+Thực quản: CEA, Cyfra 21-1
+Tuyến giáp: CEA, NSE
+Phổi: CEA, CA 19-9, CA 125, NSE, Cyfra 21-1 (độ nhạy  95 phần trăm cho Cyfra 21-1 là 79 phần trăm, trong khi SCC và CEA là 41 và 31 phần trăm)
+Bàng quang: CEA, Cyfra 21-1, TPA
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Lüftner, D; Mesterharm, J; Akrivakis, C; Geppert, R; Petrides, PE; Wernecke, KD; Possinger, K (2000). “Tumor type M2 pyruvate kinase expression in advanced breast cancer”. Anticancer research. 20 (6D): 5077–82. PMID 11326672.
+
+
+== Liên kết ngoài ==
+MeSH Tumor+Markers,+Biological

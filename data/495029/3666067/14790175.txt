@@ -1,0 +1,26 @@
+Trang thiết bị y tế là các loại thiết bị, dụng cụ, vật liệu, vật tư cấy ghép, thuốc thử và chất hiệu chuẩn in vitro, phần mềm (software) được sử dụng riêng lẻ hay phối hợp với nhau theo chỉ định của chủ sở hữu trang thiết bị y tế để phục vụ cho con người nhằm một hoặc nhiều mục đích sau đây:
+a) Chẩn đoán, ngăn ngừa, theo dõi, điều trị và làm giảm nhẹ bệnh tật hoặc bù đắp tổn thương, chấn thương;
+b) Kiểm tra, thay thế, điều chỉnh hoặc hỗ trợ giải phẫu và quá trình sinh lý;
+c) Hỗ trợ hoặc duy trì sự sống;
+d) Kiểm soát sự thụ thai;
+đ) Khử khuẩn trang thiết bị y tế, bao gồm cả hóa chất sử dụng trong quy trình xét nghiệm;
+e) Vận chuyển chuyên dụng hoặc sử dụng phục vụ cho hoạt động y tế;
+g) Cung cấp thông tin cho việc chẩn đoán, theo dõi, điều trị thông qua biện pháp kiểm tra các mẫu vật có nguồn gốc từ cơ thể con người.
+
+
+== Lịch sử ==
+Khám phá về những gì sẽ được coi là một thiết bị y tế theo tiêu chuẩn hiện đại có từ thời gian khoảng 7000 năm TCN tại Baluchistan, nơi các nha sĩ thời đồ đá mới sử dụng máy khoan và đá mũi nhọn.  Nghiên cứu về khảo cổ học và tài liệu y học La Mã cũng chỉ ra rằng nhiều loại thiết bị y tế đã được sử dụng rộng rãi trong thời La Mã cổ đại.  Ở Hoa Kỳ, cho đến khi Đạo luật Thực phẩm, Dược phẩm và Mỹ phẩm Liên bang (Đạo luật FD & C) năm 1938, các thiết bị y tế được quy định.  Sau năm 1976, Đạo luật Sửa đổi Thiết bị Y tế cho Đạo luật FD & C đã thiết lập quy định và giám sát thiết bị y tế như chúng ta biết ngày nay ở Hoa Kỳ.  Quy định về thiết bị y tế ở châu Âu như chúng ta biết ngày nay đã có hiệu lực vào năm 1993 bởi cái được gọi chung là Chỉ thị thiết bị y tế (MDD).  Vào ngày 26 tháng 5 năm 2017, Quy định về Thiết bị Y tế (MDR) đã thay thế MDD.
+Các thiết bị y tế khác nhau về cả mục đích sử dụng và chỉ định sử dụng.  Các ví dụ bao gồm từ các thiết bị đơn giản, có nguy cơ thấp như tấm đè lưỡi, nhiệt kế y tế, găng tay dùng một lần và khăn trải giường đến các thiết bị phức tạp, có nguy cơ cao được cấy ghép và duy trì sự sống.  Một ví dụ về các thiết bị có nguy cơ cao là những người có phần mềm nhúng như máy tạo nhịp, và đó hỗ trợ trong việc tiến hành xét nghiệm y tế, cấy ghép, và làm bộ phận giả.  Các mặt hàng phức tạp như vỏ cho ốc tai điện tử được sản xuất thông qua các quy trình sản xuất được thực hiện sâu và nông.  Thiết kế của các thiết bị y tế tạo thành một phân khúc chính của lĩnh vực kỹ thuật y sinh.
+Thị trường thiết bị y tế toàn cầu đạt khoảng 209 tỷ USD vào năm 2006  và được ước tính là từ 220 đến 250 tỷ USD vào năm 2013.  Hoa Kỳ kiểm soát ~ 40% thị trường toàn cầu, tiếp theo là Châu Âu (25%), Nhật Bản (15%) và phần còn lại của thế giới (20%).  Mặc dù chung châu Âu có thị phần lớn hơn, Nhật Bản có thị phần quốc gia lớn thứ hai.  Thị phần lớn nhất ở châu Âu (theo thứ tự kích thước thị phần) thuộc về Đức, Ý, Pháp và Vương quốc Anh.  Phần còn lại của thế giới bao gồm các khu vực như (không theo thứ tự cụ thể) Úc, Canada, Trung Quốc, Ấn Độ và Iran.  Bài viết này thảo luận về những gì cấu thành một thiết bị y tế ở các khu vực khác nhau và trong suốt bài viết, các khu vực này sẽ được thảo luận theo thứ tự thị phần toàn cầu của chúng. 
+
+
+== phân loại thiết bị y tế ==
+Trang thiết bị y tế gồm 2 nhóm được phân làm 4 loại dựa trên mức độ rủi ro tiềm ẩn liên quan đến thiết kế kỹ thuật và sản xuất các trang thiết bị y tế đó:
+1. Nhóm 1 gồm trang thiết bị y tế thuộc loại A là trang thiết bị y tế có mức độ rủi ro thấp.
+2. Nhóm 2 gồm trang thiết bị y tế thuộc loại B, C và D, trong đó:
+a) Trang thiết bị y tế thuộc loại B là trang thiết bị y tế có mức độ rủi ro trung bình thấp;
+b) Trang thiết bị y tế thuộc loại C là trang thiết bị y tế có mức độ rủi ro trung bình cao;
+c) Trang thiết bị y tế thuộc loại D là trang thiết bị y tế có mức độ rủi ro cao.
+
+
+== Tham khảo ==

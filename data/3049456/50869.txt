@@ -1,0 +1,67 @@
+Hạ kali máu (Hypokalemia hoặc hypokalaemia) là tình trạng cơ thể không giữ được lượng kali đủ để duy trì hoạt động bình thường, và có thể dẫn đến tử vong.
+
+
+== Triệu chứng ==
+Hạ kali có thể không có triệu chứng, nhưng hạ kali nặng có thể gây:
+
+Yếu cơ và đau cơ, vọp bẻ, liệt, dị cảm, táo bón, buồn nôn, nôn
+Tăng nguy cơ hạ natri máu, dẫn đến lẫn lộn và co giật
+Rối loạn nhịp tim (từ nhẹ đến nặng)
+Biểu hiện trên điện tâm đồ:
+
+Sóng T dẹt (có khía)
+Xuất hiện sóng U đi theo sau sóng T. Hạ kali máu nặng sóng U khổng lồ có thể nhầm lẫn với sóng T, từ đó có thể biểu hiện như QT dài vì thực ra là QU. Sóng U có nền rộng, phân biệt với sóng T trong tăng kali máu có nền hẹp, đỉnh cao và nhọn, khoảng QT bình thường hoặc ngắn.
+ST chênh xuống
+Rối loạn nhịp thất (như ngoại tâm thu thất, torsade de pointes, rung thất)
+Rối loạn nhịp nhĩ (như ngoại tâm thu nhĩ, rung nhĩ)
+Hạ kali máu có thể tạo nguy cơ nhiễm độc digitalis ở bệnh nhân đang dùng digoxin.
+
+
+== Nguyên nhân ==
+Có nhiều nguyên nhân dẫn đến hạ kali máu.
+
+Có lẽ rõ ràng nhất là hạ kali máu do ăn vào không đủ kali (chế độ ăn ít kali). Tuy nhiên thường gặp nhất là hạ kali do mất nước quá nhiều, mất nước nặng làm mất kali ra khỏi cơ thể. Trong trường hợp điển hình, đây là hậu quả của nôn và tiêu chảy, nhưng cũng có thể xảy ra ở vận động viên bị đổ mồ hôi quá mức. Mất còn có thể do thụt tháo hoặc quai hồi tràng.
+Một số thuốc cũng có thể thúc đẩy thải trừ kali ra khỏi cơ thể, bao gồm thuốc lợi tiểu thiazide, như hydrochlorothiazide; thuốc lợi tiểu quai, như furosemide; cũng như các loại thuốc nhuận trường. Cùng với tiêu chảy, điều trị lợi tiểu và lạm dụng thuốc nhuận trường là các nguyên nhân thường gặp nhất gây hạ kali máu ở người lớn tuổi. Các thuốc khác có liên hệ với hạ kali máu như thuốc chống nấm amphotericin B, thuốc đồng vận beta-adrenergic, thuốc steroid, theophylline, aminoglycoside.
+Một trường hợp đặc biệt gây mất kali là khi nhiễm ketoacid đái tháo đường. Ngoài việc mất theo nước tiểu do đa niệu và giảm thể tích, kali còn bị mất cưỡng bức ở ống thận như là thành phần mang điện tích dương gắn với ketone, β-hydroxybutyrate, mang điện tích âm.
+Các khiếm khuyết di truyền hiếm gặp ở các chất vận chuyển muối, như hội chứng Bartter hay hội chứng Gitelman cũng có thể gây hạ kali máu, theo cách tương tự như thuốc lợi tiểu.
+Hạ magie máu cũng có thể gây hạ kali máu, vì magnesi cần cho xử lý kali. Nguyên nhân này có thể được phát hiện khi hạ kali tiếp diễn dù đã bổ sung kali. Các bất thường điện giải khác cũng có thể hiện diện.
+Các tình trạng bệnh lý dẫn đến aldosterone cao bất thường gây tăng huyết áp và mất kali qua nước tiểu, bao gồm hẹp động mạch thận, hội chứng Cushing, hay các u (thường không ác tính) của tuyến thượng thận. Tăng huyết áp và hạ kali máu cũng có thể gặp khi thiếu men 11β-hydroxylase (xúc tác phản ứng chuyển deoxycorticosterone thành corticosterone ở con đường mineralocorticoid và chuyển 11-deoxycortisol thành cortisol ở con đường glucocorticoid) dẫn đến ứ đọng deoxycorticosterone và 11-deoxycortisol. Sự thiếu hụt này có thể bẩm sinh hoặc do ăn vào acid glycyrrhizic có trong chiết xuất của cam thảo, đôi khi được tìm thấy trong các phụ gia thảo mộc và kẹo.
+Nhập vào lượng caffein quá cao (nồng độ >40 mg/l trong máu).
+
+
+== Sinh lý bệnh ==
+Kali cần thiết cho nhiều chức năng của cơ thể, bao gồm hoạt động thần kinh và cơ. Kali là cation nội bào chính, với nồng độ khoảng 145 mEq/l, trong khi nồng độ ở dịch ngoại bào, trong đó có máu, là 4 mEq/l. Hơn 98% lượng kali trong cơ thể nằm trong tế bào; việc đo lường kali từ mẫu máu tương đối không nhạy: dao động nhỏ trong máu tương ứng với thay đổi rất lớn trong tổng dự trữ kali của cơ thể.
+Chênh lệch thẩm thấu giữa khoảng nội bào và ngoại bào của kali cần thiết cho chức năng thần kinh; cụ thể là kali cần cho tái phân cực màng tế bào đến trạng thái nghỉ sau khi trải qua một điện thế hoạt động. Giảm lượng kali ngoại bào dẫn đến tăng phân cực điện thế màng ở trạng thái nghỉ, từ đó kích thích cần phải lớn hơn bình thường để có thể gây khử cực màng nhằm khởi đầu một điện thế hoạt động.
+Kali cũng thiết yếu cho chức năng bình thường của cơ, cả cơ chủ ý (ví dụ cánh tay, bàn tay...) và cơ không chủ ý (ví dụ tim, ruột...). Bất thường nghiêm trọng về nồng độ kali có thể huỷ hoại chức năng tim một cách trầm trọng, thậm chí dẫn đến ngưng tim và tử vong.
+Nồng độ kali trong máu người bình thường là từ 3,5 đến 5,0 mEq/l.
+
+
+== Điều trị ==
+Bước quan trọng trong điều trị hạ kali nặng là loại bỏ nguyên nhân, như điều trị tiêu chảy hoặc ngưng dùng thuốc gây hạ kali.
+Hạ kali nhẹ (>3,0 mmol/l) có thể được điều trị bằng cách bổ sung kali chloride theo đường uống (Sando-K®, Slow-K®). Vì đây thường là một phần của chế độ dinh dưỡng kém, các thực phẩm chứa kali có thể được khuyến cáo, như cà chua, cam (trái cây) hay chuối. Bổ sung kali bằng chế độ ăn và thuốc được dùng ở bệnh nhân điều trị với thuốc lợi tiểu.
+Hạ kali nặng (<3,0 mmol/l) có thể cần bổ sung kali đường tĩnh mạch. Thông thường 20-40 mmol KCl/l saline được dùng. Truyền tĩnh mạch kali ở tốc độ cao có thể dẫn đến nhịp nhanh thất và cần theo dõi chặt chẽ và liên tục. Đo nồng độ kali mỗi 1-3 giờ.
+Trường hợp hạ kali khó hoặc kháng trị có thể cải thiện với amiloride, một thuốc lợi tiểu giữ kali, hoặc spironolactone. Cần kiểm tra các bất thường chuyển hoá cùng tồn tại (như hạ magnesi máu).
+Ở bệnh nhân hạ kali máu và nhiễm ketoacid đái tháo đường, một phần kali huyết thanh nên được bù bằng với kali phosphat.
+Nếu kali được thay thế quá nhanh, nồng độ kali huyết thanh tăng cao có thể gây triệu chứng tăng kali máu; tuy nhiên tổng lượng kali cơ thể vẫn có thể dưới mức bình thường.
+
+
+== Hạ kali ở thú nuôi ==
+Hạ kali có thể gặp ở mèo tuổi cao, nhưng mèo con Miến Điện có khuynh hướng về di truyền bị hạ kali máu nếu cả bố mẹ có gen khiếm khuyết. Các triệu chứng gồm lảo đảo, không giữ được đầu thẳng đứng mà bị gục xuống một cách đáng lo sợ, và mèo vẫn ăn ngon miệng nhưng không tăng cân. Điều trị bằng cách thêm viên kali nghiền vào thức ăn.
+
+
+== Xem thêm ==
+Hạ magnesi máu
+Tăng kali máu
+
+
+== Tham khảo ==
+
+Kasper DL et al (Eds). Harrison's Principles of Internal Medicine, 16th ed, chapter 41, pages 258-61. ISBN 0-07-140235-7.
+Feline Hypokalemic Polymyopathy. in The Merck Veterinary Manual, 9th edition By Merck & Co. 2006. ISBN 0-911910-50-6
+
+
+== Liên kết ngoài ==
+Kali trong chế độ ăn của người
+Bách khoa toàn thư MedlinePlus 000479
+eMedicine emerg/273
+DDB 6445

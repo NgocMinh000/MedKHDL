@@ -1,0 +1,17 @@
+Kháng nguyên Carcinoembryonic (CAE) là một tập hợp các glycoprotein liên quan chặt chẽ với nhau tham gia trong quá trình kết dính tế bào. CEA thông thường được sản xuất trong mô đường tiêu hóa trong giai đoạn phát triển bào thai và ngừng sản xuất trước khi sinh. Do đó, CEA thường chỉ tồn tại ở một lượng rất nhỏ trong máu người lớn khỏe mạnh (khoảng 2-4 ng/mL).. Tuy nhiên, nồng độ trong huyết thanh của nó có thể tăng trong một vài loại ung thư, nhờ đó có thể dùng nó như một dấu ấn ung thư bằng các xét nghiệm cận lâm sàng. Nồng độ CEA trong huyết thanh cũng có thể tăng ở người nghiện thuốc lá nặng.
+CEA là một glycoprotein bám màng glycosyl phosphatidyl inositol (GPI) mà dạng sialofucosylated có vai trò như chất bám L-selectin và E-selectin ở ung thư đại tràng, các chất quyết định sự lan tràn của các tế bào ung thư đại tràng. Trong miễn dịch, chúng thuộc nhóm dấu ấn CD66. Các protein nàyy bao gồm CD66a, CD66b, CD66c, CD66d, CD66e, CD66f.
+
+
+== Lịch sử ==
+CEA lần đầu tiên được xác định vào năm 1965 bởi Phil Gold và Samuel O. Freedman ở mẫu bệnh phẩm bệnh nhân ung thư đại tràng.
+
+
+== Giá trị chẩn đoán ==
+Xét nghiệm máu CEA không phải là một xét nghiệm đáng tin cậy để chẩn đoán hoặc sàng lọc sớm ung thư. Phần lớn các loại ung thư không có nồng độ CEA cao ở giai đoạn sớm.
+Nồng độ CEA huyết thanh ở các bệnh nhân ung thư biểu mô đại trực tràng thường cao hơn người khỏe mạnh (khoảng trên 2.5 µg/L). CEA chủ yếu được dùng để theo dõi quá trình điều trị ung thư đại trực tràng, xác định ung thư tái phát sau phẫu thuật, để phân giai đoạn hoặc chẩn đoán di căn qua nồng độ dịch sinh học. Nồng độ CEA cũng tăng trong ung thư dạ dày, ung thư tụy, ung thư phổi, ung thư vú, và ung thư tuyến giáp thể tủy, cũng như một số trường hợp không ung thư như viêm đại trực tràng chảy máu, viêm tụy, xơ gan, COPD, bệnh Crohn, suy giáp cũng như người hút thuốc. Nồng độ CEA có thể trở về bình thường sau khi phẫu thuật khối u thành công và sử dụng để theo dõi đặc biệt là ung thư đại trực tràng.
+Sự tăng nồng độ CEA bị ảnh hưởng bởi nhiều yếu tố. Nó thay đổi ngược lại với phân độ u; khối u càng biệt hóa càng tiết nhiều CEA. CEA tăng nhiều hơn ở những khối u có di căn hạch và di căn xa so với những khối u tại chỗ và do đó có thể thể phản ánh giai đoạn u. Các khối u ở bên trái có xu hướng có nồng độ CEA cao hơn ở bên phải. Các khối u gây tắc ruột cũng có nồng độ CEA cao hơn. Các khối u lệch bội sản xuất nhiều CEA hơn những khối u lưỡng bội. Suy giảm chức năng gan làm tăng nồng độ CEA do gan là nơi chuyển hóa ban đầu của CEA.
+Vị trí trong cơ thể có nồng độ CEA cao có thể xác định bằng kháng thể đơn dòng arcitumomab.
+Kháng thể kháng CEA cũng thường được sử dụng trong hóa mô miễn dịch để xác định sự bộc lộ glycoprotein tế bào trong mẫu mô. Ở người trưởng thành, CEA bộc lộ ở các tế bào u (một số ác tính, một số lành tính) nhưng có liên quan đặc biệt với ung thư biểu mô tuyến như đại tràng, phổi, vú, dạ dày hay tụy.
+
+
+== Tham khảo ==

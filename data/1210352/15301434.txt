@@ -1,0 +1,38 @@
+Tiên lượng (Hy Lạp: πρόγρόγ "tiên đoán, biết trước") là một thuật ngữ y tế để dự đoán khả năng phát triển của bệnh, kể cả dấu hiệu và triệu chứng sẽ cải thiện hoặc xấu đi (và nhanh như thế nào) hoặc duy trì ổn định theo thời gian; kỳ vọng về chất lượng cuộc sống, như khả năng thực hiện các hoạt động hàng ngày; khả năng biến chứng và các vấn đề sức khỏe liên quan; và khả năng sống sót (bao gồm cả tuổi thọ). Tiên lượng được thực hiện vào cơ sở của quá trình bình thường của bệnh được chẩn đoán, tình trạng thể chất và tinh thần của từng cá nhân, các phương pháp điều trị có sẵn và các yếu tố bổ sung. Tiên lượng đầy đủ bao gồm thời gian dự kiến, chức năng và mô tả về khóa học của bệnh, chẳng hạn như suy giảm tiến triển, khủng hoảng không liên tục hoặc khủng hoảng đột ngột, không thể đoán trước.
+Khi được áp dụng cho dân số thống kê lớn, ước tính tiên lượng có thể rất chính xác: ví dụ: tuyên bố "45% bệnh nhân bị sốc nhiễm trùng sẽ chết trong vòng 28 ngày" có thể được thực hiện với một số độ tin cậy, bởi vì nghiên cứu trước đó cho thấy tỷ lệ bệnh nhân này đã chết. Thông tin thống kê này không áp dụng cho tiên lượng cho từng bệnh nhân: cần thêm thông tin để xác định xem một bệnh nhân thuộc 45% người sẽ chết hay 55% sống sót.
+
+
+== Phương pháp ==
+
+
+==== Các chỉ số bệnh và tiên lượng ====
+Điểm tiên lượng cũng được sử dụng để dự đoán kết quả ung thư. Điểm Manchester là một chỉ số tiên lượng cho tế bào nhỏ ung thư phổi. Đối với Ung thư hạch không Hodgkin, các bác sĩ đã phát triển Chỉ số tiên lượng quốc tế để dự đoán kết quả của bệnh nhân.
+Các lĩnh vực y tế khác sử dụng các chỉ số tiên lượng được sử dụng là trong chấn thương gan do thuốc (DILI) (luật của Hy) và sử dụng kiểm tra căng thẳng tập thể dục như một chỉ số tiên lượng sau nhồi máu cơ tim, cũng sử dụng để chỉ báo nhiều u tủy tỷ lệ sống sót.
+
+
+=== Kết thúc cuộc đời ===
+Các nghiên cứu đã phát hiện ra rằng hầu hết các bác sĩ đều quá lạc quan khi đưa ra tiên lượng; họ có xu hướng phóng đại thời gian một bệnh nhân có thể sống. Đối với những bệnh nhân bị bệnh nặng, đặc biệt là những người trong đơn vị chăm sóc đặc biệt, có những hệ thống tính điểm tiên lượng bằng số chính xác hơn. Nổi tiếng nhất trong số này là thang đo APACHE II, chính xác nhất khi được áp dụng trong bảy ngày trước cái chết dự đoán của bệnh nhân.
+Biết tiên lượng giúp xác định liệu có ý nghĩa hơn khi thử một số phương pháp điều trị nhất định hoặc giữ lại chúng, và do đó đóng một vai trò quan trọng trong các quyết định cuối đời.
+
+
+== Công cụ ước tính ==
+Ước tính thường được sử dụng để mô tả tiên lượng bao gồm:
+
+ Sống sót không tiến triển  - khoảng thời gian trong và sau khi dùng thuốc hoặc điều trị trong thời gian bệnh được điều trị (thường là ung thư) không trở nên tồi tệ hơn.
+ Tỷ lệ sống  - cho biết tỷ lệ phần trăm của những người trong nhóm nghiên cứu hoặc điều trị còn sống trong một khoảng thời gian nhất định sau khi chẩn đoán.
+ Thời gian sống sót  - thời gian còn lại của cuộc đời. Nếu không có quy định khác, nó thường bắt đầu từ thời điểm chẩn đoán.
+
+
+== Lịch sử ==
+Một trong những tác phẩm đầu tiên của y học là Sách Tiên tri của Hippocrates, được viết vào khoảng năm 400 trước Công nguyên. Công trình này mở đầu bằng tuyên bố sau: "Đối với tôi, một điều tuyệt vời nhất đối với bác sĩ là nuôi dưỡng Tiên lượng; bằng cách thấy trước và báo trước, trước sự hiện diện của người bệnh, hiện tại, quá khứ và tương lai, và giải thích Những thiếu sót mà bệnh nhân đã phạm tội, anh ta sẽ dễ tin hơn khi làm quen với hoàn cảnh của người bệnh, vì vậy đàn ông sẽ tự tin xâm nhập vào một bác sĩ như vậy. "
+Đối với các bác sĩ thế kỷ 19, đặc biệt là những người theo trường y khoa Pháp, mục đích chính của y học không phải là chữa bệnh, mà là đưa ra chẩn đoán y khoa và đạt được  tiên lượng  về cơ hội của bệnh nhân. Chỉ vài thập kỷ sau, trọng tâm của những nỗ lực trong y học phương Tây đã chuyển sang chữa khỏi bệnh. 
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== liên kết ngoài ==
+Các mô hình máy tính tại prognosis.org Lưu trữ 2017-05-18 tại Wayback Machine

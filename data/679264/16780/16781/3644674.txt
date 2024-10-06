@@ -1,0 +1,173 @@
+Phân tích mẫu vết máu (tiếng Anh: Bloodstain pattern analysis - BPA), một trong những tiến bộ trong lĩnh vực khoa học pháp y, liên quan đến việc nghiên cứu và phân tích vết máu tại một hiện trường đã xác định hoặc đang nghi ngờ có chứa tội phạm bạo lực với mục tiêu của giúp các nhà điều tra rút ra kết luận về ngoại cảnh, thời gian và các chi tiết của vụ án.
+Tuy việc sử dụng các vết máu làm bằng chứng không còn mới lạ, nhưng các ứng dụng của khoa học hiện đại đã nâng nó lên một cấp độ cao hơn kể từ những năm 70 và 80. Các công nghệ mới, đặc biệt là những tiến bộ trong phân tích DNA luôn sẵn sàng giúp các thám tử và các nhà tội phạm học sử dụng trong việc tìm và bắt giữ tội phạm.
+Khoa học phân tích vết máu áp dụng kiến thức khoa học từ lĩnh vực khác để giải quyết những vấn đề thực tiễn. Phân tích vết máu dựa trên các ngành khoa học như sinh học, hóa học, toán học và vật lý. Nếu một chuyên gia phân tích theo một quy trình khoa học, quá trình đó cũng có thể cho ra những bằng chứng mạnh và xác thực, giúp nó trở thành một công cụ hiệu quả cho các nhà điều tra, mặc dù không nhất thiết phải thực hiện khi đã việc nghiên cứu chỉ cần dựa trên kết quả phân tích vết máu trong các trường hợp hình sự. Có một báo cáo của Viện hàn lâm Khoa học (Hoa Kỳ) đang kêu gọi cho việc chuẩn hóa lĩnh vực này.
+
+
+== Lịch sử ==
+Phân tích vết máu được sử dụng một cách không chính thức trong nhiều thế kỷ, nhưng đã bắt đầu được nghiên cứu nghiêm túc theo phương pháp hiện đại vào năm 1895. Tiến sĩ Eduard Piotrowski của các Đại học Kraków xuất bản một bài báo có tên "On the formation, form, direction, and spreading of blood stains after blunt trauma to the head." (tạm dịch: Thông tin, hình dạng, hướng và sự lan tỏa của vết máu sau khi chấn thương ở đầu.")  Trong đó một số công trình mô tả các khía cạnh khác nhau của vết máu đã được công bố, nhưng đã không tạo ra được một phân tích có tính hệ thống. LeMoyne Snyder sử dụng rộng rãi cuốn sách Homicide Investigation (Điều tra những vụ sát nhân) (xuất bản lần đầu năm 1941 và thỉnh thoảng được cập nhật cho tới những năm 1970) cũng đã đề cập nhanh về các chi tiết làm tiền đề mà sau đó các chuyên gia nghiên cứu vết máu sẽ mở rộng (ví dụ máu khô trong một trang thái mà ở đó tỷ lệ đã được đoán trước là động mạch máu có màu đỏ sáng hơn các vùng khác, do đó vết máu có xu hướng văng ra theo một số họa tiết nhất định dựa trên sự chuyển động của kẻ tấn công và nạn nhân).
+Nguồn gốc hiện đại thứ hai của việc nghiên cứu các mô hình vết máu là vụ án Sam Sheppard vào năm 1954, khi vợ của một bác sĩ nắn xương bị đánh đến chết ngay trong nhà mình. Sự phát triển xa hơn và sử dụng những dấu hiệu của vết máu làm bằng chứng là kết quả trực tiếp của nghiên cứu khoa học ứng dụng thực tế bằng lý thuyết về vết máu của Herbert Leon MacDonell ở Corning, New York. Nghiên cứu của ông ta cho ra kết quả là ấn bản luận thuyết hiện đại đầu tiên về phân tích vết máu, mang tên "Flight Characteristics and Stain Patterns of Human Blood" (1971).
+Khóa đào tạo đầu tiên về vết máu  được thực hiện bởi MacDonnel trong năm 1973 tại Jackson, Mississippi. Trong năm 1983, Hội phân tích mẫu máu quốc tế được thành lập bởi các nhà phân tích nhằm phát triển lĩnh vực đang nở rộ này. 
+
+
+== Máu ==
+Máu là một loại mô được tuần hoàn trong cơ thể để hỗ trợ các bộ phận khác. Mô liên kết này có các tế bào đặc biệt mà cho phép nó thực hiện các chức năng phức tạp. Ở một người khỏe mạnh, máu chiếm khoảng 8% tổng trọng lượng. Ví dụ một người nặng 70 kg (154 lb.), lượng máu là khoảng 5.6 L (12 pints MỸ).
+
+
+=== Về mặt sinh học ===
+Máu chứa ba thành phần hoặc ba loại tế bào máu được lưu chuyển trong huyết tương. Ba thành phần đó là hồng cầu, bạch cầu và tiểu cầu.
+
+Hồng cầu còn được gọi là các tế bào máu đỏ, là các tế bào vận chuyển. Vai trò của nó là vận chuyển oxy. Chúng chứa một lượng lớn huyết sắc tố giúp vận chuyển phân tử oxy và là nguyên nhân chính khiến máu có màu đỏ. Máu khi đã đi qua tim và được nhận oxy gọi là máu tươi (sau đó đi qua các mạch) có xu hướng có màu đỏ sáng hơn, trái ngược với máu trở về tim (trong các tĩnh mạch). Có khoảng 30 nghìn hồng cầu trong máu người trong mọi thời điểm. 
+Bạch cầu còn được gọi là tế bào máu trắng, là các tế bào bảo vệ. Vai trò của bạch cầu là bảo vệ cơ thể khỏi các vi khuẩn có hại, virus và vi sinh vật. Có năm loại bạch cầu, tất cả có kích thước, cấu trúc, và các chức năng khác nhau. Bạch cầu chống lại sự nhiễm trùng và bệnh tật. Có khoảng 430 tỷ bạch cầu trong máu người trong mọi thời điểm (~1 bạch cầu/700 hồng cầu). Mủ của bạch cầu tạo nên một khu vực bị ảnh hưởng trong và sau khi chiến đấu với các chất độc hại hoặc sinh vật lây nhiễm cơ thể.
+Tiểu cầu được hình thành ở tủy xương. Các tế bào máu đặc biệt này chứa tế bào chất và được bao bọc bởi một màng, nhưng lại không có nhân. Chúng đóng vai trò quan trọng trong việc cầm máu (kiểm soát việc chảy máu) bằng cách dính chặt vào nhau ở bất cứ trường hợp lạ nào xảy ra trong mạch máu. Chúng rất quan trọng cho sự hình thành các cục máu đông. Nếu một người có lượng tiểu cầu thấp bất thường, trường hợp đó được gọi là bệnh máu khó đông.
+Huyết tương là chất dịch màu vàng lỏng đó mang hồng cầu, bạch cầu và tiểu cầu. Nó bao gồm các nước (92%), protein (7%), và vật liệu khác như muối thải, và kích thích tố trong số những người khác. Nhiều người trong số những protein là yếu tố đông máu, đó là quan trọng cùng với tiểu cầu cho sự hình thành máu đông; yếu tố đông máu thiếu sót có thể gây ra kéo dài và chảy máu quá nhiều, một điều kiện gọi là huyết. Huyết tương chiếm 55% thể tích máu. Còn 45% là các tế bào máu. Bởi vì huyết tương đặc hơn so với các tế bào máu, nó có thể dễ dàng được tách ra. Huyết tương không tách biệt với các tế bào máu trong khi chảy trong máu vì nó là trong một trạng thái của sự phát sinh chuyển động.
+
+
+=== Về mặt hóa học ===
+Khi thoát khỏi cơ thể, vết máu chuyển từ màu sáng thành màu nâu sẫm, do quá trình oxy hóa oxy-hồng cầu (HbO2) thành methemoglobin (met-Hb) và hemichrome (HC). Các phần của HbO2, met-Hb và HC trong một vết máu có thể được sử dụng cho việc xác định tuổi của vết máu và có thể được đo bằng Phản xạ Quang phổ 1.
+
+Trong cơ thể sống, phân tử hồng cầu chủ yếu tồn tại ở hai dạng: dạng không có oxy, de-oxyhemoglobin (Hb), và dạng bão hòa, oxy-hemoglobin (HbO2), cả hai đều có sắt dạng ion Fe2+. HbO2 có thể tự động hoá vào phân tử met-Hb có chứa ion sắt Fe3+. Met-Hb có khả năng liên kết với oxy. Khi met-Hb được hình thành trong cơ thể nó sẽ được giảm thành Hb bằng cách khử protein cytochrome b5, kết quả là chúng ta có một phần nhỏ (<1%) met-Hb ở một cơ thể khỏe mạnh.
+Ở ngoài cơ thể, hồng cầu mạnh hơn so với oxy trong môi trường xung quanh trong việc khử HbO2. Vì sự giảm của cytochrome b5, cần thiết cho met-Hb, sự chuyển đổi HbO2 thành met-Hb sẽ trở nên trái ngược với bên trong cơ thể, không còn phản ứng ngược. Một khi hồng cầu tự oxy hóa thành met-Hb, nó sẽ biến tính thành hemichrome (HC), được hình thành bởi sự thay đổi cấu tạo nội bộ của các nhóm heme.
+
+
+=== Về mặt vật lý ===
+Trong vật lý, có hai trạng thái liên tục của vật chất, đó là rắn và lỏng. Một khi máu đã rời khỏi cơ thể nó được coi là một dạng chất lỏng và tuân theo tất cả các định luật vật lý áp dụng cho chất lỏng.
+
+Trọng lực tác động vào máu (không có ảnh hưởng của cơ thể) ngay khi nó rời khỏi cơ thể. Với những trường hợp thông thường máu có thể chảy theo thuyết đạn đạo.
+Độ nhớt là lượng ma sát nội bộ trong chất lỏng. Nó mô tả sự cản trở khi chất lỏng chảy.
+Sức căng bề mặt là lực duy trì hình dạng của giọt chất lỏng. Khi hai chất lỏng tiếp xúc với nhau (máu và không khí) thì xuất hiện lực lượng thu hút tất cả các phân tử lại với nhau.
+
+
+== Đặc điểm của vệt máu khi bắn ra khỏi cơ thể ==
+Các thí nghiệm với máu đã chỉ ra rằng giọt máu đang bay có xu hướng hình thành một quả cầu chứ không phải là những hình dạng khác. Đây là điều được biết trước khi một chất lỏng rơi tự do. Sự hình thành khối cầu chất lỏng là kết quả của việc sức căng bề mặt gắn kết các phân tử với nhau.
+Dạng khối cầu của máu trong khi bay rất quan trọng cho việc tính toán các góc độ của tác động (tỷ lệ) của vệt máu khi nó đập vào một bề mặt nào đó. Góc độ đã tính toán đó sẽ được sử dụng để xác định các điểm mà từ đó máu bắn ra (các điểm đó được gọi là Điểm xuất xứ hoặc chính xác hơn là Vùng xuất xứ).
+Tại hiện trường vụ án, chỉ với một vệt duy nhất của máu thì không đủ để xác định Khu vực xuất xứ. Việc xác định các góc độ của tác động và vị trí của Khu vực xuất xứ phải được dựa trên việc xem xét một lượng vết máu và tốt nhất là vết bẩn từ bên đối diện của mô hình để tạo các phương tiện kiểm tra chéo.
+
+
+== Xác định góc độ của tác động ==
+Như đã đề cập trước đó, một giọt máu rơi tự do có hình dạng của một quả cầu dao động. Các giọt máu rơi sẽ đập vào một bề mặt và hình thành một vết rõ ràng, nhà phân tích có thể xác định góc mà giọt này rơi vào bề mặt. Điều này được dựa trên mối quan hệ giữa độ dài của trục chính, trục phụ, và các góc độ của tác động.
+Một vết dạng chuẩn là vết máu hình elip (xem hình 1). Tiến sĩ Victor Balthazard và sau đó là Tiến sĩ Herbert Leon MacDonell đã nhận ra rằng tỷ lệ giữa chiều rộng chiều dài của elip là sin của góc tác động. Đo đạc các vết máu một cách chính xác cho phép tính góc tác động một cách đơn giản nhất.
+
+
+==== Góc độ của tác động ====
+Vì quỹ đạo bay có ba chiều, có ba góc độ của tác động:
+
+alpha (α), góc tác động của đường vết máu di chuyển ra khỏi bề mặt (xem hình 2 với alpha ở phía trên của những vết bẩn).
+beta (β), góc của đường vết máu xoay vòng quanh trục (z) (xem hình 2 với beta lan ra trên sàn nhà).
+gamma (γ), góc của đường vết máu đo từ đúng theo chiều dọc (plumb) của bề mặt (xem hình 2 cho thấy dây dọi và góc mở rộng từ vết máu).
+Ba góc độ trên liên quan với nhau theo các phương trình lượng giác sau:
+
+  
+    
+      
+        sin
+        ⁡
+        α
+        =
+        
+          (
+          
+            
+              w
+              l
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sin \alpha =\left({\frac {w}{l}}\right)}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        β
+        =
+        
+          
+            
+              tan
+              ⁡
+              α
+            
+            
+              sin
+              ⁡
+              γ
+            
+          
+        
+      
+    
+    {\displaystyle \tan \beta ={\frac {\tan \alpha }{\sin \gamma }}}
+  
+
+với 
+
+  
+    
+      
+        
+          l
+        
+      
+    
+    {\displaystyle \mathbf {l} }
+  
+ = chiều dài (length) của elip (trục chính)
+
+  
+    
+      
+        
+          w
+        
+      
+    
+    {\displaystyle \mathbf {w} }
+  
+ = chiều rộng (width) của elip (trục phụ)
+Để đo chính xác các vết bẩn và tính toán các góc độ của tác động đòi hỏi sự tích cực của các nhà phân tích. Trong quá khứ, họ đã sử dụng một loạt các dụng cụ khác nhau, còn ở hiện tại, các phương pháp đang được sử dụng bao gồm:
+Xem mô nhúng phóng đại lên 0,2 mm hoặc tốt hơn là các xem các mô ngay trên các vết bẩn, sau đó sử dụng một máy tính khoa học hoặc bảng tính để hoàn thành công việc tính toán.
+Phân tích mô hình vết máu (BPA) là một phần mềm xếp chồng một elip lên một hình ảnh thu nhỏ chiếu gần của một vết máu, sau đó tự động tính toán góc độ tác động. Sử dụng các phần mềm BPA (ví dụ phần mềm HemoSpat) có thể có được kết quả rất chính xác mà có thể đo lường và tái thực hiện.
+
+
+== Điểm và vùng hội tụ ==
+Để xác định điểm/vùng hội tụ thì nhà phân tích phải xác định đường mà những giọt máu đã di chuyển. Sự rơi theo đường tiếp tuyến của từng giọt riêng lẻ có thể được xác định bằng cách sử dụng góc độ tác động và góc bù của các vết máu. "Xâu chuỗi" vết máu là một phương pháp hiện thực việc này. Với mục đích tìm điểm hội tụ, chỉ bắt buộc phải nghiên cứu góc nhìn phía trên của đường bay. Lưu ý rằng đây chỉ là sự giao nhau hai chiều (2D), không phải ba chiều (3D).
+
+Điểm hội tụ là giao điểm của hai đường vết máu, nơi các vết đến từ hai phía đối diện của mô hình tác động. (Hình 3)
+Vùng hội tụ là vùng hộp hình thành bởi giao điểm của một vài vết từ bên đối diện của mô hình tác động. (Hình 4)
+Trong quá khứ, một số nhà phân tích vẽ những đường dọc theo trục chính của các vết bẩn và đưa chúng đến một vùng hội tụ trên tường. Thay vì sử dụng góc nhìn từ trên xuống, họ sử dụng góc nhìn chính diện. Vệc này dẫn đến các kết quả sai về điểm / khu vực hội tụ.
+
+
+== Vùng xuất xứ ==
+Vùng xuất xứ là khu vực trong không gian ba chiều, nơi nguồn gốc của máu được đặt tại thời điểm việc chảy máu xảy ra. Vùng xuất xứ bao gồm các khu vực hội tụ với chiều thứ ba theo hướng z. Vì trục z vuông góc với sàn nhà, vùng xuất xứ có ba kích thước và cũng là thể tích.
+Thuật ngữ điểm xuất xứ cũng đã được chấp nhận để mang nghĩa giống với vùng xuất xứ. Tuy nhiên, người ta đã chứng minh được là có một vài vấn đề liên quan đến thuật ngữ này. Đầu tiên, một nguồn chảy máu thường không chỉ là một điểm. Để tạo ra một điểm nguồn cơ chế này sẽ phải được cố định trong không gian ba chiều và có một độ mở riêng, nơi chỉ có một giọt máu duy nhất chảy ra tại một thời điểm, có đủ năng lượng để tạo ra một vết máu. Điều này dường như không có khả năng xảy ra. Thứ hai, cơ thể người mang tính động. Ngoài các chuyển động vật lý của nạn nhân, còn có tác động của việc da đàn hồi và xương gãy. Khi một lực được áp dụng cho cơ thể sẽ có một lực bằng nó tác động ngược lại (định luật ba Newton về chuyển động). Một phần của lực sẽ di chuyển các nguồn máu, thậm chí tới từng milimet, và thay đổi nguồn gốc của vết thương trong khi nó vẫn còn chảy xuất máu. Vì vậy, các nguồn máu nên được định nghĩa trong một khối ba chiều.
+Cũng giống với vùng hội tụ, vùng xuất xứ có thể được tính toán một cách dễ dàng bằng cách sử dụng các phần mềm BPA. Cũng có một số phương pháp toán học khác giúp xác định các vùng xuất xứ, một trong số đó là phương pháp tiếp tuyến.
+Khi các góc độ tác động và các điểm hoặc khu vực hội tụ được xác định, những kỹ thuật này có thể được sử dụng để tìm nơi sự đổ máu có khả năng xảy ra. Kỹ thuật cơ bản nhất và áp dụng lâu nhất là phương pháp chuỗi. Các nhà phân tích đặt thước đo của họ ở vị trí của vết máu và tạo ra một chuỗi ở các góc độ của tác động theo hướng của điểm hoặc khu vực hội tụ, điều này giúp dự đoán một nguồn gốc chung của sự mất máu. Một kỹ thuật khác được áp dụng là phương pháp lượng giác, vì nếu chúng ta biết điểm hội tụ, chúng ta có thể đo khoảng cách từ vết máu đến điểm đó. Với cách tính này cùng với các góc độ của tác động, chúng ta có thể sử dụng quy tắc lượng giác cơ bản để tìm ra các nơi trong không gian mà máu lan tới. Bằng cách tính tang của các góc của tác động và nhân với khoảng cách từ điểm hội tụ, chúng ta tìm được chiều cao tương đối của nguồn máu.
+
+
+== Nhiếp ảnh ==
+Nhiếp ảnh hiện trường vụ án có một số yêu cầu đặc biệt. Khi có một hiện trường đổ máu, những yêu cầu cơ bản vẫn cần thiết nhưng đặc biệt phải chú ý đến những vết máu. Các phương tiện hiện tại của tài liệu hiện trường bao gồm ống kính 35 mm (đen trắng, có màu, và film đặc biệt), máy ảnh kỹ thuật số, và video (Hi-8, DV và các định dạng khác). Mỗi phương pháp đều có ưu và nhược điểm riêng. Thường thì hiện trường được ghi lại bằng cách sử dụng nhiều phương pháp. (Quay phim cũng được giới thiệu ở đây vì nó tuân theo cùng nguyên tắc và cũng tái tạo được hình ảnh hiện trường vụ án.)
+Có ba loại ảnh chụp hiện trường vụ án:
+
+Tổng thể - chụp cảnh góc rộng (28–35 mm) chụp toàn bộ hiện trường. Đây là loại ảnh cung cấp bất cho cứ ai đã không ở hiện trường một bố cục tổng quan tốt về nó.
+Tầm trung - ảnh được chụp với những ống kính bình thường (45–55 mm) cung cấp nhiều chi tiết hơn so với các bức ảnh tổng thể. Trong trường hợp của một hiện trường có đổ máu, ảnh tầm trung có thể chụp được hình dạng của từng vệt máu.
+Cận cảnh - ảnh chụp với một ống kính macro nên có lượng chi tiết cao. Ví dụ, mô hình bị tác động bởi một vận tốc trung bình có thể tạo ra hàng ngàn vết riêng lẻ, nơi có một lượng lớn của các vết nhỏ (đường kính chỉ 1–3 mm) một số trong số đó yêu cầu các hình ảnh riêng lẻ để kiểm tra.
+Trong rất nhiều trường hợp các nhà phân tích không thể tới hiện trường, và phải làm việc dựa trên những hình ảnh hiện trường và ghi chú của người tham dự. Lượng lớn hình ảnh với các kích thước thích hợp cần được chụp lại. Đối với hình ảnh tổng thể cần chụp hai kiểu song song và vuông góc với sàn nhà. Điều này cung cấp cho các nhà phân tích một quan điểm đúng đắn về những gì họ đang xem xét. (Lưu ý: trong một số trường hợp tổng thể và hình ảnh tầm trung được lấy và không cần bản tỉ lệ.)
+
+
+== Độ tin cậy ==
+Tuy phân tích mẫu vết máu có một nền tảng vững chắc vào khoa học và là một công cụ hữu ích cho các nhà điều tra, độ tin cậy của phòng xử án theo lời khai của các nhà phân tích mô hình vết máu đã bị chỉ trích trong những năm gần đây. Sự xem xét cần được thực hiện để đảm bảo rằng các nhà phân tích vết máu có các thông tin và được đào tạo phù hợp cũng như sử dụng các phương pháp thích hợp. Ngay cả với đào tạo và phương pháp thích hợp, vẫn còn rất nhiều thời gian mà các nhà phân tích có uy tín không đồng ý về những phát hiện của họ, việc đó tạo nên làn sóng kêu gọi những câu hỏi về độ tin cậy và giá trị của các kết luận để làm bằng chứng tại tòa.
+Trong trường hợp hình sự đối với David Camm, người đã cố gắng giết người nhà ba lần, chủ yếu dựa trên cơ sở chứng cứ về vết tóe máu, cả truy tố và bảo vệ sử dụng chuyên gia phân tích mô hình vết máu để giải thích nguồn gốc của khoảng 8 giọt máu trên áo của anh ta. Các chuyên gia của công tố bao gồm Tom Bevel và Rod Englert, người đã làm chứng rằng các vết bẩn được tác động với vận tốc cao. Paul Kish, Barton Epstein, Paulette Sutton, Barrie Goetz và Stuart H. James đã làm chứng cho sự tự vệ khiến cho các vết bẩn bị quệt từ áo của anh ta lên tóc của con gái. Tiến sĩ Robert Shaler, Giám đốc sáng lập của Chương trình Khoa học Pháp y Penn State, chỉ trích phân tích vết máu là không đáng tin cậy trong trường hợp Camm. Ông cho rằng: "Các vấn đề trong trường hợp này là số lượng các vết bẩn quá ít, tôi nghĩ rằng các người đang thực sự đứng trên vờ vực của độ tin cậy." Tất cả các nhà phân tích mẫu máu liên quan đến các trường hợp đó đều là những "chuyên gia" theo truyền thống. Vấn đề là "Chúng tôi có hai ý kiến trong trường hợp này. Đó là, trong bản chất, là tỷ lệ lỗi lên tới 50 phần trăm." Một mức tin cậy không thể nào chấp nhận được trong một vụ án khi nhận thức về tội lỗi vượt ra ngoài mọi sự nghi ngờ là những gì được yêu cầu.
+
+
+== Trong văn hóa ==
+Sam Tyler, các thám tử xuyên thời gian trong tập 3 của TV series Cuộc sống trên sao Hỏa, hỏi đồng nghiệp của ông Chris Skelton để thực hiện một phân tích mẫu máu, nhanh chóng bại lộ bởi vẻ lúng túng của mình khi cho rằng vào năm 1973 kỹ thuật như vậy không hề được biết đến.
+Kẻ giết người hàng loạt Dexter Morgan trong những tiểu thuyết Dexter và Showtime là một nhà phân tích vết máu cho Cục Cảnh sát Metro Miami (hư cấu).
+Julie Finlay là một nhà phân tích vết máu trên loạt CSI: Crime Scene Investigation.
+
+
+== Tham khảo ==

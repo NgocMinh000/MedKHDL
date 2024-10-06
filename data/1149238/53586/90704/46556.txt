@@ -1,0 +1,85 @@
+Đệ quy (tiếng Anh: recursion) là phương pháp dùng trong các chương trình máy tính trong đó có một hàm tự gọi chính nó.
+
+
+== Khái niệm hình thức về đệ quy ==
+Trong toán học và khoa học máy tính, các tính chất (hoặc cấu trúc) được gọi là đệ quy nếu trong đó một lớp các đối tượng hoặc phương pháp được xác định bằng việc xác định một số rất ít các trường hợp hoặc phương pháp đơn giản (thông thường chỉ một) và sau đó xác định quy tắc đưa các trường hợp phức tạp về các trường hợp đơn giản.
+Chẳng hạn, định nghĩa sau là định nghĩa đệ quy của tổ tiên:
+
+Bố mẹ của một người là tổ tiên của người ấy (trường hợp cơ bản);
+Bố mẹ của tổ tiên một người bất kỳ là tổ tiên của người ấy (bước đệ quy).
+Các định nghĩa kiểu như vậy cũng thường thấy trong toán học (chính là quy nạp toán học)
+
+
+== Định nghĩa theo đệ quy ==
+Một khái niệm X được định nghĩa theo đệ quy nếu trong định nghĩa X có sử dụng ngay chính khái niệm X.
+
+Ví dụ 1: Định nghĩa số tự nhiên
+- 0 là một số tự nhiên.
+- n là số tự nhiên nếu n - 1 là số tự nhiên.
+
+
+== Đệ quy trong khoa học máy tính ==
+ 
+Có một phương pháp chung để giải các bài toán là chia bài toán thành các bài toán con đơn giản hơn cùng loại. Phương pháp này được gọi là Thuật toán chia để trị. Chính nó là chìa khóa để thiết kế nhiều giải thuật quan trọng, là cơ sở của quy hoạch động.
+Một ví dụ cổ điển của đệ quy là hàm giai thừa cho bằng giả mã trong C hoặc C++ sau đây:
+
+Một ví dụ khác của giải thuật đệ quy là thủ tục duyệt (nghĩa là thực hiện một công việc nào đó với chúng) tất cả các nút của một cấu trúc dữ liệu cây:
+
+Để duyệt một cây, gọi thủ tục này với nút gốc của cây như một tham biến khởi tạo. Tiếp theo, thủ tục gọi đệ quy đến chính nó cho tất cả các nút con của nút vừa gọi (nghĩa là các cây con của cây vừa gọi), cho đến khi gặp trường hợp cơ bản nghĩa là nút không có con (thường gọi là "lá").
+Chính cấu trúc cây cũng được định nghĩa bằng đệ quy như sau:
+
+Cây được biểu diễn bằng một nút gốc và danh sách các nút con của nút ấy. Mỗi nút con lại có danh sách các nút con của nó (và như vậy, nó là gốc của một cây con). Lá với danh sách rỗng các nút con là trường hợp cơ sở của nút.
+
+
+== Chương trình con đệ quy ==
+Trong lập trình, có khái niệm: một chương trình con (hàm, thủ tục) được gọi là đệ quy nếu trong quá trình thực hiện nó có phần phải gọi đến chính nó.
+
+
+=== Cấu trúc chính ===
+Một chương trình con đệ quy căn bản gồm hai phần.
+
+Phần cơ sở: chứa các tác động của hàm hoặc thủ tục với một số giá trị cụ thể ban đầu của tham số.
+Phần đệ quy: định nghĩa tác động cần được thực hiện cho giá trị hiện thời của các tham số bằng các tác động đã được định nghĩa trước đây với kích thước tham số nhỏ hơn.
+Ví dụ: Hàm tính giai thừa của một số tự nhiên n (tính 
+  
+    
+      
+        n
+        !
+      
+    
+    {\displaystyle n!}
+  
+) (Đoạn mã sau được viết bằng ngôn ngữ Pascal)
+
+
+=== Quy trình thực hiện ===
+Trong ví dụ trên, quy trình thực hiện như sau:
+
+Khi có lệnh gọi hàm, chẳng hạn:
+
+thì máy sẽ ghi nhớ là:
+ và đi tính gt(2)
+kế tiếp máy lại ghi nhớ:
+ và đi tính gt(1)
+Theo định nghĩa của hàm thì:
+
+Máy sẽ quay ngược lại:
+ cho kết quả là 2
+Tiếp tục:
+ cho kết quả là 6
+Như vậy kết quả cuối cùng trả về là 6. Ta có: 3! = 6
+
+
+=== Đệ quy tương hỗ ===
+Nếu có hai chương trình con A1 và A2 gọi nhau ta có đệ quy tương hỗ.
+Đệ quy tương hỗ thường được dùng để duyệt cây theo chiều sâu.
+
+
+== Xem thêm ==
+Thuật toán quay lui
+Quy nạp toán học
+Tháp Hà Nội
+
+
+== Tham khảo ==

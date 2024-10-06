@@ -1,0 +1,49 @@
+Cẩm nang Chẩn đoán và Thống kê Rối loạn tâm thần (tiếng Anh: Diagnostic and Statistical Manual of Mental Disorders), thường được gọi tắt là DSM, là một hướng dẫn để phân loại các rối loạn tâm thần. Cẩm nang này được xuất bản bởi Hiệp hội Tâm thần học Hoa Kỳ. Nó được sử dụng ở Hoa Kỳ và nhiều nơi trên thế giới bởi các bác sĩ, nhà nghiên cứu, công ty bảo hiểm, công ty dược và những người khác.
+Đã có năm lần sửa đổi được thực hiện kể từ khi DSM được xuất bản lần đầu tiên vào năm 1952. Ở mỗi lần sửa đổi, nhiều bệnh tâm thần đã được bổ sung, và một số cũng đã được loại bỏ và không còn được coi là rối loạn tâm thần nữa. Một ví dụ cho điều này là đồng tính luyến ái.
+DSM đã được xây dựng từ các hệ thống thu thập điều tra dân số và số liệu thống kê của bệnh viện tâm thần, và từ một sách hướng dẫn do Quân đội Hoa Kỳ phát hành. Rất nhiều thay đổi đã được thực hiện vào năm 1980. Lần cuối cùng DSM được thay đổi rất nhiều là lần sửa đổi thứ tư (DSM-IV), được xuất bản vào năm 1994, nhưng những thay đổi nhỏ trong văn bản đã được thực hiện trong phiên bản năm 2000. Bản sửa đổi lần thứ năm ("DSM-5") đã được xuất bản vào tháng 5 năm 2013.
+DSM bị chỉ trích vì chịu ảnh hưởng quá lớn từ ngành công nghiệp dược phẩm, bên cạnh những chỉ trích khác về độ chuẩn xác, độ tin cậy của hệ thống phân loại cũng như vấn đề thiếu liên kết giữa triệu chứng và nguyên nhân của các rối loạn tâm thần được phân loại trong DSM.
+Phân loại thống kê quốc tế về các bệnh tật và vấn đề sức khỏe liên quan, được gọi tắt là "ICD", có một phần về các rối loạn tâm thần và hành vi. Phần này khác với DSM. ICD, thay vì DSM, là hệ thống được sử dụng bởi chính phủ Hoa Kỳ.
+
+
+== Lịch sử các lần sửa đổi của DSM ==
+
+
+=== DSM-I: 1952 ===
+Phiên bản này của DSM có 130 trang và liệt kê 106 rối loạn tâm thần.
+
+
+=== DSM-II: 1968 ===
+Phiên bản này của DSM có 134 trang và liệt kê 182 rối loạn tâm thần.
+
+
+=== DSM-III: 1980 ===
+Phiên bản này của DSM có 494 trang và liệt kê 265 thể loại chẩn đoán.
+
+
+=== DSM-III-R: 1987 ===
+Ở bản hiệu đính này của DSM-III, nhiều thể loại đã được đổi tên và sắp xếp lại, cùng với những thay đổi đáng kể ở các tiêu chí. DSM-III-R dài 567 trang và có 292 chẩn đoán.
+
+
+=== DSM-IV: 1994 ===
+Phiên bản này của DSM có 886 trang và liệt kê 410 rối loạn.
+
+
+=== DSM-IV-TR: 2000 ===
+
+
+=== DSM-5: 2015 ===
+
+Bắt đầu từ lần sửa đổi này, APA dự định bổ sung các bản sửa đổi tiếp theo thường xuyên hơn, để có thể theo kịp nghiên cứu trong ngành này. Điều đáng chú ý là DSM-5 sử dụng chữ số Ả Rập thay vì chữ số La Mã, vì APA dự định sử dụng số thập phân để đặt tên cho các bản cập nhật tăng dần (Ví dụ: DSM-5.1, DSM-5.2) và sử dụng số nguyên cho các phiên bản mới (Ví dụ: DSM-5, DSM-6), tương tự như hệ thống được sử dụng để đặt tên phiên bản phần mềm.
+
+
+== Nhận định ==
+Năm 2013, không lâu trước khi DSM-5 được công bố, Giám đốc Viện Sức khỏe Tâm thần Quốc gia (National Institute of Mental Health hay NIMH) của Hoa Kỳ là Thomas R. Insel đã tuyên bố rằng tổ chức này sẽ ngưng tài trợ cho các dự án nghiên cứu chỉ dựa vào các tiêu chí chẩn đoán của DSM, do DSM thiếu hiệu lực hay độ chuẩn xác (validity). Insel nghi ngờ về hiệu lực, độ chuẩn xác của hệ thống phân loại của DSM vì "các chẩn đoán được căn cứ trên sự đồng thuận về các cụm triệu chứng lâm sàng" thay vì dựa vào "việc thu thập dữ liệu di truyền, hình chụp, sinh lý và nhận thức để xem tất cả dữ liệu này - không chỉ các triệu chứng - có cho ra cùng một kết quả và cách các cụm dữ liệu này liên quan đến phản ứng đối với điều trị."
+Các thí nghiệm thực địa của DSM-5 đã làm bùng lên cuộc tranh luận về độ tin cậy, vì các chẩn đoán của một số bệnh tâm thần đã cho thấy độ tin cậy thấp. Chẳng hạn như chẩn đoán đối với rối loạn trầm cảm, một bệnh tâm thần thường gặp, có chỉ số kappa thấp là 0,28, cho thấy rằng các bác sĩ lâm sàng thường không đạt được đồng thuận đối với chẩn đoán cho bệnh này ở cùng một bệnh nhân.
+DSM bị chỉ trích là thiếu sự liên kết giữa các dấu hiệu, triệu chứng và nguyên nhân của rối loạn tâm thần; và một hệ thống phân loại phù hợp hơn hệ thống phân loại hiện tại sẽ là phân loại dựa trên nguyên nhân của rối loạn tâm thần. Bên cạnh việc không có nền tảng là các nguyên nhân của rối loạn tâm thần, hệ thống phân loại rối loạn tâm thần hiện tại cũng bị chỉ trích vì đã không kết hợp các mô hình hoặc phát hiện thực nghiệm từ các lĩnh vực khoa học khác.
+Việc một hệ thống phân loại như DSM gặp phải những vấn đề về phân định ranh giới giữa các rối loạn tâm thần có liên quan với nhau là điều không thể tránh khỏi. Một giải pháp được đề xuất là tiếp cận rối loạn tâm thần theo định hướng không gian hoặc phổ rối loạn tâm thần, thay vì sắp xếp các bệnh tâm thần theo thể loại như hiện nay.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==

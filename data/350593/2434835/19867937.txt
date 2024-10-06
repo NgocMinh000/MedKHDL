@@ -1,0 +1,97 @@
+Máy gia tốc hạt tuyến tính hay linac (tiếng Anh: linear particle accelerator) là một loại máy gia tốc hạt giúp tăng tốc các hạt hoặc ion hạ nguyên tử mang điện tích lên tốc độ cao bằng cách cho chúng chịu một loạt điện thế dao động dọc theo đường truyền tuyến tính (đường thẳng). Nguyên lý của những chiếc máy như vậy được Gustav Ising đề xuất vào năm 1924, trong khi chiếc máy đầu tiên hoạt động được do Rolf Widerøe chế tạo vào năm 1928  tại Đại học RWTH Aachen. Linac có khá nhiều ứng dụng trong cả y học, tạo ra tia X và các electron năng lượng cao cho mục đích xạ trị, lẫn trong nghiên cứu vật lý hạt. Linac thường đóng vai trò máy phun hạt cho các máy gia tốc năng lượng cao hơn, nói cách khác, linac sẽ gia tốc các hạt đến một động năng nhất định, trước khi các hạt này được đưa vào các máy gia tốc lớn hơn, nhằm tạo tiền đề để nâng mức năng lượng của các hạt photon lên cao hơn (động năng lớn hơn của cặp electron-positron sẽ tạo ra photon có năng lượng lớn hơn khi hiện tượng hủy cặp xảy ra).
+
+
+== Sự hình thành: Máy gia tốc Wideröe ==
+
+Các máy gia tốc đầu tiên sẽ gia tốc các hạt trực tiếp bằng điện áp một chiều như trong súng điện tử. Năng lượng hạt nhận được tương đương với hiệu điện thế được áp dụng, vốn bị giới hạn về mặt kỹ thuật bởi các vấn đề như dòng điện rò rỉ, phóng điện quầng quang hoặc hồ quang. Để giải quyết vấn đề này, máy gia tốc tuyến tính AC đã được Gustav Ising đề xuất vào năm 1924. Một máy gia tốc theo đề xuất đã được Rolf Wideröe chế tạo lần đầu tiên vào năm 1928 tại Đại học RWTH Aachen. Ý tưởng cơ bản là hạt sẽ phải chịu cùng một điện áp gia tốc nhiều lần. Mặc dù có điện áp tương đối thấp nhưng hạt sẽ dần đạt được động năng cao hơn theo cách này.
+Máy gia tốc Wideröe bao gồm nhiều điện cực hình ống, các ống trôi (Tạm dịch: Drift tube), được bố trí dọc theo một trục thẳng. Hê thống ống trôi này sẽ được tiếp điện âm dương xen kẽ, sao cho hạt sẽ được gia tốc ở giữa khoảng của các ống. Ống trôi có nguyên lý hoạt động giống một chiếc lồng Farady, vậy nên bên trong sẽ không có điện trường, hạt bay bên trong với tốc độ thẳng đều (chỉ trôi đi) không bị tác động bởi điện áp đặt vào ống. Tuy vậy, ở giữa các ống, hạt sẽ chịu tác động của điện trường. Để hạt ở trong khe luôn được chịu ảnh hưởng của điện trường phù hợp với cho việc gia tốc, cực tính của các ống sẽ phải thay đổi. Điện trường xoay chiều này sẽ đươc điều hòa bởi nguồn điện xoay chiều có tần số thích hợp, hay nói cách khác, bỏi một máy phát tín hiệu cao tần. Trong thiết lập thử nghiệm ban đầu, Wideröe đã sử dụng tần số 1 megahertz. Chiều dài của các ống trôi cũng phải được chọn sao cho phù hợp với thòi gian bay của hạt tới khe sau bằng nửa chu ký điện áp xoay chiều (1/(2f)), để ngay khi thoát khỏi ống, hạt sẽ được gia tốc với hướng điện trường thích hợp. Vì tốc độ của hạt sẽ tăng dần, nhưng tần số hay chu kỳ đảo cực vẫn giữ nguyên, vậy nên chiều dài của các ống trôi riêng lẻ phải tăng dần tương ứng, như có thể thấy trong Hình 1.
+Một máy gia tốc Wideröe dài 1,2 m với 30 ống trôi được chế tạo ở Berkeley vào năm 1931 bởi Lawrence. Máy hoạt động với điện áp 42 kilovolt ở tần số 7 megahertz và có thể gia tốc các ion thủy ngân lên đến 1,26 MeV.
+Máy gia tốc Wideröe có thể gia tốc hạt lên tới khoảng 5% tốc độ ánh sáng. Năng lượng này tương ứng với 1,2 MeV đối với proton và chỉ 640 eV đối với electron (vì electron có khối lượng tương đối nhỏ). Vậy nên máy gia tốc Wideröe ít khi được sử dụng để gia tốc electron. Ngay ở tốc độ này, với một tần số có thể sử dụng được trong thực tế, độ dài ống chôi phải rất lớn (lên tới vài mét), và cũng phải cân nhắc tới giới hạn về tốc độ truyền dòng điện cũng đáng kể.
+
+
+== Nguyên lý hoạt động của máy gia tốc hiện đại ==
+Tần số của điện áp gia tốc càng cao thì số lần hạt được gia tốc trên cùng một quãng đường sẽ càng nhiều, nói cách khác, để có thể gia tốc đến cùng một vận tốc nhất định, tần số càng cao, máy gia tốc càng có thể ngắn lại. Vậy nên để có thể nghiên cứu các hạt với mức năng lượng cao, các nghiên cứu sẽ tập trung phát triển máy gia tốc với tần số càng ngày càng cao hơn.
+Những chiếc máy gia hạt tốc tuyến tính đầu tiên đã được sử dụng từ khoảng năm 1950, hoạt động với tần số trong khoảng từ 100 megahertz (MHz) đến vài gigahertz (GHz) và sử dụng thành phần điện trường của sóng điện từ.
+
+
+=== Sóng dừng và sóng chạy ===
+Để có thể cùng đạt tới mức năng lượng tầm vài MeV, máy gia tốc electron sẽ rất khác biệt so với máy gia tốc ion, vì hai dạng hạt này có khối lương chênh lệch rất lớn. Với mức năng lượng này, các electron hoàn toàn có thể đạt gần tới tốc độ tuyệt đối (tốc độ ánh sáng), mà theo cơ học tương đối tính, nếu vẫn tiếp tục gia tốc, electron sẽ chỉ tăng tiếp về mặt khối lượng và động lượng. Trái lại, tốc độ của các ion trong cùng mức năng lượng này vẫn hoàn toàn có thể tăng được tiếp lên đáng kể. 
+HIện nay, nguyên lý hoạt động của các máy gia tốc ion thường dựa trên sóng dừng điện từ được tạo ra trong một bộ cộng hưởng thích hợp. Bộ cộng hưởng sẽ phụ thuộc vào loại hạt, dải năng lượng và các thông số khác (sẽ được đề cập đến ở các phần sau). Electron có thể được gia tốc đến mức năng lượng trên một vài MeV với sóng dừng. Một lựa chọn thay thế khác để gia tốc là sóng lũy tiến, hay sóng chạy. Vận tốc pha của sóng chạy sẽ phải xấp xỉ bằng vận tốc của hạt. Vì lý do này, sóng chạy thường sẽ được sử dụng để gia tốc các hạt đã gần tiệm cận vận tốc ánh sáng, vận tốc của hạt sẽ chỉ tăng rất ít.  
+Điệu kiện cần của hai phưong pháp gia tốc này chính là sự phát triển của của bộ dao động tần số cao và bộ khuếch đại công suất cao vào những năm 1940, đặc biệt là sự phát triển của Klytron. Máy gia tốc hạt tuyến tính lớn đầu tiên sử dụng sóng dừng nhằm gia tốc proton được chế tạo vào năm 1945/46 tại Phòng thí nghiệm Bức xạ Berkeley dưới sự chỉ đạo của Luis W. Alvarez. Tần số được sử dụng là 200 MHz. Máy gia tốc electron đầu tiên sử dụng sóng chạy có tần số khoảng 2 GHz (gigahertz) được phát triển muộn hơn một chút tại Đại học Stanford bởi W. W. Hansen và các đồng nghiệp  
+Trong Hình 2, các đường cong và mũi tên biểu thị cường độ và hướng của lực tác dụng lên các hạt. Các hạt sóng chỉ có thể hấp thụ năng lượng tại những điểm có hướng phù hợp của vector điện trường, tức là hướng của lực (nếu ta coi hạt mang điện tích duơng). Hình minh họa không thể hiện sự gia tốc của hạt qua mỗi bước sóng, tỷ lệ được giữ đều.    
+
+	Hình 2 Nguyên lý gia tốc của bó sóng
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Tiêu điểm ===
+Trong nhiều các thiết kế máy gia tốc hạt tuyến tính, chùm hạt cần được hội sự trên tục di chuyển của chúng bởi các nam châm tứ cực hoặc lục cực (với các cực được làm bởi cuộn cảm trụ tròn). Cần phần tử hội tụ sẽ được bố trí xen kẽ với các phần tử được gia tốc.
+
+
+=== Máy gia tốc tứ cực tần số cao ===
+
+Bộ cộng hưởng tứ cực tần số cao, thường được gọi là máy gia tốc RFQ (tứ cực tần số cao), có khả năng tương thích với cùng dải tốc độ như máy gia tốc Wideröe, nhưng có thiết kế nhỏ gọn hơn nhiều. Máy lần đầu được đề xuất vào năm 1969 bỏi các nhà nghiên cứu người Nga Kapchinskiy và Teplyak. Bên trong buồng cộng hưởng, bốn điện cực được đặt đối xứng xung quanh chùm hạt, và dọc theo hướng di chuyển của trục chùm hạt sao cho khoảng cách giữa trục của chùm hạt và điện cực sẽ thay đổi theo hàm sóng. Nhờ có thiết kế này, điện trường xoay chiều của sóng dừng sẽ có thêm một thành phần dọc thay đổi điều hòa ngược theo hướng của chùm tia. Bằng cách này, các chùm hạt liên tục được đưa vào, sẽ bị chia nhỏ thành các gói hạt, và sau đó các gói này sẽ được gia tốc. Thành phần ngang của điện trường (vuông góc với trục di chuyển của hạt) sẽ có tác dụng làm chùm tia hội tụ. Không giống như hội tụ bằng từ trường, hội tụ bằng điện trường hoàn toàn có thể tác động lên các ion di chuyển rất chậm, vì lực điện không phụ thuộc vào vận tốc của hạt.    
+
+
+=== Bộ cộng hưởng khoang đối xứng trụ ===
+
+
+==== Nguyên lý ====
+
+
+==== Bộ cộng hưởng đơn ====
+
+
+==== Máy gia tốc Alvarez ====
+
+
+=== Máy gia tốc tuyến tính cho electron ===
+
+
+==== Máy gia tốc cho sóng tịnh tiến ====
+
+
+==== Bộ cổng hưởng siêu dẫn ====
+
+
+== Tính liên tục và xung ==
+
+
+== Xu hướng phát triển ==
+
+
+=== Máy gia tốc tuyến tính cảm ứng ===
+
+
+=== Máy gia tốc tự phục hồi năng lượng ===
+
+
+=== Máy gia tốc nhỏ gọn ===
+
+
+=== Máy gia tốc Plasma ===
+
+
+== Ứng dụng ==
+
+
+=== Gia tốc ion tuyến tính ===
+
+
+=== Gia tốc electron tuyến tính ===
+
+
+== Tài liệu tham khảo ==
+
+
+== Nguồn ==
+
+
+== Weblinks ==

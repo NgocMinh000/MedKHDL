@@ -1,0 +1,19 @@
+Bệnh do virus (hoặc nhiễm virus hoặc bệnh truyền nhiễm), xảy ra khi cơ thể của sinh vật bị vi rút gây bệnh xâm nhập và các hạt vi rút truyền nhiễm (virion) bám vào và xâm nhập vào các tế bào nhạy cảm.
+
+
+== Đặc điểm cấu trúc ==
+Các đặc điểm cấu trúc cơ bản, chẳng hạn như kiểu gen, hình dạng virion và vị trí sao chép, thường có chung các đặc điểm giữa các loài virut trong cùng một họ.
+Có năm họ DNA sợi đôi: ba họ không bao bọc (Adenoviridae, Papillomaviridae và Polyomaviridae) và hai họ được bao bọc (Herpesviridae và Poxviridae). Tất cả các gia đình virus chưa phát triển đều có vỏ bọc capsid ngoài 20 mặt.
+Có một họ virus DNA sợi đôi một phần: Hepadnaviridae. Những virus này được bao bọc.
+Có một họ virus DNA sợi đơn gây nhiễm cho người: Parvoviridae. Những virus này không được bao bọc.
+Có bảy họ RNA đơn chuỗi tích cực: ba họ không bao bọc (Astroviridae, Caliciviridae và Picornaviridae) và bốn họ bao bọc (Coronoviridae, Flaviviridae, Retroviridae và Togaviridae). Tất cả các gia đình không có vỏ bọc đều có bọc ngoài capsid 20 mặt.
+Có sáu họ RNA đơn chuỗi âm: Arenaviridae, Bunyaviridae, Filoviridae, Orthomyxoviridae, Paramyxoviridae và Rhabdoviridae. Tất cả được bao bọc với nucleocapsid xoắn ốc.
+Có một họ có bộ gen RNA sợi đôi: Reoviridae.
+Có một loại vi-rút bổ sung (vi-rút viêm gan D) chưa được chỉ định cho một gia đình nào nhưng rõ ràng khác biệt với các gia đình khác lây nhiễm cho con người.
+Có một họ và một chi vi-rút được biết là lây nhiễm cho người không liên quan đến bệnh: họ Anelloviridae và chi Dependovirus. Cả hai phân loại này đều là virus DNA sợi đơn không có vỏ bọc.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

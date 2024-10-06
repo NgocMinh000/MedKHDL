@@ -1,0 +1,16 @@
+Neomycin là một kháng sinh aminoglycoside được tìm thấy trong nhiều loại thuốc bôi tại chỗ như kem, thuốc mỡ và thuốc nhỏ mắt. Neomycin được phát hiện từ năm 1949. Chúng được tìm thấy trong phòng thí nghiệm của nhà khoa học Selman Waksman. Neomycin thuộc nhóm kháng sinh aminoglycoside có chứa hai hoặc nhiều đường amino liên kết với nhau bằng liên kết glycosidic.
+
+
+== Sử dụng ==
+Neomycin thường được sử dụng như dưới dạng thuốc bôi tại chỗ, chẳng hạn như Neosporin. Chúng cũng có thể được uống, nếu dùng theo cách này thì neomycin thường được kết hợp với các thuốc kháng sinh khác. Neomycin không được hấp thụ qua đường tiêu hóa và được sử dụng như một biện pháp dự phòng cho bệnh não gan và tăng cholesterol máu. Bằng cách tiêu diệt vi khuẩn trong đường ruột, kháng sinh này giúp giữ mức amonia thấp và ngăn ngừa bệnh não gan, đặc biệt là trước khi phẫu thuật GI. Chúng hoạt động để tiêu diệt vi khuẩn kháng streptomycin, kể cả trong trường hợp các vi khuẩn lao. Thuốc này cũng đã được sử dụng để điều trị sự phát triển quá mức của các vi khuẩn ruột non. Chúng không được tiêm, vì neomycin cực kỳ độc thận (gây ra tổn thương thận), ngay cả khi so sánh với các aminoglycosid khác. Ngoại lệ là khi neomycin được tích hợp, với lượng rất nhỏ, như một chất bảo quản trong một số vaccine-thường là 25 μg mỗi liều.
+
+
+== Phổ hoạt động ==
+Tương tự như các aminoglycosid khác, neomycin có hoạt tính tuyệt vời chống lại vi khuẩn Gram âm, và có hiệu quả một phần chống lại vi khuẩn Gram dương. Chúng tương đối độc đối với người, và cũng có nhiều người dị ứng với neomycin. Các bác sĩ đôi khi khuyên bạn nên sử dụng thuốc mỡ kháng sinh không chứa neomycin, chẳng hạn như Polysporin. Sau đây là số liệu nhạy cảm MIC đối với một số vi khuẩn Gram âm có ý nghĩa về mặt y học.
+
+Enterobacter cloacae:> 16 μg / ml
+Escherichia coli: 1 μg / ml
+Proteus vulgaris: 0,25 μg / ml
+
+
+== Chú thích ==

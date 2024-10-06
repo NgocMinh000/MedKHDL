@@ -1,0 +1,60 @@
+Đây là một dự án mang tính chuyên môn được thực hiện bởi các nhà khoa học xã hội nhằm đánh giá trạng thái của văn hóa xã hội gồm những giá trị về đạo đức, tín ngưỡng, chính trị của các nền văn hóa khác nhau trên khắp thế giới. Những thành quả này phần lớn được công bố qua trang mạng[1] Lưu trữ 2010-04-01 tại Library of Congress Web Archives.
+
+
+== Lịch sử ==
+Khảo sát giá trị thế giới (WVS) được nảy sinh ra từ chương trình nghiên cứu những giá trị châu Âu (EVS) [2] năm 1981, khi đó sự thành công của phương pháp này đã được mở rộng ra 14 nước nằm ngoài châu Âu. Tuy vậy dự án nghiên cứu vào năm 1981 này chỉ bao gồm 22 nước trên thế giới. EVS được chỉ đạo dưới sự hướng dẫn của Jan Kerkhofs và Ruud de Moor tiếp tục được triển khai tại đại học Tilburg, Hà Lan. Những khảo sát rộng khắp toàn cầu sau đó đã được thực hiện bởi Ronald Inglehart tại đại học Michigan, Hoa Kỳ.
+Khảo sát được thựa hiện với chu kỳ 10 năm một lần bên cạnh những đọt khảo sát nhỏ hơn theo chu kỳ 5 năm. Một trong những mục tiêu theo chiều dọc của dự án là đo lường bước thay đổi của các giá trị (hàm nghĩa so sánh giữa các nền văn hóa).
+Do nguồn gốc của dự án mà khảo sát giá trị thế giới nhắm đến tập trung ở châu Âu & rất hời hợt ở châu Phi & Đông Nam Á. Để chấp nhận mở rộng khảo sát, WVS đã được cấu trúc lại theo kiểu phi tập trung hóa mạnh mẽ. Những nhà khoa học hàn lâm đến từ các quốc gia có thể tự do gia nhập mạng lưới khảo sát gần như là dân chủ. Để tham gia, những người đại diện này phải đạt tiêu chuẩn là thực hiện khảo sát ít nhất 1000 người ở quốc gia mà họ đang sinh sống. Những dữ liệu khảo sát độc lập này sẽ được trao đổi qua lại như một phần của dữ liệu chung về WVS. Nền tảng tài chính để thực hiện xuất phát từ cộng đồng mà họ sinh sống, phần lớn là được tài trợ từ chính quyền địa phương trong quá trình thực hiện dự án. Bằng cách này, WVS đã trở thành phong trào rộng khắp vượt ra ngoài phạm vi châu Âu, mở rộng ra 42 quốc gia trong đợt khảo sát thứ 2, 54 quốc gia trong đợt khảo sát thứ 3 và 62 quốc gia trong đợt khảo sát lần thứ tư.
+Hiện nay dữ liệu về WVS đã được xuất bản trên mạng Internet & cho phép mọi người truy nhập miễn phí. Văn phòng chính của WVS được đặt tại Thụy Điển, phòng lưu trữ chính thức của WVS được đặt tại Madrid, Tây Ban Nha.
+
+
+== Phương pháp luận và phạm vi ==
+Khảo sát giá trị thế giới dùng phương pháp khảo sát trực tiếp (phỏng vấn mặt đối mặt) nhằm thu được những câu trả lời chi tiết cho bảng câu hỏi đưa ra. Bản câu hỏi phỏng vấn của 5 đợt điều tra (bao gồm cả đợt điều tra không đầy đủ gần đây vào năm 2005/2006) có thể xem tại trang mạng của WVS. Cuộc điều tra 2005/2006 đã sử dụng 250 câu hỏi và thực hiện với khoảng 1000 đến 3500 người được phỏng vấn ở mỗi nước. Trong đợt điều tra lần thứ tư, WVS đã thực hiện 92000 cuộc phỏng vấn trên toàn cầu đối với 62 nước và trung bình mỗi nước tiến hành 1330 cuộc phỏng vấn. Khảo sát VWS ở từng quốc gia thường được tiến hành bởi một vài cá nhân hoặc tổ chức nên buộc phải tiến hành theo phương pháp lấy mẫu, tức khảo sát trên từng nhóm nhỏ đại diện cho mỗi tầng lớp hoặc cộng đồng.
+
+
+== Kết quả ==
+Bản câu hỏi của khảo sát giá trị thế giới hướng đến khoảng 250 đáp số trong khoảng từ 400 đến 800 các biến đo lường như: sex, tình trạng hôn nhân, số con cái của mỗi cặp vợ - chồng, household composition, trình độ học vấn, nhà ở (sống với thế hệ bố mẹ hay không), nghề nghiệp (tình trạng, người tạo thu nhập chính ở gia đình hay không?, ông chủ hay người làm công ăn lương), tình trạng tài chính dự phòng (tiết kiệm gia đình trong năm trước, tầng lớp xã hội, mức thu nhập), nơi cư trú (thuộc vùng miền nào, quy mô nơi cư trú: thị xã, thành phố, nông thôn), nhóm sắc tộc.
+Số liệu trên trang mạng World Values Survey rất lớn & có thể tải về miễn phí hoặc xem/so sánh giữa các quốc gia dưới dạng bảng, biểu đồ, Marginals đối với từng kết quả điều tra của mỗi câu hỏi.
+
+
+== Liên kết ngoài ==
+http://www.bbc.co.uk/vietnamese/programmes/story/2005/01/printable/thamnhungmorenoscripts.shtml Tham nhũng, dân chủ và lòng tin, BBC Việt ngữ
+http://www.worldvaluessurvey.org World Values Survey
+http://www.jdsurvey.net/bdasepjds/wvsevsdb/wvsevs.jsp
+
+
+== Tham khảo ==
+
+Alesina, A; Giuliano, P; Nunn, N (2010), The Origins of Gender roles — Women and the Plough (PDF), World Values Survey.
+Alexander, A; Welzel, C (2010), “Empowering Women: The Role of Emancipative Values”, European Sociological Review, 27 (3).
+Alexander, A; Welzel, C (2011), “Islam and Patriarchy: How Robust is Muslim Support for Patriarchal Values?” (PDF), World Values Research, 4 (2).
+Brockmann, H; Delhay, J; Yuan, H; Welzel, C (2008), The China Puzzle: Declining Happiness in a Rising Economy (PDF), Journal of Happiness Studies.
+Esmer, Y (2004),  Inglehart, Ronald; Basanez, Miguel; Diez-Medrano, Jaime; Halman, Loek; Luijkx, Ruud (biên tập), Human Beliefs and Values: A cross-cultural sourcebook based on the 1999–2002 values surveys.
+Haerpfer, C; Bernhagen, P; Inglehart, Ronald; Welzel, C biên tập (2009), Democratization, Oxford: Oxford University Press.
+Inglehart, Ronald (1990), Culture Shift in Advanced Industrial Society, Princeton: Princeton University Press.
+Inglehart, Ronald (1997), Modernization and Postmodernization: Cultural, Economic and Political Change in 43 Societies, Princeton: Princeton University Press.
+Inglehart, Ronald (2008), Changing Values among Western Publics from 1970 to 2006, World Values Survey.
+Inglehart, Ronald; Baker, Wayne (2000), “Modernization, Cultural Change and the Persistence of Traditional Values” (PDF), American Sociological Review, U Mich, 65 (1): 19–51, doi:10.2307/2657288, JSTOR 2657288, Bản gốc (PDF) lưu trữ ngày 12 tháng 3 năm 2006, truy cập ngày 29 tháng 9 năm 2013.
+Inglehart, Ronald; Basanez, Miguel; Diez-Medrano, Jaime; Halman, Loek; Luijkx, Ruud biên tập (2004), Human Beliefs and Values: A cross-cultural sourcebook based on the 1999–2002 values surveys.
+Inglehart, Ronald; Norris, P (2003), Rising Tide: Gender Equality and Cultural Change Around the World, New York and Cambridge: Cambridge University Press.
+Inglehart, Ronald; Welzel, C (2005), Modernization, Cultural Change and Democracy, New York and Cambridge: Cambridge University Press.
+Inglehart, Ronald; Welzel, C (2009), Development and Democracy: What We Know about Modernization Today (PDF), World Values Survey.
+Inglehart, Ronald; Welzel, C (2010), Changing Mass Priorities: The Link between Modernization and Democracy (PDF), World Values Survey.
+Norris, P; Inglehart, Ronald (2004), Sacred and Secular: Religion and Politics Worldwide., New York and Cambridge: Cambridge University Press.
+Norris, P; Inglehart, Ronald (2009), Cosmopolitan Communications: Cultural Diversity in a Globalized World, New York: Cambridge University Press.
+Van de Vliert, E (2006), Climatoeconomic Roots of Survival Versus Self-expression Cultures (PDF), World Values Survey.
+Welzel, C (2006a), Individual Modernity (PDF), World Values Survey.
+Welzel, C (2006b), Democratization in the Human Development Perspective (PDF), World Values Survey.
+Welzel, C (2006c), Democratization as an Emancipative Process (PDF), World Values Survey.
+Welzel, C (2007), “Are Levels of Democracy Affected by Mass Attitudes?” (PDF), International Political Science Review, 28 (4).
+Welzel, C (2009a), Theories of Democratization (PDF), World Values Survey.
+Welzel, C (2009b), How Selfish Are Self-Expression Values? A Civicness Test (PDF), World Values Survey.
+Welzel, C (2011), “The Asian Values Thesis Revisited: Evidence from the World Values Surveys”, Japanese Journal of Political Science, 12 (1).
+Welzel, C; Inglehart, Ronald (2006), Mass Beliefs in Comparative Politics (PDF), World Values Survey.
+Welzel, C; Inglehart, Ronald (2008), “Democratization as Human Empowerment”, Journal of Democracy, 19 (1).
+Welzel, C; Inglehart, Ronald (2009a), The Role of Ordinary People in Democratization (PDF), World Values Survey.
+Welzel, C; Inglehart, Ronald (2009b), Mass Beliefs and Democratization (PDF), World Values Survey.
+Welzel, C; Inglehart, Ronald (2009c), Agency, Values, and Well-Being: A Human Development Model (PDF), World Values Survey.
+Welzel, C; Inglehart, Ronald (2010), “Values, Agency, and Well-Being: A Human Development Model”, Social Indicators Research, 97 (1).
+Welzel, C; Inglehart, Ronald; Deutsch, F (2005), “Social Capital, Voluntary Associations, and Collective Action: Which Aspects of Social Capital Have the Greatest 'Civic' Payoff?”, Journal of Civil Society, 1 (2).
+Welzel, C; Inglehart, Ronald; Klingemann, HD (2003), “The Theory of Human Development: A Cross-Cultural Analysis” (PDF), European Journal of Political Research, DE: Jacobs University, 42 (3): 341–79, Bản gốc (PDF) lưu trữ ngày 24 tháng 8 năm 2009, truy cập ngày 29 tháng 9 năm 2013.

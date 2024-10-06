@@ -1,0 +1,238 @@
+Lý thuyết trò chơi, hoặc gọi đối sách luận, lí luận ván cờ, là một phân nhánh mới của toán học hiện đại, cũng là một môn học trọng yếu của vận trù học, tác phẩm Lý thuyết trò chơi và hành vi kinh tế do John von Neumann viết chung với Oskar Morgenstern vào năm 1944, đã đánh dấu sự hình thành sơ bộ của hệ thống lí thuyết trò chơi hiện đại, do đó ông được gọi là "cha đẻ của lí thuyết trò chơi".
+Lí thuyết trò chơi chủ yếu nghiên cứu tác dụng tương hỗ giữa các kết cấu phấn khích đã được công thức hoá, là lí luận và phương pháp toán học để nghiên cứu hiện tượng có sẵn tính chất đấu tranh hoặc cạnh tranh. Lí thuyết trò chơi đắn đo suy xét hành vi dự liệu và hành vi thực tế, đồng thời nghiên cứu sách lược ưu hoá của chúng. Các nhà sinh vật học sử dụng lí thuyết trò chơi để lí giải và suy đoán một số kết quả của học thuyết tiến hoá.
+Lí thuyết trò chơi đã trở thành một trong những công cụ phân tích tiêu chuẩn của kinh tế học. Trước mắt đều có ứng dụng rộng khắp ở tài chính học, chứng khoán học, sinh vật học, kinh tế học, quan hệ quốc tế, khoa học máy tính, chính trị học, chiến lược quân sự và rất nhiều ngành học khác. Nguồn gốc của lí thuyết trò chơi hiện đại là do John von Neumann đưa ra ý tưởng và chứng minh điểm cân bằng của sách lược hỗn hợp đối với trò chơi có tổng bằng không của hai người.
+
+
+== Lịch sử ngành Lý thuyết trò chơi ==
+
+
+=== Tiền thân ===
+Những thảo luận đầu tiên được biết đến về lý thuyết trò chơi xuất hiện trong một lá thư viết bởi James Waldegrave vào năm 1713. Trong lá thư này, Waldegrave đưa ra lời giải chiến thuật hỗn hợp minimax cho một trò đánh bài hai người chơi le Her. Chỉ đến khi sự xuất bản Nghiên cứu về những Định luật toán học của lý thuyết Tài sản của Antoine Augustin Cournot vào năm 1838 thì những phân tích chung về lý thuyết trò chơi mới được theo đuổi. Trong tác phẩm này Cournot xem xét duopoly và đưa một phiên bản giới hạn của cân bằng Nash.
+
+
+=== Sự ra đời và những phát triển ban đầu ===
+
+Mặc dù những phân tích của Cournot là tổng quát hơn là của Waldegrave, lý thuyết trò chơi chưa thật sự tồn tại như là một ngành duy nhất cho đến khi John von Neumann xuất bản một loạt các bài báo vào năm 1928. Những kết quả này sau này được mở rộng thêm ra trong cuốn sách xuất bản năm 1944 Lý thuyết trò chơi và các hành vi kinh tế của von Neumann và Oskar Morgenstern. Tác phẩm uyên thâm này chứa đựng phương pháp tìm những lời giải tối ưu cho những trò chơi tổng bằng không với hai người chơi. Trong suốt khoảng thời gian này, những tác phẩm về lý thuyết trò chơi chủ yếu tập trung vào lý thuyết các trò chơi hợp tác, phân tích về những chiến thuật tối ưu cho một nhóm các cá nhân, giả sử rằng họ có thể bảo đảm những thỏa thuận giữ họ với những chiến thuật thích hợp.
+
+Năm 1950, thảo luận đầu tiên của Prisoner's dilemma xuất hiện, và một thí nghiệm được làm về trò chơi này tại công ty RAND. Vào khoảng cùng thời gian đó, John Nash phát triển một định nghĩa về một chiến thuật "tối ưu" cho các trò chơi với nhiều người chơi, và chưa một tối ưu nào được định nghĩa trước đó, được biết đến như là cân bằng Nash. Cân bằng này là đủ tổng quát, cho phép sự phân tích về trò chơi không hợp tác thêm vào những trò chơi có hợp tác.
+Lý thuyết trò chơi trải qua một thời gian sôi động trong những năm 1950, trong những năm đó những khái niệm về cốt lõi, dạng trò chơi bao quát, trò chơi giả, trò chơi lặp, và giá trị Shapley được phát triển. Thêm vào đó, những ứng dụng đầu tiên của lý thuyết trò chơi vào triết học và khoa học chính trị diễn ra trong thời gian này.
+
+
+=== Thành tích đoạt giải ===
+Vào năm 1965, Reinhard Selten giới thiệu khái niệm lời giải của các cân bằng lý tưởng của các trò chơi con, làm chính xác thêm cân bằng Nash equilibrium (sau đó cũng ông giới thiệu sự hoàn thiện rung tay). Vào năm 1967, John Harsanyi phát triển các khái niệm thông tin hoàn toàn và trò chơi Bayesian. Ông ta, cùng với John Nash và Reinhard Selten, đoạt giải thưởng Nobel về kinh tế vào năm 1994.
+Trong những năm 1970, lý thuyết trò chơi được áp dụng rộng rãi vào sinh học, chủ yếu là do kết quả của các công trình của John Maynard Smith và chiến lược tiến hóa bền vững của ông. Thêm vào đó, những khái niệm về cân bằng liên quan, sự hoàn toàn rung tay, và kiến thức chung được giới thiệu và phân tích.
+Năm 2005, những lý thuyết gia trò chơi Thomas Schelling và Robert Aumann đoạt giải thưởng Nobel về kinh tế. Schelling là về các mô hình động, các ví dụ ban đầu của lý thuyết tiến hóa trò chơi. Aumann đóng góp thêm vào trường cân bằng (equilibrium school), phát triển một cân bằng làm thô đi những cân bằng liên quan nhau và phát triển các phân tích chi tiết về giả sử của kiến thức chung.
+Năm 2007, Leonid Hurwicz, Eric Maskin và Roger Myerson đã được trao giải Nobel Kinh tế "vì đã đặt nền móng cho lý thuyết thiết kế cơ chế". Những đóng góp của Myerson bao gồm khái niệm về trạng thái cân bằng thích hợp và một văn bản quan trọng sau đại học: Lý thuyết trò chơi, Phân tích xung đột. Hurwicz đã giới thiệu và chính thức hóa khái niệm khả năng tương thích khuyến khích.
+Năm 2012, Alvin E. Roth và Lloyd S. Shapley đã được trao giải Nobel Kinh tế "cho lý thuyết phân bổ ổn định và thực hành thiết kế thị trường". Năm 2014,  Nobel đã thuộc về nhà lý thuyết trò chơi Jean Tirole.
+
+
+== Biểu diễn trò chơi ==
+Các trò chơi được nghiên cứu trong lý thuyết trò chơi là các đối tượng toán học được xác định rõ ràng. Để được xác định đầy đủ, một trò chơi phải xác định các yếu tố sau: người chơi của trò chơi,  thông tin và hành động  có sẵn cho mỗi người chơi tại mỗi thời điểm quyết định, và payoffs cho mỗi kết quả. (Eric Rasmusen đề cập đến bốn "yếu tố thiết yếu" này bằng từ viết tắt "PAPI".) Một nhà lý thuyết trò chơi thường sử dụng các yếu tố này, cùng với giải pháp mà họ lựa chọn, để suy ra một tập hợp các điểm cân bằngchiến lược cho mỗi người chơi sao cho khi các chiến lược này được sử dụng, không người chơi nào có thể kiếm lợi bằng cách đơn phương đi chệch khỏi chiến lược của họ. Các chiến lược cân bằng này xác định trạng thái cân bằng cho trò chơi — một trạng thái ổn định trong đó một kết quả xảy ra hoặc một tập hợp các kết quả xảy ra với xác suất đã biết.
+Hầu hết các trò chơi hợp tác được trình bày ở dạng chức năng đặc trưng, trong khi dạng mở rộng và dạng bình thường được sử dụng để xác định các trò chơi bất hợp tác.
+
+
+=== Dạng chuẩn tắc ===
+
+Trò chơi chuẩn tắc (hoặc dạng chiến lược (strategic form)) là một ma trận cho biết thông tin về các đấu thủ, chiến lược, và cơ chế thưởng phạt (xem ví dụ bên phải). Trong ví dụ, có hai đấu thủ, một người chọn hàng, người kia chọn cột. Mỗi đấu thủ có hai chiến lược, mỗi chiến lược được biểu diễn bởi một ô được xác định bởi số hiệu hàng và số hiệu cột của nó. Mức thưởng phạt được ghi trong ô đó. Giá trị thứ nhất là mức thưởng phạt cho đấu thủ chơi theo hàng (trong ví dụ là Đấu thủ 1); giá trị thứ hai là mức thưởng phạt cho đấu thủ chơi theo cột (trong ví dụ là Đấu thủ 2). Giả sử Đấu thủ 1 chơi hàng trên và Đấu thủ 2 chơi cột trái. Khi đó, Đấu thủ 1 nhận 4 điểm và Đấu thủ 2 nhận 3 điểm.
+Khi một trò chơi được biểu diễn bằng dạng chuẩn tắc, người ta coi rằng mỗi đấu thủ hành động một cách đồng thời, hoặc ít nhất không biết về hành động của người kia. Nếu các đấu thủ có thông tin về lựa chọn của các đấu thủ khác, trò chơi thường được biểu diễn bằng dạng mở rộng.
+
+
+=== Dạng mở rộng ===
+
+Các trò chơi dạng mở rộng cố gắng mô tả các trò chơi có thứ tự quan trọng. Ở đây, các trò chơi được biểu diễn bằng cây (như trong hình bên trái). Mỗi đỉnh (hoặc nút) biểu diễn một điểm mà người chơi có thể lựa chọn. Người chơi được chỉ rõ bằng một số ghi cạnh đỉnh. Các đoạn thẳng đi ra từ đỉnh đó biểu diễn các hành động có thể cho người chơi đó. Mức thưởng phạt được ghi rõ tại đáy cây.
+Trong trò chơi trong hình, có hai người chơi. Đấu thủ 1 đi trước và chọn F hoặc U. Đấu thủ 2 nhìn thấy nước đi của Đấu thủ 1 và chọn A hoặc R. Giả sử Đấu thủ 1 chọn U và sau đó Đấu thủ 2 chọn A. Khi đó, Đấu thủ 1 được 8 điểm và Đấu thủ 2 được 2 điểm.
+Các trò chơi mở rộng còn có thể mô tả các trò chơi đi-đồng-thời. Hoặc có một đường chấm chấm hoặc một đường tròn vẽ quanh hai đỉnh khác nhau để biểu diễn rằng chúng đều thuộc cùng một tập hợp thông tin (nghĩa là, người chơi không biết họ đang ở điểm nào).
+
+
+== Các loại trò chơi ==
+
+
+=== Trò chơi đối xứng và bất đối xứng ===
+
+Một trò chơi đối xứng là một trò chơi mà phần lợi cho việc chơi một chiến thuật nào đó chỉ phụ thuộc vào các chiến thuật được sử dụng, chứ không phụ thuộc vào người nào đang chơi. Nếu như tính danh của những người chơi có thể thay đổi mà không làm thay đổi phần lợi đối với chiến thuật chơi, thì một trò chơi là đối xứng. Nhiều trò chơi 2×2 thường được nghiên cứu là đối xứng. Những biểu diễn chuẩn của trò chơi con gà, song đề tù nhân, đi săn nai là những trò chơi đối xứng. [1]
+Đa số những trò chơi bất đối xứng được nghiên cứu là những trò chơi mà
+các tập hợp chiến thuật khác nhau được sử dụng bởi hai người chơi. 
+Chẳng hạn, trò chơi tối hậu thư và tương tự như vậy trò nhà độc tài có chiến thuật khác nhau cho mỗi người chơi. Tuy vậy, có thể xảy ra trường hợp một trò chơi có những chiến thuật giống nhau cho cả hai người chơi, nhưng vẫn bất đối xứng. Chẳng hạn, trò chơi được minh họa bên phải là bất đối xứng mặc dù cho có cùng tập các chiến thuật cho cả hai người chơi.
+
+
+=== Trò chơi tổng bằng không và trò chơi tổng khác không ===
+
+Trong trò chơi tổng bằng không, với mọi tổ hợp của các chiến lược chơi, tổng điểm của tất cả các người chơi trong ván chơi luôn bằng 0. Nói một cách không chính thức, đấu thủ này hưởng lợi trên thiệt hại của các đấu thủ khác. Một ví dụ là trò Poker, trong đó người này thắng số điểm bằng đúng số điểm mà người kia thua. Các loại cờ cổ điển như cờ vây, cờ vua và cờ tướng cũng là các trò chơi tổng bằng không
+Nhiều trò chơi mà các nhà lý thuyết trò chơi nghiên cứu, trong đó có song đề tù nhân nổi tiếng, là các trò chơi tổng khác không, do có một số kết cục có tổng kết quả lớn hơn hoặc nhỏ hơn không. Nói một cách không chính thức, trong các trò chơi tổng khác không, một thu hoạch của đấu thủ này không nhất thiết tương ứng với một thiệt hại của một đấu thủ khác.
+Có thể biến đổi một trò chơi bất kỳ thành một trò chơi tổng bằng không bằng cách bổ sung một đấu thủ "bù nhìn" sao cho các thiệt hại của đấu thủ này bù lại tổng thu hoạch của các đấu thủ khác.
+
+
+=== Trò chơi đồng thời và trò chơi tuần tự ===
+
+Trong các trò chơi đồng thời (simultaneous game), cả hai đấu thủ thực hiện các nước đi một cách đồng thời, hoặc nếu không thì đấu thủ này sẽ không biết về các hành động trước đó của các đối thủ khác (và như vậy cũng tạo "hiệu ứng" đồng thời). Trong các trò chơi tuần tự (sequential game), người đi sau có biết một số (nhưng không nhất thiết toàn bộ) thông tin về các nước đi trước.
+Biểu diễn dạng chuẩn tắc được dùng để biểu diễn các trò chơi đồng thời, còn Biểu diễn dạng mở rộng được dùng cho các trò chơi tuần tự.
+
+
+=== Trò chơi thông tin hoàn hảo và Trò chơi có thông tin không hoàn hảo ===
+
+Các trò chơi thông tin hoàn hảo (games of perfect information) lập thành một tập con quan trọng của các trò chơi tuần tự. Một trò chơi được gọi là có thông tin hoàn hảo nếu mọi đấu thủ biết tất cả các nước đi mà tất cả các đấu thủ khác đã thực hiện. Trong thực tế, điều này có thể được áp dụng cho các công ty và người tiêu dùng có thông tin về giá cả và chất lượng của tất cả các hàng hóa có sẵn trên thị trường . Một trò chơi thông tin không hoàn hảo được chơi khi người chơi không biết tất cả các nước đi đã được thực hiện của đối phương, chẳng hạn như một trò chơi di chuyển đồng thời. Do vậy chỉ có các trò chơi tuần tự mới có thể là các trò chơi thông tin hoàn hảo. Hầu hết các trò chơi được nghiên cứu trong lý thuyết trò chơi là các trò chơi thông tin không hoàn hảo, tuy một số trò chơi hay như cờ vây, cờ vua lại là trò chơi thông tin hoàn hảo.
+Tính chất thông tin hoàn hảo thường bị nhầm lẫn với khái niệm thông tin đầy đủ. Tính chất thông tin đầy đủ đòi hỏi rằng mỗi người chơi biết về các chiến lược và thành quả thu được của các người chơi khác, nhưng không nhất thiết biết về các hành động của họ.
+
+
+=== Các trò chơi dài vô tận ===
+
+Bởi các lý do hiển nhiên, các trò chơi được nghiên cứu bởi các kinh tế gia và những người chơi trong thế giới thực nhìn chung là kết thúc trò chơi trong hữu hạn các bước đi. Các nhà toán học lý thuyết không bị cản trở bởi điều đó, và lý thuyết gia về tập hợp đặc biệt nghiên cứu về các trò chơi kết thúc sau vô hạn các bước đi, bới người thắng (hay là phần lợi) là không biết được cho đến sau khi các bước đi đó đã hoàn thành.
+Sự chú ý thường không phải là quá nhiều về cách nào tốt nhất để chơi trò chơi, mà đơn giản là chỉ phụ thuộc vào người chơi hay người kia có hay không một chiến thuật chiến thắng. (Có thể chứng minh rằng, sử dụng tiên đề chọn lựa, là có những trò chơi với—ngay cả là đầy đủ thông tin hoàn toàn, và chỉ có kết quả là "thắng" hay "thua"— và không người chơi nào có chiến thuật để chiến thắng.) Sự tồn tại của những chiến thuật như vậy, cho những trò chơi được thiết kế một cách thông minh, có những kết quả quan trọng trong lý thuyết miêu tả tập hợp.
+
+
+== Ứng dụng của lý thuyết trò chơi ==
+Các trò chơi trong dạng này hay dạng khác được sử dụng rộng rãi trong nhiều ngành nghiên cứu khác nhau.
+
+
+=== Kinh tế và kinh doanh ===
+Các nhà kinh tế học đã sử dụng lý thuyết trò chơi để phân tích một diện rộng các hiện tượng kinh tế, trong đó có đấu giá, mặc cả, duopoly và oligopoly, các tổ chức mạng lưới xã hội và các hệ thống bầu cử. Nghiên cứu này thường tập trung vào một tập cụ thể các chiến lược được biết với tên các trạng thái cân bằng trong trò chơi. Nổi tiếng nhất là cân bằng Nash của nhà toán học John Nash, người đã được giải thưởng Nobel cho công trình nghiên cứu của ông về lý thuyết trò chơi.
+
+
+==== Diễn tả ====
+
+Công dụng đầu tiên là để cung cấp thông tin cho chúng ta về việc là toàn bộ dân số sẽ thực sự hành xử như thế nào. Một số học giả tin rằng bằng cách tìm ra những điểm cân bằng của những trò chơi họ có thể dự đoán được dân số sẽ hành xử như thế nào khi đối phó với những tình huống giống như trò chơi đang được nghiên cứu. Quan điểm đặc biệt này về lý thuyết trò chơi đã bị chỉ trích gần đây. Thứ nhất, nó bị chỉ trích bởi vì những giả sử được ra bởi các lý thuyết gia trò chơi thường bị vi phạm. Một số lý thuyết gia trò chơi có thể giả sử rằng những người chơi luôn hành xử hợp lý để làm tối ưu hóa phần thắng của anh ta (mô hình Homo economicus), nhưng người thật thường hành động hoặc là không hợp lý, hoặc là hành động hợp lý để là tối ưu phần thắng của một nhóm người lớn hơn (hành động vị tha). Những lý thuyết gia trò chơi trả lời bằng cách so sánh những giả sử của họ với những giả sử được sử dụng trong vật lý. Do vậy trong khi những giả sử của họ không phải luôn luôn đúng, họ có thể xem lý thuyết trò chơi như là một lý tưởng khoa học hợp lý giống như là các mô hình được sử dụng bởi các nhà vật lý. Tuy nhiên, những chỉ trích thêm của việc sử dụng này của lý thuyết trò chơi đã được giảm đi bởi vì một số thí nghiêm cho thấy rằng các cá nhân không chơi những chiến lược cân bằng. Ví dụ, trong trò chơi Centipede, Đoán 2/3 trung bình, và trò Nhà độc tài, người ta thường không chơi với cân bằng Nash. Sự tranh cãi vẫn tiếp diễn liên quan đến sự quan trọng của những thí nghiệm này. [2]
+Thay vào đó, một số tác giả cho rằng cân bằng Nash không đưa ra những dự đoán cho toàn dân số con người, nhưng thiên về cung cấp một lời giải thích tại sao những dân số chơi theo cân bằng Nash vẫn duy trì ở trong trạng thái đó. Tuy nhiên, câu hỏi tại sao dân số đạt đến những điểm đó vẫn là bài toán mở.
+Một số lý thuyết gia trò chơi đã xoay qua lý thuyết tiến hóa trò chơi để lý giải những lo lắng này. Những mô hình này giả sử hoặc là không có sự hợp lý nào hoặc là hợp lý bị chặn trên phần của các người chơi. Mặc cho tên gọi, lý thuyết tiến hóa trò chơi không cần thiết giả sử chọn lọc tự nhiên theo nghĩa của sinh học. Lý thuyết tiến hóa trò chơi bao gồm cả sinh học cũng như là tiến hóa văn hóa và cũng như các mô hình học tập cá nhân (ví dụ, biến động của trò chơi giả).
+
+
+==== Tính quy chuẩn ====
+
+Theo ý kiến khác, một số học giả cho rằng lý thuyết trò chơi không phải là một công cụ dự đoán cho hành vi của con người, mà như là một đề nghị để người ta nên phải hành xử như thế nào. Bởi vì một cân bằng Nash của một trò chơi bao gồm những đáp lại tốt nhất cho những hành động của các người chơi khác, chơi một chiến thuật là một phần của một cân bằng Nash trông có vẻ là hợp lý. Tuy nhiên, việc sử dụng này của lý thuyết trò chơi cũng đã bị chỉ trích. Đầu tiên, trong một số trường hợp là hợp lý để chơi một chiến lược không cân bằng nếu như một người mong đợi những người khác cũng chơi những chiến lược không cân bằng. Ví dụ, xem Đoán 2/3 giá trị trung bình.
+Thứ hai là, Song đề tù nhân đưa ra một phản ví dụ nổi bật khác. Trong Song đề tù nhân, mỗi người chơi đi theo sở thích riêng của anh ta dẫn đến cả hai người chơi đều bị thiệt thòi thêm nếu như họ không theo đuổi những sở thích riêng của họ. Một số học giả tin rằng điều này biểu diễn sự thất bại của lý thuyết trò chơi như là một khuyến cáo cho hành xử.
+
+
+=== Sinh học ===
+
+Không giống như trong kinh tế, phần lợi cho những trò chơi trong sinh học thường được diễn dịch như là tương ứng với sự thích nghi. Thêm vào đó, chú ý đã ít hơn về các cân bằng có liên quan đến khái niệm của sự hợp lý, nhưng là thiên về những thứ có thể duy trì được bởi các lực tiến hóa. Cân bằng được biết đến nhiều nhất trong sinh học được biết đến như là chiến lược tiến hóa bền vững (viết tắt ESS cho Evolutionary Stable Strategy), là được giới thiệu lần đầu bởi John Maynard Smith (mô tả trong cuốn sách năm 1982 của ông). Mặc đu động lực ban đầu của nó không liên quan đến bất cứ yêu cầu về tinh thần nào của cân bằng Nash, mỗi ESS là một cân bằng Nash.
+Trong sinh học, lý thuyết trò chơi đã được sử dụng để hiểu được nhiều hiện tượng khác nhau. Nó được sử dụng lần đầu để giải thích sự tiến hóa (và bền vững) của tỷ lệ giới tính khoảng 1:1.Ronald Fisher (1930) đề nghị rằng tỉ lệ giới tính 1:1 là kết quả của những lực tiến hóa tác động lên những cá nhân là những người có thể được xem như là cố gắng làm tối đa số cháu chắt của mình.
+Thêm vào đó, những nhà sinh vật đã sử dụng lý thuyết trò chơi tiến hóa và ESS để giải thích sự nổi lên của liên lạc giữa muông thú (Maynard Smith & Harper, 2003). Sự phân tích của các trò chơi tín hiệu và các trò chơi liên lạc khác đã cung cấp một số trực giác vào trong sự tiến hóa của việc liên lạc giữa muôn thú.
+Cuối cùng, các nhà sinh vật đã sử dụng trò chơi diều hâu-bồ câu (cũng được biết đến như là con gà) để phân tích những hành vi đánh nhau và tranh giành lãnh thổ.
+
+
+=== Khoa học máy tính và logic ===
+Lý thuyết trò chơi đã đóng một vai trò ngày càng quan trọng trong logic và trong khoa học máy tính. Một số lý thuyết logic có cơ sở trong ngữ nghĩa trò chơi. Thêm vào đó, những khoa học gia máy tính đã sử dụng trò chơi để mô phỏng những tính toán tương tác với nhau.
+
+
+=== Chính trị học ===
+Các nghiên cứu trong khoa học chính trị cũng có sử dụng lý thuyết trò chơi. Một thuyết trò chơi giải thích cho lý thuyết dân chủ hòa bình rằng tính công khai và tranh luận cởi mở trong các nền dân chủ sẽ gởi một thông điệp rõ ràng và khả tín về các mục tiêu đến những chế độ khác. Ngược lại, khó mà biết được những chủ đích của các lãnh đạo phi dân chủ (độc tài), rằng sẽ có sự nhượng bộ chung hiệu quả nào, và các lời hứa hẹn có được tôn trọng hay không. Do đó, sẽ tồn tại sự việc không tin tưởng và không mong muốn nhằm tạo ra sự nhượng bộ chung nếu ít nhất một trong các thành phần của sự bàn cãi này là thành phần phi dân chủ..[3]
+
+
+=== Triết học ===
+Lý thuyết trò chơi đã được đưa vào một vài sử dụng trong triết học. Hai bài báo bởi W.V.O. Quine (1960, 1967), David Lewis (1969) sử dụng lý thuyết trò chơi để phát triển một triết lý của hội nghị. Khi làm việc đó, ông đã cung cấp những phân tích đầu tiên của kiến thức chung và sử dụng nó trong việc phân tích những cách chơi trong những trò chơi được quản lý. Thêm vào đó, ông lần đầu tiên đề nghị rằng người ta có thể hiểu được ý nghĩa dưới các điều kiện của trò chơi đánh tín hiệu. Đề nghị sau đã được theo đuổi bởi một vài triết gia tính từ 
+Lewis (Skyrms 1996, Grim et al. 2004).
+
+Trong đạo đức, một số tác giả đã cố gắng theo đuổi dự án này, bắt đầu bởi Thomas Hobbes, bằng cách suy diễn ra đạo đức từ những lợi ích cá nhân. Bởi vì những trò chơi giống như Prisoner's Dilemma đưa ra những mâu thuẫn rõ ràng giữa đạo đức và lợi ích cá nhân, giải thích tại sao
+hợp tác là cần thiết bởi lợi ích cá nhân là một phần quan trọng của dự án này. Chiến lược chung này là một phần của quan điểm hợp đồng xã hội tổng quát trong triết học chính trị (chẳng hạn, xem Gauthier 1987 và Kavka 1986). [4]
+Cuối cùng, một số tác giả khác đã cố gắng sử dụng lý thuyết tiến hóa trò chơi để giải thích sự phát triển trong quan điểm con người về đạo đức và những hành xử tương ứng của muông thú. Những tác giả này đã xem xét một số trò chơi bao gồm Song đề tù nhân, săn nai, và trò mặc cả của Nash như để cung cấp một lời giải thích về sự phát triển của các quan điểm về đạo đức(xem, e.g., Skyrms 1996, 2004; Sober và Wilson 1999).
+
+
+== Ghi chú ==
+
+
+== Xem thêm ==
+
+Danh sách
+
+Danh sách thành kiến nhận thức
+Danh sách công nghệ mới nổi
+Danh sách trò chơi trong lý thuyết trò chơi
+
+
+== Tham khảo ==
+
+
+== Tài liệu tham khảo và đọc thêm ==
+
+
+=== Sách giáo khoa và tài liệu tham khảo chung ===
+Aumann, Robert J (1987), “game theory”, The New Palgrave: A Dictionary of Economics, 2, tr. 460–82.
+Camerer, Colin (2003), “Introduction”, Behavioral Game Theory: Experiments in Strategic Interaction, Russell Sage Foundation, tr. 1–25, ISBN 978-0-691-09039-9, Bản gốc lưu trữ ngày 14 tháng 5 năm 2011, truy cập ngày 9 tháng 2 năm 2011, Description.
+Dutta, Prajit K. (1999), Strategies and games: theory and practice, MIT Press, ISBN 978-0-262-04169-0. Suitable for undergraduate and business students. https://b-ok.org/book/2640653/e56341 Lưu trữ 2020-10-27 tại Wayback Machine.
+Fernandez, L F.; Bierman, H S. (1998), Game theory with economic applications, Addison-Wesley, ISBN 978-0-201-84758-1. Suitable for upper-level undergraduates.
+Gibbons, Robert D. (1992), Game theory for applied economists, Princeton University Press, ISBN 978-0-691-00395-5. Suitable for advanced undergraduates.
+Published in Europe as Gibbons, Robert (2001), A Primer in Game Theory, London: Harvester Wheatsheaf, ISBN 978-0-7450-1159-2.
+Gintis, Herbert (2000), Game theory evolving: a problem-centered introduction to modeling strategic behavior, Princeton University Press, ISBN 978-0-691-00943-8
+Green, Jerry R.; Mas-Colell, Andreu; Whinston, Michael D. (1995), Microeconomic theory, Oxford University Press, ISBN 978-0-19-507340-9. Presents game theory in formal way suitable for graduate level.
+Joseph E. Harrington (2008) Games, strategies, and decision making, Worth, ISBN 0-7167-6630-2. Textbook suitable for undergraduates in applied fields; numerous examples, fewer formalisms in concept presentation.
+Howard, Nigel (1971), Paradoxes of Rationality: Games, Metagames, and Political Behavior, Cambridge, MA: The MIT Press, ISBN 978-0-262-58237-7
+Isaacs, Rufus (1999), Differential Games: A Mathematical Theory With Applications to Warfare and Pursuit, Control and Optimization, New York: Dover Publications, ISBN 978-0-486-40682-4
+Maschler, Michael; Solan, Eilon; Zamir, Shmuel (2013), Game Theory, Cambridge University Press, ISBN 978-1-108-49345-1. Undergraduate textbook.
+Miller, James H. (2003), Game theory at work: how to use game theory to outthink and outmaneuver your competition, New York: McGraw-Hill, ISBN 978-0-07-140020-6. Suitable for a general audience.
+Osborne, Martin J. (2004), An introduction to game theory, Oxford University Press, ISBN 978-0-19-512895-6. Undergraduate textbook.
+Osborne, Martin J.; Rubinstein, Ariel (1994), A course in game theory, MIT Press, ISBN 978-0-262-65040-3. A modern introduction at the graduate level.
+Shoham, Yoav; Leyton-Brown, Kevin (2009), Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations, New York: Cambridge University Press, ISBN 978-0-521-89943-7, truy cập ngày 8 tháng 3 năm 2016
+Watson, Joel (2013), Strategy: An Introduction to Game Theory (3rd edition), New York: W.W. Norton and Co., ISBN 978-0-393-91838-0. A leading textbook at the advanced undergraduate level.
+McCain, Roger A. (2010), Roger McCain's Game Theory: A Nontechnical Introduction to the Analysis of Strategy , ISBN 978-981-4289-65-8
+Webb, James N. (2007), Game theory: decisions, interaction and evolution, Undergraduate mathematics, Springer, ISBN 978-1-84628-423-6 Consistent treatment of game types usually claimed by different applied fields, e.g. Markov decision processes.
+
+
+=== Các sách lịch sử quan trọng ===
+Aumann, R. J.; Shapley, L. S. (1974), Values of Non-Atomic Games, Princeton University Press
+Cournot, A. Augustin (1838), “Recherches sur les principles mathematiques de la théorie des richesses”, Libraire des Sciences Politiques et Sociales
+Edgeworth, Francis Y. (1881), Mathematical Psychics, London: Kegan Paul
+Farquharson, Robin (1969), Theory of Voting, Blackwell (Yale U.P. in the U.S.), ISBN 978-0-631-12460-3
+Luce, R. Duncan; Raiffa, Howard (1957), Games and decisions: introduction and critical survey, New York: Wiley
+reprinted edition: R. Duncan Luce; Howard Raiffa (1989), Games and decisions: introduction and critical survey, New York: Dover Publications, ISBN 978-0-486-65943-5Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+Maynard Smith, John (1982), Evolution and the theory of games, Cambridge University Press, ISBN 978-0-521-28884-2
+Maynard Smith, John; Price, George R. (1973), “The logic of animal conflict”, Nature, 246 (5427): 15–18, Bibcode:1973Natur.246...15S, doi:10.1038/246015a0, S2CID 4224989
+Nash, John (1950), “Equilibrium points in n-person games”, Proceedings of the National Academy of Sciences of the United States of America, 36 (1): 48–49, Bibcode:1950PNAS...36...48N, doi:10.1073/pnas.36.1.48, PMC 1063129, PMID 16588946
+Shapley, L.S. (1953), A Value for n-person Games, In: Contributions to the Theory of Games volume II, H. W. Kuhn and A. W. Tucker (eds.)
+Shapley, L.S. (1953), Stochastic Games, Proceedings of National Academy of Science Vol. 39, pp. 1095–1100.
+von Neumann, John (1928), “Zur Theorie der Gesellschaftsspiele”, Mathematische Annalen, 100 (1): 295–320, doi:10.1007/bf01448847, S2CID 122961988 English translation: "On the Theory of Games of Strategy," in A. W. Tucker and R. D. Luce, ed. (1959), Contributions to the Theory of Games, v. 4, p. 42. Princeton University Press.
+von Neumann, John; Morgenstern, Oskar (1944), “Theory of games and economic behavior”, Nature, Princeton University Press, 157 (3981): 172, Bibcode:1946Natur.157..172R, doi:10.1038/157172a0, S2CID 29754824
+Zermelo, Ernst (1913), “Über eine Anwendung der Mengenlehre auf die Theorie des Schachspiels”, Proceedings of the Fifth International Congress of Mathematicians, 2: 501–4
+
+
+=== Các tài liệu tham khảo khác ===
+Ben David, S.; Borodin, Allan; Karp, Richard; Tardos, G.; Wigderson, A. (1994), “On the Power of Randomization in On-line Algorithms” (PDF), Algorithmica, 11 (1): 2–14, doi:10.1007/BF01294260, S2CID 26771869
+Downs, Anthony (1957), An Economic theory of Democracy, New York: Harper
+Gauthier, David (1986), Morals by agreement, Oxford University Press, ISBN 978-0-19-824992-4
+Allan Gibbard, "Manipulation of voting schemes: a general result", Econometrica, Vol. 41, No. 4 (1973), pp. 587–601.
+Grim, Patrick; Kokalis, Trina; Alai-Tafti, Ali; Kilb, Nicholas; St Denis, Paul (2004), “Making meaning happen”, Journal of Experimental & Theoretical Artificial Intelligence, 16 (4): 209–243, doi:10.1080/09528130412331294715, S2CID 5737352
+Harper, David; Maynard Smith, John (2003), Animal signals, Oxford University Press, ISBN 978-0-19-852685-8
+Lewis, David (1969), Convention: A Philosophical Study, ISBN 978-0-631-23257-5 (2002 edition)
+McDonald, John (1950–1996), Strategy in Poker, Business & War, W. W. Norton, ISBN 978-0-393-31457-1. A layman's introduction.
+Papayoanou, Paul (2010), Game Theory for Business: A Primer in Strategic Gaming, Probabilistic, ISBN 978-0-9647938-7-3.
+Quine, W.v.O (1967), “Truth by Convention”, Philosophica Essays for A.N. Whitehead, Russel and Russel Publishers, ISBN 978-0-8462-0970-6
+Quine, W.v.O (1960), “Carnap and Logical Truth”, Synthese, 12 (4): 350–374, doi:10.1007/BF00485423, S2CID 46979744
+Satterthwaite, Mark A. (tháng 4 năm 1975), “Strategy-proofness and Arrow's Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions” (PDF), Journal of Economic Theory, 10 (2): 187–217, doi:10.1016/0022-0531(75)90050-2
+Siegfried, Tom (2006), A Beautiful Math, Joseph Henry Press, ISBN 978-0-309-10192-9
+Skyrms, Brian (1990), The Dynamics of Rational Deliberation, Harvard University Press, ISBN 978-0-674-21885-7
+Skyrms, Brian (1996), Evolution of the social contract, Cambridge University Press, ISBN 978-0-521-55583-8
+Skyrms, Brian (2004), The stag hunt and the evolution of social structure, Cambridge University Press, ISBN 978-0-521-53392-8
+Sober, Elliott; Wilson, David Sloan (1998), Unto others: the evolution and psychology of unselfish behavior, Harvard University Press, ISBN 978-0-674-93047-6
+Thrall, Robert M.; Lucas, William F. (1963), “
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-person games in partition function form”, Naval Research Logistics Quarterly, 10 (4): 281–298, doi:10.1002/nav.3800100126
+Dolev, Shlomi; Panagopoulou, Panagiota; Rabie, Mikael; Schiller, Elad Michael; Spirakis, Paul (2011), “Rationality authority for provable rational behavior”, Proceedings of the 30th annual ACM SIGACT-SIGOPS symposium on Principles of distributed computing, tr. 289–290, doi:10.1145/1993806.1993858, ISBN 978-1-4503-0719-2, S2CID 8974307
+Chastain, Erick; Livnat, Adi; Papadimitriou, Christos; Vazirani, Umesh (tháng 6 năm 2014), “Algorithms, games, and evolution”, Proceedings of the National Academy of Sciences of the United States of America, 111 (29): 10620–10623, Bibcode:2014PNAS..11110620C, doi:10.1073/pnas.1406556111, PMC 4115542, PMID 24979793
+
+
+== Liên kết ngoài ==
+
+James Miller (2015): Introductory Game Theory Videos.
+Hazewinkel, Michiel biên tập (2001), “Games, theory of”, Bách khoa toàn thư Toán học, Springer, ISBN 978-1-55608-010-4
+Paul Walker: History of Game Theory Page.
+David Levine: Game Theory. Papers, Lecture Notes and much more stuff.
+Alvin Roth:“Game Theory and Experimental Economics page”. Bản gốc lưu trữ ngày 15 tháng 8 năm 2000. Truy cập ngày 13 tháng 9 năm 2003.  — Comprehensive list of links to game theory information on the Web
+Adam Kalai: Game Theory and Computer Science — Lecture notes on Game Theory and Computer Science
+Mike Shor: GameTheory.net — Lecture notes, interactive illustrations and other information.
+Jim Ratliff's Graduate Course in Game Theory (lecture notes).
+Don Ross: Review Of Game Theory in the Stanford Encyclopedia of Philosophy.
+Bruno Verbeek and Christopher Morris: Game Theory and Ethics
+Elmer G. Wiens: Game Theory — Introduction, worked examples, play online two-person zero-sum games.
+Marek M. Kaminski: Game Theory and Politics Lưu trữ 2006-10-20 tại Wayback Machine — Syllabuses and lecture notes for game theory and political science.
+Websites on game theory and social interactions
+Kesten Green's Conflict Forecasting tại Wayback Machine (lưu trữ 11 tháng 4 2011) — See Papers for evidence on the accuracy of forecasts from game theory and other methods Lưu trữ 2019-09-15 tại Wayback Machine.
+McKelvey, Richard D., McLennan, Andrew M., and Turocy, Theodore L. (2007) Gambit: Software Tools for Game Theory.
+Benjamin Polak: Open Course on Game Theory at Yale Lưu trữ 2010-08-03 tại Wayback Machine videos of the course
+Benjamin Moritz, Bernhard Könsgen, Danny Bures, Ronni Wiersch, (2007) Spieltheorie-Software.de: An application for Game Theory implemented in JAVA.
+Antonin Kucera: Stochastic Two-Player Games.
+Yu-Chi Ho: What is Mathematical Game Theory; What is Mathematical Game Theory (#2); What is Mathematical Game Theory (#3); What is Mathematical Game Theory (#4)-Many person game theory; What is Mathematical Game Theory ?( #5) – Finale, summing up, and my own view

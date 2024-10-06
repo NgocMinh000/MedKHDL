@@ -1,0 +1,64 @@
+Everolimus là dẫn xuất 40- O - (2-hydroxyethyl) của sirolimus và hoạt động tương tự như sirolimus như một chất ức chế mục tiêu của động vật có vú là rapamycin (mTOR).
+Nó hiện đang được sử dụng như một chất ức chế miễn dịch để ngăn chặn sự từ chối cấy ghép nội tạng và trong điều trị ung thư tế bào thận và các khối u khác. Nhiều nghiên cứu cũng đã được thực hiện trên everolimus và các chất ức chế mTOR khác như là liệu pháp trúng đích để sử dụng trong một số bệnh ung thư.
+Nó được Novartis bán dưới tên thương mại Zortress (Hoa Kỳ) và Certican (Châu Âu và các nước khác) trong y học cấy ghép, và như Afinitor (khối u nói chung) và Votubia (khối u là kết quả của TSC) trong ung thư. Everolimus cũng có sẵn từ Biocon, với tên thương hiệu Evertor.
+
+
+== Sử dụng trong y tế ==
+Everolimus được chấp thuận cho các điều kiện khác nhau:
+
+Ung thư thận tiến triển (FDA Hoa Kỳ phê duyệt vào tháng 3 năm 2009) 
+Ngăn ngừa thải ghép nội tạng sau ghép thận (US FDA tháng 4 năm 2010) 
+U tế bào khổng lồ tế bào phụ (SEGA) liên quan đến bệnh xơ cứng củ (TS) ở những bệnh nhân không thích hợp để can thiệp phẫu thuật (US FDA tháng 10 năm 2010) 
+Các khối u thần kinh tụy tiến triển hoặc di căn không thể phẫu thuật (tháng 5 năm 2011) 
+Ung thư vú ở phụ nữ sau mạn kinh có ung thư dương tính với thụ thể hoóc môn tiến triển, ung thư loại HER2 âm tính, kết hợp với exemestane (US FDA tháng 7 năm 2012) 
+Ngăn ngừa thải ghép nội tạng sau ghép gan (tháng 2 năm 2013)
+Các khối u thần kinh tiến triển, biệt hóa tốt, không có chức năng (NET) của đường tiêu hóa (GI) hoặc nguồn gốc phổi với bệnh không thể phát hiện, tiến triển cục bộ hoặc di căn (FDA Hoa Kỳ tháng 2 năm 2016).
+Bệnh xơ cứng phức tạp - co giật khởi phát một phần liên quan đến bệnh nhân người lớn và trẻ em từ 2 tuổi trở lên. (FDA Hoa Kỳ tháng 4 năm 2018).
+
+
+== Dịch vụ y tế quốc gia Anh ==
+NHS Anh đã bị chỉ trích vì sự chậm trễ trong việc quyết định chính sách kê đơn thuốc everolimus trong điều trị bệnh xơ cứng củ. 20 bác sĩ đã gửi một lá thư tới hội đồng hỗ trợ của Hiệp hội Scelerosis Tuberous từ thiện nói rằng "khoảng 32 bệnh nhân có nhu cầu quan trọng, mà các bác sĩ tin rằng điều trị everolimus là lựa chọn tốt nhất hoặc duy nhất của họ, không có hy vọng được tiếp cận tài trợ. Hầu hết đã chờ đợi nhiều tháng. Khoảng một nửa số bệnh nhân này có nguy cơ sắp xảy ra thảm họa (chảy máu thận hoặc suy thận) với nguy cơ tử vong cao có thể phòng ngừa được. "  Vào tháng 5 năm 2015, có tin Luke Henry và Stephanie Rudwick, cha mẹ của một đứa trẻ bị bệnh Xơ cứng củ đang cố bán nhà ở Brighton để quyên góp 30.000 bảng để trả cho việc điều trị cho con gái Bethany bị khối u ở não, thận. và gan và chịu đựng tới 50 động kinh phù hợp một ngày.
+
+
+== Các thử nghiệm lâm sàng ==
+Tính đến  tháng 10 năm 2010, các thử nghiệm pha III đang được tiến hành trong ung thư dạ dày, ung thư biểu mô tế bào gan và ung thư hạch. Việc sử dụng thử nghiệm everolimus trong bệnh ghép mạn tính chống lại vật chủ đã được báo cáo vào năm 2012.
+Kết quả thử nghiệm giai đoạn III tạm thời vào năm 2011 cho thấy rằng việc thêm Afinitor (everolimus) vào liệu pháp exemestane chống lại ung thư vú tiến triển có thể cải thiện đáng kể sự sống sót không tiến triển so với chỉ điều trị bằng exemestane.
+Một nghiên cứu được công bố vào năm 2012 cho thấy độ nhạy của everolimus khác nhau giữa các bệnh nhân tùy thuộc vào bộ gen của khối u. Một nhóm bệnh nhân ung thư biểu mô bàng quang di căn tiến triển (NCT00805129)  được điều trị bằng everolimus cho thấy một bệnh nhân duy nhất đã đáp ứng hoàn toàn với điều trị everolimus trong 26 tháng. Các nhà nghiên cứu đã giải trình tự bộ gen của bệnh nhân này và so sánh nó với các bộ gen tham chiếu khác nhau và với bộ gen của bệnh nhân khác. Họ phát hiện ra rằng các đột biến trong TSC1 dẫn đến thời gian đáp ứng kéo dài với everolimus và tăng thời gian tái phát ung thư. TSC1 bị đột biến rõ ràng đã khiến những khối u này dễ bị điều trị bằng everolimus.
+
+
+== Cơ chế ==
+So với hợp chất gốc rapamycin, everolimus ức chế ưu tiên phức hợp protein mTORC1, ít ảnh hưởng đến phức hợp mTORC2. Ức chế ưu tiên mTORC1 cũng đồng thời ức chế luôn điều hòa ngược âm tính mà ít ảnh hưởng tới điều hòa ngược dương tính của mTORC2 gây nên tăng hoạt AKT. Tăng hoạt tính của AKT có thể dẫn đến sự tồn tại lâu hơn ở một số loại tế bào. Do đó, everolimus có tác dụng quan trọng đối với sự phát triển của tế bào, tăng sinh tế bào và sự sống của tế bào.
+Ngoài ra, mTORC2 được cho là có vai trò quan trọng trong chuyển hóa glucose và hệ thống miễn dịch, cho thấy rằng ức chế chọn lọc mTORC1 bằng các thuốc như everolimus có thể đạt được nhiều lợi ích của rapamycin mà không có những tác dụng phụ như bất dung nạp glucose và ức chế miễn dịch.
+TSC1 và TSC2, các gen liên quan đến bệnh xơ cứng củ, hoạt động như các gen ức chế khối u bằng cách điều chỉnh hoạt động mTORC1. Do đó, sự mất hoặc bất hoạt của một trong những gen này dẫn đến việc kích hoạt mTORC1.
+Everolimus đóng vai trò là chất ổn định sự tương tác của FKBP12 với mTORC1, ức chế sự phosphoryl hóa các protein trong đường truyền tín hiệu của mTOR như S6K1 và 4E-BP1, từ đó ức chế dịch mã mRNA và giảm sự tổng hợp nhiều loại protein quan trọng liên quan đến kiểm soát chu kỳ tế bào, đường phân và sự thích ứng của tế bào với môi trường thiếu oxy.
+
+
+== Phản ứng không mong muốn ==
+Một thử nghiệm sử dụng 10   mg/ngày ở những bệnh nhân mắc NET có nguồn gốc GI hoặc phổi đã báo cáo "Everolimus đã ngừng sử dụng vì phản ứng bất lợi ở 29% bệnh nhân và cần giảm liều hoặc trì hoãn ở 70% bệnh nhân được điều trị bằng everolimus. Phản ứng có hại nghiêm trọng xảy ra ở 42% bệnh nhân được điều trị bằng everolimus và bao gồm 3 trường hợp tử vong (suy tim, suy hô hấp và sốc nhiễm trùng). Các phản ứng bất lợi phổ biến nhất (tỷ lệ mắc lớn hơn hoặc bằng 30%) là viêm miệng, nhiễm trùng, tiêu chảy, phù ngoại biên, mệt mỏi và phát ban. Các bất thường về máu phổ biến nhất được tìm thấy (tỷ lệ mắc lớn hơn hoặc bằng 50%) là thiếu máu, tăng cholesterol máu, giảm bạch cầu, tăng aspartate transaminase (AST) và tăng đường huyết nhanh. ".
+
+
+== Vai trò trong ghép tim ==
+Everolimus có thể có một vai trò trong ghép tim, vì nó đã được chứng minh là làm giảm bệnh mạch máu allograft mạn tính trong cấy ghép như vậy. Nó cũng có thể có một vai trò tương tự như sirolimus ở thận và các ca cấy ghép khác.
+
+
+== Vai trò trong ghép gan ==
+Mặc dù, sirolimus đã tạo ra nỗi sợ hãi khi sử dụng các chất ức chế m-TOR ở những người nhận ghép gan, do có thể bị huyết khối động mạch gan sớm và mất mảnh ghép, việc sử dụng everolimus trong điều trị ghép gan là rất hứa hẹn. Jeng và cộng sự, trong nghiên cứu 43 bệnh nhân của họ, đã kết luận sự an toàn của everolimus trong giai đoạn đầu sau khi ghép gan từ người hiến còn sống. Trong nghiên cứu của họ, không có huyết khối động mạch gan hoặc nhiễm trùng vết thương được ghi nhận. Ngoài ra, một vai trò có thể của everolimus trong việc làm giảm sự tái phát của ung thư biểu mô tế bào gan sau ghép gan là tương quan. Một mức máng mục tiêu là 3   ng/mL sau 3 tháng được chứng minh là có lợi ở những người nhận bị rối loạn chức năng thận trước ghép. Trong nghiên cứu của họ, 6 trong số 9 bệnh nhân suy thận cho thấy sự phục hồi đáng kể của chức năng thận, trong khi 3 bệnh nhân bị suy giảm thêm, một trong số đó phải chạy thận nhân tạo. Báo cáo được công bố gần đây của Thorat et al cho thấy tác động tích cực đối với ung thư biểu mô tế bào gan (HCC) khi everolimus được sử dụng làm ức chế miễn dịch nguyên phát bắt đầu ngay từ tuần đầu tiên sau phẫu thuật ghép gan từ người hiến còn sống (LDLT). Trong phân tích hồi cứu và triển vọng của họ tại Bệnh viện Đại học Y Trung Quốc ở Đài Loan, đoàn hệ nghiên cứu (n = 66) được chia thành hai nhóm tùy thuộc vào việc ức chế miễn dịch sau phẫu thuật. Nhóm A: Bệnh nhân HCC được dùng chế độ ức chế miễn dịch dựa trên Everolimus + Tacrolimus (n = 37). Nhóm B: Bệnh nhân HCC đã nhận được chế độ ức chế miễn dịch dựa trên Tacrolimus tiêu chuẩn mà không có everolimus (n = 29).Mức máng mục tiêu cho EVR là 3 đến 5 ng/ml trong khi đối với TAC là 81010 ng/ml. Tỷ lệ sống sót sau 1 năm, 3 năm và 4 năm đối với bệnh nhân nhóm A (nhóm Everolimus) lần lượt là 94,95%, 86,48% và 86,48%, trong khi đối với bệnh nhân nhóm B là 82,75%, 68,96% và 62,06%, tương ứng (p = 0,0217). Báo cáo 12 tháng đầu tiên về thử nghiệm triển vọng đa trung tâm Everolimus đang diễn ra trong LDLT (thử nghiệm H2307), Jeng LB và cộng sự đã cho thấy sự tái phát 0% của HCC trong nhóm everolimus sau 12 tháng. Jeng LB kết luận rằng việc giới thiệu sớm everolimus + giảm tacrolimus không thua kém tacrolimus tiêu chuẩn về hiệu quả và chức năng thận khi 12 tháng, với HCC chỉ tái phát ở bệnh nhân kiểm soát tacrolimus.
+
+
+== Sử dụng trong stent mạch máu ==
+Everolimus được sử dụng trong stent mạch vành bằng thuốc như một chất ức chế miễn dịch để ngăn chặn sự phục hồi. Abbott Vein tạo ra một stent elolimus (EES) được gọi là Xience Alpine. Nó sử dụng nền tảng stent crom coban Multi-Link Vision và everolimus của Novartis. Sản phẩm được phổ biến rộng rãi trên toàn cầu bao gồm các quốc gia Hoa Kỳ, Châu Âu và APAC. Boston Khoa học cũng tiếp thị EESes, các dịch vụ gần đây là Promus Elite và Synergy.
+
+
+== Sử dụng trong lão hóa ==
+Ức chế mTOR, mục tiêu phân tử của everolimus, kéo dài tuổi thọ của các sinh vật mẫu bao gồm chuột, và ức chế mTOR đã được đề xuất như một liệu pháp chống lão hóa. Everolimus đã được Novartis sử dụng trong một thử nghiệm lâm sàng gần đây và điều trị ngắn hạn đã được chứng minh là tăng cường đáp ứng với vắc-xin cúm ở người cao tuổi, bằng cách đảo ngược miễn dịch. Điều trị Everolimus trên chuột dẫn đến giảm tác dụng phụ chuyển hóa so với sirolimus.
+
+
+== Xem thêm ==
+Khám phá và phát triển các chất ức chế mTOR
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Sedrani R, Cottens S, Kallen J, Schuler W (tháng 8 năm 1998). “Chemical modification of rapamycin: the discovery of SDZ RAD”. Transplantation Proceedings. 30 (5): 2192–4. doi:10.1016/S0041-1345(98)00587-9. PMID 9723437.

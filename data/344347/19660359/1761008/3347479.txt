@@ -1,0 +1,55 @@
+Shigella () là một loại trực khuẩn Gram âm tính có hình que, không có lông vì vậy không có khả năng di động, không có vỏ không sinh nha bào, loại vi khuẩn này liên quan chặt chẽ với Salmonella. Trực khuẩn lỵ Shiga được đặt theo tên của nhà Vi khuẩn học người Nhật Kiyoshi Shiga, người đầu tiên phát hiện ra chúng vào năm 1897.
+Shigella là tác nhân gây bệnh lỵ trực khuẩn ở các loài linh trưởng (như người và khỉ đột) và đặc biệt là ở người; nhưng không gặp ở các loài động vật có vú khác. Trong nhiễm trùng, shigella gây ra bệnh lỵ trực khuẩn ở người, một bệnh truyền nhiễm có thể gây ra các vụ dịch địa phương. 
+Shigella được cho là loại vi khuẩn đứng hàng đầu gây ra bệnh tiêu chảy trên toàn thế giới Tính đến  năm 2006, theo báo cáo của Tổ chức Y tế Thế giới WHO,  Shigella  là nguyên nhân gây ra khoảng 165 triệu trường hợp lỵ nặng, một triệu trong số đó đã dẫn đến tử vong mỗi năm, chủ yếu ở trẻ em tại các nước đang phát triển.
+
+
+== Đặc điểm sinh vật học ==
+
+
+=== Phân nhóm ===
+Shigella có kháng nguyên thân O, không có kháng nguyên H. Căn cứ vào kháng nguyên O và tính chất sinh hóa, người ta chia Shigella ra làm 4 nhóm:
+
+Nhóm A: S. dysenteriae (15 type huyết thanh)
+Nhóm B: S. flexneri (6 type huyết thanh)
+Nhóm C: S. boydii (19 type huyết thanh)
+Nhóm D: S. sonnei (chỉ có 1 type huyết thanh)
+Nhóm A–C có tính chất sinh lý tương tự nhau; S. sonnei (nhóm D) có thể được phân biệt trên cơ sở các xét nghiệm sinh hóa chuyển hóa.
+Trong đó có ba nhóm vi khuẩn Shigella là những loài gây bệnh chính gồm:
+
+S.dysenteriae thường là nguyên nhân của dịch bệnh lỵ, đặc biệt là trong các nhóm dân cư nhỏ như các trại tị nạn. Nhóm này lây truyền chủ yếu ở vùng nhiệt đới và cận nhiệt đới. Đặc biệt là nhiễm serotype A (lỵ Shiga Kruse), gây nên các triệu chứng nhiễm độc thần kinh hay gặp ở trẻ em.
+S.flexneri được cô lập thường xuyên hầu hết các loài trên toàn thế giới, và chiếm 60% các trường hợp ở các nước đang phát triển.
+S.sonnei gây ra 77% các trường hợp ở các nước phát triển, so với chỉ 15% các trường hợp ở các nước đang phát triển; nhóm này hiện nay phổ biến nhất ở Trung Âu, đặc biệt gây ra bệnh tiêu chảy mùa hè thường vô hại ở trẻ em.
+Shigella boydii được tìm thấy chủ yếu trong tiểu lục địa Ấn Độ và Bắc Phi, nhiễm trùng do chúng thường là rất hiếm và không gây hại.
+
+
+=== Tính chất sinh hóa ===
+
+Để xác định tính chất sinh hóa của một loài vi sinh vật thường dựa vào các phản ứng sinh học kết hợp hóa học như khả năng lên men glucose, lên men manitol; khả năng sinh hơi H2S, phản ứng Indol, VP hay citrat và Urease. 
+
+
+=== Sức đề kháng ===
+Shigella dễ bị giết chết bởi những chất khử trùng thông thường và đun sôi (58 - 60 °C chết sau 10 - 30 phút, ở nhiệt độ 100 °C chết sau 2 phút). Nhiệt độ giữ chủng thích hợp là 10 - 45 °C. Chúng tương đối mạnh trong việc chống lại axit nhưng khá nhạy cảm khi làm khô và ở ngoài ánh sáng.
+
+
+== Khả năng gây bệnh ==
+Shigella thường lây qua con đường tiêu hóa như thức ăn, nước uống bị nhiễm khuẩn. Liều nhiễm của vi khuẩn Shigella là rất thấp, tùy thuộc vào độ tuổi và tình trạng của vật chủ, ít hơn 100 tế bào vi khuẩn cũng có thể đủ để gây ra các nhiễm trùng.. Liều nhiễm thấp giải thích lý do tại sao nhiễm trùng (nhiễm từ người sang người) là rất cao và do đó đây là một vấn đề mà nhiều nước vẫn chưa có giải pháp triệt để.
+Tại Vương quốc Anh đã chẩn đoán được từ 20.000 - 50.000 trường hợp nhiễm shigellosis mỗi năm. Con số thực tế bị nhiễm được cho là cao hơn nhiều. Ở cấp độ toàn cầu, ước tính Shigella lây nhiễm hơn 200 triệu người một năm. Trong hầu hết các trường hợp này là trẻ em, các bệnh nhân cao tuổi và suy giảm miễn dịch. Vi khuẩn này lan rộng ra khắp thế giới, nhưng đặc biệt là một vấn đề ở các nước đang phát triển hay các khu vực khác có tiêu chuẩn vệ sinh thấp.
+Thời gian ủ bệnh Shigella là khoảng 12 giờ và các triệu chứng phụ thuộc vào type huyết thanh. Shigella gây bệnh bằng cơ chế xâm nhập vào các tế bào biểu mô của niêm mạc ruột và nhân lên với số lượng lớn trong tổ chức ruột. Rồi lan qua các tế bào biểu mô lân cận, dẫn đến sự phá hủy mô. Xuất hiện bệnh lý shigellosis.
+Các triệu chứng thường gặp nhất là tiêu chảy (đi ngoài nhiều lần), sốt, buồn nôn, nôn, đau bụng quặn và đầy hơi. Nó cũng thường được biết là gây ra nhu động ruột lớn dẫn đến cơn đau nặng. Phân có nhiều mũ nhầy và thường có máu. Đây là những biểu hiện lâm sàng của hội chứng lỵ. Do đó, các tế bào vi khuẩn Shigella có thể gây ra bệnh lỵ. Một số trường hợp hiếm gặp, trẻ nhỏ bị bệnh có thể bị co giật. Các triệu chứng có thể sau một tuần xuất hiện, nhưng thường bắt đầu 2-4 ngày sau khi uống thuốc. Các triệu chứng thường kéo dài nhiều ngày, có khi kéo dài đến hàng tuần. Shigella được cho như là một trong những nguyên nhân gây bệnh của viêm khớp phản ứng (Reactive arthritis) trên toàn thế giới.
+Shigella dysenteriae có thể gây ra HUS - Hội chứng tan huyết urê huyết.Tỷ lệ tử vong không phụ thuộc vào lượng bị nhiễm vi khuẩn Shigella sonneiserotype, trừ các trường hợp do tuổi (trẻ sơ sinh, người cao tuổi hay bị suy nhược). Khi bệnh không được điều trị, tỷ lệ tử vong do Shigella flexneri và Shigella boydiitýp huyết thanh là 5%, và do Shigella dysenteriaeserotype là 20%. Nếu xảy ra nhiễm trùng thứ cấp, tỷ lệ tử vong tỷ lệ có thể lên đến 46%.
+
+
+== Chuẩn đoán ==
+Cấy phân là phương pháp để chẩn đoán Shigella tốt nhất. Bệnh phẩm cần được lấy sớm trước khi sử dụng kháng sinh. Nuôi cấy phân lập vi khuẩn được trên môi trường không có chất ức chế hay môi trường có chất ức chế. Dựa vào các tính chất sinh vật hóa học, khả năng phản ứng ngưng kết với kháng huyết thanh trên mẫu mà xác định được sự hiện diện của khuẩn shigella. Trong bệnh lỵ trực khuẩn việc cấy máu không phát hiện được vi khuẩn này.
+
+
+== Phòng bệnh và điều trị ==
+Rửa tay trước khi chế biến thức ăn và thực hành ăn chín, uống sôi để giảm nguy cơ bị nhiễm shigellosis.
+Trường hợp kiết lỵ nặng có thể được điều trị bằng các thuốc như ampicillin, TMP-SMX, fluoroquinolon hay ciprofloxacin và bù nước cho bệnh nhân. Điều trị nội khoa chỉ nên được sử dụng trong những trường hợp bệnh nặng hoặc đối tượng nhất định với các triệu chứng nhẹ (công nhân ngành công nghiệp, người lớn tuổi, suy giảm miễn dịch, dịch vụ thực phẩm, người chăm sóc trẻ). Kháng sinh thường được tránh trong trường hợp nhẹ vì một số loài vi khuẩn Shigella có khả năng kháng kháng sinh, nếu sử dụng có thể làm cho các vi khuẩn có khả năng đề kháng với thuốc hơn. Nên tránh dùng antidiarrheal vì có thể làm bệnh tật thêm trầm trọng. Đối với Shigella liên quan đến chứng tiêu chảy, kháng sinh rút ngắn thời gian nhiễm trùng.
+Hiện nay vẫn chư có vắc xin phòng bệnh có hiệu lực như mong muốn. Đang thử nghiệm dùng vắc xin sống giảm độc lực đường uống nhằm tạo nên miễn dịch tại chỗ ở ruột. Vắc xin này chỉ có khả năng bảo vệ đặc hiệu đối với type. Một số vắc xin khác đang trong giai đoạn phát triển khác nhau.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

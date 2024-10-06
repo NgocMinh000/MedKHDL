@@ -1,0 +1,45 @@
+Isoniazid, hay còn được gọi là isonicotinylhydrazide (INH), là một kháng sinh được sử dụng để điều trị bệnh lao. Đối với bệnh lao đang biểu hiện, kháng sinh này thường được sử dụng kết hợp với rifampicin, pyrazinamide, và có thể với cả streptomycin hoặc ethambutol. Đối với bệnh lao tiềm tàng, thuốc này thường chỉ sử dụng một mình. Isoniazid cũng có thể được sử dụng cho các loại mycobacteria không điển hình, chẳng hạn như M. avium, M. kansasii, và M. xenopi. Chúng thường được đưa vào cơ thể qua đường miệng nhưng có thể được tiêm vào cơ.
+Tác dụng phụ thường gặp bao gồm tăng nồng độ men gan và tê ở bàn tay và bàn chân. Tác dụng phụ nghiêm trọng thì có thể dẫn đến viêm gan. Vẫn chưa rõ ràng về mức an toàn nếu sử dụng trong khi đang mang thai. Sử dụng trong thời gian cho con bú có thể an toàn. Pyridoxin có thể được dùng để giảm nguy cơ tác dụng phụ. Isoniazid hoạt động một phần bằng cách ức chế việc "xây dựng" thành tế bào của vi khuẩn, từ đó tiêu diệt bọn chúng.
+Isoniazid lần đầu tiên được sản xuất vào năm 1952. Nó nằm trong danh sách các thuốc thiết yếu của Tổ chức Y tế Thế giới, tức là nhóm các loại thuốc hiệu quả và an toàn nhất cần thiết trong một hệ thống y tế. Isoniazid có sẵn dưới dạng thuốc gốc. Chi phí bán buôn ở các nước đang phát triển là khoảng 0,60 đến 4,75 USD mỗi tháng. Tại Hoa Kỳ chi phí cho một tháng điều trị thì ít hơn 25 USD.
+
+
+== Sử dụng trong y học ==
+
+
+=== Bệnh lao ===
+Isoniazid được chấp thuận cho nhiễm trùng lao tiềm ẩn và hoạt động. Gần đây, nó được sử dụng kết hợp với các loại thuốc lao để ngăn chặn sự phát triển của kháng thuốc. Isoniazid đã được chấp thuận là liệu pháp dự phòng cho các quần thể sau:
+
+Người nhiễm HIV và phản ứng PPD (dẫn xuất protein tinh chế) ít nhất 5 mm
+Tiếp xúc với những người bị bệnh lao và có phản ứng PPD ít nhất 5 mm
+Những người có phản ứng PPD chuyển đổi từ âm sang dương trong khoảng thời gian hai năm - ít nhất là 10 mm cho người > 35 tuổi, và ít nhất 15 mm cho người < 35 tuổi
+Những người bị tổn thương phổi trên X-quang ngực của họ có khả năng là do bệnh lao lành và cũng có phản ứng PPD ít nhất 5 mm.
+Người tiêm chích ma túy có tình trạng nhiễm HIV âm tính có phản ứng PPD ít nhất là 10 mm
+Những người có chỉ số PPD lớn hơn hoặc bằng 10 mm là người nước ngoài sinh ra từ các vùng địa lý có tỷ lệ cao, dân số có thu nhập thấp và bệnh nhân sống trong các cơ sở lâu dài
+
+
+=== Mycobacteria không lao ===
+Isoniazid được sử dụng rộng rãi trong điều trị phức hợp Mycobacterium avium như một phần của phác đồ bao gồm rifampicin và ethambutol. Bằng chứng cho thấy rằng isoniazid ngăn ngừa sự tổng hợp axit mycolic trong phức hợp M. avium như trong M. tuberculosis  và mặc dù điều này không diệt khuẩn với phức hợp M. avium, nó làm tăng đáng kể hiệu quả của rifampicin. Sự ra đời của macrolides dẫn đến việc sử dụng này giảm đáng kể. Tuy nhiên, kể từ khi rifampicin là được sử dụng trong điều trị phức tạp M. avium, hiệu ứng này có thể có giá trị tái nghiên cứu.
+
+
+=== Quần thể đặc biệt ===
+Các phụ nữ có lao hoạt động đang mang thai hoặc đang cho con bú nên dùng isoniazid. Liệu pháp dự phòng nên được trì hoãn cho đến sau khi sinh, bà mẹ cho con bú thải ra một nồng độ INH tương đối thấp và không độc hại trong sữa mẹ, và các em bé của họ có nguy cơ thấp bị các tác dụng phụ. Cả phụ nữ mang thai và trẻ sơ sinh được bú sữa mẹ bởi các bà mẹ uống INH nên uống vitamin B6 ở dạng pyridoxin để giảm thiểu nguy cơ tổn thương dây thần kinh ngoại vi. Vitamin B6 được sử dụng để ngăn ngừa tình trạng thiếu B6 do thiếu isoniazid và bệnh thần kinh ở những người có yếu tố nguy cơ như mang thai, cho con bú, nhiễm HIV, nghiện rượu, tiểu đường, suy thận hoặc suy dinh dưỡng. Những người bị rối loạn chức năng gan có nguy cơ cao bị viêm gan do INH, và có thể cần liều thấp hơn. Mức độ men gan trong máu nên được kiểm tra thường xuyên ở người uống rượu hàng ngày, phụ nữ mang thai, người dùng ma túy IV, người trên 35 tuổi, và những người mắc bệnh gan mãn tính, rối loạn chức năng thận nặng, bệnh thần kinh ngoại vi hoặc nhiễm HIV vì họ có nhiều khả năng phát triển bệnh viêm gan từ INH.
+
+
+== Tác dụng phụ ==
+20% số người dùng isoniazid trải qua đau thần kinh ngoại vi khi dùng liều 6 mg / kg trọng lượng hàng ngày hoặc cao hơn. Phản ứng tiêu hóa bao gồm buồn nôn và ói mửa. Thiếu máu bất sản, giảm tiểu cầu và mất bạch cầu hạt do thiếu tế bào hồng cầu, tiểu cầu và bạch huyết cầu tương ứng, cũng có thể xảy ra. Mẫn cảm với phản ứng này cũng rất phổ biến và có thể trình bày với một ban dát và sốt. Tăng nồng độ men gan không triệu chứng xảy ra ở 10% đến 20% số người dùng INH, và nồng độ men gan thường trở lại bình thường ngay cả khi việc điều trị được tiếp tục. Isoniazid có một cảnh báo cho bệnh viêm gan nghiêm trọng và đôi khi gây tử vong. Phụ thuộc vào tuổi; với tốc độ 0,3% ở những người 21-35 tuổi và trên 2% trong những người trên độ tuổi 50. Các triệu chứng gợi ý ngộ độc gan bao gồm buồn nôn, nôn, đau bụng, nước tiểu sẫm màu, đau một phần tư phía trên bên phải và chán ăn. Phụ nữ da đen và gốc Tây Ban Nha có nguy cơ nhiễm độc gan do isoniazid cao hơn. Khi nó xảy ra, độc tính gan do isoniazid gây ra đã xuất hiện ở 50% bệnh nhân trong vòng 2 tháng đầu điều trị. When it happens, isoniazid-induced liver toxicity has been shown to occur in 50% of patients within the first 2 months of therapy. Một số khuyến cáo rằng chức năng gan nên được theo dõi cẩn thận ở tất cả mọi người nhận sử dụng, nhưng những người khác khuyên bạn nên theo dõi chỉ trong một số quần thể nhất định. Nhức đầu, tập trung kém, tăng cân, trí nhớ kém, mất ngủ và trầm cảm đều liên quan đến việc sử dụng isoniazid. Tất cả bệnh nhân và nhân viên y tế nên biết về những tác dụng phụ nghiêm trọng này, đặc biệt là nếu nghi ngờ tự tử hoặc hành vi bị nghi ngờ. Isoniazid có liên quan đến sự thiếu hụt pyridoxine do sự bài tiết pyridoxine tăng lên. Pyridoxal phosphate (một dẫn xuất của pyridoxine) là cần thiết cho d-aminolevulinic acid synthase, enzyme chịu trách nhiệm cho bước giới hạn tốc độ trong tổng hợp heme. Do đó, thiếu hụt pyridoxine do isoniazid gây ra gây ra sự hình thành heme không đủ trong các tế bào hồng cầu sớm, dẫn đến thiếu máu nhược sắc.
+
+
+== Cơ chế hoạt động ==
+Isoniazid là một tiền chất và phải được kích hoạt bởi một enzyme catalase-peroxidase vi khuẩn trong Mycobacterium tuberculosis gọi là KatG. KatG xúc tác sự hình thành gốc acyl đẳng trương, mà kết hợp với NADH tạo thành chất nicotinoyl-NAD. Phức hợp này liên kết chặt chẽ với protein invoyl -acyl carrier reductase InhA, do đó ngăn chặn chất nền enoyl-AcpM và tác động của tổng hợp axit béo. Quá trình này ức chế sự tổng hợp các axit mycolic, là thành phần cần thiết của thành tế bào mycobacteria. Một loạt các gốc tự do được tạo ra bởi sự kích hoạt KatG của isoniazid, bao gồmoxit nitric, cũng đã được chứng minh là quan trọng trong hoạt động của một loại tiền chất kháng sinh khác.
+Isoniazid có khả năng diệt khuẩn đối với vi khuẩn mycobacteria phát triển nhanh, nhưng có khả năng kìm khuẩn nếu vi khuẩn mycobacteria phát triển chậm. Nó ức chế hệ cytochrome P450 và do đó hoạt động như một nguồn gốc tự do. Isoniazid là một chất ức chế monoamine oxidase nhẹ.
+
+
+=== Tương tác thuốc ===
+Những người uống isoniazid và acetaminophen có nguy cơ nhiễm độc acetaminophen. Isoniazid được cho là tạo ra một lượng lớn enzyme gan khiến acetaminophen được chuyển hóa thành dạng độc. Isoniazid làm giảm sự trao đổi chất của carbamazepine, do đó làm chậm quá trình giải phóng khỏi cơ thể. Những người dùng carbamazepine nên theo dõi nồng độ carbamazepine của họ và, nếu cần thiết, cần điều chỉnh liều của họ cho phù hợp. Có thể isoniazid có thể làm giảm nồng độ ketoconazole trong huyết thanh sau khi điều trị lâu dài. Điều này được thấy với việc sử dụng đồng thời rifampin, isoniazid và ketoconazol. [30] Isoniazid có thể làm tăng lượng phenytoin trong cơ thể. Liều phenytoin có thể cần phải được điều chỉnh khi dùng với isoniazid. Isoniazid có thể làm tăng nồng độ theophyllin trong huyết tương. Có một số trường hợp của theophylline làm chậm việc loại bỏ isoniazid. Cả hai mức theophylline và isoniazid đều cần được theo dõi. Mức valproate có thể tăng khi uống cùng với isoniazid. Mức độ valproate cần được theo dõi và liều lượng của nó được điều chỉnh nếu cần thiết.
+
+
+=== Chuyển hóa ===
+Isoniazid đạt nồng độ trị liệu trong huyết thanh, dịch não tủy và trong u hạt. Nó được chuyển hóa ở gan thông qua acetyl hóa thành acetylhydrazine. Hai dạng enzyme chịu trách nhiệm cho quá trình acetyl hóa, vì vậy một số bệnh nhân chuyển hóa thuốc nhanh hơn các loại khác. Do đó, chu kỳ bán hủy là coó hai kiểu, với "acetylators chậm" và "acetylators nhanh". Biểu đồ số người so với thời gian cho thấy các đỉnh vào một và ba giờ. Chiều cao của các đỉnh phụ thuộc vào chủng tộc của những người đang được thử nghiệm. Các chất chuyển hóa được bài tiết trong nước tiểu. Liều thường không phải được điều chỉnh trong trường hợp suy thận.
+
+
+== Chú thích ==

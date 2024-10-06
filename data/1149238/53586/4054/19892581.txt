@@ -1,0 +1,688 @@
+Kỹ thuật tạo lệnh (prompt engineering) là quá trình cấu trúc một văn bản đầu vào cho AI tạo sinh giải thích và diễn giải. 
+Một văn bản đầu vào (prompt), còn được gọi là lệnh nhắc, hoặc gợi ý, là văn bản ngôn ngữ tự nhiên mô tả nhiệm vụ mà một AI cần thực hiện: một lệnh nhắc cho mô hình ngôn ngữ lớn có thể là một truy vấn như "định lý nhỏ Fermat là gì?", một mệnh lệnh như "viết một bài thơ về lá rụng", hoặc một câu dài bao gồm ngữ cảnh, hướng dẫn, và lịch sử cuộc trò chuyện. Kỹ thuật tạo lệnh có thể liên quan đến việc diễn đạt một truy vấn, chỉ định một phong cách, cung cấp ngữ cảnh phù hợp hoặc giao cho AI một vai trò như "Hành động như một người bản xứ Pháp". Một lệnh nhắc có thể bao gồm một vài ví dụ để mô hình học hỏi, chẳng hạn như yêu cầu mô hình hoàn thành chuỗi "maison → house, chat → cat, chien → ... " (câu trả lời mong đợi là dog), phương pháp này được gọi là học với ít mẫu.
+Khi giao tiếp với một mô hình chuyển văn bản thành hình ảnh hoặc mô hình chuyển văn bản thành âm thanh, một lệnh nhắc điển hình là mô tả đầu ra mong muốn như "một bức ảnh chất lượng cao của một phi hành gia cưỡi ngựa" hoặc "Lo-fi slow BPM electro chill với các mẫu âm thanh tự nhiên (tiếng chim hót, tiếng mưa, tiếng sóng vỗ)". Việc nhắc nhở một mô hình chuyển văn bản thành hình ảnh có thể liên quan đến việc thêm, loại bỏ, nhấn mạnh và sắp xếp lại các từ để đạt được đối tượng, phong cách, bố cục, ánh sáng, và thẩm mỹ mong muốn.
+
+
+== Học tập theo ngữ cảnh ==
+Kỹ thuật tạo lệnh trở nên khả thi nhờ vào học theo ngữ cảnh (in-context learning). Đây là khi một mô hình có thể tạm thời học từ các nhắc lệnh mà nó được cung cấp. Khả năng học tập theo ngữ cảnh là một khả năng nổi bật của các mô hình ngôn ngữ lớn. Học tập theo ngữ cảnh cũng là một thuộc tính nổi bật của kích thước mô hình, có nghĩa là nó mạnh mẽ hơn khi mô hình lớn hơn. Nó gây ra các đứt gãy trong cách các mô hình mở rộng, khi mà các mô hình lớn hơn cải thiện theo những cách mà các mô hình nhỏ hơn không thể.
+Trái ngược với việc huấn luyện (training) và tinh chỉnh (fine-tuning) cho từng nhiệm vụ cụ thể, vốn không mang tính tạm thời, những gì đã được học trong quá trình học theo ngữ cảnh chỉ mang tính tạm thời. Nó không mang theo các ngữ cảnh tạm thời hoặc các độ lệch (bias), ngoại trừ những cái đã có sẵn trong tập dữ liệu (tiền huấn luyện), từ cuộc trò chuyện này sang cuộc trò chuyện khác. Kết quả này của "tối ưu hóa mesa" bên trong các lớp transformer là một dạng của học siêu cấp (Meta-learning) hoặc "học cách học".
+
+
+== Lịch sử ==
+Năm 2018, các nhà nghiên cứu lần đầu tiên đề xuất rằng tất cả các nhiệm vụ riêng biệt trước đây trong NLP, chẳng hạn như dịch máy, tóm tắt văn bản và phân tích tình huống, có thể được dồn vào một mô hình duy nhất và có thể xử lý câu trả lời theo ngữ cảnh. Ngoài ra, họ đã huấn luyện một mô hình đa nhiệm đầu tiên duy nhất để trả lời bất kỳ câu hỏi liên quan đến nhiệm vụ nào như là "Tâm trạng là gì" hoặc "Dịch câu này sang tiếng Đức" hoặc "Ai là tổng thống?"
+Năm 2021, các nhà nghiên cứu đã tinh chỉnh một mô hình đã được huấn luyện trước (T0) để thực hiện 12 nhiệm vụ NLP (sử dụng 62 tập dữ liệu, vì mỗi nhiệm vụ có thể có nhiều tập dữ liệu khác nhau). Mô hình đã cho thấy hiệu suất tốt trên các nhiệm vụ mới, vượt qua các mô hình được huấn luyện trực tiếp chỉ để thực hiện một nhiệm vụ (không có huấn luyện trước). Để giải quyết một nhiệm vụ, T0 được cung cấp nhiệm vụ trong một lệnh nhắc có cấu trúc như sau, Nếu {{tiền đề}} là đúng, liệu nó cũng có đúng với {{giả thuyết}}? ||| {{hậu quả}}., là lệnh nhắc được sử dụng để làm cho T0 giải quyết suy diễn (logical consequence).
+Một kho lưu trữ dành cho lệnh nhắc có hơn 2.000 lệnh nhắc công khai cho khoảng 170 tập dữ liệu đã có sẵn vào tháng 2 năm 2022.
+Năm 2022, kỹ thuật nhắc chuỗi tư duy (chain-of-thought prompting technique) đã được các nhà nghiên cứu từ Google đề xuất.
+Năm 2023, một số cơ sở dữ liệu lệnh nhắc (prompt database) từ văn bản sang văn bản và từ văn bản sang hình ảnh đã có sẵn công khai cho người dùng.
+
+
+== Văn bản thành văn bản ==
+
+
+=== Chuỗi tư duy ===
+Chuỗi tư duy (Chain-of-thought - CoT) là một kỹ thuật cho phép mô hình ngôn ngữ lớn (LLM) giải quyết một vấn đề như một chuỗi các bước trung gian trước khi đưa ra câu trả lời cuối cùng. Kỹ thuật tạo lệnh theo chuỗi tư duy cải thiện khả năng lý luận bằng cách khiến mô hình trả lời một vấn đề bằng nhiều bước mà các bước lý luận này đều theo dòng suy nghĩ. Nó cho phép các mô hình ngôn ngữ lớn vượt qua khó khăn với một số nhiệm vụ đòi hỏi lý luận logic (logical reasoning) và cần nhiều bước để giải quyết, chẳng hạn như các câu hỏi về toán học hoặc lý luận thông thường (commonsense reasoning).
+Ví dụ, với câu hỏi "H: Nhà ăn có 23 quả táo. Nếu họ dùng 20 quả để làm bữa trưa và mua thêm 6 quả nữa, họ còn bao nhiêu quả táo?", một lệnh nhắc CoT có thể khiến LLM trả lời "Đ: Cả nhà ban đầu có 23 quả táo. Họ đã dùng 20 quả để làm bữa trưa. Vậy họ còn 23 - 20 = 3. Họ đã mua thêm 6 quả táo nữa, vì vậy họ có 3 + 6 = 9. Câu trả lời là 9."
+Như đã đề xuất ban đầu, mỗi lệnh nhắc CoT bao gồm một vài ví dụ Hỏi & Đáp. Điều này khiến nó trở thành một kỹ thuật tạo lệnh ít mẫu (few-shot). Tuy nhiên, việc chỉ cần thêm các từ "Hãy suy nghĩ từng bước một", cũng đã được chứng minh là hiệu quả, vì vậy nó cũng khiến CoT trở thành một kỹ thuật tạo lệnh không mẫu (zero-shot). Điều này cho phép mở rộng tốt hơn vì người dùng không còn cần phải xây dựng nhiều ví dụ Hỏi & Đáp CoT cụ thể.
+Khi được áp dụng cho PaLM, một mô hình ngôn ngữ có 540 tỷ tham số, lệnh nhắc CoT đã hỗ trợ đáng kể cho mô hình, cho phép nó hoạt động tương đương với các mô hình tinh chỉnh (fine-tuning model) theo nhiệm vụ cụ thể trên một số nhiệm vụ, đạt được kết quả hiện đại nhất vào thời điểm đó trên kiểm chuẩn lý luận toán học GSM8K (GSM8K mathematical reasoning benchmark). Thêm vào đó, có thể tinh chỉnh các mô hình trên tập dữ liệu lý luận CoT để nâng cao khả năng này hơn nữa và kích thích khả năng diễn giải tốt hơn.
+Ví dụ:
+
+   H: {câu hỏi}
+   Đ: Hãy suy nghĩ từng bước một.
+
+
+=== Các kỹ thuật khác ===
+Kỹ thuật tạo lệnh chuỗi tư duy chỉ là một trong nhiều kỹ thuật kỹ thuật tạo lệnh. Nhiều kỹ thuật khác cũng đã được đề xuất. Ít nhất 29 kỹ thuật khác nhau đã được công bố.
+Lệnh nhắc chuỗi ký hiệu (CoS)
+Lệnh nhắc chuỗi ký hiệu (Chain of Symbol - CoS) kết hợp với lệnh nhắc CoT giúp các mô hình ngôn ngữ lớn (LLM) giải quyết khó khăn trong lý luận không gian trong văn bản. Nói cách khác, việc sử dụng các ký hiệu tùy ý như ' / ' giúp LLM diễn giải khoảng cách trong văn bản. Điều này hỗ trợ trong lý luận và tăng hiệu suất của LLM.
+Ví dụ:
+
+Đầu vào:
+ 
+Có một tập hợp các viên gạch. Viên gạch màu vàng C nằm trên viên gạch E. Viên gạch màu vàng D nằm trên viên gạch A. Viên gạch màu vàng E nằm trên viên gạch D. Viên gạch màu trắng A nằm trên viên gạch B. Đối với viên gạch B, màu sắc là màu trắng. Bây giờ chúng ta phải lấy một viên gạch cụ thể. Các viên gạch phải được lấy từ trên xuống dưới, và nếu viên gạch ở dưới cần được lấy, viên gạch ở trên phải được gỡ bỏ trước. Làm thế nào để lấy viên gạch D?
+
+B/A/D/E/C
+C/E
+E/D
+D
+
+Đầu ra:
+
+Vậy chúng ta có kết quả là C, E, D.
+
+
+==== Lệnh nhắc kiến thức được tạo ra ====
+Lệnh nhắc kiến thức được tạo ra (Generated knowledge prompting) trước tiên yêu cầu mô hình tạo ra các sự kiện liên quan để hoàn thành lệnh nhắc, sau đó tiếp tục hoàn thành lệnh nhắc. Chất lượng hoàn thành thường cao hơn, vì mô hình có thể được điều kiện hóa dựa trên các sự kiện liên quan.
+Ví dụ:
+
+   Tạo một số kiến thức về các khái niệm trong đầu vào.
+   Đầu vào: {câu hỏi}
+   Kiến thức:
+
+
+==== Lệnh nhắc ít tới nhiều ====
+Lệnh nhắc ít tới nhiều (Least-to-most prompting) gợi ý cho mô hình liệt kê các vấn đề phụ của một vấn đề trước, sau đó giải quyết chúng theo trình tự, sao cho các vấn đề phụ sau có thể được giải quyết với sự trợ giúp từ các câu trả lời của các vấn đề phụ trước.
+Ví dụ:
+
+   Đầu vào:
+   Q: {câu hỏi}
+   A: Hãy phân tích vấn đề này:
+       1.
+
+
+==== Giải mã tự nhất quán ====
+Giải mã tự nhất quán (Self-consistency decoding) thực hiện nhiều chuỗi suy nghĩ, sau đó chọn ra kết luận thường được đạt đến nhất từ tất cả các chuỗi suy nghĩ. Nếu các chuỗi suy nghĩ khác nhau quá nhiều, có thể hỏi con người để có được chuỗi suy nghĩ chính xác.
+
+
+==== Lệnh nhắc dựa trên độ phức tạp ====
+Lệnh nhắc dựa trên độ phức tạp (Complexity-based prompting) thực hiện nhiều chuỗi suy nghĩ, sau đó chọn những chuỗi có chuỗi suy nghĩ dài nhất, và sau đó chọn ra kết luận thường được đạt đến nhất từ những chuỗi đó.
+
+
+==== Tự hoàn thiện ====
+Kỹ thuật tự hoàn thiện (Self-refine)  ban đầu cho LLM giải quyết vấn đề, sau đó yêu cầu LLM phê bình giải pháp của mình, rồi bảo LLM giải quyết lại vấn đề dựa trên chúng. Quá trình này được lặp lại cho đến khi dừng lại, có thể do hết token, thời gian, hoặc LLM xuất ra một token "dừng".
+Ví dụ về phê bình:
+
+   Tôi có một đoạn mã. Đưa ra một gợi ý để cải thiện khả năng đọc. Đừng sửa đoạn mã, chỉ cần đưa ra gợi ý.
+   Đoạn mã: {mã}
+   Gợi ý:
+
+Ví dụ về tinh chỉnh:
+
+   Đoạn mã: {mã}
+   Hãy sử dụng gợi ý này để cải thiện đoạn mã.
+   Gợi ý: {gợi ý}
+   Đoạn mã mới:
+
+
+==== Cây tư duy ====
+Lệnh nhắc cây tư duy (Tree-of-thought - ToT)  tổng quát hóa chuỗi suy nghĩ (chain-of-thought) bằng cách yêu cầu mô hình tạo ra một hoặc nhiều "bước tiếp theo có thể xảy ra", sau đó chạy mô hình trên từng bước tiếp theo có thể xảy ra tiếp sau đó bằng phương pháp tìm kiếm theo chiều rộng, beam (beam search), hoặc một số phương pháp tìm kiếm cây khác.
+
+
+==== Lệnh nhắc Maieutic ====
+Lệnh nhắc Maieutic tương tự như tree-of-thought. Mô hình được yêu cầu trả lời một câu hỏi kèm theo giải thích. Sau đó, mô hình tiếp tục được yêu cầu giải thích các phần của lời giải thích, và cứ thế tiếp tục. Những cây giải thích không nhất quán sẽ bị cắt bỏ hoặc loại bỏ. Điều này cải thiện hiệu suất trong việc lý luận phức tạp về kiến thức thông thường.
+Ví dụ: 
+
+   Q: {câu hỏi} 
+   A: Đúng, bởi vì
+
+   Q: {câu hỏi} 
+   A: Sai, bởi vì
+
+
+==== Lệnh nhắc kích thích định hướng ====
+Lệnh nhắc kích thích định hướng (Directional-stimulus prompting) bao gồm một gợi ý hoặc dấu hiệu, chẳng hạn như từ khóa mong muốn, để hướng dẫn mô hình ngôn ngữ đến đầu ra mong muốn.
+Ví dụ: 
+
+   Bài viết: {bài viết} 
+   Từ khóa:
+
+   Bài viết: {bài viết} 
+   H: Viết một bản tóm tắt ngắn của bài viết trong 2-4 câu, chính xác bao gồm các từ khóa được cung cấp. 
+   Từ khóa: {từ khóa} 
+   Đ:
+
+
+=== Lệnh nhắc để tiết lộ sự không chắc chắn ===
+Mặc định, đầu ra của các mô hình ngôn ngữ có thể không chứa ước tính về sự không chắc chắn (uncertainty). Mô hình có thể xuất ra văn bản trông có vẻ tự tin, mặc dù dự đoán về các từ trong mô hình có điểm hợp lý (likelihood score) thấp. Các mô hình ngôn ngữ lớn như GPT-4 có thể có các điểm hợp lý được hiệu chỉnh chính xác trong các dự đoán từ, và do đó sự không chắc chắn của đầu ra mô hình có thể được ước tính trực tiếp bằng cách đọc ra các điểm hợp lý của dự đoán từ (token prediction).
+Tuy nhiên, nếu không thể truy cập được các điểm này (chẳng hạn như khi truy cập mô hình qua API), sự không chắc chắn vẫn có thể được ước tính và tích hợp vào đầu ra của mô hình. Một phương pháp đơn giản là kích thích mô hình sử dụng từ ngữ để ước tính sự không chắc chắn. Một phương pháp khác là kích thích mô hình từ chối trả lời nếu đầu vào không thỏa mãn các điều kiện.
+
+
+=== Tự động tạo lệnh nhắc ===
+
+
+==== Tạo văn bản có hỗ trợ truy xuất ====
+
+Tạo văn bản có hỗ trợ truy xuất (Retrieval-augmented generation - RAG) là một quy trình hai pha liên quan đến truy xuất tài liệu và tạo câu trả lời bởi một mô hình Ngôn ngữ Lớn (LLM). Giai đoạn ban đầu sử dụng các vectơ từ (word embedding) dày đặc để truy xuất tài liệu. Việc truy xuất này có thể dựa trên nhiều định dạng cơ sở dữ liệu khác nhau tùy theo trường hợp sử dụng, chẳng hạn như một cơ sở dữ liệu vector (vector database), chỉ mục tóm tắt (summary index), chỉ mục cây (tree index), hoặc bảng chỉ mục từ khóa (keyword table index).
+Khi nhận được truy vấn, công cụ truy xuất tài liệu sẽ chọn ra các tài liệu liên quan nhất. Mức độ liên quan này thường được xác định bằng cách mã hóa cả truy vấn và các tài liệu thành các vectơ, sau đó xác định các tài liệu có vectơ gần nhất về khoảng cách Euclid so với vectơ truy vấn. Sau khi truy xuất tài liệu, LLM sẽ tạo ra một đầu ra kết hợp thông tin từ cả truy vấn và các tài liệu đã truy xuất. Phương pháp này đặc biệt hữu ích cho việc xử lý thông tin độc quyền hoặc động mà không được bao gồm trong các giai đoạn đào tạo hoặc tinh chỉnh ban đầu của mô hình. RAG cũng nổi bật với việc sử dụng "học ít mẫu", nơi mô hình sử dụng một số lượng nhỏ các ví dụ, thường được tự động truy xuất từ cơ sở dữ liệu, để định hướng cho các đầu ra của nó.
+
+
+==== Truy xuất qua đồ thị tăng cường tạo sinh (Graph retrieval-augmented generation) ====
+
+GraphRAG, được Microsoft Research tạo ra, mở rộng RAG theo cách thay vì chỉ dựa vào độ tương đồng vectơ (như trong hầu hết các phương pháp RAG), GraphRAG sử dụng đồ thị tri thức (knowledge graph) do LLM tạo ra. Đồ thị này cho phép mô hình kết nối các mẩu thông tin rời rạc, tổng hợp lại các kiến thức và hiểu một cách toàn diện các khái niệm ngữ nghĩa được tóm tắt trên các bộ dữ liệu lớn.
+Các nhà nghiên cứu đã chứng minh hiệu quả của GraphRAG khi sử dụng các bộ dữ liệu như Violent Incident Information from News Articles (VIINA). Bằng cách kết hợp đồ thị tri thức do LLM tạo ra với học máy trên đồ thị, GraphRAG cải thiện đáng kể cả tính toàn diện và đa dạng của các câu trả lời được tạo ra cho các câu hỏi tổng hợp theo ngữ cảnh toàn cầu.
+Công việc trước đó đã chỉ ra hiệu quả của việc sử dụng một đồ thị tri thức cho việc trả lời câu hỏi bằng cách sử dụng tạo sinh truy vấn từ văn bản. Những kỹ thuật này có thể được kết hợp để thực hiện tìm kiếm trên cả dữ liệu không có cấu trúc và có cấu trúc, cung cấp ngữ cảnh mở rộng và cải thiện xếp hạng.
+
+
+==== Sử dụng mô hình ngôn ngữ để tạo ra các lệnh nhắc ====
+Các mô hình ngôn ngữ lớn (LLM) có thể được sử dụng để tạo ra các lệnh nhắc cho chính các mô hình ngôn ngữ lớn khác.
+Thuật toán kỹ sư lệnh nhắc tự động (automatic prompt engineer algorithm) sử dụng một LLM để tìm kiếm beam (beam search) qua các lệnh nhắc cho một LLM khác:
+
+Có hai LLM. Một là LLM mục tiêu, và một là LLM tạo lệnh nhắc.
+LLM tạo lệnh nhắc được cung cấp các cặp ví dụ đầu vào-đầu ra, và được yêu cầu tạo ra các lệnh (instruction) mà nếu một mô hình tuân theo các lệnh đó có thể tạo ra đầu ra, dựa trên đầu vào.
+Mỗi lệnh được tạo ra sẽ được sử dụng để nhắc nhở LLM mục tiêu, sau đó là mỗi đầu vào. Logarit xác suất của các đầu ra được tính toán và cộng lại. Đây là điểm số của lệnh.
+Các lệnh có điểm số cao nhất sẽ được cung cấp cho LLM tạo lời nhắc để tạo ra các biến thể tiếp theo.
+Quá trình lặp lại cho đến khi đạt đến tiêu chí dừng, sau đó xuất ra các lệnh có điểm số cao nhất.
+Ví dụ CoT có thể được tạo ra bởi chính LLM. Trong "auto-CoT", một thư viện câu hỏi được chuyển thành các vectơ bởi một mô hình như BERT. Các vectơ câu hỏi được phân tích cụm. Các câu hỏi gần với tâm của mỗi cụm sẽ được chọn. Một LLM thực hiện CoT zero-shot trên mỗi câu hỏi. Các ví dụ CoT kết quả sẽ được thêm vào tập dữ liệu. Khi được nhắc với một câu hỏi mới, các ví dụ CoT gần nhất với câu hỏi đó có thể được truy xuất và thêm vào lệnh nhắc.
+
+
+== Văn bản thành hình ảnh ==
+Vào năm 2022, các mô hình văn bản thành hình ảnh (text-to-image) như DALL-E 2, Stable Diffusion, và Midjourney đã được phát hành công khai cho người dùng. Các mô hình này nhận các lệnh nhắc văn bản làm đầu vào và sử dụng chúng để tạo ra hình ảnh trí truệ nhân tạo (AI art). Các mô hình text-to-image thường không hiểu ngữ pháp và cấu trúc câu theo cùng cách như các mô hình ngôn ngữ lớn khác, vì nó yêu cầu một tập lệnh nhắc khác biệt.
+
+
+=== Định dạng lệnh nhắc ===
+Một lệnh nhắc text-to-image thường bao gồm mô tả về chủ đề của nghệ thuật (chẳng hạn như hoa anh túc màu cam sáng), phương tiện mong muốn (chẳng hạn như tranh kỹ thuật số hoặc nhiếp ảnh), phong cách (chẳng hạn như siêu thực hoặc pop-art), ánh sáng (chẳng hạn như ánh sáng rìa hoặc tia sáng lúc hoàng hôn), màu sắc và kết cấu.
+Tài liệu của Midjourney khuyến khích sử dụng các lệnh nhắc ngắn gọn để mô tả, thay vì "Hãy cho tôi xem một bức tranh với nhiều hoa anh túc nở rộ ở California, làm chúng tươi sáng với màu cam rực rỡ, và vẽ chúng theo phong cách minh họa bằng bút chì màu", một lệnh hiệu quả hơn có thể là "Hoa anh túc California màu cam sáng được vẽ bằng bút chì màu".
+Thứ tự từ ngữ ảnh hưởng đến kết quả của một lệnh nhắc text-to-image. Các từ nằm gần phần đầu của lệnh nhắc có thể được nhấn mạnh nhiều hơn.
+
+
+=== Phong cách nghệ sĩ ===
+Một số mô hình text-to-image có khả năng bắt chước phong cách của các nghệ sĩ cụ thể bằng cách gọi tên. Ví dụ, cụm từ theo phong cách Greg Rutkowski đã được sử dụng trong các lệnh nhắc của Stable Diffusion và Midjourney để tạo ra hình ảnh theo phong cách đặc trưng của nghệ sĩ kỹ thuật số người Ba Lan Greg Rutkowski.
+
+
+=== Lệnh nhắc phủ định ===
+
+Các mô hình text-to-image không tự nhiên hiểu được phủ định. Lệnh nhắc "một bữa tiệc không có bánh" có khả năng tạo ra một hình ảnh bao gồm cả bánh. Thay vào đó, lệnh nhắc phủ định (negative prompt) cho phép người dùng chỉ định trong một lệnh nhắc riêng những thuật ngữ nào không nên xuất hiện trong hình ảnh kết quả. Một phương pháp phổ biến là bao gồm các thuật ngữ không mong muốn chung như xấu xí, nhàm chán, giải phẫu sai trong lệnh nhắc phủ định cho một hình ảnh.
+
+
+== Văn bản thành video ==
+Văn bản thành video (text-to-video - TTV) là một công nghệ mới nổi, cho phép tạo ra video trực tiếp từ các lệnh nhắc văn bản. Lĩnh vực này có tiềm năng biến đổi việc sản xuất video, hoạt hình, và kể chuyện. Bằng cách sử dụng sức mạnh của trí tuệ nhân tạo, TTV cho phép người dùng bỏ qua các công cụ chỉnh sửa video truyền thống và chuyển đổi ý tưởng của họ thành hình ảnh động.
+Các mô hình bao gồm:
+
+Runway Gen-2 – Cung cấp giao diện thân thiện với người dùng và hỗ trợ nhiều phong cách video khác nhau
+Lumiere – Được thiết kế cho việc tạo video độ phân giải cao
+Make-a-Video – Tập trung vào việc tạo ra các video chi tiết và đa dạng
+Sora của OpenAI – Chưa được phát hành, nhưng được cho là có thể tạo video độ phân giải cao
+
+
+== Lệnh không phải văn bản ==
+Một số phương pháp tiếp cận bổ sung hoặc thay thế các lệnh văn bản tự nhiên bằng các đầu vào không phải văn bản.
+
+
+=== Đảo ngược văn bản và vectơ từ ===
+Đối với các mô hình chuyển văn bản thành hình ảnh, "đảo ngược văn bản" (textual inversion)  thực hiện một quy trình tối ưu hóa để tạo ra một vectơ từ (word embedding) mới dựa trên một tập hợp các hình ảnh mẫu. Vectơ từ này hoạt động như một "pseudo-word" (từ giả) và có thể được đưa vào một lệnh nhắc để thể hiện nội dung hoặc phong cách.
+
+
+=== Lệnh hình ảnh ===
+Vào năm 2023, Meta đã phát hành Segment Anything, một mô hình thị giác máy tính có thể thực hiện phân vùng ảnh bằng cách sử dụng lệnh. Thay vào lệnh văn bản, Segment Anything có thể sử dụng các hộp giới hạn (bounding box), mặt nạ phân đoạn (segmatation mask), và điểm tiền cảnh/bối cảnh (foreground/background).
+
+
+=== Sử dụng suy giảm độ dốc để tìm kiếm lệnh ===
+Trong "prefix-tuning", "prompt tuning" hoặc "soft prompting", các vectơ giá trị số thực (floating-point-valued vector) được tìm kiếm trực tiếp bằng suy giảm độ dốc (gradient descent) để tối đa hóa xác suất logarith hàm hợp lý (log-likelihood) trên các đầu ra.
+Về mặt hình thức, hãy để 
+  
+    
+      
+        
+          E
+        
+        =
+        {
+        
+          
+            e
+            
+              1
+            
+          
+        
+        ,
+        …
+        ,
+        
+          
+            e
+            
+              k
+            
+          
+        
+        }
+      
+    
+    {\displaystyle \mathbf {E} =\{\mathbf {e_{1}} ,\dots ,\mathbf {e_{k}} \}}
+  
+ là một tập hợp các token lệnh mềm (embedding có thể điều chỉnh), trong khi 
+  
+    
+      
+        
+          X
+        
+        =
+        {
+        
+          
+            x
+            
+              1
+            
+          
+        
+        ,
+        …
+        ,
+        
+          
+            x
+            
+              m
+            
+          
+        
+        }
+      
+    
+    {\displaystyle \mathbf {X} =\{\mathbf {x_{1}} ,\dots ,\mathbf {x_{m}} \}}
+  
+ và 
+  
+    
+      
+        
+          Y
+        
+        =
+        {
+        
+          
+            y
+            
+              1
+            
+          
+        
+        ,
+        …
+        ,
+        
+          
+            y
+            
+              n
+            
+          
+        
+        }
+      
+    
+    {\displaystyle \mathbf {Y} =\{\mathbf {y_{1}} ,\dots ,\mathbf {y_{n}} \}}
+  
+ là các token embedding của đầu vào và đầu ra tương ứng. Trong quá trình huấn luyện, các embedding có thể điều chỉnh, đầu vào, và các token đầu ra được nối thành một chuỗi duy nhất 
+  
+    
+      
+        
+          concat
+        
+        (
+        
+          E
+        
+        ;
+        
+          X
+        
+        ;
+        
+          Y
+        
+        )
+      
+    
+    {\displaystyle {\text{concat}}(\mathbf {E} ;\mathbf {X} ;\mathbf {Y} )}
+  
+ và đưa vào các mô hình ngôn ngữ lớn (LLM). Các hàm mất mát được tính trên các token 
+  
+    
+      
+        
+          Y
+        
+      
+    
+    {\displaystyle \mathbf {Y} }
+  
+; các gradient được truyền ngược đến các tham số riêng của lệnh: trong prefix-tuning, chúng là các tham số liên quan đến các token lệnh ở mỗi lớp; trong prompt tuning, chúng chỉ là các token mềm được thêm vào từ vựng.
+Về mặt hình thức hơn, đây là prompt tuning. Hãy để một LLM được viết là 
+  
+    
+      
+        L
+        L
+        M
+        (
+        X
+        )
+        =
+        F
+        (
+        E
+        (
+        X
+        )
+        )
+      
+    
+    {\displaystyle LLM(X)=F(E(X))}
+  
+, trong đó 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ là một chuỗi các token ngôn ngữ, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  
+ là hàm chuyển token thành vectơ, và 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ là phần còn lại của mô hình. Trong prefix-tuning, ta cung cấp một tập hợp các cặp đầu vào-đầu ra 
+  
+    
+      
+        {
+        (
+        
+          X
+          
+            i
+          
+        
+        ,
+        
+          Y
+          
+            i
+          
+        
+        )
+        
+          }
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \{(X^{i},Y^{i})\}_{i}}
+  
+, sau đó sử dụng suy giảm độ dốc để tìm kiếm 
+  
+    
+      
+        arg
+        ⁡
+        
+          max
+          
+            
+              
+                Z
+                ~
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        log
+        ⁡
+        P
+        r
+        [
+        
+          Y
+          
+            i
+          
+        
+        
+          |
+        
+        
+          
+            
+              Z
+              ~
+            
+          
+        
+        ∗
+        E
+        (
+        
+          X
+          
+            i
+          
+        
+        )
+        ]
+      
+    
+    {\displaystyle \arg \max _{\tilde {Z}}\sum _{i}\log Pr[Y^{i}|{\tilde {Z}}\ast E(X^{i})]}
+  
+. Nói cách khác, 
+  
+    
+      
+        log
+        ⁡
+        P
+        r
+        [
+        
+          Y
+          
+            i
+          
+        
+        
+          |
+        
+        
+          
+            
+              Z
+              ~
+            
+          
+        
+        ∗
+        E
+        (
+        
+          X
+          
+            i
+          
+        
+        )
+        ]
+      
+    
+    {\displaystyle \log Pr[Y^{i}|{\tilde {Z}}\ast E(X^{i})]}
+  
+ là xác suất logarith hàm hợp lý (log-likelihood) của việc xuất ra 
+  
+    
+      
+        
+          Y
+          
+            i
+          
+        
+      
+    
+    {\displaystyle Y^{i}}
+  
+, nếu mô hình trước tiên mã hóa đầu vào 
+  
+    
+      
+        
+          X
+          
+            i
+          
+        
+      
+    
+    {\displaystyle X^{i}}
+  
+ thành vectơ 
+  
+    
+      
+        E
+        (
+        
+          X
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle E(X^{i})}
+  
+, sau đó tiền tố vectơ với tiền vectơ (prefix vector) 
+  
+    
+      
+        
+          
+            
+              Z
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {Z}}}
+  
+, rồi áp dụng 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+.
+Đối với prefix tuning, nó tương tự, nhưng tiền vectơ 
+  
+    
+      
+        
+          
+            
+              Z
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {Z}}}
+  
+ được chèn vào các trạng thái ẩn trong mỗi lớp của mô hình.
+Kết quả trước đó sử dụng cùng ý tưởng tìm kiếm suy giảm độ dốc, nhưng được thiết kế cho các mô hình ngôn ngữ bị che như BERT, và chỉ tìm kiếm trên các chuỗi token, thay vì các vectơ số học. Về mặt hình thức, nó tìm kiếm 
+  
+    
+      
+        arg
+        ⁡
+        
+          max
+          
+            
+              
+                X
+                ~
+              
+            
+          
+        
+        
+          ∑
+          
+            i
+          
+        
+        log
+        ⁡
+        P
+        r
+        [
+        
+          Y
+          
+            i
+          
+        
+        
+          |
+        
+        
+          
+            
+              X
+              ~
+            
+          
+        
+        ∗
+        
+          X
+          
+            i
+          
+        
+        ]
+      
+    
+    {\displaystyle \arg \max _{\tilde {X}}\sum _{i}\log Pr[Y^{i}|{\tilde {X}}\ast X^{i}]}
+  
+ trong đó 
+  
+    
+      
+        
+          
+            
+              X
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {X}}}
+  
+ được giới hạn trong các chuỗi token có độ dài nhất định.
+
+
+== Tiêm lệnh nhắc ==
+
+Tiêm lệnh nhắc (Prompt injection) là một phương pháp khai thác lợi dụng kẽ hở của khai thác bảo mật máy tính được thực hiện bằng cách khiến một mô hình học máy (chẳng hạn như một LLM được huấn luyện để tuân theo các chỉ dẫn do con người cung cấp) phải tuân theo các chỉ dẫn được cung cấp bởi người dùng độc hại. Điều này trái ngược với hoạt động dự định của các hệ thống tuân theo chỉ dẫn, trong đó mô hình học máy được dự định chỉ tuân theo các chỉ dẫn đáng tin cậy (lệnh nhắc) do người điều hành mô hình học máy cung cấp.
+
+
+== Xem thêm ==
+Tấn công phi kỹ thuật
+
+
+== Tham khảo ==

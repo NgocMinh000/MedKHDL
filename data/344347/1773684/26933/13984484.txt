@@ -1,0 +1,318 @@
+Quản lý bệnh lao đề cập đến những điều trị y học của các nhiễm trùng lao (Tuberculosis - TB).
+Tiêu chuẩn "ngắn hạn" cho hướng điều trị bệnh lao là isoniazid (cùng với pyridoxal phosphate để tránh đau thần kinh ngoại biên gây ra bởi isoniazid), rifampicin (cũng được biết đến như rifampin ở Hoa Kỳ), pyrazinamide, và ethambutol cho hai tháng tấn công, sau đó isoniazid và rifampicin một mình cho một thêm bốn tháng duy trì. Các bệnh nhân được coi là  không còn vi  khuẩn sau sáu tháng. Cho bệnh lao tiềm ẩn, điều trị chuẩn bị sáu đến chín tháng dùng hàng ngày với isoniazid một mình hoặc ba tháng (12 liều tất cả) với isoniazid/rifapentine kết hợp.
+Nếu các đối tượng được biết đến là hoàn toàn nhạy cảm, sau khi điều trị với isoniazid rifampicin, và pyrazinamide cho hai tháng, tiếp theo isoniazid và rifampicin trong bốn tháng. Ethambutol cần không được sử dụng.
+
+
+== Thuốc ==
+
+
+=== Thuốc kháng lao hàng 1 ===
+Tất cả tên thuốc kháng lao hàng 1 chống có chữ viết tắt ba từ và 1 từ nhưu sau:
+
+ethambutol là EMB hoặc E,
+isoniazid là INH hoặc H,
+pyrazinamide là PZA hay Z,
+rifampicin là RMP hay R,
+streptomycin là SM hoặc S.
+Thuốc kháng lao hàng 1 thường được ghi nhớ bằng cụm từ "RIPE" có nghĩa là sự chín muồi, đề cập đến việc sử dụng một rifamycin (như rifampin), isoniazid, pyrazinamide, và ethambutol. Hoa Kỳ thực hành sử dụng từ viết tắt này và tên đó không được thông dụng: rifampicin được gọi là rifampin và viết tắt RIF; streptomycin là viết tắt STM. Các chữ viết tắt được sử dụng rộng rãi (ví dụ, các ký hiệu RIF, RFP, và RMP tất cả được sử dụng rộng rãi cho rifampicin, và sự kết hợp có ký hiệu như IRPE, HRZE, RIPE, và IREP đó chỉ là các cách gọi khác nhau của 1 phác đồ kết hợp - tùy thuộc vào thứ tự liều lượng), nhưng cho rõ ràng, các cụm từ viết tắt được sử dụng ở trên được sử dụng trong những phần còn lại của bài viết này. Trong hệ thống này, WHO khuyên dùng, "RI" là "RHZE". (Cả hai đều có ghi nhớ tiềm năng như bệnh lao được đặt tên sau khi nốt (củ nhỏ), và một củ có thể là chín và có thể là một rễ.)
+Phác đồ thuốc được viết tắt tương tự một cách được chuẩn hóa. Các loại thuốc này được liệt kê bằng cách sử dụng chữ viết tắt một chữ cái của chúng (theo thứ tự được đưa ra ở trên, đó là khoảng thứ tự giới thiệu vào thực hành lâm sàng). Tiền tố biểu thị số tháng cần điều trị; một chỉ số biểu thị liều liên tục (vì vậy 3 có nghĩa là ba lần một tuần) và không có chỉ số có nghĩa là liều dùng hàng ngày. Hầu hết các phác đồ có giai đoạn tấn công ban đầu, tiếp theo là pha duy trì (còn gọi là pha củng cố hoặc pha triệt tiêu): liều tấn công được cho trước, sau đó đến liều duy trì, hai pha cách nhau bởi dấu gạch chéo.
+Ví dụ,
+
+2HREZ/4HR3
+có nghĩa là isoniazid, rifampicin, ethambutol, pyrazinamide hàng ngày trong hai tháng, tiếp theo là bốn tháng isoniazid và rifampicin cho ba lần một tuần.
+Chỉ ở Mỹ, streptomycin không còn được coi là thuốc đầu tiên của ATS / IDSA / CDC do tỷ lệ kháng thuốc cao. WHO đã không đưa ra khuyến cáo như vậy.
+
+
+=== Thuốc kháng lao hàng 2 ===
+Các thuốc thứ hai (nhóm 2, 3 và 4 của WHO) chỉ được sử dụng để điều trị các bệnh có khả năng kháng phác đồ bậc 1 (ví dụ, đối với lao kháng thuốc rộng (lao kháng thuốc) hoặc lao kháng đa thuốc (MDR-TB)). Một loại thuốc có thể được xếp vào nhóm thứ hai thay vì hàng đầu tiên vì một trong ba lý do có thể: nó có thể kém hiệu quả hơn so với thuốc đầu tiên (ví dụ: axit p -aminosalicylic); hoặc, nó có thể có tác dụng phụ độc hại (ví dụ, cycloserine); hoặc nó có thể có hiệu quả, nhưng không có ở nhiều nước đang phát triển (ví dụ, fluoroquinolones):
+aminoglycosides (nhóm 2 của WHO): ví dụ, amikacin (AMK), kanamycin (KM);
+polypeptide (nhóm 2 của WHO): ví dụ, capreomycin, viomycin, enviomycin;
+fluoroquinolones (nhóm 3 của WHO): ví dụ: ciprofloxacin (CIP), levofloxacin, moxifloxacin (MXF);
+thioamides (nhóm 4 của WHO): ví dụ: ethionamide, prothionamide
+cycloserine (nhóm 4 của WHO)
+terizidone (nhóm 5 của WHO)
+
+
+=== Thuốc kháng lao hàng 3 ===
+Các thuốc thứ ba (nhóm 5 của WHO) bao gồm các loại thuốc có thể hữu ích, nhưng có hiệu quả nghi ngờ hoặc chưa được chứng minh:
+
+rifabutin
+macrolides: ví dụ, clarithromycin (CLR)
+linezolid (LZD);
+thioacetazone (T)
+thioridazine;
+arginine;
+vitamin D;
+bedaquiline.
+Những loại thuốc này được liệt kê ở đây vì chúng không hiệu quả (ví dụ, clarithromycin) hoặc vì hiệu quả của chúng chưa được chứng minh (ví dụ, linezolid, R207910). Rifabutin có hiệu quả, nhưng không nằm trong danh sách của WHO vì đối với hầu hết các nước đang phát triển, nó là đắt tiền.
+
+
+== Phác đồ chuẩn ==
+Bệnh lao đã được điều trị bằng liệu pháp phối hợp trong hơn năm mươi năm. Thuốc không được sử dụng đơn lẻ (trừ lao tiềm ẩn hoặc thuốc dự phòng) và phác đồ chỉ sử dụng các loại thuốc duy nhất dẫn đến sự phát triển nhanh chóng của kháng thuốc và thất bại điều trị. Lý do sử dụng nhiều loại thuốc để điều trị bệnh lao dựa trên xác suất đơn giản. Tỷ lệ đột biến tự phát kháng thuốc đối với từng loại thuốc được biết rõ: 1 đột biến cho mỗi 107 phân bào cho EMB, 1 cho mỗi 108 phân đoạn cho STM và INH và 1 cho 108 đơn vị cho RMP.
+Bệnh nhân lao phổi rộng có khoảng 1012 vi khuẩn trong cơ thể, và do đó có thể chứa khoảng 105 vi khuẩn kháng EMB, 104 vi khuẩn kháng STM, 104 vi khuẩn kháng INH và 102 vi khuẩn kháng RMP. Đột biến kháng thuốc xuất hiện một cách tự nhiên và độc lập, do đó, khả năng chứa một loại vi khuẩn có khả năng kháng tự kháng với cả INH và RMP là 1 trong 108 × 1 trong 1010 = 1 trong 1018, và cơ hội chứa một loại vi khuẩn tự kháng với cả bốn loại thuốc là 1 trong 1033. Đây tất nhiên là một sự đơn giản hóa, nhưng nó là một cách hữu ích để giải thích liệu pháp phối hợp.
+Có những lý thuyết khác để hỗ trợ giải thích việc điều trị phối hợp. Các loại thuốc khác nhau trong phác đồ có các phương thức hành động khác nhau. INH là vi khuẩn chống lại vi khuẩn tái tạo. EMB là kìm khuẩn ở liều thấp, nhưng được sử dụng trong điều trị lao ở liều cao hơn, diệt khuẩn. RMP là diệt khuẩn và có tác dụng khử trùng. PZA chỉ có khả năng diệt khuẩn yếu, nhưng rất hiệu quả chống lại vi khuẩn nằm trong môi trường axit, bên trong đại thực bào, hoặc trong các vùng viêm cấp tính.
+Tất cả các phác đồ lao được sử dụng là 18 tháng hoặc lâu hơn cho đến khi xuất hiện rifampicin. Năm 1953, phác đồ chuẩn của Anh là 3SPH/15PH hoặc 3SPH/15SH2. Giữa năm 1965 và 1970, EMB đã thay thế PAS. RMP bắt đầu được sử dụng để điều trị bệnh lao vào năm 1968 và nghiên cứu BTS trong những năm 1970 cho thấy rằng 2HRE/7HR là hiệu quả. Năm 1984, một nghiên cứu BTS cho thấy 2HRZ/4HR hiệu quả, với tỷ lệ tái phát dưới 3% sau hai năm. Năm 1995, với sự công nhận rằng sự kháng thuốc của INH ngày càng tăng, Hiệp hội Ngực Anh đề nghị bổ sung EMB hoặc STM vào phác đồ: 2HREZ/4HR hoặc 2SHRZ/4HR, đó là các phác đồ hiện được khuyến cáo. WHO cũng khuyến nghị một giai đoạn tiếp tục 6 tháng của HR nếu bệnh nhân vẫn còn dương tính sau 2 tháng điều trị (khoảng 15% bệnh nhân lao hoàn toàn nhạy cảm) và đối với những bệnh nhân có các hang lao rộng khi bắt đầu điều trị.
+
+
+=== Giám sát, DOTS và DOTS-Plus ===
+DOTS là viết tắt của "Directly Observed Treatment, Short-course" và là một nguyên tắc chủ yếu trong kế hoạch toàn cầu của WHO để ngăn chặn bệnh lao. Chiến lược DOTS tập trung vào năm điểm chính của hành động. Chúng bao gồm cam kết của chính phủ để kiểm soát bệnh lao, chẩn đoán dựa trên xét nghiệm soi đờm dưới kính hiển vi trên bệnh nhân người mà được báo cáo các triệu chứng bệnh lao, hóa trị liệu ngắn hạn quan sát trực tiếp, cung cấp thuốc rõ ràng và báo cáo theo tiêu chuẩn và ghi chép các trường hợp và kết quả điều trị. WHO khuyến cáo rằng tất cả bệnh nhân lao nên có ít nhất 2 tháng điều trị đầu tiên (và tốt nhất là quan sát thấy): điều này có nghĩa là một người quan sát độc lập theo dõi bệnh nhân nuốt điều trị chống lao của họ. Người quan sát độc lập thường không phải là nhân viên chăm sóc sức khỏe và có thể là người bán hàng hoặc người cao tuổi bộ lạc hoặc người cao niên tương tự trong xã hội đó. DOTS được sử dụng với liều liên tục (ba lần mỗi tuần hoặc 2 HREZ / 4HR 3). Liều dùng hai lần mỗi tuần có hiệu quả  nhưng không được khuyến cáo bởi WHO, bởi vì không có sai sót do lỗi (vô tình bỏ qua một liều mỗi tuần trong một lần liều hàng tuần, không có hiệu quả).
+Việc điều trị bằng DOTS được thực hiện đúng cách có tỷ lệ thành công vượt quá 95% và ngăn chặn sự xuất hiện của các chủng lao đa kháng thuốc. Quản lý DOTS, làm giảm khả năng bệnh lao tái phát, dẫn đến giảm các trường hợp điều trị không thành công. Điều này một phần là do các khu vực không có chiến lược DOTS thường cung cấp các tiêu chuẩn chăm sóc thấp hơn. Các khu vực có quản lý DOTS giúp giảm số lượng bệnh nhân tìm kiếm trợ giúp từ các cơ sở khác nơi họ được điều trị bằng các phương pháp điều trị không rõ dẫn đến kết quả không rõ. Tuy nhiên, nếu chương trình DOTS không được triển khai hoặc thực hiện thì kết quả dương tính không chính xác sẽ không xảy ra. Để chương trình làm việc và cung cấp dịch vụ y tế hiệu quả và chính xác phải được tham gia đầy đủ, liên kết phải được xây dựng giữa các bệnh viện công và tư, dịch vụ y tế phải có sẵn cho tất cả, và hỗ trợ toàn cầu được cung cấp cho các nước đang cố gắng tiếp cận phòng ngừa bệnh lao và mục đích điều trị của họ. Một số nhà nghiên cứu cho rằng, vì chiến lược DOTS đã thành công trong việc điều trị bệnh lao ở vùng cận Sahara châu Phi, nên mở rộng DOTS sang các bệnh không lây nhiễm như đái tháo đường, tăng huyết áp và động kinh.
+WHO đã mở rộng chương trình DOTS vào năm 1998 để bao gồm việc điều trị bệnh lao MDR (được gọi là "DOTS-Plus"). Việc thực hiện DOTS-Plus đòi hỏi khả năng thực hiện kiểm tra tính nhạy cảm với thuốc (không thường xuyên có sẵn ngay cả ở các nước phát triển) và sự sẵn có của các đại lý thứ hai, ngoài tất cả các yêu cầu đối với DOTS. Do đó, DOTS-Plus đắt hơn nhiều so với DOTS và đòi hỏi sự cam kết lớn hơn nhiều từ các nước có nhu cầu thực hiện nó. Các hạn chế về nguồn lực có nghĩa là việc thực hiện DOTS-Plus có thể vô tình dẫn đến việc chuyển hướng các nguồn lực từ các chương trình DOTS hiện có và giảm hậu quả trong tiêu chuẩn chăm sóc tổng thể.
+Giám sát hàng tháng cho đến khi các nền văn hóa chuyển đổi thành âm tính được đề nghị cho DOTS-Plus, nhưng không được dùng cho DOTS. Nếu các nền văn hóa là tích cực hoặc các triệu chứng không giải quyết sau ba tháng điều trị, nó là cần thiết để đánh giá lại bệnh nhân cho bệnh kháng thuốc hoặc nonadherence để chế độ thuốc. Nếu các nền văn hóa không chuyển thành âm tính mặc dù ba tháng điều trị, một số bác sĩ có thể xem xét việc tiếp nhận bệnh nhân đến bệnh viện để theo dõi chặt chẽ liệu pháp.
+
+
+=== Điều trị lao ngoài phổi ===
+Bệnh lao không ảnh hưởng đến phổi được gọi là lao ngoài phổi. Bệnh của hệ thống thần kinh trung ương được loại trừ khỏi phân loại này. Anh và WHO khuyến cáo là 2HREZ/4HR; đề xuất của Hoa Kỳ là 2HREZ/7HR. Có bằng chứng tốt từ các thử nghiệm ngẫu nhiên có đối chứng để nói rằng trong bệnh viêm hạch lao  và lao của cột sống, phác đồ sáu tháng tương đương với phác đồ 9 tháng; Do đó, khuyến nghị của Mỹ không được hỗ trợ bởi bằng chứng. Có tới 25% bệnh nhân bị lao của các hạch bạch huyết (TB lymphadenitis) sẽ trở nên tệ hơn khi điều trị trước khi họ trở nên khỏe hơn và điều này thường xảy ra trong vài tháng đầu điều trị. Một vài tuần sau khi bắt đầu điều trị, các hạch bạch huyết thường bắt đầu mở rộng, và các hạch bạch huyết rắn trước đây có thể làm mềm và phát triển thành viêm hạch cổ tử cung lao. Điều này không nên được hiểu là thất bại của điều trị và là một lý do hoảng sợ không cần thiết thường gặp ở bệnh nhân (và bác sĩ của họ). Với sự kiên nhẫn, 2 đến 3 tháng điều trị các hạch bạch huyết bắt đầu co lại hoặc sinh thiết lại các hạch bạch huyết là không cần thiết: nếu lặp lại các nghiên cứu vi sinh, họ sẽ thấy sự hiện diện liên tục của vi khuẩn tồn tại với kiểu hình nhạy cảm, mà thêm vào sự nhầm lẫn: đó là việc các bác sĩ thiếu kinh nghiệm trong điều trị lao sau đó sẽ thường thêm thuốc thứ hai vì họ tin rằng việc điều trị không có tác dụng. Trong những tình huống này, tất cả những gì cần thiết là tái bảo đảm. Steroid có thể hữu ích trong việc giải quyết tình trạng sưng, đặc biệt nếu nó đau đớn, nhưng chúng không cần thiết.
+
+
+=== Bệnh lao của hệ thống thần kinh trung ương ===
+Bệnh lao có thể ảnh hưởng đến hệ thống thần kinh trung ương (màng não, não hoặc tủy sống) trong trường hợp này được gọi là bệnh viêm màng não do lao, viêm não TB và viêm tủy lao tương ứng; điều trị tiêu chuẩn là 12 tháng thuốc (2HREZ / 10HR) và steroid là bắt buộc. Chẩn đoán là khó khăn vì văn hóa CSF là dương tính trong ít hơn một nửa số trường hợp, và do đó một tỷ lệ lớn các trường hợp được điều trị trên cơ sở nghi ngờ lâm sàng một mình. PCR của CSFkhông cải thiện đáng kể năng suất vi sinh vật; nuôi cấy vẫn là phương pháp nhạy cảm nhất và phải gửi tối thiểu 5 ml (tốt nhất là 20 ml) CSF để phân tích. Viêm não TB (hoặc TB não) có thể yêu cầu sinh thiết não để chẩn đoán, vì CSF thường là bình thường: điều này không phải luôn luôn có sẵn và ngay cả khi có, một số bác sĩ lâm sàng sẽ tranh luận liệu nó có biện minh cho bệnh nhân không một thủ tục xâm lấn và nguy hiểm tiềm ẩn khi một thử nghiệm điều trị chống lao có thể mang lại cùng một câu trả lời; có lẽ biện minh duy nhất cho sinh thiết não là khi nghi ngờ lao kháng thuốc. Có thể thời gian điều trị ngắn hơn (ví dụ, sáu tháng) có thể đủ để điều trị viêm màng não do lao, nhưng không có thử nghiệm lâm sàng nào giải quyết được vấn đề này. CSF của bệnh nhân viêm màng não lao được điều trị thường bất thường ngay cả sau 12 tháng;   tỷ lệ độ phân giải của bất thường không có tương quan với tiến bộ lâm sàng hoặc kết quả,   và không phải là dấu hiệu cho việc kéo dài hoặc lặp lại điều trị; lặp lại lấy mẫu CSF bằng cách đâm thủng thắt lưng để theo dõi quá trình điều trị do đó không nên thực hiện. Mặc dù bệnh viêm màng não do lao và viêm não TB được phân loại với nhau, nhưng kinh nghiệm của nhiều bác sĩ lâm sàng là sự tiến triển và đáp ứng với điều trị của họ không giống nhau. Viêm màng não do lao thường đáp ứng tốt với điều trị, nhưng bệnh viêm não do lao có thể cần phải được điều trị kéo dài (tới hai năm) và khóa học steroid cần thiết cũng thường kéo dài (lên đến sáu tháng). Không giống như bệnh viêm màng não do lao, viêm não lao thường đòi hỏi chụp ảnh CT hoặc MRI lặp lại của não để theo dõi tiến trình. TB hệ thống thần kinh trung ương có thể là thứ phát sinh do lây lan qua đường máu: do đó một số chuyên gia ủng hộ việc lấy mẫu thông thường của CSF ở bệnh nhân lao. Các thuốc chống lao có ích nhất trong điều trị lao hệ thống thần kinh trung ương là:
+
+INH (thâm nhập CSF 100%)
+RMP (10–20%)
+EMB (chỉ có 25-50% màng não bị viêm)
+PZA (100%)
+STM (chỉ có 20% viêm màng não)
+LZD (20%)
+Cycloserine (80–100%)
+Ethionamide (100%)
+PAS (10-50%) (chỉ có màng não bị viêm)
+Việc sử dụng steroid là thói quen trong viêm màng não do lao (xem phần bên dưới). Có bằng chứng từ một thử nghiệm được thiết kế kém rằng aspirin có thể có lợi,  nhưng cần phải tiếp tục làm việc trước khi điều này có thể được khuyến cáo định kỳ..
+
+
+== Không tuân thủ điều trị ==
+Bệnh nhân điều trị lao theo cách bất thường và không tuân thủ có nguy cơ cao bị thất bại điều trị, tái phát và phát triển các chủng lao kháng thuốc.
+Có nhiều lý do tại sao bệnh nhân không dùng thuốc của họ. Các triệu chứng của bệnh lao thường giải quyết trong vòng vài tuần sau khi bắt đầu điều trị lao và nhiều bệnh nhân sau đó mất động lực để tiếp tục uống thuốc. Theo dõi thường xuyên là điều quan trọng để kiểm tra sự tuân thủ và xác định bất kỳ vấn đề nào mà bệnh nhân đang dùng thuốc của họ. Bệnh nhân cần được thông báo về tầm quan trọng của việc uống thuốc viên thường xuyên, và tầm quan trọng của việc hoàn thành điều trị, vì nguy cơ tái phát hoặc trở nên kháng thuốc.
+Một trong những trở ngại chính là kích thước lớn của các viên thuốc. Đó chính là PZA (viên nén là có kích thước lớn). Xi-rô PZA có thể được cung cấp thay thế, hoặc nếu kích thước của viên thuốc thực sự là một vấn đề và các chế phẩm dạng lỏng không có sẵn, thì PZA có thể được bỏ qua hoàn toàn. Nếu PZA được bỏ qua, bệnh nhân nên được cảnh báo rằng điều này dẫn đến sự gia tăng đáng kể trong thời gian điều trị (chi tiết của các phác đồ bỏ qua PZA được đưa ra dưới đây).
+Các trở ngại khác là các loại thuốc phải được uống khi dạ dày đang trống rỗng để tạo điều kiện hấp thụ. Điều này có thể khó khăn cho bệnh nhân làm theo (ví dụ, thay đổi bữa ăn của bệnh nhân vào những thời điểm bất thường) và có thể có nghĩa là bệnh nhân thức dậy sớm hơn một giờ so với bình thường hàng ngày chỉ để uống thuốc. Các quy tắc thực sự ít được hơn nhiều bác sĩ và dược sĩ nhận ra: vấn đề là sự hấp thụ RMP bị giảm nếu dùng với chất béo, nhưng không bị ảnh hưởng bởi carbohydrate, protein, hoặc thuốc kháng acid. Vì vậy, bệnh nhân thực sự có thể dùng thuốc với thức ăn miễn là bữa ăn không chứa chất béo hoặc dầu (ví dụ: một tách cà phê đen hoặc bánh mì nướng có mứt và không có bơ). Uống thuốc với thức ăn cũng giúp giảm bớt cảm giác buồn nôn mà nhiều bệnh nhân cảm thấy khi uống thuốc khi bụng đói. Ảnh hưởng của thức ăn lên sự hấp thụ INH không rõ ràng: hai nghiên cứu đã cho thấy sự hấp thu giảm với thức ăn  nhưng một nghiên cứu cho thấy không có sự khác biệt. Có một ảnh hưởng nhỏ của thức ăn lên sự hấp thụ PZA và EMB có lẽ không quan trọng về mặt lâm sàng.
+Có thể kiểm tra nước tiểu cho mức isoniazid và rifampicin để kiểm tra sự tuân thủ. Việc giải thích phân tích nước tiểu dựa trên thực tế là isoniazid có thời gian bán hủy dài hơn rifampicin:
+
+Nước tiểu dương tính với isoniazid và rifampicin bệnh nhân có thể hoàn toàn tuân thủ.
+Nước tiểu chỉ dương tính với isoniazid bệnh nhân đã dùng thuốc của mình trong vài ngày trước trước cuộc hẹn khám, nhưng vẫn chưa dùng liều ngày hôm đó.
+Nước tiểu chỉ dương tính với rifampicin bệnh nhân đã bỏ qua để uống thuốc của mình vài ngày trước đó, nhưng đã dùng nó ngay trước khi đến phòng khám.
+Nước tiểu âm tính cho cả hai isoniazid và rifampicin bệnh nhân đã không dùng thuốc trong một số ngày.
+Ở những nước mà các bác sĩ không thể buộc bệnh nhân điều trị (ví dụ: Anh), một số người nói rằng xét nghiệm nước tiểu chỉ dẫn đến những mâu thuẫn vô ích với bệnh nhân và không giúp tăng sự tuân thủ. Ở những quốc gia có thể áp dụng các biện pháp pháp lý để buộc bệnh nhân dùng thuốc của họ (ví dụ: Mỹ), thì xét nghiệm nước tiểu có thể là một xét nghiệm hỗ trợ hữu ích trong việc đảm bảo tuân thủ.
+RMP làm biến đổi màu nước tiểu và tất cả các dịch tiết cơ thể (nước mắt, mồ hôi, vv) trở nên hồng và điều này có thể hữu ích nếu xét nghiệm nước tiểu không có sẵn (mặc dù màu này mất dần khoảng sáu đến tám giờ sau mỗi liều).
+Trong nghiên cứu về trường hợp lao ngoài phổi (EPTB), các nhà nghiên cứu tại Đại học Philippines đã phát hiện ra rằng những triệu chứng tương tự của EPTB đối với các bệnh khác dẫn đến trì hoãn việc xác định bệnh và cung cấp thuốc muộn. Điều này, cuối cùng góp phần tăng tỷ lệ tử vong và tỷ lệ mắc của EPTB. 
+Các WHO khuyến cáo toa thuốc kết hợp liều cố định, nhằm nâng cao sự tuân thủ điều trị bằng cách giảm số lượng thuốc mà cần phải được thực hiện bởi con người, và cũng có thể làm giảm các lỗi quy định. Một nghiên cứu tổng quan được công bố vào năm 2016 tìm thấy bằng chứng chất lượng vừa phải rằng "có lẽ ít hoặc không có sự khác biệt trong các loại thuốc kết hợp liều cố định so với công thức đơn thuốc".
+
+
+== Tác dụng phụ ==
+Để biết thông tin về tác dụng phụ của thuốc chống lao riêng lẻ, có thể tham khảo các bài báo riêng lẻ cho mỗi loại thuốc.
+Tỷ lệ tương đối của các tác dụng phụ chính đã được mô tả một cách cẩn thận:
+
+INH 0,49 trên một trăm bệnh nhân mỗi tháng
+RMP 0,43
+EMB 0,07
+PZA 1,48
+Tất cả các loại thuốc 2.47
+Điều này làm tăng nguy cơ 8,6% mà bất kỳ một bệnh nhân nào cũng cần được thay đổi thuốc điều trị bằng trong suốt quá trình điều trị ngắn hạn (2HREZ / 4HR). Những người được xác định là có nhiều nguy cơ tác dụng phụ lớn nhất trong nghiên cứu này là:
+
+Tuổi> 60,
+Nữ,
+Bệnh nhân HIV dương tính, và
+Người châu Á.
+Nó có thể cực kỳ khó xác định loại thuốc nào chịu trách nhiệm về tác dụng phụ nào, nhưng tần số tương đối của từng loại thuốc được biết đến. Các loại thuốc gây tác dụng phụ được đưa ra theo thứ tự giảm tần suất:
+
+Giảm tiểu cầu: Rifampicin (RMP)
+Bệnh lý thần kinh: Isoniazid (INH)
+Chóng mặt: Streptomycin (STM)
+Viêm gan: Pyrazinamide (PZA), RMP, INH
+Phát ban: PZA, RMP, Ethambutol (EMB)
+Giảm tiểu cầu chỉ gây ra bởi RMP và không cần dùng liều thử nghiệm. Các phác đồ bỏ qua RMP được thảo luận dưới đây.
+Nguyên nhân thường gặp nhất của bệnh thần kinh là INH. Bệnh lý thần kinh ngoại biên của INH luôn là một bệnh thần kinh cảm giác đơn thuần và việc tìm kiếm một thành phần gây ra bệnh thần kinh ngoại vi luôn luôn nên tìm kiếm nguyên nhân thay thế. Một khi bệnh lý thần kinh ngoại vi đã xảy ra, INH phải được dừng lại và pyridoxine nên được cho với liều 50 mg ba lần mỗi ngày. Đơn giản chỉ cần thêm pyridoxine liều cao vào liệu trình khi bệnh thần kinh đã xảy ra sẽ ngăn chặn bệnh thần kinh không tiến triển. Bệnh nhân có nguy cơ đau thần kinh ngoại vi do các nguyên nhân khác (đái tháo đường, nghiện rượu, suy thận, suy dinh dưỡng, mang thai, vv) tất cả nên được cho dùng pyridoxine 10 mg mỗi ngày khi bắt đầu điều trị.
+Phát ban thường xuyên nhất do PZA, nhưng có thể xảy ra với bất kỳ loại thuốc lao nào. Thử nghiệm liều dùng cùng một chế độ như chi tiết dưới đây cho bệnh viêm gan có thể cần thiết để xác định loại thuốc nào có trách nhiệm.
+Ngứa, RMP thường gây ngứa mà không phát ban trong hai tuần đầu điều trị: không nên ngừng điều trị và bệnh nhân nên được thông báo rằng ngứa thường tự giải quyết. Các liều dùng ngắn hạn của thuốc kháng histamin an thần như chlorpheniramine có thể hữu ích trong việc làm giảm ngứa.
+Sốt trong khi điều trị có thể do một số nguyên nhân. Nó có thể xảy ra như là một tác dụng tự nhiên của bệnh lao (trong trường hợp này nó sẽ giải quyết trong vòng ba tuần sau khi bắt đầu điều trị). Sốt có thể là kết quả của kháng thuốc (nhưng trong trường hợp đó cơ thể phải kháng với hai hoặc nhiều loại thuốc). Sốt có thể là do nhiễm siêu vi hoặc chẩn đoán thêm (bệnh nhân lao không được miễn nhiễm cúm và các bệnh khác trong quá trình điều trị). Ở một số bệnh nhân, sốt là do dị ứng thuốc. Các bác sĩ cũng phải xem xét khả năng chẩn đoán bệnh lao là sai. Nếu bệnh nhân đã được điều trị trong hơn hai tuần và nếu sốt ban đầu được giải quyết và sau đó trở lại, nó là hợp lý để ngăn chặn tất cả các thuốc chữa bệnh lao trong 72 giờ. Nếu sốt vẫn tiếp tục mặc dù ngừng tất cả thuốc trị lao, thì sốt không phải do thuốc. Nếu sốt biến mất khỏi điều trị, thì các loại thuốc cần phải được xét nghiệm riêng để xác định nguyên nhân. Đề án tương tự như được sử dụng cho liều lượng thử nghiệm cho viêm gan do thuốc (được mô tả dưới đây) có thể được sử dụng. Các loại thuốc thường xuyên nhất liên quan đến việc gây ra một cơn sốt thuốc là RMP.
+
+
+=== Viêm gan do thuốc kháng lao ===
+Viêm gan do thuốc điều trị lao, có tỷ lệ tử vong khoảng 5%. Ba loại thuốc có thể gây viêm gan: PZA, INH và RMP (theo thứ tự giảm tần suất). [1] Không thể phân biệt được ba nguyên nhân này dựa hoàn toàn vào các dấu hiệu và triệu chứng. Thử nghiệm liều phải được thực hiện để xác định loại thuốc có trách nhiệm (điều này được thảo luận chi tiết dưới đây).
+Xét nghiệm chức năng gan (LFTs) nên được kiểm tra lúc bắt đầu điều trị, nhưng, nếu bình thường, không cần kiểm tra lại; bệnh nhân chỉ cần được cảnh báo về các triệu chứng của bệnh viêm gan. Một số bác sĩ nhấn mạnh việc theo dõi thường xuyên của LFT trong khi điều trị, và trong trường hợp này, xét nghiệm chỉ cần được thực hiện hai tuần sau khi bắt đầu điều trị và sau đó hai tháng một lần, trừ khi phát hiện bất kỳ vấn đề nào.
+Độ cao trong bilirubin phải được dự kiến với điều trị RMP (RMP ngăn chặn sự bài tiết bilirubin) và thường giải quyết sau 10 ngày (sản xuất men gan tăng để bù đắp). Nồng độ cô lập trong bilirubin có thể được bỏ qua một cách an toàn.
+Độ cao transaminase trong gan (ALT và AST) là phổ biến trong ba tuần đầu điều trị. Nếu bệnh nhân không có triệu chứng và độ cao không quá cao thì không cần thực hiện can thiệp nào; một số chuyên gia đề nghị cắt giảm khi trên bốn lần giới hạn của bình thường, nhưng không có bằng chứng để hỗ trợ cho giới hạn này thay vì một giới hạn nào khác. Một số chuyên gia cho rằng chỉ nên ngừng điều trị nếu vàng da trở nên rõ ràng về mặt lâm sàng.
+Nếu viêm gan có ý nghĩa lâm sàng xảy ra trong khi điều trị lao, thì tất cả các thuốc nên được ngừng lại cho đến khi transaminase gan trở lại bình thường. Nếu bệnh nhân bị bệnh nặng mà không thể ngừng điều trị lao, thì STM và EMB nên được đưa ra cho đến khi transaminase gan trở lại bình thường (hai loại thuốc này không liên quan đến viêm gan).
+Viêm gan siêu vi có thể xảy ra trong quá trình điều trị lao, nhưng may mắn là hiếm; ghép gan khẩn cấp có thể cần thiết và tử vong có thể xảy ra.
+
+
+=== Kiểm tra liều dùng cho viêm gan do thuốc ===
+Thuốc nên được dùng thử nghiệm bổ sung riêng lẻ. Điều này không thể được thực hiện trong trường hợp điều trị ngoại trú, và phải được thực hiện dưới sự quan sát chặt chẽ. Một y tá phải có mặt để đo nhịp tim và huyết áp của bệnh nhân trong khoảng thời gian 15 phút trong tối thiểu bốn giờ sau mỗi liều thử nghiệm (hầu hết các vấn đề sẽ xảy ra trong vòng sáu giờ sau khi thử nghiệm, nếu chúng sẽ xảy ra). Bệnh nhân có thể có triệu chứng bất thường và tiếp cận với các cơ sở chăm sóc đặc biệt phải có sẵn. Các loại thuốc nên được đưa ra theo thứ tự sau:
+
+Ngày 1: INH ở 1/3 hoặc 1/4 liều
+Ngày 2: INH ở liều 1/2
+Ngày 3: INH ở liều đầy đủ
+Ngày 4: RMP ở liều 1/3 hoặc 1/4
+Ngày 5: RMP ở liều 1/2
+Ngày 6: RMP với liều đầy đủ
+Ngày 7: EMB ở liều 1/3 hoặc 1/4
+Ngày 8: EMB ở liều 1/2
+Ngày 9: EMB ở liều đầy đủ
+Không nên uống nhiều hơn một liều thử nghiệm mỗi ngày, và tất cả các loại thuốc khác phải dừng lại trong khi đang tiến hành kiểm tra liều. Vì vậy, vào ngày thứ 4, ví dụ, bệnh nhân chỉ nhận được RMP và không có loại thuốc nào khác được đưa ra. Nếu bệnh nhân hoàn thành chín ngày thử nghiệm liều, sau đó nó là hợp lý để giả định rằng PZA đã gây ra bệnh viêm gan và không có liều PZA thử nghiệm cần được thực hiện.
+Lý do sử dụng thứ tự thuốc thử nghiệm là vì hai loại thuốc quan trọng nhất để điều trị lao là INH và RMP, vì vậy chúng được thử nghiệm đầu tiên: PZA là loại thuốc có khả năng gây viêm gan và cũng là loại thuốc dễ bị bỏ qua nhất. EMB rất hữu ích khi mô hình độ nhạy của sinh vật lao không được biết và có thể được bỏ qua nếu sinh vật được biết là nhạy cảm với INH. Các phác đồ loại bỏ từng loại thuốc tiêu chuẩn được liệt kê dưới đây.
+Thứ tự mà các loại thuốc được kiểm tra có thể thay đổi theo các cân nhắc sau đây:
+
+Các loại thuốc hữu ích nhất (INH và RMP) nên được xét nghiệm đầu tiên, bởi vì sự vắng mặt của các loại thuốc này từ một phác đồ điều trị làm suy yếu hiệu quả của nó.
+Các loại thuốc có khả năng gây phản ứng nhất nên được xét nghiệm càng muộn càng tốt (và có thể không cần xét nghiệm gì cả).
+Một chương trình tương tự có thể được sử dụng cho các tác dụng phụ khác (như sốt và phát ban), sử dụng các nguyên tắc tương tự.
+
+
+== Bệnh lao và các bệnh khác ==
+
+
+=== Thai nghén ===
+Bản thân thai nghén không phải là yếu tố nguy cơ đối với bệnh lao.
+Rifampicin làm thuốc ngừa thai nội tiết kém hiệu quả hơn, vì vậy cần phải thực hiện các biện pháp phòng ngừa bổ sung để ngừa thai trong khi điều trị bệnh lao.
+Lao không được điều trị trong thai kỳ có liên quan đến tăng nguy cơ sảy thai và bất thường của thai nhi, và điều trị cho phụ nữ có thai. Các hướng dẫn của Hoa Kỳ khuyên bạn nên bỏ qua PZA khi điều trị lao trong thai kỳ; hướng dẫn của Vương quốc Anh và WHO không đưa ra khuyến cáo như vậy, và PZA thường được sử dụng trong thai kỳ. Có nhiều kinh nghiệm với việc điều trị phụ nữ mang thai bị lao và không có tác dụng độc hại của PZA trong thai kỳ đã từng được tìm thấy. Liều cao của RMP (cao hơn nhiều so với sử dụng ở người) gây ra các khuyết tật ống thần kinh ở động vật, nhưng không có tác dụng như vậy đã từng được tìm thấy ở người. Có thể có sự gia tăng nguy cơ viêm gan trong thai kỳ và trong thời kỳ hậu sản. Đó là thận trọng để tư vấn cho tất cả phụ nữ trong độ tuổi sinh đẻ để tránh mang thai cho đến khi điều trị lao được hoàn thành.
+Aminoglycosides (STM, capreomycin, amikacin) nên được sử dụng thận trọng trong thai kỳ, vì chúng có thể gây điếc ở thai nhi. Bác sĩ tham dự phải cân nhắc lợi ích của việc điều trị cho người mẹ chống lại nguy cơ tiềm tàng đối với em bé, và kết quả tốt đã được báo cáo ở trẻ có mẹ được điều trị bằng aminoglycoside. Kinh nghiệm ở Peru cho thấy rằng điều trị MDR-TB không phải là một lý do để khuyên bạn nên chấm dứt thai kỳ, và kết quả tốt là có thể.
+
+
+=== Bệnh thận ===
+Bệnh nhân suy thận tăng gấp 10 đến 30 lần nguy cơ mắc bệnh lao. Bệnh nhân bị bệnh thận đang được cho dùng thuốc ức chế miễn dịch hoặc đang được cân nhắc để ghép nên được xem xét điều trị bệnh lao tiềm ẩn nếu thích hợp.
+Aminoglycosides (STM, capreomycin và amikacin) nên tránh ở những bệnh nhân có vấn đề về thận nhẹ đến nặng do nguy cơ tổn thương thận tăng lên. Nếu không thể sử dụng aminoglycosid (ví dụ, trong điều trị lao kháng thuốc) thì nồng độ huyết thanh phải được theo dõi chặt chẽ và bệnh nhân cảnh báo sẽ báo cáo bất kỳ tác dụng phụ nào (điếc nói riêng). Nếu bệnh nhân bị suy thận giai đoạn cuối và không có chức năng thận còn lại hữu ích, thì có thể sử dụng aminoglycoside, nhưng chỉ khi có thể đo nồng độ thuốc (thường chỉ có thể đo nồng độ amikacin).
+Trong suy thận nhẹ, không cần thay đổi liều dùng bất kỳ loại thuốc nào khác thường được sử dụng trong điều trị lao. Trong suy thận nặng (GFR <30), liều EMB nên được giảm đi một nửa (hoặc tránh hoàn toàn). Liều PZA là 20 mg / kg / ngày (khuyến nghị của Anh) hoặc ba phần tư liều bình thường (khuyến nghị của Mỹ), nhưng không có nhiều bằng chứng được công bố có sẵn để hỗ trợ điều này.
+Khi sử dụng 2HRZ/4HR ở những bệnh nhân chạy thận nhân tạo, nên uống thuốc hàng ngày trong giai đoạn tấn công ban đầu. Trong giai đoạn duy trì, các thuốc nên được đưa ra vào cuối mỗi lần chạy thận nhân tạo và không cần dùng liều vào những ngày không chạy thận nhân tạo.
+
+
+=== HIV ===
+Ở bệnh nhân HIV, điều trị HIV nên được trì hoãn cho đến khi điều trị lao hoàn tất, nếu có thể.
+Hướng dẫn hiện tại của Vương quốc Anh (được cung cấp bởi Hiệp hội HIV Anh) là
+
+Số lượng CD4 trên 200 - trì hoãn điều trị cho đến khi điều trị lao hoàn tất trong sáu tháng.
+CD4 đếm 100 đến 200 - trì hoãn điều trị cho đến khi giai đoạn điều trị tấn công hai tháng đầu tiên hoàn tất
+Số lượng CD4 dưới 100 - tình hình không rõ ràng và bệnh nhân nên được ghi danh vào các thử nghiệm lâm sàng kiểm tra câu hỏi này. Có bằng chứng cho thấy nếu những bệnh nhân này được quản lý bởi một chuyên gia về cả lao và HIV thì kết cục không bị ảnh hưởng đối với một trong hai bệnh. [58]
+Nếu điều trị HIV phải được bắt đầu trong khi bệnh nhân vẫn đang điều trị lao, thì nên tìm lời khuyên của một dược sĩ chuyên khoa HIV. Nói chung, không có tương tác đáng kể với NRTI. Nevirapine không nên dùng với rifampicin. Efavirenz có thể được sử dụng, nhưng liều sử dụng phụ thuộc vào trọng lượng của bệnh nhân (600 mg mỗi ngày nếu trọng lượng dưới 50 kg; 800 mg mỗi ngày nếu trọng lượng lớn hơn 50 kg). Cần kiểm tra nồng độ Efavirenz sớm sau khi bắt đầu điều trị (không may, đây không phải là dịch vụ được cung cấp thường xuyên ở Mỹ, nhưng có sẵn ở Anh). Các thuốc ức chế protease nên tránh nếu có thể: bệnh nhân dùng rifamycins và chất ức chế protease có nguy cơ cao bị thất bại điều trị hoặc tái phát.
+Các WHO cảnh báo chống lại bằng thioacetazone ở những bệnh nhân nhiễm HIV, vì nguy cơ 23% có khả năng gây tử vong viêm da tróc vảy.
+Theo Caprisa 003 (SAPiT) Nghiên cứu tỷ lệ tử vong ở những bệnh nhân bắt đầu điều trị lao trong điều trị lao thấp hơn 56% so với bắt đầu sau khi điều trị lao được hoàn thành (tỷ số nguy cơ 0,44 (KTC 95%: 0,25-0,79); 0,003).
+
+
+== Dinh dưỡng ==
+Người ta biết rõ rằng suy dinh dưỡng là một yếu tố nguy cơ mạnh để trở nên không khỏe với bệnh lao, rằng lao là một yếu tố nguy cơ suy dinh dưỡng, và những bệnh nhân bị suy dinh dưỡng lao (BMI dưới 18.5) tăng nguy cơ tử vong ngay cả với liệu pháp kháng sinh thích hợp. Kiến thức về mối liên quan giữa suy dinh dưỡng và lao là phổ biến ở một số nền văn hóa, và có thể làm giảm sự chậm trễ chẩn đoán và cải thiện sự tuân thủ điều trị. 
+Mặc dù nồng độ trong máu của một số vi chất dinh dưỡng có thể thấp ở những người bắt đầu điều trị lao, một tổng quan Cochrane gồm ba mươi lăm thử nghiệm đã kết luận rằng không có đủ nghiên cứu để biết liệu việc cung cấp thực phẩm miễn phí hay bổ sung năng lượng có cải thiện kết cục điều trị lao hay không. Tuy nhiên, bổ sung dinh dưỡng có thể cải thiện tăng cân trong một số thiết lập.
+
+
+=== Vitamin D và dịch tễ lao ===
+Sự thiếu hụt vitamin D là một yếu tố nguy cơ đối với bệnh lao, và thiếu hụt vitamin D dường như làm giảm khả năng của cơ thể để chống lại bệnh lao, nhưng không có bằng chứng lâm sàng để chứng minh rằng điều trị thiếu hụt vitamin D phòng ngừa bệnh lao, mặc dù bằng chứng sẵn có là nó nên. Giảm nồng độ vitamin D có thể giải thích sự nhạy cảm tăng của người Mỹ gốc Phi đến bệnh lao, và cũng có thể giải thích tại sao đèn chiếu có hiệu quả cho lupus vulgaris (lao da)  (một phát hiện đã giành Niels Finsen các giải Nobel vào năm 1903), vì da tiếp xúc với ánh sáng mặt trời tạo ra nhiều vitamin D.
+Lo ngại rằng việc điều trị bệnh lao sẽ làm giảm nồng độ vitamin D xuất hiện không phải là một vấn đề trong thực hành lâm sàng. 
+Sự khác biệt di truyền trong thụ thể vitamin D ở Tây Phi, Gujarati  và  quần thể Trung Quốc đã được ghi nhận là ảnh hưởng đến tính nhạy cảm với bệnh lao, nhưng không có dữ liệu nào cho thấy bổ sung vitamin D., cho thêm vitamin D cho những người có mức vitamin D bình thường) có ảnh hưởng đến tính nhạy cảm với bệnh lao.
+
+
+== Bệnh lao tiềm ẩn ==
+Việc điều trị nhiễm lao tiềm ẩn (LTBI) là điều cần thiết để kiểm soát và loại trừ bệnh lao bằng cách giảm nguy cơ nhiễm lao sẽ tiến triển thành bệnh.
+Các thuật ngữ "điều trị dự phòng" và "điều trị dự phòng" đã được sử dụng trong nhiều thập niên và được ưa thích ở Anh bởi vì nó liên quan đến việc cung cấp thuốc cho những người không có bệnh tích cực và hiện đang hoạt động tốt, lý do điều trị chủ yếu là để ngăn chặn mọi người trở nên không khỏe. Thuật ngữ "điều trị bệnh lao tiềm ẩn" được ưa thích ở Mỹ bởi vì thuốc không thực sự ngăn ngừa nhiễm trùng: nó ngăn ngừa nhiễm trùng thầm lặng hiện tại trở nên hoạt động. Cảm giác ở Mỹ là thuật ngữ "điều trị LTBI" thúc đẩy thực hiện rộng hơn bằng cách thuyết phục mọi người rằng họ đang được điều trị bệnh. Không có lý do thuyết phục để thích một cụm từ hơn khác.
+Điều quan trọng là việc đánh giá để loại trừ lao hoạt tính được thực hiện trước khi bắt đầu điều trị LTBI. Để điều trị LTBI cho người bị TB hoạt động là một lỗi nghiêm trọng: bệnh lao sẽ không được điều trị đầy đủ và có nguy cơ phát triển các chủng vi khuẩn lao kháng thuốc.
+Có một số phác đồ điều trị có sẵn:
+
+9H- Isoniazid trong 9 tháng là tiêu chuẩn vàng và hiệu quả 93%.
+6H-Isoniazid trong 6 tháng có thể được thông qua bởi một chương trình lao địa phương dựa trên hiệu quả chi phí và sự tuân thủ của bệnh nhân. Đây là chế độ hiện đang được khuyến cáo ở Anh để sử dụng thường xuyên. Hướng dẫn của Hoa Kỳ loại trừ chế độ này khỏi sử dụng ở trẻ em hoặc người có bằng chứng phóng xạ của bệnh lao trước (tổn thương fibrotic cũ). (69% hiệu quả)
+6-9 H2 —Một phác đồ hai lần một tuần cho hai phác đồ điều trị trên là một phương án thay thế nếu được sử dụng theo liệu pháp điều trị trực tiếp (DOT).
+4R - Rifampicin trong 4 tháng là một lựa chọn thay thế cho những người không thể dùng isoniazid hoặc những người đã biết tiếp xúc với lao kháng isoniazid.
+3HR-Isoniazid và rifampicin có thể được dùng trong 3 tháng.
+2RZ — Phác đồ 2 tháng của rifampicin và pyrazinamide không còn được khuyến cáo điều trị LTBI vì tăng nguy cơ viêm gan và tử vong do thuốc gây ra.
+3RPT / INH - phác đồ 3 tháng (12 liều) của rifapentine hàng tuần và isoniazid.
+Bằng chứng về hiệu quả điều trị:
+Một đánh giá Cochran năm 2000 bao gồm 11 thử nghiệm đối chứng ngẫu nhiên mù đôi và 73.375 bệnh nhân đã kiểm tra 6 tháng và 12 tháng của isoniazid (INH) để điều trị bệnh lao tiềm tàng. HIV dương tính và bệnh nhân hiện đang hoặc điều trị trước đây cho bệnh lao đã được loại trừ. Kết quả chính là nguy cơ tương đối (RR) là 0,40 (khoảng tin cậy 95% (CI) 0,31 đến 0,52) để phát triển bệnh lao hoạt động hơn hai năm hoặc lâu hơn cho bệnh nhân được điều trị bằng INH, không có sự khác biệt đáng kể giữa các khóa điều trị 6 hoặc 12 tháng (RR 0,44, KTC 95% 0,27 đến 0,73 trong sáu tháng, và 0,38, KTC 95% 0,28 đến 0,50 trong 12 tháng). 
+Một đánh giá có hệ thống năm 2013 do Cochrane Collaboration xuất bản, so sánh Rifamycins (liệu pháp đơn trị liệu và phối hợp) với liệu pháp đơn trị liệu INH như một biện pháp thay thế trong việc phòng ngừa lao hoạt động ở các nhóm HIV âm tính. Các bằng chứng cho thấy chế độ Rifampicin ngắn hơn (3 hoặc 4 tháng) có tỷ lệ hoàn thành điều trị cao hơn và ít tác dụng phụ hơn so với INH. Tuy nhiên, chất lượng tổng thể của bằng chứng theo tiêu chí GRADE là thấp đến trung bình. Một phân tích gộp khác đã đưa ra một kết luận tương tự, cụ thể là phác đồ chứa rifamycin được thực hiện trong 3 tháng hoặc lâu hơn có một cấu hình tốt hơn trong việc ngăn ngừa tái hoạt hóa TB.
+
+
+== Dịch tễ học lao kháng thuốc ==
+
+
+=== Định nghĩa ===
+Lao kháng đa thuốc (MDR-TB) được định nghĩa là lao kháng ít nhất với INH và RMP. Các chủng phân lập có khả năng kháng nhiều loại thuốc chống lao khác nhưng không phải là INH và RMP không được xếp vào nhóm MDR-TB. Tính đến tháng 10 năm 2006, "Lao kháng thuốc rộng" (XDR-TB) được định nghĩa là lao kháng đa kháng với quinolon và cũng có thể là kanamycin, capreomycin hoặc amikacin.  Định nghĩa trường hợp bệnh lao XDR là bệnh lao MDR cũng kháng với ba hoặc nhiều hơn trong sáu loại thuốc hàng hai.   Định nghĩa này không nên được sử dụng nữa, nhưng được sử dụng ở đây bởi vì nhiều ấn phẩm cũ đề cập đến nó. Các nguyên tắc điều trị MDR-TB và XDR-TB là như nhau. Sự khác biệt chính là lao siêu kháng thuốc XDR có tỷ lệ tử vong cao hơn nhiều so với lao kháng thuốc, do giảm số lượng các lựa chọn điều trị hiệu quả. Dịch tễ học của bệnh lao kháng thuốc không được nghiên cứu kỹ, nhưng người ta tin rằng bệnh lao kháng thuốc không lan truyền dễ dàng trong các quần thể khỏe mạnh, nhưng có khả năng gây dịch trong các quần thể đã bị nhiễm HIV và do đó dễ bị nhiễm hơn.
+
+
+=== Dịch tể học ===
+Một cuộc khảo sát năm 1997 của 35 quốc gia tìm thấy tỷ lệ kháng thuốc trên 2% trong khoảng một phần ba số quốc gia được khảo sát. Tỷ lệ cao nhất là ở Liên Xô cũ, các quốc gia vùng Baltic, Argentina, Ấn Độ và Trung Quốc, và có liên quan với chương trình kiểm soát bệnh lao ở các quốc gia nghèo hoặc thất bại điều trị. Tương tự như vậy, sự xuất hiện của tỷ lệ MDR-TB cao ở thành phố New York vào đầu những năm 1990 có liên quan đến việc tháo dỡ các chương trình y tế công cộng của chính quyền Reagan  Paul Farmer chỉ ra rằng việc điều trị tốn kém hơn, nó càng khó cho các nước nghèo. Châu Phi có chất lượng điều trị thấp một phần vì nhiều nước châu Phi thiếu "khái niệm thời gian cần thiết" cho liệu trình điều trị. MDR-TB có thể phát triển trong quá trình điều trị lao hoàn toàn nhạy cảm và điều này luôn là kết quả của bệnh nhân dùng thuốc không đủ liều hoặc không hoàn thành quá trình điều trị. Rất may, các chủng MDR-TB dường như không phù hợp và ít truyền nhiễm hơn. Đã được biết trong nhiều năm, lao kháng INH ít độc lực hơn ở lợn guinea, và bằng chứng dịch tễ học là các chủng vi khuẩn lao kháng thuốc không chiếm ưu thế một cách tự nhiên. Một nghiên cứu ở Los Angeles phát hiện ra rằng chỉ có 6% trường hợp lao kháng thuốc được gộp lại. Tuy nhiên phải nhớ rằng MDR-TB có tỷ lệ tử vong tương đương với ung thư phổi. Nó cũng phải được nhớ rằng những người có hệ miễn dịch suy yếu (vì các bệnh như HIV hoặc do ma túy) dễ bị nhiễm bệnh lao hơn. Trẻ em đại diện cho một nhóm dân số nhạy cảm với sự gia tăng tỷ lệ MDR và XDR-TB. Kể từ khi chẩn đoán ở bệnh nhi là khó khăn, số lượng lớn các trường hợp không được báo cáo đúng. Các ca bệnh lao đã được báo cáo ở hầu hết các quốc gia bao gồm cả Hoa Kỳ. Năm 2006, một đợt bùng phát dịch XDR-TB ở Nam Phi lần đầu tiên được báo cáo là một nhóm 53 bệnh nhân tại một bệnh viện nông thôn ở KwaZulu-Natal, với tất cả nhưng một người chết.  Điều đáng lo ngại là sự tồn tại trung bình trong mẫu đờm của vi khuẩn lao kháng thuốc là 16 ngày và đa số bệnh nhân chưa từng được điều trị bệnh lao. Đây là đại dịch được ghi nhận lần đầu tiên, mặc dù các dòng TB hoàn thành định nghĩa hiện tại đã được xác định hồi cứu, đây là nhóm lớn nhất của các trường hợp liên quan được tìm thấy. Kể từ báo cáo đầu tiên vào tháng 9 năm 2006,  trường hợp đã được báo cáo ở hầu hết các tỉnh ở Nam Phi. Tính đến ngày 16 tháng 3 năm 2007, đã có 314 trường hợp được báo cáo, với 215 ca tử vong. Rõ ràng là sự lây lan của dòng vi khuẩn lao này có liên quan chặt chẽ với tỷ lệ nhiễm HIV cao và kiểm soát nhiễm khuẩn kém; ở các nước khác, nơi các chủng lao kháng thuốc đã phát sinh, kháng thuốc đã phát sinh từ việc quản lý các trường hợp kém hoặc tuân thủ bệnh nhân kém với việc điều trị bằng thuốc thay vì bị lây truyền từ người này sang người khác. Loại bệnh lao này không đáp ứng với bất kỳ loại thuốc nào hiện có ở Nam Phi để điều trị hàng 1 hoặc hàng 2. Bây giờ rõ ràng là vấn đề đã tồn tại lâu hơn nhiều so với các quan chức của sở y tế đã đề xuất và rộng hơn nhiều. Đến ngày 23 tháng 11 năm 2006, 303 trường hợp mắc bệnh lao đã được báo cáo, trong đó 263 trường hợp ở KwaZulu-Natal. Tư tưởng nghiêm trọng đã được đưa vào các thủ tục cách ly cái bắt buộc một số bệnh nhân phải thực hiện, nhưng điều này có thể cần thiết để ngăn chặn sự lây lan thêm của bệnh lao này.
+
+
+== Điều trị bệnh lao đa kháng thuốc ==
+Việc điều trị và tiên lượng bệnh lao đa kháng giống như bệnh ung thư hơn là so với điều trị nhiễm trùng. Tỷ lệ tử vong lên đến 80%, tùy thuộc vào một số yếu tố, bao gồm:
+
+Có bao nhiêu loại thuốc mà cơ thể kháng lại (càng ít càng tốt),
+Có bao nhiêu loại thuốc bệnh nhân được cung cấp (bệnh nhân được điều trị với năm hoặc nhiều loại thuốc làm tốt hơn),
+Một loại thuốc tiêm được cho hay không (nó nên được cho trong ba tháng đầu tiên),
+Chuyên môn và kinh nghiệm của các bác sĩ chịu trách nhiệm,
+Làm thế nào hợp tác với bệnh nhân để điều trị (điều trị là khó khăn và lâu dài, và đòi hỏi sự kiên trì và quyết tâm của bệnh nhân),
+Liệu bệnh nhân có nhiễm HIV hay không (HIV đồng nhiễm có liên quan đến tử vong gia tăng). Các khóa điều trị tối thiểu là 18 tháng và có thể kéo dài trong nhiều năm; nó có thể yêu cầu phẫu thuật, mặc dù tỷ lệ tử vong vẫn cao dù cho được điều trị tối ưu. Điều đó nói rằng, kết quả tốt vẫn có thể. Các khóa trị liệu dài ít nhất 18 tháng và có quan sát trực tiếp có thể làm tăng tỷ lệ chữa trị lên 69%.
+Việc điều trị MDR-TB phải được thực hiện bởi một bác sĩ có kinh nghiệm trong điều trị lao MDR. Tỷ lệ tử vong và bệnh suất ở những bệnh nhân được điều trị tại các trung tâm không chuyên khoa cao hơn đáng kể so với những bệnh nhân được điều trị tại các trung tâm chuyên khoa. Ngoài các rủi ro rõ ràng (ví dụ, tiếp xúc với bệnh nhân MDR), các yếu tố nguy cơ đối với lao đa kháng bao gồm quan hệ tình dục nam giới, nhiễm HIV, bị giam giữ, điều trị lao thất bại, không đáp ứng với phác đồ điều trị lao và tái phát sau điều trị lao. Một tỷ lệ lớn những người mắc bệnh lao kháng thuốc không thể tiếp cận điều trị do những gì Paul Farmer mô tả như là một "Outcome Gap". Đa số những người bị nhiễm MDR-TB sống trong "cơ sở nghèo" và bị từ chối điều trị bởi vì các tổ chức quốc tế đã từ chối cung cấp công nghệ cho những nước không đủ khả năng chi trả cho điều trị. Do đó phương pháp điều trị lao kháng thuốc không bền vững ở các quốc gia nghèo khó. Paul Farmer lập luận rằng đây là bất công xã hội và chúng tôi không thể cho phép mọi người chết đơn giản chỉ vì họ phải đối mặt với hoàn cảnh mà họ không thể đủ khả năng "liệu pháp hiệu quả". Điều trị MDR-TB phải được thực hiện tại cơ sở có thể kiểm tra độ nhạy: không thể điều trị những bệnh nhân nếu không có thông tin này. Nếu điều trị một bệnh nhân nghi ngờ có bệnh lao đa kháng thuốc, bệnh nhân nên được bắt đầu trên SHREZ + MXF + cycloserine trong khi chờ kết quả thử nghiệm độ nhạy trong phòng thí nghiệm. Một thăm dò gen cho rpoB có sẵn ở một số quốc gia và đây là dấu hiệu hữu ích cho lao kháng nguyên, vì kháng RMP bị cô lập là rất hiếm (trừ khi bệnh nhân có tiền sử được điều trị bằng rifampicin đơn thuần). Nếu kết quả của một thăm dò gen (rpoB) được biết là dương tính, thì nó là hợp lý để bỏ qua RMP và sử dụng SHEZ + MXF + cycloserine. Lý do để duy trì bệnh nhân trên INH mặc dù nghi ngờ MDR-TB là INH rất mạnh trong điều trị bệnh lao rằng nó là ngu ngốc để bỏ qua nó cho đến khi có bằng chứng vi sinh vật rằng nó không hiệu quả. Ngoài ra còn có các đầu dò cho kháng isoniazid (katG   và mabA-inhA), nhưng chúng ít phổ biến hơn. Khi sự nhạy cảm được biết và phân lập được xác định là kháng với cả INH và RMP, nên chọn năm loại thuốc theo thứ tự sau (dựa trên độ nhạy đã biết):
+
+Một aminoglycoside (ví dụ, amikacin, kanamycin) hoặc kháng sinh polypeptide (ví dụ, capreomycin)
+PZA
+EMB
+Một fluoroquinolones: moxifloxacin được ưu tiên (ciprofloxacin không còn được sử dụng);
+Rifabutin
+Cycloserine
+Một thioamide: prothionamide hoặc ethionamide
+PAS
+Một macrolide: ví dụ, clarithromycin
+Linezolid
+INH liều cao (nếu kháng thấp)
+Interferon-γ  
+Thioridazine
+Meropenem và acid clavulanic  ]
+Thuốc được đặt gần đầu danh sách hơn vì chúng hiệu quả hơn và ít độc hơn; thuốc được đặt ở gần dưới cùng của danh sách vì chúng ít hiệu quả hoặc độc hại hơn, hoặc khó có được hơn. Sự đề kháng với một loại thuốc trong lớp thường có nghĩa là đề kháng với tất cả các loại thuốc trong lớp đó, nhưng một ngoại lệ đáng chú ý là rifabutin: kháng rifampicin không phải lúc nào cũng có nghĩa là kháng rifabutin và phòng thí nghiệm nên được yêu cầu kiểm tra. Chỉ có thể sử dụng một loại thuốc trong mỗi loại thuốc. Nếu khó tìm ra năm loại thuốc để điều trị thì bác sĩ có thể yêu cầu tìm kháng thuốc INH ở mức độ cao. Nếu chủng chỉ có kháng INH ở mức độ thấp (kháng với 0,2 mg / l INH, nhưng nhạy cảm ở mức 1,0 mg /l INH), thì liều cao INH có thể được sử dụng như một phần của phác đồ. Khi đếm thuốc, PZA và interferon được tính bằng không; đó là để nói, khi thêm PZA vào một chế độ thuốc bốn, bạn vẫn phải chọn một loại thuốc khác để làm cho năm. Không thể sử dụng nhiều hơn một loại thuốc tiêm (STM, capreomycin hoặc amikacin), vì tác dụng độc hại của các thuốc này là phụ gia: nếu có thể, aminoglycoside nên được dùng hàng ngày trong tối thiểu ba tháng (và có lẽ ba lần mỗi tuần sau đó). Ciprofloxacin không nên được sử dụng trong điều trị lao nếu các fluoroquinolones khác có sẵn. Không có phác đồ liên tục nào được xác nhận để sử dụng trong bệnh lao MDR, nhưng kinh nghiệm lâm sàng là cho uống thuốc tiêm trong năm ngày một tuần (vì không thể cho thuốc vào cuối tuần) dường như không dẫn đến kết quả kém. Liệu pháp quan sát trực tiếp chắc chắn giúp cải thiện kết cục trong lao kháng thuốc và phải được coi là một phần không thể thiếu trong điều trị lao kháng thuốc. Phải đáp ứng với điều trị bằng cấy ghép đờm lặp đi lặp lại (hàng tháng nếu có thể). Điều trị MDR-TB phải được cho tối thiểu là 18 tháng và không thể dừng lại cho đến khi bệnh nhân đã âm tính với xét nghiệm đờm trong tối thiểu chín tháng. Không phải là bất thường nếu bệnh nhân lao đa kháng phải điều trị trong hai năm hoặc hơn. Bệnh nhân có MDR-TB nên được phân lập trong phòng áp lực âm, nếu có thể. Bệnh nhân có MDR-TB không nên ở trên cùng một bệnh viện như bệnh nhân ức chế miễn dịch (bệnh nhân nhiễm HIV, hoặc bệnh nhân dùng thuốc ức chế miễn dịch). Việc theo dõi cẩn thận việc tuân thủ điều trị là rất quan trọng đối với việc quản lý MDR-TB (và một số bác sĩ nhấn mạnh vào việc nhập viện nếu chỉ vì lý do này). Một số bác sĩ sẽ nhấn mạnh rằng những bệnh nhân này bị cô lập cho đến khi đờm của họ bị âm tính (có thể mất nhiều tháng, hoặc thậm chí nhiều năm). Giữ các bệnh nhân này trong bệnh viện trong nhiều tuần (hoặc vài tháng) có thể là một điều không thể thực hiện và quyết định cuối cùng phụ thuộc vào phán quyết lâm sàng của bác sĩ điều trị bệnh nhân đó. Một số chất bổ sung có thể hữu ích như thuốc bổ trong điều trị bệnh lao, nhưng với mục đích đếm thuốc cho lao đa kháng thuốc, chúng được tính bằng không (nếu bạn đã có bốn loại thuốc trong phác đồ, có thể bổ sung arginine hoặc vitamin D hoặc cả hai, nhưng bạn vẫn cần một loại thuốc khác).
+
+Arginine, một số bằng chứng lâm sàng  (đậu phộng là một nguồn tốt)
+Vitamin D, (một số bằng chứng in vitro và xem Vitamin D và điều trị bệnh lao)
+Các loại thuốc được liệt kê dưới đây đã được sử dụng trong tuyệt vọng và nó là không chắc chắn cho dù chúng có hiệu quả. Chúng được sử dụng khi không thể tìm thấy năm loại thuốc từ danh sách trên.
+
+Imipenem 
+Co-amoxiclav 
+Clofazimine 
+Prochlorperazine ]]
+Metronidazol 
+Vào ngày 28 tháng 12 năm 2012, Cơ quan Quản lý Thực Phẩm và Dược Phẩm Hoa Kỳ (FDA) đã phê chuẩn bedaquiline (được Sirturo bởi Johnson & Johnson bán) để điều trị bệnh lao kháng đa thuốc, cách điều trị mới đầu tiên trong 40 năm. Sirturo được sử dụng trong liệu pháp phối hợp cho những bệnh nhân thất bại điều trị tiêu chuẩn và không có lựa chọn nào khác. Sirturo là một chất ức chế adenosine triphosphatesynthase (ATP synthase). Thuốc tiếp theo là các hợp chất thử nghiệm không có sẵn trên thị trường, nhưng có thể thu được từ nhà sản xuất như một phần của thử nghiệm lâm sàng hoặc trên cơ sở từ thiện. Hiệu quả và sự an toàn của chúng chưa được biết:
+
+Pretomanid  (do Novartis sản xuất, hợp tác với TB Alliance ))
+Có bằng chứng ngày càng tăng về vai trò của phẫu thuật  cắt bỏ dây thần kinh hoặc cắt bỏ phổi) trong điều trị lao MDR, mặc dù điều này nên được thực hiện sớm hay muộn vẫn chưa được xác định rõ ràng.
+
+
+== Thất bại trong điều trị lao ==
+Bệnh nhân thất bại điều trị phải được phân biệt với bệnh nhân tái phát. Bệnh nhân đáp ứng với điều trị và xuất hiện để được chữa khỏi sau khi hoàn thành một quá trình điều trị lao không được phân loại là thất bại điều trị, nhưng như tái phát và được thảo luận trong một phần riêng biệt dưới đây. Bệnh nhân được cho là đã điều trị thất bại nếu họ
+
+Không đáp ứng với điều trị (ho và đờm sản xuất kéo dài trong suốt toàn bộ điều trị), hoặc
+Chỉ trải qua một đáp ứng thoáng qua để điều trị (bệnh nhân trở nên tốt hơn lúc đầu, nhưng sau đó trở nên tồi tệ hơn một lần nữa, tất cả trong khi điều trị). Rất hiếm khi bệnh nhân không đáp ứng với điều trị lao ở tất cả (ngay cả thoáng qua), bởi vì điều này ngụ ý sự đề kháng ở đường cơ sở cho tất cả các loại thuốc trong phác đồ.
+Bệnh nhân không nhận được bất kỳ phản ứng nào trong khi điều trị trước hết nên được đặt câu hỏi rất chặt chẽ về việc họ có đang dùng thuốc hay không và thậm chí có thể được nhập viện để được theo dõi điều trị. Có thể lấy mẫu máu hoặc nước tiểu để kiểm tra sự kém hấp thuthuốc lao. Nếu nó có thể được chứng minh rằng chúng hoàn toàn phù hợp với thuốc của chúng, thì xác suất chúng có chẩn đoán khác (có lẽ ngoài chẩn đoán lao) là rất cao. Những bệnh nhân này cần được chẩn đoán cẩn thận và các mẫu xét nghiệm thu được về xét nghiệm độ nhạy và nuôi cấy lao. Bệnh nhân trở nên tốt hơn và sau đó trở nên tồi tệ hơn nữa cũng nên đặt câu hỏi rất chặt chẽ về tuân thủ điều trị. Nếu sự tuân thủ được xác nhận thì họ phải được điều tra về lao kháng thuốc (kể cả lao kháng lao), ngay cả khi đã lấy mẫu vi sinh vật trước khi bắt đầu điều trị. Các lỗi theo toa hoặc pha chế sẽ chiếm tỷ lệ bệnh nhân không đáp ứng với điều trị. Các khiếm khuyết miễn dịch là nguyên nhân hiếm hoi của sự không đáp ứng. Trong một tỷ lệ nhỏ bệnh nhân, thất bại điều trị là một sự phản ánh của biến thể sinh học cực đoan và không có nguyên nhân được tìm thấy.
+
+
+== Điều trị lao tái phát ==
+Bệnh nhân được cho là tái phát nếu họ cải thiện trong khi điều trị, nhưng lại bị bệnh sau khi ngừng điều trị. Bệnh nhân chỉ trải qua một sự cải thiện thoáng qua trong khi điều trị, hoặc những người không bao giờ đáp ứng với điều trị được cho là đã thất bại điều trị và được thảo luận ở trên. Có một tỷ lệ tái phát nhỏ liên quan đến tất cả các phác đồ điều trị, ngay cả khi điều trị đã được thực hiện một cách tôn giáo với tuân thủ 100% (phác đồ chuẩn 2HREZ / 4HR có tỷ lệ tái phát 2 đến 3% trong điều kiện thử nghiệm). Phần lớn các tái phát xảy ra trong vòng 6 tháng sau khi kết thúc điều trị. Bệnh nhân có nhiều khả năng tái phát là những người dùng thuốc của họ trong một thời trang không đáng tin cậy và bất thường. Xác suất kháng thuốc cao hơn ở những bệnh nhân tái phát và mọi nỗ lực phải được thực hiện để có được một mẫu vật có thể được nuôi cấy cho các nhạy cảm. Điều đó nói rằng, hầu hết bệnh nhân tái phát làm như vậy với một chủng hoàn toàn nhạy cảm và có thể là những bệnh nhân này đã không tái phát, nhưng thay vào đó đã được tái nhiễm; những bệnh nhân này có thể được điều trị lại với cùng một chế độ như trước đây (không cần thêm thuốc vào phác đồ và thời gian không cần phải lâu hơn). WHO khuyến nghị phác đồ 2SHREZ / 6HRE khi không có vi sinh vật (phần lớn các quốc gia nơi bệnh lao có tính lưu hành cao). Phác đồ này được thiết kế để cung cấp điều trị tối ưu cho bệnh lao hoàn toàn nhạy cảm (phát hiện phổ biến nhất ở những bệnh nhân tái phát) cũng như đề cập đến khả năng kháng lao INH (dạng kháng thuốc phổ biến nhất). Vì nguy cơ tái phát suốt đời, tất cả bệnh nhân nên được cảnh báo về các triệu chứng của bệnh lao tái phát sau khi kết thúc điều trị và được hướng dẫn nghiêm ngặt để quay lại bác sĩ nếu các triệu chứng tái phát.
+
+
+== Các yếu tố nguy cơ gây bệnh lao ==
+Có một số yếu tố nguy cơ gây nhiễm lao; trên toàn thế giới, quan trọng nhất trong số này là HIV. Đồng nhiễm HIV là một vấn đề đặc biệt ở châu Phi cận Sahara, do tỷ lệ nhiễm HIV cao ở những nước này.  Hút thuốc hơn 20 điếu thuốc mỗi ngày làm tăng nguy cơ mắc bệnh lao lên gấp hai đến bốn lần [3] trong khi silicosis làm tăng nguy cơ mắc bệnh gấp 30 lần.  Đái tháo đường cũng là một yếu tố nguy cơ quan trọng đang gia tăng ở các nước đang phát triển. Các tình trạng bệnh khác làm tăng nguy cơ phát triển bệnh lao là ung thư lympho Hodgkin, bệnh thận giai đoạn cuối, bệnh phổi mãn, suy dinh dưỡng và nghiện rượu. Di truyền của một người cũng đóng một vai trò.
+
+
+=== Bệnh bụi phổi silic ===
+Những người mắc bệnh silic có nguy cơ mắc bệnh lao cao gấp 30 lần. Các hạt Silica kích thích hệ hô hấp, gây ra các đáp ứng miễn dịch như thực bào, dẫn đến sự tích tụ bạch cầu ở mạch bạch huyết cao.. Có lẽ đây là sự can thiệp và sự tắc nghẽn của chức năng đại thực bào làm tăng nguy cơ mắc bệnh lao. Những người bị suy thận mãn tính và chạy thận nhân tạo có nguy cơ gia tăng. Cho rằng silicosis làm tăng đáng kể nguy cơ bệnh lao, nhiều nghiên cứu về tác động của các chất gây ô nhiễm không khí trong nhà hoặc ngoài trời khác nhau đối với căn bệnh này là cần thiết. Một số nguồn silica trong nhà có thể bao gồm sơn, bê tông và xi măng Portland. Silica tinh thể được tìm thấy trong bê tông, khối xây, đá sa thạch, đá, sơn và các chất mài mòn khác. Cắt, vỡ, nghiền, khoan, mài hoặc mài mòn mài mòn của các vật liệu này có thể tạo ra bụi silic mịn. Nó cũng có thể trong đất, vữa, thạch cao, và bệnh zona. Một số loại thuốc, bao gồm thuốc viêm khớp dạng thấp hoạt động bằng cách ngăn chặn yếu tố hoại tử khối u (một cytokinegây viêm), làm tăng nguy cơ kích hoạt nhiễm trùng tiềm ẩn do tầm quan trọng của cytokine này trong việc phòng chống miễn dịch lao.
+
+
+=== HIV ===
+HIV là một yếu tố nguy cơ chính gây bệnh lao. Nguy cơ phát triển bệnh lao được ước tính cao hơn từ 20-37 lần ở những người nhiễm HIV so với những người không nhiễm HIV. Bệnh lao là nguyên nhân hàng đầu gây bệnh và tử vong ở những người sống chung với HIV.  Năm 2009, đã có 9,4 triệu trường hợp lao mới, trong đó 1,2 (13%) triệu người nằm trong số những người sống chung với HIV. Trong số 1,7 triệu người chết vì bệnh lao, 400.000 (24%) sống chung với HIV.
+
+
+=== Dinh dưỡng ===
+Trọng lượng cơ thể thấp có liên quan đến nguy cơ mắc bệnh lao. Một chỉ số khối cơ thể (BMI) dưới 18,5 tăng rủi ro bằng 2-3 lần. Sự gia tăng trọng lượng cơ thể làm giảm nguy cơ. Những người bị đái tháo đường có nguy cơ mắc bệnh lao cao hơn, và họ có đáp ứng kém hơn trong điều trị, có thể do hấp thụ thuốc kém hơn. Các tình trạng lâm sàng khác có liên quan đến lao hoạt động bao gồm cắt dạ dày kèm theo giảm cân và kém hấp thu, bỏ đoạn hổng tràng, thận và ghép tim, ung thư biểu mô đầu hoặc cổ và các ung thư khác (ví dụ ung thư phổi, ung thư hạch và bệnh bạch cầu). Chế độ ăn uống cũng có thể điều chỉnh rủi ro. Ví dụ, trong số những người nhập cư ở London từ tiểu lục địa Ấn Độ, người theo đạo Hindu  đã được tìm thấy có nguy cơ mắc bệnh lao 8,5 lần, so với những người Hồi giáo người ăn thịt và cá hàng ngày. Mặc dù một liên kết nhân quả chưa được chứng minh bởi dữ liệu này, tăng nguy cơ này có thể được gây ra bởi vi chất dinh dưỡng thiếu hụt: có thể là sắt, vitamin B12 hoặc vitamin D. Nghiên cứu sâu hơn đã cung cấp thêm bằng chứng về mối liên hệ giữa vitamin Thiếu hụt D và tăng nguy cơ mắc bệnh lao.  Trên toàn cầu, suy dinh dưỡng nghiêm trọng phổ biến ở các khu vực của thế giới đang phát triển gây ra một sự gia tăng lớn trong nguy cơ phát triển bệnh lao hoạt động, do tác động gây hại của nó đối với hệ miễn dịch. Cùng với tình trạng quá đông, dinh dưỡng kém có thể góp phần vào mối liên hệ chặt chẽ giữa bệnh lao và nghèo đói.
+
+
+=== Đám đông ===
+Các tù nhân đặc biệt dễ bị các bệnh truyền nhiễm như HIV/AIDS và lao. Cơ sở giam giữ cung cấp các điều kiện cho phép bệnh lao lây lan nhanh chóng do tình trạng quá đông, dinh dưỡng kém và thiếu các dịch vụ y tế. Sự bùng phát bệnh lao đã được báo cáo trong các nhà tù và nơi giam giữ trên toàn thế giới, và đặc biệt liên quan đến Hoa Kỳ, nơi giam giữ một tỷ lệ dân số lớn hơn bất kỳ quốc gia nào khác. Tỷ lệ lao trong các trại giam cao hơn nhiều so với dân số nói chung - ở một số nước cao gấp 40 lần.
+
+
+=== Đái tháo đường ===
+Cũng có nguy cơ nhiễm lao cao gấp 3 lần đối với bệnh nhân đái tháo đường. Các mối liên quan cao hơn đã được tìm thấy giữa đái tháo đường và lao trong các quần thể nghiên cứu từ Trung Mỹ, Châu Âu và Châu Á. Các nước đang phát triển có tăng trưởng kinh tế theo cấp số nhân như Ấn Độ và Trung Quốc chiếm 40% trường hợp lao trong năm 2010 và được ước tính tăng 69% ở người đái tháo đường là mối lo ngại về gánh nặng bệnh tật giữa bệnh đái tháo đường và bệnh lao. Mối tương quan giữa đái tháo đường và lao liên quan đến sức khỏe cộng đồng khi nó kết hợp các bệnh truyền nhiễm và không truyền nhiễm.
+
+
+=== Khác ===
+Các điều kiện khác làm tăng nguy cơ bao gồm việc chia sẻ kim tiêm giữa người sử dụng ma túy, nhiễm lao gần đây hoặc tiền sử lao không được điều trị, gợi ý X-quang ngực trước đó, cho thấy tổn thương và nốt sần, điều trị corticosteroid kéo dài và liệu pháp ức chế miễn dịch khác, bị tổn hại hệ thống miễn dịch (30-40% số người bị AIDS trên toàn thế giới cũng có TB), huyết học và bệnh lưới nội mô, chẳng hạn như bệnh bạch cầu và bệnh Hodgkin, bệnh thận giai đoạn cuối, bỏ qua đoạn hỏng tràng, mãn tính kém hấp thu hội chứng, thiếu hụt vitamin D, và trọng lượng cơ thể thấp. and low body weight.
+
+
+=== Di truyền ===
+Ngoài ra còn có tính nhạy cảm về di truyền. ref name="Möller 71–83"/>
+
+
+==== Bạo lực ====
+Nhà nhân chủng học Paul Farmer cho rằng không đủ để xem xét tỷ lệ mắc các yếu tố nguy cơ bệnh lao hoàn toàn trong các thông số về nguyên nhân gây bệnh sinh học. Trong khi mối liên hệ giữa bệnh lao và HIV, silicosis, dinh dưỡng vv. vẫn còn ít giải thích về cách một số nhóm nhất định trở nên có nguy cơ mắc bệnh lao hơn thông qua các yếu tố này. Các bài giảng về bạo lực khám phá các cấu trúc xã hội, kinh tế, tôn giáo và pháp lý độc đoán đã đặt một cách có hệ thống các nhóm nhất định trong suốt lịch sử với nguy cơ mắc bệnh cao hơn đáng kể, đặc biệt trong trường hợp HIV và bệnh lao ở Haiti. Cơ quan cá nhân bị hạn chế và bất bình đẳng bất thường liên tục tồn tại và bình thường hóa thông qua các lực lượng cấu trúc chiếm ưu thế này dẫn đến một hiện thân về nguy cơ lây nhiễm giữa các nhóm bị thiệt thòi và bị áp bức trong phạm vi mà rủi ro đó xuất hiện vốn có và không thể tránh khỏi. Trong trường hợp của Haiti, tỷ lệ mắc bệnh lao cao và phơi nhiễm ban đầu với HIV có thể tương quan trực tiếp với các câu chuyện chính trị và lịch sử đang khai thác đang diễn ra của chủ nghĩa thực dân.
+
+
+== Tham khảo ==

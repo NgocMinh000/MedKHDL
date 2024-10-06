@@ -1,0 +1,42 @@
+Lympho bào hay tế bào lympho (tiếng Anh: lymphocyte) là một loại bạch cầu ở hệ miễn dịch của đa số động vật có xương sống. Lympho bào gồm:
+tế bào T trong miễn dịch thu được gây độc tế bào và miễn dịch qua trung gian tế bào,
+tế bào B trong miễn dịch dịch thể, do kháng thể điều khiển,
+tế bào lympho bẩm sinh (ILCs) (tế bào "giống tế bào T bẩm sinh" - innate T cell-like) tham gia vào miễn dịch lớp màng nhày và cân bằng nội môi,
+tế bào NK (natural killer) là một phân nhóm quan trọng, có chức năng miễn dịch tự nhiên qua trung gian tế bào, gây độc tế bào.
+Lympho bào là loại tế bào chính ở bạch huyết (lymph), nhờ đó có tên là "lymphocyte" (với cyte nghĩa là tế bào). Lympho bào chiếm từ 18% đến 42% số lượng bạch cầu lưu thông trong hệ tuần hoàn.
+
+
+== Loại hình ==
+
+Ba loại lympho bào chính là tế bào T, tế bào B và tế bào khử bào tự nhiên (NK). Lympho bào có thể được nhận diện qua nhân của chúng.
+
+
+=== Tế bào B và tế bào T ===
+Tế bào T (tế bào tuyến ức, chữ T trong từ tiếng Anh "Thymus cells") và tế bào B (tế bào tủy xương, hoặc tế bào túi Fabricius, tương ứng với "Bone marrow cells" hoặc "Bursa-derived cells") là những thành phần tế bào chính của phản ứng miễn dịch thu được. Tế bào T tham gia vào miễn dịch tế bào trung gian, còn tế bào B lại chịu trách nhiệm chính cho miễn dịch dịch thể (liên quan tới kháng thể). Chức năng của tế bào T và tế bào là nhận diện các kháng nguyên "không riêng" cụ thể trong quá trình gọi là trình diện kháng nguyên. Một khi xác định được kẻ xâm lấn, nhóm tế bào trên tạo ra phản ứng cụ thể được điều chỉnh lên mức tối đa để loại bỏ các mầm bệnh hoặc tế bào bị nhiễm bệnh cụ thể. Tế bào B phản ứng với mầm bệnh bằng cách tiết ra một hàm lượng lớn kháng thể, sau đó chúng làm vô hiệu các vật thể lạ như vi khuẩn và virus. Nhằm phản ứng với các mầm bệnh, một số tế bào T (được gọi là Tế bào T hỗ trợ, T CD4) tiết ra cytokine tác động trực tiếp lên phản ứng miễn dịch, còn những tế bào T khác (được gọi là tế bào T độc sát tế bào, T CD8) tiết ra hạt chứa enzyme mạnh, phá hủy các tế bào bị nhiễm bệnh. Sau khi được kích hoạt, tế bào B và tế bào T để lại tế bào nhớ, tế bào này "ghi nhớ" các kháng nguyên mà chúng đã tiếp xúc. Trong suốt vòng đời của động vật, những tế bào nhớ này sẽ "ghi nhớ" từng mầm bệnh gặp phải và có thể sinh ra phản ứng mạnh và nhanh chóng nếu tái phát hiện cùng mầm bệnh; đây được xem là miễn dịch thu được.
+
+
+=== Tế bào NK ===
+Tế bào NK (hay tế bào tiêu diệt tự nhiên) là một phần của miễn dịch tự nhiên (hay còn gọi là miễn dịch bẩm sinh, miễn dịch không đặc hiệu), đóng vai trò quan trọng trong việc bảo vệ vật chủ khỏi các khối u và tế bào bị nhiễm virus. Tế bào NK điều chỉnh chức năng của những tế bào khác (kể cả đại thực bào và tế bào T) và phân biệt tế bào bị nhiễm bệnh và khối u so với tế bào không bị nhiễm và bình thường bằng cách nhận diện những thay đổi của phân tử bề mặt gọi là MHC (phức hợp phù hợp tổ chức chính) loại I. Tế bào NK được kích hoạt nhằm phản ứng với một họ cytokine gọi là interferon. Tế bào NK được kích hoạt tiết ra hạt nhỏ có độc để tiêu diệt các tế bào bị biến đổi. Chúng được gọi là "tế bào tiêu diệt tự nhiên" (natural killer cells) vì chúng không cần kích hoạt trước để tiêu diệt tế bào thiếu MHC loại I.
+
+
+=== Lympho bào biểu hiện kép – tế bào X ===
+Lympho bào X được cho là loại tế bào biểu hiện cả thụ thể tế bào B và thụ thể tế bào T, dẫn tới giả thuyết liên quan đến tiểu đường loại một. Có hai nghiên cứu tỏ ra nghi ngờ về sự hiện hiện của loại tế bào này. Tuy nhiên, những tác giả của bài viết gốc chỉ ra rằng thực tế hai nghiên cứu đã nhận diện được tế bào X bằng kính hiển vi hình ảnh và FACS. Cần có những nghiên cứu thêm để xác định bản chất và đặc điểm của tế bào X (còn gọi là biểu hiện kép).
+
+
+== Phát triển ==
+
+Tế bào gốc của lớp thú biệt hóa thành một số loại tế bào máu bên trong tủy xương. Quá trình này gọi là tạo máu. Trong quá trình này, mọi lympho bào có nguồn gốc từ một tổ tiên lympho chung trước khi biệt hóa thành các loại lympho bào riêng. Sự biệt hóa của lympho bào diễn ra ở nhiều đường theo kiểu phân cấp cũng như theo kiểu tạo hình hơn. Sự hình thành lympho bào được gọi là tạo lympho bào. Ở lớp thú, tế bào B trưởng thành trong tủy xương, nằm ở phần lõi của đa số xương. Ở chim, tế bào B trưởng thành trong túi Fabricius, cơ quan lympho nơi chúng lần đầu được Chang và Glick phát hiện, (B là viết tắt của bursa) thay vì có nguồn gốc từ tủy xương như nhiều người lầm tưởng. Tế bào T chuyển vào dòng máu và trưởng thành ở một cơ quan chính riêng biệt, gọi là tuyến ức. Sau khi trưởng thành, lympho bào thâm nhập vào tuần hoàn và cơ quan bạch huyết ngoại biên (ví dụ lách và hạch bạch huyết), mà tại đây chúng đi khảo sát các mầm bệnh và/hoặc tế bào khối u xâm nhập.
+Lympho bào tham gia vào miễn dịch thu được (ví dụ tế bào B và tế bào T) biệt hóa hơn nữa sau khi tiếp xúc với kháng nguyên; chúng tạo nên lympho bào nhớ và thực hiện. Lympho bào thực hiện có chức năng tiêu diệt kháng nguyên, bất kể là bằng cách giải phóng kháng thể (trường hợp tế bào B), hạt gây độc (tế bào T gây độc) hay bằng cách gửi tín hiệu đến các tế bào của hệ miễn dịch (tế bào T hỗ trợ). Tế bào T nhớ vẫn nằm ở mô và lưu thông ngoại biên trong mộ thời gian dài để sẵn sàng ứng với cùng kháng nguyên lúc tiếp xúc trong tương lai; chúng tồn tại từ hàng tuần đến hàng năm, rất lâu so với các bạch cầu khác.
+
+
+== Ghi chú ==
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+
+Ảnh mô học: 01701ooa – Hệ thống học tập môn mô học tại trường Đại học Boston
+“Cytotoxic T Lymphocyte”. Cell Centered Database.
+“Overcoming the Rejection Factor: MUSC's First Organ Transplant”. Waring Historical Library.

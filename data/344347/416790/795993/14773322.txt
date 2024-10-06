@@ -1,0 +1,36 @@
+Trong nghiên cứu bệnh dịch, tỷ lệ tấn công là thước đo thống kê sinh vật học về tần suất mắc bệnh, hay tốc độ lây nhiễm, trong một quần thể có nguy cơ. Tỷ lệ này được sử dụng trong dự đoán giả thuyết và trong suốt quá trình dịch bệnh đang bùng phát.  Một quần thể có nguy cơ được định nghĩa là một quần thể không có khả năng miễn dịch với mầm bệnh tấn công có thể là mầm bệnh mới hoặc mầm bệnh được xác định. Nó được dùng để dự báo số lượng người mắc ước chừng trong một trận dịch. Tỷ lệ tấn công có vai trò hỗ trợ tròn việc sắp xếp các nguồn lực để cung cấp dịch vụ chăm sóc y tế cũng như chế tạo vắc-xin và/hoặc thuốc kháng vi-rút và diệt khuẩn.  Tỷ lệ được tính bằng cách lấy số trường hợp mới mắc có nguy cơ chia cho số người có nguy cơ trong quần thể.
+
+  
+    
+      
+        
+          
+            
+              số trường hợp mới mắc trong quần thể có nguy cơ
+            
+            
+              số người có nguy cơ trong quần thể
+            
+          
+        
+        =
+        
+          
+            Tỷ lệ tấn công
+          
+        
+      
+    
+    {\displaystyle {\frac {\mbox{số trường hợp mới mắc trong quần thể có nguy cơ}}{\mbox{số người có nguy cơ trong quần thể}}}={\mbox{Tỷ lệ tấn công}}}
+  
+
+Xác định tỷ lệ kể từ khi vụ dịch bắt đầu bùng phát cho đến khi kết thúc. Thuật ngữ có lẽ không nên được mô tả như một tỷ lệ bởi do chiều hướng thời gian của nó là không biết chắc.  Mặc dù thời gian kéo dài của một dịch bệnh có thể được tiên đoán trước với các biến số khác như can thiệp sớm, nhưng không thể được hiểu theo như thuật ngữ tuyệt đối. Trong dịch tễ học, một tỷ lệ đòi hỏi thay đổi đơn vị xác định (trong trường hợp này là thời gian) theo tỷ lệ ứng dụng.  Với lý do này, nó thường được gọi là tỷ lệ tấn công.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+The International Biometric Society
+The Collection of Biostatistics Research Archive
+Guide to Biostatistics (MedPageToday.com) Lưu trữ 2012-05-22 tại Wayback Machine

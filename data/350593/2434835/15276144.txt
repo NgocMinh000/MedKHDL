@@ -1,0 +1,46 @@
+Panobinostat (tên thương mại Farydak  FAIR -ə-dak) là một loại thuốc của Novartis để điều trị các bệnh ung thư khác nhau. Nó là một axit hydroxamic  và hoạt động như một chất ức chế histone deacetylase không chọn lọc (chất ức chế pan-HDAC).
+Vào ngày 23 tháng 2 năm 2015, nó đã nhận được sự chấp thuận nhanh chóng của FDA đối với việc sử dụng ở những bệnh nhân bị đa u tủy, và vào ngày 28 tháng 8 năm 2015, nó đã được Cơ quan Dược phẩm Châu Âu chấp thuận cho sử dụng tương tự.
+
+
+== Sử dụng trong y tế ==
+Panobin điều trị được sử dụng kết hợp với thuốc chống ung thư bortezomib và corticoid dexamethasone để điều trị đa u tủy ở người lớn đã điều trị ít nhất hai lần điều trị trước đó, bao gồm bortezomib và thuốc điều hòa miễn dịch.
+
+
+== Chống chỉ định ==
+Thuốc chống chỉ định ở các bà mẹ cho con bú. Để đánh giá từ các thí nghiệm trên động vật, có nguy cơ cho thai nhi nếu được sử dụng trong khi mang thai; Tuy nhiên, lợi ích của panobinuler có thể lớn hơn nguy cơ này.
+
+
+== Tác dụng phụ ==
+Các tác dụng phụ thường gặp (ở hơn 10% bệnh nhân) bao gồm số lượng tế bào máu thấp (giảm ba dòng, giảm tiểu cầu, thiếu máu, giảm bạch cầu, giảm bạch cầu trung tính, giảm bạch cầu lympho), nhiễm trùng đường thở, cũng như các phản ứng không đặc hiệu như mệt mỏi, tiêu chảy, buồn nôn, nhức đầu và khó ngủ 
+
+
+== Dược lý ==
+
+
+=== Cơ chế hoạt động ===
+Panobin điều hòa ức chế nhiều enzyme deacetylase, một cơ chế dẫn đến quá trình tự hủy của các tế bào ác tính thông qua nhiều con đường.
+
+
+=== Dược động học ===
+Panobin điều hòa được hấp thu nhanh chóng và gần như hoàn toàn từ ruột, nhưng có tác dụng đầu tiên đáng kể, dẫn đến tổng sinh khả dụng là 21%. Nồng độ huyết tương cao nhất ở bệnh nhân ung thư tiến triển đạt được sau hai giờ. Liên kết với protein huyết tương khoảng 90%. Chất này được chuyển hóa chủ yếu thông qua quá trình oxy hóa bởi enzyme gan CYP3A4 và ở một mức độ nhỏ bởi CYP2D6 và CYP2C19. Nó cũng bị giảm, thủy phân và glucuronid hóa bởi các enzyme không xác định. Tất cả các chất chuyển hóa dường như không hoạt động.
+Thời gian bán hủy sinh học được ước tính là 37 giờ. 29-51% được bài tiết qua nước tiểu và 44-77% qua phân.
+
+
+== Nghiên cứu ==
+
+
+=== Các thử nghiệm lâm sàng ===
+Tính đến  tháng 8 năm 2012, Nó đang được thử nghiệm chống lại Lymphoma Hodgkin, u da tế bào lympho T (CTCL)  và các loại khác của bệnh ác tính ở giai đoạn III thử nghiệm lâm sàng, chống lại hội chứng myelodysplastic, ung thư vú và ung thư tuyến tiền liệt trong các thử nghiệm giai đoạn II, và chống lại bệnh bạch cầu myelomonocytic mãn tính (CMML) trong một thử nghiệm giai đoạn I.
+Tính đến  năm 2014   panobin điều trị đang được sử dụng trong một thử nghiệm lâm sàng giai đoạn I / II nhằm mục đích chữa khỏi AIDS ở những bệnh nhân đang điều trị bằng thuốc kháng vi-rút hoạt tính cao (HAART). Trong kỹ thuật này, panobinuler được sử dụng để đưa DNA HIV ra khỏi DNA của bệnh nhân, với hy vọng rằng hệ thống miễn dịch của bệnh nhân kết hợp với HAART sẽ phá hủy nó.
+Tính đến  năm 2016   panobin điều trị đang được nghiên cứu trong một thử nghiệm giai đoạn II cho u lympho tế bào B lớn tái phát và khó chữa (DLBCL).
+
+
+=== Nghiên cứu tiền lâm sàng ===
+Panobin điều trị đã được tìm thấy để hành động hiệp đồng với sirolimus để tiêu diệt các tế bào ung thư tuyến tụy trong phòng thí nghiệm trong một nghiên cứu của Mayo Clinic. Trong nghiên cứu, các nhà điều tra phát hiện ra rằng sự kết hợp này đã phá hủy tới 65% tế bào khối u tụy nuôi cấy. Phát hiện này rất có ý nghĩa vì ba dòng tế bào được nghiên cứu đều chống lại tác động của hóa trị liệu - cũng như nhiều khối u tụy.
+Panobin điều hòa cũng đã được tìm thấy để tăng đáng kể trong ống nghiệm sự sống sót của mức protein tế bào thần kinh vận động (SMN) trong các tế bào của bệnh nhân bị teo cơ cột sống.
+Panobin điều hòa có thể nhắm mục tiêu có chọn lọc ba tế bào ung thư vú âm tính (TNBC) bằng cách gây ra hyperacetylation và bắt giữ chu kỳ tế bào tại điểm kiểm tra tổn thương DNA G2-M; đảo ngược một phần các thay đổi hình thái đặc trưng của tế bào ung thư vú.
+Panobin điều hòa, cùng với các chất ức chế HDAC khác, cũng đang được nghiên cứu về khả năng gây ra biểu hiện virus HIV-1 trong các tế bào bị nhiễm gần đây và phá vỡ độ trễ. Các tế bào nghỉ ngơi này không được hệ thống miễn dịch công nhận là chứa virus và không đáp ứng với thuốc kháng vi-rút.
+Một nghiên cứu năm 2015 cho thấy Panobin điều hòa có hiệu quả trong việc ngăn chặn sự phát triển tế bào u thần kinh đệm pontine lan tỏa trong ống nghiệm và in vivo, xác định nó là một ứng cử viên thuốc tiềm năng.
+
+
+== Tham khảo ==

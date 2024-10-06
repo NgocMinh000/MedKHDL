@@ -1,0 +1,38 @@
+Trong dịch tễ học, hệ số lây nhiễm cơ bản (cũng được gọi là hệ số sinh sản cơ bản và tỷ lệ sinh sản cơ bản; được ký hiệu là 
+
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  
+) của sự nhiễm trùng là số trường hợp nhiễm bệnh mới dự kiến được tạo ra trực tiếp bởi một trường hợp nhiễm bệnh ban đầu. Định nghĩa này mô tả tình trạng không có cá nhân nào khác bị nhiễm bệnh hoặc không được chủng ngừa (ngừa tự nhiên hoặc thông qua tiêm chủng). Một số định nghĩa, chẳng hạn như của Bộ Y tế Úc, thêm vào đó là "không có sự can thiệp cố ý trong việc truyền bệnh". Hệ số sinh sản cơ bản không được nhầm lẫn với hệ số sinh sản hiệu quả R là số trường hợp được tạo ra trong trạng thái hiện tại của quần thể, không phải trong quần thể chưa bị nhiễm bệnh. Theo định nghĩa, R0 không thể được điều chỉnh thông qua các chiến dịch tiêm chủng.
+R0 không phải là hằng số sinh học đối với mầm bệnh vì nó cũng bị ảnh hưởng bởi các yếu tố khác như điều kiện môi trường và hành vi của người bị nhiễm bệnh. Hơn nữa, các giá trị R0 thường được ước tính từ các mô hình toán học và những giá trị ước tính phụ thuộc vào mô hình được sử dụng cũng như giá trị của những tham số khác. Do đó, các giá trị được đưa ra trong tài liệu chỉ có ý nghĩa trong bối cảnh nhất định và không nên sử dụng các giá trị lỗi thời hoặc so sánh các giá trị dựa trên các mô hình khác nhau. R0 không tự nó đưa ra ước tính về tốc độ lây nhiễm trong dân số.
+Các ứng dụng quan trọng nhất của R0 là xác định xem một bệnh truyền nhiễm mới nổi có thể lây lan trong cộng đồng hay không và xác định tỷ lệ dân cư nên được chủng ngừa thông qua tiêm chủng để loại trừ bệnh. Trong các mô hình lây nhiễm thường được sử dụng, khi R0 > 1, sự lây nhiễm sẽ có thể bắt đầu lan rộng trong cộng đồng, nhưng sẽ không xảy ra dịch bệnh nếu R0 < 1. Nói chung, giá trị của R0 càng lớn thì càng khó kiểm soát dịch. Đối với các mô hình đơn giản, tỷ lệ dân số cần được tiêm chủng hiệu quả (có nghĩa là không dễ bị lây nhiễm) để ngăn ngừa sự lây lan kéo dài của dịch bệnh phải lớn hơn 1   -  1/R0. Ngược lại, tỷ lệ dân số vẫn dễ bị nhiễm bệnh ở trạng thái cân bằng đặc hữu là 1/R 0.
+Số lượng sinh sản cơ bản bị ảnh hưởng bởi một số yếu tố bao gồm thời gian lây nhiễm của bệnh nhân bị ảnh hưởng, sự lây nhiễm của sinh vật và số người dễ mắc bệnh trong dân cư mà bệnh nhân bị ảnh hưởng tiếp xúc.
+
+
+== Lịch sử ==
+Nguồn gốc của khái niệm sinh sản cơ bản có thể bắt nguồn từ nghiên cứu của Ronald Ross, Alfred Lotka và những người khác, Ứng dụng đầu tiên của nó trong dịch tễ học là của George MacDonald vào năm 1952, người đã xây dựng mô hình dân số về sự lây lan của bệnh sốt rét. Trong nghiên cứu của mình, ông đã gọi nó là "số lượng tỷ lệ sinh sản cơ bản" và ký hiệu là Z0. Việc gọi số lượng là một tỷ lệ là điều khó hiểu, bởi vì nó có thể được hiểu là đơn vị thời gian trước số. Số biểu thức hoặc tỷ lệ ngày nay được sử dụng nhiều hơn.
+
+
+== Đọc thêm ==
+Heesterbeek, J.A.P.. (2002). A brief history of R0 and a recipe for its calculation. Acta Biotheoretica. 50. 189-204. 10.1023/A:1016599411804.
+Heffernan, Jane & Smith, R.J. & Wahl, L.M.. (2005). Perspectives on the Basic Reproductive Ratio. Journal of the Royal Society, Interface / the Royal Society. 2. 281-93. 10.1098/rsif.2005.0042.
+Driessche, P. & Watmough, James. (2008). Further Notes on the Basic Reproduction Number. 10.1007/978-3-540-78911-6_6.
+Jones, James Holland. “Notes on R0” (PDF). Truy cập ngày 6 tháng 11 năm 2018.
+
+
+== Ghi chú ==
+Các mô hình ngăn trong dịch tễ học mô tả động lực học bệnh theo thời gian trong một quần thể người nhạy cảm (S), nhiễm trùng (I) và người hồi phục (R) sử dụng mô hình SIR. Lưu ý rằng trong mô hình SIR, R (0) và R0 là các đại lượng khác nhau – trước đây mô tả số lượng được phục hồi tại t = 0 trong khi mô hình sau mô tả tỷ lệ giữa tần số của các tiếp điểm với tần số phục hồi.
+Theo Trung tâm kiểm soát và phòng ngừa dịch bệnh tỉnh Quảng Đông, "Số sinh sản hiệu quả (R) thường được sử dụng để mô tả khả năng truyền bệnh, được định nghĩa là số trường hợp trung bình được tạo ra bởi mỗi trường hợp nhiễm trùng. Trong trường hợp không có các biện pháp kiểm soát, R = R0, trong đó χ là tỷ lệ dân số dễ mắc bệnh." Ví dụ: số sinh sản hiệu quả cho 2019-nCoV là 2.9, trong khi R cho SARS là 1.7.
+
+
+== Tham khảo ==

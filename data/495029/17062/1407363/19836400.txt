@@ -1,0 +1,63 @@
+Ngày dự sinh hay ngày dự kiến sinh (tiếng Anh: estimated date of delivery (EDD), expected date of confinement, estimated due date hay due date) là một thuật ngữ mô tả ngày sinh con dự kiến của phụ nữ mang thai. Thai kỳ bình thường kéo dài từ 38 đến 42 tuần. Khoảng 4% trẻ được sinh đúng vào ngày dự sinh.
+
+
+== Phương pháp ước tính ==
+Việc ước tính ngày dự sinh về cơ bản tuân theo hai bước:
+
+Xác định thời điểm gốc của tuổi thai. Thời điểm bắt đầu là kỳ kinh nguyệt bình thường cuối cùng của người đó hoặc thời gian tương ứng được ước tính bằng phương pháp chính xác hơn (nếu có). Những phương pháp như vậy cộng thêm 14 ngày vào khoảng thời gian kể từ khi thụ tinh (có thể thực hiện được trong thụ tinh trong ống nghiệm) hoặc bằng siêu âm sản phụ khoa.
+Cộng tuổi thai ước tính lúc sinh vào thời điểm trên. Thời điểm sinh con trung bình xảy ra ở tuổi thai 280 ngày (40 tuần),do đó thường được sử dụng làm ước tính tiêu chuẩn cho từng lần mang thai. Tuy nhiên, thời lượng thay thế cũng như các phương pháp cá nhân hóa hơn cũng đã được đề xuất.
+
+
+=== Ước tính tuổi thai ===
+
+Theo Trường Cao đẳng Sản phụ khoa Hoa Kỳ, các phương pháp chính để tính tuổi thai là:
+
+Tính trực tiếp số ngày kể từ ngày bắt đầu kỳ kinh cuối cùng (KCC).
+Siêu âm sản phụ khoa sớm, so sánh kích thước của phôi hoặc bào thai với kích thước của người mang thai tham chiếu đã biết tuổi thai (chẳng hạn như được tính từ kỳ kinh nguyệt cuối cùng) và sử dụng tuổi thai trung bình của các phôi hoặc bào thai khác có cùng kích thước. Nếu tuổi thai được tính từ lần siêu âm sớm trái ngược với tuổi thai được tính trực tiếp từ kỳ kinh cuối cùng, thì đó vẫn là tuổi thai được tính từ siêu âm sớm cho phần còn lại của thai kỳ.
+Với trường hợp thụ tinh trong ống nghiệm, số ngày tính từ khi lấy noãn hoặc ủ đồng thời và cộng thêm 14 ngày.
+Siêu âm trong ba tháng đầu thường được coi là cách chính xác nhất để đo tuổi thai.
+
+
+=== Ước tính tuổi thai lúc sinh ===
+Thời điểm sinh con trung bình xảy ra ở tuổi thai 280 ngày (40 tuần), do đó nó thường được sử dụng làm ước tính tiêu chuẩn cho từng lần mang thai. Tuy nhiên, thời lượng thay thế cũng như các phương pháp cá nhân hóa hơn cũng đã được đề xuất. Trong mọi trường hợp, có sự khác biệt đáng kể giữa từng người mang thai.
+
+
+==== Chênh lệch ====
+
+Vì những khoảng thời gian mang thai này chỉ là ước tính trung bình nên sẽ hữu ích nếu coi thời gian sinh con là một khoảng ngày thay vì là một "ngày dự sinh" duy nhất. Giá trị trung vị chỉ đơn thuần là một hướng dẫn cho ngày mà một nửa số ca sinh sớm hơn và một nửa số ca sinh muộn hơn. Các ca sinh hiếm khi xảy ra vào ngày dự sinh, mà tập trung vào khoảng ngày dự sinh. Một nghiên cứu về các trường hợp sinh một con thành công ở Hoa Kỳ đã đưa ra kết quả rằng thời điểm sinh con có độ lệch chuẩn là 14 ngày khi tuổi thai được ước tính bằng siêu âm ba tháng đầu, và là 16 ngày khi ước tính trực tiếp theo kỳ kinh nguyệt cuối cùng.
+
+
+===== Quy tắc Naegele =====
+Quy tắc Naegele (tiếng Anh: Naegele's rule) là một cách tiêu chuẩn để tính ngày dự sinh khi giả sử tuổi thai là 280 ngày lúc sinh con. Quy tắc này ước tính ngày dự sinh bằng cách cộng thêm một năm, trừ đi ba tháng và cộng thêm bảy ngày vào thời gian gốc của tuổi thai. Kết quả tính ra là khoảng 280 ngày (40 tuần) kể từ khi bắt đầu kỳ kinh nguyệt cuối cùng. Một phương pháp khác là cộng thêm 9 tháng 7 ngày vào ngày đầu tiên của kỳ kinh cuối cùng.
+Quy tắc Naegele được đặt theo tên Franz Karl Naegele, bác sĩ sản khoa người Đức, người đã nghĩ ra quy tắc này. Naegele sinh ngày 12 tháng 7 năm 1778 tại Düsseldorf, Đức. Năm 1806, Naegele trở thành giáo sư bình thường và giám đốc bệnh viện ở Heidelberg. Cuốn Lehrbuch der Geburtshilfe của ông, xuất bản năm 1830 dành cho các nữ hộ sinh, đã có 14 lần xuất bản thành công.
+Dưới đây là công thức tính Ngày dự sinh ước tính bằng quy tắc Naegele:
+
+KCC + 7 ngày + 9 tháng dương lịch = Ngày dự sinh
+Ví dụ:
+KCC = 8 tháng 5 năm 2020
+
++1 năm = ngày 8 tháng 5 năm 2021
+−3 tháng = 8 tháng 2 năm 2021
++7 ngày = 15 tháng 2 năm 2021
+280 ngày kể từ KCC được xác định bằng cách kiểm tra ngày trong tuần của kỳ kinh nguyệt cuối cùng và có điều chỉnh ngày tính toán để trùng với ngày trong tuần. Như ở ví dụ trên, ngày 8 tháng 5 năm 2020 là thứ Sáu. Ngày tính toán theo công thức (15 tháng 2) là thứ Hai. Khi điều chỉnh sang thứ Sáu gần nhất sẽ là ngày 12 tháng 2, tức là đúng 280 ngày từ ngày 8 tháng 5. Phương pháp tính toán này không phải lúc nào cũng cho kết quả là 280 ngày, vì không phải tất cả các tháng theo lịch đều có cùng độ dài. Ngoài ra, nó không tính đến năm nhuận.
+
+
+===== Ứng dụng di động =====
+Các ứng dụng trên thiết bị di động về cơ bản luôn đưa ra các ước tính nhất quán so với nhau và chính xác cho năm nhuận, trong khi bánh xe thai kỳ làm bằng giấy có thể chênh lệch 7 ngày và thường không chính xác cho năm nhuận.
+
+
+==== Các thời lượng đề xuất khác ====
+276 ngày cho cả tuổi thai ước tính bằng siêu âm và ước tính theo ngày bắt đầu kỳ kinh cuối cùng, theo một nghiên cứu ở Hoa Kỳ trên 1867 ca sinh đơn thành công.
+281 ngày sau KCC với độ lệch chuẩn là 13 ngày, kết quả của một nghiên cứu dựa trên dân số với 427.581 ca sinh đơn ở Thụy Điển.
+281 ngày sau KCC với bà mẹ sinh lần đầu và 280 ngày đối với tất cả những người khác là mức trung bình do một nghiên cứu của Mỹ phát hiện năm 1995, trên 1.970 ca sinh tự nhiên. Độ lệch chuẩn là 7–9 ngày.
+282 ngày sau KCC được khuyến nghị cho những trường hợp KCC là yếu tố duy nhất được biết đến, trong một nghiên cứu dựa trên 17.450 bệnh nhân kết hợp kỹ thuật đo KCC và siêu âm.
+Trung bình là 288 ngày (274 ngày kể từ ngày rụng trứng) đối với bà mẹ sinh lần đầu và 283 ngày (269 ngày kể từ ngày rụng trứng) đối với bà mẹ sinh lần hai trở đi, theo một nghiên cứu năm 1990 trên 114 người da trắng được chăm sóc tư nhân, mang thai không biến chứng và chuyển dạ tự nhiên. Các nhà nghiên cứu gợi ý rằng việc loại trừ các trường hợp mang thai có biến chứng (thường dẫn đến sinh non) sẽ có thời gian dài hơn.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Pregnancy Due Date Calculator tại BabyCenter.com
+Pregnancy Calendar and Due Date Calculator tại American Pregnancy Association
+OB Wheel: Pregnancy Calculator - Máy tính tuổi thai đa năng có thể sử dụng ngoại tuyến. Có sẵn dưới dạng ứng dụng web và ứng dụng Android.

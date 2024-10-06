@@ -1,0 +1,12 @@
+Mycobacterium tuberculosis là một loài vi khuẩn gây bệnh trong chi Mycobacterium và là tác nhân nhân gây bệnh của hầu hết các ca bệnh lao (nên còn gọi là "vi khuẩn lao"). Lần đầu được phát hiện ra vào năm 1882 bởi Robert Koch, M. tuberculosis có một lớp phủ sáp bất thường trên bề mặt tế bào (chủ yếu là mycolic acid), mà làm cho các tế bào không thấm nước để nhuộm gram kỹ thuật để phát hiện, acid nhanh được sử dụng thay thế.Trực khuẩn lao được xác định dưới kính hiển vi bằng đặc tính nhuộm của nó: nó vẫn giữ màu nhuộm sau khi bị xử lý với dung dịch acid, vì vậy nó được phân loại là "trực khuẩn kháng acid" (acid-fast bacillus, viết tắt là AFB). Loài này được phân loại là gram dương do thành tế bào có chứa peptidoglycan, nhưng vì chúng có đặc tính kháng acid, kháng cồn nên được gọi là "trực khuẩn kháng acid". Đây là vi khuẩn hiếu khí và đòi hỏi mức độ cao của oxy. 
+Trực khuẩn lao có hình dạng giống que nhỏ, có thể chịu đựng được chất sát khuẩn yếu và sống sót trong trạng thái khô trong nhiều tuần nhưng, trong điều kiện tự nhiên, chỉ có thể phát triển trong sinh vật ký chủ
+Bộ gen đã được giải mã vào năm 1998.
+M. tuberculosis phân chia sau mỗi 15-20 giờ, rất chậm so với các vi khuẩn khác có thời gian phân chia tính bằng phút (Escherichia coli (E. coli) có thể phân chia khoảng mỗi 20 phút). Nó là một trực khuẩn nhỏ, có thể chịu được thuốc sát khuẩn yếu và có thể tồn tại trong trạng thái khô trong nhiều tuần. Nó có thành tế bào bất thường, giàu chất béo (ví dụ, acid mycolic), có khả năng chịu mang đến khả năng tính kháng này và là một yếu tố độc lực quan trọng.
+Khi ở trong phổi, bệnh lao M. được đưa lên bởi các đại thực bào phế nang, nhưng chúng không thể tiêu hóa vi khuẩn. Thành tế bào của nó ngăn cản sự hợp nhất của các thể thực bào với một lizozimt. Cụ thể, M. tuberculosis ngăn cản phân tử bắc cầu, early endosomal autoantigen 1 (EEA1), tuy nhiên, phong tỏa này không ngăn cản sự hợp nhất của các túi chứa đầy chất dinh dưỡng. Do đó, các vi khuẩn phân chia không được kiểm soát trong các đại thực bào. Các vi khuẩn cũng mang gen UreC, ngăn ngừa quá trình axit hóa của các thể thực bào. Các vi khuẩn cũng né tránh sự tiêu diệt của đại thực bào bằng cách trung hòa các chất trung gian nitơ phản ứng.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+ Dữ liệu liên quan tới Mycobacterium tuberculosis tại Wikispecies

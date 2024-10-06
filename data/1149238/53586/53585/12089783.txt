@@ -1,0 +1,29 @@
+Trong công nghệ thông tin và khoa học máy tính, một chương trình được mô tả là có trạng thái nếu nó được thiết kế để ghi nhớ các sự kiện hoặc tương tác người dùng trước đó; các thông tin được ghi nhớ này được gọi trạng thái của hệ thống.
+Tập trạng thái mà một hệ thống có thể lưu giữ được gọi là không gian trạng thái. Trong hệ thống rời rạc, không gian trạng thái là đếm được và hữu hạn, và hành vi hoặc tương tác nội bộ của hệ thống  với môi trường bao gồm các hành động hoặc sự kiện riêng lẻ đang xảy ra, chẳng hạn như việc chấp nhận đầu vào hoặc việc xuất kết quả đầu ra, có thể có hoặc không thay đổi trạng thái của hệ thống. Ví dụ về các hệ thống  như vậy là các mạch luận lý số, máy tự động và ngôn ngữ hình thức, chương trình máy tính và máy tính. Đầu ra của một mạch số hoặc chương trình máy tính tại bất kỳ thời điểm nào là hoàn toàn xác định bởi đầu vào và trạng thái hiện tại.
+
+
+== Trạng thái của mạch logic số ==
+
+
+== Trạng thái chương trình ==
+
+
+== Các máy trạng thái hữu hạn ==
+
+
+== Ví dụ ==
+
+
+== Phân loại trạng thái ==
+Các trạng thái sau được phân biệt:
+
+Trạng thái tương thích là các trạng thái trong máy trạng thái không xung đột với bất kỳ giá trị đầu vào. Như vậy với các đầu vào giống nhau, cả hai trạng thái phải có chung một đầu ra và chung trạng thái kế tiếp (hoặc trạng thái kế tiếp không xác định), hoặc là không thay đổi trạng thái. Các trạng thái tương thích là dư thừa nếu chúng cùng xảy ra trong một máy trạng thái.
+Trạng thái phân biệt là các trạng thái trong máy trạng thái mà có ít nhất một chuỗi đầu vào tạo ra chuỗi đầu ra khác nhau - cho dù trạng thái bắt đầu là trạng thái nào.
+Trạng thái tương đương là các trạng thái trong một máy trạng thái, mà với mỗi chuỗi đầu vào có thể, chuỗi các kết quả giống nhau sẽ được tạo ra - cho dù trạng thái bắt đầu là trạng thái nào.
+
+
+== Xem thêm ==
+Dữ liệu (máy tính)
+
+
+== Tham khảo ==

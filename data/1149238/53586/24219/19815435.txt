@@ -1,0 +1,36 @@
+Trí tuệ nhân tạo tạo sinh hoặc AI tạo sinh là một loại hệ thống AI có khả năng tạo ra văn bản, hình ảnh hoặc các phương tiện truyền thông khác dựa trên các lệnh nhắc (prompt). Các mô hình AI tạo sinh học các mô hình và cấu trúc của dữ liệu đầu vào của chúng bằng cách áp dụng các kỹ thuật học máy mạng nơ-ron, sau đó tạo ra dữ liệu mới có các đặc điểm tương tự.
+Các hệ thống AI tạo sinh đáng chú ý bao gồm ChatGPT (và biến thể của nó là Bing Chat), một chatbot được xây dựng bởi OpenAI sử dụng các mô hình ngôn ngữ lớn nền tảng GPT-3 và GPT-4 của họ, và Bard (chatbot), một chatbot được xây dựng bởi Google sử dụng mô hình nền tảng LaMDA. Các mô hình AI tạo sinh khác bao gồm các hệ thống nghệ thuật AI như Stable Diffusion, Midjourney và DALL-E.
+AI tạo sinh có tiềm năng ứng dụng trong nhiều ngành công nghiệp, bao gồm nghệ thuật, viết lách, phát triển phần mềm, thiết kế sản phẩm, chăm sóc sức khỏe, tài chính, trò chơi, tiếp thị và thời trang. Đầu tư vào AI tạo sinh đã tăng vọt trong những năm đầu của thập kỷ 2020, với các công ty lớn như Microsoft, Google và Baidu cũng như nhiều công ty nhỏ hơn đang phát triển các mô hình trí tuệ nhân tạo tạo sinh. Tuy nhiên, cũng có những lo ngại về việc sử dụng sai mục đích của AI tạo sinh, chẳng hạn như tạo tin giả hoặc deepfake, có thể được sử dụng để lừa dối hoặc thao túng con người.
+
+
+== Lịch sử ==
+
+Kể từ khi thành lập, lĩnh vực học máy (machine learning) đã sử dụng các mô hình thống kê, bao gồm cả mô hình tạo sinh, để mô hình hóa và dự đoán dữ liệu. Bắt đầu từ cuối những năm 2000, sự xuất hiện của học sâu (deep learning) đã thúc đẩy tiến bộ và nghiên cứu trong xử lý ảnh và video, phân tích văn bản, nhận dạng giọng nói và các tác vụ khác. Tuy nhiên, hầu hết các mạng thần kinh sâu được đào tạo như các mô hình phân biệt thực hiện các tác vụ phân loại như phân loại hình ảnh dựa trên mạng thần kinh tích chập.
+Năm 2014, những tiến bộ như autoencoder biến đổi (VAE) và mạng đối nghịch tạo sinh đã tạo ra các mạng thần kinh sâu thực tế đầu tiên có khả năng học các mô hình tạo sinh, thay vì phân biệt, của dữ liệu phức tạp như hình ảnh. Các mô hình tạo sinh sâu này là những mô hình đầu tiên có thể xuất ra không chỉ tạo nhãn (label) cho hình ảnh, mà còn có thể xuất ra toàn bộ hình ảnh.
+Năm 2017, mạng Transformer đã cho phép phát triển các mô hình tạo sinh, dẫn đến Generative pre-trained transformer (GPT) đầu tiên vào năm 2018. Tiếp theo là GPT-2 vào năm 2019, đã chứng minh khả năng tạo sinh không giám sát cho nhiều tác vụ khác nhau như một mô hình nền tảng (Foundation model).
+Năm 2021, sự ra mắt của DALL-E, một mô hình tạo sinh pixel dựa trên transformer, tiếp theo là Midjourney và Stable Diffusion đã đánh dấu sự xuất hiện của nghệ thuật trí tuệ nhân tạo chất lượng cao thực tế từ các lời nhắc hoặc gợi ý (prompt).
+Vào tháng 1 năm 2023, Futurism.com đã đưa tin rằng CNET đã sử dụng một công cụ AI nội bộ không được tiết lộ để viết ít nhất 77 câu chuyện của mình; sau khi tin tức được công bố, CNET đã đăng các bản sửa lỗi cho 41 câu chuyện.
+Vào tháng 3 năm 2023, GPT-4 đã được phát hành. Một nhóm từ Microsoft Research lập luận rằng "nó có thể được xem một cách hợp lý như một phiên bản ban đầu (nhưng vẫn chưa hoàn chỉnh) của hệ thống trí tuệ tổng quát nhân tạo (AGI)".
+
+
+== Thể thức ==
+Hệ thống AI tạo sinh được xây dựng bằng cách áp dụng học máy không giám sát hoặc tự giám sát cho một tập dữ liệu. Khả năng của hệ thống AI tạo sinh phụ thuộc vào mô-đun hoặc loại của tập dữ liệu được sử dụng.
+AI tạo sinh có thể là đơn mô-đun/phương thức (uni-modal) hoặc đa mô-đun/phương thức (multi-modal); hệ thống đơn mô-đun/phương thức chỉ nhận một loại đầu vào, trong khi hệ thống đa mô-đun/phương thức có thể nhận nhiều hơn một loại đầu vào. Ví dụ, GPT-4 của OpenAI chấp nhận cả đầu vào văn bản và hình ảnh.
+
+Văn bản: Các hệ thống AI tạo sinh được đào tạo trên các từ hoặc ký tự đại diện cho từ bao gồm GPT-3, LaMDA, LLaMA, BLOOM, GPT-4, v.v. Chúng có khả năng xử lý ngôn ngữ tự nhiên, dịch tự động và tạo ngôn ngữ tự nhiên và có thể được sử dụng làm mô hình nền tảng cho các tác vụ khác. Các tập dữ liệu bao gồm BookCorpus, Wikipedia, v.v.
+Mã: Ngoài văn bản ngôn ngữ tự nhiên, các mô hình ngôn ngữ lớn có thể được đào tạo trên văn bản ngôn ngữ lập trình, cho phép chúng tạo mã nguồn cho các chương trình máy tính mới. Ví dụ bao gồm OpenAI Codex.
+Hình ảnh: Các hệ thống AI tạo sinh được đào tạo trên các tập hình ảnh có chú thích văn bản bao gồm Imagen, DALL-E, Midjourney, Adobe Firefly, Stable Diffusion và các hệ thống khác. Chúng thường được sử dụng để tạo hình ảnh từ văn bản và chuyển đổi phong cách hình ảnh. Các tập dữ liệu bao gồm LAION-5B và các tập dữ liệu khác.
+Phân tử: Các hệ thống AI tạo sinh có thể được đào tạo trên các chuỗi axit amin hoặc các biểu diễn phân tử như SMILES đại diện cho DNA hoặc protein. Các hệ thống này, như AlphaFold, được sử dụng để dự đoán cấu trúc protein và tìm kiếm thuốc. Các tập dữ liệu bao gồm các tập dữ liệu sinh học khác nhau.
+Âm nhạc: Các hệ thống AI tạo sinh như MusicLM có thể được đào tạo trên các dạng sóng âm thanh của âm nhạc được ghi lại cùng với chú thích văn bản, để tạo ra các mẫu âm nhạc mới dựa trên các mô tả văn bản như một giai điệu violin êm dịu được hỗ trợ bởi một đoạn riff guitar méo mó.
+Video: AI được đào tạo trên video có chú thích có thể tạo ra các clip video có tính nhất quán về mặt thời gian. Ví dụ bao gồm Gen1 và Gen2 của RunwayML và Make-A-Video của Meta Platforms.
+Hành động của robot: AI được đào tạo trên chuyển động của một hệ thống robot có thể tạo ra các quỹ đạo mới cho hoạch định chuyển động. Ví dụ, UniPi của Google Research sử dụng các lời nhắc như "nhặt bát màu xanh lam" hoặc "lau đĩa bằng miếng bọt biển màu vàng" để điều khiển chuyển động của cánh tay robot.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Generative AI tại Encyclopædia Britannica (tiếng Anh)

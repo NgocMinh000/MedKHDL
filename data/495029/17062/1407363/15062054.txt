@@ -1,0 +1,11 @@
+Siêu âm Doppler là siêu âm y tế sử dụng hiệu ứng Doppler để tạo ra hình ảnh chuyển động của các mô và dịch cơ thể (thường là máu), và vận tốc tương đối của chúng với đầu phát. Bằng cách tính toán sự thay đổi tần số của một thể tích mẫu cụ thể, ví dụ như dòng chảy trong động mạch hoặc một luồng máu chảy qua van tim, tốc độ và hướng của nó có thể được xác định và hình dung. Doppler màu hoặc Doppler dòng màu là sự thể hiện vận tốc theo thang màu. Hình ảnh Doppler màu thường được kết hợp với hình ảnh thang độ xám (chế độ B) để hiển thị hình ảnh siêu âm hai chiều, cho phép hiển thị đồng thời hình ảnh giải phẫu của khu vực.
+Điều này đặc biệt hữu ích trong các nghiên cứu về tim mạch (siêu âm hệ thống mạch máu và tim) và cần thiết trong nhiều lĩnh vực như xác định lưu lượng máu ngược trong mạch máu gan trong tăng huyết áp cổng thông tin.
+
+
+== Hoạt động ==
+
+Dữ liệu Doppler được hiển thị bằng đồ họa bằng Doppler quang phổ hoặc dưới dạng hình ảnh sử dụng Doppler màu (Doppler hướng) hoặc Doppler công suất (Doppler không định hướng). Sự dịch chuyển Doppler này nằm trong phạm vi âm thanh và thường được trình bày rõ ràng bằng cách sử dụng loa âm thanh nổi: điều này tạo ra âm thanh rất rất đặc biệt, mặc dù tổng hợp, có âm thanh như nhịp đập.
+Tất cả các máy quét siêu âm hiện đại đều sử dụng Doppler xung để đo vận tốc. Dụng cụ sóng xung truyền và nhận chuỗi xung. Sự thay đổi tần số của mỗi xung bị bỏ qua, tuy nhiên sự thay đổi pha tương đối của các xung được sử dụng để có được sự thay đổi tần số (vì tần số là tốc độ thay đổi của pha). Ưu điểm chính của Doppler sóng xung (PW Doppler) so với sóng liên tục (CW Doppler) là thông tin khoảng cách thu được (thời gian giữa các xung truyền và nhận được nhân với tốc độ âm bằng khoảng cách) và áp dụng hiệu chỉnh khuếch đại. Nhược điểm của Doppler xung là các phép đo có thể bị răng cưa. Các thuật ngữ siêu âm Doppler đã được chấp nhận để áp dụng cho cả hệ thống Doppler xung và liên tục, mặc dù chúng dùng các cơ chế khác nhau để đo vận tốc.
+
+
+== Tham khảo ==

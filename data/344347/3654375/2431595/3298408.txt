@@ -1,0 +1,41 @@
+Cryptosporidium là một chi sinh vật đơn bào apicomplexa có thể gây ra bệnh về đường hô hấp và tiêu hóa (cryptosporidiosis) chủ yếu liên quan đến chứng tiêu chảy (crypto tiêu hóa) có thể có hoặc không có chứng ho dai dẳng (crypto hô hấp) trên cả hệ miễn dịch lẫn suy giảm miễn dịch ở người.
+
+
+== Đặc điểm chung ==
+
+
+== Phân loài ==
+
+
+== Vòng đời ==
+
+
+== Xử lý nước và phát hiện ==
+Nhiều nhà máy xử lý lấy nước thô từ sông, hồ và hồ chứa để sản xuất nước uống công cộng sử dụng các công nghệ lọc thông thường. Lọc trực tiếp, thường được sử dụng để xử lý nước có hàm lượng hạt thấp, bao gồm đông máu và lọc nhưng không lắng đọng. Các quy trình lọc phổ biến khác bao gồm bộ lọc cát chậm, bộ lọc đất diatomaceous và màng sẽ loại bỏ 99% Cryptosporidium. [8] Màng lọc và các sản phẩm túi lọc và hộp lọc đặc biệt sẽ loại bỏ Cryptosporidium.
+Cryptosporidium có khả năng kháng khử trùng clo cao; [9] nhưng với nồng độ và thời gian tiếp xúc đủ cao, việc khử hoạt tính Cryptosporidium sẽ xảy ra khi xử lý bằng clo và ozone. Nói chung, nồng độ clo cần thiết ngăn chặn việc sử dụng khử trùng clo như một phương pháp đáng tin cậy để kiểm soát Cryptosporidium trong nước uống. Điều trị bằng tia cực tím ở liều tương đối thấp sẽ làm bất hoạt Cryptosporidium. Nghiên cứu do Calgon Carbon Corp tài trợ ban đầu đã phát hiện ra hiệu quả của UV trong việc làm bất hoạt Cryptosporidium. [10] [11]
+Một trong những thách thức lớn nhất trong việc xác định ổ dịch là khả năng xác minh kết quả trong phòng thí nghiệm. Các tế bào trứng có thể được nhìn thấy bằng cách kiểm tra bằng kính hiển vi các mẫu phân, nhưng chúng có thể bị nhầm lẫn với các vật thể hoặc tạo tác khác có hình dạng tương tự. [12] Hầu hết các loại Crypto có kích thước 3M6, mặc dù một số báo cáo đã mô tả các tế bào lớn hơn. [12]
+Đối với người tiêu dùng cuối cùng của nước uống được cho là bị nhiễm Cryptosporidium, lựa chọn an toàn nhất là đun sôi tất cả nước dùng để uống.
+
+
+== Nguy cơ lây nhiễm ==
+Cryptosporidium parvum (genotype ký sinh trên bò) và C. hominis (genotype tồn tại trên người) là các nguyên nhân chính gây nhiễm Cryptosporidium ở người. Nhiễm cryptosporidium bắt nguồn từ:
+
+Ăn các thực phẩm và uống nước bị nhiễm phân có chứa mầm bệnh (thường là nước trong bể bơi công cộng và khu dân cư, bồn nước,bồn nước nóng, công viên nước, hồ hoặc suối)
+Tiếp xúc trực tiếp người - người
+Lây truyền bệnh
+Bệnh xảy ra trên toàn thế giới. Nhiễm Cryptosporidium gây ra 0,6 đến 7,3% trong số các nguyên nhân gây tiêu chảy ở các nước phát triển và tỷ lệ phần trăm thậm chí còn cao hơn ở các khu vực có điều kiện vệ sinh kém. Đó là nguyên nhân gây bùng phát tiêu chảy phân nước lớn ở Mỹ (1). Ở Milwaukee, Wisconsin, > 400.000 người đã bị ảnh hưởng trong vụ bùng phát dịch bệnh năm 1993 khi nguồn cung cấp nước của thành phố bị ô nhiễm bởi nước thải trong mùa mưa vào mùa xuân và hệ thống lọc nước hoạt động không chính xác.
+Trẻ em, khách du lịch nước ngoài, bệnh nhân suy giảm miễn dịch và nhân viên y tế chăm sóc cho bệnh nhân nhiễm cryptosporidiosis có tăng nguy cơ nhiễm bệnh. Bùng phát dịch có thể xảy ra ở các trung tâm chăm sóc ban ngày. Số lượng kén hợp tử cần thiết gây nhiễm bệnh ít, sự bài tiết kén hợp tử kéo dài, sự đề kháng của kén với clo, và kích thước kén nhỏ gia tăng mối quan tâm về các bể bơi có trẻ em dùng tã lót sử dụng.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+
+Cryptosporidium erinacei n. sp. (Apicomplexa: Cryptosporidiidae) in hedgehogs Veterinary Parasitology Volume 201, Issues 1–2, ngày 17 tháng 3 năm 2014, Pages 9–17 doi:10.1016/j.vetpar.2014.01.014

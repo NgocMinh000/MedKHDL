@@ -1,0 +1,99 @@
+Lý thuyết ngôn ngữ lập trình (thường được biết tới bởi chữ viết tắt tiếng Anh PLT (Programming language theory) là một nhánh của khoa học máy tính nghiên cứu việc thiết kế, thực hiện, phân tích, mô tả đặc điểm, và phân loại các ngôn ngữ lập trình và các đặc trưng của chúng. Lý thuyết ngôn ngữ lập trình phụ thuộc và chịu ảnh hưởng của toán học, kĩ nghệ phần mềm và ngôn ngữ học.  Nó là một nhánh của khoa học máy tính được công nhận và là một khu vực nghiên cứu tích cực, với các kết quả được xuất bản trong nhiều tạp chí dành riêng cho PLT, cũng như trong các xuất bản phẩm kĩ thuật và khoa học máy tính chung. Hầu hết các chương trình đào tạo cử nhân khoa học máy tính yêu cầu phải học các môn học trong chủ đề này.
+
+
+== Lịch sử ==
+Trong một số cách, lịch sử lý thuyết ngôn ngữ lập trình có trước cả sự phát triển của chính các ngôn ngữ lập trình. Phép tính lambda, được phát triển bởi Alonzo Church và Stephen Cole Kleene trong những năm 193x, được một số người coi là ngôn ngữ lập trình đầu tiên của thế giới, mặc dù nó từng được dự định dùng làm mô hình tính toán hơn là phương tiện cho các lập trình viên mô tả các giải thuật cho một hệ thống máy tính.  Nhiều ngôn ngữ lập trình hàm được mô tả như sự cung cấp một "lớp gỗ dán mỏng" lên phép tính lambda [1], và nhiều trong số đó dễ dàng được mô tả bằng những thuật ngữ của phép tính lambda.
+Ngôn ngữ lập trình đầu tiên được đề cử là Plankalkül, do Konrad Zuse thiết kế vào những năm 194x, nhưng không được công chúng biết đến mãi cho đến năm 1972 (và không được thực hiện cho đến năm 1998).  Ngôn ngữ lập trình đầu tiên được biết đến rộng rãi và thành công là Fortran, được phát triển từ năm 1954 đến năm 1957 bởi một nhóm nhà nghiên cứu IBM được dẫn dắt bởi John Backus.  Sự thành công của FORTRAN dẫn đến sự hình thành của ủy ban các nhà khoa học nhằm phát triển một ngôn ngữ máy tính "thế giới"; kết quả cho những cố gắng của họ là ALGOL 58.  Một cách độc lập, John McCarthy của MIT đã phát triển ngôn ngữ lập trình Lisp (dựa trên phép tính lambda), ngôn ngữ đầu tiên thành công với các khởi điểm từ giới học viện. Với sự thành công của những cố gắng khởi nguồn này, các ngôn ngữ lập trình máy tính đã trở thành một chủ đề tích cực của việc nghiên cứu trong những năm 196x và về sau.
+Một số sự kiện chủ chốt trong lịch sử của lý thuyết ngôn ngữ lập trình kể từ lúc đó:
+
+Trong những năm 195x, Noam Chomsky đã phát triển hệ thống phân cấp Chomsky trong lĩnh vực ngôn ngữ học; một khám phá tác động trực tiếp lên lý thuyết ngôn ngữ lập trình và nhiều nhánh khác của khoa học máy tính.
+Trong những năm 196x, ngôn ngữ Simula đã được phát triển bởi Ole Johan Dahl và Kristen Nygaard; nó được coi là ví dụ đầu tiên của một ngôn ngữ lập trình hướng đối tượng; Simula cũng đã giới thiệu khái niệm đồng chương trình con (tiếng Anh: coroutine).
+Trong những năm 197x:
+Một nhóm các nhà khoa học tại Xerox PARC được dẫn dắt bởi Alan Kay đã phát triển Smalltalk, một ngôn ngữ hướng đối tượng được biết đến rộng rãi nhờ môi trường phát triển sáng tạo của nó.
+Sussman và Steele đã phát triển ngôn ngữ lập trình Scheme, một phiên bản của Lisp hợp nhất với phạm vi từ vựng (tiếng Anh: lexical scoping), một không gian tên thống nhất, và các yếu tố từ mô hình Actor bao gồm các  continuation lớp nhất.
+Lập trình logic và Prolog đã được phát triển cho phép các chương trình máy tính được biểu hiện như là logic toán học.
+Backus, tại bài giảng ACM Turing Award năm 1977, đã tấn công hiện trạng của các ngôn ngữ công nghiệp và đề nghị một lớp mới các ngôn ngữ lập trình mà bây giờ được biết đến như là các ngôn ngữ lập trình mức hàm.
+Xuất hiện phép tính tiến trình, ví dụ như Phép tính của các Hệ thống Giao tiếp (Calculus of Communicating Systems) của Robin Milner, và mô hình Các tiến trình giao tiếp liên tục (Communicating sequential processes) của C. A. R. Hoare, cũng như các mô hình song song tương tự ví dụ như mô hình Actor của Carl Hewitt.
+Lý thuyết kiểu bắt đầu được áp dụng như là một ngành học (tiếng Anh:discipline) đối với các ngôn ngữ lập trình, được dẫn dắt bởi Milner; ứng dụng này dẫn đến những tiến bộ to lớn trong lý thuyết kiểu suốt nhiều năm qua.
+Trong những năm 198x:
+Bertrand Meyer đã tạo ra phương pháp học Thiết kế theo hợp đồng (Design by contract) và hợp nhất nó vào trong ngôn ngữ lập trình Eiffel.
+Trong những năm 199x:
+Gregor Kiczales, Jim Des Rivieres và Daniel G. Bobrow đã xuất bản cuốn sách Nghệ thuật của Giao thức Đối tượng meta (tựa tiếng Anh: The Art of the Metaobject Protocol).
+Philip Wadler đề xuất dùng các monad cho việc cấu trúc các chương trình viết bằng các ngôn ngữ lập trình hàm.
+
+
+== Các môn con và các lĩnh vực liên quan ==
+Có nhiều lĩnh vực nghiên cứu hoặc nằm trong lý thuyết ngôn ngữ lập trình, hoặc có ảnh hưởng sâu sắc lên nó; nhiều lĩnh vực trong số này có sự chồng chéo đáng kể. Thêm vào đó, PLT sử dụng nhiều nhánh khác của toán học, bao gồm lý thuyết tính toán, lý thuyết thể loại, và lý thuyết tập hợp.
+
+
+=== Ngữ nghĩa học hình thức ===
+Ngữ nghĩa học hình thức là đặc điểm hình thức của hành vi của các chương trình máy tính và các ngôn ngữ lập trình, đề cập đến việc nghiên cứu ngôn ngữ hình thức.
+
+
+=== Lý thuyết kiểu ===
+Lý thuyết kiểu là sự nghiên cứu các hệ thống kiểu, "là các phương pháp cú pháp dễ kiểm soát nhằm chứng minh sự vắng mặt của các hành vi chương trình nào đó bằng cách phân loại các ngữ tuân theo các loại giá trị mà chúng tính được."  (theo Các kiểu và các Ngôn ngữ lập trình, tiếng Anh: Types and Programming Languages, MIT Press, 2002).  Nhiều ngôn ngữ lập trình được phân biệt bằng các đặc điểm của các hệ thống kiểu.
+
+
+=== Phân tích chương trình và chuyển đổi ===
+Chuyển đổi chương trình là quá trình chuyển đổi một chương trình từ dạng (ngôn ngữ) này sang dạng khác; phân tích chương trình là vấn đề toàn cục của việc khảo sát một chương trình và xác định các đặc điểm mấu chốt (như sự vắng mặt các lớp lỗi chương trình).
+
+
+=== Phân tích ngôn ngữ lập trình so sánh ===
+Phân tích ngôn ngữ lập trình so sánh tìm cách phân loại các ngôn ngữ lập trình thành các loại khác nhau dựa trên các đặc điểm của chúng; các thể loại rộng của các ngôn ngữ lập trình thường được biết đến như là các mô hình lập trình.
+
+
+=== Lập trình meta ===
+Lập trình meta là sự phát sinh chương trình bậc cao hơn, mà kết quả sinh ra khi thực hiện chương trình đó là một chương trình khác (có thể trong ngôn ngữ khác, hoặc trong một tập hợp con của ngôn ngữ gốc).
+
+
+=== Ngôn ngữ đặc trưng miền ===
+Ngôn ngữ đặc trưng miền là ngôn ngữ được xây dựng để giải quyết các vấn đề một cách hiệu quả trong một miền vấn đề riêng.
+
+
+=== Xây dựng trình biên dịch ===
+Lý thuyết Trình biên dịch là lý thuyết viết các trình biên dịch (compiler) (hoặc tổng quát hơn, máy dịch (translator))   chương trình dịch chương trình được viết trong một ngôn ngữ sang dạng khác. Các hành động của một trình biên dịch theo truyền thống được chia nhỏ thành phân tích cú pháp (quét (scan) và phân tích từ loại (parse)), phân tích ngữ nghĩa (xác định chương trình nên làm gì), tối ưu hóa (cải tiến hiệu suất của chương trình theo các chỉ số, điển hình là tốc độ thực hiện) và Phát sinh mã (Phát sinh và xuất một chương trình tương đương trong ngôn ngữ đích nào đó; thường là tập hợp lệnh của một CPU).
+
+
+=== Hệ thống thời gian chạy ===
+Hệ thống thời gian chạy đề cập đến việc phát triển các môi trường thời gian chạy ngôn ngữ lập trình và các thành phần của chúng, bao gồm các máy ảo, thu thập dữ liệu rác, và các giao diện ngoại hàm.
+
+
+== Tạp chí chuyên ngành, xuất bản phẩm và hội thảo PLT ==
+Các tạp chí xuất bản nghiên cứu nguyên bản trong lý thuyết ngôn ngữ lập trình gồm:
+
+ACM Transactions on Programming Languages and Systems [2] Lưu trữ 2006-04-24 tại Wayback Machine (Giao dịch ACM trên các Ngôn ngữ Lập trình và các Hệ thống)
+Computer Languages, Systems, and Structures [3] (Các ngôn ngữ máy tính, Các hệ thống, và các Cấu trúc)
+Journal of Functional Programming (Tạp chí Lập trình hàm)
+Journal of Functional and Logic Programming (Tạp chí Lập trình Logic và Hàm)
+Journal of Symbolic Computation (Tạp chí Tính toán ký hiệu)
+Các bài báo PLT về các cú hích quan trọng hoặc về sự quan tâm tổng quát hơn có thể xuất hiện trong các tạp chí bách khoa hơn như Tạp chí của ACM (Journal of the ACM), Thông tin và Tính toán (Information and Computation), hay Khoa học Máy tính Lý thuyết, (Theoretical Computer Science). Xem thêm danh sách các xuất bản phẩm trong khoa học máy tính.
+Cũng như trong nhiều lĩnh vực của Khoa học Máy tính, các cuộc hội thảo đóng vai trò quan trọng, đôi khi là lãnh đạo. Có lẽ các cuộc hội thảo nổi tiếng nhất trong PLT là Hội nghị chuyên đề về các Nguyên lý của các Ngôn ngữ Lập trình (tiếng Anh: Symposium on Principles of Programming Languages) (POPL)) và Hội thảo Quốc tế về Lập trình Hàm (tiếng Anh: International Conference on Functional Programming (ICFP)).  Các cuộc hội thảo khác có ảnh hưởng liên quan PLT gồm Hội thảo về Thiết kế và Thực hiện Ngôn ngữ Lập trình (Conference on Programming Language Design and Implementation (PLDI)) và Hội nghị Quốc tế về Lập trình Hướng đối tượng, các Hệ thống, các Ngôn ngữ và các Ứng dụng (tiếng Anh: International Conference on Object Oriented Programming, Systems, Languages and Applications (OOPSLA)).
+
+
+== Ký hiệu Lambda ==
+Một biểu tượng không chính thức của lĩnh vực lý thuyết ngôn ngữ lập trình là chữ cái Hi Lạp viết thường λ (lambda). Cách dùng này bắt nguồn từ phép tính lambda, một mô hình tính toán được sử dụng rộng rãi bởi các nhà nghiên cứu ngôn ngữ lập trình.  Nhiều văn bản, bài báo về lập trình và các ngôn ngữ lập trình sử dụng lambda theo mốt nào đó. Nó làm vẻ vang trang bìa của văn bản cổ điển Cấu trúc và Thuyết minh các Chương trình Máy tính (Structure and Interpretation of Computer Programs), và tiêu đề của nhiều cái gọi là các bài báo Lambda (Lambda Papers), được viết bởi Gerald Jay Sussman và Guy Steele, các nhà phát triển của Ngôn ngữ lập trình Scheme.  Một trang mạng nổi tiếng về lý thuyết ngôn ngữ lập trình được gọi là Lambda the Ultimate nhằm vinh danh công trình của Sussman và Steele.
+
+
+== Xem thêm ==
+SIGPLAN
+Thời gian biểu của các ngôn ngữ lập trình
+Ngôn ngữ lập trình bậc rất cao
+
+
+== Đọc thêm ==
+Mitchell, John C.. Foundations for Programming Languages.
+Pierce, Benjamin C. (2002). Types and Programming Languages. MIT Press.
+Pierce, Benjamin C. Advanced Topics in Types and Programming Languages.
+Pierce, Benjamin C. et al. (2010). Software Foundations.
+Programming Language Pragmatics, 2nd Edition by Michael Scott (Morgan Kaufmann, 2006) [4]
+Essentials of Programming Languages by Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes (MIT Press 2001) [5] Lưu trữ 2007-06-30 tại Wayback Machine
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Lambda the Ultimate, một weblog cộng đồng dành cho thảo luận chuyên nghiệp và kho lưu trữ tài liệu về lý thuyết ngôn ngữ lập trình.
+Lịch sử ngôn ngữ máy tính
+Các sách lý thuyết lập trình miễn phí
+Lịch sử Haskell Lưu trữ 2009-04-29 tại Wayback Machine

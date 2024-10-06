@@ -1,0 +1,229 @@
+Lôgíc mô tả (tiếng Anh: Description logics, viết tắt DL) là một họ các ngôn ngữ biểu diễn tri thức có thể sử dụng để biểu diễn tri thức thuật ngữ của một miền ứng dụng theo một cách có cấu trúc và được hiểu rõ một cách hình thức. Mặt khác, cái tên lôgíc mô tả có ý nói đến các mô tả về khái niệm được dùng để mô tả một miền và ngữ nghĩa dựa lôgic (logic-based semantics) mà có thể thu được từ việc dịch từ lôgic mệnh đề bậc nhất.
+Lôgic mô tả được thiết kế như là một mở rộng của khung ngữ nghĩa (semantic frame) và lưới ngữ nghĩa (semantic network), hai loại này đã không được trang bị một ngữ nghĩa dựa lôgic hình thức.
+Lôgic mô tả được đặt cái tên hiện dùng từ năm 1980. Trước đó, nó đã được gọi là các hệ thống thuật ngữ (terminological system), và tiếp đó là các ngôn ngữ khái niệm (concept language). Ngày nay, lôgic mô tả đã trở thành một nền móng của Web Ngữ nghĩa (Semantic Web) do việc sử dụng nó trong thiết kế các bản thể (ontology).
+Hệ thống dựa lôgic mô tả đầu tiên là KL-ONE (do Brachman và Schmolze xây dựng năm 1985).
+Một số hệ thống lôgic mô tả khác xuất hiện sau đó là LOOM (1987), BACK (1988), KRIS (1991), CLASSIC (1991), FaCT (1998) và gần đây là RACER (2001), CEL (2005), và KAON 2 (2005).
+Ý tưởng cho sự phát triển của Tầng Suy luận Bản thể (Ontology Inference Layer - OIL) đã xuất phát từ lôgic mô tả.
+
+
+== Cú pháp ==
+Cú pháp của lôgic mô tả bao gồm 
+
+Một tập các ký hiệu mệnh đề dùng để ký hiệu các tên khái niệm (concept name);
+Một tập các ký hiệu mệnh đề đôi để ký hiệu các tên vai trò (role name);
+Một định nghĩa đệ quy để định nghĩa các thuật ngữ khái niệm từ các tên khái niệm và tên vai trò bằng cách sử dụng các tạo tử (constructor)
+Trong lôgic mô tả, các tên khái niệm được xem là các khái niệm nguyên tử, các tên vai trò được coi là các vai trò nguyên tử. Nhìn chung, một khái niệm đại diện cho tập các cá thể thuộc về nó, và một vai trò đại diện cho một quan hệ giữa các khái niệm.
+Cú pháp của một thành viên trong gia đình lôgic mô tả được đặc trưng bởi định nghĩa đệ quy của nó, các định nghĩa đệ quy này định nghĩa các tạo tử có thể được dùng để tạo các thuật ngữ khái niệm.
+Một số tạo tử thông dụng bao gồm các tạo 
+tử lôgic trong logic bậc nhất như phép giao (intersection) hay tuyển (conjunction) của các khái niệm, phép hợp (union) hay hội (disjunction) của các khái niệm, phép phủ định (negation) hay lấy phần bù (complement) của các khái niệm, hạn chế giá trị (hạn chế với mọi - universal restriction), hạn chế tồn tại (existential resctriction), v.v.. Các tạo tử khác có thể còn bao gồm các hạn chế đối với các vai trò thường thấy trong các quan hệ nhị phân, ví dụ, tính đảo (inverse), tính bắc cầu (transitivity), chức năng (functionality), v.v.. Đặc biệt đối với phép giao và phép hợp, lôgic mô tả sử dụng các ký hiệu 
+  
+    
+      
+        ⊓
+      
+    
+    {\displaystyle \sqcap }
+  
+ và 
+  
+    
+      
+        ⊔
+      
+    
+    {\displaystyle \sqcup }
+  
+ để phân biệt chúng với ∧ và ∨ trong lôgic bậc nhất.
+Dưới đây là một ví dụ về định nghĩa cú pháp của lôgic mô tả AL.
+
+một khái niệm nguyên tử là một khái niệm-AL;
+khái niệm đỉnh (
+  
+    
+      
+        ⊤
+      
+    
+    {\displaystyle \top }
+  
+) là một khái niệm-AL;
+khái niệm đáy (
+  
+    
+      
+        ⊥
+      
+    
+    {\displaystyle \bot }
+  
+) là một khái niệm-AL;
+phần bù của một khái niệm-AL C cũng là một khái niệm-AL (ký hiệu là ¬C);
+giao của hai khái niệm-AL C và D cũng là một khái niệm-AL (ký hiệu là 
+  
+    
+      
+        C
+        ⊓
+        D
+      
+    
+    {\displaystyle C\sqcap D}
+  
+);
+nếu C là một khái niệm-AL và R là một tên vai trò, thì ∀R.C (hạn chế giá trị) cũng là một khái niệm-AL;
+nếu R là một tên vai trò, thì 
+  
+    
+      
+        ∃
+        R
+        .
+        ⊤
+      
+    
+    {\displaystyle \exists R.\top }
+  
+ (hạn chế tồn tại) cũng là một khái niệm-AL.
+Ví dụ, 
+  
+    
+      
+        A
+        ⊓
+        B
+      
+    
+    {\displaystyle A\sqcap B}
+  
+ là một khái niệm-AL, nhưng 
+  
+    
+      
+        A
+        ⊔
+        B
+      
+    
+    {\displaystyle A\sqcup B}
+  
+ không phải. Còn nữa, 
+  
+    
+      
+        ∃
+        S
+        .
+        ⊤
+      
+    
+    {\displaystyle \exists S.\top }
+  
+ là một khái niệm-AL, nhưng 
+  
+    
+      
+        ∃
+        S
+        .
+        A
+      
+    
+    {\displaystyle \exists S.A}
+  
+ thì không phải.
+
+
+== Ngữ nghĩa ==
+Ngữ nghĩa của lôgic mô tả được định nghĩa bằng cách giải nghĩa các khái niệm như là các tập hợp gồm các cá thể, và các vai trò như là các tập gồm các cặp cá thể. Các cá thể đó thường được cho là thuộc một miền xác định cho trước. Sau đó, ngữ nghĩa của các khái niệm và vai trò không nguyên tử được định nghĩa theo các khái niệm và vai trò nguyên tử. Điều này được thực hiện bằng một định nghĩa đệ quy tương tự như trong cú pháp.
+Ví dụ, cho trước miền xác định là một tập hợp. Trước hết, một cách giải nghĩa các khái niệm-AL được định nghĩa qua các khái niệm và vai trò nguyên tử như sau:
+
+Một khái niệm nguyên tử được giải nghĩa là một tập các cá thể - một tập con của miền xác định.
+Mỗi vai trò nguyên tử được giải nghĩa là một tập các cặp cá thể thuộc miền xác định, nghĩa là một quan hệ nhị phân trên miền xác định. Trong trường hợp đó, nếu một cá thể x có quan hệ với y qua một vai trò R, thì y được gọi là một R-successor của x.
+Tiếp theo, cách giải nghĩa này được mở rộng tới khái niệm và vai trò không nguyên tử, bằng cách sử dụng các tạo tử. Việc này được thực hiện như sau.
+
+Khái niệm đỉnh được giải nghĩa là toàn bộ miền xác định.
+Khái niệm đáy được giải nghĩa là tập rỗng.
+¬C được giải nghĩa là tập của mọi cá thể trong miền xác định mà không thuộc về giải nghĩa của C.
+Giao của hai khái niệm C và D được giải nghĩa là tập hợp giao, nghĩa là tập hợp gồm tất cả các cá thể trong miền xác định mà thuộc về cả giải nghĩa của C và giải nghĩa của D.
+Hạn chế giá trị ∀R.C được giải nghĩa là tập gồm mọi cá thể trong miền xác định mà tất cả các R-successor của chúng (nếu có) đều nằm trong giải nghĩa của C.
+Hạn chế tồn tại 
+  
+    
+      
+        ∃
+        R
+        .
+        ⊤
+      
+    
+    {\displaystyle \exists R.\top }
+  
+ được giải nghĩa là tập gồm mọi cá thể trong miền xác định mà cá thể đó có ít nhất một R-successor.
+Do đó, theo cách giải nghĩa các khái niệm và vai trò như trên, nếu P được giải nghĩa là tập tất cả mọi người và F được giải nghĩa là tập tất cả phụ nữ, thì tập tất cả những người không phải phụ nữ có thể được biểu diễn bằng khái niệm 
+
+  
+    
+      
+        P
+        ⊓
+        ¬
+        F
+      
+    
+    {\displaystyle P\sqcap \neg F}
+  
+
+
+== Mô hình hóa bằng lôgic mô tả ==
+Trong các lôgic mô tả, có sự phân biệt giữa cái gọi là TBox (hộp thuật ngữ) và ABox (hộp khẳng định). Nói chung, TBox chứa các câu mô tả các cây phả hệ của các khái niệm (nghĩa là quan hệ giữa các khái niệm) trong khi ABox chứa các câu có nội dung xác định mỗi cá thể thuộc về vị trí nào trên cây phả hệ (nghĩa là quan hệ giữa các cá thể và các khái niệm). Ví dụ, khẳng định:
+(1) Mỗi nhân viên là một người
+thuộc về TBox, còn khẳng định:
+(2) Hà là một nhân viên
+thuộc về ABox. Lưu ý rằng sự phân biệt TBox/ABox trong lôgic mô tả không có ý nghĩa như vậy trong logic bậc nhất (hầu hết các lôgic mô tả đều có thể xếp vào loại lôgic này). Hai "loại" câu này được đối xử như nhau. Khi dịch sang lôgic bậc nhất, một tiên đề xếp loại như (1) chỉ là một hạn chế có điều kiện cho các mệnh đề đơn (khái niệm) mà trong đó chỉ có các biến. Rõ ràng, một câu thuộc dạng này không được ưu tiên đặc biệt so với các câu chỉ chứa các hằng như (2).
+Vậy tai sao lại phân biệt như thế? Lý do chính là vì sự tách biệt đó có thể có ích khi mô tả và hệ thống hóa các quy trình-quyết định cho các lôgic mô tả khác nhau. Ví dụ, một bộ lập luận có thể xử lý TBox và ABox riêng rẽ, phần vì một số bài toán suy luận quan trọng được gắn chặt với chỉ một trong hai hộp (bài toán 'phân loại' liên quan đến TBox, bài toán 'kiểm tra thực thể' (instant checking) gắn với ABox). Một ví dụ khác là độ phức tạp của TBox có thể ảnh hưởng lớn tới hiện quả làm việc của một quy trình-quyết định cho trước của một hệ lôgic mô tả nào đó, mà không phụ thuộc vào ABox. Do đó, đây là một cách hữu dụng để có thể nói về phần cụ thể đó của cơ sở tri thức.
+Lý do phụ là sự phân biệt đó là có nghĩa nếu nhìn từ góc độ người mô hình hóa cơ sở tri thức. Đối với họ, việc phân biệt giữa quan niệm của ta về các thuật ngữ/khái niệm trong thế giới (các tiên đề phân loại trong TBox) và các thể hiện cụ thể của các thuật ngữ/khái niệm đó (các khẳng định thực thể trong ABox.)
+
+
+== So sánh với OWL ==
+
+
+=== Thuật ngữ ===
+Một khái niệm trong lôgic mô tả tương ứng với một lớp(class) trong OWL.
+Một vai trò trong lôgic mô tả là một tính chất(property) trong OWL.
+
+
+== Các bộ lập luận dành cho lôgic mô tả ==
+Có một số bộ lập luận (reasoner) để làm việc với OWL và lôgic mô tả. Dưới đây là một số chương trình thông dụng nhất:
+
+CEL - bộ lập luận viết bằng LISP, là phần mềm tự do cho sử dụng phi thương mại.
+Cerebra Engine Lưu trữ 2006-04-19 tại Wayback Machine - bộ lập luận thương mại viết bằng C++.
+FaCT++  - phần mềm tự do mã nguồn mở viết bằng C++.
+KAON2 - phần mềm tự do cho mục đích phi thương mại, viết bằng Java.
+MSPASS - phần mềm tự do mã nguồn mở viết bằng C++, dành cho nhiều hệ lôgic mô tả.
+Pellet - phần mềm tự do mã nguồn mở viết bằng Java.
+RacerPro bộ lập luận viết bằng LISP, phần mềm thương mại (có dùng thử miễn phí và giấy phép cho công việc nghiên cứu)
+Các công cụ khác có liên quan dành cho Lôgic mô tả:
+
+Protégé - hệ soạn thảo bản thể và khung làm việc cho cơ sở tri thức, có thể sử dụng các bộ lập luận lôgic mô tả cho phép giao diện DIG cho việc kiểm tra tính nhất quán (consistency check), phần mềm tự do mã mở.
+Cài đặt DIG - một giao diện XML cho các hệ lôgic mô tả, được khuyên dùng bởi DL Implementation Group (nhóm cài đặt lôgic mô tả).
+
+
+== Xem thêm ==
+Semantic Web
+Bản thể học (khoa học máy tính)
+DAML+OIL
+OWL
+RACER
+KAON
+Logic mô thái
+
+
+== Tham khảo ==
+
+F. Baader, D. Calvanese, D. L. McGuiness, D. Nardi, P. F. Patel-Schneider: The Description Logic Handbook: Theory, Implementation, Applications. Cambridge University Press, Cambridge, UK, 2003. ISBN 0-521-78176-0
+
+
+== Liên kết ngoài ==
+DESCRIPTION LOGICS, trang web chính thức của cộng đồng lôgic mô tả
+Introduction to Description Logics Khóa học lôgic mô tả tác giả: Enrico Franconi, Faculty of Computer Science, Free University of Bozen-Bolzano, Italy
+Navigator on Description Logic Complexity tại Đại học Manchester

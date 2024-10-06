@@ -1,0 +1,32 @@
+Đứng và di chuyển bằng 2 chân là bước tiến hóa quan trọng của một số loài có trí tuệ cao, như Bộ linh trưởng. Nhiều động vật, trong đó điển hình là loài chim không bay (như Bộ Đà điểu) và con người, đi đứng bằng hai chân. Ngày nay, cơ học và khoa học về người máy có nhiều nghiên cứu về hình thức vận động bằng hai chân. Trong tiếng Anh, gọi hình thức của sự vận động hai chân này là bipedal, có nguồn gốc từ chữ gốc Latinh Bipedie (bis „hai, đôi", pes/pedis „chân").
+
+
+== Di chuyển bằng hai chân ở động vật ==
+Cách di chuyển thường thấy ở động vật hai chân:
+1. Đứng. Trụ trên cả hai chân. Ở hầu hết động vật hai chân, đây là quá trình vận động cần điều chỉnh thăng bằng liên tục.
+2. Đi bộ. Chân trước chân sau, luôn có ít nhất một chân chạm đất.
+3. Chạy bộ. Chân trước chân sau, có một quãng thời gian cả hai chân đều không chạm đất.
+4. Nhảy. Di chuyển bằng các bước nhảy liên tiếp và cả hai chân di chuyển cùng nhau.
+Sự di chuyển của động vật hai chân đã tiến triển khác nhiều lần so với loài người, hầu hết là ở động vật có xương sống. Ví dụ rõ ràng nhất là sự di chuyển của loài chim và tổ tiên của chúng, loài khủng long ăn thịt hai chân (theropod dinosaurs). Người ta tin rằng tất cả khủng long đều có nguồn gốc từ động vật hoàn toàn đi bằng hai chân, có thể giống với loài Eoraptor. Thật vậy, trong các thế hệ sau của chúng, những con chim lớn không biết bay (gọi là ratites), như đà điểu, có thể là phản ánh khả năng di chuyển bằng hai chân, đạt được vận tốc đến 65 km/h. Tương tự với nhiều loài khủng long khác, đặc biệt là loài maniraptors, được cho là có thể di chuyển với tốc độ tương đương. Di chuyển bằng hai chân cũng phát triển lại (re-evolved) trong một số nòi giống khủng long như iguanodons. Một số thành viên đã tuyệt chủng thuộc bộ cá sấu, một nhóm chị em của khủng long và chim, cũng tiến hóa một dạng di chuyển hai chân – Effigia okeeffeae, một con cá sấu từ Kỷ Trias được tin rằng đã di chuyển bằng hai chân. Các loài chim lớn hơn có khuynh hướng đi bằng các chân luân phiên, trong khi những loài chim nhỏ hơn sẽ thường nhảy. Chim cánh cụt là loài khá thú vị bởi sự quan tâm của chúng đến việc di chuyển hai chân. Chúng có khuynh hướng giữ thân đứng thẳng hơn là nằm ngang như các loài chim khác.
+Di chuyển hai chân ít phổ biến hơn ở động vật có vú, khi hầu hết đều có bốn chân. Nhóm động vật có vú lớn nhất di chuyển hai chân là chuột túi (Kangaroo) và họ hàng của chúng. Tuy nhiên, loài này có khuynh hướng di chuyển chủ yếu bằng cách nhảy, hơi khác biệt so với loài người và nhiều loài chim. Cũng có nhiều loài gặm nhấm khác nhau thích "nhảy nhót", như loài chuột kangaroo (kangaroo rats). Con vượn sifaka thuộc bộ linh trưởng cũng di chuyển bằng cách nhảy khi ở trên mặt đất. Có lẽ những động vật có vú khác con người, thường di chuyển hai chân luân phiên (bước đi) hơn là nhảy, đó là loài vượn và loài tê tê (giant pangolins).
+
+
+== Người máy hai chân ==
+
+Cả thế kỷ 20, rất khó khăn để có thể chế tạo được người máy hai chân. Người máy mà có thể di chuyển thường vận động bằng bánh xe, dây xích hoặc nhiều chân. Tuy nhiên, ngày càng có nhiều người máy đã có thể cấu tạo với chi phí thấp và hoàn chỉnh hơn. Hai người máy hai chân đáng chú ý là người máy ASIMO, của hãng Honda và Qrio do hãng Sony chế tạo.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Study pushes bipedalism back 2 million years
+Information about bipedal octopuses, with link to original paper and videos Lưu trữ 2006-02-09 tại Wayback Machine
+Why australopithecines became bipedal Lưu trữ 2007-03-05 tại Wayback Machine
+Time-warp family who walk on all fours
+The dawn of man, article on the evolution of bipedalism Lưu trữ 2006-11-30 tại Wayback Machine
+Comparative bipedalism - how the rest of the animal kingdom walks on two legs
+Video of Faith, a dog born without her front legs and trained to walk upright
+Video of Dominic, a greyhound adapted to non-upright bipedal motion after losing both right legs Lưu trữ 2006-11-05 tại Wayback Machine
+Video of Honda's humanoid robot Asimo running Lưu trữ 2006-10-29 tại Wayback Machine (Dec 16 2004)
+Albert Einstein Hubo: by Hanson Robotics and KAIST

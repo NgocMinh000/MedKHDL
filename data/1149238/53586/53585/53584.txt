@@ -1,0 +1,33 @@
+Lập luận được định nghĩa rất khác nhau tùy theo ngữ cảnh của hiểu biết về lý tính như là một hình thức của tri thức. Định nghĩa lôgic là hành động sử dụng lý tính để rút ra một kết luận từ các tiền đề nhất định bằng cách sử dụng một phương pháp luận cho trước.
+Suy luận, cùng với trực giác là các phương pháp thuộc về nhận thức tự phát.
+Suy luận, là một phương pháp quan trọng để nhận thức và tìm kiếm chân lý.
+Nhận thức suy luận là kiểu nhận thức gián tiếp. Nhận thức một định lý toán học, một định luật khoa học... đều là nhờ suy luận. Vì rằng suy luận nhất thiết đòi hỏi phải có trung gian, là những phán đoán, những khái niệm. Ví dụ để nhận biết sự tương đương giữa A và C khi A=B, B=C,thì phải sử dụng các khái niệm phương trình, số hạng, về sự tương đương.
+Suy luận có tính trừu tượng và tổng quát. SUY LUẬN dựa vào phán đoán, khái niệm mà chúng ta phải thừa nhận là khái niệm bao giờ cũng trừu tượng và tổng quát. Ví dụ khái niệm " người" chỉ định tất cả mọi người và nói lên đặc tính chung của loài người, chứ không nói đến tính riêng biệt như tính chất thông thái vượt trội của Socrates, dũng mãnh như Hercules...hay tính ích kỷ, tham lam, nhỏ nhen...của cá nhân nào đó.
+Suy luận bao giờ cũng gắn liền với ngôn ngữ và đó là điểm khác biệt với trực giác. Vì thế điều gì nhận biết được nhờ suy luận, thì có thể làm cho người khác hiểu trọn vẹn nó thông qua ngôn ngữ chuẩn xác. Khi bạn được nghe chứng minh một điều gì, bạn sẽ hiểu điều này như chính người đã chứng minh điều đó cho bạn.
+Tuy nhiên, trong các ngữ cảnh triết học lý tưởng, lập luận là quy trình trí óc đem lại cho sự tưởng tượng, tri giác, ý nghĩ, và cảm giác của ta bất cứ cái gì có thể hiểu được mà những hành vi trí óc kia có thể hàm chứa; và do đó liên hệ trải nghiệm của ta với ý nghĩa toàn thể.
+
+
+== Các phương pháp lập luận lôgic ==
+Suy luận diễn dịch hay lập luận suy diễn
+Suy luận quy nạp hay Lập luận quy nạp
+Suy luận loại suy hay Lập luận loại suy
+Phương pháp thứ tư là phép tương tự. Lập luận bằng tương tự đi từ trường hợp cụ thể này tới trường hợp cụ thể khác. Kết luận của một phép tương tự chỉ là có thể đúng (plausible. Lập luận bằng tương tự rất thường gặp trong nhận thức thông thường, khoa học, triết học và khoa học nhân văn, nhưng đôi khi chỉ được chấp nhận như là một phương pháp bổ trợ. Một cách tiếp cận được cải tiến là lập luận dựa tình huống. Về các suy luận bằng phương pháp tương tự, xem Juthe, 2005 (tiếng Anh).
+Chi tiết cụ thể của các phương pháp lập luận là mối quan tâm của các ngành như triết học, lôgic, tâm lý học, và trí tuệ nhân tạo.
+
+
+== Xem thêm ==
+lý lẽ ngụy biện (Casuistry)
+Tam đoạn luận phạm trù (Categorical syllogism)
+Suy luận có thể hủy bỏ (defeasible reasoning)
+Bằng chứng
+Suy luận
+Logic
+Lập luận lôgic
+Retroduction
+
+
+== Tham khảo ==
+
+Vincent F. Hendricks, Thought 2 Talk: A Crash Course in Reflection and Expression, New York: Automatic Press / VIP, 2005, ISBN 8799101378
+Zarefsky, David.  "Formal and Informal Argument: Lecture 3," Argumentation: The Study of Effective Reasoning Part I, The Teaching Company.
+Zarefsky, David.  "Reasoning from Parts to Whole: Lecture 10," Argumentation: The Study of Effective Reasoning Part I, The Teaching Company.

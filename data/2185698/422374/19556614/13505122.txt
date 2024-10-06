@@ -1,0 +1,16 @@
+Viêm màng bụng truyền nhiễm ở mèo (viết tắt là FIP) là một chứng bệnh miễn dịch bất thường, không phổ biến, nhưng thường gây tử vong cho mèo và cũng là sự phản hồi với việc nhiễm virus coronavirus (FCoV).
+
+
+== Chẩn đoán FIP nổi bật ==
+Kỹ thuật chẩn đoán FIP phát triển khiến việc này trở nên đơn giản hơn trong những năm gần đây: phát hiện RNA virus trong một mẫu tràn dịch, bằng phản ứng chuỗi polymerase sao chép ngược (RT-PCR) là chẩn đoán FIP tác động. Tuy nhiên, điều đó đòi hỏi một mẫu được gửi đến một phòng thí nghiệm thú y bên ngoài. Trong bệnh viện thú y, có một số xét nghiệm có thể loại trừ chẩn đoán FIP phát sinh trong vòng vài phút:
+
+Đo tổng lượng protein trong dịch truyền: nếu nó nhỏ hơn 35g/l, thì khó có thể mắc bệnh FIP.
+Đo tỷ lệ albumin với globulin trong dịch truyền: nếu nó trên 0,8, thì không thể mắc viêm màng bụng truyền nhiễm FIP, nếu nó nhỏ hơn 0,4, thì chỉ có thể xác định là có thể, không chắc chắn mắc phải FIP.
+Kiểm tra các tế bào trong tràn dịch: nếu chúng chủ yếu là lymphocytes thì có nguy cơ mắc chứng bệnh FIP.
+
+
+== Việc lây nhiễm ==
+FCoV có phổ biến ở những nơi mà các nhóm mèo lớn được đặt chung với nhau trong nhà (ví dụ: các cơ sở chăm sóc mèo, cũi dành cho mèo,...). Siêu vi khuẩn hiện diện trong phân mèo và mèo bị nhiễm bệnh do nuốt phải hoặc hít phải vi-rút, thường là bằng cách dùng chung khay vệ sinh cho mèo hoặc bằng cách sử dụng xẻng dọn phân mèo rác hoặc bàn chải bị nhiễm vi khuẩn truyền nhiễm vi khuẩn mèo mang bệnh đến mèo con và mèo không nhiễm. Trực tiếp, từ mèo sang mèo, sự lan truyền virus thường không xảy ra.
+
+
+== Tham khảo ==

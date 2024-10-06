@@ -1,0 +1,13 @@
+Avibactam là một chất ức chế beta-lactamase non-β-lactam  được phát triển bởi Actavis (nay là Teva) cùng với AstraZeneca. Một thuốc mới phối hợp avibactam với ceftazidine (nhãn hiệu là Avycaz) đã được FDA chấp thuận vào ngày 25 tháng 2 năm 2015, để điều trị đường tiết niệu phức tạp (cUTI) và nhiễm trùng trong ổ bụng phức tạp (cIAI) gây ra bởi mầm bệnh kháng kháng sinh, bao gồm cả những nguyên nhân gây ra bởi mầm bệnh vi khuẩn gram âm kháng đa thuốc.
+Sự tăng đề kháng với cephalosporin của các mầm bệnh vi khuẩn Gram (-), đặc biệt là trong các bệnh nhiễm trùng mắc phải tại bệnh viện, một phần từ việc sản xuất enzyme beta-lactamase làm mất tác dụng của các kháng sinh này. Theo lý thuyết thì việc dùng kèm với chất ức chế β-lactamase có thể khôi phục hoạt tính kháng khuẩn của cephalosporin nhưng các chất ức chế β-lactamases kiểu cũ như clavulanic acid và tazobatam không thể ức chế được các β-lactamases được sinh bởi các mần bệnh gây nhiễm trùng bệnh viên nhưKlebsiella pneumoniae carbapenemases (KPCs), New Delhi metallico--lactamase 1 (NDM-1) và β-lactamases kiểu AmpC. Avibactam là chất ức chế β-lactamases mới, ức chế các men thuộc lớp A (KPC, CTX-M, TEM, SHV), lớp C (AmpC), một số serine β-lactamases loại D (như OXA-23, OXA-48) và được báo cáo là chất chất ức chế yếu của các β-lactamases chứa kim loại (lớp B), như VIM-2, VIM-4, SPM-1, BcII, NDM-1, Fez-1.
+
+
+== Xem thêm ==
+Relebactam
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+T. Edeki; J. Armstrong; J. Li. “Pharmacokinetics of Avibactam (AVI) and Ceftazidime (CAZ) Following Separate or Combined Administration in Healthy Volunteers”. Bản gốc lưu trữ ngày 3 tháng 3 năm 2016.

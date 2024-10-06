@@ -1,0 +1,36 @@
+Biểu diễn Thể hiện Mã hóa Hai chiều từ Transformer (tiếng Anh: Bidirectional Encoder Representations from Transformers hay viết tắt là BERT) là một kỹ thuật học máy  dựa trên các transformer được dùng cho việc huấn luyện trước xử lý ngôn ngữ tự nhiên (NLP) được phát triển bởi Google. Jacob Devlin và cộng sự từ Google đã tạo ra và công bố BERT vào năm 2018. Tính đến  năm 2019, Google đã tận dụng BERT để hiểu rõ hơn các tìm kiếm của người dùng.
+Mô hình BERT bằng tiếng Anh ban đầu đi kèm với hai dạng tổng quát được đào tạo trước:: (1) mô hình the BERTBASE, kiến trúc mạng thần kinh chứa 12-lớp, 768-lớp ẩn, 12-đầu, 110M tham số, và (2) mô hình BERTLARGE model, kiến trúc mạng thần kinh chứa 24-lớp, 1024-lớp ẩn, 16-đầu, 340M tham số. Cả hai đều được huấn luyện từ BooksCorpus với 800M từ, và một phiên bản của Wikipedia tiếng Anh với 2,500M từ.
+
+
+== Hiệu suất ==
+Khi BERT được công bố, nó đạt hiệu suất state of the art trên một vào tác vụ hiểu ngôn ngữ tự nhiên:
+
+Tập tác vụ GLUE (General Language Understanding Evaluation) (chứa 9 tác vụ)
+SQuAD (Stanford Question Answering Dataset) v1.1 và v2.0
+SWAG (Situations With Adversarial Generations)
+
+
+== Lịch sử ==
+BERT có nguồn gốc từ các biểu diễn theo ngữ cảnh trước đào tạo trước bao gồm học trình tự bán giám sát (semi-supervised sequence learning), Generative Pre-Training, ELMo, and ULMFit. Không như các mô hình trước đó, BERT là một
+biểu diễn ngôn ngữ không giám sát và hai chiều sâu, được đào tạo trước chỉ sử dụng một kho ngữ liệu văn bản thuần túy.
+Các mô hình không có ngữ cảnh như Word2vec hay GloVe (học máy) tạo ra các biểu diễn từ nhúng đơn cho mỗi từ trong tập từ vựng, trong khi đó BERT tính đến ngữ cảnh cho mỗi lần xuất hiện của một từ cho trước. Ví dụ: vectơ của từ "running" sẽ có một biểu diễn vectơ Word2vec giống nhau trong hai lần xuất hiện của từ "running" trong các câu "He is running a company" và "He is running a marathon", trong khi đó BERT sẽ cung cấp một nhúng theo ngữ cảnh mà sẽ là khác nhau tùy thuộc theo câu ví dụ.
+Vào ngày 25 tháng 10 năm 2019, Google Tìm kiếm thông báo rằng họ đã bắt đầu áp dụng các mô hình BERT cho các truy vấn tìm kiếm bằng Tiếng Anh tại Hoa Kỳ. Vào ngày 09 tháng 12 năm 2019, có báo báo cho biết BERT đã được Google Tìm kiếm áp dụng cho hơn 70 ngôn ngữ.
+Dựa trên kiến trúc gốc, nhiều phiên bản của BERT được đào tạo trước riêng cho các ngôn ngữ được triển khai và giới thiệu đến cộng đồng trong đó có Tiếng Việt  .
+
+
+== Giải thưởng ==
+BERT giành giải Bài viết Dài Tốt nhất (Best Long Paper Award) tại Hội thảo Thường niên 2019 của North American Chapter thuộc Association for Computational Linguistics (NAACL).
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Rogers, Anna; Kovaleva, Olga; Rumshisky, Anna (2020). "A Primer in BERTology: What we know about how BERT works".  arΧiv:2002.12327 [cs.CL]. 
+
+
+== Liên kết ngoài ==
+Official GitHub repository

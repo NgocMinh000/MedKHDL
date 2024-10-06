@@ -1,0 +1,110 @@
+Bài này viết về rượu nhìn theo phương diện hóa học như là một nhóm chất hữu cơ. Trong Wikipedia tiếng Việt còn có bài viết về các loại thức uống có cồn và ethanol.
+Alcohol (còn được gọi là chất rượu), là một hợp chất hữu cơ 
+Trong đời sống thông thường, từ alcohol được hiểu như là những thức uống có chứa cồn (ethanol) hay ethylic alcohol (C2H5OH).
+
+
+== Cấu trúc ==
+
+Nhóm chức của rượu là nhóm hydroxyl -OH gắn với carbon lai sp³. Còn gọi là nhóm chức alcohol.
+
+
+== Phân loại ==
+Theo cấu trúc:
+Có các loại alcohol mạch thẳng và alcohol mạch nhánh, vòng.
+
+Theo liên kết carbon:
+- Rượu no:
+Ví dụ: CH3-CH2-OH (ethanol),  CH3-OH (methanol),...
+- Rượu không no:
+Ví dụ: CH2=CH-CH2-OH (allyl),...
+- Rượu thơm:
+Ví dụ: C6H5CH2OH (Benzyl alcohol),...
+
+Theo số nhóm chức hydroxyl -OH (nhóm chức alcohol):
+- Rượu đơn chức:
+Ví dụ: CH3-CH2-OH (ethanol), CH3-CH(OH)-CH3 (isopropanol),...
+- Rượu đa chức:
+Ví dụ: OH-CH2-CH2-OH (ethylene glycol), OH-CH2-CH(OH)-CH2-OH (glycerol),...
+*Lưu ý: Một số tài liệu cho rằng phenol C6H5OH là một dạng alcohol, tuy nhiên phenol có một số tính chất hóa học khác hẳn tính chất hóa học chung của rượu và một số nhà khoa học đã xếp phenol và các dãy đồng đẳng của nó vào nhóm phenol do các chất này thể hiện tính acid rõ rệt. Ví dụ phenol có phản ứng với chất base như NaOH còn rượu thì không có phản ứng như thế.
+
+
+== Tính chất vật lý và hóa học ==
+Nhóm hydroxyl làm cho phân tử alcohol phân cực. Nhóm này có thể tạo ra những liên kết hydrogen với nhau hoặc với chất khác. Hai xu hướng hòa tan đối chọi nhau trong các alcohol là: xu hướng của nhóm -OH phân cực tăng tính hòa tan trong nước và xu hướng của chuỗi carbon ngăn cản điều này. Vì vậy, methanol, ethanol và propanol dễ hòa tan trong nước vì nhóm hydroxyl chiếm ưu thế. Butanol hòa tan vừa phải trong nước do sự cân bằng của hai xu hướng. Pentanol và các butanol mạch nhánh hầu như không hòa tan trong nước do sự thắng thế của chuỗi carbon. Vì lực liên kết hóa học cao trong liên kết của alcohol nên chúng có nhiệt độ bốc cháy cao. Vì liên kết hydrogen, alcohol có nhiệt độ sôi cao hơn so với hydrocarbon và ether tương ứng. Mọi alcohol đơn giản đều hòa tan trong các dung môi hữu cơ.
+Alcohol còn được coi là những dung môi. Chúng có thể mất proton H+ trong nhóm hydroxyl và vì vậy chúng có tính acid rất yếu: yếu hơn nước (ngoại trừ methanol), nhưng mạnh hơn ammonia (NH4OH hay NH3) hay acetylene (C2H2).
+C2H5-OH + Na → C2H5-ONa + H2↑
+C2H5-ONa + HCl → C2H5-OH + NaCl
+C2H5-ONa + H2O →
+C2H5-OH
++ NaOH
+Một phản ứng hóa học quan trọng của alcohol là phản ứng thế nucleophile (nucleophilic substitution), trong đó một nhóm nucleophile liên kết với nguyên tử carbon được thay thế bởi một nhóm khác.
+
+Ví dụ: CH3-Br + OH- → CH3OH + Br- (trong môi trường kiềm base)
+Đây là một trong các phương pháp tổng hợp alcohol. Hay:
+
+CH3-OH + Br- → CH3Br + OH- (trong môi trường acid)
+alcohol bản thân nó là những chất nucleophile, vì vậy chúng có thể phản ứng với nhau trong một số điều kiện nhất định về nhiệt độ, áp suất, môi trường v.v... để tạo thành ether và nước. Chúng cũng có thể phản ứng với các hydroxyl acid (hay hydrohalic acid) để sản xuất hợp chất ester, trong đó este của các acid hữu cơ là quan trọng nhất. Với nhiệt độ cao và môi trường acid (ví dụ H2SO4), alcohol có thể mất nước để tạo thành các alkene. Ngược lại, việc thêm nước vào alkene với xúc tác acid thì tạo thành alcohol nhưng ít được sử dụng để tổng hợp alcohol do tạo thành một hỗn hợp. Một số công nghệ kỹ thuật khác để chuyển alkene thành alcohol có độ tin cậy cao hơn. Ngoài ra, do bản thân ancol có các gốc hydrocarbon nên chúng dễ phản ứng với các amine. Ví dụ như N,N-dimethylaniline được sản xuất bằng cách cho aniline tác dụng với methanol theo tỷ lệ 1:2.
+
+
+== Độc tính ==
+
+
+=== Ethanol ===
+Các hình thức thức uống có cồn được sử dụng từ rất lâu trong lịch sử loài người như hội hè, ăn kiêng, y tế, tôn giáo v.v... Việc sử dụng một lượng vừa phải cồn thì không có hại hoặc có thể có lợi cho cơ thể nhưng một lượng lớn cồn có thể dẫn đến tình trạng say rượu hay ngộ độc rượu cấp tính và các tình trạng nguy hiểm cho sức khỏe như: nôn, khó thở do thiếu oxygen, lạnh, đột tử hoặc tình trạng nghiện rượu dẫn đến tổn thương gan, não nếu sử dụng thường xuyên.
+Các loại alcohol khác độc hơn ethanol rất nhiều, một phần vì chúng tốn nhiều thời gian hơn để phân hủy cũng như trong quá trình phân hủy chúng tạo ra nhiều chất độc cho cơ thể. Methanol (Cồn công nhiệp) được oxy hóa bởi các enzyme khử hydrogen trong gan tạo ra fomaldehyde (formol) có thể gây mù hoặc tử vong.
+Uống nhiều rượu rất có hại với sức khoẻ, người nghiện rượu có thể mắc bệnh suy sinh dưỡng, giảm thị lực...
+
+
+=== Methanol ===
+Methanol (Cồn công nghiệp) là một chất rất độc, chỉ một lượng nhỏ xâm nhập vào cơ thể cũng có thể gây mù lòa, lượng lớn hơn có thể gây tử vong. Có một điều thú vị là để ngăn chặn ngộ độc do dùng nhầm methanol thì người ta cho người bị ngộ độc dùng Ethanol. Ethanol sẽ liên kết với các enzyme khử hydro và ngăn không cho methanol liên kết với các enzyme này
+
+
+== Sử dụng ==
+Cồn có công dụng trong việc sản xuất thức uống (ethanol). Lưu ý là phần lớn các loại cồn không thể sử dụng như thức uống vì độc tính (toxicity) của nó hay làm nguồn nhiên liệu (methanol) hoặc dung môi hữu cơ cũng như nguyên liệu cho các sản phẩm khác trong công nghiệp (nước hoa, xà phòng v.v...).
+Methanol chủ yếu được dùng để sản xuất Andehit Fomic nguyên liệu cho công nghiệp chất dẻo.
+Ethanol dùng để điều chế một số hợp chất hữu cơ như acetic acid, diethyl ether, ethyl acetate...Do có khả năng hòa tan tốt một số hợp chất hữu cơ nên ehtanol được dùng để pha vecni, dược phẩm, nước hoa... Trong đời sống hàng ngày ethanol được dùng để pha chế các loại thức uống với độ alcohol khác nhau.
+
+
+== Sản xuất ==
+Phần lớn các loại alcohol được sản xuất bằng phương pháp hóa học từ các chất hữu cơ sẵn có trong tự nhiên như dầu mỏ, hơi đốt hoặc than. Trong công nghiệp sản xuất thức uống người ta sử dụng phương pháp khác: lên men hoa quả hoặc ngũ cốc để tạo ra thức uống có chứa cồn (ethanol). Ngoài ra, trong phòng thí nghiệm, nếu chỉ cần một lượng nhỏ, ta có nhiều cách để tạo như:
+
+
+=== Các phương pháp chung cho alcohol no đơn chức ===
+Hydrate hóa alkene (cộng nước vào alkene): Đun nóng alkene với nước và chất xúc tác acid H2SO4, HCl, HBr, HClO4... Phản ứng theo cơ chế electrophile theo quy tắc Markovnikov.
+CH2=CH2 + H2O → CH3-CH2OH (Xúc tác H+)
+Thủy phân dẫn xuất halogen: Đun nóng Halogen trong dung dịch kiềm.
+C2H5Br + NaOH → C2H5OH + NaBr
+Đi từ aldehyde và ketone: Cộng hydrogen khi có xúc tác kim loại như Ni, Pt... cũng tạo thành alcohol bậc I.
+CH3CHO + H2 → CH3-CH2OH (Có xúc tác)
+Phản ứng của amine bậc I với HNO2.
+RNH2 + HNO2 → ROH + N2 +H2O
+
+
+=== Một số phương pháp riêng ===
+Lên men tạo ethanol từ tinh bột hoặc cellulose
+(C6H10O5)n + nH2O → nC6H12O6
+C6H12O6 → 2C2H5OH + 2CO2
+Tạo methanol: CO + 2H2 → CH3OH (300-400 °C và 250-300 at)
+hoặc dùng: 2 CH4 + O2 → 2 CH3OH (200 °C, 100 at)
+Thủy phân dầu mỡ động vật tạo glycerol.
+
+
+== Cách đặt tên ==
+
+
+=== Hệ thống hóa tên gọi ===
+Tên chung cho các loại alcohol thường được lấy theo tên của alkyl và thêm từ alcohol vào sau cộng với hậu tố -ic cuối gốc alkyl. Ví dụ methylic alcohol và ethylic alcohol. Đối với các loại alcohol phức tạp, tên gọi chung phụ thuộc vào vị trí của nhóm chức alcohol trong mạch carbon mà gọi là alcohol bậc nhất, bậc hai hay bậc ba.
+Trong hệ thống tên gọi của IUPAC, thì thêm hậu tố -ol vào tên của alkane (bỏ -e ở cuối). Ví dụ methane --> methanol. Trong trường hợp cần thiết thì vị trí của nhóm hydroxyl được thêm vào trước hoặc sau tên gọi. Ví dụ 1-propanol hay propanol-1. Một cách đặt tên khác là thêm tiền tố hydroxy vào tên của alkane: 1-hydroxypropane, 2-hydroxypropane.
+Alcohol bậc ba thì thêm tiền tố 3 trước tên của alkyl + ic.
+
+Ví dụ: (CH3)3COH là alcohol 3-buthylic, hay 2-methyl 2-propanol theo quy tắc của IUPAC, chỉ ra rằng cả hai nhóm methyl và nhóm hydroxyl cùng gắn với nguyên tử ở giữa (thứ hai) của chuỗi propane.
+Alcohol với hai nhóm chức hydroxyl được gọi chung là "glycol", ví dụ HO-CH2CH2-OH là ethylene glycol. Tên gọi của nó theo IUPAC là 1,2-ethanediol, "diol" chỉ rằng có hai nhóm hydroxyl, và 1,2 chỉ vị trí liên kết của chúng. Các glycol tương tự (với cả hai nhóm hydroxyl liên kết với một nguyên tử carbon), như 1,1-ethandiol, nói chung là không ổn định. Đối với alcohol có ba hoặc bốn nhóm chức alcohol, sử dụng hậu tố "triol" và "tetraol".
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+Alcohol (chemical compound) tại Encyclopædia Britannica (tiếng Anh)
+Alcohol (Ethanol) at The Periodic Table of Videos (University of Nottingham)
+Metcalf, Allan A. (1998). The World in So Many Words. Houghton Mifflin. ISBN 0395959209.

@@ -1,0 +1,95 @@
+Trong ngành khoa học máy tính, các phương pháp hình thức là các kỹ thuật toán học cho việc đặc tả, phát triển và kiểm định các hệ thống phần mềm và phần cứng. Cách tiếp cận này đặc biệt quan trọng đối với các hệ thống cần có tính toàn vẹn cao, chẳng hạn hệ thống điều khiển lò phản ứng hạt nhân hay điều khiển tên lửa, khi an toàn hay an ninh có vai trò quan trọng, để góp phần đảm bảo rằng quá trình phát triển hệ thống sẽ không có lỗi. Các phương pháp hình thức đặc biệt hiệu quả tại giai đoạn đầu của quá trình phát triển (tại các mức yêu cầu và đặc tả hệ thống), nhưng cũng có thể được sử dụng cho một quá trình phát triển hoàn chỉnh của một hệ thống.
+
+
+== Phân loại ==
+Các phương pháp hình thức có thể được sử dụng tại nhiều mức:
+Mức 0: Đặc tả hình thức có thể được thực hiện và rồi một chương trình được phát triển từ đặc tả này một cách không hình thức. Trong nhiều trường hợp, cách này có thể là lựa chọn hiệu quả nhất về mặt chi phí.
+Mức 1: Sử dụng phát triển và kiểm định hình thức để tạo một chương trình theo một quy trình hình thức hơn. Ví dụ, có thể thực hiện các chứng minh về các tính chất hoặc quá trình tinh chỉnh (refinement) từ đặc tả hình thức tới một chương trình. Đây có thể là lựa chọn phù hợp nhất đối với các hệ thống yêu cầu tính toàn vẹn cao với các tiêu chí về an toàn và an ninh.
+Mức 2: Sử dụng các bộ chứng minh định lý (theorem prover) để thực hiện các chứng minh hình thức hoàn toàn và được kiểm chứng bằng máy móc. Việc này có thể đòi hỏi chi phí rất cao và chỉ đáng lựa chọn trong thực tiễn nếu phí tồn cho các lỗi sai là cực kỳ cao (ví dụ, trong các phần quan trọng của thiết kế bộ vi xử lý).
+Cùng với ngành con Ngữ nghĩa hình thức của ngôn ngữ lập trình, các phương pháp hình thức có thể được phân loại tương đối như sau:
+
+Ngữ nghĩa ký hiệu (Denotational semantics), trong đó ý nghĩa của một hệ thống được biểu diễn bằng lý thuyết toán học về miền xác định. Lợi điểm của những phương pháp này phụ thuộc vào bản chất được hiểu rõ của các miền xác định để từ đó đem lại ý nghĩa cho hệ thống; các phê phán chỉ ra rằng không phải hệ thống nào cũng có thể được nhìn một cách tự nhiên hoặc trực quan dưới dạng một hàm số.
+Ngữ nghĩ hoạt động (Operational semantics), trong đó, ý nghĩa của một hệ thống được biểu diễn bằng một chuỗi các hành động của một mô hình tính toán (giả thiết là) đơn giản hơn. Lợi điểm của phương pháp này là tính đơn giản của các mô hình tạo nên sự trong sáng của biểu diễn; nhược điểm là phương pháp này đã trì hoãn các vấn đề của ngữ nghĩa (ai định nghĩa ngữ nghĩa của các mô hình đơn giản hơn?)
+Ngữ nghĩa tiên đề (Axiomatic semantics), trong đó ý nghĩa của hệ thống được biểu diễn theo các tiền điều kiện (precondition) và hậu điều kiện (postcondition), đây lần lượt là các điều kiện phải được thỏa mãn tại các thời điểm trước và sau khi hệ thống thực hiện một nhiệm vụ. Những người ủng hộ phương pháp này nói đến mối quan hệ của nó với lôgic kinh điển; những người phê phán nói rằng những ngữ nghĩa thuộc dạng này không thực sự mô tả xem hệ thống làm cái gì (chỉ là cái gì đúng trước đó và sau đó).
+
+
+== Sử dụng ==
+Các phương pháp hình thức có thể được áp dụng tại nhiều điểm khác nhau trong cả quá trình phát triển phần mềm. (Tuy có thể nói đến một quá trình phát triển bất kỳ, để thuận tiện, ta sẽ dùng các thuật ngữ của mô hình thác nước).
+
+
+=== Đặc tả ===
+Các phương pháp hình thức có thể được sử dụng để mô tả về hệ thống cần phát triển, tại bất kỳ mức độ chi tiết nào mà ta muốn. Mô tả hình thức này có thể được sử dụng để hướng dẫn các hoạt động phát triển tiếp theo (xem các mục dưới); ngoài ra, nó có thể được sử dụng để kiểm định xem các yêu cầu cho hệ thống đang được phát triển đã được đặc tả một cách đầy đủ và chính xác hay chưa.
+Nhu cầu về các hệ thống đặc tả hình thức đã được nói đến từ nhiều năm. Trong Báo cáo ALGOL 60, John Backus đã trình bày một hệ thống ký hiệu hình thức để mô tả cú pháp ngôn ngữ lập trình (sau này được đặc tên là Backus normal form hay Backus-Naur form (BNF) (Dạng chuẩn tắc Backus));
+
+
+=== Phát triển ===
+Khi một đặc tả hình thức đã được phát triển xong, đặc tả đó có thể được sử dụng làm một hướng dẫn trong quá trình hệ thống thực được phát triển (nghĩa là được hiện thực hóa trong phần mềm và/hoặc phần cứng). Ví dụ:
+
+Nếu đặc tả hình thức là một ngữ nghĩa hoạt động, hành vi được quan sát của hệ thống thực sẽ có thể được so sánh với hành vi trong đặc tả (chính đặc tả cũng nên chạy được hoặc giả lập được). Thêm vào đó, các lệnh hoạt động của đặc tả có thể thích hợp cho việc dịch thẳng mã chạy được.
+Nếu đặc tả hình thức là một ngữ nghĩa tiên đề, các tiền điều kiện và hậu điều kiện của đặc tả có thể trở thành các assertion
+If the formal specification is in an axiomatic semantics, the preconditions and postconditions of the specification may become khẳng định (assertion') trong mã chạy được.
+
+
+=== Kiểm định ===
+Khi một đặc tả hình thức đã được phát triển, đặc tả này có thể được dùng làm cơ sở cho việc chứng minh các tính chất của đặc tả.
+
+
+==== Chứng minh của con người ====
+Đôi khi, động cơ cho việc chứng minh tính đúng đắn của một hệ thống không phải là nhu cầu đảm bảo tính đúng đắn của hệ thống mà là mong muốn hiểu rõ hơn về hệ thống. Do đó, một số chứng minh được thực hiện dưới hình thức chứng minh toán học: viết tay hoặc đánh máy nội dung bằng ngôn ngữ tự nhiên, với mức độ phi hình thức như các chứng minh toán học thông thường mà con người vẫn thực hiện. Một chứng minh "tốt" là một chứng minh mà những người khác có thể đọc được và hiểu được.
+Các phê phán đối với cách tiếp cận này nói rằng tính đa nghĩa cố hữu trong ngôn ngữ tự nhiên cho phép các lỗi sai trong các chứng minh đó có thể không bị phát hiện; nhiều khi, những lỗi tinh vi có thể xuất hiện trong các chi tiết mức thấp mà thường không được để ý đến bởi những chứng minh thuộc kiểu này. Ngoài ra, việc tạo ra các chứng minh tốt đòi hỏi trình độ toán học cao.
+
+
+==== Chứng minh tự động ====
+Ngược lại, ngày càng có nhiều quan tâm đến các chứng minh về tính đúng đắn của hệ thống bằng các phương tiện tự động. Các kỹ thuật tự động được phân thành hai loại chính:
+
+Chứng minh định lý tự động, trong đó, khi cho trước một mô tả về hệ thống, một tập các tiên đề lôgic và một tập các quy tắc suy luận, một hệ thống sẽ cố gắng tự xây dựng một chứng minh hình thức từ đầu.
+Kiểm tra mô hình, trong đó, một hệ thống kiểm định các tính chất nhất định bằng cách duyệt trong toàn bộ tất cả các trạng thái mà trong thời gian chạy, hệ thống có thể vào trạng thái đó.
+Cả hai kỹ thuật trên đều hoạt động mà không cần đến sự hỗ trợ của con người. Các bộ chứng minh định lý tự động thường yêu cầu định hướng xem các tính chất nào là đáng quan tâm; các bộ kiểm tra mô hình có thể nhanh chóng sa lầy vào việc kiểm tra hàng triệu trạng thái không đáng quan tâm nếu không được cho trước một mô hình đủ trừu tượng.
+Những người ủng hộ các hệ thống này cho rằng các kết quả của chúng có độ xác tính toán học cao hơn các chứng minh của con người, do tất cả các chi tiết buồn tẻ đã được kiểm định một cách có thuật toán. Việc huấn luyện cần thiết để có thể sử dụng được các hệ thống này cũng ít hơn đòi hỏi cần thiết cho việc tạo ra các chứng minh toán học tốt bằng tay. Nhờ đó, các kỹ thuật này có thể dùng được cho nhiều người hơn.
+Những người phê phán cho rằng các hệ thống kiểu này giống như máy sấm truyền: chúng đưa ra các tuyên bố về sự thật nhưng lại không đưa ra giải thích nào về sự thực đó. Còn có cả vấn đề "kiểm định hệ kiểm định"; nếu chính chương trình tham gia công tác kiểm định không được chứng minh là đúng, thì có thể có lý do để nghi ngờ tính đúng đắn của các kết quả được tạo ra.
+
+
+== Phê phán ==
+Bên cạnh các phê phán nội bộ nói trên, còn có các phê phán dành cho toàn bộ ngành các phương pháp hình thức. Với tầm phát triển hiện nay, các chứng minh về tính đúng đắn, bằng tay hoặc bằng máy tính, đòi hỏi nhiều thời gian (và do đó cả tiền bạc) để được tạo ra, với lợi ích hạn chế ngoài việc đảm bảo tính đúng đắn. Điều đó làm cho các phương pháp hình thức thường chỉ được dùng trong các lĩnh vực thu được lợi ích từ việc có được các chứng minh đó, hoặc sẽ gặp nguy hiểm nếu có các lỗi không được phát hiện. Ví dụ, trong kỹ thuật hàng không, các lỗi không được phát hiện có thể gây chết chóc, do đó các phương pháp hình thức được dùng rộng rãi trong ngành này hơn trong các lĩnh vực ứng dụng khác.
+
+
+== Các phương pháp hình thức và hệ thống ký hiệu ==
+Abstract State Machines (ASMs)
+Alloy
+B-Method
+Process calculi
+CSP
+π-calculus
+Actor model
+Esterel
+Lustre
+Petri nets
+RAISE
+VDM
+Z notation
+
+
+== Xem thêm ==
+Chứng minh định lý tự động
+Kiểm tra mô hình (Model checking)
+Kỹ nghệ phần mềm
+Các thảm họa kỹ nghệ phần mềm
+
+
+== Tham khảo ==
+_  Sten Agerholm and Peter G. Larsen, "A Lightweight Approach to Formal Methods" Lưu trữ 2009-03-19 tại Wayback Machine, In Proceedings of the International Workshop on Current Trends in Applied Formal Methods, Boppard, Germany, Springer-Verlag, tháng 10 năm 1998
+_  Richard Denney, Succeeding with Use Cases: Working Smart to Deliver Quality, Addison-Wesley Professional Publishing, 2005, ISBN 0-321-31643-6.
+_  Vinu George and Rayford Vaughn, "Application of Lightweight Formal Methods in Requirement Engineering" Lưu trữ 2010-09-24 tại Wayback Machine, Crosstalk: The Journal of Defense Software Engineering, tháng 1 năm 2003
+_  Daniel Jackson, "Alloy: A Lightweight Object Modelling Notation", ACM Transactions on Software Engineering and Methodology (TOSEM), Volume 11, Issue 2 (tháng 4 năm 2002), pp. 256–290
+_  Daniel Jackson and Jeannette Wing, "Lightweight Formal Methods", IEEE Computer, tháng 4 năm 1996
+
+
+== Liên kết ngoài ==
+tiếng Anh:
+
+Formal methods publications Lưu trữ 2006-11-07 tại Wayback Machine
+Virtual Library formal methods Lưu trữ 2007-02-13 tại Wayback Machine
+Who's who in formal methods Lưu trữ 2006-09-25 tại Wayback Machine
+Meetings Lưu trữ 2006-09-25 tại Wayback Machine
+Organizations Lưu trữ 2006-09-10 tại Wayback Machine
+Companies Lưu trữ 2006-09-25 tại Wayback Machine

@@ -1,0 +1,95 @@
+Trong ngôn ngữ học, phần chủ đề hoặc thoại đề (tiếng Anh: theme/topic) của một câu là cái mà đang được đàm thoại đến, còn phần bình luận (gọi là thuyết hoặc tiêu điểm, tiếng Anh: rheme/focus) là cái mà đang được nói về chủ đề đấy. Sự phân chia thành nội dung cũ với mới này thì được gọi là cấu trúc thông tin. Nói chung, người ta đồng ý rằng tiểu cú (clause) thì được chia thành chủ đề với bình luận, nhưng trong những trường hợp nhất định, ranh giới giữa chúng lại phụ thuộc vào lý thuyết ngữ pháp đặc thù nào đang được sử dụng để phân tích câu.
+Chủ đề – do những 'cân nhắc mang tính ngữ dụng' định nghĩa – là một khái niệm cách biệt với chủ ngữ – do cú pháp định nghĩa. Trong bất kỳ câu nào đó thì chúng có thể là một, nhưng lại không nhất thiết là vậy. Cho ví dụ, trong câu Tiếng Anh "As for the little girl, the dog bit her", chủ ngữ là "the dog" nhưng chủ đề là "the little girl".
+Chủ đề và chủ ngữ cũng là những khái niệm cách biệt với tác thể (hoặc hành thể)—tức là "cái thực hiện/người thực hiện", do ngữ nghĩa định nghĩa. Trong tiểu cú Tiếng Anh mà động từ ở dạng bị động, thì chủ đề thường là chủ ngữ, còn tác thể lại bị tỉnh lược hoặc có thể theo sau giới từ "by". Cho ví dụ, trong câu "The little girl was bitten by the dog", "the little girl" là chủ ngữ và cũng là chủ đề, nhưng "the dog" là tác thể.
+Trong một số ngôn ngữ, trật tự từ và các hiện tượng cú pháp khác đều được xác định phần lớn dựa trên cấu trúc chủ đề–bình luận (đề–thuyết). Những ngôn ngữ này đôi khi được đề cập là ngôn ngữ nổi bật chủ đề. Tiếng Hàn và Tiếng Nhật đều hay được đưa ra làm ví dụ cho điều này.
+
+
+== Định nghĩa và ví dụ ==
+"Chủ đề" hoặc "thoại đề" ở mức câu hoặc tiểu cú thì có thể được định nghĩa theo nhiều cách khác nhau. Tựu trung thì phổ biến nhất là:
+
+a) cụm từ trong tiểu cú mà phần còn lại của tiểu cú đấy được hiểu là nói về phần đề,
+b) một vị trí đặc biệt trong một tiểu cú (hay ở cạnh phải hoặc cạnh trái của tiểu cú đấy) tại đó các chủ đề thường xuất hiện.
+Trong một tiểu cú Tiếng Anh thông thường, chủ ngữ thường là một với chủ đề/thoại đề (ví dụ 1), ngay cả trong thể bị động (trong đó, chủ ngữ là bị thể, không phải là tác thể: ví dụ 2):
+
+(1) The dog bit the little girl.
+(2) The little girl was bitten by the dog.
+Các tiểu cú này có các chủ đề khác nhau: đầu tiên là về the dog, và thứ hai là về the little girl.
+Trong tiếng Anh thì cũng có thể sử dụng các cấu trúc câu khác để thể hiện chủ đề của câu, như sau:
+
+(3) As for the little girl, the dog bit her.
+(4) It was the little girl that the dog bit.
+Trường hợp từ chêm thì đôi khi khá là phức tạp. Xem xét các câu có các từ chêm (chủ đề vô nghĩa), như:
+
+(6) It is raining.
+(7) There is some room in this house.
+(8) There are two days in the year in which the day and the night are equal in length.
+Trong các ví dụ này, vị trí của chủ ngữ cú pháp (ở bên trái của động từ) được phối trí bởi 'từ chêm' vô nghĩa ("it" hoặc "there"), mà mục đích duy nhất của nó là thỏa mãn nguyên lý phóng chiếu mở rộng, và tuy vậy lại cần thiết. Trong những câu này, chủ đề không bao giờ là chủ ngữ, mà được xác định theo ngữ dụng. Trong hết các trường hợp này, cả câu đều đề cập đến phần bình luận.
+Không nên nhầm lẫn mối quan hệ giữa 'chủ đề/thoại đề' và 'bình luận/thuyết/tiêu điểm' với mối quan hệ nhận xét chủ đề trong Lý thuyết Cấu trúc Tu từ–Treebank Diễn ngôn (RST–DT corpus) trong đó nó được định nghĩa là "một phát biểu hoặc chủ đề chung của sự thảo luận được giới thiệu, sau đó, một nhận xét đặc thù được đưa ra về phát biểu hoặc chủ đề đấy". Ví dụ: "[Trong chừng mực bảng Anh mà nói,] [một số thương nhân bảo rằng chuyện trượt về phía hỗ trợ tại 1.5500 có thể là một sự phát triển thuận lợi cho đồng đô la tuần này.]"
+
+
+== Hiện thực hóa của đề–thuyết ==
+Những ngôn ngữ khác nhau đều đánh dấu chủ đề theo những cách khác nhau. Ngữ điệu cách biệt và trật tự từ là 2 phương tiện phổ biến nhất. Xu hướng đặt các 'thành tố được chủ đề hóa' tại đầu câu (nhích chủ đề ra trước) là hướng phổ biến. 'Nhích chủ đề ra trước' (topic fronting) đề cập đến việc đặt chủ đề tại phần đầu của một tiểu cú bất kể nó có được đánh dấu hay không. Vả lại, các nhà ngôn ngữ học không đồng ý về nhiều tiểu tiết.
+Các ngôn ngữ thường thể hiện các loại ngữ pháp khác nhau cho 'những câu giới thiệu chủ đề mới' và cho 'những câu tiếp tục thảo luận về các chủ đề đã được thiết lập trước đó'.
+Khi một câu tiếp tục thảo luận về một chủ đề được thiết lập trước đó, có khả năng nó sử dụng đại từ để đề cập đến chủ đề. Những chủ đề như vậy có xu hướng là chủ ngữ. Trong nhiều ngôn ngữ, những đại từ đề cập đến các chủ đề được thiết lập trước đó thì sẽ thể hiện tính chất lược bỏ đại từ.
+
+
+=== Trong Tiếng Anh ===
+Chủ đề/thoại đề được đặt ở đầu tiểu cú (clause), và cũng thường được đánh dấu nổi bật bằng ngữ điệu.
+
+
+=== Trong các ngôn ngữ khác ===
+Tiếng Việt, Tiếng Nhật và Tiếng Hàn: chủ đề thường được đánh dấu bằng một hậu giới từ lần lượt là "thì", "は" (wa) hoặc "는/은" (neun/eun).
+Trong Tiếng Pháp Bờ Biển Ngà, chủ đề được đánh dấu bằng hậu giới từ « là ». Chủ đề có thể là một danh từ hoặc một cụm danh từ nhưng không nhất thiết luôn là thế: « Voiture-là est jolie deh »; « Aujourd'hui-là il fait chaud »; « Pour toi-là n'est pas comme pour moi hein »; « Nous qui sommes ici-là, on attend ça seulement ».
+Cái mà gọi là các ngôn ngữ có trật tự từ tự do (vd. Tiếng Nga, tiếng Séc, tiếng Trung (ở một mức độ nhất định) và tiếng Đức) thì lại sử dụng trật tự từ làm phương tiện chính làm cách đánh dấu. Thường thì chủ đề đi trước tiêu điểm: Ví dụ, trong một số ngôn ngữ Xla-vơ như tiếng Séc và tiếng Nga, cả hai loại trật tự đều khả dĩ. Trật tự mà có 'phần thuyết' đặt ở đầu câu thì được gọi là trật tự chủ quan (Vilém Mathesius đã phát minh ra thuật ngữ đấy và đối nghịch nó với trật tự khách quan) và biểu đạt sự dính líu cảm xúc nhất định. Hai loại trật tự được khu biệt bằng ngữ điệu.
+Trong Tiếng Do Thái hiện đại, một chủ đề có thể theo sau phần thuyết của nó. Trong trường hợp này, chủ ngữ cú pháp của câu là một từ chêm ("ze", lit. "đấy"). Ví dụ: זה מאד מענין הספר הזה "ze meod meanyen ha-sefer ha-ze" (lit. "Đấy rất thú vị cuốn sách này") có nghĩa là "Cuốn sách này rất thú vị".
+Trong Ngôn ngữ ký hiệu của Mỹ, một chủ đề có thể được trần thuật ở đầu câu (được biểu thị bằng cách nhướn mày và nghiêng đầu) mô tả đối tượng, rồi phần còn lại của câu mô tả những gì xảy ra với đối tượng đó.
+
+
+== Ứng dụng thực tiễn ==
+Ứng dụng chính của cấu trúc đề–thuyết là ở trong lĩnh vực công nghệ phát ngôn, đặc biệt hơn cả là để thiết kế các 'Tác thể đàm thoại hiện thân' (Embodied conversational agents) (gán định tiêu điểm ngữ điệu, mối quan hệ giữa cấu trúc thông tin và dáng bộ và cử chỉ). Đã có một số sự cố gắng để áp dụng lý thuyết về chủ đề/bình luận cho sự thu hồi thông tin và sự tóm tắt tự động.
+
+
+== Lịch sử ==
+Sự khu biệt giữa chủ ngữ và chủ đề có lẽ được Henri Weil lần đầu tiên đề xuất vào năm 1844. Ông đã thiết lập kết nối giữa cấu trúc thông tin và trật tự từ. Georg von der Gabelentz đã khu biệt chủ thể tâm lý (chủ đề đại khái) và đối tượng tâm lý (tiêu điểm đại khái). Trong học phái Prague, sự song phân (dichotomy) – có thuật ngữ là cấu âm chủ đề–tiêu điểm (topic–focus articulation) – chủ yếu đã được nghiên cứu bởi Vilém Mathesius, Jan Firbas, František Daneš, Petr Sgall và Eva Hajičová. Chủ yếu do mối quan hệ của nó với ngữ điệu và trật tự từ đã khiến họ quan tâm. Mathesius cũng đã chỉ ra rằng chủ đề không cung cấp thông tin mới mà chỉ kết nối câu với ngữ cảnh. Công trình của Michael Halliday vào những năm 1960 chịu trách nhiệm cho việc phát triển khoa học ngôn ngữ thông qua mô hình ngôn ngữ học chức năng hệ thống của ông cho tiếng Anh.
+
+
+== Xem thêm ==
+Tiêu điểm (ngôn ngữ học)
+Vị ngữ
+Chức năng tạo văn bản (ngôn ngữ học chức năng hệ thống)
+Đẳng thức chủ đề
+Chủ đề hóa
+Chỉ tố chủ đề
+Ngôn ngữ nổi bật chủ đề
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+=== Tiếng Việt ===
+Cao Xuân Hạo. 1991. Tiếng Việt – Sơ thảo ngữ pháp chức năng.
+Cao Xuân Hạo. 1998. Tiếng Việt – Mấy vấn đề ngữ âm, ngữ pháp và ngữ nghĩa.
+Cao Xuân Hạo. 2001. Tiếng Việt – Văn Việt – Người Việt.
+
+
+=== Ngoài Tiếng Việt ===
+Givón, Talmy. 1983a. Topic continuity in discourse: A quantitative cross-language study. Amsterdam: Arshdeep Singh.
+Hajičová, Eva, Partee, Barbara H., Sgall, Petr. 1998. Topic–Focus Articulation, Tripartite Structures, and Semantic Content. Studies in Linguistics and Philosophy 71. Dordrecht: Kluwer. (ix + 216 pp.) review Lưu trữ 2005-04-28 tại Archive.today
+Halliday, Michael A. K. 1967–68. "Notes on transitivity and theme in English" (Part 1–3). Journal of Linguistics, 3 (1). 37–81; 3 (2). 199–244; 4(2). 179–215.
+Halliday, Michael A. K. (1970). "Language structure and language function." In J. Lyons (Ed.), New Horizons in Linguistics. Harmondsworth: Penguin, 140–65.
+Hockett, Charles F.. 1958. A Course in Modern Linguistics. New York: The Macmillan Company. (pp. 191–208)
+Mathesius, Vilém. 1975. A Functional Analysis of Present Day English on a General Linguistic Basis. edited by Josef Vachek, translated by Libuše Dušková. The Hague – Paris: Mouton.
+Kadmon, Nirit. 2001. Pragmatics Blackwell Publishers. Blackwell Publishers.
+Lambrecht, Knud. 1994. Information structure and sentence form. Cambridge: Cambridge University Press.
+Li, Charles N., Thompson, Sandra A. 1976. Subject and Topic: A New Typology of Languages, in: Li, Charles N. (ed.) Subject and Topic, New York/San Francisco/London: Academic Press, 457–90.
+Payne, Thomas E. 1997. Describing morphosyntax: A guide for field linguists. Cambridge: Cambridge University Press.
+Von der Gabelentz, Georg. 1891. Die Sprachwissenschaft, ihre Aufgaben, Methoden und bisherigen Ergebnisse. Leipzig: T.O. Weigel Nachfolger.
+Weil, Henri. 1887. De l'ordre des mots dans les langues anciennes comparées aux langues modernes: question de grammaire générale. 1844. Published in English as The order of words in the ancient languages compared with that of the modern languages.
+
+
+== Liên kết ngoài ==
+SFG page: theme – an explanation, for beginners, of theme in systemic functional grammar by Alvin Leong
+Iliev, Iv. The Russian Genitive of Negation and Its Japanese Counterpart. International Journal of Russian Studies. 1, 2018

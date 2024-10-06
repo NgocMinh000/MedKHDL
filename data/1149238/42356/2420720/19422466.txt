@@ -1,0 +1,24 @@
+Hệ thống thị giác hay hệ thị giác bao gồm cơ quan cảm giác (mắt) và một phần của hệ thống thần kinh trung ương giúp sinh vật có khả năng xử lý chi tiết thị giác như thị giác, cũng như cho phép hình thành một số chức năng phản ứng hình ảnh không phải là hình ảnh. Nó phát hiện và giải thích thông tin từ ánh sáng khả kiến (có thể nhìn thấy loài đó) để "xây dựng một hình ảnh thể hiện" môi trường xung quanh. Hệ thống thị giác thực hiện một số nhiệm vụ phức tạp, bao gồm tiếp nhận ánh sáng và hình thành các biểu diễn một mắt, các cơ chế thần kinh tạo ra thị giác hình nổi, xác định và phân loại các đối tượng thị giác, đánh giá khoảng cách đến và giữa các vật thể, nhận thức chuyển động, cơ thể hướng dẫn chuyển động liên quan đến các đối tượng nhìn thấy, tầm nhìn màu sắc, và nhiều hơn nữa. Mặt tâm lý của việc cung cấp thông tin thị giác được gọi là nhận thức thị giác, thiếu nhận thức này được gọi là mù. Các chức năng thị giác không hình ảnh, độc lập với nhận thức thị giác, bao gồm phản xạ ánh sáng đồng tử (PLR), quang hóa sinh học và những thứ khác.
+Bài viết này chủ yếu mô tả hệ thống thị giác của động vật có vú, đặc biệt là con người, mặc dù các loài động vật khác có hệ thống thị giác tương tự (xem thị giác của chim, thị giác ở cá, mắt nhuyễn thể và thị giác của bò sát).
+
+
+== Tổng quan hệ thống ==
+
+
+=== Cơ học ===
+Giác mạc và thấu kính cùng nhau khúc xạ ánh sáng thành một hình ảnh nhỏ và chiếu nó lên võng mạc. Võng mạc chuyển hình ảnh này thành các xung điện bằng cách sử dụng que và hình nón. Các dây thần kinh thị giác sau đó mang các xung này qua kênh quang. Khi đạt đến chiasm thị giác, các sợi thần kinh phân tách ra (trái trở thành phải). Các sợi sau đó phân nhánh và chấm dứt ở ba vị trí khác nhau.
+
+
+=== Thần kinh ===
+Hầu hết các sợi thần kinh thị giác đều kết thúc ở nhân geniculation bên (LGN). Trước khi LGN chuyển tiếp các xung tới V1 của vỏ thị giác (chính), nó đo phạm vi của các đối tượng và gắn thẻ mọi đối tượng chính bằng thẻ vận tốc. Các thẻ này dự đoán chuyển động của đối tượng.
+LGN cũng gửi một số sợi tới V2 và V3.
+V1 thực hiện phát hiện cạnh sườn để tìm hiểu tổ chức không gian (ban đầu, 40 mili giây, tập trung vào những thay đổi không gian và màu sắc nhỏ. Sau đó, 100 mili giây sau khi nhận được thông tin LGN, V2 và V3 đã dịch, cũng bắt đầu tập trung vào tổ chức toàn cầu). V1 cũng tạo ra một bản đồ độ mặn từ dưới lên để hướng sự chú ý hoặc nhìn chằm chằm.
+V2 cả hai chuyển tiếp (trực tiếp và thông qua pulvinar) xung đến V1 và nhận chúng. Pulvinar chịu trách nhiệm cho saccade và sự chú ý trực quan. V2 phục vụ nhiều chức năng tương tự như V1, tuy nhiên, nó cũng xử lý các đường viền ảo ảnh, xác định độ sâu bằng cách so sánh các xung trái và phải (hình ảnh 2D) và phân biệt tiền cảnh. V2 kết nối với V1 - V5.
+V3 giúp xử lý 'chuyển động toàn cầu' (hướng và tốc độ) của các đối tượng. V3 kết nối với V1 (yếu), V2 và vỏ não thái dương kém.
+V4 nhận ra các hình dạng đơn giản, nhận đầu vào từ V1 (mạnh), V2, V3, LGN và pulvinar. Các kết quả đầu ra của V5 bao gồm V4 và khu vực xung quanh của nó, và các vỏ động cơ chuyển động mắt (vùng mắt phía trước và vùng bên trong bên).
+Chức năng của V5 tương tự như chức năng của các V khác, tuy nhiên, nó tích hợp chuyển động của đối tượng cục bộ thành chuyển động toàn cầu ở mức độ phức tạp. V6 hoạt động cùng với V5 về phân tích chuyển động. V5 phân tích tự chuyển động, trong khi động cơ V6 phân tích chuyển động của các vật thể so với nền. Đầu vào chính của V6 là V1, với các bổ sung V5. V6 nhà bản đồ địa hình cho tầm nhìn. Đầu ra động cơ V6 đến khu vực xung quanh nó (V6A). V6A có các kết nối trực tiếp với vỏ não di chuyển cánh tay, bao gồm cả vỏ não trước.
+Con quay thời gian thấp nhận ra hình dạng, vật thể và khuôn mặt phức tạp hoặc, kết hợp với hải mã, tạo ra những ký ức mới. Khu vực giả là bảy hạt nhân độc đáo. Các hạt nhân trước giả, trước và sau trung gian ức chế cơn đau (một cách gián tiếp), hỗ trợ trong REM, và hỗ trợ phản xạ chỗ ở, tương ứng. Hạt nhân Edinger-Hampal điều tiết sự giãn nở và hỗ trợ đồng tử (vì nó cung cấp các sợi giao cảm) trong sự hội tụ của mắt và điều chỉnh ống kính. Các hạt nhân của đường quang có liên quan đến chuyển động mắt theo đuổi trơn tru và phản xạ, cũng như chuyển động REM.
+Hạt nhân suprachiasmatic là khu vực của vùng dưới đồi ngăn chặn sản xuất melatonin (gián tiếp) ở ánh sáng đầu tiên.
+
+
+== Tham khảo ==

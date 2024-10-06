@@ -1,0 +1,76 @@
+Tăng kali máu  là tăng nồng độ ion kali trong máu (trên 5,0 mmol/l). Nồng độ kali tăng quá cao trong máu được xem là một cấp cứu y khoa do nguy cơ gây rối loạn nhịp tim có thể dẫn đến tử vong.
+
+
+== Dấu hiệu và triệu chứng ==
+Triệu chứng thường không đặc hiệu, gồm cảm giác khó chịu, đánh trống ngực và yếu cơ; khó thở nhẹ có thể là dấu hiệu của nhiễm toan chuyển hoá, một trong các bối cảnh xảy ra tăng kali máu. Tuy nhiên, tình trạng tăng kali thường được phát hiện khi làm sàng lọc xét nghiệm máu cho một bệnh lý nội khoa, hoặc nó chỉ gây chú ý khi đã có biến chứng, như rối loạn nhịp tim hay đột tử.
+Trong quá trình lấy bệnh sử, thầy thuốc sẽ tập trung chú ý vào bệnh thận và việc dùng thuốc, vì đây là các nguyên nhân chính. Sự kết hợp của đau bụng, hạ đường máu và tăng sắc tố, thường trong bệnh sử của bệnh tự miễn khác, có thể là dấu hiệu của bệnh Addison - chính nó cũng là một khẩn cấp y khoa.
+
+
+== Chẩn đoán ==
+Để thu thập đầy đủ thông tin cho chẩn đoán, nồng độ kali cần được đo đi đo lại nhiều lần, vì kali cũng có thể tăngdo tán huyết ở mẫu bệnh phẩm đầu tiên. Thông thường, máu cũng được xét nghiệm chức năng thận (creatinine, nitơ trong urea máu (BUN)), glucose và đôi khi cả creatine kinase và cortisol. Tính chênh lệch kali xuyên ống (trans-tubular potassium gradient) cũng có thể giúp phân biệt nguyên nhân của tăng kali máu.
+Điện tâm đồ cũng thường được thực hiện sớm để xác định ảnh hưởng lên tim. Sóng T cao, hình lều, P nhỏ và phức hợp QRS rộng (tạo dạng hình sin) là dấu hiệu cho tác động trên tim của lượng kali tăng quá mức binh thường. Dấu hiệu này đơn thuần cũng là lý do quan trọng để điều trị, vì nó có thể báo trước rung thất.
+Thông thường đo khí máu động mạch và siêu âm thận cũng được thực hiện.
+
+
+== Nguyên nhân ==
+
+
+=== Loại trừ không hiệu quả khỏi cơ thể ===
+Suy thận
+Thuốc can thiệp vào thải trừ trong nước tiểu
+Thuốc ức chế men chuyển và đối kháng thụ thể angiotensin
+Thuốc lợi tiểu giữ kali, như amiloride và spironolactone
+Thuốc kháng viêm không steroid (NSAID) như ibuprofen, naproxen hay celecoxib
+Thuốc ức chế miễn dịch loại ức chế calcineurin ciclosporin và tacrolimus
+Thuốc kháng sinh trimethoprim
+Thuốc chống ký sinh trùng pentamidine
+Thiếu hay đề kháng mineralocorticoid, như
+Bệnh Addison
+Thiếu aldosterone, gồm giảm nồng độ aldosterone do thuốc chống đông máu, heparin
+Tăng sản thượng thận bẩm sinh
+
+
+=== Phóng thích quá mức từ tế bào ===
+Li giải cơ vân, bỏng hay các nguyên nhân gây hoại tử mô nhanh chóng khác, như hội chứng li giải khối u
+Truyền máu ồ ạt hay tán huyết trầm trọng
+Kali di chuyển ra khỏi tế bào do nhiễm toan, nồng độ insulin thấp, điều trị ức chế beta, quá liều digoxin hay gây tê với succinylcholine
+
+
+=== Nhập quá nhiều ===
+Nhiễm độc với chất thay thế muối (’’salt-substitute’’), thức ăn bổ sung chứa kali, hoặc truyền kali chloride (KCl). Với người có chức năng thận bình thường và không bị yếu tố nào ảnh hưởng đến thải trừ kali, tăng kali máu do ngộ độc kali chỉ gặp ở trường hợp truyền lượng lớn KCl hoặc dùng liều rất lớn các chất bổ sung chứa KCl đường uống.
+
+
+=== Tiêm ở liều gây chết ===
+Tăng kali máu xảy ra một cách cố ý khi hành hình bằng cách tiêm gây chết. Kali chloride được dùng ở bước thứ ba và cũng là bước cuối cùng trong 3 thuốc dùng để gây chết, sau natri thiopental làm cho tử tội bất tỉnh, rồi pancuronium bromide được thêm vào để gây suy sụp hô hấp.
+
+
+== Sinh lý bệnh ==
+Kali là cation nội bào quan trọng nhất và tham gia vào nhiều quá trình tế bào, bao gồm dẫn truyền điện thế động trong tế bào thần kinh. Nguồn kali chính trong thức ăn là rau củ (cà chua và khoai tây, trái cây (cam, chuối) và thịt. Thải trừ xảy ra qua đường tiêu hoá và thận.
+Thải trừ kali ở thận xảy ra thụ động (qua cầu thận), và tái hấp thu tích cực qua ống gần và nhánh lên của quai Henle. Ở ống xa và ống góp (thận) kali được thải trừ tích cực dưới sự điều khiển của aldosterone.
+Tăng kali xảy ra khi kali được tạo ra quá nhiều (ăn vào, li giải mô) hoặc không được thải trừ hữu hiệu. Kali có thể không được thải trừ hữu hiệu do nguyên nhân hormone (thiếu aldosterone) hoặc do các nguyên nhân từ nhu mô thận gây tổn thương bài tiết.
+Tăng kali ngoại bào gây khử cực điện thế màng tế bào. Sự khử cực này mở một số kênh natri chịu tác động của điện thế, nhưng không đủ để phát sinh một điện thế động. Sau một thời gian ngắn, kênh natri đang mở bị bất hoạt và trở nên đề kháng, làm tăng ngưỡng để phát sinh điện thế động. Điều này dẫn đến tổn thương các hệ cơ quan thần kinh cơ, tim và tiêu hoá. Trong đó, mối quan tâm lớn nhất là dẫn truyền tim, có thể dẫn đến rung thất và vô tâm thu.
+
+
+== Điều trị ==
+Khi rối loạn nhịp xảy ra, hoặc khi lượng kali vượt quá 6,5 mmol/l, bắt buộc phải có hạ kali khẩn cấp. Một vài thuốc được dùng để hạ lượng kali; việc lựa chọn phụ thuộc vào mức độ và nguyên nhân gây tăng kali máu, cũng như tình trạng của bệnh nhân.
+
+Calci (calci gluconate 10%, thường được dùng qua catheter tĩnh mạch trung tâm vì calci có thể gây viêm tĩnh mạch) không làm giảm kali nhưng làm giảm tính kích thích của cơ tim, bảo vệ sự sống khỏi bị đe doạ bởi rối loạn nhịp.
+Insulin (như tiêm tĩnh mạch 10 U insulin, cùng với 50 ml dextrose 50% để phòng hạ đường máu) tạo dòng di chuyển ion kali vào tế bào, thứ phát sau tăng hoạt động của Na-K ATPase.
+Bicacbonat (như 1 ống (45 mEq) truyền trong 5 phút) có hiệu quả trong toan chuyển hoá. Ion bicarbonate sẽ kích thích trao đổi H+ trong tế bào với Na+, vì vậy kích thích Na-K ATPase.
+Salbutamol (albuterol, Ventolin®) là một catacholamine chọn lọc β2, dùng theo đường phun khí dung (10–20 mg). Thuốc này thúc đẩy kali di chuyển vào tế bào, làm giảm nồng độ trong máu.
+Polystyrene sulfonate (Calcium Resonium, Kayexalate) là một resin gắn kali trong ruột và thải trừ nó theo phân ra khỏi cơ thể. Calcium Resonium (15 g 3 lần một ngày trong nước) có thể dùng đường miệng. Kayexalate có thể được dùng đường uống hoặc đặt hậu môn.
+Các trường hợp rất nặng hoặc kháng trị có thể cần thẩm phân để loại kali ra khỏi tuần hoàn.
+Điều trị tăng kali mạn tính có thể dùng thuốc lợi tiểu như furosemide (Lasix®) hay hydrochlorothiazide.
+Khi thiếu mineralocorticoid góp phần vào bệnh cảnh, hydrocortisone liều cao và saline tiêm mạch có thể đủ để điều trị.
+
+
+== Xem thêm ==
+Hạ kali máu
+Suy thận
+
+
+== Tham khảo ==
+
+Kasper DL et al (Eds). Harrison's Principles of Internal Medicine, 16th ed, chapter 41, pages 258-61. ISBN 0071402357.
+Rose, B.D. and T.W. Post, Clinical Physiology of Acid-Base and Electrolyte Disorders, 5th ed. 2001, pages 888-930. ISBN 0071346821
+Schaefer TJ, Wolford RW (2005). Disorders of potassium. Emerg Med Clin North Am, 23(3), 723-47.

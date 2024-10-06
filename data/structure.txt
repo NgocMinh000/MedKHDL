@@ -1,0 +1,2952 @@
+16708//Thể loại:Tai mũi họng
+	89794//Chảy máu cam
+	19628172//Đặt nội khí quản
+	15243984//Khàn giọng
+	802600//Khiếm thính
+	14567639//Khoa tai mũi họng
+	14946023//Khô miệng
+	19772726//Liệt thần kinh mặt
+	19879327//Lỗ trâm chũm
+	19828935//Lông tai
+	19430728//Nhánh thái dương của thần kinh mặt
+	19888189//Nhân bọt
+	86484//Viêm tai giữa
+	14784614//Oxybuprocaine
+	3376008//Rhinovirus
+	16391899//Sỏi amidan
+	19273827//Thần kinh mặt
+	14844612//Ung thư đầu và cổ
+	1377607//Ung thư lưỡi
+	528348//Viêm họng
+	41494//Viêm xoang
+	19655034//Vòi Eustache
+	12430479//Thể loại:Bệnh hô hấp
+		19364955//Bệnh dịch hạch Mãn Châu
+		14795257//Bệnh đường hô hấp
+		199803//Bệnh than
+		13475242//Chết đuối
+		17491882//COVID-19
+		15220348//Ho mãn tính
+		14495733//Hội chứng tăng thông khí
+		13503977//Ngạt khi sinh
+		14422477//Ngộ độc oxy
+		14844485//Nhiễm trùng đường hô hấp
+		14791685//Tăng CO2 máu
+		13764548//Xẹp phổi
+		3395811//Thể loại:Chết vì bệnh hệ hô hấp
+			15126771//Alcira Soust Scaffo
+			82947//Charlemagne
+			18573287//Danh sách ca tử vong do đại dịch COVID-19
+			841214//Cesária Évora
+			119475//George Boole
+			7654996//Paul Kruger
+			3177036//Stan Lee
+			15128226//Matilda Newport
+			3123942//Toàn Shinoda
+			25521//George Washington
+		17162//Thể loại:Cúm
+			65046//Cúm
+			4004//Cúm gia cầm
+			349512//Cúm lợn
+			350758//Đại dịch cúm 2009 tại México
+			15053768//Favipiravir
+			19426629//G4 EA H1N1
+			17164//Neuraminidase
+			19270649//Tái sắp xếp
+			14945778//Vắc-xin cúm
+			15272516//Virus cúm B
+			15272644//Virus cúm C
+			15272679//Virus cúm D
+		12430476//Thể loại:Bệnh đường hô hấp dưới
+		12430484//Thể loại:Triệu chứng và dấu hiệu: Hệ hô hấp
+			13799163//Dịch nhầy
+			3267970//Đờm
+			2418004//Hắt hơi
+			14374662//Mắc nghẹn
+			14797388//Nghẹt mũi
+			14795273//Sổ mũi
+			14793103//Tắc nghẽn đường thở
+			14946026//Thở bằng miệng
+			3667798//Bản mẫu:Triệu chứng và dấu hiệu hệ hô hấp
+	3395864//Thể loại:Chết vì ung thư miệng
+		3290211//Bruce Paltrow
+	13538546//Thể loại:Giọng nói
+		14401652//Dây thanh âm
+		3230475//Hát họng
+		15486665//Rối loạn ngôn ngữ nói
+		14963563//Viêm thanh quản
+		19753088//Vỡ giọng
+		13538543//Thể loại:Bệnh lý ngôn ngữ
+			15486637//Bệnh lý ngôn ngữ nói
+			15276604//Rối loạn giao tiếp
+			15486657//Rối loạn ngôn ngữ
+			15486684//Suy giảm ngôn ngữ cụ thể
+		1438948//Thể loại:Giao tiếp truyền miệng
+			796264//Bài giảng
+			13478404//Hội chứng lo sợ khi không có điện thoại
+			13503070//Hội chứng sợ phải gọi hoặc nói chuyện qua điện thoại
+			19513630//Hội thoại
+			207382//Parole
+			106412//Thanh nhạc
+		14670688//Thể loại:Kỹ năng âm thanh
+			11684303//Beatbox
+	89797//Thể loại:Khoa mũi
+		14636073//Ngoáy mũi
+		11103059//Phenylephrine
+		2420719//Thể loại:Khứu giác
+			415206//Khứu giác
+			19635075//Mất khứu giác
+			3582654//Mùi (khứu giác)
+			1796527//Mùi hương (tiểu thuyết)
+			3208844//Petrichor
+			3289403//Xạ hương
+	3120631//Thể loại:Khoa tai (y học)
+		19828940//Ốc tai
+		13337305//Máy trợ thính
+		15326855//Phạm vi nghe được
+		15273281//Tai trong
+		3120630//Thể loại:Thính học
+			9439583//Hệ thính giác
+			15229528//Hội chứng Noonan
+			831367//Ô nhiễm tiếng ồn
+			206823//Thính giác
+		19523186//Thể loại:Thuốc tác động lên tai
+			27757//Acid acetic
+			15111878//Clioquinol
+			14957843//Polymyxin B
+181778//Thể loại:Tâm thần học
+	2448591//Khoa tâm thần
+	93770//Giấc mơ
+	3127985//Khuyết tật phát triển
+	1277128//Mồ hôi máu
+	87507//Suy giảm trí nhớ
+	1511743//Tâm bệnh học
+	13829354//Tâm thần học sinh học
+	336814//Tự sát bắt chước
+	3128075//Thể loại:Chẩn đoán tâm thần
+		787370//Ác mộng
+		112827//Ái vật
+		21828//Bại não
+		470005//Bệnh Alzheimer
+		551729//Bệnh Parkinson
+		470018//Bệnh tâm thần
+		19571270//Cẩm nang Chẩn đoán và Thống kê Rối loạn tâm thần
+		306166//Chán ăn tâm thần
+		15201047//Chấn động não
+		15560749//Chấn thương đầu xuyên thấu
+		1140991//Chấn thương sọ não
+		470737//Chứng cuồng dâm
+		982472//Chứng háu ăn
+		14816041//Chứng mất trí nhớ thể Lewy
+		13460//Chứng nghiện rượu
+		502936//Chứng tê liệt khi ngủ
+		1485158//Co thắt âm đạo
+		11821369//Danh sách hội chứng sợ
+		13994054//Dùng thuốc quá liều
+		324038//Hậu chấn tâm lý
+		14950372//Hội chứng Angelman
+		1739891//Hội chứng Asperger
+		14433644//Hội chứng chân bồn chồn
+		19526460//Hội chứng Da Costa
+		3669222//Hội chứng Einstein
+		3528430//Hội chứng Munchausen
+		15009202//Hội chứng Rett
+		3146821//Hội chứng sợ
+		13502844//Hội chứng sợ bị người khác nhìn
+		19634627//Hội chứng sùng bái người nổi tiếng
+		62743//Hội chứng Tourette
+		1211292//Hưng cảm
+		310280//Khổ dâm
+		14957803//Lệ thuộc chất
+		320193//Lệch lạc tình dục
+		134260//Lý thuyết gán nhãn hiệu
+		40444//Mất ngủ
+		1209716//Miên dâm
+		17227266//Nghiện cờ bạc
+		17231224//Nghiện hành vi
+		17227530//Nghiện smartphone
+		16453416//Nhiễm độc lithi
+		59812//Nói lắp
+		14957981//Phụ thuộc thể chất
+		308253//Rối loạn ám ảnh cưỡng chế
+		306804//Rối loạn ăn uống
+		42198//Rối loạn cường dương
+		805588//Rối loạn dạng cơ thể
+		312252//Rối loạn dị dạng cơ thể
+		15192748//Rối loạn đa nhân cách
+		3434549//Rối loạn gắn bó ở trẻ
+		14797370//Rối loạn hoảng sợ
+		309032//Rối loạn lo âu
+		308566//Rối loạn lo âu lan tỏa
+		3224223//Rối loạn lưỡng cực
+		340507//Rối loạn nhân cách
+		340416//Rối loạn nhân cách ái kỷ
+		340555//Rối loạn nhân cách ám ảnh cưỡng chế
+		339190//Rối loạn nhân cách chống xã hội
+		16816052//Rối loạn nhân cách kịch tính
+		14754205//Rối loạn nhân cách phụ thuộc
+		1265492//Rối loạn nhân cách ranh giới
+		340236//Rối loạn nhân cách tránh né
+		19363886//Rối loạn phát triển
+		15583810//Rối loạn phân ly ở trẻ em
+		15019613//Rối loạn phổ tự kỷ
+		14973350//Rối loạn sử dụng chất gây nghiện
+		341957//Rối loạn tăng động giảm chú ý
+		3149052//Say thuốc
+		1748915//Sầu
+		19469812//Sử dụng chất kích thích tổng hợp
+		2339672//Tâm thần phân liệt
+		97970//Thị dâm
+		3638267//Thí nghiệm Rosenhan
+		7880918//Thiểu năng trí tuệ
+		18930//Trầm cảm
+		309404//Trầm cảm sau sinh
+		314371//Trầm cảm theo mùa
+		2422286//Trichotillomania
+		13828502//Tự hại
+		60828//Tự kỷ
+		19600962//Xu hướng tính dục bất tương hợp bản ngã
+		19486638//Xuất tinh chậm
+		40536//Xuất tinh sớm
+		16069418//Thể loại:Loạn tâm thần
+			3510432//Loạn thần
+			16069375//Erotomania
+			844204//Hoang tưởng
+			19728790//Hoang tưởng ký sinh trùng
+			19751546//Hội chứng Capgras
+			844203//Paranoia
+		16069435//Thể loại:Rối loạn ảo giác
+		308254//Thể loại:Rối loạn lo âu
+			15556907//Chấn thương tâm lý
+			14057315//Chứng ngại tiểu tiện
+			130175//Hikikomori
+			13500719//Hội chứng sợ nấu ăn
+			13500318//Hội chứng sợ trẻ em
+			310018//Hội chứng sợ xã hội
+			19787853//Thousand-yard stare
+		3219218//Thể loại:Rối loạn tăng động giảm chú ý
+			3219211//Khoảng chú ý
+			15001992//Chất kích thích
+			15186964//Chú ý
+			1525564//Dòng chảy (tâm lý)
+			14554218//Lạm dụng phương truyền thông xã hội
+			16814135//Tâm lý học giáo dục
+			15252936//Tính bốc đồng
+			19225450//Tò mò
+		14296453//Thể loại:Chẩn đoán sai tâm thần học
+			5092//Đồng tính luyến ái
+			19504810//Nellie Bly
+		14690481//Thể loại:Sầu
+			15025159//Biến dạng nhận thức
+			310136//Người theo chủ nghĩa hoàn hảo
+			14945652//Trầm cảm tâm thần
+		19482539//Thể loại:Thai mộng
+			19482605//Thai mộng
+			19482528//Emese
+			3181323//Hoàng hậu Maya
+			80323//Thánh Gióng
+	14296559//Thể loại:Đạo đức trong tâm thần học
+		3280755//Lạm dụng tâm thần học vì mục đích chính trị
+		14296450//Thể loại:Lạm dụng bệnh tâm thần vì mục đích chính trị
+			19476263//Aktion T4
+			2429411//Cuộc đàn áp Pháp Luân Công
+			549512//Nhân quyền tại Cộng hòa Nhân dân Trung Hoa
+			113247//Pháp Luân Công
+		1407122//Thể loại:Rối loạn tâm thần và hành vi
+			511992//Ái tử thi
+			2059//Alcohol
+			113205//Bạo dâm
+			3683264//Bệnh Creutzfeldt-Jakob
+			2197256//Chứng bắt thế
+			60010//Chứng khó đọc
+			799933//Chứng khó học
+			819327//Gây hấn
+			15523127//Hành vi tự kích thích
+			15084936//Hội chứng ác tính do thuốc an thần
+			13498857//Hội chứng sợ nôn
+			548729//Hysteria
+			320006//ICD-10 Chương 5: Rối loạn tâm thần và hành vi
+			312551//Mặc cảm thiếu cơ bắp
+			786751//Mất trí nhớ
+			2722196//Ngất xỉu
+			3177910//Ngộ độc nước
+			19706412//Ngủ quá nhiều
+			18576//Phân loại thống kê quốc tế về các bệnh tật và vấn đề sức khỏe liên quan
+			14600257//Rối loạn chức năng tình dục
+			15002890//Rối loạn nhận thức
+			15588664//Rối loạn tâm thần do chất kích thích
+			319525//Bản mẫu:Rối loạn tâm thần và hành vi
+			17360497//Sảng rượu
+			13828403//Sức khỏe tâm thần
+			1065295//Rối loạn phân ly tập thể
+			805595//Thuốc an thần
+			26999//Viagra
+	2534569//Thể loại:Điều trị khoa tâm thần
+		14133352//Hội chứng cai rượu
+		13360348//Quản lý căng thẳng
+		2532591//S-Adenosylmethionine
+	2419481//Thể loại:Lịch sử tâm thần học
+		1468632//Alfred Adler
+		572870//Alois Alzheimer
+		7461470//Donald Ewen Cameron
+		385220//Michel Foucault
+		27803//Sigmund Freud
+		1509416//Erich Fromm
+		369753//Geel
+		819935//Jean-Étienne Dominique Esquirol
+		819928//John Langdon Down
+		523962//Carl Jung
+		1446181//Jacques Lacan
+		657900//Gustave Le Bon
+		7479934//Lịch sử viện tâm thần
+		3426016//Ludwig Binswanger
+		7804//Phân tâm học
+		2594219//Wilhelm Reich
+		1336488//Richard von Krafft-Ebing
+		2419462//Hermann Rorschach
+		19269350//Tâm lý học phân tích
+		15125884//Triệt sản bắt buộc
+	13792947//Thể loại:Lĩnh vực tâm thần học
+		13792941//Thể loại:Công tác xã hội
+			14892919//Chương trình Mùa hè xanh
+			15868642//Công bằng xã hội
+			19756660//Dịch vụ xã hội
+			19153945//Lợi ích tốt nhất
+			18553778//Tâm lý xã hội
+			1340672//Tiếp sức mùa thi
+	7805//Thể loại:Phân tâm học
+		69963//Cái tôi
+		2455804//Cathexis
+		1209698//Cơ chế phòng vệ
+		13502864//Hội chứng sợ tàu hoặc đường ray
+		3432015//Tâm lý học nghệ thuật
+		19470751//Thể loại:Cơ chế phòng vệ
+			1856655//Chủ nghĩa vị tha
+			3305074//Hài hước
+			19568803//Hành vi gây hấn thụ động
+		2419474//Thể loại:Nhà phân tâm học
+			3175824//Anna Freud
+		93428//Thể loại:Trường phái siêu thực
+			405752//Chủ nghĩa siêu thực
+			3508629//Lịch sử hội họa
+	827477//Thể loại:Sinh lý học thần kinh
+		50154//Sinh lý học thần kinh
+		14687448//Buồn ngủ sau bữa ăn
+		7637469//Rối loạn giấc ngủ nhịp sinh học
+		19540514//Derek Amato
+		14773864//Điện cơ đồ
+		374435//Điện não đồ
+		14773826//Điện sinh lý
+		19495866//Điện thế hóa dài hạn
+		13621633//Điện thế nghỉ
+		3514573//Đồi thị
+		832237//Giấc mơ sáng suốt
+		14022911//Giấc ngủ mắt chuyển động nhanh
+		3433533//Khả biến thần kinh
+		19613444//Khoa học thần kinh giấc ngủ
+		14039384//Kích thích (sinh lý học)
+		15786829//Nghiệm pháp sun
+		19755683//Quy luật "tất cả hoặc không có gì"
+		14304394//Synap
+		14120421//Tế bào Schwann
+		19528871//Thần kinh học động vật
+		14023015//Thân não
+		19508712//Ức chế hóa dài hạn
+		3304629//Y học giấc ngủ
+		1410056//Thể loại:Chất dẫn truyền thần kinh
+			19429012//5-Hydroxytryptophan
+			1409404//Acid aspartic
+			15292852//Acid gamma-amino-beta-hydroxybutyric
+			15296718//Acid gamma-aminobutyric
+			15296637//Acid gamma-hydroxybutyric
+			10937137//Acid glutamic
+			579261//Adenosine diphosphat
+			14945641//Adenosine monophosphat
+			78868//Adenosine triphosphate
+			113025//Adrenalin
+			15249427//Anandamide
+			1434329//Chất dẫn truyền thần kinh
+			19608536//Chất P
+			3225757//Dopamin
+			10936041//Glutathione
+			187991//Histamin
+			421462//Nitơ monoxide
+			15010048//Noradrenalin
+			15275196//Norfenefrine
+			1618231//Oxytocin
+			2452024//Serotonin
+		3192971//Thể loại:Hóa học thần kinh
+			15237185//Hệ thống endocannabinoid
+			19132184//Kênh ion
+		792347//Thể loại:Ngủ
+			13829103//Buồn ngủ
+			19718958//Chim sâu dậy sớm
+			7590824//Nhịp điệu sinh học hàng ngày
+			19670075//Cú đêm
+			1277803//Đồng hồ báo thức
+			19623289//F.lux
+			476313//Giường
+			15278388//Liệu pháp ngủ sâu
+			3368600//Loài ăn đêm
+			1127762//Mộng du
+			295634//Mộng tinh
+			140689//Ngáp
+			472178//Ngủ
+			4495//Ngủ đông
+			13821235//Ngủ khi làm việc
+			789526//Ngủ trưa
+			3102863//Nhịp sinh học
+			816662//Phòng ngủ
+			3702678//Phương pháp Ferber
+			491930//Rip Van Winkle
+			7505433//Sự cương dương vật vào ban đêm
+			13819764//Thiếu ngủ
+			14393895//Tư thế ngủ
+			14392042//Vệ sinh giấc ngủ
+			14290661//Yobai
+		11764423//Thể loại:Phản xạ
+			11764421//Dấu hiệu Lazarus
+			19159877//Ngạc nhiên
+			287206//Nổi da gà
+			15472029//Nuốt
+			19159890//Phản ứng giật mình
+			19604674//Phản xạ da lòng bàn chân
+			19734481//Phản xạ hành hang
+			19665527//Phản xạ Hering–Breuer
+			14304414//Phản xạ tự nhiên
+			1750594//Suất phản chiếu
+		2417190//Thể loại:Tâm trí
+			342972//Tâm trí
+			19482033//Nhị nguyên thân-tâm
+			19477039//Nous
+			471413//Tâm hồn
+	14690466//Thể loại:Tác phẩm về tâm thần học
+		14690459//Thể loại:Tác phẩm về nỗi sầu
+			19505579//BoJack Horseman
+			10502681//Doki Doki Literature Club!
+			19690994//Lâng lâng (phim truyền hình)
+			141782//Shin Seiki Evangelion
+	19572349//Thể loại:Tài liệu tâm thần học
+		14945671//DSM-5
+	308959//Thể loại:Tâm lý học bất thường
+		15227666//Hội chứng bất ngờ giàu có
+		15084786//Kích động tâm lý
+		19558581//Ký ức giả
+		15003000//Rối loạn tâm trạng
+		19252015//Thờ ơ
+		16069535//Thể loại:Hoang tưởng
+		18938//Thể loại:Rối loạn khí sắc
+			14293869//Sinh học bệnh trầm cảm
+			14075770//Tự dùng thuốc
+		13538557//Thể loại:Tâm bệnh học
+			332231//Ám ảnh tích trữ
+			11517974//Chủ nghĩa cuồng tín
+			3433493//Hội chứng sinh viên y khoa
+			19638682//Mệt mỏi vì đại dịch
+	3202636//Thể loại:Tổ chức tâm thần học
+		3202839//Hiệp hội Tâm thần học Hoa Kỳ
+		3202635//Thể loại:Hiệp hội tâm thần Mỹ
+	14296467//Thể loại:Tranh cãi tâm thần học
+		15062096//Mê sảng kích thích
+		15009864//Olanzapine
+		14100663//Thuốc chống loạn thần
+2062465//Thể loại:Thang điểm y khoa
+	483554//Chỉ số Apgar
+	19686537//CURB-65
+	19686982//Thang điểm ABCD²
+	19297//Thang điểm hôn mê Glasgow
+	19686995//Thang điểm SAD PERSONS
+	19590730//Thang đo Tanner
+3049456//Thể loại:Thận học
+	2393287//Bao tiểu thể
+	14434557//Bệnh Haff
+	14818493//Đái tháo nhạt
+	50869//Hạ kali máu
+	306684//Lọc máu ngoài thận
+	1107549//Ngày Thận thế giới
+	15276326//Sinistrin
+	201923//Suy thận
+	50213//Tăng kali máu
+	817057//Tiêu cơ vân
+	14775707//Xét nghiệm nước tiểu
+	19697101//Xuất huyết Henoch–Schönlein
+	1281829//Thể loại:Bệnh thận
+		15496143//Hội chứng Alport
+		15028885//Bệnh thận
+		15029472//Bệnh thận đái tháo đường
+		14104490//Bệnh thận mạn tính
+		14400182//Hội chứng Goodpasture
+		3171297//Hội chứng sữa-muối kiềm
+		1281787//Sỏi thận
+		3184755//Ung thư thận
+		15555250//Urê huyết
+		14373844//Viêm cầu thận xơ hóa khu trú từng phần
+		13819847//Viêm thận kẽ
+		3186626//Thể loại:Ung thư thận
+			3219147//Bướu Wilms
+			13110517//Mark E. Smith
+	2416393//Thể loại:Tăng huyết áp
+		577451//Tăng huyết áp
+		433862//Angiotensin
+		14091999//Muối và bệnh tim mạch
+		19781884//Ngày Thế giới phòng, chống tăng huyết áp
+		14451361//Tăng áp lực tĩnh mạch cửa
+		15569072//Tăng áp phổi
+		2416378//Tăng huyết áp cấp cứu
+		19772290//Tăng huyết áp khẩn cấp
+		15346189//Tăng huyết áp thai kỳ
+		15037644//Thuốc hạ huyết áp
+		19522523//Thể loại:Thuốc hạ huyết áp
+			16531412//Clonidine
+1149238//Thể loại:Thần kinh học
+	13743297//Joseph Babiński
+	64796//Bại liệt
+	314981//Bệnh Moyamoya
+	24076//Bệnh viêm não thể bọt biển ở bò
+	3120370//Binaural beats
+	3375860//Hàng rào máu não
+	14773850//Chẩn đoán điện
+	30104//Co cơ
+	152898//Đau
+	414637//Đau đầu
+	467786//Đau nửa đầu
+	152842//Điều trị đau
+	14908242//Đốt da
+	3220123//Hiệp hội Di truyền học Thần kinh và Hành vi Quốc tế
+	22177//Não úng thủy
+	3218452//Tổ chức Nghiên cứu Não Quốc tế
+	19883955//Nhân học thần kinh
+	7495004//Phạm vi quan sát
+	17367065//Phối hợp tay-mắt
+	18573//Tai biến mạch máu não
+	15608235//Tâm thần học thần kinh
+	3306784//Tế bào lưới
+	815432//Thần kinh học
+	64604//Viêm màng não
+	18528//Viêm màng não mủ
+	19752000//Thể loại:Dược lý thần kinh học
+		19751999//Thể loại:Thuốc tác động lên hệ thần kinh
+			397372//Amphetamin
+			14981142//Mephentermine
+			15063792//Phenylpropanolamine
+			14792885//Thuốc chống co giật
+	3512102//Thể loại:Đau đầu
+		13714092//Bệnh đau răng
+		3512101//Đau đầu khi ăn kem
+		16508710//Đau đầu từng cơn
+		19789471//Tăng áp lực nội sọ vô căn
+	2431450//Thể loại:Giải phẫu thần kinh
+		3646059//Chất trắng
+		3646056//Chất xám
+		3235421//Dây thần kinh
+		3387217//Hành não
+		14803972//Hệ thống phần thưởng
+		2199488//Kiến trúc tế bào
+		2431413//Nhân thần kinh sọ
+		54737//Thể loại:Hệ thần kinh ngoại biên
+			7504627//Hệ thần kinh tự chủ
+			2156614//Dây thần kinh ly tâm
+			14913544//Đám rối thần kinh cánh tay
+			14920954//Đám rối thần kinh cổ
+			14922446//Đám rối thần kinh cụt
+			1166712//Hệ thần kinh ngoại biên
+			14893022//Thành viên:Mongrangvebet/Bài cần viết
+			14979003//Nhánh bụng thần kinh tủy sống
+			19326849//Nhánh phổi của thần kinh lang thang
+			14932343//Rễ sau của thần kinh sống cổ
+			14929193//Thần kinh chẩm lớn
+			14932493//Thần kinh chẩm thứ ba
+			14922402//Thần kinh dưới chẩm
+			15579481//Thần kinh mông trên
+			14895699//Thần kinh sống C1
+			14895739//Thần kinh sống C2
+			14908581//Thần kinh sống C8
+			14895744//Thần kinh sống cổ III
+			14907412//Thần kinh sống cổ IV
+			14907510//Thần kinh sống cổ V
+			14907609//Thần kinh sống cổ VI
+			14907625//Thần kinh sống cổ VII
+			14913036//Thần kinh sống cùng I
+			14913060//Thần kinh sống cùng II
+			14913094//Thần kinh sống cùng III
+			14913104//Thần kinh sống cùng IV
+			14913123//Thần kinh sống cùng V
+			14909702//Thần kinh sống ngực I
+			14909708//Thần kinh sống ngực II
+			14909710//Thần kinh sống ngực III
+			14909715//Thần kinh sống ngực IV
+			14909732//Thần kinh sống ngực IX
+			14909719//Thần kinh sống ngực V
+			14909723//Thần kinh sống ngực VI
+			14909725//Thần kinh sống ngực VII
+			14909729//Thần kinh sống ngực VIII
+			14909734//Thần kinh sống ngực X
+			14909742//Thần kinh sống ngực XI
+			14909758//Thần kinh sống ngực XII
+			14909940//Thần kinh sống thắt lưng
+			14924194//Thần kinh tủy sống
+			14937346//Thân thần kinh thắt lưng-cùng
+		42357//Thể loại:Hệ thần kinh trung ương
+			65597//Hệ thần kinh trung ương
+			498211//Lỗ giữa
+			65596//Não
+			65620//Não người
+			14120496//Tế bào thần kinh đệm hình sao
+			42350//Tủy sống
+			13238//Vô thức
+		14121149//Thể loại:Hệ vận động
+			14121082//Neuron vận động
+			15152027//Thần kinh hạ thiệt
+			3272209//Tiểu não
+		3421490//Thể loại:Mô học thần kinh
+			3655996//Hạch thần kinh
+			54584//Mô thần kinh
+			13546132//Myelin
+			11124290//Sợi nhánh
+			10939896//Sợi trục
+		3306785//Thể loại:Neuron
+			1742333//Neuron
+			19546860//Tế bào thần kinh GnRH
+	42356//Thể loại:Hệ thần kinh
+		206643//Hệ thần kinh
+		660647//Hệ thần kinh đối giao cảm
+		19535692//Bản mẫu:Triệu chứng và dấu hiệu y khoa hệ thần kinh
+		604423//Cảm giác kèm
+		14107469//Dây thần kinh vận động
+		372910//Động kinh
+		415211//Hệ giác quan
+		1617725//Hội chứng tiểu não
+		3307268//Lissencephaly (Não mịn)
+		3350197//Virus dại
+		467813//Thể loại:Đau
+			14787593//Bệnh cấp tính
+			13839844//Đau cổ
+			15083567//Đau cơ
+			1957595//Đau đớn ở động vật
+			11815612//Đau đớn ở giáp xác
+			14182176//Đau hông
+			15412197//Đau khi quan hệ tình dục
+			19431363//Đau khổ
+			13839411//Đau lưng
+			13830178//Đau lưng dưới
+			13837493//Đau lưng trên
+			3376195//Đau ngực
+			15535850//Đau ngực ở trẻ em
+			14418406//Đau ở em bé
+			16513356//Đau thần kinh
+			14334581//Đau trong ung thư
+			14975123//Đau vú
+			15219697//Đau xương
+			14426780//Hội chứng bóp nghẹt trước tim
+			19719064//Mảnh vụn
+			14324678//Mất cảm giác đau bẩm sinh
+			39803//Sảy thai
+			14385636//Tác dụng giảm cảm giác đau của chửi thề
+			15111566//Thuốc bổ trợ giảm đau
+			3197068//Thuốc giảm đau
+			940962//Vết thương
+		104893//Thể loại:Giác quan
+			511167//Giác quan
+			506879//Bàn tay
+			50473//Cảm giác
+			27032//Da
+			19815337//Bản mẫu:Giác quan
+			14795400//Khoang mũi
+			19534287//Kiếm mồi
+			143311//Lưỡi
+			42035//Mắt
+			41856//Mắt người
+			1437413//Mũi người
+			206779//Tai
+			348639//Thị giác
+			491478//Vị
+			415217//Xúc giác
+		2420720//Thể loại:Hệ giác quan
+			1519942//Ảo giác
+			19519416//ASMR
+			19892884//Cảm nhận vị trí cơ thể
+			13610931//Dây thần kinh cảm giác
+			19426487//Hệ cảm giác thân thể
+			3706233//Hệ giác quan ở cá
+			19422466//Hệ thống thị giác
+			69992//Tri giác
+			364411//Tư duy
+		50229//Thể loại:Khoa học thần kinh
+			1751733//Andreas Vesalius
+			13815349//Dinh dưỡng thần kinh học
+			15885997//Giải phẫu học thần kinh của sự thân mật
+			422237//Khoa học thần kinh
+			14083524//Lý luận hành động (triết học)
+			3335578//Neurotoxin
+			19781611//Ngôn ngữ học thần kinh
+			19495225//Thành viên:Quan-7-Tran
+			1485088//Tâm vật lý học
+			19697177//Thành công
+			2190414//Thoái hóa thần kinh
+			65712//Trải nghiệm cận tử
+			19850228//Trạng thái biến đổi của ý thức
+			1406926//Vấn đề tâm-vật
+			15278553//Vật lý thần kinh
+		16709//Thể loại:Thần kinh học
+	53586//Thể loại:Khoa học nhận thức
+		69996//Khoa học nhận thức
+		198979//Nhận thức
+		3678695//Cách mạng Công nghiệp lần thứ tư
+		415372//Déjà vu
+		19323958//Điện toán nhận thức
+		19802529//Đường cong học tập
+		1761463//Học
+		24551//Khái niệm
+		19804037//Khoa học hành vi
+		86923//Lý thuyết mã kép
+		19517760//Mạng đối nghịch tạo sinh
+		4055//Ngôn ngữ học
+		16690224//Ngôn ngữ học tính toán
+		19748306//Ngữ pháp phổ quát
+		1405813//Thuyết chức năng
+		295931//Thuyết thực hữu
+		19271786//Triết học cơ học
+		311052//Tự cảm nhận ngoại hình cơ thể
+		16817145//Xử lý thông tin
+		3416946//Thể loại:Cú pháp học
+			543974//Cú pháp học
+			19780263//Biến đổi phụ âm
+			2360583//Cây phân tích cú pháp
+			19748336//Colorless green ideas sleep furiously
+			501577//Giới từ
+			471574//Mệnh đề quan hệ
+			16470003//Ngôn ngữ nổi bật chủ đề
+			19720270//Ngữ đoạn
+			19721398//Sung ngữ
+			19805560//Trật tự từ
+			17314326//Từ quan hệ
+		51048//Thể loại:Điều khiển học
+			556534//Bộ điều khiển (Lý thuyết điều khiển tự động)
+			1367964//Bộ điều tốc ly tâm
+			528092//Lý thuyết điều khiển tự động
+			3374442//Điểm đặt (lý thuyết điều khiển)
+			32437//Điều khiển học
+			10215//Giải thuật di truyền
+			451550//Hệ thống
+			19423088//Hệ thống phức tạp
+			19423090//Hệ thống thích ứng
+			24278//Học máy
+			1554122//Hộp đen
+			1249214//Ký hiệu học
+			3220125//Liên đoàn Quốc tế về Điều khiển Tự động
+			813236//Lý thuyết thông tin
+			17632//Môi trường bên trong
+			19883762//Nhân học cyborg
+			14751166//Phản hồi tích cực
+			19423091//Phản hồi tiêu cực
+			19849879//Phòng điều khiển
+			84760//Robot
+			563869//Sinh vật cơ khí hóa
+			8570//Trí tuệ nhân tạo
+			14670593//Tự chủ
+		90704//Thể loại:Khoa học máy tính lý thuyết
+			58431//Các phương pháp hình thức
+			46556//Đệ quy (tin học)
+			90719//Điện tử học spin
+			16594809//Định lý Church–Rosser
+			15111101//Hệ thống kiểu Hindley–Milner
+			1746367//Hoạch định chuyển động
+			14379608//Khoa học máy tính lý thuyết
+			574706//Lý thuyết ngôn ngữ lập trình
+			8341//Máy tính lượng tử
+			305656//Máy Turing
+			1295221//Ngôn ngữ hình thức
+			349354//Phép tính lambda
+			19895215//Suy luận tự động
+			4847//Thuật toán
+			3125002//Thuật toán lượng tử
+			14401781//Tính toán
+			1265646//Ôtômat cây
+		14194490//Thể loại:Lý thuyết tâm thức
+			1405818//Chủ nghĩa hành vi
+			19597760//Sự nghi ngờ của Descartes
+			14714118//Tâm lý vị kỷ
+			16324983//Thuyết duy ngã
+			3501202//Ý thức
+		4054//Thể loại:Ngôn ngữ học
+			544034//Âm vị học
+			10082//Bác ngữ học
+			786789//Câu cửa miệng
+			19132258//Cấu trúc thông tin
+			15325261//Chủ nghĩa cấu trúc
+			229040//Cours de linguistique génerale
+			18856//Danh sách thuật ngữ ngôn ngữ học
+			8382//Dấu hỏi (dấu thanh chữ quốc ngữ)
+			1904049//Dấu huyền
+			14248012//Dấu trường âm
+			298416//Dịch tự động
+			13742492//Đảo âm
+			17736005//Đề và thuyết
+			19725001//Đường đồng ngữ
+			3277687//Glottolog
+			12627524//Hội Ngôn ngữ học Việt Nam
+			513944//Húy kỵ
+			19515815//Kết trị (ngôn ngữ học)
+			19892581//Kỹ thuật tạo lệnh
+			19636426//Ngôn ngữ LGBT
+			98991//Loại hình ngôn ngữ
+			19828667//Luận văn
+			14791631//Luật Grimm
+			3250079//Mạng từ tiếng Việt
+			4151//Ngôn ngữ
+			55263//Ngôn ngữ học châu Âu
+			93260//Ngôn ngữ học ứng dụng
+			3197888//Ngôn ngữ học xã hội
+			340818//Ngữ dụng học
+			89992//Ngữ pháp
+			3258561//Nói ríu
+			506262//Olympic Ngôn ngữ học Quốc tế
+			1140999//Phân tích hội thoại
+			18414//Phiên âm Hán-Việt
+			19719801//Phụ ngữ
+			19501542//Rào cản ngôn ngữ
+			19802045//Sự nghèo nàn của tác nhân kích thích
+			19107//Thuật ngữ ngữ âm học
+			196697//Thuyết tương đối ngôn ngữ
+			19748286//Thuyết X-bar
+			585475//Tiếng lóng trong tiếng Việt
+			19826201//Tiếng người
+			14614447//Tiếng Sioux
+			19825850//Tính thông hiểu lẫn nhau
+			300676//Từ đa nghĩa
+			357626//Từ đồng âm trong tiếng Việt
+			18333//Từ Hán-Việt
+			3193368//Từ mượn trong tiếng Việt
+			543969//Từ nguyên học
+			1167//Từ viết tắt từ chữ đầu
+			212654//Uyển ngữ
+			68822//Văn kiện
+			3672565//Verse
+			316189//Viện Ngôn ngữ học (Việt Nam)
+			13515416//Xenoglossy
+			294814//Xử lý ngôn ngữ tự nhiên
+			13660531//Ghil'ad Zuckermann
+		53585//Thể loại:Nhận thức
+			498097//Chủ nghĩa rút gọn
+			14790228//Dinh dưỡng và nhận thức
+			3684809//Động cơ (tâm lý học)
+			19827084//Đứa trẻ bên trong bạn
+			2278727//Gestaltzerfall
+			19588835//Hiệu ứng chân lý ảo tưởng
+			44248//Khám phá
+			53584//Lập luận
+			28373//Mạch thần kinh
+			13709093//Mất khả năng diễn đạt cảm xúc
+			14325414//Mồi (tâm lý học)
+			19673020//Phân loại giới Động vật
+			124803//Phân loại sinh học
+			3383826//Quan sát
+			16819534//Sự không chắc chắn
+			14893439//Tâm lý học nhận thức
+			12089783//Trạng thái (khoa học máy tính)
+			1505943//Trực giác
+			19534601//Trứng phục sinh (truyền thông)
+			7676//Tư duy sáng tạo
+			565210//Tưởng tượng
+			1249257//Ý tưởng
+		38571//Thể loại:Nhận thức luận
+			37268//Tri thức luận
+			37975//Thuyết bất khả tri
+			14666910//Bi quan
+			16615731//Biến hóa (triết học)
+			566936//Bộ não trong thùng
+			323119//Cá nhân luận
+			14380626//Các định lý bất toàn của Gödel
+			57273//Chủ nghĩa kinh nghiệm
+			291645//Chủ nghĩa tự nhiên (triết học)
+			13712481//Cỗ máy Antikythera
+			12587629//Die Glocke
+			2221725//Hành vi học
+			243108//Khảo sát giá trị thế giới
+			12691//Lượng (Phật giáo)
+			7551//Lý thuyết
+			38568//Lý tính
+			3403570//Lý trí
+			19476662//Meta
+			19270390//Nghi ngờ
+			19130578//Nhận dạng vịt
+			3174247//Quỷ dối lừa
+			142557//Suy luận quy nạp
+			19504056//Thầy bói xem voi
+			39505//Tiên nghiệm
+			19434947//Tổ chức tri thức
+			136229//Tôi tư duy, nên tôi tồn tại
+			24978//Tri thức
+			92953//Triết học khoa học
+			349466//Tư duy đột phá
+			51721//Tư duy phản biện
+			32103//Vật tự thể
+			15187520//Ý kiến
+		1645863//Thể loại:Quá trình tâm lý
+			59862//Thuận tay trái
+			815628//Trí nhớ
+		54890//Thể loại:Tâm lí học môi trường
+			19479147//Chứng rối loạn thiếu tự nhiên
+			3298805//Không gian giao tiếp
+			42731//Phong thủy
+			19415634//Tâm lý học môi trường
+		13934639//Thể loại:Tâm lý học nhận thức
+			121556//Kinh tế thần kinh học
+			16941449//Tâm lý học Gestalt
+			13505219//Trí khôn của mèo
+		14724334//Thể loại:Tâm lý học hệ thống
+			19367037//Tâm lý học công nghiệp và tổ chức
+		3228000//Thể loại:Tâm lý học thần kinh
+			96232//Công nghệ thi công Top-down
+			3688441//Đói
+			14013346//Hạch hạnh nhân
+			3227998//Hoạch định
+			3099422//Ngôn ngữ tự nhiên
+			15341341//Sóng gamma
+			15608172//Tâm lý học thần kinh
+			15278409//Tâm thần kinh lâm sàng
+		17363535//Thể loại:Tâm lý ngôn ngữ học
+			19895180//Bão hòa ngữ nghĩa
+			3637518//Đọc
+			19790481//Thí nghiệm tước đoạt ngôn ngữ
+		579651//Thể loại:Tập tính học
+			2103//Tập tính học
+			1763861//Ăn côn trùng
+			30965//Ăn thịt đồng loại
+			19534347//Ẩn trốn
+			7477464//Ấp trứng
+			81514//Bản năng
+			19493350//Bản năng tự bảo toàn
+			15688095//Batyr
+			19533996//Bất lực tập nhiễm
+			3372661//Cá thể alpha
+			3372662//Cá thể thống lĩnh
+			11033858//Cá voi 52 hertz
+			3193147//Cách thức phòng vệ của động vật
+			3367198//Cảm xúc ở động vật
+			7778005//Cạnh tranh sinh học
+			3374583//Cắn
+			19526496//Cắn mổ nhau ở gia cầm
+			1765724//Chảy máu phản xạ
+			2420801//Chọn lọc tự nhiên
+			14377193//Chơi (hoạt động)
+			18784551//Chung thủy ở động vật
+			19492288//Cộng sinh làm sạch
+			3706237//Cơ quan đường bên
+			31169//Charles Darwin
+			3261050//Dễ thương
+			15354666//Di chuyển dưới nước
+			14874416//Di chuyển ở động vật
+			18965456//Dùng dụng cụ ở loài vật
+			18833010//Đa phối đực
+			18784922//Đa thê ở động vật
+			19492982//Đàn thú
+			7443826//Đánh lừa ở động vật
+			19855849//Đào xới
+			19547374//Đằm mình
+			15344064//Đi đứng bằng ba chân
+			19551345//Định vị hướng ở động vật
+			7477465//Đòi ấp
+			13742506//Đội hình bay chữ V
+			15662869//Đồi phân
+			3199241//Đồng tính luyến ái ở động vật
+			13753925//Đồng tử
+			3373497//Động vật ăn đất
+			3372721//Động vật ăn nhựa cây
+			3373512//Động vật ăn phân
+			1273731//Động vật ăn tạp
+			1262105//Động vật ăn thịt
+			7471797//Động vật bay lượn
+			15435537//Động vật biết nói
+			3372792//Động vật chuyên ăn cỏ
+			3631480//Động vật di cư
+			2420631//Động vật gặm cỏ
+			14944579//Động vật giết con non
+			3209345//Động vật tấn công
+			3180757//Động vật tự chữa bệnh
+			3193184//Động vật tự tử
+			3193372//Động vật xã hội
+			3373325//Phản ứng flehmen
+			13979390//Ghép đôi
+			15439387//Giả chết
+			14921150//Giao phối
+			13980115//Giao phối ở động vật
+			15108047//Giao phối thay phiên
+			13542302//Hành vi bất thường ở động vật
+			14190249//Hành vi hù dọa ở động vật
+			15458928//Hành vi rập khuôn ở động vật
+			15428666//Hành vi tâm linh ở động vật
+			13725478//Hành vi tập thể của động vật
+			19547380//Hành vi thư giãn ở động vật
+			460540//Hành vi tình dục ở động vật
+			14940097//Hậu cung động vật
+			14600342//Hệ thống giao phối
+			14083086//Hiệu ứng Bruce
+			14083303//Hiệu ứng Coolidge
+			16651518//Hợp tác
+			3372659//Lãnh thổ động vật
+			19533808//Liếm
+			7514456//Liếm vết thương
+			15279659//Lột xác
+			13980045//Màn tán tỉnh
+			19526500//Mổ hậu môn
+			19503394//Mô hình tối ưu
+			19526489//Mổ lông
+			14083858//Mùa động dục
+			7450362//Mùa sinh sản
+			651631//Necrophoresis
+			15324876//Nguyên lý đánh đổi
+			11350279//Nhận dạng động vật
+			7450371//Nhân giống trong tự nhiên
+			15315541//Nhân-thú học
+			14415016//Phản ứng chạy trốn
+			14903638//Phản xạ chịu đực
+			3193144//Phối hợp săn mồi
+			3193140//Rình mồi
+			19128493//Rít
+			15406909//Sinh học xã hội
+			15134552//Sinh vật ban ngày
+			3265798//Tập tính ăn ở động vật
+			19493143//Tập tính cậy đông
+			15618452//Tập tính gắn bó ở loài sói
+			14874565//Tập tính thích ứng
+			7847471//Tập tính tích trữ
+			19266401//Tập tính vị tha
+			3522073//Tha hóa hành vi
+			3372665//Thứ bậc ở động vật
+			15437130//Tín hiệu thống trị
+			15436951//Tính hiếu chiến
+			14415169//Tính nết của động vật
+			11257927//Tính xã hội
+			2353915//Tổ
+			14086169//Tôn ti trật tự
+			15283518//Túi âm thanh
+			15438810//Tự vứt bỏ
+			19356800//Uống
+			18962622//Văn hóa ở động vật
+			3124461//Vermivore
+		3219215//Thể loại:Thần kinh học nhận thức
+			11204854//Chuyển động beta
+			14643202//Đồng cảm
+			11152276//Hiệu ứng bánh xe ngựa
+			3367211//Nhận biết ở động vật
+		52709//Thể loại:Khoa học thông tin
+			4846//Khoa học thông tin
+			3145752//Bản mẫu:Khoa học thông tin
+			12710//Cổng thông tin:Máy tính
+			4784//Tin học
+			19749574//A Boy and His Atom
+			107860//Abstract factory
+			19664292//AirDrop
+			2181832//Bản thể học (khoa học thông tin)
+			19873040//Bảo mật dữ liệu
+			27614//Bảo vệ dữ liệu cá nhân
+			86257//Bộ nhớ flash
+			84566//Carrier-sense multiple access with collision detection
+			19741828//Code cave
+			5854//Công cụ truy vấn dữ liệu
+			2421838//Cơ sở dữ liệu thư mục
+			268100//DAS
+			424053//Địa tin học
+			10432//Hệ thống trên một vi mạch
+			3219013//Hội đồng Thông tin Khoa học Kỹ thuật Quốc tế
+			12789587//Hội Tin học Xây dựng Việt Nam
+			13830//ISBN
+			19994//Khai phá dữ liệu
+			865213//Khai thác văn bản
+			3383851//Khoa học dữ liệu
+			2262435//Kiểm soát tính nhất quán
+			19434945//Kiến trúc thông tin
+			50122//KVM
+			19637161//L2TP
+			3505804//Lan tỏa kiến ​​thức
+			25628//Lập trình máy tính
+			3218979//Liên đoàn Xử lý Thông tin Quốc tế
+			4870//Linux From Scratch
+			47460//Logic mô tả
+			82455//Mạch điều khiển
+			19638622//Mạng khu vực Internet
+			19644577//Mạng nano
+			993//Máy tính
+			11297//Mẫu hình
+			43987//Memento pattern
+			31886//MS-DOS
+			19637866//OSPF
+			15277425//Phương tiện truyền thông kỹ thuật số
+			19637532//PPTP
+			13463021//Quản lý thông tin cá nhân
+			19742529//RSVP (giao thức)
+			13730//Simple DirectMedia Layer
+			13781//Ivan Sutherland
+			209397//Thông tin
+			47556//Thuật ngữ tin học
+			796299//Thuật toán xấp xỉ
+			2621//Tiền tố SI
+			5119//Tin sinh học
+			3220203//Trung tâm Dữ liệu Thế giới
+			19132181//Truy cập thông tin
+			229932//Từ khóa
+			893310//Từ vựng được kiểm soát
+			3219073//Viện Phân tích Hệ thống Ứng dụng Quốc tế
+			31352//Web 2.0
+			1764514//Web Feature Service
+			19668640//Webdings
+			66846//X.509
+			3198854//Ý điển
+			19745682//Zapf Dingbats
+		62167//Thể loại:Tri giác
+			14937526//Ảo tưởng
+			19732191//Bài kiểm tra gương
+			1437031//Cao độ (âm nhạc)
+			110273//Chỉ số nhận thức tham nhũng
+			3260638//Chủ nghĩa duy tâm chủ quan
+			130163//Hiệu ứng Stroop
+			14966972//Hiệu ứng Venus
+			19498062//Hình ảnh bản thân
+			415399//Jamais vu
+			15523055//Kích thích
+			544482//Kinh nghiệm
+			84221//Nhiệt độ không tuyệt đối
+			14724758//Sự nhạy cảm của người mẹ
+			2563//Thời gian
+			13630552//Vô
+		24219//Thể loại:Trí tuệ nhân tạo
+			19613010//Bản mẫu:Trí tuệ nhân tạo
+			13660912//A.I. – Trí tuệ nhân tạo
+			19299575//AI-đầy đủ
+			19517801//BERT (mô hình ngôn ngữ)
+			183381//CAPTCHA
+			19549095//Cơ sở dữ liệu MNIST
+			3346083//Danh sách dự án trí tuệ nhân tạo
+			3434515//Danh sách khái niệm học máy
+			3350068//DeepMind
+			3270977//Điều khiển thông minh
+			15772594//Giải quyết vấn đề
+			3164669//GOFAI
+			4089//Google
+			40803//Hệ chuyên gia
+			387691//Hệ thống thông minh lai
+			19299136//Hiểu ngôn ngữ tự nhiên
+			3339820//Học sâu
+			19795027//Humans Need Not Apply
+			2235402//Kinect
+			25735//Lịch sử ngành trí tuệ nhân tạo
+			74828//Logic mờ
+			31471//Lý thuyết trò chơi
+			16760383//Mạng thần kinh
+			16689500//Mạng thần kinh đệ quy
+			19805114//Microsoft Copilot
+			13469485//Não nhân tạo
+			387250//Neuro-fuzzy
+			2451287//Nhận dạng Ký tự Thông minh
+			15203923//Phân vùng quang phổ
+			1446074//ReCAPTCHA
+			19517819//Mạng thần kinh hồi quy
+			2444316//S Voice
+			19895176//Tác nhân thông minh
+			30803//Tác tử phần mềm
+			24354//Tập huấn luyện
+			3162004//Thị giác máy tính
+			2070577//Thuật toán tô màu tham lam
+			19523512//Trí Nhân
+			19598023//Trí tuệ nhân tạo phân tán
+			19815435//Trí tuệ nhân tạo tạo sinh
+			19880822//Bản mẫu:Trí tuệ nhân tạo tạo sinh
+			19892703//Trí tuệ nhân tạo tổng quát
+			19476502//Trí tuệ tập thể
+			19557486//Trích xuất thông tin
+			13830504//Vũ khí sát thương tự động
+		449629//Thể loại:Triết học tinh thần
+			92718//Triết học tinh thần
+			19477862//Cảm tính
+			1400485//Chủ nghĩa duy vật lý
+			26843//Đa nguyên
+			51219//Đầu thai
+			197865//Ludwig Wittgenstein
+			76509//Lương tâm
+			11562098//Meme
+			19768903//Não tướng học
+			19436151//Tâm lý học đạo đức
+			582311//Triết học về trí tuệ nhân tạo
+			19711173//Trùng hợp
+	799943//Thể loại:Rối loạn thần kinh
+		89422//Bệnh dại
+		15060485//Bệnh Ménière
+		16528971//Bệnh thần kinh ngoại biên
+		14425745//Bệnh Wilson
+		15491048//Chấn thương não
+		799935//Chứng khó học toán
+		15556755//Chứng sợ ánh sáng
+		13825960//Đau thần kinh tọa
+		15571798//Hội chứng Arts
+		15304672//Hội chứng chùm đuôi ngựa
+		19807479//Hội chứng cướp máu động mạch dưới đòn
+		13479388//Hội chứng đầu phát nổ
+		15438794//Hội chứng giọng nói nước ngoài
+		2425531//Hội chứng Guillain-Barré
+		14399107//Hội chứng kháng phospholipid
+		14570020//Hội chứng Lennox–Gastaut
+		37947//Hội chứng mệt mỏi mãn tính
+		15084907//Hội chứng thỏ
+		1698641//Memento
+		19788736//Múa giật
+		14829764//Rối loạn phổ rượu ở thai nhi
+		15278393//Rối loạn thần kinh
+		2546789//Rối loạn tiền đình
+		478441//Sán dải lợn
+		307137//Say tàu xe
+		15584239//Suy giảm nhận thức sau hóa trị liệu
+		15055413//Thuốc ổn định tâm trạng
+		19759409//Viêm động mạch tế bào khổng lồ
+		14371926//Yếu cơ
+		19487363//Thể loại:Triệu chứng và dấu hiệu: Hệ thần kinh và cơ xương
+			19487324//Liệt mềm
+		3187643//Thể loại:Bệnh thần kinh cơ và khớp nối thần kinh cơ
+			1439887//Bệnh nhược cơ
+			794442//Loạn dưỡng cơ
+			3187618//Ngộ độc thịt
+		1646280//Thể loại:Rối loạn giấc ngủ
+			3120436//Bệnh trypanosoma
+			14773882//Đái dầm ban đêm
+			19594938//False awakening
+			14376817//Hội chứng đột tử ở trẻ sơ sinh
+			1559210//Hội chứng người đẹp ngủ
+			19853453//Jet lag
+			19829591//Nghiến răng
+			1620084//Ngủ ngáy
+			3667336//Ngừng thở khi ngủ
+			14447368//Rối loạn giấc ngủ
+			3258191//Thái Ngọc
+		3200786//Thể loại:Rối loạn do thoái hóa thần kinh
+			3674743//Bệnh Lyme
+			15001280//Bệnh Tay–Sachs
+			3200583//Thất điều gai-tiểu não
+		19535695//Thể loại:Triệu chứng và dấu hiệu: Hệ thần kinh
+			14987754//Bệnh ngồi không yên
+			19600591//Dấu hiệu ghế đẩu
+			15443813//Giảm trương lực
+		3219214//Thể loại:Chú ý
+			13360040//Quản lý sự chú ý
+		19518184//Thể loại:Khoa học thần kinh tính toán
+			18657674//Điện thế hoạt động
+			19518175//Mạng thần kinh tích chập
+	19535611//Thể loại:Thần kinh nội tiết học
+		19535612//Thể loại:Neuropeptide
+			13610200//Vasopressin
+		3120632//Thể loại:Hệ thống thính giác
+			1742592//Màng tai
+			16987909//Tai giữa
+			15123417//Xương bàn đạp
+		2964900//Thể loại:Khiếm thính
+			13505087//Điếc bẩm sinh ở mèo
+			184073//Ngôn ngữ ký hiệu
+		206828//Thể loại:Thính giác
+			66701//Âm thanh
+			3701510//Tông nhạc
+		3120629//Thể loại:Tiếp nhận âm thanh
+			14751394//Hòa âm
+			15490916//Hội chứng sợ tiếng ồn
+			3644910//Ù tai
+	1685336//Thể loại:Trí tuệ
+		2421134//Trí thông minh
+		505047//Trí tuệ
+		46447//Chỉ số thông minh
+		1241474//Danh sách IQ quốc gia theo ước tính của Lynn và Vanhanen (2002, 2006)
+		2414117//Homo faber
+		13466723//Kỹ năng phân tích
+		19669626//Mọt sách
+		2263403//Siêu trí thông minh
+		579834//Thần đồng
+		136951//Thần đồng cờ vua
+		505245//Thiên tài
+		12138653//Trí khôn ở chim
+		19543117//Trí thông minh của con người
+		14670036//Thể loại:Trí tuệ theo loại
+			3122861//Thuyết đa trí tuệ
+			268920//Trí tuệ xúc cảm
+		19546369//Thể loại:Sách về trí tuệ con người
+			18801748//21 bài học cho thế kỷ 21
+		13578374//Thể loại:Suy luận
+			18606950//Khái quát hóa
+			19266168//Lý tưởng
+			53504//Suy diễn logic
+			14572007//Suy luận kiểu
+			80324//Thời kỳ Khai Sáng
+		19524069//Thể loại:Thần trí tuệ
+		24894//Thể loại:Tri thức
+			19849321//Chính sách ngu dân
+			6757//Khoa học
+			3526291//Kí ức tập thể
+			1239339//Liên ngành
+			16307//Nghiên cứu
+			7890322//Sự thật
+		7678//Thể loại:Tư duy sáng tạo
+			16363//Bản đồ tư duy
+			343574//Coolhunting
+			2259968//Công nghiệp sáng tạo
+			10638//DOIT
+			8338//Động não
+			19546698//GitMind
+			283776//Metaphorming
+			14937341//Óc sáng tạo và bệnh tâm thần
+			579909//Phương pháp tương tự
+			44251//Sáng chế
+			44702//Sở hữu trí tuệ
+			19425499//Tác phẩm nghệ thuật
+			11135499//Thiết kế
+			8378//Thu thập ngẫu nhiên
+			14629//TRIZ
+			3683206//Trừu tượng
+495029//Thể loại:Thiết bị y khoa
+	3235214//Bấm móng tay
+	19703426//Bút tiêm
+	3214389//Danh sách trường đại học ở Việt Nam có đào tạo ngành Kỹ thuật y sinh
+	19835137//Dụng cụ nong trực tràng
+	3634998//Đá gel
+	14781475//Găng tay y tế
+	19365507//Giùi chọc
+	1743684//Kính bảo hộ
+	496476//Laser electron tự do
+	19628169//Liệu pháp thông khí lưu lượng cao qua mũi
+	1326725//Máy đo đường huyết
+	818019//Máy đo huyết áp
+	2458419//Máy ôm
+	18749533//Máy thở
+	3295836//Siêu âm y khoa
+	1180660//Men răng
+	19724113//Nhíp
+	26912//Nitơ lỏng
+	19566557//Nồi hấp tiệt trùng
+	13817851//Ống nghe
+	14961256//Ống thông mũi
+	14792655//Ống tiêm
+	3337512//Phương pháp điều trị MRI HIFU
+	15272379//Resusci Anne
+	13561553//Trao đổi oxy qua màng ngoài cơ thể
+	3127894//Vá mắt
+	14322693//VinSmart
+	44670//Xe cứu thương
+	17062//Thể loại:Chẩn đoán hình ảnh y khoa
+		3684017//Hình ảnh y khoa
+		532639//Chụp cắt lớp vi tính
+		3350336//Chụp cắt lớp vi tính Xenetix
+		6101//Chụp cộng hưởng từ
+		3350364//Thuốc cản quang
+		90103//DICOM
+		3350377//Iopromide
+		16932//Siêu âm tim
+		1407363//Thể loại:Siêu âm y khoa
+			15279155//Hút mỡ
+			19836400//Ngày dự sinh
+			13021431//Siêu âm 3D
+			15062054//Siêu âm Doppler
+			516328//Siêu âm phased array
+			15065353//Siêu âm trị liệu
+	308877//Thể loại:Dịch truyền
+		19798679//Dung dịch Ringer lactat
+		14434502//Hydroxyethyl starch
+		308868//Nước muối sinh lý
+		15200422//Tiêm tĩnh mạch
+	19826372//Thể loại:Dụng cụ gây mê
+		19826369//Mask thanh quản
+	19835129//Thể loại:Dụng cụ phẫu thuật
+		808355//Microkeratome
+		19835127//Thể loại:Dụng cụ chỉnh hình
+			19835126//Cưa Gigli
+			19759472//Khung Ilizarov
+	3666067//Thể loại:Dụng cụ y tế
+		19477132//Khẩu trang N95
+		14792517//Kim tiêm dưới da
+		14790175//Thiết bị y tế
+		19493067//Thể loại:Khẩu trang y tế
+		19797592//Thể loại:Nhà sản xuất dụng cụ y tế
+		3666066//Thể loại:Thiết bị vận tải y tế
+	13817855//Thể loại:Thiết bị kiểm tra y tế
+	475550//Thể loại:Thiết bị nha khoa
+		15277817//Articaine
+		82899//Bàn chải đánh răng
+		13661929//Chỉ nha khoa
+		19596759//Máy tăm nước
+		19502178//Niềng răng
+		15277815//Procaine
+		796019//Tăm
+		14806887//Thám châm nha chu
+2185698//Thể loại:Thú y
+	14773933//Bác sĩ thú y
+	14776487//Bệnh lý thú y
+	3389536//Bệnh Marek
+	19696056//Cục Thú y (Việt Nam)
+	793133//Dịch tả trâu bò
+	12654397//Hội Thú y Việt Nam
+	3424457//Kháng thuốc kháng sinh
+	3428382//Sinh sản ở cừu nhà
+	13829331//Sử dụng kháng sinh trong chăn nuôi
+	3682664//Thú y
+	19571113//Tổ chức Thú y Thế giới
+	3226054//Tụ huyết trùng
+	3374580//Vết cắn của động vật
+	11517992//Vùng an toàn dịch bệnh động vật trên cạn
+	422374//Thể loại:Bệnh động vật
+		13631986//Béo phì ở thú cưng
+		1263548//Bệnh do virus Ebola
+		7504734//Bệnh lợn nghệ
+		19506486//Bệnh ngủ trên vật nuôi
+		3381556//Bệnh tật ở cá
+		3665834//Bệnh tử cung lộn bít tất
+		7475525//Bệnh viêm vú trên bò sữa
+		778391//Chó dại
+		19531766//Chướng hơi dạ cỏ
+		11383789//Cơ địa
+		19547415//Dịch bệnh trên loài hoang dã
+		7843799//Động vật lây truyền bệnh
+		3177254//Fasciola hepatica
+		13504938//Gan nhiễm mỡ ở mèo
+		51697//Lở mồm long móng
+		15110567//Nhiễm ký sinh trùng Giardia
+		57955//Sán lá gan
+		3249818//Sán lá gan lớn
+		206879//Scorbut
+		19556386//Thể chất mèo
+		15426516//Trichinosis
+		13952720//Virus dịch tả lợn châu Phi
+		1263547//Virus Ebola
+		22206//Thể loại:Bất thường bẩm sinh
+			40143//Bệnh lý bẩm sinh
+			19467341//Hội chứng Aagenaes
+			441956//Hiện tượng thoái hóa cột sống bẩm sinh
+			14579297//Hội chứng 3 chữ A
+			15040224//Hội chứng Brugada
+			19743899//Hội chứng Cyclopia
+			15009938//Hội chứng DeSanctis–Cacchione
+			19628235//Hội chứng lùn
+			16423024//Hội chứng mất đoạn 1q21.1
+			14572008//Hội chứng McCune–Albright
+			441627//Hội chứng người cá
+			3166769//Hội chứng người hóa đá
+			14999384//Hội chứng Prader–Willi
+			13479463//Hội chứng Proteus
+			19717803//Hội chứng Seckel
+			19468902//Hội chứng SHORT
+			1764288//Hội chứng tetra-amelia
+			441955//Hội chứng VACTERL
+			13475538//Liệt
+			15482846//Song sinh ký sinh
+			43197//Sứt môi và hở hàm ếch
+			15482532//Thai trong thai
+			42186//Thalidomide
+			15577262//U quái
+			15600788//U quái xương cụt
+			15010689//Vẹo cột sống
+		3643871//Thể loại:Bệnh côn trùng
+			3645031//Bệnh ấu trùng túi ở ong mật
+			3645926//Bệnh bào tử trùng
+			3643754//Bệnh thối ấu trùng châu Âu trên ong
+			3643867//Bệnh thối ấu trùng châu Mỹ trên ong
+		3187638//Thể loại:Bệnh gia cầm
+			3389891//Bệnh cầu trùng gà
+			3511296//Bệnh dịch tả vịt
+			3388926//Bệnh đầu đen
+			3510994//Bệnh đậu gà
+			3210659//Bệnh gà rù
+			3509005//Bệnh Gumboro
+			11350283//Bệnh gút trên gia cầm
+			3511304//Bệnh lỵ trên gia cầm
+			3511006//Bệnh nấm phổi gia cầm
+			15279549//Bệnh nhiễm khuẩn samonella
+			3634823//Bệnh phó thương hàn trên vịt
+			3511290//Bệnh tụ huyết trùng ở gia cầm
+			3511066//Bệnh viêm phế quản truyền nhiễm ở gà
+			3511068//Bệnh viêm thanh khí quản truyền nhiễm trên gà
+			3509014//CRD
+			3249783//Giun đũa nhỏ
+			3247155//Thiamin
+			13505013//Toxoplasmosis
+			14946100//Virus bệnh bạch cầu sarcoma ở gia cầm
+		19747877//Thể loại:Bệnh lây truyền từ động vật
+			3211599//Bệnh ấu trùng sán lợn
+			3254063//Bệnh do Leishmania
+			18997651//Bệnh virus corona
+			542598//Dịch hạch
+			19481037//Escherichia coli O157:H7
+			19625548//Rc-o319
+			3249814//Sán lá phổi
+			19746616//Sốt mò
+			15083342//Sốt thung lũng Rift
+			47408//Sốt xuất huyết Dengue
+			11203839//Virus Lassa
+		19556614//Thể loại:Bệnh ở mèo
+			13505008//Feline panleukopenia
+			13505196//Rối loạn da ở mèo
+			13505600//Teo võng mạc tiến triển
+			13505004//Toxocara cati
+			13504895//Viêm da ở mèo
+			13505190//Viêm đường tiết niệu dưới ở mèo
+			13505122//Viêm màng bụng truyền nhiễm ở mèo
+			13505116//Viêm phổi do virus ở mèo
+			13504903//Virus bạch cầu ở mèo
+		3389511//Thể loại:Bệnh vật nuôi
+			3632253//Bệnh Carê
+			3625023//Bệnh Circo virus
+			3632480//Bệnh ORT
+			3432774//Bệnh PED
+			11350293//Bệnh sốt sữa
+			3510968//Bệnh sưng phù đầu ở lợn
+			3432812//Bệnh TGE
+			3665653//Dịch tả lợn
+			3436012//Hội chứng MMA
+			499785//Hội chứng rối loạn sinh sản và hô hấp ở lợn
+		3187641//Thể loại:Bệnh trên chim
+			3432934//Bệnh nấm Candida
+			29451//Hội chứng hô hấp cấp tính nặng
+			13883//Virus cúm A/H5N1
+		3666057//Thể loại:Bệnh động vật theo vật chủ
+			3383745//Ngộ độc cá Ciguatera
+	1685169//Thể loại:Giải phẫu động vật có vú
+		17262384//Gai dương vật
+		3689331//Lông thú
+		19539712//Móng chẻ
+		1762372//Ngà
+		14609699//Nhân trung
+		3631128//Núm vú
+		3169502//Răng nanh
+		2496814//Sừng hươu nai
+		3286241//Tuyến ức
+		15662979//Tuyến vú
+		14248668//Xương dương vật
+		2420652//Thể loại:Giải phẫu học Bộ Linh trưởng
+			19814624//Nếp gấp ngang mông
+	1589290//Thể loại:Giải phẫu học động vật
+		135984//Biến thái hoàn toàn
+		7539//Bộ xương
+		14962569//Bộ xương ngoài
+		3145355//Bụng
+		7460704//Cấu trúc cơ thể
+		3263454//Chân
+		7460927//Chân chèo (giải phẫu học)
+		15354597//Chi sau
+		7460880//Chi trước
+		2360474//Cổ họng
+		3269515//Dị hình giới tính
+		543929//Đầu
+		63342//Đi đứng bằng hai chân
+		53986//Điểm G
+		7460947//Đối xứng trong sinh học
+		15349309//Động vật đa bộ răng
+		2360479//Đuôi
+		3287843//Hệ bạch huyết
+		1748847//Mang
+		3367908//Mề
+		15768755//Mỏ (giải phẫu học)
+		3374221//Nanh
+		3259157//Ngực
+		2423393//Nội tạng
+		7460644//Phần phụ
+		2421171//Răng
+		19381394//Răng trứng
+		529208//Sọ
+		1443750//Sừng
+		1095442//Bong bóng cá
+		330924//Thể khoang
+		7461358//Thuật ngữ giải phẫu vị trí
+		7460667//Tính cầm nắm
+		3138321//Túi mật
+		19166780//Vảy
+		3374356//Vuốt
+		19567647//Xúc tu
+		19522654//Thể loại:Chất lỏng cơ thể
+			14776212//Dịch cơ thể
+			19621645//Dịch màng bụng
+			5553//Mật
+			42231//Tinh dịch
+		3101686//Thể loại:Giải phẫu động vật có dây sống
+			26525//Dây sống
+		1747391//Thể loại:Giải phẫu động vật không xương sống
+			3633007//Túi thăng bằng
+		13733//Thể loại:Hệ cơ quan
+			543948//Cơ quan (sinh học)
+			1739254//Buồng trứng
+			375250//Hệ cơ quan
+			469936//Hệ vỏ bọc
+			3309877//Hội chứng buồng trứng đa nang
+			847061//Nhau thai
+		19753095//Thể loại:Hệ sinh dục động vật
+			19426414//Đẻ trứng
+			13629826//Estradiol
+			13607904//Hormone giải phóng gonadotropin
+			19751640//Vỏ trứng
+		3285132//Thể loại:Hệ tiết niệu
+			309000//Hệ tiết niệu
+			2359463//Bàng quang
+			1298800//Bao quy đầu
+			1058817//Dương vật người
+			19693847//Lỗ tiểu
+			3261376//Niệu đạo
+			3285131//Niệu quản
+			15220328//Sa bàng quang
+			523825//Thận
+		2431440//Thể loại:Hệ tuần hoàn
+			644929//Động mạch
+			3287701//Động mạch chủ
+			6291//Hệ tuần hoàn
+			3387535//Mao mạch
+		3259886//Thể loại:Lông thú
+			13595558//Dê Cashmere Úc
+			982382//Len
+			3307016//Tuýt (vải)
+		2431447//Thể loại:Não
+			14372342//Truyền thuyết mười phần trăm bộ não
+		17059//Thể loại:Ổ bụng
+			19887802//Bài tập bụng
+			15054646//Bệnh gan
+			3167707//Bụng phệ
+			6799//Dạ dày
+			19487240//Eo
+			47432//Gan
+			34055//Hệ tiêu hóa người
+			17054//Lách
+			14934691//Mạc nối nhỏ
+			15089212//Mạc treo ruột non
+			19519360//Mạch máu thượng vị dưới
+			19541103//Mặt phẳng trung tuyến
+			14392876//Ổ bụng
+			14942595//Ổ phúc mạc
+			3366439//Pepsin
+			1332982//Rốn
+			469924//Ruột non
+			19278381//Thần kinh lang thang
+			2339709//Thực quản
+			18519//Tụy
+			375338//Tuyến thượng thận
+			440984//Ung thư dạ dày
+		1400469//Thể loại:Sừng động vật
+			1400365//Nhung hươu nai
+			802082//Tù và
+		11573974//Thể loại:Tế bào động vật
+			19266351//Vi nhung mao
+		2462275//Thể loại:Thịt theo loài
+			3691416//Lẩu cừu
+			1667757//Cá (thực phẩm)
+			2316665//Thịt bê
+			788084//Thịt bò
+			2463947//Thịt bồ câu
+			2569520//Thịt cá hồi
+			2530124//Thịt cá sấu
+			2529935//Thịt cá voi
+			2530032//Thịt chim cút
+			35497//Thịt chó
+			232073//Thịt chuột
+			1748016//Thịt cừu
+			1748002//Thịt dê
+			3700037//Thịt đà điểu
+			2847419//Thịt ếch
+			788055//Thịt gà
+			193737//Thịt lợn
+			2423336//Thịt nai
+			2422389//Thịt ngựa
+			2462272//Thịt rắn
+			3246447//Thịt thỏ
+			3245257//Thịt trâu
+			2422362//Thịt vịt
+		1589289//Thể loại:Tuyến tiết
+			14777145//Sự tiết sữa
+			371878//Tinh hoàn
+			2354682//Tuyến
+			14776431//Tuyến bã nhờn
+			3383990//Tuyến Bartholin
+			543031//Tuyến cận giáp
+			19575562//Tuyến Duvernoy
+			42380//Tuyến giáp
+			15655517//Tuyến mồ hôi
+			19357163//Tuyến sinh dục
+			12430246//Tuyến Skene
+			544307//Tuyến tiền liệt
+			1485169//Tuyến tùng
+			291340//Tuyến yên
+	3666055//Thể loại:Sức khỏe động vật
+		3101678//Thể loại:Sức khỏe cá
+			3116619//Cá chết hàng loạt
+			11815621//Đau đớn ở cá
+		3717302//Thể loại:Cái chết của động vật
+			17260356//Kình lạc
+			19522716//Mất mát thú nuôi
+			11551452//Thú chết dọc đường
+			11866942//Xác thối
+		3666054//Thể loại:Sức khỏe động vật có vú
+		16249507//Thể loại:Động vật già nhất
+			19488234//Cookie (vẹt mào)
+			3634007//Granny (cá voi sát thủ)
+			19773533//Jonathan (rùa cạn)
+			16024574//Muja (cá sấu)
+			19730063//Ozzie (khỉ đột)
+			14452358//Rubble (mèo)
+			19168210//Số 16 (nhện)
+			14452386//Tiffany Two
+	14440676//Thể loại:Virus học động vật
+		13475415//Bệnh nấm da ở thỏ
+		13829143//Coronavirus
+		14946131//Retrovirus Jaagsiekte gây bệnh ở cừu
+		15272509//Virus cúm A
+		14946121//Virus khối u ở chuột
+1210352//Thể loại:Thuật ngữ y học
+	406807//Bệnh
+	3435033//Bệnh mãn tính
+	14340900//Bệnh nhân
+	3129228//Bệnh sử
+	15063980//Biến chứng
+	2041//Cân bằng nội môi
+	541175//Chẩn đoán
+	14774337//Chẩn đoán phân biệt
+	14773907//Chẩn đoán y tế
+	19546933//Chất chủ vận nội sinh
+	1261691//Chất lượng sống
+	1681817//Chống chỉ định
+	39770//Đại thực bào
+	13825164//Điều trị đa mô thức
+	15227929//Điều trị triệu chứng
+	19626915//Độ bão hòa oxy (y học)
+	14350784//Hành vi tình dục không an toàn
+	3367246//Hội chứng
+	39695//Hội chứng đáp ứng viêm hệ thống
+	14774809//Không có triệu chứng
+	19356367//Kĩ thuật y khoa
+	3654858//Lâm sàng
+	14053872//Lối sống ít vận động
+	19533164//Mã khẩn cấp bệnh viện
+	163235//Mô học
+	13799112//Mủ (sinh lý)
+	39300//NF-κB
+	14773098//Nhiễm trùng cận lâm sàng
+	14783317//Nhiệt độ cơ thể con người
+	2218566//Nocebo
+	14773949//Phân loại bệnh
+	3166888//Bào mòn bằng sóng vô tuyến
+	14801372//Sàng lọc (y tế)
+	15063825//Tác dụng bất lợi
+	37938//Tế bào nội mô
+	15236256//Thuốc tại chỗ
+	15301434//Tiên lượng
+	123998//Tiêu bản (y học)
+	40323//Tụ cầu khuẩn
+	19772368//Tử vong mẹ
+	14973057//Tương đương so với người
+	3185075//Tỷ lệ sống 5 năm
+	19637813//Xét nghiệm chẩn đoán nhanh
+	3292272//Y học dự phòng
+	19522663//Thể loại:Thuật ngữ da liễu
+		14773341//Loét da
+	37906//Thể loại:Thuật ngữ y học đặt theo tên người
+		85322//Bệnh xương dễ gãy
+679264//Thể loại:Tim mạch học
+	19661536//Armolipid Plus
+	30101//Cơ tim
+	7812//Digoxin
+	38567//Điện tâm đồ
+	7815//Glycoside tim
+	13521764//Hồi sức tim phổi
+	3501208//Khoa tim mạch
+	38743//Rối loạn mỡ máu
+	13137//Thiếu máu cục bộ
+	814375//Tứ chứng Fallot
+	814357//Thông liên thất
+	16780//Thể loại:Hệ tim mạch
+		15193408//Giãn mạch
+		573455//Khối xương sọ
+		553031//Mạch máu
+		451357//Hệ renin-angiotensin
+		43379//Tim
+		285658//Tĩnh mạch
+		3284534//Van tim
+		2431438//Thể loại:Bệnh học tim
+			3638205//Coxsackie virus B
+			15213200//Lipoprotein mật độ cao
+			15213351//Lipoprotein mật độ thấp
+			60619//Men tim
+			138472//Thượng mã phong
+			14352294//Tiếng tim
+			16040272//Tuần hoàn mạch vành
+		13152//Thể loại:Bệnh tim mạch
+			13144//Bệnh động mạch vành
+			1764338//Đau thắt ngực
+			541677//Bệnh tim
+			15276520//Hiệu ứng Bowditch
+			1772286//Ngừng tim
+			38585//Nhồi máu cơ tim
+			14591751//Nong động mạch phổi bằng bóng
+			13470//Suy tim
+			2415//Tăng áp (định hướng)
+			19252//Viêm cơ tim
+			13151//Xơ cứng động mạch
+		17060//Thể loại:Hệ bạch huyết
+			186093//Bạch huyết
+			258030//Hạch bạch huyết
+			2400696//Amidan
+			788916//Lympho bào
+			15323377//Nhũ chấp
+			19500//Tủy xương
+		3337507//Thể loại:Mạch máu
+			15278490//Cơ trơn mạch máu
+			13749347//Dị dạng động tĩnh mạch
+		16781//Thể loại:Máu
+			43017//Máu
+			1264318//Anh em kết nghĩa
+			2346//Bạch cầu
+			15199182//Bệnh huyết sắc tố
+			14726109//Mức chì trong máu
+			812242//Chảy máu
+			14795192//Giảm ba dòng
+			15040399//Giảm bạch cầu trung tính
+			19627576//Giảm mầm bệnh bằng cách sử dụng riboflavin và tia UV
+			15042084//Globulin gamma
+			1765726//Hemocyanin
+			1765507//Hemolymph
+			2459194//Hồ máu tử thi
+			567131//Huyết (thực phẩm)
+			644930//Huyết áp
+			3510735//Huyết học
+			53374//Huyết lình
+			3309996//Huyết thanh
+			229899//Huyết tương
+			19381471//Lòng ống
+			40118//Nhóm máu
+			923320//Oxy hòa tan
+			3644674//Phân tích vết máu
+			13829350//Protein máu
+			195885//Sự đông máu
+			7762949//Truyền máu
+		19890298//Thể loại:Sinh lý học tim mạch
+			19890293//Khỏe mạnh tim mạch
+			3678703//Mạch
+		19673239//Thể loại:Sinh lý tim mạch
+		497500//Thể loại:Tĩnh mạch
+			497499//Nghiệm pháp Trendelenburg
+1830790//Thể loại:Tôn giáo và y học
+	1342081//Thuật phù thuỷ
+	14850452//Tôn giáo và sức khỏe
+	3372209//Triệu chứng cơ năng
+	3375494//Đau họng
+	3375979//Đau khớp
+	13799055//Gỉ
+	13829100//Hành vi đau ốm
+	13829107//Mệt mỏi
+	239960//Nấc cụt
+	14795146//Nôn ra máu
+	16390789//Quầng thâm mắt
+	440444//Sốt
+	6815//Viêm
+		18381519//Thể loại:Đau bụng
+			3157865//Bệnh Crohn
+			3376091//Đau bụng
+			440923//Hội chứng ruột kích thích
+			30717//Sỏi mật
+			13974345//Viêm loét đại tràng
+		1645859//Thể loại:Đau buồn
+			3125966//Bi kịch
+			303947//Buồn
+			19653934//Danh sách đám tang lớn nhất
+			1468596//Thất tình
+			19663755//Yêu đơn phương
+		18381605//Thể loại:Đau cấp tính
+			13816794//Bạo hành thể chất
+			14959094//Bí tiểu
+			2429934//Bỏng
+			14773859//Cắt cụt chi
+			14068307//Chấn thương
+			15557006//Chấn thương nặng
+			19753496//Đau tinh hoàn
+			14095755//Gãy dương vật
+			576882//Gãy xương
+			36849//Răng khôn
+			261047//Sâu răng
+			820951//Thai ngoài tử cung
+			3282166//Thoát vị
+			14240569//Thủng đường tiêu hóa
+			307119//Trĩ (bệnh)
+			1433553//Viêm loét dạ dày tá tràng
+			45653//Viêm não
+			13726//Viêm ruột thừa
+			18384173//Viêm thực quản
+			15305381//Vỡ tử cung
+		1645862//Thể loại:Đau khổ
+			11859//Khổ (Phật giáo)
+			19806950//Khủng hoảng hiện sinh
+			15161425//Lòng trắc ẩn
+			14705556//Nỗi đau tâm lý
+			577244//Thí nghiệm vô nhân đạo trên người tại Hoa Kỳ
+			785400//Tra tấn
+			14377146//Vui sướng trên nỗi đau của người khác
+		13488728//Thể loại:Phương thức gây đau đớn
+			1241495//Cước
+			19886739//Đấm
+		19826625//Thể loại:Vô cảm
+			41250//Gây mê
+			15276587//Alpha-Eucaine
+			14083918//Atracurium
+	13729//Thể loại:Viêm
+		601738//Bệnh Behçet
+		14829794//Bệnh Kawasaki
+		14970431//Bệnh Osgood–Schlatter
+		470015//Cảm lạnh
+		4076//Chàm
+		2397698//Đau mắt đỏ
+		45568//Hội chứng rối loạn chức năng đa cơ quan
+		19271852//Hội chứng viêm đa hệ thống nhi khoa
+		14970856//Khuỷu tay quần vợt
+		14797149//Nhiễm trùng đường hô hấp trên
+		45566//Nhiễm trùng đường tiết niệu
+		3341953//Thấp tim
+		38217//Viêm amidan
+		3269829//Viêm âm đạo
+		15219455//Viêm âm đạo teo
+		3265383//Viêm bao quy đầu
+		11206755//Viêm cân mạc hoại tử
+		3269826//Viêm cổ tử cung
+		14850337//Viêm dạ dày
+		14687665//Viêm diện xương-sụn bóc tách
+		13829090//Viêm đại tràng
+		15064217//Viêm động mạch
+		133431//Viêm gan
+		13829149//Viêm gan do rượu
+		7499821//Viêm khớp
+		14806829//Viêm lợi
+		15063954//Viêm mạch
+		19358229//Viêm màng phổi
+		15062041//Viêm mào tinh hoàn
+		3524876//Viêm mi
+		11286100//Viêm mô tế bào
+		7521518//Viêm mũi
+		13717705//Viêm mũi teo mãn tính
+		14946055//Viêm nội mạc tử cung
+		3259183//Viêm nốt đỏ đầu dương vật
+		14958929//Viêm phế quản cấp tính
+		15607115//Viêm phúc mạc
+		14806790//Viêm quanh răng
+		14972996//Viêm ruột non
+		14807182//Viêm tai trong
+		1102639//Viêm tiền liệt tuyến
+		14803841//Viêm tiểu phế quản
+		15064186//Viêm tĩnh mạch
+		19759465//Viêm túi hoạt dịch
+		498060//Viêm túi mật
+		14831637//Viêm tụy
+		14802217//Viêm tủy (răng)
+		43112//Viêm tụy cấp
+		2393297//Viêm tuyến vú
+		15038384//Xơ vữa động mạch
+		1710889//Thể loại:Bệnh viêm khớp
+			414396//Bệnh gút
+			7504653//Viêm khớp nhiễm khuẩn
+			19687220//Thang điểm ACR
+			1763836//Thoái hóa khớp
+			13842256//Viêm cột sống dính khớp
+			1437196//Viêm khớp dạng thấp
+		19662072//Thể loại:Các bệnh viêm nhiễm của hệ thần kinh trung ương
+		366185//Thể loại:Viêm gan
+			133288//Viêm gan A
+			64808//Viêm gan B
+			565431//Virus viêm gan B
+			1402050//Viêm gan C
+			19504037//Virus Viêm gan C
+			13829190//Virus viêm gan E
+			13812328//Halothan
+			19800901//Ngày Viêm gan Thế giới
+344347//Thể loại:Bệnh truyền nhiễm
+	18109449//Áp suất phòng âm
+	3437273//Áp xe não
+	14775413//Bệnh do virus
+	15084190//Bệnh lây qua không khí
+	19501674//Bệnh nhiệt đới
+	3251495//Bệnh truyền nhiễm
+	19344775//Bệnh truyền nhiễm (chuyên khoa y tế)
+	17132516//Bệnh truyền nhiễm mới nổi
+	14792759//Bệnh truyền qua đường máu
+	14003023//Các bệnh có thể phòng ngừa bằng vắc-xin
+	15495673//Các bệnh nhiệt đới bị bỏ qua
+	14848773//Cách ly (chăm sóc y tế)
+	38278//Chikungunya
+	129217//Đậu mùa
+	14847952//Đường lây truyền phân – miệng
+	18331498//Giãn cách xã hội
+	40524//Giang mai
+	2478//HIV/AIDS
+	64798//Ho gà
+	18382182//Kiểm soát nhiễm trùng
+	5669//Lao
+	14967139//Loét hạ cam
+	14775940//Lý thuyết mầm bệnh
+	39571//Mắt hột
+	1748388//Mầm bệnh
+	14452254//Mèo cắn
+	3510641//Nguyên tắc Koch
+	14399139//Người mang mầm bệnh không triệu chứng
+	3282507//Nhiễm trùng
+	3339802//Nhiễm trùng cơ hội
+	37522//Nhiễm trùng huyết
+	14393347//Nhiễm trùng sơ sinh
+	18383192//Nhiễm trùng tại bệnh viện
+	1618329//Orthohantavirus
+	19545348//Phân tử bắt chước
+	11231//Phong cùi
+	18187677//Phong tỏa dịch bệnh
+	39157//Quai bị
+	18777809//Siêu lây nhiễm
+	3377336//Sốt chuột cắn
+	157493//Sốt rét
+	19295//Sởi
+	64672//Sởi Đức
+	47196//Suy giảm miễn dịch
+	2807//Bệnh tả
+	38150//Thủy đậu
+	308874//Thương hàn
+	19364025//Truyền bệnh
+	22169//Vắc-xin
+	3337235//Vật trung gian truyền bệnh
+	3235417//Viêm dạ dày ruột
+	3428263//Viêm phế quản
+	64544//Viêm phổi
+	3663368//Viêm phổi mắc phải ở cộng đồng
+	570086//Virus rota
+	18518484//Xét nghiệm COVID-19
+	364947//Zona (bệnh)
+	19430630//Thể loại:Bệnh có thể phòng ngừa bằng vắc-xin
+		37559//Bạch hầu
+		3340796//Bệnh Chlamydia
+		14946393//Viêm não do ve gây ra
+	2431594//Thể loại:Bệnh do ký sinh trùng
+		2431796//Ancylostoma braziliense
+		63586//Bệnh ghẻ
+		3253761//Bệnh giun Guinea
+		3295842//Bệnh giun tóc
+		3298409//Bệnh ký sinh trùng
+		3298403//Cryptosporidiosis
+		3299691//Haemonchus contortus
+		2431593//Loa loa
+		2972566//Thể loại:Động vật phá hoại chân đốt
+			1698536//Bản mẫu:Chấy và rận ở người
+		2431673//Thể loại:Helminthiases
+			3200581//Bệnh giun đũa
+			3274272//Bệnh mù do giun chỉ Onchocerca
+			3253763//Bệnh sán chó
+			3282532//Bệnh sán máng
+			3252926//Giun sán
+			2431670//Bản mẫu:Helminthiases
+			15522929//Nhiễm giun kim
+			3249785//Toxocariasis
+	2431676//Thể loại:Bệnh ký sinh
+	1677171//Thể loại:Bệnh nhiệt đới
+		14949572//Balantidiasis
+		3253764//Bệnh giun chỉ bạch huyết
+		14018215//Bệnh lỵ amip
+		3249277//Bệnh Chagas
+		2851//Escherichia coli
+		3249792//Giun chỉ
+		3245287//Loét Buruli
+		3424521//Sốt Lassa
+		13951779//Sốt Tây sông Nile
+		116966//Sốt xuất huyết
+		15513501//Sử dụng thuốc hàng loạt
+		14005861//Viêm não Nhật Bản
+		3421143//Thể loại:Chikungunya
+			13827336//Dịch tễ học chikungunya
+			116960//Muỗi vằn châu Á
+		3418714//Thể loại:Phong cùi
+			546774//Chi Nang trứng
+			444695//Gerhard Armauer Hansen
+			1619480//Mycobacterium leprae
+			3718430//Ruth Pfau
+			3700499//Trần Hữu Ngoạn
+		2447727//Thể loại:Sốt rét
+			3120499//Anopheles
+			783484//Anopheles dirus
+			15208143//Artesunate/mefloquine
+			2447575//DDT
+			253117//Dự án Atlas bệnh sốt rét
+			591356//Ký sinh trùng sốt rét
+			3222249//Ngày Sốt rét Thế giới
+			15208226//Plasmodium vivax
+			19609837//Bản mẫu:Sốt rét
+			15208133//Thuốc trị sốt rét
+			19358726//Tuyên bố Abuja (2001)
+			15061186//Vắc-xin PfSPZ
+			15056913//Vắc-xin sốt rét
+	1761010//Thể loại:Bệnh truyền nhiễm đường ruột
+		14973046//Áp xe gan do amip
+		14018279//Bệnh Shigella
+		14018393//Sốt phó thương hàn
+		308061//Tiêu chảy
+		1761007//Thể loại:Tiêu chảy
+			15277506//Berberin (thuốc)
+			15218783//Eluxadoline
+	19660359//Thể loại:Bệnh truyền nhiễm theo đường lây truyền
+		1761008//Thể loại:Bệnh đường nước
+			14057001//Bệnh lây truyền qua đường nước
+			864043//Giardia lamblia
+			811528//Naegleria fowleri
+			3354216//Naegleriasis
+			15278374//Sán máng
+			3347479//Shigella
+			19471197//Shigella boydii
+			805590//Táo bón
+		19660162//Thể loại:Bệnh lây qua không khí
+		12911//Thể loại:Bệnh lây truyền qua đường tình dục
+			35787//Bệnh lây truyền qua đường tình dục
+			1685602//Bệnh rận mu
+			39692//Chlamydia trachomatis
+			561597//Herpes đơn dạng
+			563029//Herpes sinh dục
+			75339//HIV
+			40525//Lậu mủ
+			3432593//Nhiễm khuẩn âm đạo
+			65913//Nhiễm virus papilloma ở người
+			1685593//Rận mu
+			1331297//Sùi mào gà
+			35499//Tình dục học
+			3668066//Trichomonas vaginalis
+			1745260//U mềm lây
+			39618//Ung thư cổ tử cung
+			15026241//Viêm tuyến tiền liệt cấp tính
+			3658217//Viêm vùng chậu
+			15760692//Xét nghiệm ngưng kết hạt Treponema pallidum
+		3187634//Thể loại:Ngộ độc thực phẩm
+			749619//Ngộ độc thực phẩm
+			13829136//Astrovirus
+			750320//Bacillus cereus
+			3512061//Chiếu xạ thực phẩm
+			750321//Listeria monocytogenes
+			15229559//Norovirus
+			750329//Salmonella
+			1434342//Sán dây bò
+			15071605//Vi khuẩn Coliform
+			19775809//Vụ ngộ độc pa tê Minh Chay
+	1773684//Thể loại:Bệnh vi khuẩn
+		1764112//Aeromonas hydrophila
+		3129212//Áp-xe
+		14074325//Bệnh mèo cào
+		15518712//Bệnh nấm Actinomyces
+		2404173//Cam tẩu mã
+		14953198//CC398
+		14972864//Escherichia coli xâm nhập đường ruột
+		14434890//Hội chứng bong vảy da do tụ cầu
+		14958123//Hội chứng Lemierre
+		3189202//Listeriosis
+		3226258//Pasteurella multocida
+		14953429//Sốt ban xuất huyết Brazil
+		560699//Staphylococcus aureus
+		253444//Hội chứng sốc nhiễm độc
+		63388//Uốn ván
+		3256828//Uốn ván sơ sinh
+		14774627//Vi khuẩn gây bệnh
+		14953163//Viêm màng não do Haemophilus
+		14796875//Viêm phổi do vi khuẩn
+		15229600//Viêm tủy xương
+		4079//Yersinia pestis
+		26933//Thể loại:Bệnh lao
+			1680579//Bệnh lao bò
+			19894597//Bệnh phổi sau lao
+			9501//Albert Calmette
+			19789873//Chấm dứt bệnh lao
+			14093111//Chẩn đoán bệnh lao tiềm ẩn
+			19766347//Cục lao ở chân bì
+			14093198//Dịch tễ học bệnh lao
+			15236759//Ethambutol/isoniazid/pyrazinamide/rifampicin
+			15203954//Ethambutol/isoniazid/rifampicin
+			26927//Robert Koch
+			19789882//Lao da
+			19766959//Lao đa kháng thuốc
+			14791700//Lao hạch (ngoại biên)
+			3525911//Lao kê
+			19765838//Lao ngoài phổi
+			19772471//Lao siêu kháng thuốc
+			14093242//Mycobacterium
+			753299//Mycobacterium tuberculosis
+			3208436//Ngày Thế giới Phòng chống Lao
+			13984484//Quản lý bệnh lao
+			15064808//Tuberculin
+			19662006//Lao màng não
+			15051833//Vắc-xin lao
+			14092116//Xét nghiệm Mantoux
+		19568573//Thể loại:Bệnh sốt phát ban
+			14949954//Bệnh sốt phát ban do chuột
+			14774701//Sốt phát ban (typhus)
+		3187633//Thể loại:Ngộ độc thịt
+			3192961//Botulinum
+			750318//Clostridium botulinum
+		3167809//Thể loại:Thương hàn
+			452810//Mary Mallon
+			3167594//Salmonella enterica subsp. enterica
+			14032014//Vắc-xin thương hàn
+		19893538//Thể loại:Vi khuẩn gây bệnh
+			19893477//Klebsiella pneumoniae
+	3187636//Thể loại:Chiến tranh sinh học
+		13827690//Chiến tranh sinh học
+		13827709//Khủng bố sinh học
+		14772927//Phòng thủ sinh học
+		17710644//Thông tin sai lệch về COVID-19
+		18353955//Thuyết âm mưu SARS
+		13827607//Vắc-xin bệnh than
+		78980//Vũ khí sinh học
+		3187635//Thể loại:Vũ khí sinh học
+			14973152//Bệnh loét mũi truyền nhiễm
+			14772936//Bệnh sốt thỏ
+			15406744//Bệnh Whitmore
+			11203831//Hội chứng phổi của virus Hanta
+			1235420//Magnaporthe grisea
+			1643486//Phytophthora infestans
+			308590//Sốt vàng
+			11203849//Sốt xuất huyết Bolivia
+			3384531//Sốt xuất huyết kèm theo suy thận do virus Hanta
+			13827876//Tác nhân sinh học
+		440947//Thể loại:Cúm gia cầm
+			19626761//GISAID
+			15613//Tiến trình phát tán của virus cúm gia cầm
+			17759306//Viện Vệ sinh dịch tễ Trung ương (Việt Nam)
+		1751622//Thể loại:Serotype của virus cúm A
+			19270621//Virus cúm A/H1N2
+			19270623//Virus cúm A/H2N3
+			17612534//Virus cúm A/H3N2
+			1751618//Virus cúm A/H7N9
+			19659921//Virus cúm A/H10N3
+			19659917//Virus cúm A/H10N8
+	416790//Thể loại:Dịch bệnh
+		18788027//Danh sách dịch bệnh
+		13977787//Bệnh dịch thành Athens
+		19729074//Bùng phát bệnh đậu mùa khỉ 2022-2023
+		422090//Cái Chết Đen
+		795991//Dịch bệnh
+		13482008//Dịch bệnh nhảy múa năm 1518
+		19621797//Dịch đậu mùa Nhật Bản 735–737
+		18228993//Dịch SARS 2002–2004
+		2454417//Dịch sởi Việt Nam 2014
+		406805//Đại dịch
+		349338//Đại dịch cúm 2009
+		3216106//Đại dịch cúm Tây Ban Nha 1918
+		3133193//Dịch bệnh Ebola tại châu Phi 2014
+		17582780//Hệ số lây nhiễm cơ bản
+		19809421//Thể loại:Bệnh tâm sinh tập thể
+			19506542//Ee ja nai ka
+			19745189//Người khỉ Delhi
+			19809427//Đại hội phê đấu
+			15584588//Sự kiện UFO Varginha
+		2457827//Thể loại:Dịch bệnh tại Việt Nam
+			404539//Đại dịch cúm 2009 tại Việt Nam
+		795993//Thể loại:Dịch tễ học
+			64744//Dịch tễ học
+			7505556//Bệnh giàu có
+			11206298//Bệnh hiếm gặp
+			18772199//Bệnh nhân số 0
+			486191//Các bệnh dịch do nghèo đói
+			14023005//Dịch tễ học bạo hành gia đình
+			14792222//Dịch tễ học bệnh lý phân tử
+			14023064//Dịch tễ học hội chứng tự kỷ
+			19790752//Dịch tễ học quân sự
+			14023093//Dịch tễ học tự tử
+			14340971//Dịch tễ học ung thư vú
+			14710479//Dịch tễ học xã hội
+			13975920//Độ ổn định bên trong
+			14849923//Giả định bệnh hiếm
+			14095453//Giám sát dịch bệnh
+			19819833//Hiệu ứng chênh lệch tuổi tương đối
+			7504702//Dịch tễ học về HIV/AIDS
+			19637475//Làm phẳng đường cong
+			3668042//Miễn dịch cộng đồng
+			19724848//Nghiên cứu thuần tập
+			14422922//Ngộ độc thuốc trừ sâu
+			19724225//Nguy cơ quy thuộc
+			14807895//Nguyên nhân (y học)
+			19487079//Ổ bệnh
+			14775172//Thời gian ủ bệnh
+			14019297//Thử nghiệm lâm sàng
+			10487//Toán sinh học
+			19477030//Truy vết tiếp xúc
+			3712494//Tử suất
+			13823248//Tỷ lệ mang thai ở tuổi vị thành niên
+			14019510//Tỷ lệ sống còn của ung thư
+			14773322//Tỷ lệ tấn công
+			17736975//Tỷ lệ tử vong ca bệnh
+			14847440//Tỷ số nguy cơ
+			14773610//Vaccine-naive
+			19485631//Xóa sổ các bệnh truyền nhiễm
+		645418//Thể loại:Đại dịch
+			19633357//Bệnh X
+			13991518//Bùng phát virus Nipah tại Kerala 2018
+			13979636//Đại dịch Antonine
+			13991594//Đại dịch đậu mùa Nam Tư 1972
+		377330//Thể loại:Đại dịch cúm 2009
+			354111//Bản mẫu:Đại dịch cúm 2009
+			349536//Bản mẫu:Bảng đại dịch cúm 2009
+			411098//Đại dịch cúm 2009 tại Hoa Kỳ
+			364637//Bản mẫu:Bảng gen đại dịch cúm 2009
+			350733//Đại dịch cúm 2009 theo quốc gia
+			354037//Việc tiêu hủy lợn chống dịch cúm 2009
+		17411497//Thể loại:Đại dịch COVID-19
+			16945751//Đại dịch COVID-19
+			17319404//Bài ngoại và phân biệt chủng tộc liên quan đến đại dịch COVID-19
+			19640270//Biến cố thuyên tắc mạch và huyết khối sau tiêm vắc-xin COVID-19
+			19616661//Biến thể Beta SARS-CoV-2
+			19625871//Biến thể đáng lo ngại
+			19616442//Biến thể Lambda SARS-CoV-2
+			19640355//Các biện pháp giãn cách xã hội liên quan đến đại dịch COVID-19
+			19876672//Chiến dịch tuyên truyền sai lệch ChinaAngVirus
+			19566524//COVAX
+			19627207//COVID-19 trong thai kỳ
+			19640228//Danh sách quốc gia cấp phép vắc-xin COVID-19
+			19640269//Danh sách thuật ngữ đại dịch COVID-19
+			19547881//Dòng thời gian của đại dịch COVID-19 tháng 2 năm 2021
+			19600996//Dòng thời gian của đại dịch COVID-19 tháng 6 năm 2021
+			19565763//Katalin Karikó
+			18890623//Kiểm soát nguy cơ nơi làm việc với COVID-19
+			19627297//Lây truyền COVID-19
+			18612982//Phát triển thuốc COVID-19
+			19640461//Danh sách phương pháp chưa được chứng minh ngừa COVID-19
+			18660295//Sơ tán do đại dịch COVID-19
+			19627901//Sức khỏe tâm thần trong đại dịch COVID-19
+			19640074//Tập dữ liệu COVID-19
+			19139230//Together at Home
+			19639944//Tỷ lệ tử vong đại dịch COVID-19 theo quốc gia
+			18383613//Vắc-xin COVID-19
+			18661931//Vấn đề nhân quyền trong đại dịch COVID-19
+			19326534//We Are Warriors
+			19639571//Phản ứng của Wikipedia đối với đại dịch COVID-19
+			19705475//Zero-COVID
+	190144//Thể loại:Động vật ký sinh
+		3249800//Anisakis simplex
+		1439417//Giun đũa
+		196909//Bọ chét
+		2398212//Bộ Chấy
+		2217768//Cá mút đá
+		1336851//Cá mút đá biển
+		700207//Cancellaria cooperii
+		768372//Candiru
+		3375877//Chim sẻ ma cà rồng
+		2432021//Clonorchis sinensis
+		783153//Conopini
+		783150//Conops
+		783491//Conops ceriaeformis
+		783211//Conops flavipes
+		783212//Conops quadrifasciatus
+		783332//Conops strigatus
+		1264006//Cyamidae
+		1173352//Cymothoa exigua
+		1060485//Dơi quỷ
+		3249790//Giun kim
+		2219097//Giun móc
+		3249788//Giun tóc
+		1756119//Hà
+		2444264//Haemadipsa picta
+		3272460//Ký sinh nuôi dưỡng
+		1336847//Lampetra fluviatilis
+		783495//Leopoldius brevirostris
+		783496//Leopoldius signatus
+		5486//Muỗi
+		783213//Myopa buccata
+		2429312//Myxozoa
+		1222189//Ngành Giun đầu gai
+		2432112//Opisthorchis viverrini
+		783381//Pangonius
+		660076//Phengaris rebeli
+		783494//Physocephala nigra
+		783210//Physocephala rufipes
+		783492//Physocephalini
+		3155197//Sán bã trầu
+		3249811//Sán cá
+		295628//Sán lá máu
+		3249807//Sán xơ mít
+		3249821//Schistosoma mekongi
+		1208821//Tò vò ngọc lục bảo
+		2431964//Trematoda
+		61503//Ve (ký sinh)
+		502859//Thể loại:Bọ chét
+			2362741//Bọ chét chó
+			502845//Bọ chét chuột phương Đông
+			503942//Bọ chét mèo
+		1677159//Thể loại:Động vật đầu móc
+		484052//Thể loại:Lớp Sán dây
+			2431903//Cestoda
+			19637819//Eucestoda
+			2431910//Hymenolepis diminuta
+		1677164//Thể loại:Myxozoa
+		1677166//Thể loại:Ve (ký sinh)
+			3237971//Amblyomma
+			14946615//Ixodes
+	12909//Thể loại:HIV/AIDS
+		19805364//Bản mẫu:HIV và AIDS
+		26975//Bao cao su
+		19476110//Bệnh lây truyền qua đường tình dục trong ngành công nghiệp tình dục
+		831259//Gia Carangi
+		13376092//Cấu trúc và bộ gen của HIV
+		15042030//Chẩn đoán HIV/AIDS
+		19758300//Máy bán bao cao su
+		15274278//Diarylpyrimidines
+		11684357//Free Me (bài hát của Sia)
+		466125//HealthBridge
+		19805381//HIV/AIDS và nam có quan hệ tình dục với nam
+		14503646//Hội chứng viêm phục hồi miễn dịch
+		3234351//Kaposi's sarcoma
+		15274344//Lamivudine/raltegravir
+		19869340//Miễn dịch bẩm sinh với HIV
+		318066//Nam có quan hệ tình dục với nam
+		14399147//Nuôi con bằng sữa mẹ và HIV
+		13818409//Phát triển vắc-xin HIV
+		14378543//Phân biệt đối xử người nhiễm HIV/AIDS
+		15037180//Tesamorelin
+		322276//Tình dục an toàn
+		13966311//Tình dục không bao cao su
+		19385196//Trình diện kháng nguyên
+		794657//Thể loại:HIV/AIDS theo quốc gia
+			10108856//HIV/AIDS tại Bắc Triều Tiên
+			10110879//HIV/AIDS tại Bhutan
+			10112263//HIV/AIDS tại Campuchia
+			10114672//HIV/AIDS tại Malaysia
+			10116880//HIV/AIDS tại Myanmar
+			10106410//HIV/AIDS tại Nhật Bản
+			10122875//HIV/AIDS tại Thái Lan
+			794648//HIV/AIDS tại Trung Quốc
+			795898//HIV/AIDS tại Việt Nam
+		19598259//Thể loại:Bao cao su
+			2392381//Durex
+			19749768//Safedom
+		3386171//Thể loại:Hoạt động xã hội về HIV/AIDS
+			1297434//Lhuna
+			820647//Ngày thế giới phòng chống bệnh AIDS
+		3429988//Thể loại:Lịch sử HIV/AIDS
+			18684518//Timothy Ray Brown
+			18684519//Stephen Crohn
+			18684520//Selma Dritz
+			18028529//Gaëtan Dugas
+		3418057//Thể loại:Phòng ngừa HIV/AIDS
+			130830//Cắt bao quy đầu
+			19768298//Điều trị dự phòng trước phơi nhiễm HIV
+			437498//Giáo dục giới tính
+			13826395//Kiểm soát HIV/AIDS
+			396301//Kiêng tình dục
+		441945//Thể loại:Sách viết về HIV/AIDS
+			441299//Nhật Ký Nancy
+		19546576//Thể loại:Thuốc kháng retrovirus
+			13826613//Abacavir/dolutegravir/lamivudine
+			13826588//Abacavir/lamivudine
+			13826022//Darunavir
+			13826795//Dolutegravir
+			13826635//Efavirenz/emtricitabine/tenofovir
+			13826665//Emtricitabine/tenofovir
+			15053890//Foscarnet
+			13825633//Lamivudine
+			13826716//Lamivudine/zidovudine
+			13826695//Lopinavir/ritonavir
+			13825629//Nevirapine
+			13826808//Raltegravir
+			13826431//Ritonavir
+			13825630//Stavudine
+			13825637//Tenofovir disoproxil
+	19522605//Thể loại:Huyết thanh học
+		19522603//Thể loại:Y học truyền máu
+			11435438//Chảy máu đường tiêu hóa
+			13811439//Gạn bạch cầu
+			14127469//Hệ thống nhóm máu ABO
+			13815112//Hiến máu
+			13632218//Bản mẫu:Y học truyền máu
+	82523//Thể loại:Kháng sinh
+		81771//Kháng sinh
+		330356//Penicillin
+		13818810//Acid 4-aminosalicylic
+		7575542//Allyl isothiocyanate
+		13817392//Amikacin
+		13817214//Amoxicillin/acid clavulanic
+		812960//Ampicillin
+		15198927//Avibactam
+		13813566//Azithromycin
+		13815041//Benzathine benzylpenicillin
+		15278594//Bevonium
+		13817323//Capreomycin
+		13813629//Cefazolin
+		15200227//Cefoperazone/sulbactam
+		13816783//Cefotaxime
+		13813590//Ceftazidime
+		13814749//Chất diệt khuẩn
+		15085151//Chloroxine
+		13819072//Clarithromycin
+		13821978//Clindamycin
+		13818828//Clofazimine
+		15385989//Clofoctol
+		13825641//Colistin
+		13819057//Cycloserine
+		3220042//Dapsone
+		13826027//Daptomycin
+		13821790//Doxycycline
+		3699069//Enrofloxacin
+		13823872//Entecavir
+		13819095//Erythromycin
+		13817421//Ethionamide
+		15204014//Furazolidone
+		13821862//Gentamicin
+		15285687//Hachimycin
+		18777211//Halicin
+		13816818//Imipenem/cilastatin
+		13817257//Isoniazid
+		812961//Kanamycin
+		13827279//Lạm dụng thuốc kháng sinh
+		15085222//Lasalocid
+		13822078//Levofloxacin
+		13821942//Linezolid
+		13825339//Moxifloxacin
+		13821738//Neomycin
+		14818944//Netilmicin
+		13980117//Nitrofurantoin
+		13825083//Ofloxacin
+		13826674//Oritavancin
+		15202148//Oxacephem
+		357570//Penicillin G
+		13816759//Phenoxymethylpenicillin
+		13815065//Procaine benzylpenicillin
+		15195028//Ramoplanin
+		13823768//Ribavirin
+		13823720//Rifabutin
+		13817303//Rifampicin
+		13823740//Rifapentine
+		15198148//Ritipenem
+		13825647//Roxithromycin
+		13829342//Sản xuất kháng sinh
+		13821760//Spectinomycin
+		3678748//Sulfadiazine
+		3185619//Teixobactin
+		13826698//Telavancin
+		14084478//Tetracycline
+		15232435//Thiocarlide
+		14088423//Trimethoprim/sulfamethoxazole
+		13815015//Vancomycin
+		15385996//Xibornol
+		541296//Thể loại:Kháng sinh Sulfonamide
+			15232583//Aldesulfone sodium
+			14055664//Bạc sulfadiazin
+			15218872//Phthalylsulfathiazole
+			15218868//Succinylsulfathiazole
+			15111600//Sulfacetamide
+			15202776//Sulfadicramide
+			15202715//Sulfafurazole
+			15218865//Sulfaguanidine
+			15202736//Sulfalene
+			15202764//Sulfamerazine
+			15202708//Sulfamethizole
+			541295//Sulfamethoxazole
+			3678713//Sulfanilamide
+			15202785//Sulfanitran
+			15202765//Sulfaphenazole
+			15285672//Sulfatolamide
+			15202706//Sulfisomidine
+			560704//Sulfonamide (thuốc)
+		2496714//Thể loại:Kháng sinh ức chế quá trình tổng hợp protein
+			15194358//Puromycin
+		19542138//Thể loại:Kháng sinh vỏ tế bào
+		1752072//Thể loại:Chết vì bệnh lao
+			575746//Anders Celsius
+			31559//Anna Mons
+			1676923//Fricis Apšenieks
+			2539360//Anton Stepanovich Arensky
+			2461340//Augustin-Jean Fresnel
+			31369//Jane Austen
+			81649//Bành Đức Hoài
+			115480//Gustavo Adolfo Bécquer
+			2361208//Bernadette Soubirous
+			1752055//Luigi Boccherini
+			124484//Simón Bolívar
+			349589//Louis Braille
+			249206//Anne Brontë
+			143879//Emily Brontë
+			526005//Carl Maria von Weber
+			14686195//Catherine của Pháp, Bá tước phu nhân xứ Charolais
+			31822//Anton Pavlovich Chekhov
+			2416099//Chỉ huy Ramona
+			40513//Frédéric Chopin
+			108496//Stephen Crane
+			1440822//Edward VI của Anh
+			795469//Frédéric Auguste Bartholdi
+			1221386//Gemma Galgani
+			3146687//Kahlil Gibran
+			641175//Henry David Thoreau
+			1277135//Henry VII của Anh
+			2421689//Higuchi Ichiyō
+			460600//Jacobus Henricus van 't Hoff
+			139552//Andrew Jackson
+			118391//Franz Kafka
+			109968//John Keats
+			42008//Khải Định
+			2361438//Konstantinos III Herakleios
+			488043//Wilhelm Küchelbecker
+			116135//René-Théophile-Hyacinthe Laennec
+			3143075//D. H. Lawrence
+			245005//Louis XVII của Pháp
+			19716103//Louis Ferdinand của Pháp
+			19719156//Louis-Joseph-Xavier của Pháp
+			3124922//Louise Marie của Orléans
+			250672//Mahmud II
+			1676921//Hermanis Matisons
+			1211684//Muhammad Ali Jinnah
+			128494//Semën Yakovlevich Nadson
+			95071//Napoléon II
+			142664//Okita Sōji
+			77559//George Orwell
+			10352//Frédéric Antoine Ozanam
+			3385670//Teresa de la Parra
+			242477//Pedro I của Brasil
+			1793601//Giovanni Battista Pergolesi
+			2360428//Gavrilo Princip
+			3277564//Manuel L. Quezon
+			523089//Hồng y Richelieu
+			55906//Bernhard Riemann
+			813710//Robert Fulton
+			38022//Eleanor Roosevelt
+			68868//Friedrich Schiller
+			83929//Erwin Schrödinger
+			262233//Sophie Hélène Béatrix của Pháp
+			3139308//Karol Szymanowski
+			104506//Têrêsa thành Lisieux
+			93879//Thạch Lam
+			1000884//Thái Ngạc
+			151062//Tống Thượng Tiết
+			1614127//Vissarion Belinsky
+			323273//Vivien Leigh
+			8539//Vũ Trọng Phụng
+			3261885//Lev Vygotsky
+	19425809//Thể loại:Mầm bệnh và bệnh thực vật
+		19883696//Đốm
+		13991705//Virus khảm lá bí
+		7629958//Thể loại:Bệnh cây trồng
+			7629946//Bạc lá
+			7635210//Khô vằn
+			7609826//Lùn sọc đen
+	3420281//Thể loại:Nhiễm trùng huyết
+		19556800//Sốc nhiễm khuẩn
+	3175941//Thể loại:Tử vong vì bệnh truyền nhiễm
+		796591//Constantius II
+		75755//Martin Heidegger
+		3146772//John của Anh
+		181052//Sócrates
+		7626412//Angelo Sodano
+		62061//William Styron
+		402429//Thuận Trị
+		14900614//Thể loại:Tử vong vì bệnh truyền nhiễm theo quốc gia
+		19511920//Thể loại:Tử vong do giang mai
+			55936//Charles Baudelaire
+			18944751//Beau Brummell
+			1446158//Al Capone
+			194246//Alphonse Daudet
+			448313//John Wilmot, Bá tước thứ 2 xứ Rochester
+			1794437//Scott Joplin
+			31824//Guy de Maupassant
+		19586466//Thể loại:Tử vong vì đại dịch COVID-19
+			18571828//Angelo Moreschi
+			19631739//Brittanya Karma
+			14521613//Bujar Nishani
+			19784644//Chu Tổ Thọ
+			411141//Valéry Giscard d'Estaing
+			15320622//Lata Mangeshkar
+			1401685//Mahmoud Jibril
+			19609072//Mandela Kapere
+			19325643//María Teresa de Borbón-Parma
+			3686494//Fidel Ramos
+			13869293//Shimura Ken
+			3158374//Milkha Singh
+			15140583//Thanwa Raseetanu
+			19641369//Thống kê thiếu số ca tử vong đại dịch COVID-19 theo quốc gia
+			3689189//Vangelis
+	3654375//Thể loại:Vật ký sinh
+		783176//Allobosca
+		783180//Austrolfersia
+		783314//Basilia
+		783130//Cephenemyiini
+		783140//Crataerina
+		783139//Crataerina pallida
+		528901//Entamoeba histolytica
+		783410//Fannia pusio
+		783202//Fannia scalaris
+		782973//Gasterophilus haemorrhoidalis
+		507026//Giun lươn
+		783169//Hippobosca
+		783142//Hippoboscinae
+		359508//Họ Rệp
+		783175//Icosta
+		7615416//Ký sinh bắt buộc
+		7677350//Ký sinh bậc cao
+		7626103//Ký sinh tùy ý
+		783059//Lipoptena
+		783145//Lipoptena depressa
+		783144//Lipoptena mazamae
+		783143//Lipopteninae
+		783177//Melophagus
+		1685130//Mesomycetozoea
+		783173//Microlynchia
+		783185//Myophthiria
+		783147//Neolipoptena
+		783146//Neolipoptena ferrisi
+		783187//Olfersia
+		783186//Ornithoctona
+		783182//Ornithoica
+		783184//Ornithomya
+		783190//Ornithomyinae
+		783188//Ornithophila
+		783174//Ortholfersia
+		783181//Phthona
+		783189//Proparabosca
+		783171//Pseudolynchia
+		783170//Pseudolynchia canariensis
+		1263122//Pseudopulex
+		17184456//Quy tắc Eichler
+		783172//Stilbometopa
+		783178//Struthibosca
+		555614//Triatominae
+		3654377//Vật ký sinh cỡ nhỏ
+		2431595//Thể loại:Ký sinh trùng
+			3298406//Apicomplexa
+			3295849//Capillaria aerophila
+			3636278//Ceratophyllus gallinae
+			15325727//Chu kỳ sống
+			3298408//Cryptosporidium
+			3193034//Demodex
+			19670219//Động vật miệng tròn
+			468290//Ký sinh
+			14248271//Ký sinh ăn cướp
+			11290744//Ký sinh trùng học
+			3266282//Plasmodium falciparum
+			3125616//Pthirus gorillae
+			17588750//Quy tắc Harrison
+			19690419//Trùng hai phôi
+			3211603//Vật chủ
+		3418402//Thể loại:Ký sinh vật trong tác phẩm hư cấu
+			805995//Kamen Rider Kabuto
+			19626076//Ký sinh trong tác phẩm giả tưởng
+			14714227//Người hóa thú (truyện)
+			3640697//Parasite Eve
+			19690322//Peacemaker (phim truyền hình)
+			361703//Resident Evil 4
+			1618047//Vật chủ (phim 2013)
+	19893539//Thể loại:Vi sinh vật gây bệnh
+	4164//Thể loại:Virus học
+		19626754//Bất hoạt virus
+		296145//Chu trình tan
+		4496//Chu trình tiềm tan
+		40310//Danh sách virus
+		19468944//Giới thiệu về virus
+		19835147//Integrase
+		19724066//Lịch sử xã hội của virus
+		14184990//Màng bọc virus
+		15408100//Nucleoprotein
+		19622437//Protein gai
+		74178//Albert Sabin
+		19650687//Sai sót kháng nguyên ban đầu
+		13972085//Sự sống không tế bào
+		24080//Tải nạp
+		14092217//Thử nghiệm vắc-xin
+		18298231//Ủy ban Quốc tế về Phân loại Virus
+		3261908//Vắc-xin sống
+		17427664//Viện Virus học Vũ Hán
+		4163//Virus
+		12200934//Virus học
+		14167659//Vỏ bọc
+		517722//Thể loại:Nhà virus học
+			444403//Martinus Beijerinck
+			449905//Renato Dulbecco
+			438356//Heinz Fraenkel-Conrat
+			439796//Francis Peyton Rous
+			445444//Richard Edwin Shope
+			462624//Wendell Meredith Stanley
+		17161//Thể loại:Virus
+			19805253//Bản mẫu:Virus
+			14946052//Banna virus
+			3701521//Contagium vivum fluidum
+			16800414//Coronaviridae
+			15066229//Cytomegalovirus
+			19128362//Virus DNA
+			13504900//Feline calicivirus
+			19514355//Hệ thống phân loại Baltimore
+			201540//Hột cơm
+			352745//Mimivirus
+			19475850//Phân loại virus
+			15632987//Thể thực khuẩn M13
+			11432053//Thực khuẩn thể
+			13829096//Vi rút Chandipura
+			17339476//Virus dơi
+			19124613//Virus dsDNA-RT
+			15801319//Virus khảm lá đu đủ
+			3161565//Virus khảm thuốc lá
+			19841330//Virus khổng lồ
+			13505070//Virus suy giảm miễn dịch mèo
+			14946234//Virus Usutu
+			14946231//Virus viêm não thung lũng Murray
+			3306444//Virus Zika
+350593//Thể loại:Ung thư học
+	2454197//Ung thư học
+	7457769//Các nguyên nhân gây tử vong trong ung thư
+	13811270//Carboplatin
+	13790361//Chế độ ăn uống và ung thư
+	3691889//Di căn
+	19365104//Đầy hơi chướng bụng
+	15517839//Đường truyền tín hiệu WNT
+	242844//Ghép tế bào gốc tạo máu
+	15276965//Hiệu ứng tăng tính thấm và duy trì
+	2434724//Hóa trị liệu
+	7494986//Khối u
+	19530662//Bản mẫu:Khối u
+	6339//Nước từ
+	24876//Phết tế bào cổ tử cung
+	14850318//Phòng ngừa ung thư
+	2442950//Sulforaphane
+	14553054//Tiêu chuẩn Thông dụng để Đánh giá Các biến cố bất lợi
+	15688439//U tinh bào
+	5928//Ung thư
+	15518538//Ung thư ở thanh thiếu niên và thanh niên
+	14242521//Ung thư thực quản
+	1204235//Thể loại:Chất đánh dấu khối u
+		831296//Alpha-fetoprotein
+		13601077//Calcitonin
+		13743984//Chất chỉ điểm khối u
+		13808832//Des-gamma carboxyprothrombin
+		15087729//Human chorionic gonadotropin
+		64947//Insulin
+		1204226//Kháng nguyên CEA
+		19687016//Sản phẩm giáng hóa fibrin
+	2434835//Thể loại:Điều trị ung thư
+		13970130//Danh sách phương pháp điều trị ung thư chưa được chứng minh khoa học và bị bác bỏ
+		14776207//Biên phẫu thuật
+		15275975//Carmustine
+		13808787//Cisplatin
+		13991306//Cytarabine
+		13991384//Dacarbazine
+		7479592//Điều trị ung thư
+		14013378//Etoposide
+		86430//HER-2/neu
+		14017190//Imatinib
+		15297725//Interleukin 2
+		19768478//Kháng thể đơn dòng
+		15275925//Liệu pháp quang động
+		15275971//Lomustine
+		19867937//Máy gia tốc hạt tuyến tính
+		11598398//Methotrexate
+		15276144//Panobinostat
+		15275935//Temozolomide
+		15275946//Thiotepa
+		15416412//Trametinib
+		13807014//Vinorelbine
+		2434836//Thể loại:Hóa trị liệu
+			13989671//Bendamustine
+			16514693//Bệnh thần kinh ngoại biên do hóa trị liệu
+			13991037//Chlorambucil
+			14011230//Chlorotoxin
+			13991270//Cyclophosphamide
+			14010231//Daunorubicin
+			14013373//Doxorubicin
+			14013382//Fludarabine
+			14017119//Ifosfamide
+			14018942//Paclitaxel
+			14018971//Procarbazine
+			14019455//Thioguanine
+			14019493//Trastuzumab
+			14018909//Tretinoin
+			14019576//Vinblastine
+		2434837//Thể loại:Thuốc chống ung thư
+			15275921//Acid aminolevulinic
+			15276104//Alitretinoin
+			15276097//Amsacrine
+			15276085//Anagrelide
+			2153029//Asimina
+			13594385//Asparaginase
+			13989560//Azathioprine
+			14091771//Bevacizumab
+			15276110//Bexarotene
+			13989728//Bleomycin
+			2417742//Celecoxib
+			15416562//Dacomitinib
+			15112365//Darolutamide
+			15416449//Denileukin diftitox
+			19048//Diarsenic trioxide
+			13829176//Docetaxel
+			15275700//Doxifluridine
+			15275910//Efaproxiral
+			15276098//Elsamitrucin
+			15276064//Eribulin
+			15276004//Etoglucid
+			15308127//Everolimus
+			18887735//Hydroxycarbamide
+			15276113//Idelalisib
+			3244743//Imiquimod
+			14018419//Irinotecan
+			15307822//Lenalidomide
+			15276092//Liệu pháp trúng đích
+			15276002//Lonidamine
+			15275997//Lucanthone
+			15275642//Lurtotecan
+			15275988//Masoprocol
+			15275920//Methyl aminolevulinate
+			13988974//Miltefosine
+			15275995//Mitoguazone
+			15275269//Mitotane
+			15255447//Nivolumab
+			15276103//Pegaspargase
+			19557718//Pembrolizumab
+			15275978//Prednimustine
+			15054226//Resiquimod
+			14019022//Rituximab
+			15276139//Romidepsin
+			15416487//Sonidegib
+			15308172//Temsirolimus
+			15276106//Trabectedin
+			15054063//Trifluridine
+			15276524//Trifluridine/tipiracil
+			15037148//Vapreotide
+			13828916//Vincristine
+			15276117//Vorinostat
+	19763565//Thể loại:Sơ khai ung thư học
+		19763564//Bản mẫu:Sơ khai ung thư học
+		19744021//Ung thư biểu mô
+		19743920//Ung thư biểu mô đường mật
+		19763461//Ung thư biểu mô ống dẫn sữa tại chỗ
+1067841//Thể loại:Vắc-xin
+	18998895//Bản mẫu:Vắc-xin
+	15112348//Androvax
+	15113519//Chiron Corporation
+	15041067//Gardasil
+	65397//Haemophilus influenzae
+	14984544//Vắc-xin bạch hầu
+	759619//Vắc-xin bại liệt
+	15103473//Vắc-xin bệnh dịch hạch
+	15061347//Vắc-xin DPT
+	15061299//Vắc-xin Ebola
+	15061247//Vắc-xin Hantavirus
+	13825958//Vắc-xin ho gà
+	15056887//Vắc-xin kháng nguyên khối u
+	3383548//Vắc-xin phòng bệnh sởi
+	13819173//Vắc-xin phòng sốt xuất huyết
+	15061208//Vắc-xin RVSV-ZEBOV
+	13819257//Vắc-xin sâu răng
+	15103793//Vắc-xin sốt phát ban
+	15056879//Vắc-xin tổng hợp
+	19588053//Vắc-xin vector virus
+	15041168//Vắc-xin viêm gan A và B
+	13818015//Vắc-xin viêm gan siêu vi A
+	13818357//Vắc-xin viêm gan siêu vi B
+	13819063//Vắc-xin viêm gan siêu vi C
+	15278379//Vắc-xin viêm màng não
+	15061270//Vắc-xin virus Epstein–Barr
+	15056896//Vắc-xin virus Zika
+	19641629//Thể loại:Vắc-xin bất hoạt
+		15051788//Vắc-xin bất hoạt
+		19622326//BBIBP-CorV
+		19640250//CoviVac (vắc-xin COVID-19 của Nga)
+		19641620//FAKHRAVAC
+	19563679//Thể loại:Vắc-xin COVID-19
+		19628730//ARCT-154
+		19626607//Convidecia
+		19626543//CoronaVac
+		19626665//Covaxin
+		19640543//COVIran Barekat
+		19583145//CoviVac (vắc-xin COVID-19 của Việt Nam)
+		19622342//Vắc-xin COVID-19 Janssen
+		19626160//Vắc-xin COVID‑19 Moderna
+		19579695//Nanocovax
+		19563541//Vắc-xin COVID-19 của Oxford–AstraZeneca
+		19567671//Vắc-xin COVID-19 của Pfizer–BioNTech
+		19635584//Soberana 02
+		19563677//Vắc-xin COVID-19 Sputnik V
+		19642533//Thông tin sai lệch và chần chừ trong tiêm vắc-xin COVID-19
+		19585196//Vắc-xin COVID-19 Vabiotech
+		19626060//Vắc-xin mRNA
+		19642595//ZyCoV-D
+	19641625//Thể loại:Sơ khai vắc-xin
+		19641621//Bản mẫu:Sơ khai vắc-xin

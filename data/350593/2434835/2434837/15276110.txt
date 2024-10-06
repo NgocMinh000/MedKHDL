@@ -1,0 +1,37 @@
+Bexarotene (tên thương hiệu: Targretin) là một thuốc chống ung thư (chống ung thư) đại diện bởi các chấp thuận của Mỹ Food and Drug Administration (FDA) (vào cuối năm 1999) và Cơ quan châu Âu Thuốc (EMA) (đầu năm 2001) để sử dụng như một điều trị u lympho tế bào T ở da (CTCL). Nó là một retinoid thế hệ thứ ba.
+
+
+== Sử dụng trong y tế ==
+Bexarotene được chỉ định để điều trị các biểu hiện của bệnh u lympho tế bào T ở da ở những người chịu khó điều trị ít nhất một liệu pháp toàn thân trước đó (uống) và điều trị tại chỗ các tổn thương da ở bệnh nhân CTCL mắc bệnh khúc xạ hoặc dai dẳng sau các liệu pháp khác hoặc những người không dung nạp các liệu pháp khác (tại chỗ).
+Nó đã được sử dụng ngoài nhãn cho ung thư phổi không phải tế bào nhỏ  và ung thư vú.
+
+
+== Chống chỉ định ==
+Chống chỉ định được biết đến bao gồm: 
+
+
+== Tác dụng phụ ==
+Nhìn chung, các tác dụng phụ phổ biến nhất là phản ứng da (chủ yếu là ngứa và phát ban), giảm bạch cầu, đau đầu, yếu cơ, dị thường tuyến giáp (dường như được điều hòa bởi sự điều hòa của hormone kích thích tuyến giáp của RXR) và dị thường lipid máu như tăng cholesterol máu cholesterol) và tăng lipid máu, suy giáp.
+
+
+== Tương tác ==
+Nồng độ trong huyết tương của nó có thể tăng lên khi điều trị đồng thời với các thuốc ức chế CYP3A4 như ketoconazole. Nó cũng có thể gây ra CYP3A4, và do đó các chất nền CYP3A4 như cyclophosphamide có thể làm giảm nồng độ trong huyết tương của chúng. Tương tự như vậy, tiêu thụ nước ép bưởi có thể làm tăng nồng độ trong huyết tương của bexarotene, do đó có khả năng làm thay đổi hiệu quả điều trị của nó.
+
+
+== Cơ chế ==
+Bexarotene là một retinoid kích hoạt chọn lọc các thụ thể X retinoid (RXR), trái ngược với các thụ thể của axit retinoic, mục tiêu chính khác của axit retinoic (dạng axit của vitamin A). Bằng cách đó, nó gây ra sự biệt hóa tế bào và apoptosis và ngăn ngừa sự phát triển của kháng thuốc. Nó cũng có tác dụng chống angiogen và ức chế sự di căn của ung thư. Các thụ thể của axit retinoic (RARs) điều chỉnh sự biệt hóa và tăng sinh tế bào trong khi các RXR điều chỉnh quá trình apoptosis.
+
+
+== Tính chất vật lý ==
+Bexarotene là một loại bột trắng, rắn. Nó hòa tan kém trong nước; độ hòa tan được ước tính là khoảng 10-50. Nó hòa tan trong DMSO ở 65   mg / mL và trong ethanol ở mức 10   mg / mL với sự nóng lên.
+
+
+== Lịch sử ==
+SRI International và Quỹ Nghiên cứu Ung thư La Jolla (nay là Viện Nghiên cứu Y khoa Sanford-Burnham) đã hợp tác trong công việc dẫn đến hồ sơ bằng sáng chế cho thuốc.
+Nhà phát triển của bexarotene (tên thương hiệu Targretin) là Ligand Enterprises, một công ty công nghệ sinh học ở San Diego đã được FDA chấp thuận cho thuốc vào năm 1999. FDA chấp thuận bexarotene vào ngày 29 tháng 12 năm 1999.
+Công ty dược phẩm Eisai của Nhật Bản đã mua bản quyền của Targretin và ba sản phẩm chống ung thư khác từ Ligand năm 2006. Tại Hoa Kỳ, bằng sáng chế về thuốc đã hết hạn vào năm 2016.
+Nó đã nhận được phê duyệt EMA vào ngày 29 tháng 3 năm 2001.
+Các nghiên cứu tiền lâm sàng ở giai đoạn đầu cho thấy bexarotene làm giảm các mảng amyloid và cải thiện chức năng tinh thần ở một mẫu chuột nhỏ được thiết kế để biểu hiện các triệu chứng giống Alzheimer  mặc dù các nghiên cứu tiếp theo đã cho kết quả hỗn hợp.
+
+
+== Tham khảo ==

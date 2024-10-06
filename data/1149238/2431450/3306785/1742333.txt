@@ -1,0 +1,59 @@
+Neuron là tế bào thần kinh có khả năng cảm ứng, phát sinh xung thần kinh và dẫn truyền xung điện này. Neuron là đơn vị cơ bản cấu tạo hệ thần kinh của hầu hết các loài động vật và là thành phần quan trọng bậc nhất của não. Thân và sợi nhánh của các neuron tạo thành chất xám. Sợi trục (nếu đi chung với nhau thành bó gọi là dây thần kinh) cấu tạo chất trắng trong não. Ước tính có khoảng 100 tỷ (1011) neuron và 100 nghìn tỷ (1014) synapse trong não người. Các tế bào thần kinh được hỗ trợ bởi microglia và tế bào hình sao (các tế bào thần kinh đệm). Neuron là những tế bào dài nhất trong cơ thể, biệt hóa cao độ nên mất trung thể và khả năng phân chia, nhưng có khả năng tái sinh phần cuối sợi trục nếu bị tổn thương.
+
+
+== Cấu tạo ==
+
+Mỗi neuron gồm một thân chứa nhân, hình sao nhiều cạnh hoặc bầu dục và các sợi. Từ thân phát đi nhiều tua (sợi) ngắn phân nhánh như cành cây gọi là sợi nhánh và một tua dài, mảnh gọi là sợi trục. Dọc sợi trục có thể có những tế bào Schwann bao bọc tạo nên bao myelin. Sợi trục nối giữa trung ương thần kinh với các cơ quan, chúng đi chung với nhau thành từng bó gọi là dây thần kinh. Khoảng cách giữa các bao này có những đoạn ngắn gọi là eo Ranvier, còn diện tích tiếp xúc giữa những nhánh nhỏ phân từ tận cùng sợi trục của neuron này với sợi nhánh của neuron khác hoặc cơ quan thụ cảm gọi là synapse. Neuron có nhiều hình dạng: neuron đa cực có thân nhiều sợi nhánh, neuron lưỡng cực với một sợi nhánh và một sợi trục đối diện nhau; và neuron đơn cực chỉ có một tua do sợi nhánh và sợi trục hợp lại mà thành.
+
+
+== Chức năng ==
+Chức năng cơ bản của neuron là cảm ứng và dẫn truyền xung thần kinh dưới dạng các tín hiệu hóa học trong các hoạt động điều khiển, điều hoà và phối hợp mọi hoạt động của các cơ quan và hệ cơ quan trong cơ thể nhằm tạo sự thích nghi với các thay đổi từ môi trường bên trong và bên ngoài.
+
+
+== Phân loại ==
+
+
+=== Theo hướng dẫn truyền xung thần kinh ===
+Có ba loại neuron là
+
+Neuron hướng tâm (Neuron cảm giác) có thân nằm ngoài trung ương thần kinh dẫn xung thần kinh về trung ương thần kinh.
+Neuron trung gian (Neuron liên lạc) nằm trong trung ương thần kinh, gồm những sợi hướng tâm và li tâm, làm nhiệm vụ liên lạc.
+Neuron ly tâm (Neuron vận động) có thân nằm trong trung ương thần kinh (hoặc ở hạch thần kinh sinh dưỡng), dẫn các xung ly tâm từ bộ não và tủy sống đến các cơ quan phản ứng để gây ra sự vận động hoặc bài tiết.
+
+
+=== Theo chức năng ===
+Các neuron cảm giác mang tín hiệu từ các giác quan đến tủy sống và não.
+Neuron chuyển tiếp mang thông điệp từ một phần của hệ thần kinh trung ương.
+Neuron vận động được kết nối với các neuron chuyển tiếp. Các neuron vận động nhận và mang tín hiệu từ hệ thần kinh trung ương đến các cơ bắp. Tín hiệu đi giữa các tế bào thần kinh thông qua các cúc synapse và khe synapse nằm ở tận cùng của tế bào thần kinh. Khe synapse là khoảng trống rất nhỏ giữa các tế bào mà hóa chất được phát tán từ các thiết bị đầu cuối sợi trục (như các túi chứa chất trung gian hóa học trong thùy synapse đối với synapse hóa học hay các kênh hút nước trong synapse điện) của một tế bào neuron nhằm kích thích các thụ thể hóa học chuyên biệt có chức năng tiếp nhận chất trung gian hóa học ở các sợi nhánh của các tế bào tiếp nhận.
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+ Tư liệu liên quan tới Neurons tại Wikimedia Commons
+Nơron tại Từ điển bách khoa Việt Nam
+neuron (Definition & Functions) tại Encyclopædia Britannica (tiếng Anh)
+Fibrinogen found to inhibit EGFR in neuronal cells Blood clotting protein may inhibit spinal cord regeneration
+Cell Centered Database Lưu trữ 2007-08-13 tại Wayback Machine UC San Diego images of neurons.
+High Resolution neuroanatomical Images of Primate and Non-Primate Brains.

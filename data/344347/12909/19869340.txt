@@ -1,0 +1,48 @@
+Một tỷ lệ nhỏ người trên thế giới có khả năng miễn dịch bẩm sinh đối với HIV một phần hoặc toàn phần, loại virus gây ra bệnh AIDS. Cơ chế chính là ở đột biến gen mã hóa CCR5, hoạt động như một đồng thụ thể với HIV. Người ta ước tính tỷ lệ người có một số dạng kháng HIV là dưới 10%.
+
+
+== Lịch sử ==
+Năm 1994, Stephen Crohn trở thành người đầu tiên được phát hiện hoàn toàn kháng lại HIV trong tất cả các bài kiểm tra mặc dù có nhiều đối tác đã nhiệm loại virus này. Khả năng kháng của Crohn là do anh thiếu một thụ thể, ngăn cản HIV nhiễm vào CD4 nằm trên bề mặt của các tế bào bạch cầu. Sự thiếu hụt thụ thể này, hoặc nói cách khác là sự rút ngắn chúng đến mức không hoạt động được, được biết đến với tên gọi đột biến delta 32. Đột biến này liên kết với những nhóm người đã tiếp xúc với HIV nhưng vẫn không nhiễm như con cái của người nhiễm HIV, nhân viên y tế và những người làm công việc liên quan đến tình dục.
+Vào đầu những năm 2000, các nhà nghiên cứu đã phát hiện một nhóm nhỏ những người làm nghề liên quan đến tình dục tại Nairobi, Kenya, được ước tính có quan hệ tình dục với 60 đến 70 khách hàng dương tính HIV mỗi năm mà không có dấu hiệu nhiễm bệnh. Những người này không được phát hiện có đột biến delta dẫn đến việc có nhiều nhà khoa học tin rằng còn có các yếu tố khác có thể kháng lại HIV. Các nhà nghiên cứu từ Cơ quan Y tế Công cộng Canada đã xác định được 15 protein duy nhất ở những người làm nghề tình dục kháng virus này. Tuy nhiên, sau đó, một số người đã bị phát hiện đã nhiễm virus, khiến nghiên cứu viên Sarah Rowland-Jones từ Đại học Oxford tin rằng việc tiếp xúc liên tục là điều kiện cần thiết để duy trì miễn dịch.
+
+
+== Các nguyên nhân kháng HIV ==
+
+
+=== Loại bỏ CCR5 ===
+Thụ thể C-C chemokine loại 5 (tiếng Anh: C-C chemokine receptor type 5), còn được gọi là CCR5 hoặc CD195, là một protein trên bề mặt tế bào bạch cầu có liên quan đến hệ thống miễn dịch do nó hoạt động như một thụ thể cho chemokine. Đây là quá trình các tế bào T bị thu hút đến các mô và cơ quan cụ thể. Nhiều chủng HIV đã sử dụng CCR5 làm đồng thụ thể để xâm nhập và lây nhiễm vào tế bào vật chủ. Một số cá nhân mang đột biến có tên CCR5-Δ32 trong gen CCR5, đã tự bảo vệ chúng chống lại các chủng HIV.
+Ở người, gen CCR5 mã hóa protein CCR5 nằm trên nhánh (p) ngắn ở vị trí 21 trên nhiễm sắc thể số 3. Một số nghiên cứu vẹt, từ tháng 6 năm 1981 đến tháng 10 năm 2016, đã xem xét mối tương quan giữa việc xóa delta 32 cùng khả năng kháng HIV và phát hiện ra rằng những người mang đột biến đồng hợp tử delta 32 có khả năng kháng lại các M-tropic của chủng HIV–1. Một số quần thể nhất định đã thừa hưởng đột biến Delta 32 dẫn đến việc xóa một phần gen CCR5.
+
+
+=== Đột biến TNPO3 ===
+Năm 2019, một phát hiện đã tìm ra đột biến gen TNPO3 gây ra chứng loạn dưỡng cơ bắp chân–tay loại 1F (LGMD1F) cũng có thể tạo nên miễn dịch bẩm sinh đối với HIV–1. TNP03 được biết đến liên quan đến việc vận chuyển virus vào các tế bào bị nhiễm bệnh. Mẫu máu từ một gia đình bị hội chứng LGMD1F đã cho thấy miễn dịch chống lại HIV. Trong khi khối xóa CCR5Δ32 chặn việc xâm nhập của các virus sử dụng thụ thể CCR5, đột biến TNPO3 gây ra LGMD1F chặn thụ thể CXCR4, làm cho nó hiệu quả trong việc ngăn chặn HIV.
+
+
+=== Tế bào T gây độc tế bào ===
+Các tế bào T gây độc tế bào (CTLs) cung cấp một phản ứng bảo vệ chống lại HIV khi tiếp xúc liên tục với virus gây bệnh. Những người làm nghề về tình dục tại Nairobi được phát hiện tồn tại các tế bào CTLs trong dịch nhầy sinh dục, ngăn chặn sự lây truyền của HIV qua đường tình dục. Mặc dù tạo ra một lớp bảo vệ, nhưng các tế bào CTLs cũng sẽ không hiệu quả khi có sự gián đoạn trong tiếp xúc HIV xảy ra, dẫn đến khả năng tế bào CTLs chỉ là một chỉ báo lây truyền đối với HIV, chẳng hạn như phản ứng kháng thể A trong dịch nhầy âm đạo.
+
+
+==== Linh trưởng phi nhân loại ở châu Phi ====
+Những con tinh tinh ở các quốc gia châu Phi đã được phát hiện phát triển AIDS chậm hơn so với con người. Sự chậm trễ này không phải là do khả năng của loài động vật này kiểm soát virus một cách hiệu quả hơn con người mà chính là do sự thiếu hụt các mô trong cơ thể thường gây tiến triển từ HIV đến AIDS. Các con tinh tinh cũng thiếu tế bào CD4 T và kích hoạt miễn dịch cần thiết cho sự lan truyền của HIV.
+
+
+=== Tạo ra gen kháng ===
+Mặc dù liệu pháp kháng retrovirus (ART) đã làm chậm sự phát triển HIV ở các bệnh nhân, nhưng thông qua nghiên cứu tế bào gốc, liệu pháp gen đã mang lại khả năng chống lại HIV. Một phương pháp sửa đổi gen là thông qua điều chỉnh các tế bào hồng cầu, thay thế gen HIV bằng các hạt được kỹ thuật để mang vào nhiễm sắc thể. Các peptide được tạo ra ngăn chặn HIV kết hợp với tế bào chủ và do đó ngăn chặn được sự lan truyền. Một phương pháp khác được sử dụng bởi phòng thí nghiệm Kiem là sự giải phóng zinc finger nuclease (ZFN), giải mã các đoạn DNA cụ thể nhằm phá vỡ cấu trúc xoắn đôi. Các ZFN này được sử dụng nhằm nhắm vào CCR5 để xóa protein này, dừng lại quá trình nhiễm trùng.
+Cách thay thế cho liệu pháp gen là các loại thuốc như maraviroc (MVC) đang được sử dụng để kết hợp với CCR5, chặn việc HIV xâm nhập vào tế bào. Mặc dù không hiệu quả với tất cả các loại virus, MVC đã được chứng minh là làm giảm sự lây truyền HIV thông qua điều trị cũng như kết hợp cùng ARTs. MVC là loại thuốc kết hợp với CCR5 duy nhất được Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ, Ủy ban châu Âu và Bộ Y tế Canada chấp nhận sử dụng.
+
+
+=== Kháng HIV do môi trường ===
+Mặc dù đột biến delta đã được quan sát có hiệu quả ngăn chặn HIV ở một số nhóm dân cư cụ thể, nhưng nó chỉ có hiệu quả ít hoặc không có ở giữa các cá nhân khỏe mạnh và những người nhiễm HIV trong dân số Iran. Điều này được quy cho các cá nhân mang đột biến delta ở dạng khác nhau, ngăn chặn đột biến delta từ việc ngăn chặn HIV một cách hiệu quả khỏi xâm nhập vào tế bào miễn dịch.
+
+
+== Xem thêm ==
+
+Timothy Ray Brown
+Stephen Crohn, người miễn nhiễm với HIV
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Phim tài liệu PBS về việc phát hiện ra CCR5

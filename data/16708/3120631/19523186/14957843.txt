@@ -1,0 +1,38 @@
+Polymyxin B là thuốc kháng sinh chủ yếu được sử dụng cho viêm màng não, viêm phổi, nhiễm trùng huyết, và nhiễm trùng đường tiết niệu. Nó có nguồn gốc từ vi khuẩn Bacillus polymyxa. Thuốc có tác dụng diệt khuẩn đối với hầu hết các trực khuẩn Gram âm ngoại trừ chi Proteus và Neisseria. Polymyxin liên kết với màng tế bào và thay đổi cấu trúc của nó, làm cho nó dễ thấm hơn. Sự hấp thu nước dẫn đến chết tế bào. Polymyxin là cation, base peptide hoạt động như chất tẩy rửa (chất hoạt động bề mặt). Tác dụng phụ bao gồm nhiễm độc thần kinh và hoại tử ống thận cấp. Polymyxin được sử dụng trong chế phẩm sơ cứu tại chỗ Neosporin.
+
+Làm giảm tính thấm của màng ngoài của vi khuẩn bằng cách liên kết với một vị trí tích điện âm trong lớp lipopolysacarit, có lực hút tĩnh điện cho các nhóm amino tích điện dương trong phần peptide tuần hoàn ); kết quả là màng ngoài không ổn định
+Phần axit béo hòa tan trong vùng kỵ nước của màng tế bào chất và phá vỡ tính toàn vẹn của màng
+Rò rỉ các phân tử tế bào, ức chế hô hấp tế bào
+Liên kết và làm bất hoạt nội độc tố 
+Sự vắng mặt tương đối của độc tính chọn lọc: không đặc hiệu cho màng tế bào thuộc bất kỳ loại nào, có độc tính cao.
+
+
+== Thành phần hỗn hợp ==
+Polymyxin B bao gồm các polymyxins B1, B1-I, B2, B3 và B6. Polymyxin B1 và B2 được thành phần chính. Các thành phần liên quan này có cấu trúc giống hệt nhau ngoại trừ một nhóm axit béo thay đổi trên mỗi phần. Kết quả từ các nghiên cứu in vitro cho thấy sự khác biệt về biên trong dữ liệu MIC khi so sánh các phân số.
+
+
+== Ứng dụng nghiên cứu ==
+Ngoài chức năng kháng sinh, polymyxin B đã được sử dụng để loại bỏ ô nhiễm nội độc tố trong thuốc thử. Các xét nghiệm Polymyxin được sử dụng để nghiên cứu các phản ứng RNA nhỏ (sRNA) trong Salmonella enterica.
+
+
+== Máy đo nội độc tố vi khuẩn ==
+Máy đo nội độc tố vi khuẩn (Toraymyxin) là một thiết bị y tế lọc máu và nó sử dụng polymyxin B làm chất hấp phụ cố định. Toray Industries đã phát triển việc điều trị bằng máy này.
+
+
+== Phổ tính nhạy cảm ==
+Polymyxin B đã được sử dụng để điều trị nhiễm trùng đường tiết niệu và viêm màng não do Pseudomonas aeruginosa và Haemophilusenzae, tương ứng. Dưới đây là dữ liệu  nhạy cảm của MIC đối với một số vi sinh vật có ý nghĩa về mặt y tế.
+
+Haemophilus influenzae: ≥0.8 μg/ml
+Pseudomonas aeruginosa: 0.25 μg/ml – 1 μg/ml
+
+
+== Xem thêm ==
+Polymyxin
+Neosporin
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+“Polymyxin B”. Drug Information Portal. U.S. National Library of Medicine.

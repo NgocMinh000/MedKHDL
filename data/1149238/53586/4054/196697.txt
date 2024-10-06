@@ -1,0 +1,58 @@
+Thuyết tương đối ngôn ngữ (tiếng Anh: linguistic relativity), hay giả thuyết Sapir-Whorf, cho rằng cấu trúc ngôn ngữ ảnh hưởng đến tư duy và khả năng nhận biết thế giới xung quanh. Đó là, ngôn ngữ quyết định hoặc hình thành nhận thức về thế giới của người dùng.  Giả thuyết Sapir-Whorf đề xuất các luận điểm sau: 1) ngôn ngữ mô tả thế giới qua cách thức khác nhau; 2) mỗi nền văn hóa đều bị quy định bởi cấu trúc của ngôn ngữ, và đó là nơi chôn giấu cách thức tư duy của ngôn ngữ ẩn náu (gọi là ẩn mô, cryptotypes, do Whorf); 3) bởi vậy, khi sử dụng ngôn ngữ khác nhau, người dùng ngôn ngữ sẽ có tư duy khác biệt về thế giới. 
+Nhiều nhà nghiên cứu vẫn chưa đồng quan điểm với giả thuyết này, và nhiều phiên bản khác chiều đã được phát triển.  Giả thuyết mạnh của giả thuyết Sapir-Whorf, hay còn gọi là tính quyết định của ngôn ngữ (tiếng Anh: language determinism), cho rằng ngôn ngữ quyết định suy nghĩ và giới hạn ngôn ngữ dẫn đến giới hạn nhận thức. Giả thuyết này đã được ủng hộ bởi một vài ngôn ngữ học trước Thế Chiến II, nhưng bị cho là sai đối với các nhà ngôn ngữ học hiện đại. Nghiên cứu cho thấy bằng chứng thực nghiệm ủng hộ một phiên bản yếu hơn của giả thuyết Sapir-Whorf: cấu trúc ngôn ngữ ảnh hưởng và hình thành nhận thức của người dùng, nhưng không hạn chế hoặc cản trở nghiêm ngặt.
+Mặc dù giả thuyết được đặt tên Sapir-Whorf, Edward Sapir và Benjamin Lee Whorf chưa từng là đồng tác giả và chưa từng đặt ý tưởng thành giả thuyết. Sự phân biệt giữa phiên bản yếu và mạnh cũng là đề xuất sau này, chứ không thiết lập bởi Sapir và Whorf.
+Thuyết tương đối ngôn ngữ thu hút sự quan tâm từ ngôn ngữ học, triết học, đến tâm lý học, và nhân loại học. Hơn nữa, nó là niềm cảm hứng cho văn học và ngôn ngữ nhân tạo. 
+
+
+== Lịch sử ==
+Quan điểm rằng ngôn ngữ là nền của suy nghĩ có nguồn gốc trong bài luận Über das vergleichende Sprachstudium của Wilhelm von Humboldt được xuất bản năm 1836. Khái niệm này đã được chấp nhận rộng rãi trong suy nghĩ của người phương Tây. Károly Kerényi bắt đầu bản dịch tiếng Anh năm 1976 của Dionysus dùng đoạn này:
+
+The interdependence of thought and speech makes it clear that languages are not so much a means of expressing truth that has already been established, but are a means of discovering truth that was previously unknown. Their diversity is a diversity not of sounds and signs but of ways of looking at the world.
+
+
+=== Franz Boas ===
+SWH được hiểu là cuộc thẩm tra kỹ hơn của tri giác văn hóa quen; có thể tìm thấy nguyên gốc của cách giải thích này trong những tác phẩm của Franz Boas, người sáng lập nhân chủng học ở Hoa Kỳ. Boas học ở Đức vào cuối thế kỷ 19, cùng lúc mà những nhà khoa học như Ernst Mach và Ludwig Boltzmann cố gắng tìm hiểu về sinh lý học đối với cảm giác.
+Luồng tư tưởng quan trọng vào thời điểm đó là sự xét lại những tác phẩm của nhà triết học Immanuel Kant. Kant cho rằng ý thức là kết quả của hoạt động nhận thức cụ thể vì cá nhân – tức là thực tế, trực giác – phải thay đổi liên tục, và sự hiểu biết xảy ra khi người ta lấy trực giác đó và giải thích nó bằng cách sử dụng những "phạm trù hiểu biết" (categories of the understanding) của họ. Vì thế, những người khác có thể hiểu một vật tự thân là hiện tượng của các khái niệm riêng.
+Ở Hoa Kỳ, Boas gặp những ngôn ngữ thổ dân Mỹ thuộc về nhiều ngữ hệ, tất cả các ngôn ngữ này khác hẳn các ngôn ngữ gốc Semit và Ấn-Âu lúc đó được nghiên cứu bởi phần nhiều học giả châu Âu. Boas thấy rõ cuộc sống và các phạm trù có thể thay đổi đến mức độ nào tùy theo địa phương, nên cuối cùng ông cho rằng văn hóa và cuộc sống của dân tộc được phản ánh trong ngôn ngữ của họ.
+
+
+=== Edward Sapir ===
+Sapir là một trong những sinh viên giỏi nhất của Boas. Ông đẩy mạnh lý lẽ của Boas bằng cách chỉ ra rằng các ngôn ngữ là các hệ hình thức (formal system) hoàn toàn. Do vậy, cách suy nghĩ và hoạt động không được bày tỏ bằng một từ dứt khoát, đúng hơn là bằng tính mạch lạc và tính hệ thống của ngôn ngữ, tác động qua lại trên phạm vi rộng hơn với suy nghĩ và cách hoạt động. Mặc dù những quan điểm của ông có lúc thay đổi, nhưng vào cuối đời sống, Sapir cho rằng ngôn ngữ không chỉ phản ánh văn hóa và thói quen, chứ ngôn ngữ và suy nghĩ có quan hệ tác động qua lại, dẫn đến điểm quyết định.
+
+
+=== Benjamin Whorf ===
+Whorf tế nhị khái niệm này và cho vào tính chính xác bằng cách nghĩ đến những đặc điểm ngữ pháp riêng mà ngôn ngữ dùng để tác động vào suy nghĩ. Ông miêu tả lối lập luận như sau:
+
+We dissect nature along lines laid down by our native language. The categories and types that we isolate from the world of phenomena we do not find there because they stare every observer in the face; on the contrary, the world is presented in a kaleidoscope flux of impressions which has to be organized by our minds—and this means largely by the linguistic systems of our minds. We cut nature up, organize it into concepts, and ascribe significances as we do, largely because we are parties to an agreement to organize it in this way—an agreement that holds throughout our speech community and is codified in the patterns of our language [...] all observers are not led by the same physical evidence to the same picture of the universe, unless their linguistic backgrounds are similar, or can in some way be calibrated.
+Dù giả thuyết của ông bị chỉ trích vì chỉ có một lý do, Whorf nhất định cho rằng suy nghĩ và hành động xảy ra do ngôn ngữ và văn hóa, chứ không phải xảy ra riêng. Bằng cách này, ông phản đối quan điểm mà ông gọi là "logic tự nhiên", cho rằng "việc nói, hay sử dụng ngôn ngữ, coi như chỉ 'bày tỏ' cái mà đã được nghĩ ra một cách không ngôn ngữ học". On this account, he argued, "thought does not depend on grammar but on laws of logic or reason which are supposed to be the same for all observers of the universe".
+Sự phân tích sát của Whorf về những nét khác nhau giữa tiếng Anh và (một lần nổi tiếng) tiếng Hopi nâng lên tiêu chuẩn về sự phân tích quan hệ giữa ngôn ngữ, suy nghĩ, và thực tế, bằng cách dựa trên sự phân tích sát về cấu trúc ngữ pháp, thay vì lời miêu tả ấn tượng hơn về các khác biệt giữa chẳng hạn một số từ trong những ngôn ngữ đó. Thí dụ, "ngôn ngữ châu Âu trung bình chuẩn" (Standard Average European, SAE) – tức là các ngôn ngữ phương Tây nhìn chung – hay phân tích thực tế dùng các vật thể trong không gian: các thời hiện đại và tương lai được coi là "nơi", và thời gian là đường lối nối nó liền. Một cụm từ như "ba ngày" tương đương theo ngữ pháp với "ba quả táo" hay "ba kilômét". Những ngôn ngữ khác, bao gồm nhiều ngôn ngữ thổ dân Mỹ, định hướng dùng quá trình. Đối với một người chỉ biết loại ngôn ngữ này, những ẩn dụ cụ thể và không gian của một ngữ pháp SAE có thể vô lý. Whorf cho rằng ông nghiên cứu về SWH vì thấy là một người nói tiếng Hopi có thể hiểu lý thuyết tương đối dễ hơn một người nói tiếng SAE.
+
+
+== Ảnh hưởng và nghiên cứu dẫn xuất ==
+Vì ông có học cấp sinh viên và không phải là nhà ngôn ngữ học chuyên nghiệp, nghiên cứu của Whorf về tính tương đối ngôn ngữ, phần lớn vào cuối thập niên 1930, không phổ biến cho đến khi những tác phẩm ông được xuất bản vào những năm 1950, sau khi ông qua đời. Giả thuyết Sapir–Whorf đã có ảnh hưởng đến sự phát triển và tiêu chuẩn hóa của ngôn ngữ Interlingua vào giữa thế kỷ 20, phần lớn vì Sapir tham gia thẳng vào dự án này. Năm 1955, James Cooke Brown tạo ra ngôn ngữ nhân tạo Loglan để thử giả thuyết này. (Lojban, một ngôn ngữ dựa trên Loglan, còn đang được sử dụng.) Tuy nhiên, cuộc thí nghiệm này không bao giờ được thực hiện.
+Các giả thuyết ngôn ngữ học vào thế kỷ 1960 – như là những giả thuyết do Noam Chomsky đưa ra – quan tâm đến tính bẩm sinh và phổ biến của ngôn ngữ. Vì thế, những tác phẩm của Whorf không còn được chú ý. Một cách hiểu vấn đề này theo kiểu Chomsky xuất hiện trong sách The Language Instinct của Steven Pinker. Pinker có quan điểm ngược lại, rằng một "ngữ pháp" chung nằm dưới tất cả ngôn ngữ. Những người ủng hộ giả thuyết này mạnh nhất, như là Pinker, cho rằng suy nghĩ không tùy ngôn ngữ; ngôn ngữ một mình không có ý nghĩa cơ bản đối với suy nghĩ con người; và ngay cả con người không nghĩ dùng một ngôn ngữ "tự nhiên" – một ngôn ngữ được nói hay viết – chứ chúng ta nghĩ dùng một siêu ngôn ngữ đi trước ngôn ngữ nói nào đó. Pinker chỉ đến "quan điểm quá khích của Whorf" và chống đối sôi nổi khái niệm của Whorf rằng ngôn ngữ chứa suy nghĩ và văn hóa, tuyên bố rằng, "người ta càng xem xét những lý lẽ của Whorf, thì càng thấy vô lý."
+Một cách hiểu giống Whorf hơn được tiêu biểu bởi George Lakoff; ông cho rằng phần lớn của ngôn ngữ đại khái là phép ẩn dụ. Chẳng hạn tiếng Việt sử dụng nhiều phép chuyển nghĩa để coi thời gian như là tiền, thí dụ:
+
+dành thì giờ
+mất thì giờ
+tốn thì giờ
+Một cách hiểu giống Whorf cho rằng cách sử dụng này có ảnh hưởng đến cách mà những người nói tiếng Việt hiểu khái niệm trừu tượng "thời gian". Ngoài ra, những tranh luận chính trị được uốn nắn bằng những ẩn dụ nằm dưới cách sử dụng ngôn ngữ. Trong những tranh luận chính trị, người ta có thể thuộc về hữu phái (bên phải) hay tả phái (bên trái).
+Vào cuối thập niên 1980 và đầu thập niên 1990, những sự tiến lên về tâm lý học nhận thức và ngôn ngữ học về nhân chủng gây ra quan tâm mới về giả thuyết Sapir–Whorf. Ngày nay, những nhà nghiên cứu bất hòa – thường sôi nổi – về ngôn ngữ tác động suy nghĩ đến độ nào. Tuy nhiên, sự bất hòa này cũng gây ra nhiều quan tâm đến vấn đề này và nhiều nghiên cứu quan trọng.
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Các từ Eskimo về tuyết
+Tiếng Pirahã, ngôn ngữ thiếu số từ (ngay cả không có "một" và "hai"), và các người trong bộ lạc hình như không đếm được
+Ngôn ngữ không phân biệt giới tính
+Newspeak, ngôn ngữ nhân tạo trong sách Một chín tám tư của George Orwell để hạn chế tự do ngôn luận
+Lera Boroditsky
+Jacques Derrida
+Hans-Georg Gadamer
+Johann Gottfried von Herder
+Alfred Korzybski
+Uku Masing
+Cliff Pickover
+Ferdinand de Saussure

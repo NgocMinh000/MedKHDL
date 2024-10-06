@@ -1,0 +1,34 @@
+Khoa học máy tính lý thuyết (tiếng Anh: theoretical computer science - TCS) là một tập hợp con của khoa học máy tính và toán học tập trung vào nhiều chủ đề toán học hơn của điện toán và bao gồm lý thuyết của sự tính toán.
+Khó để mô tả lĩnh vực lý thuyết này. Dự án ACM SIGACT của ACM đã cung cấp một định nghĩa như sau: "Khoa học máy tính lý thuyết bao quát một vùng lớn các chủ đề gồm thuật toán, cấu trúc dữ liệu, sự phức tạp điện toán, sự tính toán song song và được phân bổ, điện toán xác suất, điện toán lượng tử, lý thuyết máy tự động, lý thuyết thông tin, mật mã, ngữ nghĩa học chương trình và xác nhận chương trình, học máy, sinh học điện toán, kinh tế điện toán, hình học điện toán, lý thuyết số điện toán và số học. Những công trình nghiên cứu của lĩnh vực này được phan biệt bằng tầm quan trọng của nó đối với kỹ thuật toán học và sự khắt khe. 
+
+
+== Lịch sử ==
+
+Khi logic là sự suy luận và các bằng chứng toán học đã xuất hiện từ trước, vào năm 1931, Kurt Gödel đã chứng minh bằng định luật bất toàn rằng có một giới hạn cơ sở trên cái mà những tuyên bố có thể được chứng minh hoặc không được chứng minh.
+Những phát triển này đã dẫn dắt nghiên cứu hiện đại về logic và khả năng tính toán và cả khoa học máy tính lý thuyết trên toàn bộ. Lý thuyết thông tin được thêm vào lĩnh vực khoa học máy tính lý thuyết với một lý thuyết toán học vào năm 1948 bởi Claude Shannon. Cùng trong thập kỷ, Donald Hebb giới thiệu một mô hình toán học của học trong não. Với việc gắn dữ liệu sinh học hỗ trợ giả thuyết này với một số sửa đổi, các lĩnh vực về mạng lưới neurone và quá trình được sắp xếp song song được thiết lập. Trong năm 1971, Stephen Cook và Leonid Levin, làm việc độc lập với nhau, đã chứng minh có những vấn đề thích đáng một cách thực tiễn. Đó là NP-complete một kết quả bước ngoặt của lý thuyết phức tạp tính toán.
+Với sự phát triển của cơ học lượng tử trong đầu thế kỷ 20 trở thành khái niệm rằng các quá trình toán học có thể được biểu diễn trên một hàm sóng hạt tổng thể. Hoặc có thể nói, lĩnh vực đó có thể tính toán hàm trên những ký hiệu phức tạp một cách đồng thời. Điều này đã dẫn đến khái niệm về máy tính lượng tử trong nửa sau của thế kỷ 20. Cụ thể là vào thập niên 1990, Peter Shor đã chỉ ra rằng các phương pháp cho những số lớn thừa số trong thời gian đa thức, cái mà nếu được bổ sung sẽ làm cho những hệ thống mật mã khóa phổ thống hiện đại nhất trở nên không an toàn.
+Khoa học máy tính lý thuyết hiện đại dựa trên những sự phát triển cơ bản này, nhưng bao gồm nhiều vấn đề toán học và thuộc nhiều lĩnh vực học thuât đã được đặt ra, được trình bày ở dưới đây:
+
+
+== Xem thêm ==
+Khoa học chính thức
+Những vấn đề chưa được giải quyết trong khoa học máy tính
+Danh sách các tác phẩm quan trọng trong khoa học lý thuyết máy tính
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==
+Martin Davis, Ron Sigal, Elaine J. Weyuker, Computability, complexity, and languages: fundamentals of theoretical computer science, 2nd ed., Academic Press, 1994, ISBN 0-12-206382-1. Covers theory of computation, but also program semantics và quantification theory. Aimed at graduate students.
+
+
+== Liên kết ngoài ==
+SIGACT directory of additional theory links
+Theory Matters Wiki Lưu trữ 2017-06-19 tại Wayback Machine Theoretical Computer Science (TCS) Advocacy Wiki
+Usenet comp.theory
+List of academic conferences in the area of theoretical computer science at confsearch
+Theoretical Computer Science - StackExchange, a Question and Answer site for researchers in theoretical computer science
+Computer Science Animated
+http://theory.csail.mit.edu/   @ Massachusetts Institute of Technology
+Bản mẫu:Khoa học máy tính

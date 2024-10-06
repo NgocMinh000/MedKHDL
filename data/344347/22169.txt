@@ -1,0 +1,306 @@
+Vắc-xin (tiếng Pháp: vaccin, tiếng Anh: vaccine) là một chế phẩm sinh học cung cấp khả năng miễn dịch thu được chủ động đối với một bệnh truyền nhiễm cụ thể. Vắc xin thường chứa tác nhân giống vi sinh vật gây bệnh và thường được tạo ra từ các dạng vi sinh vật, độc tố hoặc một trong các protein bề mặt của nó, mà đã bị làm suy yếu hoặc bị giết chết. Tác nhân này kích thích hệ thống miễn dịch của cơ thể, sau khi coi tác nhân là một mối đe dọa, sẽ tiêu diệt nó và sẽ tiếp tục nhận ra và tiêu diệt bất kỳ vi sinh vật nào có liên quan đến tác nhân đó mà nó có thể gặp trong tương lai. Vắc xin có thể mang tính dự phòng (để ngăn ngừa hoặc cải thiện ảnh hưởng của một chứng lây nhiễm trong tương lai bởi một mầm bệnh "hoang dã" trong tự nhiên), hoặc mang tính điều trị (để chống lại một căn bệnh đã xảy ra, chẳng hạn như ung thư).
+Việc đưa vắc-xin vào cơ thể người được gọi là tiêm chủng. Tiêm vắc xin là phương pháp hữu hiệu nhất để phòng chống các bệnh truyền nhiễm; Khả năng miễn dịch rộng rãi do tiêm chủng là nguyên nhân chủ yếu trong việc xóa sổ bệnh đậu mùa trên toàn thế giới và hạn chế các bệnh như bại liệt, sởi và uốn ván tại nhiều nơi trên thế giới. Hiệu quả của việc tiêm chủng đã được nghiên cứu và kiểm chứng rộng rãi; ví dụ, các loại vắc xin đã được chứng minh là có hiệu quả bao gồm vắc xin cúm, vắc xin HPV, và vắc xin thủy đậu. Tổ chức Y tế Thế giới (WHO) báo cáo rằng vắc xin được cấp phép hiện có sẵn để phòng chống 25 bệnh nhiễm trùng có thể phòng ngừa khác nhau.
+Thuật ngữ vắc-xin (vaccine) có nguồn gốc từ Variolae vaccinae (bệnh đậu mùa của bò), thuật ngữ này được Edward Jenner (cả hai đều phát triển các khái niệm về vắc-xin và tạo ra vắc-xin đầu tiên) sử dụng để nói về bệnh đậu mùa. Ông đã sử dụng cụm từ này vào năm 1798 cho tiêu đề dài của bài Tìm hiểu về loài Variolae vaccinae được gọi là Bệnh đậu bò, trong đó ông mô tả tác dụng bảo vệ của các nốt đậu trên bò đối với bệnh đậu mùa ở người. Năm 1881, để vinh danh Jenner, Louis Pasteur đã đề xuất rằng thuật ngữ này cần được mở rộng để bao gồm các phương pháp tiêm chủng mới được phát triển sau đó. Các khoa học về phát triển vắc-xin và sản xuất được gọi vaccinology.
+
+
+== Lịch sử ==
+
+Trước sự ra đời của tiêm chủng với chất liệu virus lấy từ các ca bệnh đậu mùa của bò (vắc xin dị chủng), bệnh đậu mùa có thể được ngăn ngừa bằng cách cố ý lấy virus bệnh đậu mùa từ người đã mắc trước đó đưa vào người khác. Những gợi ý sớm nhất về phương pháp điều trị bệnh đậu mùa ở Trung Quốc là vào thế kỷ thứ 10  Người Trung Quốc cũng thực hành cách sử dụng phương pháp này được ghi chép lâu đời nhất, có niên đại từ thế kỷ XV. Họ thực hiện một phương pháp "bơm mũi" để đẩy virus vào cơ thể bằng cách thổi các thành phần bệnh đậu mùa dạng bột, thường là vảy sẹo của người bị nhiễm, vào lỗ mũi người kia. Nhiều kỹ thuật thổi vào mũi khác nhau đã được ghi lại trong suốt thế kỷ XVI và XVII ở Trung Quốc.  Hai báo cáo về thực hành tiêm virus vào người của người Trung Quốc đã được Hiệp hội Hoàng gia ở London ghi nhận vào năm 1700; một của Martin Lister, người nhận được báo cáo của một nhân viên của Công ty Đông Ấn đóng tại Trung Quốc và một của Clopton Havers.
+
+Mary Wortley Montagu, người đã chứng kiến việc này ở Thổ Nhĩ Kỳ, đã để đứa con gái bốn tuổi của cô được nhận virus đưa vào người trước sự chứng kiến của các bác sĩ của Tòa án Hoàng gia vào năm 1721 khi cô trở về Anh. Cuối năm đó Charles Maitland đã tiến hành một cuộc thử nghiệm việc đưa virus vào cơ thể sáu tù nhân trong nhà tù Newgate ở London. Thử nghiệm đã thành công và ngay sau đó việc chủ động đưa virus vào cơ thể đã thu hút sự chú ý từ gia đình hoàng gia, những người đã giúp thúc đẩy quy trình này. Tuy nhiên, vài ngày sau khi Hoàng tử Octavius của Vương quốc Anh được đưa virus vào người, ông đã qua đời vào năm 1783. 
+Vào năm 1796, bác sĩ Edward Jenner đã lấy mủ từ tay của một người phụ nữ vắt sữa từng bị bệnh đậu mùa bò, chấm vào cánh tay của một cậu bé 8 tuổi, James Phipps, và sáu tuần sau đó cậu bé được tiêm vào người virus bệnh đậu mùa. Jenner quan sát thấy rằng cậu bé không mắc bệnh đậu mùa nữa. Jenner mở rộng nghiên cứu của mình và vào năm 1798 báo cáo rằng vắc xin của ông an toàn cho cả trẻ em lẫn người lớn và dịch truyền có thể được chuyển từ cánh tay người cho sang cánh tay người nhận để giảm bớt sự phụ thuộc vào nguồn cung cấp không chắc chắn từ những con bò bị nhiễm bệnh. Năm 1804, một đoàn thám hiểm chủng ngừa bệnh đậu mùa của Tây Ban Nha đến các thuộc địa của Tây Ban Nha là Mexico và Philippines đã sử dụng phương pháp vận chuyển tay qua tay để biết được thực tế là vắc-xin chỉ tồn tại được 12 ngày trong ống nghiệm. Họ đã sử dụng vi khuẩn gây bệnh đậu bò. Vì tiêm sản phẩm gây bệnh đậu bò an toàn hơn nhiều so với việc tiêm phòng sản phẩm gây bệnh đậu mùa, nên phương pháp tiêm sản phẩm gây bệnh đậu mùa người trực tiếp vào người đã bị cấm vào năm 1840, mặc dù nó vẫn được thực hành rộng rãi ở Anh trong nhiều năm sau.
+
+Tiếp theo công trình nghiên cứu của Jenner, thế hệ thứ hai của vắc-xin được giới thiệu vào những năm 1880 bởi Louis Pasteur, người đã phát triển vắc-xin phòng bệnh dịch tụ huyết trùng ở gà và bệnh than, và từ cuối thế kỷ 19 vắc-xin được coi là niềm tự hào quốc gia. Các chính sách tiêm chủng quốc gia đã được áp dụng và luật tiêm chủng bắt buộc đã được thông qua. Năm 1931, Alice Miles Woodruff và Ernest Goodpasture đã ghi nhận rằng virus đậu gà có thể được phát triển trong trứng gà đã được thụ tinh. Ngay sau đó, các nhà khoa học bắt đầu nuôi cấy các loại virus khác trong trứng. Trứng được sử dụng để nhân giống virus trong quá trình phát triển vắc xin sốt vàng da vào năm 1935 và vắc xin cúm vào năm 1945. Năm 1959, môi trường tăng trưởng và nuôi cấy tế bào đã thay thế trứng làm phương pháp truyền virus tiêu chuẩn cho vắc xin.
+Tiêm chủng phát triển mạnh trong thế kỷ 20, chứng kiến sự ra đời của một số loại vắc xin thành công, bao gồm cả vắc xin chống bệnh bạch hầu, sởi, quai bị và rubella. Những thành tựu chính bao gồm sự phát triển của vắc-xin bại liệt vào những năm 1950 và xóa sổ bệnh đậu mùa trong những năm 1960 và 1970. Maurice Hilleman là người phát triển nhiều vắc-xin nhất trong thế kỷ XX. Khi vắc-xin trở nên phổ biến hơn, nhiều người bắt đầu coi chúng là điều hiển nhiên. Tuy nhiên, vắc xin vẫn còn chưa có đối với nhiều bệnh quan trọng, bao gồm herpes simplex, sốt rét, bệnh lậu và HIV.
+
+
+=== Các thế hệ vắc xin ===
+
+Vắc xin thế hệ đầu tiên là vắc xin toàn sinh vật – hoặc sống và suy yếu, hoặc dạng đã bị tiêu diệt. Các vắc xin sống, giảm độc lực, chẳng hạn như vắc xin đậu mùa và bại liệt, có thể tạo ra phản ứng của tế bào T độc sát (TC hoặc CTL), phản ứng của tế bào T trợ giúp (TH) và khả năng miễn dịch kháng thể. Tuy nhiên, các dạng giảm độc lực của mầm bệnh có thể chuyển sang dạng nguy hiểm và có thể gây bệnh cho những người nhận vắc xin bị suy giảm miễn dịch (chẳng hạn như những người bị AIDS). Mặc dù vắc-xin bị giết không có nguy cơ này, nhưng chúng không thể tạo ra phản ứng tế bào T độc sát cụ thể và có thể hoàn toàn không hoạt động đối với một số bệnh.
+Vắc xin thế hệ thứ hai được phát triển để giảm rủi ro từ vắc xin sống. Đây là những vắc xin tiểu đơn vị, bao gồm các kháng nguyên protein cụ thể (như độc tố uốn ván hoặc bạch hầu) hoặc các thành phần protein tái tổ hợp (như kháng nguyên bề mặt viêm gan B). Chúng có thể tạo ra phản ứng TH và kháng thể, nhưng không tạo ra phản ứng của tế bào T độc sát.
+Vắc xin RNA và vắc xin DNA là những ví dụ về vắc xin thế hệ thứ ba. Vào năm 2016, một loại vắc-xin DNA cho vi-rút Zika đã bắt đầu được thử nghiệm tại Viện Y tế Quốc gia. Riêng Inovio Pharmaceuticals và GeneOne Life Science đã bắt đầu thử nghiệm một loại vắc-xin DNA khác chống lại Zika ở Miami. Việc sản xuất vắc-xin với số lượng lớn vẫn chưa được giải quyết vào năm 2016. Các thử nghiệm lâm sàng đối với vắc xin DNA để ngăn ngừa HIV đang được tiến hành. Vắc xin mRNA như BNT162b2 được phát triển vào năm 2020 với sự trợ giúp của Chiến dịch Warp Speed và được triển khai đại trà để chống lại đại dịch COVID-19.
+
+
+== Tác động ==
+
+Có sự đồng thuận trong khoa học rằng vắc xin là một cách rất an toàn và hiệu quả để chống lại và loại trừ các bệnh truyền nhiễm. Hệ thống miễn dịch nhận ra các tác nhân vắc xin là ngoại lai, tiêu diệt chúng và "ghi nhớ" chúng. Khi gặp phải phiên bản độc hại của một tác nhân, cơ thể nhận ra lớp áo protein trên virus và do đó chuẩn bị sẵn sàng để phản ứng lại, đầu tiên là vô hiệu hóa tác nhân đó trước khi tác nhân đó có thể xâm nhập vào tế bào, thứ hai là nhận biết và tiêu diệt các tế bào bị nhiễm trước tác nhân đó. trước khi chúng có thể nhân lên số lượng lớn.
+Tuy nhiên vẫn tồn tại những hạn chế đối với hiệu quả của vắc xin. Đôi khi, việc bảo vệ không thành công do lỗi liên quan đến vắc xin như thất bại trong việc giảm nồng độ vắc xin, chế độ tiêm chủng hoặc quản lý hoặc thất bại liên quan đến vật chủ do hệ thống miễn dịch của vật chủ chỉ đơn giản là không đáp ứng đầy đủ hoặc hoàn toàn. Thiếu phản ứng miễn dịch thường do di truyền, tình trạng miễn dịch, tuổi tác, sức khỏe hoặc tình trạng dinh dưỡng. Nó cũng có thể thất bại vì lý do di truyền nếu hệ thống miễn dịch của vật chủ không bao gồm các chủng tế bào B có thể tạo ra các kháng thể thích hợp để phản ứng hiệu quả và liên kết với các kháng nguyên liên quan đến mầm bệnh.
+Ngay cả khi vật chủ phát triển các kháng thể, sự bảo vệ có thể không đầy đủ; miễn dịch có thể phát triển quá chậm để có hiệu quả kịp thời, các kháng thể có thể không vô hiệu hóa hoàn toàn mầm bệnh, hoặc có thể có nhiều chủng mầm bệnh, không phải tất cả đều nhạy cảm với phản ứng miễn dịch như nhau. Tuy nhiên, ngay cả miễn dịch một phần, muộn hoặc yếu, chẳng hạn như miễn dịch chéo với chủng không phải chủng đích, có thể giảm thiểu nhiễm trùng, dẫn đến tỷ lệ tử vong thấp hơn, tỷ lệ mắc bệnh thấp hơn và phục hồi nhanh hơn.
+Chất bổ trợ thường được sử dụng để tăng cường phản ứng miễn dịch, đặc biệt đối với những người lớn tuổi mà phản ứng miễn dịch với một loại vắc xin đơn giản có thể đã suy yếu.
+Hiệu quả hoặc hiệu suất của vắc xin phụ thuộc vào một số yếu tố:
+
+bản thân căn bệnh (đối với một số bệnh, việc tiêm phòng hoạt động tốt hơn so với những bệnh khác)
+chủng vắc-xin (một số vắc-xin đặc hiệu, hoặc ít nhất là hiệu quả nhất chống lại các chủng bệnh cụ thể)
+lịch tiêm chủng đã được tuân thủ đúng chưa.
+phản ứng đặc trưng đối với tiêm chủng; một số cá nhân là "người không đáp ứng" với một số loại vắc xin nhất định, có nghĩa là họ không tạo ra kháng thể ngay cả khi đã được tiêm chủng đúng cách.
+các yếu tố khác nhau như dân tộc, tuổi tác hoặc khuynh hướng di truyền.
+Nếu một cá nhân được tiêm chủng phát triển chính căn bệnh đã được tiêm chủng chống lại (nhiễm trùng đột phá), bệnh có khả năng ít độc lực hơn so với những bệnh nhân chưa được tiêm chủng.
+Những cân nhắc quan trọng trong một chương trình tiêm chủng hiệu quả là:
+
+lập mô hình cẩn thận để dự đoán ảnh hưởng của một chiến dịch tiêm chủng đối với dịch tễ học của bệnh trong trung và dài hạn
+giám sát liên tục đối với các bệnh liên quan sau khi giới thiệu một loại vắc xin mới
+duy trì tỷ lệ tiêm chủng cao, ngay cả khi một căn bệnh đã trở nên hiếm gặp
+Năm 1958, có 763.094 trường hợp mắc bệnh sởi ở Hoa Kỳ; với 552 người chết. Sau khi ra đời các loại vắc xin mới, số ca mắc bệnh giảm xuống dưới 150 ca mỗi năm (trung bình là 56 ca). Đầu năm 2008, có 64 trường hợp nghi mắc bệnh sởi. 54 trong số những bệnh nhiễm trùng đó có liên quan đến người đến từ một quốc gia khác, mặc dù chỉ có mười ba phần trăm thực sự mắc phải bên ngoài Hoa Kỳ; 63 trong số 64 cá nhân hoặc chưa bao giờ được tiêm vắc xin phòng bệnh sởi hoặc không chắc chắn liệu họ đã được tiêm phòng hay chưa.
+Vắc-xin đã giúp xóa sổ bệnh đậu mùa, một trong những căn bệnh dễ lây lan và gây chết người nhất ở người. Các bệnh khác như rubella, bại liệt, sởi, quai bị, thủy đậu và thương hàn không còn phổ biến như cách đây hàng trăm năm nhờ các chương trình tiêm chủng rộng rãi. Chỉ cần là đại đa số mọi người đều được tiêm phòng, thì việc bùng phát dịch bệnh còn khó hơn rất nhiều, chưa nói đến việc lây lan. Hiệu ứng này được gọi là miễn dịch cộng đồng. Bệnh bại liệt, vốn chỉ lây truyền giữa người với người, đã là mục tiêu của một chiến dịch xóa sổ mở rộng. Hiện tại bệnh bại liệt chỉ còn lưu hành giới hạn ở các vùng của ba quốc gia (Afghanistan, Nigeria và Pakistan). Tuy nhiên, khó khăn trong việc tiếp cận tất cả trẻ em cũng như những hiểu lầm về văn hóa đã khiến ngày xóa sổ hoàn toàn căn bệnh này bị kéo dài ra không ít lần.
+Vắc xin cũng giúp ngăn ngừa sự phát triển của tình trạng kháng thuốc kháng sinh. Ví dụ, bằng cách giảm đáng kể tỷ lệ mắc bệnh viêm phổi do Streptococcus pneumoniae, các chương trình vắc xin đã làm giảm đáng kể tỷ lệ nhiễm trùng kháng với penicillin hoặc các kháng sinh hàng đầu khác.
+Thuốc chủng ngừa bệnh sởi được ước tính có thể ngăn ngừa một triệu ca tử vong mỗi năm trên toàn cầu.
+
+
+=== Tác dụng bất lợi ===
+Thuốc chủng ngừa cho trẻ em, thanh thiếu niên hoặc người lớn nói chung là an toàn. Các tác dụng bất lợi, nếu có, nói chung là nhẹ. Tỷ lệ tác dụng phụ sẽ phụ thuộc vào loại vắc xin được đề cập. Một số tác dụng phụ thường gặp bao gồm sốt, đau xung quanh vết tiêm và đau nhức cơ. Ngoài ra, một số cá nhân có thể bị dị ứng với các thành phần trong vắc xin. Vắc xin MMR hiếm khi liên quan đến co giật do sốt.
+Các yếu tố quyết định liên quan đến người được tiêm chủng khiến một người dễ bị nhiễm trùng, chẳng hạn như di truyền, tình trạng sức khỏe (bệnh tiềm ẩn, dinh dưỡng, mang thai, nhạy cảm hoặc dị ứng), khả năng miễn dịch, tuổi tác và tác động kinh tế hoặc môi trường văn hóa có thể các yếu tố chính hoặc phụ ảnh hưởng đến mức độ nghiêm trọng của nhiễm trùng và phản ứng với vắc xin. Người cao tuổi (trên 60 tuổi), quá mẫn cảm với chất gây dị ứng và người béo phì có tính chất sinh miễn dịch bị tổn hại, điều này ngăn cản hoặc ức chế hiệu quả của vắc xin, có thể yêu cầu công nghệ vắc xin riêng biệt cho các nhóm dân số cụ thể này hoặc tiêm vắc xin tăng cường lặp đi lặp lại để hạn chế lây truyền virus.
+Các tác dụng phụ nghiêm trọng do vắc xin là cực kỳ hiếm. Vắc xin Varicella hiếm khi liên quan đến các biến chứng ở những người suy giảm miễn dịch, và vắc xin rota có liên quan vừa phải với lồng ruột.
+Ít nhất 19 quốc gia có chương trình bồi thường không do lỗi để bồi thường cho những người bị ảnh hưởng xấu nghiêm trọng của tiêm chủng. Chương trình của Hoa Kỳ được gọi là Đạo luật Quốc gia về Thương tật do Vắc-xin cho Trẻ nhỏ, và Vương quốc Anh sử dụng Thanh toán Thiệt hại do Vắc-xin.
+
+
+== Phân loại ==
+Vắc xin thường chứa các sinh vật chết hoặc bất hoạt hoặc các sản phẩm tinh khiết có nguồn gốc từ chúng.
+Có một số loại vắc xin đang được sử dụng. Những chế phẩm này đại diện cho các chiến lược khác nhau được sử dụng để cố gắng giảm nguy cơ bệnh tật trong khi vẫn duy trì khả năng tạo ra phản ứng miễn dịch có lợi.
+
+
+=== Giảm độc lực ===
+
+Một số vắc xin có chứa vi sinh vật sống, giảm độc lực. Nhiều vi rút trong số này là những vi rút đang hoạt động đã được nuôi cấy trong những điều kiện vô hiệu hóa các đặc tính độc hại của chúng, hoặc sử dụng các sinh vật có liên quan chặt chẽ nhưng ít nguy hiểm hơn để tạo ra phản ứng miễn dịch rộng rãi. Mặc dù hầu hết các loại vắc xin giảm độc lực đều là virus, nhưng một số lại có bản chất là vi khuẩn. Ví dụ như các bệnh do vi rút gây ra, sốt vàng da, sởi, quai bị và rubella, và bệnh thương hàn do vi khuẩn. Vắc xin sống chứa Mycobacterium sống do Calmette và Guérin phát triển không phải được tạo ra từ một chủng truyền nhiễm mà chứa một chủng đã được biến đổi hoàn toàn gọi là "BCG" được sử dụng để tạo ra phản ứng miễn dịch với vắc xin. Vắc xin sống giảm độc lực chứa chủng Yersinia pestis EV được sử dụng để chủng ngừa bệnh dịch hạch. Vắc xin giảm độc lực có một số ưu điểm và nhược điểm. Các vắc xin bị suy yếu, hoặc sống, làm yếu đi thường gây ra các phản ứng miễn dịch bền vững hơn. Nhưng các vắc xin này có thể không an toàn để sử dụng cho những người bị suy giảm miễn dịch, và trong những trường hợp hiếm hoi sẽ biến chủng thành dạng có độc lực và gây bệnh.
+
+
+=== Bất hoạt ===
+
+Một số vắc xin có chứa các vi sinh vật có độc lực trước đó, nhưng đã bị vô hiệu hóa bằng hóa chất, nhiệt hoặc bức xạ – các virus "ma", với các vỏ bọc tế bào vi khuẩn còn nguyên vẹn nhưng trống rỗng. Chúng được coi là giai đoạn trung gian giữa vắc xin bất hoạt và giảm độc lực. Ví dụ bao gồm IPV (vắc xin bại liệt), vắc xin viêm gan A, vắc xin phòng bệnh dại và hầu hết các loại vắc xin cúm.
+
+
+=== Biến độc tố ===
+Các vắc xin biến độc tố được làm từ các hợp chất độc hại bất hoạt gây bệnh chứ không phải từ vi sinh vật. Ví dụ cho vắc xin dựa trên độc tố bao gồm uốn ván và bạch hầu. Không phải tất cả các chất độc đều dành cho vi sinh vật; ví dụ, biến độc tố Crotalus atrox được sử dụng để tiêm phòng cho chó chống lại vết cắn của rắn đuôi chuông.
+
+
+=== Tiểu đơn vị ===
+
+Thay vì đưa vi sinh vật bất hoạt hoặc suy giảm độc lực vào hệ thống miễn dịch (cấu thành vắc xin "đầy đủ tác nhân"), vắc xin tiểu đơn vị sử dụng một đoạn nhỏ của vi sinh vật đó để tạo ra phản ứng miễn dịch. Một ví dụ là vắc xin tiểu đơn vị chống lại bệnh viêm gan B, chỉ bao gồm các protein bề mặt của virus (trước đây được chiết xuất từ huyết thanh của bệnh nhân nhiễm bệnh mãn tính nhưng hiện nay được tạo ra bằng cách tái tổ hợp các gen của vi rút vào nấm men). Một ví dụ khác là vắc-xin tảo có thể ăn được, chẳng hạn như vắc-xin hạt giống vi-rút (VLP) chống lại virus gây u nhú ở người (HPV), được cấu tạo từ vỏ bọc protein chính của virus. Một ví dụ khác là vắc xin tiểu đơn vị hemagglutinin và neuraminidase của vi rút cúm. Một loại vắc xin tiểu đơn vị đang được sử dụng để chủng ngừa bệnh dịch hạch.
+
+
+=== Liên hợp ===
+Một số vi khuẩn có lớp áo ngoài polysaccharide có khả năng sinh miễn dịch kém. Bằng cách liên kết những lớp áo bên ngoài này với protein (ví dụ, chất độc), hệ thống miễn dịch có thể được dẫn dắt để nhận ra polysaccharide như thể nó là một kháng nguyên protein. Cách tiếp cận này được sử dụng trong vắc xin Haemophilus influenzae loại B.
+
+
+=== Túi màng ngoài ===
+Các túi màng ngoài (OMV) có khả năng sinh miễn dịch tự nhiên và có thể được điều khiển để sản xuất vắc xin mạnh. Các vắc xin OMV được biết đến nhiều nhất là những vắc xin được phát triển cho bệnh viêm màng não mô cầu loại B serotype.
+
+
+=== Dị chủng ===
+Vắc xin dị chủng còn được gọi là "vắc xin Jenner", là virus gây bệnh cho các động vật khác nhưng không gây bệnh hoặc gây bệnh nhẹ cho sinh vật đang được điều trị. Ví dụ kinh điển là Jenner sử dụng nốt đậu mùa của bò để bảo vệ con người khỏi bệnh đậu mùa. Một ví dụ hiện tại là việc sử dụng vắc-xin BCG làm từ Mycobacterium bovis để bảo vệ con người chống lại bệnh lao.
+
+
+=== Vectơ virus ===
+Vắc xin véctơ virus sử dụng một loại virus an toàn để chèn các gen gây bệnh vào cơ thể để tạo ra các kháng nguyên cụ thể, chẳng hạn như các protein bề mặt, để kích thích cơ thể tạo ra phản ứng miễn dịch.
+
+
+=== RNA ===
+Vắc xin mRNA   (hoặc vắc xin RNA) là một loại vắc xin mới được cấu tạo từ axit nucleic RNA, được đóng gói trong một vectơ chẳng hạn như các hạt nano lipid. Trong số các vắc-xin COVID-19 có một số vắc-xin RNA đang được phát triển để chống lại đại dịch COVID-19 và một số đã được cấp phép sử dụng khẩn cấp ở một số quốc gia. Ví dụ: vắc xin Pfizer-BioNTech và Moderna mRNA đã được cấp phép sử dụng khẩn cấp ở Mỹ.
+
+
+=== Thử nghiệm ===
+Nhiều loại vắc xin cải tiến cũng đang được phát triển và sử dụng.
+
+Vắc xin tế bào tua kết hợp tế bào tua gai với kháng nguyên để đưa kháng nguyên vào tế bào bạch cầu của cơ thể, do đó kích thích phản ứng miễn dịch. Các vắc xin này đã cho thấy một số kết quả sơ bộ khả quan trong điều trị u não] và cũng được thử nghiệm trong khối u ác tính ác tính.
+Vắc-xin DNA - Cơ chế được đề xuất là chèn và biểu hiện DNA của vi rút hoặc vi khuẩn trong tế bào người hoặc động vật (tăng cường bằng cách sử dụng kết hợp điện), kích hoạt nhận dạng hệ thống miễn dịch. Một số tế bào của hệ thống miễn dịch nhận ra các protein biểu hiện sẽ tấn công chống lại các protein này và các tế bào biểu hiện chúng. Bởi vì những tế bào này sống rất lâu, nếu gặp phải mầm bệnh thường biểu hiện những protein này vào thời điểm sau đó, chúng sẽ bị hệ thống miễn dịch tấn công ngay lập tức. Một lợi thế tiềm năng của vắc xin DNA là chúng rất dễ sản xuất và bảo quản.
+Vectơ tái tổ hợp – bằng cách kết hợp sinh lý của một vi sinh vật này và DNA của vi sinh vật khác, khả năng miễn dịch có thể được tạo ra chống lại các bệnh có quá trình lây nhiễm phức tạp. Một ví dụ là vắc xin RVSV-ZEBOV được cấp phép cho Merck đang được sử dụng vào năm 2018 để chống lại bệnh ebola ở Congo.
+Thuốc chủng ngừa peptide thụ thể tế bào T đang được phát triển cho một số bệnh bằng cách sử dụng các mô hình Sốt Thung lũng, viêm miệng và viêm da dị ứng. Các peptit này đã được chứng minh là điều chỉnh quá trình sản xuất cytokine và cải thiện khả năng miễn dịch qua trung gian tế bào.
+Nhắm mục tiêu các protein vi khuẩn đã xác định có liên quan đến sự ức chế bổ thể sẽ vô hiệu hóa cơ chế độc lực chính của vi khuẩn.
+Việc sử dụng plasmid đã được xác nhận trong các nghiên cứu tiền lâm sàng như một chiến lược vắc xin bảo vệ đối với ung thư và các bệnh truyền nhiễm. Tuy nhiên, trong các nghiên cứu trên người, cách tiếp cận này đã không mang lại lợi ích phù hợp về mặt lâm sàng. Hiệu quả tổng thể của miễn dịch DNA plasmid phụ thuộc vào việc tăng khả năng sinh miễn dịch của plasmid đồng thời điều chỉnh các yếu tố liên quan đến sự hoạt hóa cụ thể của các tế bào tạo hiệu ứng miễn dịch.
+Vectơ vi khuẩn - Về nguyên tắc tương tự như vắc xin vectơ virus, nhưng thay vào đó sử dụng vi khuẩn.
+Tế bào biểu hiện kháng nguyên
+Trong khi hầu hết các loại vắc xin được tạo ra bằng cách sử dụng các hợp chất bất hoạt hoặc giảm độc lực từ vi sinh vật, vắc xin tổng hợp được cấu tạo chủ yếu hoặc toàn bộ từ các peptit tổng hợp, carbohydrate hoặc kháng nguyên.
+
+
+== Số lượng bệnh phòng chống ==
+Vắc xin có thể là đơn trị (monovalent, univalent) hoặc đa trị (còn gọi là polyvalent). Vắc xin đơn trị được thiết kế để tạo miễn dịch chống lại một kháng nguyên hoặc một vi sinh vật đơn lẻ. Vắc xin đa trị được thiết kế để tạo miễn dịch chống lại hai hoặc nhiều chủng vi sinh vật giống nhau hoặc chống lại hai hoặc nhiều vi sinh vật. Số lượng bệnh phòng chống của một loại vắc xin đa trị có thể được thể hiện bằng một tiền tố Hy Lạp hoặc Latin (ví dụ, tetravalent hoặc quadrivalent). Trong một số trường hợp nhất định, vắc xin đơn trị có thể thích hợp hơn để tạo phản ứng miễn dịch mạnh mẽ một cách nhanh chóng.
+Khi hai hoặc nhiều loại vắc xin được trộn trong cùng một công thức, hai loại vắc xin này có thể gây rối cho nhau. Điều này thường xảy ra nhất với vắc xin sống giảm độc lực, trong đó một trong các thành phần của vắc xin mạnh hơn các thành phần khác và ngăn chặn sự tăng trưởng và phản ứng miễn dịch với các thành phần khác. Hiện tượng này lần đầu tiên được ghi nhận trong vắc xin bại liệt Sabin đa trị ba, trong đó lượng serotype 2 vi rút trong vắc xin phải được giảm bớt để ngăn nó can thiệp vào việc "nhận" virus sống serotype 1 và 3 trong vắc xin. Hiện tượng này cũng được phát hiện là một vấn đề với các loại vắc-xin sốt xuất huyết hiện đang được nghiên cứu,  trong đó serotype DEN-3 được phát hiện là chiếm ưu thế và ngăn chặn phản ứng với các serotype DEN -1, −2 và −4.
+
+
+== Các thành phần khác ==
+Một liều vắc xin chứa nhiều thành phần, trong đó có rất ít thành phần là hoạt chất, chất sinh miễn dịch. Một liều duy nhất có thể chỉ có nanogram hạt virut, hoặc microgram polysaccharide của vi khuẩn. Thuốc tiêm vắc-xin, thuốc nhỏ miệng hoặc thuốc xịt mũi chủ yếu là nước. Các thành phần khác được thêm vào để tăng cường phản ứng miễn dịch, đảm bảo an toàn hoặc giúp bảo quản vắc xin, và một lượng nhỏ vật chất còn sót lại từ quá trình sản xuất. Rất hiếm khi những vật liệu này có thể gây ra phản ứng dị ứng ở những người rất nhạy cảm với chúng.
+
+
+=== Chất bổ trợ (adjuvant) ===
+Vắc xin thường chứa một hoặc nhiều chất bổ trợ, được sử dụng để tăng cường phản ứng miễn dịch. Ví dụ, độc tố uốn ván thường được hấp thụ vào phèn chua. Việc trộn này giúp thể hiện kháng nguyên theo cách để tạo ra một tác động mạnh hơn so với độc tố uốn ván trong nước cất. Những người có phản ứng bất lợi với độc tố uốn ván hấp phụ có thể được chủng ngừa đơn giản khi đến thời điểm tiêm nhắc lại.
+Để chuẩn bị cho chiến dịch Vịnh Pecxich năm 1990, vắc-xin ho gà toàn tế bào đã được sử dụng như một chất bổ trợ cho vắc-xin bệnh than. Điều này tạo ra phản ứng miễn dịch nhanh hơn so với việc chỉ tiêm vắc-xin bệnh than, nên có ích lợi nhất định nếu việc phơi nhiễm có thể sắp xảy ra.
+
+
+=== Chất bảo quản ===
+Vắc-xin cũng có thể chứa chất bảo quản để ngăn ngừa bản thân nó bị nhiễm vi khuẩn hoặc nấm. Cho đến những năm gần đây, chất bảo quản thiomersal (AKA Thimerosal ở Mỹ và Nhật Bản) đã được sử dụng trong nhiều loại vắc xin không chứa vi rút sống. Tính đến năm 2005, vắc xin duy nhất dành cho trẻ nhỏ ở Hoa Kỳ có chứa thiomersal với lượng lớn hơn lượng vi lượng là vắc xin cúm, hiện chỉ được khuyến cáo cho trẻ em có một số yếu tố nguy cơ nhất định. Thuốc chủng ngừa cúm đơn liều được cung cấp tại Vương quốc Anh không liệt kê chất thiomersal trong thành phần. Các chất bảo quản có thể được sử dụng ở các giai đoạn khác nhau của quá trình sản xuất vắc xin và các phương pháp đo lường phức tạp nhất có thể phát hiện dấu vết của chúng trong thành phẩm, vì chúng có thể tồn tại trong môi trường và quần thể nói chung.
+Nhiều loại vắc-xin cần chất bảo quản để ngăn ngừa các tác dụng phụ nghiêm trọng như nhiễm trùng Staphylococcus, trong một sự cố năm 1928 đã giết chết 12 trong số 21 trẻ em được tiêm vắc-xin bạch hầu thiếu chất bảo quản. Một số chất bảo quản có sẵn, bao gồm thiomersal, phenoxyethanol và formaldehyde. Thiomersal hiệu quả hơn trong việc chống lại vi khuẩn, có thời hạn sử dụng tốt hơn và cải thiện độ ổn định, hiệu lực và độ an toàn của vắc xin; nhưng ở Hoa Kỳ, Liên minh Châu Âu và một số quốc gia giàu có khác, nó không còn được sử dụng làm chất bảo quản trong vắc xin cho trẻ nhỏ, như một biện pháp phòng ngừa do hàm lượng thủy ngân của nó. Mặc dù những tuyên bố gây tranh cãi đã được đưa ra rằng thiomersal góp phần gây ra chứng tự kỷ, nhưng không có bằng chứng khoa học thuyết phục nào ủng hộ những tuyên bố này. Hơn nữa, một nghiên cứu kéo dài 10-11 năm trên 657.461 trẻ em đã phát hiện ra rằng vắc-xin MMR không gây ra chứng tự kỷ và thực sự làm giảm nguy cơ mắc chứng tự kỷ xuống 7%.
+
+
+=== Tá dược ===
+Bên cạnh vắc xin hoạt động, các tá dược và các hợp chất sản xuất còn lại sau đây có mặt hoặc có thể có trong các chế phẩm vắc xin:
+
+Muối nhôm hoặc gel được thêm vào làm chất bổ trợ. Chất bổ trợ được thêm vào để thúc đẩy phản ứng miễn dịch sớm hơn, mạnh hơn và bền bỉ hơn với vắc xin; họ cho phép liều lượng vắc xin thấp hơn.
+Thuốc kháng sinh được thêm vào một số vắc xin để ngăn chặn sự phát triển của vi khuẩn trong quá trình sản xuất và bảo quản vắc xin.
+Protein của trứng có trong vắc-xin cúm và vắc-xin sốt vàng vì chúng được chế biến bằng trứng gà. Các protein khác có thể cũng xuất hiện.
+Formaldehyde được sử dụng để khử hoạt tính các sản phẩm vi khuẩn dùng cho vắc xin độc tố. Formaldehyde cũng được sử dụng để vô hiệu hóa các vi rút không mong muốn và tiêu diệt vi khuẩn có thể gây ô nhiễm vắc xin trong quá trình sản xuất.
+Monosodium glutamate (MSG) và 2- phenoxyethanol được sử dụng làm chất ổn định trong một số loại vắc xin để giúp vắc xin không thay đổi khi vắc xin tiếp xúc với nhiệt, ánh sáng, axit hoặc độ ẩm.
+Thiomersal là một chất kháng khuẩn có chứa thủy ngân được thêm vào các lọ vắc xin chứa nhiều liều để ngăn ngừa sự ô nhiễm và sự phát triển của vi khuẩn có hại tiềm tàng. Do những tranh cãi xung quanh thiomersal, nó đã bị loại bỏ khỏi hầu hết các loại vắc-xin trừ bệnh cúm đa dụng, nơi nó được giảm xuống mức để một liều duy nhất chứa ít hơn một microgram thủy ngân, một mức tương tự như ăn 10 gram cá ngừ đóng hộp.
+
+
+== Danh pháp ==
+Có nhiều cách viết tắt khá tiêu chuẩn hóa khác nhau cho tên vắc xin đã được phát triển, mặc dù việc tiêu chuẩn hóa không có nghĩa mang tính tập trung hay là chuẩn toàn cầu. Ví dụ, các tên vắc-xin được sử dụng ở Hoa Kỳ có các chữ viết tắt được thiết kế tốt và cũng được biết đến và sử dụng rộng rãi ở những nơi khác. Danh sách đầy đủ về chúng được cung cấp trong một bảng có thể sắp xếp và có thể truy cập miễn phí có sẵn tại trang web của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ. Trang này giải thích rằng "Các chữ viết tắt [trong] bảng này (Cột 3) đã được chuẩn hóa chung bởi các nhân viên của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh, Nhóm Công tác ACIP, biên tập viên của Báo cáo Hàng tuần về Bệnh tật và Tử vong (MMWR), biên tập viên của Dịch tễ học và Phòng ngừa các bệnh có thể phòng ngừa bằng vắc-xin (Pink Book), các thành viên ACIP, và các tổ chức liên lạc với ACIP."
+Một số ví dụ là " DTaP " đối với độc tố bạch hầu và uốn ván và vắc xin ho gà dạng tế bào, "DT" đối với độc tố bạch hầu và uốn ván, và "Td" đối với độc tố uốn ván và bạch hầu. Tại trang về tiêm phòng uốn ván, CDC Hoa Kỳ giải thích thêm rằng "Các chữ cái viết hoa trong những chữ viết tắt này biểu thị liều đủ mạnh của vắc xin bạch hầu (D) và uốn ván (T) và ho gà (P). Chữ thường "d" và "p" biểu thị liều lượng giảm của thuốc điều trị bạch hầu và ho gà được sử dụng trong công thức của thanh thiếu niên / người lớn. Chữ 'a' trong DTaP và Tdap là viết tắt của 'acellular', nghĩa là thành phần ho gà chỉ chứa một phần của vi sinh vật gây bệnh ho gà."
+Một danh sách khác về các chữ viết tắt của vắc-xin được thành lập tại trang của CDC có tên "Các từ viết tắt và viết tắt của vắc-xin", với các chữ viết tắt được sử dụng trong hồ sơ tiêm chủng của Hoa Kỳ. Hệ thống Tên được Áp dụng của Hoa Kỳ có một số quy ước về thứ tự từ của tên vắc-xin, đặt danh từ đứng đầu trước và tính từ sau cùng. Đây là lý do tại sao hệ thống này coi "OPV" là "vắc-xin virus bại liệt sống dùng qua đường miệng" (poliovirus vaccine live oral) chứ không phải "vắc-xin virus bại liệt dùng qua đường miệng" (oral poliovirus vaccine).
+
+
+== Cấp phép ==
+Giấy phép vắc xin được xét sau khi kết thúc thành công chu kỳ phát triển và tiếp tục các thử nghiệm lâm sàng và các chương trình khác có liên quan thông qua các Giai đoạn I–III chứng minh tính an toàn, tính hoạt động miễn dịch, tính an toàn về mặt di truyền miễn dịch ở một liều lượng cụ thể nhất định, hiệu quả đã được chứng minh trong việc ngăn ngừa lây nhiễm cho các quần thể mục tiêu và hiệu quả phòng ngừa lâu dài (thời gian kéo dài hoặc nhu cầu tái tiêm chủng phải được ước tính). Là một phần của việc cấp phép đa quốc gia đối với vắc xin, Ủy ban chuyên gia về tiêu chuẩn sinh học (Expert Committee on Biological Standardization) của Tổ chức Y tế Thế giới đã phát triển các hướng dẫn về tiêu chuẩn quốc tế về sản xuất và kiểm tra chất lượng vắc xin, một quy trình nhằm mục đích làm nền tảng cho các cơ quan quản lý quốc gia áp dụng cho quy trình cấp phép của riêng họ. Các nhà sản xuất vắc xin không nhận được giấy phép cho đến khi một chu kỳ phát triển và thử nghiệm lâm sàng hoàn chỉnh chứng minh vắc xin là an toàn và có hiệu quả lâu dài, sau đánh giá khoa học của một tổ chức quản lý đa quốc gia hoặc quốc gia, chẳng hạn như Cơ quan Y tế Châu Âu (EMA) hoặc tại Hoa Kỳ là Cục Quản lý Thực phẩm và Dược phẩm (FDA).
+Tại các nước đang phát triển áp dụng các hướng dẫn của WHO về phát triển và cấp phép vắc xin, mỗi quốc gia có trách nhiệm cấp giấy phép quốc gia và quản lý, triển khai và giám sát vắc xin trong suốt quá trình sử dụng vắc xin ở mỗi quốc gia. Xây dựng lòng tin và sự chấp nhận đối với vắc xin được cấp phép trong cộng đồng là nhiệm vụ truyền thông của các chính phủ và nhân viên y tế để đảm bảo chiến dịch tiêm chủng diễn ra suôn sẻ, cứu sống và phục hồi kinh tế. Khi vắc xin được cấp phép, nguồn cung ban đầu sẽ hạn chế do các yếu tố sản xuất, phân phối và hậu cần khác nhau, đòi hỏi phải có kế hoạch phân bổ cho nguồn cung hạn chế và phân khúc dân số nào nên được ưu tiên tiêm vắc xin trước.
+
+
+=== Tổ chức Y tế Thế giới ===
+Các vắc xin được phát triển để phân phối trên nhiều quốc gia thông qua Quỹ Nhi đồng Liên hợp quốc (UNICEF) yêu cầu WHO sơ tuyển để đảm bảo các tiêu chuẩn quốc tế về chất lượng, an toàn, khả năng sinh miễn dịch và hiệu quả để nhiều quốc gia áp dụng.
+Quy trình này đòi hỏi sự nhất quán trong sản xuất tại các phòng thí nghiệm được WHO ký hợp đồng tuân theo Thực hành Sản xuất Tốt (GMP). Khi các cơ quan của Liên hợp quốc tham gia vào việc cấp phép vắc xin, các quốc gia riêng lẻ hợp tác bằng cách 1) cấp giấy phép tiếp thị và giấy phép quốc gia cho vắc xin, các nhà sản xuất và đối tác phân phối của nó; và 2) thực hiện giám sát sau khi đưa ra thị trường, bao gồm các hồ sơ về các biến cố bất lợi sau chương trình tiêm chủng. WHO làm việc với các cơ quan quốc gia để giám sát việc kiểm tra các cơ sở sản xuất và nhà phân phối về việc tuân thủ GMP và giám sát quy định.
+Một số quốc gia chọn mua vắc xin được cấp phép bởi các tổ chức quốc gia có uy tín, chẳng hạn như EMA, FDA hoặc các cơ quan quốc gia ở các quốc gia giàu có khác, nhưng việc mua vắc xin như vậy thường đắt hơn và có thể không có nguồn phân phối phù hợp với điều kiện địa phương ở các nước đang phát triển.
+
+
+=== Liên minh châu Âu ===
+Tại Liên minh châu Âu (EU), vắc xin phòng bệnh đại dịch, chẳng hạn như cúm theo mùa, được cấp phép trên toàn EU khi tất cả các quốc gia thành viên tuân thủ ("tập trung"), chỉ được cấp phép cho một số quốc gia thành viên ("phi tập trung"), hoặc được được cấp phép ở cấp độ quốc gia cá nhân. Nói chung, tất cả các quốc gia EU đều tuân theo hướng dẫn quy định và các chương trình lâm sàng được xác định bởi Ủy ban Châu Âu về Sản phẩm Thuốc dùng cho Người (CHMP), một hội đồng khoa học của Cơ quan Y tế Châu Âu (EMA) chịu trách nhiệm cấp phép vắc xin. CHMP được hỗ trợ bởi một số nhóm chuyên gia, những người đánh giá và giám sát tiến trình của vắc xin trước và sau khi cấp phép và phân phối.
+
+
+=== Hoa Kỳ ===
+Theo FDA, quy trình thiết lập bằng chứng về tính an toàn và hiệu quả lâm sàng của vắc xin cũng giống như quy trình phê duyệt thuốc kê đơn. Nếu thành công trong các giai đoạn phát triển lâm sàng, quy trình cấp phép vắc xin được theo sau bởi Đơn xin cấp phép sinh học phải cung cấp một nhóm đánh giá khoa học (từ các chuyên ngành khác nhau, chẳng hạn như bác sĩ, nhà thống kê, nhà vi sinh vật học, nhà hóa học) và tài liệu toàn diện cho ứng viên vắc xin có hiệu quả và an toàn trong suốt quá trình phát triển của nó. Cũng trong giai đoạn này, cơ sở sản xuất được đề xuất sẽ được các chuyên gia đánh giá kiểm tra về việc tuân thủ GMP và nhãn thuốc phải có mô tả tuân thủ để cho phép các nhà cung cấp dịch vụ chăm sóc sức khỏe định nghĩa về việc sử dụng vắc xin cụ thể, bao gồm cả những rủi ro có thể xảy ra, để truyền thông và cung cấp vắc xin. cho công chúng. Sau khi được cấp phép, việc giám sát vắc xin và quá trình sản xuất vắc xin, bao gồm kiểm tra định kỳ để tuân thủ GMP, vẫn tiếp tục miễn là nhà sản xuất còn giữ được giấy phép của mình. Điều này có thể bao gồm việc đệ trình thêm cho FDA các thử nghiệm về hiệu lực, độ an toàn và độ tinh khiết cho từng bước sản xuất vắc xin.
+
+
+=== Giám sát sau khi đưa ra thị trường ===
+Cho đến khi một loại vắc xin được sử dụng cho dân số nói chung, tất cả các tác dụng phụ tiềm ẩn từ vắc xin có thể không được biết đến, đòi hỏi các nhà sản xuất phải tiến hành Pha IVvới các nghiên cứu để giám sát sau khi đưa vắc-xin ra thị trường trong khi vắc-xin được sử dụng rộng rãi trong công chúng. WHO làm việc với các quốc gia thành viên Liên hợp quốc để thực hiện giám sát sau cấp phép. FDA dựa vào Hệ thống Báo cáo Sự kiện Có hại của Vắc-xin để theo dõi các lo ngại về an toàn đối với vắc-xin trong suốt quá trình sử dụng vắc-xin trong công chúng tại Hoa Kỳ.
+
+
+== Lịch trình ==
+
+Để được sự bảo vệ tốt nhất, trẻ em nên tiêm chủng ngay khi hệ thống miễn dịch của chúng đã phát triển đầy đủ để đáp ứng với các loại vắc xin cụ thể, với các mũi "tăng cường" bổ sung thường được yêu cầu để đạt được "miễn dịch hoàn toàn". Điều này đã dẫn đến sự phát triển lịch tiêm chủng khá phức tạp. Tại Hoa Kỳ, Ủy ban Cố vấn về Thực hành Tiêm chủng, khuyến nghị bổ sung lịch trình cho Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh, khuyến nghị tiêm chủng định kỳ cho trẻ em chống lại viêm gan A, viêm gan B, bại liệt, quai bị, sởi, rubella, bạch hầu, ho gà, uốn ván, HiB, thủy đậu, virus rota, cúm, bệnh não mô cầu và viêm phổi.
+Số lượng lớn các loại vắc-xin và thuốc tăng cường được đề nghị (lên đến 24 mũi tiêm cho trẻ hai tuổi) đã dẫn đến các vấn đề trong việc tuân thủ đầy đủ. Để chống lại việc giảm tỷ lệ tuân thủ, nhiều hệ thống thông báo khác nhau đã được thiết lập và nhiều loại thuốc tiêm kết hợp hiện được bán trên thị trường (ví dụ: vắc xin liên hợp phế cầu và vắc xin MMRV), nhằm bảo vệ chống lại nhiều bệnh.
+Bên cạnh các khuyến nghị về tiêm chủng cho trẻ sơ sinh và thuốc tăng cường, nhiều loại vắc xin cụ thể được khuyến nghị cho các lứa tuổi khác hoặc tiêm lặp lại trong suốt cuộc đời – phổ biến nhất là bệnh sởi, uốn ván, cúm và viêm phổi. Phụ nữ mang thai thường được kiểm tra để tiếp tục đề kháng với bệnh rubella. Vắc xin phòng u nhú ở người được khuyến cáo ở Hoa Kỳ (năm 2011) và Vương quốc Anh (năm 2009). Các khuyến cáo về vắc-xin cho người cao tuổi tập trung vào viêm phổi và cúm, những bệnh gây tử vong nhiều hơn cho nhóm người đó. Vào năm 2006, một loại vắc-xin đã được giới thiệu để chống lại bệnh zona, một bệnh do vi rút thủy đậu gây ra, thường ảnh hưởng đến người cao tuổi.
+
+
+== Tính kinh tế ==
+Một thách thức trong việc phát triển vắc-xin là tính kinh tế: Nhiều bệnh cần đến vắc-xin nhất, bao gồm cả HIV, sốt rét và bệnh lao, chủ yếu tồn tại ở các nước nghèo. Các công ty dược phẩm và công ty công nghệ sinh học có ít động lực để phát triển vắc-xin cho những bệnh này vì tiềm năng doanh thu rất thấp. Ngay cả ở các quốc gia giàu có hơn, lợi nhuận tài chính từ vắc xin thường là tối thiểu và rủi ro tài chính và các rủi ro khác là rất lớn.
+Hầu hết việc phát triển vắc-xin cho đến nay đều dựa vào nguồn tài trợ "thúc đẩy" của chính phủ, các trường đại học và các tổ chức phi lợi nhuận. Nhiều loại vắc-xin đã có hiệu quả cao về chi phí và mang lại lợi ích cho sức khoẻ cộng đồng. Số lượng vắc-xin thực sự được sử dụng đã tăng lên đáng kể trong những thập kỷ gần đây. Sự gia tăng này, đặc biệt là về số lượng các loại vắc-xin khác nhau được tiêm cho trẻ em trước khi nhập học có thể là do nhiệm vụ và hỗ trợ của chính phủ, chứ không phải do động lực kinh tế.
+
+
+=== Bằng sáng chế ===
+Theo Tổ chức Y tế Thế giới, rào cản lớn nhất đối với việc sản xuất vắc xin ở các nước kém phát triển hơn không phải là bằng sáng chế, mà là các yêu cầu về tài chính, cơ sở hạ tầng và lực lượng lao động đáng kể cần thiết để gia nhập thị trường. Vắc xin là hỗn hợp phức tạp của các hợp chất sinh học, và không giống như trường hợp thuốc kê đơn, không có vắc xin gốc thực sự. Vắc xin do cơ sở mới sản xuất phải được nhà sản xuất thử nghiệm lâm sàng đầy đủ về tính an toàn và hiệu quả. Đối với hầu hết các loại vắc xin, các quy trình cụ thể trong công nghệ được cấp bằng sáng chế. Những điều này có thể bị phá vỡ bằng các phương pháp sản xuất thay thế, nhưng điều này cần đến cơ sở hạ tầng R&D và lực lượng lao động có tay nghề cao. Trong trường hợp một số loại vắc-xin tương đối mới, chẳng hạn như vắc-xin virus gây u nhú ở người, bằng sáng chế có thể tạo ra một rào cản bổ sung.
+Khi việc tăng cường sản xuất vắc xin là cần thiết khẩn cấp trong đại dịch COVID-19 vào năm 2021, Tổ chức Thương mại Thế giới và các chính phủ trên thế giới đã đánh giá xem có nên từ bỏ quyền sở hữu trí tuệ và bằng sáng chế đối với vắc xin COVID-19 hay không, điều này sẽ "loại bỏ tất cả các rào cản tiềm ẩn đối với tiếp cận kịp thời các sản phẩm y tế COVID-19 giá cả phải chăng, bao gồm vắc xin và thuốc, đồng thời mở rộng quy mô sản xuất và cung cấp các sản phẩm y tế thiết yếu."
+
+
+== Sản xuất ==
+
+Sản xuất vắc xin về cơ bản khác với các loại sản xuất khác – bao gồm sản xuất dược phẩm thông thường – trong đó vắc-xin được dự định sử dụng cho hàng triệu người mà đại đa số đều hoàn toàn khỏe mạnh. Thực tế này thúc đẩy một quy trình sản xuất cực kỳ nghiêm ngặt với các yêu cầu tuân thủ nghiêm ngặt vượt xa những yêu cầu của các dược phẩm khác.
+Tùy thuộc vào kháng nguyên, chi phí xây dựng một cơ sở sản xuất vắc xin có thể từ 50 đến 500 triệu đô la Mỹ, đòi hỏi thiết bị chuyên dụng cao, phòng sạch và phòng chứa. Sự khan hiếm toàn cầu về nhân sự mà thỏa mãn sự kết hợp phù hợp giữa các kỹ năng, chuyên môn, kiến thức, năng lực và nhân cách phù hợp dây chuyền sản xuất vắc xin. Với các trường hợp ngoại lệ đáng chú ý của Brazil, Trung Quốc và Ấn Độ, hệ thống giáo dục của nhiều nước đang phát triển không thể cung cấp đủ ứng viên đủ tiêu chuẩn và các nhà sản xuất vắc xin có trụ sở tại các quốc gia này phải thuê nhân viên nước ngoài để tiếp tục sản xuất.
+Sản xuất vắc xin có nhiều giai đoạn. Đầu tiên, bản thân kháng nguyên được tạo ra. Vi rút được phát triển trên các tế bào sơ cấp như trứng gà (ví dụ, đối với bệnh cúm) hoặc trên các dòng tế bào liên tục như tế bào người được nuôi cấy (ví dụ, đối với bệnh viêm gan A). Vi khuẩn được nuôi trong lò phản ứng sinh học (ví dụ: Haemophilus influenzae loại b). Tương tự như vậy, một protein tái tổ hợp có nguồn gốc từ vi rút hoặc vi khuẩn có thể được tạo ra trong men, vi khuẩn hoặc tế bào nuôi cấy.
+Sau khi kháng nguyên được tạo ra, nó được phân lập khỏi các tế bào được sử dụng để tạo ra nó. Một virus có thể cần được bất hoạt, có thể không cần thanh lọc thêm. Các protein tái tổ hợp cần nhiều thao tác liên quan đến siêu lọc và sắc ký cột. Cuối cùng, vắc-xin được pha chế bằng cách thêm chất bổ trợ, chất ổn định và chất bảo quản khi cần thiết. Chất bổ trợ tăng cường đáp ứng miễn dịch với kháng nguyên, chất ổn định tăng thời gian bảo quản, chất bảo quản cho phép sử dụng lọ chứa nhiều liều. Các vắc xin phối hợp khó phát triển và sản xuất hơn, do có khả năng không tương thích và tương tác giữa các kháng nguyên và các thành phần khác có liên quan.
+Giai đoạn cuối cùng trong sản xuất vắc xin trước khi phân phối là chiết rót và hoàn thiện, là quá trình đóng lọ vắc xin và đóng gói để phân phối. Mặc dù đây là một phần đơn giản về mặt khái niệm của quy trình sản xuất vắc xin, nhưng nó thường là một nút thắt trong quá trình phân phối và sử dụng vắc xin.
+Kỹ thuật sản xuất vắc xin đang ngày càng phát triển. Tế bào động vật có vú được nuôi cấy được dự kiến ngày càng trở nên quan trọng, so với các lựa chọn thông thường như trứng gà, do năng suất cao hơn và tỷ lệ các vấn đề nhiễm bẩn thấp. Công nghệ tái tổ hợp sản xuất vắc xin giải độc gen dự kiến sẽ trở nên phổ biến để sản xuất vắc xin vi khuẩn sử dụng biến độc tố. Các vắc xin phối hợp được kỳ vọng sẽ làm giảm số lượng kháng nguyên mà chúng chứa, và do đó làm giảm các tương tác không mong muốn, bằng cách sử dụng các mẫu phân tử liên quan đến mầm bệnh.
+
+
+=== Nhà sản xuất vắc xin ===
+Các công ty có thị phần sản xuất vắc xin cao nhất là Merck, Sanofi, GlaxoSmithKline, Pfizer và Novartis, với 70% doanh số bán vắc xin tập trung ở EU hoặc Mỹ (2013).  Các nhà máy sản xuất vắc xin đòi hỏi đầu tư vốn lớn (từ 50 triệu đô la lên đến 300 triệu đô la Mỹ) và có thể mất từ 4 đến 6 năm để xây dựng, với toàn bộ quá trình phát triển vắc xin mất từ 10 đến 15 năm.  Việc sản xuất vắc xin ở các nước đang phát triển đang đóng vai trò ngày càng tăng trong việc cung cấp cho các nước này, đặc biệt liên quan đến các loại vắc xin cũ hơn và ở Brazil, Ấn Độ và Trung Quốc.  Các nhà sản xuất ở Ấn Độ là những nhà sản xuất tiên tiến nhất trong thế giới đang phát triển và bao gồm Viện Huyết thanh Ấn Độ, một trong những nhà sản xuất vắc xin lớn nhất theo số liều và một nhà cải tiến trong quy trình, gần đây đã nâng cao hiệu quả sản xuất vắc xin sởi lên gấp 10 đến 20 lần, do chuyển sang nuôi cấy tế bào MRC-5 thay vì dùng trứng gà.  Năng lực sản xuất của Trung Quốc tập trung vào việc cung cấp nhu cầu trong nước của chính họ, riêng Sinopharm (CNPGC) đã cung cấp hơn 85% liều lượng cho 14 loại vắc xin khác nhau ở Trung Quốc.  Brazil đang tiến gần đến việc tự cung cấp các nhu cầu trong nước bằng cách sử dụng công nghệ được chuyển giao từ các nước phát triển. 
+
+
+== Cách thức đưa vào cơ thể ==
+
+Một trong những phương pháp phổ biến nhất để đưa vắc xin vào cơ thể người là tiêm.
+Sự phát triển của các hệ thống đưa vắc xin vào cơ thể mới làm dấy lên hy vọng về các loại vắc xin an toàn hơn và hiệu quả hơn trong việc đưa vào cơ thể và quản lý. Các dòng nghiên cứu bao gồm liposome và ISCOM (phức hợp kích thích miễn dịch).
+Những phát triển đáng chú ý trong công nghệ cung cấp vắc xin đã bao gồm vắc xin uống. Những nỗ lực ban đầu để áp dụng vắc-xin uống cho thấy mức độ hứa hẹn khác nhau, bắt đầu từ đầu thế kỷ 20, vào thời điểm mà khả năng vắc-xin kháng khuẩn đường uống hiệu quả còn gây tranh cãi. Ví dụ, đến những năm 1930, người ta ngày càng quan tâm đến giá trị dự phòng của vắc-xin sốt thương hàn dạng uống.
+Vắc xin bại liệt uống hóa ra rất có hiệu quả khi nhân viên tình nguyện thực hiện việc tiêm chủng mà không được đào tạo chính thức; kết quả cũng cho thấy việc sử dụng vắc xin dễ dàng và hiệu quả hơn. Vắc xin đường uống hiệu quả có nhiều ưu điểm; ví dụ, không có nguy cơ nhiễm bẩn máu. Vắc xin dùng để uống không cần phải ở dạng lỏng, và ở dạng chất rắn, chúng thường ổn định hơn và ít bị hư hỏng khi di chuyển hoặc hư hỏng do đông lạnh trong vận chuyển và bảo quản. Sự ổn định như vậy làm giảm nhu cầu về một "dây chuyền lạnh": vốn là các nguồn lực cần thiết để giữ vắc-xin trong phạm vi nhiệt độ hạn chế từ giai đoạn sản xuất đến khi sử dụng, và do đó có thể làm giảm chi phí vắc-xin.
+Một phương pháp tiếp cận dùng kim tiêm siêu nhỏ, vẫn đang trong giai đoạn phát triển, sử dụng "các mặt nhọn được chế tạo thành các mảng có thể tạo ra các đường vận chuyển vắc xin qua da".
+Một loại vắc xin không dùng kim thử nghiệm đang được thử nghiệm trên động vật. Nó gồm một miếng dán kích thước con tem tương tự như một miếng băng dính chứa khoảng 20.000 hình chiếu cực nhỏ trên mỗi cm vuông. Việc sử dụng dán qua da này có khả năng làm tăng hiệu quả của việc tiêm chủng, trong khi lại cần ít vắc xin hơn so với phương pháp tiêm.
+
+
+== Trong thú y ==
+
+Tiêm vắc xin cho động vật được sử dụng vừa để ngăn ngừa các bệnh lây nhiễm của chúng vừa để ngăn ngừa chúng truyền bệnh cho người. Cả động vật nuôi làm thú cưng và động vật nuôi làm gia súc đều được tiêm phòng định kỳ. Trong một số trường hợp, các quần thể hoang dã có thể được tiêm phòng. Điều này đôi khi được thực hiện khi thức ăn có tẩm vắc xin được rải trong khu vực có dịch bệnh và đã được sử dụng để cố gắng kiểm soát bệnh dại ở gấu mèo.
+Ở những nơi xảy ra bệnh dại, pháp luật có thể bắt người dân phải tiêm phòng dại cho chó. Các vắc xin chó khác bao gồm ngăn chặn tính khí bất thường của chó, phòng parvovirus, viêm gan chó, adenovirus-2, trùng xoắn khuẩn vàng da, Bordetella, virus parainfluenza, và bệnh Lyme, v.v..
+Các trường hợp vắc xin thú y được sử dụng cho người đã được ghi nhận, dù cố ý hay tình cờ, với một số trường hợp sau khi tiêm cho người đã gây bệnh, đáng chú ý nhất là bệnh brucella. Tuy nhiên, báo cáo về những trường hợp như vậy là rất hiếm và rất ít được nghiên cứu về mức độ an toàn và kết quả của việc thực hành như vậy. Với sự ra đời của việc tiêm phòng bằng khí dung trong các phòng khám thú y, việc con người tiếp xúc với các mầm bệnh không tự nhiên mang trong người, chẳng hạn như Bordetellanchiseptica, có thể đã tăng lên trong những năm gần đây. Trong một số trường hợp, đặc biệt là bệnh dại, vắc xin thú y tiêm cho chó song song chống lại một tác nhân gây bệnh có thể tiết kiệm hơn vô số lần so với vắc xin tiêm cho con người.
+
+
+== Hạn chế ==
+
+Những hạn chế của vaccine tập trung thành hai nhóm chính: hiệu quả kém và các tai biến đi kèm.
+
+
+=== Hạn chế về hiệu quả ===
+Một số vaccine rất có hiệu quả, không kể vaccine đậu mùa nổi tiếng, ví dụ vaccine ngừa bệnh uốn ván, sởi,.... Một số vaccine khác có hiệu quả vừa phải (hiệu quả của BCG chỉ vào khoảng 50%). Ngược lại, có những bệnh đến đầu thế kỷ 21 vẫn chưa có vaccine thích hợp (AIDS, sốt rét,....). Do vậy, vaccine chưa phải là vũ khí vạn năng để đối phó với bệnh tật.
+Hiệu quả của vaccine cũng khó đánh giá chính xác. Kết quả nghiên cứu trên động vật không thể áp dụng 100% cho loài người, vì những đặc điểm riêng của từng loài. Trên lý thuyết, phương pháp duy nhất để chứng minh hiệu quả là lấy 2 nhóm người, một nhóm được tiêm chủng, một nhóm không rồi truyền mầm bệnh cho cả hai nhóm để xem kết quả. Dĩ nhiên phương pháp này không thể sử dụng được vì trái đạo đức. Do đó, người ta biến hóa đi một chút, cũng chia ra 2 nhóm được chủng và không được chủng như trên nhưng không truyền bệnh mà chỉ quan sát sự nhiễm bệnh qua các ngã thông thường. Hạn chế của phương pháp này là nếu một vaccine tỏ ra có hiệu quả, người ta không thể triển khai nghiên cứu trên quy mô rộng để tính chính xác hiệu quả vì như thế một số lớn quần chúng sẽ bị thiệt thòi do không được bảo vệ.
+Bởi vậy, khi một vaccine được xem là có hiệu quả, người ta đem tiêm chủng cho mọi người và quan sát sự giảm số người mắc bệnh. Tuy nhiên, ngay cả khi một bệnh có chiều hướng giảm xuống, người ta cũng không biết vai trò thật sự của vaccine, ví dụ tần suất bệnh lao đã giảm rất nhiều, nhưng vai trò của các biện pháp vệ sinh, cách ly nguồn lây cũng rất đáng kể. (Để hiểu rõ hơn cách đánh giá hiệu quả, xem thêm bài khoa học thống kê.)
+Tính kém hiệu quả của vaccine có thể biểu hiện về mặt chất (đáp ứng miễn dịch không thích hợp) hoặc về mặt lượng (không có đáp ứng miễn dịch).
+Nguyên nhân gây kém hiệu quả về lượng:
+
+Các "lỗ hổng" trong kho tàng miễn dịch: trên lý thuyết, các tế bào lympho B có thể tạo ra hơn 1012 loại kháng thể đặc hiệu, còn lympho T có thể nhận diện trên 1015 kháng nguyên khác nhau, những con số này tuy rất lớn nhưng không phải là vô hạn, hệ miễn dịch không thể chống lại mọi thứ.
+Hiệu quả của vaccine còn tùy thuộc vào thời gian bảo vệ: trí nhớ miễn dịch có thể tồn tại suốt đời nhưng sự sản xuất kháng thể thì không nếu không được tái kích thích.
+Đột biến của tác nhân gây bệnh: đây là cơ chế sinh tồn của các tác nhân gây bệnh. Đột biến đẩy hệ miễn dịch vào một cuộc rượt đuổi trường kỳ. Tiêu biểu cho cơ chế này là HIV, virus sốt xuất huyết, virus cúm với nguy cơ đại dịch cúm gia cầm hiện nay.
+Nguyên nhân gây kém hiệu quả về chất:
+
+Vai trò của phụ gia: để giảm tác dụng không mong muốn của vaccine, người ta thường tinh lọc các chế phẩm, nhưng có những vaccine quá tinh khiết lại trở nên kém hiệu quả. Đó là do hệ miễn dịch muốn được kích hoạt, phải nhận được một tín hiệu báo nguy, tín hiệu này thường không phải là kháng nguyên dùng làm vaccine. Để khắc phục, người ta dùng một số loại phụ gia trong chế phẩm vaccine. Ví dụ phụ gia Freund, nhôm hyđrôxít, nhôm phosphate hoặc trộn lẫn các văc-xin với nhau.
+Loại phản ứng miễn dịch và hiện tượng chuyển hướng miễn dịch: đối với các tác nhân gây bệnh ngoại bào, đáp ứng miễn dịch dịch thể là thích hợp (loại đáp ứng này được sự hỗ trợ của các tế bào lympho Th1). Ngược lại, đáp ứng miễn dịch tế bào (cần sự hỗ trợ của lympho Th2) lại hữu hiệu cho các tác nhân gây bệnh nội bào. Do đó, nếu vaccine gây được đáp ứng miễn dịch nhưng không đúng loại đáp ứng nên có, hiệu quả cũng không được bảo đảm. Th1 và Th2 có xu hướng khắc chế lẫn nhau. vaccine kinh điển có xu hướng tạo đáp ứng Th1. Do đó đối với những bệnh do tác nhân nội bào như nhiễm leishmania, miễn dịch đặc hiệu sau lành bệnh lại tốt hơn vaccine, vì vaccine lại gây hiệu quả ngược, kiềm hãm phản ứng bảo vệ.
+
+
+=== Tai biến khi dùng vaccine ===
+Có hai loại tai biến: nhiễm bệnh và các bệnh miễn dịch.
+
+
+==== Nhiễm bệnh ====
+Vắc-xin sống, giảm độc lực có thể gây bệnh cho người bị suy giảm miễn dịch.
+Nguy cơ hồi phục của tác nhân vi sinh: một tác nhân bị làm giảm độc lực tìm lại được độc tính của mình. Nguy cơ này ở vaccine ngừa bại liệt là 10−7, nghĩa là cứ 10 triệu trẻ em uống vaccine Sabin thì có 1 em bị tai nạn loại này. Điều không may này không ngăn cản được việc sử dụng vaccine này bởi lẽ tỷ lệ đó được xem là chấp nhận được.
+Nguy cơ nhiễm các tác nhân gây bệnh khác vào trong chế phẩm vaccine. Điều này có thể hạn chế bằng các quy trình sản xuất, bảo quản và sử dụng chặt chẽ.
+
+
+==== Bệnh miễn dịch ====
+Thử nghiệm vaccine phòng bệnh dại trên cừu cho thấy có xác suất gây EAE, một bệnh tự miễn trên hệ thần kinh khoảng 1/3000-1/1000.Lý do có thể là vaccine chiết xuất từ não chó đã mang theo cả những mẩu protein của tế bào thần kinh, khi tạo miễn dịch, cơ thể (được tiêm)đã tạo ra cả kháng thể chống lại cấu trúc thần kinh của mình.
+vaccine ngừa ho gà có thể gây sốc kèm di chứng thần kinh với xác suất 10−4-10−6. Việc tinh lọc vaccine này làm tăng mức an toàn nhưng một lần nữa, giảm hiệu quả.
+
+
+== Xu hướng ==
+Kể từ ít nhất là năm 2013, các nhà khoa học đã cố gắng phát triển vắc xin thế hệ thứ 3 tổng hợp bằng cách tái tạo lại cấu trúc bên ngoài của virus; người ta hy vọng rằng việc này sẽ giúp ngăn ngừa tình trạng kháng vắc xin.
+Các nguyên tắc chi phối phản ứng miễn dịch hiện có thể được sử dụng trong các loại vắc-xin được chế tạo riêng để chống lại nhiều bệnh không lây nhiễm ở người, chẳng hạn như ung thư và rối loạn tự miễn dịch. Ví dụ, vắc-xin thử nghiệm CYT006-AngQb đã được nghiên cứu là có thể điều trị huyết áp cao. Các yếu tố ảnh hưởng đến xu hướng phát triển vắc-xin bao gồm tiến bộ trong y học phiên dịch, nhân khẩu học, khoa học quản lý, phản ứng chính trị, văn hóa và xã hội.
+
+
+=== Dùng thực vật làm lò phản ứng sinh học để sản xuất vắc xin ===
+Ý tưởng sản xuất vắc-xin thông qua cây chuyển gen đã được xác định từ năm 2003. Các loại cây như thuốc lá, khoai tây, cà chua và chuối có thể được chèn các gen khiến chúng tạo ra vắc-xin có thể sử dụng được cho con người. Năm 2005, chuối đã được phát triển để sản xuất một loại vắc-xin phòng bệnh viêm gan B ở người. Một ví dụ khác là sự biểu hiện của protein dung hợp trong cỏ linh lăng biến đổi gen để chỉ thị chọn lọc đối với các tế bào trình diện kháng nguyên, do đó làm tăng hiệu lực của vắc xin chống lại bệnh tiêu chảy do vi rút ở bò (BVDV).
+
+
+== Xem thêm ==
+Các bệnh có thể phòng ngừa bằng Vắc-xin
+Tranh cãi về vắc xin
+Đáp ứng miễn dịch đặc hiệu
+Chương trình tiêm chủng mở rộng
+Vắc xin HPV
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+L'immunité 100 ans après Pasteur. Ed Nathan 1995.
+Le système immunitaire. Peter Parham. Ed De Boek 2003.
+Atlas de poche d'immunologie. Gerd-Rüdiger Burmester & Antonio Pezzutto. Ed Médecine-Sciences Flammarion 2000.
+
+
+== Liên kết ngoài ==
+VACXIN tại Từ điển bách khoa Việt Nam
+Vaccine tại Encyclopædia Britannica (tiếng Anh)
+Vacxin và huyết thanh miễn dịch Lưu trữ 2006-05-07 tại Wayback Machine
+BMJJournals.com Lưu trữ 2005-12-03 tại Wayback Machine - 'MMR: Science and Fiction. Exploring the Vaccine Crisis; MMR and Autism: What Parents Need to Know' ('Rapid Responses' to book review), British Medical Journal
+Người ta thường tiêm phòng cho trẻ em những loại bệnh nào? Lưu trữ 2017-11-15 tại Wayback Machine
+
+
+=== Những trang khuyến khích chủng ngừa ===
+Brian Deer.com - 'mmr & autism investigation: part 1: the Lancet scandal', Brian Deer
+CDC.gov - 'National Immunization Program: leading the way to healthy lives', US Centers for Disease Control (CDC information on vaccinations)
+CDC.gov - 'Mercury and Vaccines (Thimerosal)', US Centers for Disease Control
+Immunize.org - Immunization Action Coalition' (nonprofit working to increase immunization rates)
+NYTimes.com - 'On Autism's Cause, It's Parents vs. Research', Gardiner Harris, Anahad O'Connor, New York Times (front page; ngày 25 tháng 6 năm 2005)
+ratbags.com - 'RatbagsDotCom: Home of the Ratbags on the Net'
+OpinionJournal.com - 'Autism and vaccines: Activists wage a nasty campaign to silence scientists' (unsigned editorial opinion), Wall Street Journal (ngày 16 tháng 2 năm 2004)
+SNHS.com Lưu trữ 2008-04-30 tại Wayback Machine - 'Anti-vaccine activists get jabbed', Michael Fumento (ngày 11 tháng 3 năm 2004)
+WHO.int Lưu trữ 2009-11-11 tại Wayback Machine - 'Immunizations, vaccines and biologicals: Towards a World free of Vaccine Preventable Diseases', World Health Organization (WHO's global vaccination campaign website)
+
+
+=== Những trang phê phán chủng ngừa ===
+909Shot.com - 'National Vaccine Information Center: the oldest and largest national organization advocating reformation of the mass vaccination system'
+About.com Lưu trữ 2005-12-01 tại Wayback Machine - "Killing the Messenger: Dr. Andrew Wakefield Fired", Floyd Tilton (ngày 5 tháng 12 năm 2001)
+VaccinationDebate.com - 'Vaccination Debate', Ian Sinclair

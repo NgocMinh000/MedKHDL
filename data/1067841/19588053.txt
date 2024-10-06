@@ -1,0 +1,38 @@
+Vắc-xin vector virus là vắc-xin sử dụng vector là virus nhằm đưa vật liệu di truyền mã hóa cho một kháng nguyên mong muốn vào tế bào vật chủ của người nhận. Tính đến tháng 4 năm 2021, 6 loại vắc-xin vector virus đã được ít nhất một quốc gia cấp phép, trong đó có 4 vắc-xin COVID-19 và 2 vắc-xin Ebola.
+
+
+== Công nghệ ==
+Vắc-xin vector virus sử dụng virus đã chỉnh sửa làm vector để vận chuyển một đoạn axit nucleic mã hóa kháng nguyên cho một tác nhân lây nhiễm khác vào tế bào vật chủ. Vật chất di truyền này không tích hợp vào bộ gen của người.
+Vắc-xin vector virus cho phép biểu hiện tính kháng nguyên trong tế bào, tạo ra đáp ứng tế bào T gây độc tế bào mạnh mẽ, không giống như vắc-xin tiểu đơn vị (Subunit vaccine) chỉ tạo miễn dịch dịch thể. Hầu hết các vector virus được chỉnh sửa để không còn khả năng sao chép vì các gen cần thiết cho sao chép đã bị loại bỏ.
+
+
+== Virus làm vector ==
+
+
+=== Adenovirus ===
+Các vector Adenovirus có ưu điểm là hiệu quả tải nạp cao, biểu hiện gen chuyển (transgene), và tính hướng mô (tissue tropism) của virus rộng, và có thể lây nhiễm cho cả tế bào đang phân chia và không phân chia. Một bất lợi là nhiều người đã có sẵn khả năng miễn dịch với adenovirus do tiếp xúc trước đó. Serotype (typ huyết thanh) adenovirus 5 ở người thường được sử dụng vì nó có thể dễ dàng được tạo ra với hiệu giá kháng thể cao.
+Kể từ tháng 4 năm 2021, 4 loại vắc-xin vector adenovirus cho COVID-19 đã được ít nhất một quốc gia ủy quyền, gồm:
+
+Vắc-xin Oxford – AstraZeneca sử dụng virus adenovirus ChAdOx1  của tinh tinh đã được biến đổi.
+Sputnik V sử dụng serotype adenovirus 26 và typ huyết thanh 5.
+Vắc-xin Johnson & Johnson sử dụng serotype 26.
+Convidecia sử dụng serotype 5.
+Zabdeno, liều đầu tiên của vắc-xin Zabdeno / Mvabea Ebola, có nguồn gốc từ serotype adenovirus 26 của người, biểu hiện glycoprotein trên biến thể Mayinga của Zaire ebolavirus. Cả hai liều đều là vector không sao chép và mang mã di truyền của một số protein virus Ebola.
+
+
+=== Khác ===
+Vắc-xin rVSV-ZEBOV là vắc-xin Ebola. Đây là vắc-xin DNA tái tổ hợp sử dụng vật chất di truyền của virus viêm miệng mụn nước (VSV) biến đổi gen, vắc-xin này có khả năng sao chép. Gen quy định glycoprotein vỏ VSV tự nhiên được thay thế bằng gen virus Ebola chủng Zaire 1995 tại Kikwit.
+Mvabea, liều thứ hai của vắc-xin Zabdeno / Mvabea Ebola, là một vector Ankara được biến đổi từ một loại Poxviridae (gây bệnh đậu mùa).  Cả hai liều đều là vector không sao chép và mang mã di truyền của một số protein virus Ebola.
+Các virus khác  được nghiên cứu làm vật trung gian cho vắc-xin gồm virus liên quan adeno (adeno-associated virus), retrovirus (kể cả lentivirus), cytomegalovirus, virus Sendai, cũng như virus cúm và virus sởi.
+
+
+== Lịch sử ==
+Các thử nghiệm lâm sàng trên người đã được tiến hành đối với vắc-xin vector virus chống lại một số bệnh truyền nhiễm như virus Zika, virus cúm, virus hợp bào hô hấp, HIV, sốt rét, SARS-CoV-2.
+Hai vắc-xin Ebola sử dụng công nghệ vector virus được sử dụng trong các đợt bùng phát dịch Ebola ở Tây Phi (2013–2016) và ở Cộng hòa Dân chủ Congo (2018–2020). Vắc-xin rVSV-ZEBOV đã được chấp thuận sử dụng trong y tế ở Liên minh Châu Âu vào tháng 11 năm 2019, và ở Hoa Kỳ vào tháng 12 năm 2019. Vắc-xin Zabdeno / Mvabea được chấp thuận sử dụng trong y tế tại Liên minh Châu Âu vào tháng 7 năm 2020.
+
+
+== Tham khảo ==
+ 
+
+
+== Đọc thêm ==

@@ -1,0 +1,88 @@
+Trong Toán học và khoa học máy tính lý thuyết, định lý Church-Rosser phát biểu: khi áp dụng các quy tắc rút gọn cho các số hạng trong một số biến thể được gõ của phép tính lambda, thứ tự rút gọn được chọn không tạo ra sự khác biệt đối với kết quả cuối cùng. Chính xác hơn, nếu có hai cách rút gọn hoặc một chuỗi các cách rút gọn riêng biệt áp dụng trên cùng một số hạng, thì tồn tại một số hạng có thể đạt được từ cả hai kết quả, bằng cách áp dụng (hoặc không) thêm các bước rút gọn. Định lý được chứng minh vào năm 1936 bởi Alonzo Church và J. Barkley Rosser, và sau đó tên của định lý lấy tên của hai nhà logic học này.
+Định lý được ký hiệu bằng sơ đồ trên: Nếu số hạng 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ có thể được rút gọn thành cả 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ và 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+, thì sẽ phải có một số hạng 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ nữa (có khả năng bằng với một trong hai 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ hoặc 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+) mà cả 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ và 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ đều có thể rút gọn thành 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+. Xem tính toán lambda như một hệ thống viết lại trừu tượng, định lý Church-Rosser phát biểu rằng, các quy tắc rút gọn của tính toán lambda là hợp lưu (đưa ra kết quả cuối cùng giống nhau). Hệ quả là, một số hạng trong tính toán lambda có nhiều nhất một dạng thường, chứng minh tham chiếu đến "dạng thường" của một số hạng được bình thướng hóa đã cho.
+Định lý Church-Rosser cũng áp dụng cho nhiều biến thể của tính toán lambda, chẳng hạn như tính toán lambda được gõ đơn giản, nhiều phép tính với các hệ thống tiên tiến và phép tính giá trị beta của Gordon Plotkin. Plotskin cũng sử dụng định lý Church-Rosser để chứng minh rằng việc đánh giá các chương trình chức năng (đối với cả cách đánh giá lazy evaluation và eager evaluation) là một chức năng từ các chương trình đến các giá trị (một tập hợp con của các số hạng lambda).
+Trong các tài liệu nghiên cứu cũ hơn, một hệ thống viết lại được cho là định lý Church-Rosser, hoặc có tính chất của định lý Church-Rosser, khi nó hợp lưu.
+
+
+== Tham khảo ==

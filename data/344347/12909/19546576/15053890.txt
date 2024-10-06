@@ -1,0 +1,34 @@
+Foscarnet (phosphonomethanoic acid) là một loại thuốc chống vi rút chủ yếu được sử dụng để điều trị nhiễm virus liên quan đến họ Herpesviridae. Nó được phân loại là chất ức chế DNA polymerase tương tự pyrophosphate. Foscarnet là cơ sở liên hợp của một hợp chất hóa học có công thức HO2 CPO3 H2.
+Foscarnet đã được phê duyệt cho sử dụng y tế vào năm 1991.
+
+
+== Sử dụng y tế ==
+Đây axit phosphonic phái sinh (tiếp thị bởi Clinigen như foscarnet natri dưới tên thương mại Foscavir) là một loại thuốc kháng virus dùng để điều trị virus herpes, bao gồm thuốc kháng cytomegalovirus (CMV) và herpes simplex virus loại 1 và 2 (HSV-1 và HSV- 2). Nó đặc biệt được sử dụng để điều trị viêm võng mạc CMV. Foscarnet có thể được sử dụng để điều trị bệnh nhân nhiễm HIV có kinh nghiệm điều trị cao như là một phần của liệu pháp cứu cánh.
+
+
+== Cơ chế tác động ==
+Foscarnet là một mô phỏng cấu trúc của pyrophosphate anion  có tác dụng ức chế chọn lọc vị trí gắn kết pyrophosphate    trên các polymerase DNA của virus ở nồng độ không ảnh hưởng đến polymerase DNA của người.
+Ở những cá nhân được điều trị bằng thuốc ức chế DNA polymerase acyclovir hoặc ganciclovir, các hạt HSV hoặc CMV có thể phát triển protein kinase đột biến (thymidine kinase hoặc UL97 protein kinase), khiến chúng kháng với các loại thuốc chống vi rút này. Tuy nhiên, không giống như acyclovir và ganciclovir, foscarnet không được kích hoạt bởi kinase protein của virus, làm cho nó hữu ích trong nhiễm trùng HSV và CMV kháng acyclovir hoặc ganciclovir.
+Tuy nhiên, các đột biến kháng acyclovir- hoặc ganciclovir có thay đổi DNA polymerase của virus cũng có thể kháng với foscarnet.
+
+
+== Chỉ định ==
+Truyền tĩnh mạch hoặc tiêm tĩnh mạch.
+
+
+== Tác dụng phụ ==
+Độc tính trên thận -Tăng nồng độ creatinine huyết thanh xảy ra trên trung bình trong 45% bệnh nhân nhận foscarnet. Các thuốc gây độc thận khác nên tránh. Độc tính trên thận thường có thể đảo ngược và có thể giảm bằng cách điều chỉnh liều lượng và hydrat hóa đầy đủ.
+Rối loạn điện giải cơ thể Thay đổi calci, magnesi (Harisson 16th trang 2244) nồng độ kali và phosphat thường xảy ra và theo dõi thường xuyên các chất điện giải là cần thiết để tránh độc tính lâm sàng.
+Loét sinh dục ở trẻ em phổ biến hơn ở nam giới và thường xảy ra trong quá trình sử dụng foscarnet. Nó rất có thể là viêm da tiếp xúc do nồng độ foscarnet cao trong nước tiểu. Nó thường giải quyết nhanh chóng sau khi ngừng thuốc.
+CNS mỏ Paraesthesias, cáu kỉnh và ảo giác.
+
+
+== Tham khảo ==
+
+
+== Nguồn ==
+Giáo trình Y học Harrison lần thứ 16, trang 2244
+
+
+== Liên kết ngoài ==
+Foscavir kê đơn đầy đủ thông tin

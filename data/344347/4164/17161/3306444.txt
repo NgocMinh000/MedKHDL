@@ -1,0 +1,173 @@
+Virus Zika (ZIKV) là một virus RNA (arbovirus) thuộc chi Flavivirus, họ Flaviviridae, lây truyền chủ yếu qua vết cắn của muỗi Aedes bị nhiễm. Tên của virus lấy tên từ khu rừng Zika, gần hồ Victoria ở Uganda, nơi đầu tiên phân lập vào năm 1947. Virus Zika có liên quan đến bệnh sốt xuất huyết, sốt vàng da, viêm não Nhật Bản, và West Nile virus. 
+Virus Zika đã có mặt ở khu vực nhiệt đới của châu Á và châu Phi từ năm 1950. Đây là virus mới nổi, chịu trách nhiệm cho một số dịch bệnh: năm 2007 trên đảo Yap, liên bang Micronesia, sau đó lan về phía đông qua Thái Bình Dương đến Polynesia thuộc Pháp, tiếp đến đảo Phục Sinh; đến 2015 qua Trung Mỹ, vùng Caribbean, và Nam Mỹ, nơi sốt Zika đã đạt đến cấp đại dịch. Các trường hợp đầu tiên được phát hiện ở Brazil; quốc gia này đang bị ảnh hưởng nặng nhất với hơn 1.500.000 trường hợp (0,72% dân số Brazil).
+Virus Zika xác định qua phát hiện bộ gen bằng PCR. Đến nay bệnh do Zika gây nên chưa có thuốc điều trị đặc hiệu và chưa có vắc xin phòng bệnh vì vậy diệt vec tơ truyền bệnh với sự tham gia tích cực của cộng đồng là biện pháp hiệu quả nhất trong phòng chống bệnh.
+Đợt nhiễm virua zika được gọi là sốt Zika, thường không có hoặc chỉ có triệu chứng nhẹ, tương tự như dạng rất nhẹ của bệnh sốt xuất huyết. Zika có thể lây từ bà mẹ qua thai nhi. Điều này có thể dẫn đến tật đầu nhỏ ở trẻ sơ sinh và các biến chứng não nghiêm trọng khác. Người lớn có thể nhiễm Zika, hiếm khi dẫn đến hội chứng Guillain Barre - hội chứng tổn thương thần kinh có thể gây liệt.
+Vào tháng 1 năm 2016, Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) đã ban hành hướng dẫn du lịch các nước bị ảnh hưởng, bao gồm cả việc sử dụng các biện pháp phòng ngừa tăng cường, và hướng dẫn cho phụ nữ mang thai bao gồm xem xét hoãn các chuyến đi du lịch. Chính phủ một số nước và các cơ quan sức khỏe trên thế giới cũng đưa ra cảnh báo du lịch tương tự, trong khi Colombia, Cộng hòa Dominica, Ecuador, El Salvador, và Jamaica khuyên phụ nữ trì hoãn việc mang thai cho đến khi hơn được biết rõ về những nguy cơ.
+Vào ngày 1 tháng 2 năm 2016, Tổ chức Y tế Thế giới (WHO) ban bố tình trạng Khẩn cấp Y tế Công cộng Quốc tế về virus Zika, sau khi tham khảo ý kiến từ các chuyên gia hàng đầu về dịch tễ học, y tế công cộng và bệnh truyền nhiễm từ khắp thế giới tại một cuộc họp của Ủy ban khẩn cấp y tế quốc tế thuộc WHO. Virus Zika đã lây hơn 70 quốc gia và vùng lãnh thổ, trong đó có 57 quốc gia và vùng lãnh thổ tiếp tục có sự lây truyền của virus Zika do muỗi truyền, khiến nguy cơ xảy ra dịch là rất lớn. Tổ chức này cảnh báo dịch Zika có thể diễn biến tồi tệ hơn trước khi được kiểm soát và khuyến cáo người dân thực hiện các biện pháp chống muỗi và tránh bị muỗi đốt.
+
+
+== Virus học ==
+
+Virus Zika thuộc Flaviviridae và chi Flavivirus, và do đó có liên quan đến bệnh sốt xuất huyết, sốt vàng da, viêm não Nhật Bản và West Nile virus.
+Giống như flaviviruses khác, cấu trúc gen Zika gồm RNA sợi đơn dài 10.794bp với hai vùng không mã hóa là 5 'NCR và 3' NCR (non-coding regions). Với khung đọc mở: 5'-C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5-3', mã hóa cho một polyprotein và sau đó cắt thành capsid (C), màng tiền thân (prM), vỏ (E), và các protein không cấu trúc (NS). Các protein E tạo nên bề mặt hạt vi rút để tham gia vào quá trình sao chép bằng cách gắn lên trên thụ thể của các tế bào cảm thụ NS1, NS3, và NS5 là những protein kích thước lớn và có tính bảo tồn cao trong khi protein NS2A, NS2B, NS4A và NS4B là những protein nhỏ hơn và kỵ nước. Vùng 3 'NCR có 428 nucleotide có thể đóng vai trò dịch mã, đóng gói RNA, tạo vòng, ổn định hệ gen, và định danh. 3 'NCR tạo thành một cấu trúc vòng lặp và 5' NCR cho phép dịch mã thông qua một mũ nucleotide methyl hóa hoặc một protein gắn kết gen..
+Có hai dòng Zika: dòng châu Phi, và dòng châu Á. Nghiên cứu loài cho thấy virus lây lan ở châu Mỹ có liên quan chặt chẽ nhất đến dòng châu Á, trong đó có đợt bùng nỗ dịch tại Pháp. Trình tự bộ gen hoàn chỉnh của Zika đã được xuất bản. Ở Tây bán cầu Zika được tìm thấy là 89% giống với kiểu gen Phi, nhưng liên quan di truyền chặt chẽ nhất là ở Polynesia, Pháp năm 2013-2014.
+
+
+== Con đường truyền bệnh ==
+
+
+=== Muỗi Aedes ===
+
+Virus lây truyền cho người qua vec tơ trung gian là muỗi cái Aedes aegypti, dân gian gọi là muỗi vằn. Muỗi này rất thích đốt người, hút máu ban ngày cao điểm vào sáng sớm và chiều tối. Ngoài ra cũng có một số dòng muỗi cùng chi với Aedes aegypti Aedes như A. africanus, A. apicoargenteus, A. furcifer, A. hensilli, A. luteocephalus và A. vitattus cũng có thể lây truyền virus. Sau khi hút máu người hay động vật có chứa virus Zika, thời gian cần thiết để cho virus phát triển trong muỗi là khoảng 10 ngày, sau đó muỗi có khả năng truyền virus cho người hoặc động vật khác khi hút máu và có thể truyền bệnh suốt đời. Một cá thể muỗi nhiễm virus Zika có thể truyền virus cho các thế hệ muỗi con cháu. 
+Ổ chứa tự nhiên của virus Zika là các loài linh trưởng và một số loài gặm nhấm.
+
+
+==== Phân bố ====
+Sự phân bố muỗiAedes aegypti được đánh giá là rộng lớn nhất từng được ghi nhận, hầu như loài muỗi này đã có mặt ở hầu các châu lục, bao gồm Bắc Mỹ và các ngoại vi của châu Âu.
+Các hoạt động hương mại và du lịch làm tăng sự lây lan virus này.
+
+
+=== Con đường khác ===
+Ngoài lây truyền qua muỗi đốt là con đường chủ yếu, còn nhiều đường lây truyền khác có thể làm truyền virus Zika như lây truyền từ mẹ sang thai nhi, lây truyền qua quan hệ tình dục. RNA của virus Zika cũng đã được phát hiện trong máu, nước tiểu, tinh dịch, dịch não tủy, nước ối và sữa của các bệnh nhân nhiễm virus Zika.
+
+
+==== Lây truyền qua con đường tình dục ====
+Zika có thể được truyền từ một người đàn ông cho các đối tác tình dục của họ. Tính đến tháng 4 năm 2016 phương thức lây truyền này đã ghi nhận ở sáu quốc gia - Argentina, Chile, Pháp, Ý, New Zealand và Hoa Kỳ - trong đợt dịch năm 2015.
+Năm 2009, Brian Foy, một nhà sinh học tại Đại học bang Colorado đã truyền vi rút Zika sang vợ của ông qua đường tình dục. Ông trước đó đã đến thăm Senegal để nghiên cứu về muỗi, và đã bị muỗi cắn vài lần. Một vài ngày sau khi trở về Mỹ, ông cảm thấy bị bệnh, được xác định rằng đó là một căn bệnh gây ra bởi virus Zika, sau khi có quan hệ tình dục không an toàn với người vợ của mình. Sau đó, bà ta đã phát triển các triệu chứng của bệnh Zika như nhạy cảm quá mức với ánh sáng. Foy là người đầu tiên mà được biết tới đã truyền vi rút Zika từ muỗi qua đường tình dục sang một người khác.
+Một người đàn ông tại Texas (Mỹ) được phát hiện nhiễm virus Zika do quan hệ với bệnh nhân vừa trở về từ vùng dịch ở Venezuela. Thông tin được Trung tâm Kiểm soát và Phòng tránh Dịch bệnh Mỹ (CDC) xác nhận ngày 2/2. Đây là trường hợp lây nhiễm qua đường tình dục đầu tiên được xác định tại Mỹ.
+Tổ chức Y tế thế giới (WHO) ngày 3/2 đã bày tỏ sự quan ngại về báo cáo xác nhận ca virus Zika lây truyền qua đường tình dục tại Mỹ và kêu gọi tiến hành điều tra thêm đối với loại virus gây teo não ở trẻ này.
+Các nhà khoa học đưa ra cảnh báo rằng Zika có thể tồn tại trong tinh trùng của người đàn ông, tuy nhiên người ta vẫn chưa biết nó sẽ sống được bao lâu và khi nào nó sẽ bị lây nhiễm khi quan hệ tình dục. Trong khi chờ đợi, CDC khuyên những người đàn ông trở về từ các vùng có Zika hãy tạm ngưng quan hệ tình dục hoặc sử dụng bao cao su trong một thời gian (chưa xác định).
+
+
+==== Mang thai ====
+Virus Zika có thể lây từ mẹ sang thai nhi trong quá trình mang thai hoặc khi sinh.
+Nhiễm virus Zika gần hạn khả năng có thể được truyền đi trong cả thai kỳ và lúc sinh con, mặc dù đến nay cho điều vẫn chưa được chứng minh một cách khoa học. Phụ nữ mang thai nói chung, bao gồm cả những người có triệu chứng nhiễm virus Zika, có nghi ngờ nên đến các cơ sở y tế để giám sát chặt chẽ thai kỳ.
+Virus Zika đã được phát hiện trong sữa mẹ nhưng hiện nay chưa có bằng chứng cho thấy virus lây truyền sang con qua sữa mẹ. WHO khuyến cáo bú mẹ hoàn toàn trong 6 tháng đầu đời.
+Hầu hết phụ nữ trong khu vực bị ảnh hưởng Zika sẽ sinh ra những trẻ bình thường. Siêu âm đầu không đáng tin cậy dự đoán dị tật thai nhi. WHO khuyến cáo nên siêu âm lặp lại vào cuối tam cá nguyệt thứ ba thứ hai hoặc đầu (tốt nhất là giữa tuần 28 và 30) để xác định đầu nhỏ của thai nhi và/ hoặc các bất thường khác của não khi lúc này dễ phát hiện.
+Bà mẹ có thể yêu cầu phá thai an toàn phù hợp với kỹ thuật, chính sách hướng dẫn cho hệ thống y tế và khía cạnh pháp lý.
+
+
+==== Lây truyền qua đường máu ====
+Ngày 4/2, Brazil đã xác nhận 2 trường hợp nhiễm virus Zika qua đường máu.
+
+
+==== Lây truyền qua chất dịch (chưa được chứng minh đầy đủ) ====
+Ngày 5/2, các nhà khoa học tại một viện y tế công cộng của Brazil thông báo đã tìm thấy virus Zika trong nước bọt và nước tiểu của hai bệnh nhân được xác định là nhiễm loại virus nguy hiểm này. Đây là lần đầu tiên,virus gây teo não Zika được phát hiện trong chất dịch. Gia tăng mối lo ngại loại virus này có thể lây truyền qua nhiều con đường khác nhau. Tuy nhiên, theo các nhà khoa học, vẫn cần phải nghiên cứu thêm để xác định liệu virus Zika có truyền được qua các chất dịch hay không.
+
+
+== Sốt Zika ==
+
+
+=== Dấu hiệu và triệu chứng ===
+Thời kỳ ủ bệnh (thời gian từ khi tiếp xúc với các triệu chứng) của bệnh virus Zika vẫn chưa rõ, nhưng có khả năng là vài ngày. Chẩn đoán phân biệt sốt zika bao gồm Sốt xuất huyết Dengue, Chikungunya, Parvovirus, Rubella, Enterovirus, Adenovirus, Alphaviruses, Sởi; nhiễm vi khuẩn và ký sinh trùng như Leptospirosis, Rickettsia, nhiễm liên cầu tan huyết nhóm A, Sốt rét. Với các dấu hiệu bệnh lý như khởi phát sốt nhẹ (37,8-38,5 °C), phản ứng viêm, phản ứng dị ứng có ban dát sẩn trên da, viêm kết mạc, viêm khớp (đặc biệt là các khớp nhỏ ở bàn tay và bàn chân) hay gout. Những triệu chứng này thường nhẹ và kéo dài từ 2 đến 7 ngày.
+Sốt zika bắt đầu với một cơn đau đầu nhẹ và tiến triển thành phát ban dạng sẩn với sốt và đau lưng. Sau hai ngày, phát ban bắt đầu giảm. Đến ngày thứ ba, cơn sốt giảm xuống chỉ còn phát ban. Sốt Zika là một bệnh tương đối nhẹ, chỉ một trong 5 người có các triệu chứng điển hình không gây tử vong, nhưng tác nhân thực sự để gây bệnh của virus này thì chưa rõ.
+
+
+=== Chẩn đoán ===
+Việc chẩn đoán cần dựa vào biểu hiện lâm sàng cũng như yếu tố dịch tễ gợi ý. Virus này có thể được phát hiện bởi test phản ứng nhanh Elisa, qua sự hiện diện của kháng thể immunoglobulin M(IgM) chống lại virus Zika trong huyết thanh. IgM có thể phát hiện từ 3 ngày sau triệu chứng khởi phát đầu tiên, tuy nhiên có thể sai sót khi xuất hiện phản ứng chéo với các virus khác trong nhóm flavivirus như Dengue. Các xét nghiệm chẩn đoán nhanh chóng tìm kháng thể chống lại virus dengue có thể xảy ra trường hợp dương tính giả trong một cơn sốt Zika, đặc biệt là nếu bệnh nhân đã bị nhiễm flavivirus trước đây có thể dẫn đến việc chẩn đoán sai. Trường hợp đầu tiên là ở Quần đảo Yap, ba bệnh nhân sốt Zika được thực hiện một chẩn đoán nhanh bệnh sốt xuất huyết tích cực. Các xét nghiệm trung hòa huyết thanh bằng cách giảm mảng bám có tính đặc hiệu cao hơn so với phương pháp ELISA, nhưng không loại trừ nguy cơ phản ứng chéo.
+Việc chẩn đoán xác định dựa trên các phát hiện của virus bằng RT-PCR hoặc phân lập virus trong tế bào nuôi cấy. Các tìm kiếm có thể được thực hiện bằng PCR trên các mẫu máu thu được trong giai đoạn virus trong máu nhiễm trong vòng tối đa 10 ngày sau khi khởi phát triệu chứng, nhưng một nghiên cứu gần đây(tháng 1 năm 2016), dựa trên 1.067 mẫu được thực hiện với 855 bệnh nhân trong 6 tháng cho thấy RNA Zika được phát hiện tốt hơn bằng PCR trong nước bọt và trong máu (không phụ thuộc vào giai đoạn của bệnh), trong nghiên cứu này cho thấy nước bọt tăng tỷ lệ phát hiện tổng thể phát hiện virus Zika và rằng phương pháp này có lợi ích bổ sung cho lấy mẫu máu đang còn gặp khó khăn. Mẫu nước bọt cũng thường xuyên được sử dụng để chẩn đoán sốt Zika ở vụ dịch tại Polynesia Pháp.
+Ngày 2/2, các nhà khoa học tại Đức cho biết đã phát triển thành công một phương pháp xét nghiệm nhanh virus Zika.Theo đó, phương pháp xét nghiệm nhanh DNA để phát hiện xem bệnh nhân có bị nhiễm virus Zika hay không đã được phát triển thành công. Sau khi lấy máu xét nghiệm, phương pháp này sẽ cho kết quả chính xác chỉ trong 2 - 3 giờ.
+
+
+=== Biến chứng ===
+Tổ chức Y tế Thế giới (WHO) công bố virus Zika là nguyên nhân của hai hội chứng rối loạn thần kinh. Đó là gây teo não ở trẻ sơ sinh và hội chứng làm tê liệt hệ thần kinh ở người lớn (thường gọi là Hội chứng tự miễn dịch Guillain-Barré). 
+
+
+==== Dị tật đầu nhỏ ====
+
+Virus Zika gây ảnh hưởng đến trẻ sơ sinh, làm đầu trẻ không được phát triển bình thường, gọi là tật đầu nhỏ.
+Tật đầu nhỏ được định nghĩa là sự thoái hóa hay dị dạng não ở trẻ sơ sinh với kích thước đầu nhỏ hơn bình thường và đôi khi dẫn đến tử vong.
+Tổ chức Y tế Thế giới (WHO) cho biết có 20 quốc gia và vùng lãnh thổ trong khu vực châu Mỹ Latin bị ảnh hưởng bởi virus Zika, trong đó có Barbados, Bolivia, Guadeloupe, Guatemala, Puerto Rico và Panama, dự đoán khoảng ba đến bốn triệu người sẽ bị nhiễm virus Zika ở khu vực châu Mỹ nói chung trong năm 2016.
+Các dữ liệu cho thấy ở bào thai của người phụ nữ bị nhiễm virus trong ba tháng đầu của thai kỳ có nguy cơ cao tật đầu nhỏ.Chính vì điều này mà chính phủ nhiều nước như El Salvador, Colombia và Ecuador khuyên phụ nữ không nên mang thai và sinh con trong giai đoạn virus Zika đang hoành hành, thay vào đó chỉ nghĩ đến việc sinh con sau năm 2018.
+Brazil là quốc gia bị ảnh hưởng nặng nề nhất bởi virus Zika, có gần 4.000 ca bị bệnh đầu nhỏ, với 49 ca tử vong. Chính quyền nước này khuyên phụ nữ không sinh con khi dịch Zika chưa được ngăn chặn.
+
+Ngày 15/2 một nhóm bác sĩ Argentina cho rằng nguyên nhân gây chứng teo não không phải virút Zika mà do hóa chất diệt ấu trùng muỗi có trong nguồn nước sinh hoạt tại Brazil. Loại hóa chất này có tên Pyriproxyfen này đã được sử dụng trong chương trình diệt muỗi quy mô lớn do chính phủ Brazil triển khai.
+
+Tuy nhiên, sau đó vài ngày, các quan chức y tế Brazil và WHO bác bỏ nhận định trên, rằng không có bằng chứng thuốc diệt muỗi chứa Pyriproxygen gây ra đợt bùng phát dị tật đầu nhỏ và vẫn nghiêng về giả thuyết thủ phạm là virus Zika. 
+
+
+==== Hội chứng làm tê liệt hệ thần kinh ở người lớn ====
+Theo các chuyên gia của WHO, hội chứng Guillain-Barré là một bệnh lý hiếm gặp khi hệ thống miễn dịch của cơ thể tấn công một phần hệ thần kinh ngoại biên. Những triệu chứng đầu tiên của chứng rối loạn này bao gồm nhiều cấp độ của những cảm giác suy yếu hoặc tê buốt ở chân tay và phần trên cơ thể. Những triệu chứng này gia tăng cho đến khi các cơ không còn sử dụng được nữa và người bệnh gần như liệt hoàn toàn. Mặc dù có bệnh nhân hồi phục được song phần lớn vẫn tiếp tục cảm nhận mức độ suy yếu. Hiện tại trong giới y học đang áp dụng phương pháp tăng glôbulin miễn dịch liều cao để điều trị.
+Ngoài các hội chứng trên, một số nhà nghiên cứu cũng đã báo cáo trường hợp các bệnh nhân nhiễm virus Zika có triệu chứng phát triển viêm não và viêm tủy. Khi các tế bào thần kinh bị tổn thương, có thể dẫn đến rối loạn thần kinh.
+
+
+=== Điều trị ===
+
+Hiện chưa có vắc-xin bảo vệ đặc hiệu. Điều trị chủ yếu là điều trị triệu chứng. 
+
+
+==== Điều trị triệu chứng ====
+Người bệnh nên nghỉ ngơi, bù dịch bằng cách uống nhiều nước để chống mất nước. Dùng các thuốc hạ sốt,giảm đau như paracetamol, acetaminophen. Không dùng aspirin và các thuốc chống viêm không steroid khác (NSAID) như ibuprofen và naproxen cho đến khi loại trừ được sốt xuất huyết Dengue. Nếu đang dùng các loại thuốc cho những bệnh khác, nên hỏi ý kiến bác sĩ trước khi cho dùng thêm thuốc bổ sung. Nếu đang bị nhiễm virus Zika, cần ngăn ngừa muỗi đốt trong tuần đầu tiên của bệnh. Trong tuần đầu tiên virus Zika có thể được tìm thấy trong máu và truyền từ người bị nhiễm bệnh qua muỗi làm lây lan virus cho người khác.
+
+
+==== Theo dõi ====
+Theo dõi các biểu hiện yếu, liệt cơ sau khi bị bệnh để phát hiện, xử trí sớm hội chứng Gulain Barre nếu có. Theo dõi phụ nữ có thai và trẻ sơ sinh bị nhiễm virus Zika. Phụ nữ có thai nghi ngờ hoặc xác định bị nhiễm virus Zika cần được theo dõi siêu âm thai mỗi 3-4 tuần một lần để phát hiện sớm tình trạng đầu nhỏ hoặc vôi hóa não ở thai nhi. Phụ nữ có thai trên 15 tuần bị nhiễm virus Zika có thể chỉ định chọc ối làm xét nghiệm RT-PCR hoặc lấy máu dây rốn trong vòng 2 ngày sau cuộc đẻ để xét nghiệm huyết thanh nếu người mẹ đang trong thời gian bị bệnh, hoặc lấy máu dây rốn xét nghiệm huyết thanh có thể hồi cứu tình trạng nhiễm virus Zika bẩm sinh của thai nhi. Trẻ bị dị tật đầu nhỏ hoặc có tiền sử mẹ nhiễm virus Zika khi mang thai cần được theo dõi sự phát triển về tinh thần- vận động, đánh giá thị lực và điều trị các rối loạn như co giật, động kinh.
+
+
+== Dự phòng ==
+
+Hiện chưa có thuốc để chống lại virus Zika. Việc điều trị chủ yếu dựa trên điều trị các triệu chứng. Thuốc paracetamol có thể được sử dụng để làm giảm cơn đau và sốt. Nên tránh việc sử dụng ibuprofen, aspirin, vì có khả năng gây ra hội chứng xuất huyết, phổ biến ở flaviviroses. Nếu phát ban có triệu chứng ngứa có thể dùng diphenhydramine
+Các test chẩn đoán nhanh chỉ để phát hiện ra có sự hiện diện virus này hay không. Trong trường hợp không có vắc xin, việc phòng chống lây nhiễm chủ yếu thông qua kiểm soát các vector truyền bệnh..
+
+
+=== Diệt vectơ truyền bệnh ===
+Muỗi và nơi sinh sản của chúng là một yếu tố nguy cơ quan trọng đối với nhiễm virus Zika. Phòng ngừa và kiểm soát dựa trên việc giảm muỗi. Tại vùng có dịch cần triển khai các biện pháp diệt muỗi, lăng quăng, bọ gậy như: vệ sinh môi trường, loại bỏ các vật dụng đọng nước như các mảnh vỡ chai lọ, lốp xe, vỏ lon, vũng nước đọng... Đậy kín các chum, vại, bể chứa nước. Thả cá để diệt loăng quăng, diệt muỗi bằng bẫy, vợt. Mọi cá nhân trong vùng dịch nên áp dụng các biện pháp hạn chế muỗi đốt như: Mặc quần áo kín, sáng màu, dùng các thuốc xua đuổi côn trùng, nằm màn. Những nguyên tắc này cũng áp dụng đối với những người đã bị nhiễm bệnh nhằm tránh nguy cơ lây nhiễm cho người khác. Chất chống côn trùng nên chứa DEET (N, N-diethyl-3-methylbenzamide), IR3535 (3- [N-acetyl-N-butyl] axit -aminopropionic ethyl ester) hoặc icaridin (1-piperidinecarboxylic acid, 2- (2-hydroxyethyl) -1-methylpropylester). Hướng dẫn trên nhãn sản phẩm phải được thực hiện nghiêm túc. Đặc biệt chú ý và giúp đỡ nên được trao cho những người có thể không có khả năng tự bảo vệ mình đầy đủ, chẳng hạn như trẻ em, người ốm hoặc người già. Trong thời gian bùng phát, cơ quan y tế có thể tư vấn để phun thuốc. Thuốc được đề nghị bởi Đề án đánh giá thuốc diệt muỗi WHO cũng có thể được sử dụng như larvicides để điều trị chứa nước tương đối lớn. Khuyến cáo người dân không nên đi du lịch đến các vùng đang có dịch bệnh để tránh lây lan bệnh · . Tại Pháp, ngày 28 tháng 1 năm 2016, Marisol Touraine, Bộ trưởng Bộ Y tế Pháp Marisol Touraine nhấn mạnh phụ nữ mang thai nên hoãn các kế hoạch chuyến đi đến Caribbean và French Guiana.
+
+
+=== Phòng lây qua tình dục ===
+Tất cả những người đã bị nhiễm virus Zika và bạn tình của họ nên thực hành tình dục an toàn, bằng cách sử dụng bao cao su đúng cách và nhất quán. Các đối tác tình dục phụ nữ mang thai sống trong hoặc trở về từ những nơi truyền dẫn nội hạt của virus Zika xảy ra nên thực hành tình dục an toàn, mang bao cao su, hoặc kiêng trong suốt thai kỳ. Người dân sống trong khu vực có lây truyền của virus Zika xảy ra nên thực hành tình dục an toàn hay tránh hoạt động tình dục. Ngoài ra, những người trở về từ các khu vực dịch xảy ra nên áp dụng thực hành tình dục an toàn hơn hoặc xem xét kiêng ít nhất 4 tuần sau khi họ trở về để làm giảm nguy cơ lây truyền trở đi.
+
+
+=== Phòng qua thai nhi ===
+Sử dụng bao cao su khi quan hệ tình dục với người bị nhiễm virus Zika. 
+Mặc dù đã phát hiện RNA của virus Zika trong sữa nhưng chưa có bằng chứng lây truyền virus Zika qua bú mẹ nên chưa có khuyến cáo kiêng cho con bú trong khi mẹ nghi ngờ hoặc xác định bị nhiễm virus Zika.
+
+
+=== Phát triển vắc-xin ===
+Hiện nay, có nhiều loại vắc-xin hiệu quả để chống lại các Flavivirus. Ví dụ, vắc xin sốt vàng và viêm não Nhật Bản đã được giới thiệu vào năm 1930, trong khi vắc-xin sốt xuất huyết chỉ mới gần đây.. Việc hướng tới sự phát triển một loại vắc xin chủng ngừa vi rút Zika đã được bắt đầu. Và thời gian cần thiết để phát triển một loại vắc xin có hiệu quả, kiểm định để đưa vào sản xuất là quá trình lâu dài và phức tạp. Người ta ước tính có thể mất ít nhất 10-12 năm để có một loại vắc xin hiệu quả đưa vào sử dụng chống lại virus Zika.
+Ngày 2/2 Hãng dược phẩm Sanofi (Pháp) thông báo đã bắt đầu dự án phát triển một loại vaccine phòng virus Zika.
+Bharat Biotech, một công ty dược phẩm Ấn Độ tuyên bố họ đã phát triển một loại vắc xin cho virus Zika. Hiện tại, thời điểm hai loại vaccine này có mặt trên thị trường vẫn chưa được xác định rõ.
+
+
+=== Phương pháp khác ===
+Tuy vậy, trong thời gian chờ đợi vắc xin, các nhà khoa học đề xuất ý tưởng dùng muỗi đột biến gen để ngăn ngừa virus Zika lây lan. Các thí nghiệm của Oxitec được tiến hành tại nhiều địa điểm khác nhau của châu Mỹ La tinh và châu Á. Kết quả cho thấy muỗi đột biến gen làm quần thể muỗi tự nhiên giảm số lượng đến 90%. Mở ra một giải pháp mới cho việc giảm sự lây lan bệnh xuất xuất huyết và virus Zika trong khi các phương pháp chữa trị đang được nghiên cứu.
+
+
+== Dịch tễ ==
+
+
+=== Lịch sử ===
+Virus được phát hiện ra vào năm 1947 từ khỉ Macaca mulatta trong rừng Zika của Uganda và vào năm 1968 đã được phát hiện trên con người ở Nigeria. Từ năm 1951 đến tận năm 1981, bằng chứng nhiễm trên con người đã được báo cáo từ các nước châu Phi khác như là Cộng hòa Trung Phi, Ai Cập, Gabon, Sierra Leone, Tanzania, và Uganda, cũng như tại một số nước châu Á bao gồm Ấn Độ, Indonesia, Malaysia, Philippines, Thái Lan, và Việt Nam.
+Trong năm 2015, đã được phát hiện RNA của virus Zika trong ối của hai bào thai, chỉ ra rằng đã vượt qua nhau và có thể gây ra lây truyền dọc của các bệnh từ mẹ sang con. Ngày 20 tháng 1 năm 2016, các nhà khoa học từ tiểu bang Parana ở Brazil đã phát hiện ra vật liệu di truyền của virus Zika trong nhau thai của một người phụ nữ bị sảy thai nhi vì tật đầu nhỏ, họ khẳng định rằng virus này có khả năng truyền qua nhau thai
+.
+
+
+=== Dịch Zika ===
+
+Sau Brazil virus Zika lần lượt tấn công các quốc gia ở khu vực Nam Mỹ, các nước lân cận khu vực này và nhanh chóng lan sang Châu Á . Các quốc gia láng giềng của Việt Nam như Lào, Campuchia, Thái Lan , Trung Quốc, Hàn Quốc, Singapore,... lần lượt lên tiếng xác nhận về những trường hợp đầu tiên nhiễm virus Zika.
+Đến ngày 5/4/2016, Bộ Y tế Việt Nam chính thức xác nhận 2 ca dương tính với virus Zika tại Khánh Hòa và Thành phố Hồ Chí Minh. Ngay sau khi công bố thông tin trên, Bộ Y tế đã nâng mức cảnh báo với virus Zika trên toàn quốc.
+Ngày 29/8/2016, Y tế Singapore chính thức xác nhận có 1 trường hợp bị nhiễm Zika, và đặc biệt bệnh nhân này không đến bất kì quốc gia nhiễm Zika nào trong thời gian gần đây. Đến ngày 31/8/2016, số ca nhiễm đã tăng lên 82 ca.
+
+
+=== Phòng chống dịch Zika ===
+Ngày 2/2/2016, WHO ban bố Tình trạng Khẩn cấp Y tế Công cộng Quốc tế về virus Zika, được đặt trong cùng hạng mục với Ebola. Giám đốc Tổ chức Y tế Thế giới (WHO) gọi Zika gây bệnh đầu nhỏ là "sự kiện bất thường", đòi hỏi phản ứng phối hợp nhanh chóng của toàn nhân loại.
+Văn phòng Tây Thái bình dương của WHO ở Manila (Philippines) dự báo virus Zika sẽ xuất hiện tại Đông Nam Á vì khu vực này có nhiều muỗi vằn Aedes.
+Bộ Y tế các nước Đông Nam Á khuyến cáo tất cả khách du lịch, đặc biệt là những người đến từ Nam Mỹ và Trung Mỹ khi có triệu chứng sốt và mẩn đỏ phải báo cáo đến cơ sở y tế gần nhất.
+Tại Việt Nam, Bộ Y tế Việt Nam cùng với các cơ quan chức năng đang triển khai các hoạt động kiểm dịch y tế tại các cửa khẩu quốc tế; giám sát chặt chẽ các hành khách nhập cảnh, đặc biệt những người đi về từ những vùng đang có dịch để phát hiện sớm các trường hợp nghi ngờ mắc bệnh, cách ly, xử lý kịp thời; tăng cường công tác phòng chống dịch bệnh do virus Zika đáp ứng các hoạt động khi dịch bệnh đang xâm nhập.
+
+
+== Thế vận hội 2016 ==
+Hơn 150 chuyên gia y tế trong một bức thư ngỏ đề nghị di dời thời gian hoặc không gian của Thế vận hội tại Rio vì dịch Zika. Trong một bài viết được công bố ngày 27/5 viết cho Tổ chức Y tế Thế giới (WHO) ở Geneva, các chuyên gia cảnh báo về nguy cơ sức khỏe toàn cầu. Nửa triệu người đi xem các trận đấu thế vận hội có thể bị nhiễm ở Rio de Janeiro và mang bệnh này về quốc gia của họ. 151 người ký là chuyên gia của các đại học và các trung tâm y tế ở 29 nước, bài viết được soạn thảo bởi Amir Attaran của đại học Ottawa, Arthur Caplan và Lee Igel của đại học New York và Christopher Gaffney của đại học Zürich. Nhưng, Ủy ban Olympic Quốc tế bác bỏ bức thư này vì cho rằng, thời gian tổ chức Thế vận hội Mùa hè 2016 ở Brasil là mùa đông nên tỉ lệ bị nhiễm Zika tại đây khá thấp, thậm chí là 0%.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+“Zika Virus”. Division of Vector-Borne Diseases (DVBD), National Center for Emerging and Zoonotic Infectious Diseases (NCEZID). Centers for Disease Control and Prevention. ngày 19 tháng 1 năm 2016.
+“Zika virus”. NCBI Taxonomy Browser. 64320.
+Medical Microbiology. 4th edition. Chapter 54. Alphaviruses (Togaviridae) and Flaviviruses (Flaviviridae)
+Flaviviridae Genomes Lưu trữ 2015-12-08 tại Wayback Machine database search results from the Viral Bioinformatics Resource Center
+Viralzone: Flaviviridae
+Virus Pathogen Database and Analysis Resource (ViPR): Flaviviridae Lưu trữ 2019-09-19 tại Wayback Machine

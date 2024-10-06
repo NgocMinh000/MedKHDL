@@ -1,0 +1,98 @@
+Hội chứng rối loạn chức năng đa cơ quan (Multiple Organ Dysfunction Syndrome: MODS) là kết cục không mong muốn của quá trình hồi sức chống sốc không thành công. Chỉ có những bệnh nhân không tử vong nhanh chóng do nhiễm trùng hoặc xuất huyết mới sống một thời gian đủ dài để biểu hiện các dấu hiệu của MODS.
+Hội chứng rối loạn chức năng đa cơ quan được định nghĩa là thay đổi chức năng cơ quan trong bối cảnh nhiễm trùng huyết, sốc nhiễm trùng huyết hoặc hội chứng đáp ứng viêm hệ thống. Các cơ quan tổn thương thường gặp là hô hấp, tim mạch, thận, gan, dạ dày ruột, huyết học, nội tiết và hệ thần kinh trung ương.
+Vào đầu những năm 1990, các thuật ngữ thường được dùng để mô tả nhiễm trùng huyết và rối loạn chức năng cơ quan theo cách hiểu cũ đã không còn phù hợp nữa. Một hội nghị đồng thuận được tổ chức tại Hoa Kỳ để thống nhất đưa ra các thuật ngữ mới phù hợp hơn. Hội chứng lâm sàng trước đây thường gọi là nhiễm trùng huyết được thay thế bằng hội chứng đáp ứng viêm hệ thống (systemic inflammatory response syndrome: SIRS) và thuật ngữ nhiễm trùng huyết (sepsis) mới chỉ dùng khi nguyên nhân của hội chứng đáp ứng viêm hệ thống được cho là do nhiễm trùng. Thuật ngữ hội chứng rối loạn chức năng đa cơ quan được sử dụng thay cho thuật ngữ suy đa cơ quan (Multiple Organ Failure: MOF) vì nó nhấn mạnh đến cả tiến trình rối loạn chức năng cơ quan chứ không chỉ nói đến hậu quả cuối cùng của quá trình này là suy cơ quan.
+
+
+== Sinh lý bệnh ==
+Trong quá trình tiến hóa, cơ thể được "thiết kế" rất hoàn hảo để tránh những thay đổi đột ngột nguy hiểm. Các hệ thống phòng vệ của cơ thể bao gồm đại thực bào và các sản phẩm của chúng như TNF, IL-1, IL-6; bạch cầu trung tính và các sản phẩm của quá trình phóng hạt; tiểu cầu và các yếu tố đông máu trên bề mặt chúng; các dẫn xuất của arachidonic acid; các tế bào lympho T và B cùng với các sản phẩm của chúng và nhiều chất khác nữa. Các tác nhân này tạo nên một mạng lưới tương tác cực kỳ phức tạp và thường chồng chéo lên nhau.
+Thuyết do nhiễm trùng không kiểm soát được
+Đầu tiên, nguyên nhân của MODS được cho là do nhiễm trùng không kiểm soát được. Điều trị nhiễm trùng huyết hay sốc nhiễm trùng huyết thường dựa vào việc dùng kháng sinh và mục đích điều trị là kiểm soát nhiễm trùng. Tuy nhiên nếu xem nhiễm trùng là nguyên nhân duy nhất của MODS thì không giải thích được vì sao hội chứng này cũng xảy ra ở các bệnh nhân viêm tụy cấp, bỏng rộng, đại phẫu, tổn thương thiếu máu cục bộ/tái tưới máu và chấn thương. Hơn nữa, nếu xem MODS là do nhiễm trùng không kiểm soát được thì cũng không thể giải thích thỏa đáng vì sao rất nhiều bệnh nhân bị MODS mà kết quả cấy máu âm tính. Do đó bệnh nguyên, bệnh sinh cũng như điều trị MODS đã được xem xét lại.
+Thuyết do viêm quá mức
+Viêm gần đây được xem là một giải thích hợp lý cho quá trình hình thành và phát triển MODS. Viêm là hiện tượng hoạt hóa các tế bào lưu thông trong máu (bạch cầu), tế bào nội mô, gan và một mạng lưới vô số các chất trung gian. Nói chung, sau một tác động có hại sẽ xuất hiện một đáp ứng ban đầu được điều hòa bởi gan, bạch cầu trung tính, đại thực bào và tế bào nội mô. Các protein viêm như CRP là những tác nhân có chức năng tạo opsonin với các protein và acid nucleic giáng hóa có nguồn gốc từ các tế bào bị tổn thương và những chất này có thể chuyển hóa thành các chất có độc tính cao hơn. Đáp ứng của đại thực bào bao gồm giải phóng một loạt các chất trung gian gây viêm (như TNF, IL-1, IL-6). Những chất này lại điều hòa tăng cường lên các thụ thể của bạch cầu trung tính (như L-selectin) và tế bào nội mô (P-selectin, E-selectin, ICAM-1 và VCAM-1) và kích hoạt quá trình di chuyển vào tổ chức. Các phân tử bám dính có thể coi là những tác nhân hỗ trợ cho sự giữ tế bào bạch cầu trung tính vì các tế bào này có thể tạm thời bị giữ trong các giường mao mạch chỉ đơn thuần thông qua các chế cơ học này. Cùng với hiện tượng di chuyển vào tổ chức, các phân tử thực hiện khác (như các gốc tự do oxy hóa, các endopeptidase) được giải phóng gây nên tổn thương cơ quan và càng huy động nhiều hơn nữa các bạch cầu trung tính đến chỗ tổn thương.
+Thuyết mất cân bằng miễn dịch
+Một quan niệm mới gần đây được đưa ra: trong nhiễm trùng huyết, không chỉ có hiện tượng tăng viêm mà còn có hiện tượng kháng viêm. Đôi khi hiện tượng kháng viêm này còn mạnh hơn cả tình trạng tăng viêm. Mất cân bằng giữa đáp ứng gây viêm và đáp ứng kháng viêm có thể gây nên (1)hoặc phản ứng viêm xảy ra mãnh liệt (2)hoặc phản ứng viêm rất yếu và thay vào đó là một tình trạng ức chế miễn dịch. Cả hai cực này đều có thể đưa đến MODS và tử vong.
+
+
+== Các giai đoạn đáp ứng miễn dịch trong MODS ==
+Có thể tạm chia quá trình diễn biến từ những kích tác ban đầu đến khi MODS hình thành ra năm giai đoạn với mục đích đơn giản hóa việc tìm hiểu cơ chế bệnh sinh phức tạp này.
+Giai đoạn 1: Đáp ứng cục bộ
+Cả hội chứng đáp ứng viêm hệ thống lẫn hội chứng rối loạn chứng năng đa cơ quan đều xuất hiện do ít nhất một kích tác nào đó như một ổ nhiễm trùng; tổn thương do chấn thương (kể cả do phẫu thuật); bỏng nặng hoặc viêm tụy cấp.
+Những tác nhân này tạo ra một loạt các đáp ứng nhằm hạn chế những tổn thương mới và cải thiện tình trạng những tổn thương cũ. Chúng giáng hóa tổ chức hư hỏng, tăng cường phát triển tổ chức mới và chống lại các vi sinh vật gây bệnh cũng như các tế bào ung thư và các kháng nguyên lạ khác.
+Giai đoạn 2: Khởi đầu đáp ứng hệ thống
+Nếu những tác động ban đầu đủ mạnh thì các chất trung gian gây viêm và sau đó là kháng viêm sẽ xuất hiện trong tuần hoàn.
+Các chất trung gian viêm này sẽ huy động bạch cầu đa nhân, tế bào lympho, tiểu cầu và các yếu tố đông máu đến chỗ tổn thương. Cuối cùng chúng có thể kích thích các đáp ứng kháng viêm bù trừ để điều hòa ức chế phản ứng gây viêm ban đầu. Nếu tất cả các quá trình này diễn ra suôn sẻ thì rất ít có hoặc không có triệu chứng lâm sàng nào đáng kể biểu hiện và rối loạn chức năng cơ quan rất hiếm khi xảy ra.
+Giai đoạn 3: Đáp ứng viêm hệ thống rầm rộ
+Ở một số bệnh nhân cơ chế điều hòa đáp ứng viêm bị mất và do đó một phản ứng viêm rầm rộ có điều kiện phát triển. Trong hầu hết trường hợp thì đáp ứng này ban đầu là tăng viêm và gây nên các dấu hiệu lâm sàng của SIRS bao gồm hạ huyết áp, thay đổi thân nhiệt và tần số tim nhanh. Các dấu hiệu này là do nhiều thay đổi sinh lý bệnh khác nhau gây nên.
+Rối loạn chức năng tế bào nội mô xuất hiện đưa đến tăng tính thấm thành mạch và xuất tiết dịch vào bên trong các cơ quan. Các nút tiểu cầu làm bít tắt vi tuần hoàn gây nên rối loạn phân bố máu và thiếu máu cục bộ. Tình trạng này sau đó lại có thể gây nên các tổn thương tái tưới máu và hình thành protein sốc nhiệt (heat shock protein). Hệ thống đông máu cũng được kích hoạt và con đường ức chế protein S-protein C bị suy yếu. Rối loạn các cơ chế điều hòa mạch và co mạch gây nên giãn mạch trầm trọng càng làm xấu hơn hiện tượng xuất tiết và rối loạn phân bố lưu lượng máu. Thông thường, kết quả cuối cùng của các quá trình sinh lý bệnh trên đây là sốc sâu. Sốc càng làm xấu hơn nữa lưu lượng máu đi các cơ quan có chức năng sinh tử. Nếu hằng định nội môi không được tái lập thì cơ quan sẽ rối loạn chức năng và cuối cùng là suy cơ quan.
+Giai đoạn 4: Ức chế miễn dịch quá mức
+Nhiều bệnh nhân có tình trạng viêm kéo dài hoặc quá mức có thể chết nhanh chóng do sốc. Ở những người sống sót, cơ chế kháng viêm có thể có khả năng kiểm soát được tình trạng viêm. Tuy nhiên ở một số bệnh nhân phản ứng bù trừ này có thể quá mức cần thiết đưa đến tình trạng ức chế miễn dịch. Hội chứng này giải thích vì sao những bệnh nhân bị bỏng, xuất huyết hay chấn thương có khuynh hướng dễ nhiễm trùng.
+Giai đoạn 5: Bất hòa miễn dịch
+Giai đoạn cuối của MODS xảy ra khi bệnh nhân đạt đến tình trạng gọi là rối loạn điều hòa miễn dịch nghĩa là một đáp ứng sinh lý bệnh vượt ra ngoài sự cân bằng và không phù hợp đối với nhu cầu sinh vật của bệnh nhân. Tình trạng này có thể biểu hiện dưới một số hình thức khác nhau. Ở rất nhiều bệnh nhân, tình trạng này là hiện tượng viêm mạnh mẽ và dai dẳng. Tuy nhiên ở một số bệnh nhân khác, rối loạn điều hòa miễn dịch này xảy ra dưới hình thức ức chế miễn dịch và tử vong cũng rất cao.
+Một số bệnh nhân khác có thể có hiện tượng dao động giữa các thời kỳ tăng viêm và ức chế miễn dịch (ví dụ: các bệnh nhân bị bội nhiễm vi khuẩn sau một giai đoạn ức chế miễn dịch ngắn có thể có đáp ứng gây viêm, đáp ứng gây viêm này lại có thể kích thích một phản ứng ức chế miễn dịch khác nữa và quá trình này cứ tiếp diễn như vậy).
+
+
+== Tổn thương các cơ quan ==
+Tất cả các cơ quan trong cơ thể đều có nguy cơ bị tổn thương bởi các tác nhân có khả năng gây SIRS và MODS. Tuy nhiên não và thận là những cơ quan sinh tử bình thường được bảo vệ không bị tác động của dao động của huyết áp nhờ vào cơ chế tự điều hòa. Các cơ quan tổn thương thường gặp là hô hấp, tim mạch, thận, tiêu hóa (gan, dạ dày ruột), huyết học, nội tiết và hệ thần kinh trung ương.
+Hô hấp
+Phổi thường là cơ quan đầu tiên xuất hiện rối loạn chức năng trong MODS với biểu hiện nặng nề nhất là hội chứng nguy ngập hô hấp cấp (ARDS).
+Sự phá hủy màng mao mạch và các cấu trúc trong tổ chức kẽ do tổn thương nội mô và rối loạn tính thấm tiến triển cùng với sự mất không hồi phục được diện tích trao đổi khí. Ngược lại, sự mất khoảng phế bào do ứ dịch quá nhiều cũng như sự ngập dịch trên nguyên tắc thường có thể hồi phục được.
+Bất tương hợp thông khí/tưới máu xảy ra đầu tiên do tăng khoảng chết (do hạ huyết áp và thoát dịch), sau đó là do tạo shunt trong phổi (hậu quả của tổn thương phổi cấp).
+Tim mạch và vi tuần hoàn
+Cung cấp oxy cho cơ tim phụ thuộc vào huyết áp tâm trương, huyết áp này giảm trong tình trạng liệt mạch và mất thể tích dịch trong lòng mạch. Tình trạng này đưa đến thiếu máu cục bộ cơ tim. Trong nhiễm trùng huyết có tình trạng giãn phục hồi cả hai tâm thất, giảm phân suất tống máu và giảm đáp ứng với hồi sức dịch cũng như kích thích bằng catecholamine. Một chất ức chế cơ tim lưu hành trong máu chịu trách nhiệm cho hiện tượng này. Cơ chế là do TNF α và IL-1β tác động cộng hưởng lên cơ tim thông qua các cơ chế trong đó bao gồm quá trình sinh nitric oxide (NO) và GMP vòng.
+Sức cản mạch máu hệ thống cũng giảm xuống trong nhiễm trùng huyết có thể là do tăng biểu hiện quá mức các chất giãn mạch như nitric oxide và các sản phẩm của cyclo-oxygenase trên cơ trơn mạch máu. Hậu quả của tình trạng mất điều hòa vận mạch là rối loạn phân bố tưới máu cũng như thiếu oxy tổ chức.
+Do rối loạn điều hòa và giảm mật độ của các α –Adrenoreceptor mạch máu ngoại biên, trương lực mạch giảm xuống đưa đến giãn mạch. Do nhu cầu oxy ở mỗi khu vực khác nhau trong khi đó máu được đưa đến lại giống nhau về hàm lượng oxy nên sự thu nhận oxy tại các vùng khác nhau cũng khác nhau. Sự gia tăng lượng dịch ở các tổ chức (phù kẽ) làm tăng đoạn đường khuếch tán của oxy do máu mang đến và góp phần làm tăng thiếu oxy tại vùng đó. Do lượng dịch và protein thoát mạch vào khoảng kẽ tăng, các tế bào nội mô bị tổn thương nhiều hơn.
+Lượng máu phân bố cho mỗi cơ quan riêng biệt bị thay đổi nên lượng máu đến thận cũng giảm. Do hiện tượng cường phó giao cảm ở tĩnh mạch, thể tích máu tĩnh mạch tăng lên và cùng với nó là rối loạn phân bố máu của các tĩnh mạch.
+Rối loạn tính thấm cục bộ cũng như toàn thể đưa đến hiện tượng mất dịch xuyên mạch và đi kèm với nó là sự giảm thể tích máu lưu thông.
+Hệ thần kinh trung ương
+Lưu lượng máu não trong nhiễm trùng huyết giảm đi rất đáng kể, và nó không phụ thuộc vào huyết áp trung bình, trong trường hợp có biểu hiện của rối loạn chức năng thần kinh (như thay đổi tri giác). Mặc khác khả năng thu nhận oxy cũng bị hạn chế và không phụ thuộc vào lượng oxy trong máu đến. Bệnh nhân trở nên nhầm lẫn, mê sảng và có thể sờ sững và hôn mê do các tác động: tổn thương do giảm tưới máu, bệnh não do chuyển hóa và dĩ nhiên còn do thuốc an thần.
+Thận
+Suy thận cấp thường rất xảy ra trong nhiễm trùng huyết cũng như trong hội chứng đáp ứng viêm hệ thống. Trong giai đoạn tăng động của nhiễm trùng huyết, mặc dù tổng lưu lượng máu đến thận là không đổi nhưng lượng máu đến vỏ thận sẽ thấp hơn do tái phân bố máu trong thận nhằm bảo vệ tủy thận. Điều này đưa đến giảm mức độ lọc qua cầu thận. Khi huyết áp hệ thống giảm, cầu thận có thể bị tổn thương trực tiếp:
+
+Tăng tính thấm cầu thận
+Giảm diện tích lọc cầu thận
+Tắt nghẽn lòng ống thận do các tế bào ống thận bị bong ra.
+Ngoài ra tổn thương thận còn do các chất độc đối với thận lưu hành trong máu.
+Đường tiêu hóa
+Ruột là cơ quan đặc biệt quan trọng trong sự hình thành hội chứng rối loạn chức năng đa cơ quan (giả thuyết nguồn gốc MODS là do ruột: gut hypothesis). Giảm tưới máu đường tiêu hóa được xem là có vai trò quan trọng trong bệnh sinh của MODS. Các nhiễm trùng xuất hiện ở bệnh nhân nặng trong phòng hồi sức có thể có nguồn gốc từ ống tiêu hóa. Tổn thương thiếu máu cục bộ gây tăng tính thấm của ruột và sự phát tán vi khuẩn hoặc nội độc tố từ lòng ruột vào trong hệ tuần hoàn đặc biệt là vào tuần hoàn cửa để vào gan, nơi có một lượng lớn tế bào Kuffer trú ngụ. Các tế bào này cùng với các monocyte lưu hành trong máu khi bị kích hoạt sẽ khởi động một chuỗi các biến cố gây nên những triệu chứng lâm sàng của nhiễm trùng huyết và MODS.
+Do thiếu máu cục bộ và do kích thích của nội độc tố, các tế bào Kuffer sản xuất quá mức các cytokine viêm làm tổn thương nặng nề chức năng gan. Tổn thương gan cũng có thể do giảm lưu lượng máu tuyệt đối hoặc tương đối so với nhu cầu chuyển hóa tăng cao trong bệnh nặng.
+Đông máu
+Trong sốc nhiễm trùng huyết, hệ thống đông máu được hoạt hóa với sự giảm các yếu tố ức chế quá trình đông máu.
+Quá trình đông máu rất khác nhau tùy theo tình trạng tăng đông (thường trong giai đoạn sớm của sốc nhiễm trùng huyết) hiện diện hay do tình trạng tăng tiêu thụ cùng với hiện tượng tiêu sợi huyết song hành đóng vai trò chính. Dấu hiệu của tình trạng tăng tiêu sợi huyết là tăng nồng độ của các sản phẩm giáng hóa fibrrin. Trong giai đoạn đầu thì hàm lượng fibrrin tăng lên do nó là một protein pha cấp, ngược lại hoạt độ của AT III và nồng độ của α1-macroglobulin lại thấp. Hệ thống đông máu và hệ miễn dịch tiên thiên có thể được xem là có cùng nguồn gốc tiến hóa. Mối tương tác đông máu và viêm rất khắng khít và phức tạp. Hiện nay có thể nói mới chỉ có một thử nghiệm kháng viêm (đồng thời cũng là tác nhân chống đông) là Protein C hoạt hóa cho kết quả khả quan trong thử nghiệm lâm sàng.
+Áp lực thẩm thấu keo
+Liệu pháp bù dịch bằng các dung dịch tinh thể, lượng protein nội mạch giảm xuống (trong nhiễm trùng huyết, tính thấm thành mạch tăng cao gấp nhiều lần so với bình thường) và tình trạng mất protein chung (đặc biệt ở bệnh nhân phẫu thuật) gây nên tình trạng giảm áp lực thẩm thấu keo.
+Gốc oxy hóa
+Trong nhiễm trùng huyết, bổ thể C5a sẽ kích thích đưa đến sự tập trung các tế bào hạt tại tổ chức. Do thay đổi tính chất dòng chảy trong mạch máu mà các bạch cầu hạt bám dính vào thành mao mạch và sau đó xuyên màng mao mạch đi vào tổ chức.
+Dưới kích thích (ví dụ khi thực bào) các bạch cầu hạt này sẽ tiết ra các protease và các chất chuyển hóa của prostaglandin và giải phóng các gốc oxy tự do. Các ty lạp thể của các tế bào bị tổn thương do thiếu oxy đã biểu hiện các thay đổi sớm không hồi phục, rối loạn chức năng của chuỗi hô hấp, những tổn thương vi tuần hoàn trong sốc nhiễm trùng huyết và tình trạng thiếu oxy tổ chức do nó gây ra là điểm khởi đầu của quá trình phát sinh các gốc oxy tự do.
+Chuyển hóa và nội tiết
+Các rối loạn chuyển hóa trong nhiễm trùng huyết bao gồm tăng đường máu do nhiễm trùng huyết và catecholamine (cả hai gây nên đề kháng insuline), nhiễm toan lactic, tình trạng dị hóa toàn thể làm giáng hóa khối lượng cơ. Trong nhiễm trùng huyết cũng xuất hiện suy giáp, suy cận giáp và suy thượng thận mức độ nhẹ.
+pH máu động mạch thấp và nồng độ lactate tăng cao có thể thấy rõ trên lâm sàng. Quá trình sản xuất lactate theo con đường kị khí có thể xuất hiện sau hạ oxy máu toàn thể (như trong suy hô hấp tuần hoàn, sốc nhiễm trùng huyết) hoặc do thiếu oxy máu cục bộ (nhồi máu ruột) hoặc do các nguyên nhân không phải hạ oxy máu (giảm thanh thải lactate, tăng phân hủy glucose ái khí hoặc rối loạn chức năng của pyruvate dehydrogenase).
+
+
+== Nguyên tắc điều trị ==
+Một khi MODS đã hình thành thì điều trị cần thiết là nâng đỡ tối đa để đợi chờ những đáp ứng này trở về bình thường. Các phương pháp điều trị hỗ trợ này bao gồm thông khí nhân tạo (điều trị tổn thương phổi cấp), bồi phụ dịch và các thuốc vận mạch (điều trị suy tim mạch), thẩm phân (suy thận), nuôi dưỡng hoàn toàn bằng đường tĩnh mạch (tổn thương ruột cấp) hoặc an thần (rối loạn chức năng não cấp).
+Về mặt lý thuyết thì các điểm can thiệp trong điều trị MODS nhắm đến viêm là:
+
+Làm chậm lại quá trình bám dính tế bào,
+Làm giảm các chất trung gian gây viêm (ức chế sao mã và chuyển mã các chất này),
+Các kháng thể trung hòa (đơn clon hoặc đa clon) nhắm vào các chất trung gian điều hòa cytokine/ hoạt mạch /đông máu/ bổ thể,
+Sử dụng chất ức chế các thụ thể của cytokine/chất hoạt mạch/ bổ thể/yếu tố đông máu,
+Gây cảm ứng sản xuất các protein chống viêm (dùng các cơ chất, các sản phẩm hoặc gene),
+Sử dụng các anti-oxidant và anti-protease.
+Sử dụng các tác nhân chống lại hiện tượng chết tế bào lập trình.
+
+
+== Xem thêm ==
+Viêm
+Nhiễm trùng huyết
+Hội chứng đáp ứng viêm hệ thống
+Hội chứng nguy ngập hô hấp cấp
+
+
+== Tham khảo ==
+Bone RC. Immunologic Dissonance: A Continuing Evolution in Our Understanding of the Systemic Inflammatory Response Syndrome (SIRS) and the Multiple Organ Dysfunction Syndrome (MODS). Annals of Internal Medicine. 1996; 125: 680-687.
+Evans TW, Smithies M. Organ dysfunction. Clinical review. ABC of intensive care. BMJ. 1999; 318: 1606-1609.
+Johnson D, Mayers I. Multiple organ dysfunction syndrome: a narrative review. Canadian Journal of Anesthesia. 2001; 48: 502-509.
+Opal SM, Esmon CT. Bench-to-bedside review: functional relationships between coagulation and the innate immune response and their respective roles in the pathogenesis of sepsis. Crit Care. 2003; 7: 23-38.
+
+
+== Tham khảo ==

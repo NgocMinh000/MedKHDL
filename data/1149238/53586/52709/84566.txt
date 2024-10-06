@@ -1,0 +1,15 @@
+Carrier Sense Multiple Access with Collision Detect (viết tắt CSMA/CD) trong tiếng Anh, nghĩa là đa truy cập nhận biết sóng mang phát hiện xung đột. Đây là một trong nhiều phương pháp truy cập hay sử dụng trong mạng LAN, cải tiến từ phương pháp CSMA. Theo phương pháp này, khi một máy tính muốn truyền một gói tin, trước tiên nó sẽ lắng nghe xem trên đường truyền có sóng mạng hay không (bằng cách lắng nghe tín hiệu Carrier). Nếu không có, nó sẽ thực hiện truyền gói tin (theo frame). Sau khi truyền gói tin, nó vẫn tiếp tục lắng nghe để xem có máy nào định truyền tin hay không. Nếu không có xung đột, máy tính sẽ truyền gói tin cho đến hết. Nếu phát hiện xung đột, nó sẽ gửi broadcast một gói tin báo hiệu cho các máy trên mạng không nên gửi tin để tránh làm nhiễu đường truyền,sau đó chờ một khoảng thời gian ngẫu nhiên trước khi tiến hành gửi lại gói tin. Tiến trình các bước như sau:
+
+Một thiết bị có frame cần truyền sẽ lắng nghe đường truyền cho đến khi nào đường truyền Ethernet không còn bị chiếm.
+Khi đường truyền Ethernet không còn bị chiếm, máy gửi bắt đầu gửi frame.
+Máy gửi cũng bắt đầu lắng nghe để đảm bảo rằng không có xung đột xảy ra.
+Nếu có xung đột, tất cả các máy trạm đã từng gửi ra frame sẽ gửi ra một tín hiệu nghẽn để đảm bảo tất cả các máy trạm đều nhận ra xung đột.
+Sau khi tín hiệu nghẽn là hoàn tất, mỗi máy gửi của những frame bị xung đột sẽ khởi động một bộ định thờI (timer) và chờ hết khoản thời gian này sẽ cố gắng truyền lại. Những máy không tạo ra xung đột sẽ không phải chờ.
+Sau khi các thời gian định thời là hết, máy gửi có thể bắt đầu một lần nữa với bước 1.
+CSMA/CD được phát triển từ CSMA để tăng hiệu quả của phương thức CSMA, bằng cách dừng việc truyền tín hiệu ngay khi phát hiện thấy xung đột, giảm thiểu thời gian chờ để thực hiện việc truyền tiếp theo. (CSMA không kết thúc việc truyền dữ liệu nếu phát hiện xung đột, những máy đang truyền sẽ tiếp tục truyền, những máy gây xung đột sau khi nhận được thông báo sẽ dừng một khoảng thời gian trước khi cố gắng truyền tiếp).
+
+
+== Tham khảo ==
+
+IEEE 802.3
+Các phương pháp truy nhập đường truyền vật lý Lưu trữ 2016-12-24 tại Wayback Machine

@@ -1,0 +1,16 @@
+Điện thế nghỉ là điện thế màng tương đối ổn định của các tế bào đang "nghỉ" (chưa hoạt động), trái với các hiện tượng điện hóa cụ thế khác là điện thế hoạt động và điện thế cấp độ.
+Ngoài hai loại sau, xảy ra ở các tế bào có thể hưng phấn (tế bào thần kinh, cơ và một số tế bào tiết ở tuyến), điện thế màng trong phần lớn các tế bào không hưng phấn cũng có thể trải qua những thay đổi để đáp ứng với kích thích từ môi trường hoặc nội bào [cần dẫn nguồn]. Về nguyên tắc, không có sự khác biệt giữa điện thế nghỉ và điện thế hoạt động nếu nhìn từ quan điểm sinh lý học: tất cả những hiện tượng này đều do những thay đổi cụ thể về tính thấm của màng với ion kali, natri, calci và chloride, những thay đổi này có được từ việc phối hợp trong hoạt động chức năng của các kênh ion và bơm ion khác nhau. Thông thường, điện thế nghỉ của màng tế bào có thể được định nghĩa là một giá trị điện thế xuyên màng tương đối ổn định trong tế bào động vật hoặc thực vật.
+Bất kỳ điện thế nào cũng là sự khác biệt về điện thế giữa hai điểm - chẳng hạn, tích điện dương và âm ở hai mặt đối diện của một hàng rào điện trở. Điện thế nghỉ điển hình của một tế bào có được nhờ việc đưa các ion kali ra khỏi tế bào, còn các anion thì tương đối bất động trên màng tế bào. Do tính thấm màng của kali cao hơn nhiều so với các ion khác (tạm thời không quan tâm đến các kênh sinh điện ở giai đoạn này), và vì gradient hóa học mạnh đối với kali, ion kali sẽ di chuyển từ bào tương vào không gian ngoại bào mang điện tích dương, cho đến khi chuyển động của chúng được cân bằng do điện tích âm tăng lên ở mặt bên trong của màng (điện tích âm này sẽ kéo K+ không đi quá xa khỏi màng). Một lần nữa, do tính thấm tương đối cao đối với kali, thế năng màng thu được gần như luôn luôn gần với thế năng ngược lại kali. Nhưng để quá trình này xảy ra, một gradient nồng độ của các ion kali phải được thiết lập trước tiên. Nhiệm vụ này được thực hiện bởi các bơm/protein vận chuyển ion, với năng lượng thường được cung cấp bởi ATP.
+Trong trường hợp điện thế nghỉ ở màng tế bào động vật, gradient kali (và natri) được thiết lập bởi Na+/K+-ATPase (bơm natri-kali) vận chuyển 2 ion kali vào trong và 3 ion natri ra bên ngoài với chi phí là 1 phân tử ATP. Trong các trường hợp khác, ví dụ, một điện thế màng có thể được thiết lập bằng cách axit hóa bên trong của một khoang màng (chẳng hạn như bơm proton tạo ra điện thế màng trên các túi ở synap thần kinh).
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Neuroscience - online textbook by Purves, et al.
+Basic Neurochemistry Molecular, Cellular, and Medical Aspects by Siegel, et al.
+Bertil Hille Ion channels of excitable membranes, 3rd ed., Sinauer Associates, Sunderland, MA (2001). ISBN 0-87893-321-2
+Wright, SH (2004). “Generation of resting membrane potential”. Adv Physiol Educ. 28 (1–4): 139–42. doi:10.1152/advan.00029.2004. PMID 15545342.
+Resting Membrane Potential - Online lecture notes on the resting membrane potential
+The Origin of the Resting Membrane Potential - Online interactive tutorial (Flash)

@@ -1,0 +1,14 @@
+Pembrolizumab (trước đây là lambrolizumab, tên thương mại Keytruda) là một kháng thể giống người được sử dụng trong liệu pháp miễn dịch ung thư. Thuốc điều trị ung thư hắc tố, ung thư phổi, ung thư đầu cổ, u lympho Hodgkin và ung thư dạ dày.  Đường dùng tiêm tĩnh mạch chậm.
+Các tác dụng không mong muốn thường gặp bao gồm mệt mỏi, đau cơ xương, giảm cảm giác thèm ăn, ngứa, tiêu chảy, buồn nôn, phát ban, sốt, ho, khó thở, táo bón, đau và đau bụng. Nó là một kháng thể IgG4 ngăn chặn cơ chế tự bảo vệ tế bào ung thư và do đó, cho phép hệ thống miễn dịch tiêu diệt chúng. Thuốc nhắm vào thụ thể protein chết theo chương trình 1 (PD-1) của tế bào lympho từ đó tác động vào con đường PD-1 / PD-L1. 
+Pembrolizumab được chấp thuận sử dụng tại Mỹ năm 2014. Năm 2017, Cục Quản lý Thực phẩm và Dược phẩm Mỹ (FDA) chấp thuận thuốc được sử dụng cho khối u rắn di căn hoặc không phẫu thuật được với đột biến gen sửa chữa bắt cặp sai hoặc mất ổn định vi vệ tinh). Thuốc nằm trong Danh mục Thuốc thiết yếu của Tổ chức Y tế Thế giới.
+
+
+== Chỉ định ==
+
+Pembrolizumab đường tiêm tĩnh mạch được sử dụng để điều trị u hắc tố không thể phẫu thuật hoặc di căn, ung thư phổi không tế bào nhỏ (NSCLC) di căn trong một số điều kiện nahast định, là điều trị bước một cho ung thư bàng quang di căn không thể dùng hóa trị với cisplatin và có bộc lộ PD-L1 cao, ung thư biểu mô vảy đầu cổ (HNSCC), u lympho Hodgkin thể cổ điển người lớn và trẻ em, ung thư biểu mô vảy thực quản tiển triển tại chỗ hoặc di căn.
+Với NSCLC, pembrolizumab là điều trị bước một cho trường hợp có bộc lộ PD-L1, một phối tử của PD-1 và không có đột biến EGFR và ALK; nếu bệnh nhân đã được điều trị hóa trị, pembrolizumab có thể là điều trị bước hai nhưng nếu có đội biến EGFR hoặc ALK, thuốc nhắm trúng đích nên được sử dụng đầu tiên.  Đánh giá bộc lộ PD-L1 cần được thực hiện ở phòng thí nghiệm được chứng nhận đủ khả năng xét nghiệm.
+
+Năm 2017, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã chấp thuận pembrolizumab cho điều trị khối u rắn không thể phẫu thuật hoặc di căn với các bất thường gen (sửa chữa bắt cặp sai hoặc mất ổn định vi vệ tinh). Đây là lần đầu tin FDA chấp thuận chỉ định điều trị một thuốc dựa vào biểu hiện gen của khối u thay vì loại mô học hoặc vị trí của khối u đó; do đó, pembrolizumab còn được coi là thuốc không phụ thuộc mô.
+
+
+== Tham khảo ==

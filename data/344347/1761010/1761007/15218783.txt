@@ -1,0 +1,64 @@
+Eluxadoline, được bán dưới tên thương hiệu Viberzi và Truberzi, là một loại thuốc dùng để điều trị tiêu chảy và đau bụng ở những người mắc hội chứng ruột kích thích thể tiêu chảy (IBS-D). Nó đã được phê duyệt để sử dụng tại Hoa Kỳ vào năm 2015. Thuốc có nguồn gốc từ Dược phẩm Janssen và được Actavis phát triển.
+
+
+== Chống chỉ định ==
+Thuốc này chống chỉ định trong trường hợp có:
+
+Tắc nghẽn túi mật hoặc bất thường cơ vòng Oddi
+Lạm dụng rượu
+Viêm tụy
+Vấn đề cuộc sống
+Táo bón mạn tính hoặc nặng 
+
+
+== Tác dụng phụ ==
+Tác dụng phụ thường gặp là táo bón và buồn nôn, nhưng tỷ lệ ngừng thuốc do táo bón thấp đối với cả eluxadoline và giả dược. Tác dụng phụ hiếm gặp: mệt mỏi, viêm phế quản, viêm dạ dày ruột do virus. Tác dụng phụ nặng hiếm gặp bao gồm viêm tụy với tỷ lệ mắc chung là 0,3% - tỷ lệ mắc cao hơn với liều 100 mg (0,3%) so với liều 75 mg (0,2%). Nguy cơ thậm chí còn lớn hơn ở những người không có túi mật và thuốc không được khuyến cáo trong nhóm này.
+Vào tháng 3 năm 2017, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ đã ban hành một cảnh báo an toàn đối với eluxadoline liên quan đến việc tăng nguy cơ viêm tụy nặng ở những bệnh nhân không có túi mật. Một đánh giá của FDA cho thấy ở những bệnh nhân như vậy, co thắt cơ vòng Oddi có thể dẫn đến viêm tụy nặng. FDA báo cáo rằng trong một số trường hợp, các triệu chứng xảy ra chỉ với một hoặc hai liều khuyến cáo cho bệnh nhân không có túi mật (75 mg). Trong số hai trường hợp tử vong liên quan đến eluxadoline được báo cáo đến tháng 2 năm 2017, cả hai đều xảy ra ở những bệnh nhân không có túi mật.
+
+
+== Tương tác ==
+Nồng độ eluxadoline tăng cao đã được quan sát kèm với việc sử dụng các chất ức chế protein vận chuyển OATP1B1, như:
+
+Cyclosporine
+Gemfibrozil
+Một số thuốc kháng retrovirus
+Rifampin
+Eltrombopag
+Ngoài ra, việc sử dụng đồng thời các thuốc khác gây táo bón không được ưu tiên, chẳng hạn như:
+
+Opioids
+Alosetron
+Thuốc chống cholinergic
+Bismuth subsalicylate.
+Eluxadoline làm tăng nồng độ của các loại thuốc là chất nền OATP1B1 và BCRP. Ngoài ra, phối hợp sử dụng eluxadoline với rosuvastatin có thể làm tăng nguy cơ tiêu cơ vân.
+
+
+== Dược lý ==
+
+
+=== Cơ chế hoạt động ===
+Eluxadoline là một chất chủ vận thụ thể μ- và κ-opioid  và chất đối kháng thụ thể δ-opioid  có tác dụng cục bộ trong hệ thống thần kinh ruột, có thể giảm ảnh hưởng có hại đến hệ thống thần kinh trung ương.
+
+
+=== Dược động học ===
+Trong các nghiên cứu in vitro, eluxadoline được nhận thấy là được vận chuyển bởi OAT3 (SLC22A8), OATP1B1 (SLCO1B1) và BSEP (ABCB11) ở nồng độ cao nhất được thử nghiệm (400 ng/ml, lớn hơn 162 lần so với Cmax quan sát được với liều điều trị cao nhất là 100 mg). Tuy nhiên, nó không được vận chuyển bởi OCT1 POU2F1, OAT1 Vận chuyển anion hữu cơ 1, OCT2, OATP1B3 (SLCO1B3), P-gp (P-glycoprotein) hoặc BCRP (ABCG2).
+Sự tích lũy đa kháng protein của protein 2 (MRP2) đã được quan sát, cho thấy thuốc là chất nền của MRP2. Eluxadoline không được phát hiện dùng để ức chế BCRP-, BSEP-, MRP2-, OCT1-, OCT2-, OAT1-, OAT3- hoặc OATP1B3 qua trung gian chất nền của OATP1B3. Cũng trong các nghiên cứu in vitro, người ta đã quan sát thấy eluxadoline là chất nền in vivo của OATP1B1, OAT3 và MRP2. Cuối cùng, không thấy sự ức chế hay cảm ứng của enzyme cytochrom P450.
+Sau liều eluxadoline 100 mg, Cmax nằm trong khoảng 2 đến 4 ng / ml và AUC là 12-22 ng.giờ/ml. Eluxadoline có dược động học tuyến tính mà không tích lũy khi lặp lại hai lần mỗi ngày. Uống eluxadoline với bữa ăn nhiều chất béo đã giảm 50% Cmax và AUC.
+
+
+== Hóa học ==
+
+
+=== Tổng hợp ===
+Việc tổng hợp eluxadoline đã được thảo luận rộng rãi trong bằng sáng chế WO2006099060 A2, với tiêu đề: "Quá trình điều chế các chất opioid" được xuất bản vào tháng 9 năm 2006.
+
+
+== Xem thêm ==
+Asimadoline
+Axelopran
+Difenoxin
+Diphenoxylate
+Loperamid
+
+
+== Tham khảo ==

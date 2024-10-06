@@ -1,0 +1,635 @@
+Mạng thần kinh hồi quy (hay còn gọi là mạng thần kinh/nơ-ron tái phát, mạng thần kinh tái phát, tiếng Anh: recurrent neural network, viết tắt RNN) là một lớp của mạng thần kinh nhân tạo, nơi kết nối giữa các nút để tạo thành đồ thị có hướng dọc theo một trình tự thời gian. Điều này cho phép mạng thể hiện hành vi động tạm thời. Có nguồn gốc từ mạng thần kinh truyền thẳng, RNN có thể dùng trạng thái trong (bộ nhớ) để xử lý các chuỗi đầu vào có độ dài thay đổi. Điều này làm cho RNN có thể áp dụng cho các tác vụ như nhận dạng chữ viết tay (handwriting recognition) hay nhận dạng tiếng nói có tính chất kết nối, không phân đoạn.
+Thông thường, người ta sử dụng thuật ngữ "mạng thần kinh hồi quy" không có tính hệ thống (có phần bừa bãi) nhằm để chỉ hai lớp mạng rộng với một cấu trúc chung giống nhau, cái đầu tiên là lớp mạng đáp ứng xung hữu hạn (finite impulse response) và cái thứ hai là lớp mạng đáp ứng xung vô hạn (infinite impulse response). Cả hai lớp mạng đều thể hiện hệ thống động lực theo thời gian. Mạng hồi quy xung hữu hạn là một đồ thị xoay chiều có hướng (directed acyclic graph) có thể bị mở ra và thay thế bằng một mạng thần kinh truyền thẳng chặt chẽ hơn, trong khi mạng hồi quy xung vô hạn là một đồ thị có hướng mà không thể mở ra (unrolled).
+Cả hai mạng hồi quy xung hữu hạn và vô hạn có thể chứa các trạng thái lưu trữ bổ sung, và bộ nhớ có thể được kiểm soát trực tiếp bởi mạng thần kinh. Bộ nhớ cũng có thể được thay thế bằng một mạng hoặc đồ thị khác, nếu kết hợp với thời gian trễ hoặc có vòng lặp phản hồi. Các trạng thái được kiểm soát như vậy được gọi là trạng thái cổng (gated state) hoặc bộ nhớ cổng (gated memory) và là một phần của mạng bộ nhớ dài-ngắn hạn (LSTM) và bộ nhớ định kỳ được kiểm soát. Đây còn được gọi là "mạng thần kinh phản hồi" (Feedback Neural Network, FNN).
+
+
+== Lịch sử phát triển ==
+
+
+=== Mạng thần kinh hồi quy (RNN) ===
+Mạng thần kinh hồi quy dựa trên công trình của David Rumelhart vào năm 1986. Một loại mạng RNN đặc biệt tên Hopfield netowrks được được John Hopfield phát hiện lại vào năm 1982. Năm 1993, một hệ thống nén lịch sử thần kinh đã giải quyết một nhiệm vụ "Học rất sâu" mà yêu cầu hơn 1000 lớp chồng nhau trong RNN được mở ra kịp thời.
+
+
+=== Long short-term memory (LSTM) ===
+Bộ nhớ dài-ngắn hạn (LSTM) được phát minh bởi Hochreiter và Schmidhuber vào năm 1997 và thiết lập các bản ghi chính xác trong nhiều miền ứng dụng.
+Khoảng năm 2007, LSTM bắt đầu cách mạng hóa khả năng nhận dạng giọng nói, vượt trội so với các mô hình truyền thống trong một số ứng dụng giọng nói. Vào năm 2009, mạng LSTM được đào tạo bởi Connectionist Temporal Classification (CTC) là RNN đầu tiên giành chiến thắng trong các cuộc thi nhận dạng mẫu khi nó giành chiến thắng trong một số cuộc thi về nhận dạng chữ viết tay được kết nối. Vào năm 2014, công ty Baidu của Trung Quốc đã sử dụng các RNN do CTC đào tạo để vượt qua tiêu chuẩn bộ dữ liệu nhận dạng giọng nói 2S09 Switchboard Hub5'00 mà không sử dụng bất kỳ phương pháp xử lý giọng nói truyền thống nào.
+LSTM cũng cải thiện khả năng nhận dạng giọng nói với lượng từ vựng lớn và tổng hợp văn bản thành giọng nói và được sử dụng trong Google Android. Vào năm 2015, tính năng nhận dạng giọng nói của Google được báo cáo là đã có bước nhảy vọt đáng kể về hiệu suất 49% thông qua LSTM do CTC đào tạo.
+LSTM đã phá kỷ lục về cải tiến dịch máy, Mô hình hóa ngôn ngữ (Language Modeling) và Xử lý ngôn ngữ đa ngôn ngữ. LSTM kết hợp với mạng thần kinh tích chập (CNN) đã cải thiện tính năng chú thích hình ảnh tự động.
+
+
+=== Gated recurrent unit (GRU) ===
+GRU được phát triển bởi Kyunghyun Cho và Yoshua Bengio năm 2014. So với mạng LSTM (Long Short-Term Memory), GRU có cấu trúc đơn giản và tối ưu hơn, có khả năng giải quyết các vấn đề trong huấn luyện dữ liệu dài và ít phức tạp hơn.
+
+
+== Kiến trúc ==
+Mạng thần kinh hồi quy có nhiều biến thể. Dưới đây là một vài biến thể phổ biến của RNN
+
+
+=== Mạng thần kinh hồi quy đầy đủ (Fully Recurrent) ===
+
+Mạng thần kinh hồi quy đầy đủ (FRNN) kết nối đầu ra của tất cả các nơ-ron với đầu vào của tất cả các nơ-ron. Đây là cấu trúc liên kết mạng nơ-ron tổng quát nhất vì tất cả các cấu trúc liên kết khác có thể được biểu diễn bằng cách đặt một số trọng số (weights) kết nối thành 0 để mô phỏng sự thiếu kết nối giữa các nơ-ron đó. Hình minh họa bên phải có thể gây hiểu lầm cho nhiều người vì các cấu trúc liên kết mạng thần kinh thực tế thường được tổ chức thành "layers" chồng nhau và hình vẽ mang lại hình thức của mạng RNN. Tuy nhiên, những gì nhìn có vẻ nh các lớp, trên thực tế, là các thời điểm khác nhau trong timesteps của cùng một mạng thần kinh tái diễn đầy đủ. Phân ngoài cùng bên trái trong hình minh họa hiển thị các kết nối lặp lại dưới dạng cung có nhãn 'v'. Nó được "mở ra" theo từng step tạo ra sự xuất hiện của các lớp.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  h
+                  
+                    t
+                  
+                
+              
+              
+                
+                =
+                
+                  σ
+                  
+                    h
+                  
+                
+                (
+                
+                  W
+                  
+                    h
+                  
+                
+                
+                  x
+                  
+                    t
+                  
+                
+                +
+                
+                  U
+                  
+                    h
+                  
+                
+                
+                  y
+                  
+                    t
+                    −
+                    1
+                  
+                
+                +
+                
+                  b
+                  
+                    h
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}h_{t}&=\sigma _{h}(W_{h}x_{t}+U_{h}y_{t-1}+b_{h})\\\end{aligned}}}
+  
+
+Trong đó:
+
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{t}}
+  
+: Input tại thời điểm 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+
+  
+    
+      
+        
+          y
+          
+            t
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle y_{t-1}}
+  
+: Trạng thái ẩn tại thời điểm 
+  
+    
+      
+        t
+        −
+        1
+      
+    
+    {\displaystyle t-1}
+  
+
+  
+    
+      
+        
+          h
+          
+            t
+          
+        
+      
+    
+    {\displaystyle h_{t}}
+  
+: Trạng thái ẩn tại thời điểm 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+
+  
+    
+      
+        
+          W
+          
+            x
+          
+        
+      
+    
+    {\displaystyle W_{x}}
+  
+: Ma trận trọng số cho các kết nối input-to-hidden
+
+  
+    
+      
+        
+          U
+          
+            h
+          
+        
+      
+    
+    {\displaystyle U_{h}}
+  
+: Ma trận trọng số cho các kết nối hidden-to-hidden
+
+  
+    
+      
+        
+          b
+          
+            h
+          
+        
+      
+    
+    {\displaystyle b_{h}}
+  
+: Biaes của trạng thái ẩn
+
+  
+    
+      
+        
+          σ
+          
+            h
+          
+        
+      
+    
+    {\displaystyle \sigma _{h}}
+  
+: Hàm kích hoạt của trạng thái ẩn, thường dùng hàm 
+  
+    
+      
+        t
+        a
+        n
+        h
+      
+    
+    {\displaystyle tanh}
+  
+
+Tùy thuộc vào mục đích bài toán và thiết kế mô hình đầu ra của bài toán mà bước tính vecto đầu ra 
+  
+    
+      
+        
+          y
+          
+            t
+          
+        
+      
+    
+    {\displaystyle y_{t}}
+  
+ có thể khác nhau.
+Đoạn mã ví dụ về chuyển tiếp cho mạng thần kinh tái phát đầy đủ (RNN) từ đầu bằng cách sử dụng numpy:Trong mã này, các inputs được chuyển qua RNN từng bước một. Trong đó tại mỗi bước, input hiện tại được kết hợp với trạng thái ẩn trước đó, sau đó được chuyển qua hàm kích hoạt tanh để cập nhật trạng thái ẩn hiện tại. 
+
+
+=== Mạng Elman và mạng Jordan ===
+Mạng Elman là mạng ba lớp (được sắp xếp theo chiều ngang là x, y và z trong hình minh họa) với việc bổ sung một tập hợp các đơn vị ngữ cảnh (u trong hình minh họa). Lớp ẩn ở giữa kết nối với các đơn vị ngữ cảnh u được cố định với trọng số là một. Tại mỗi time step, đầu vào được đưa về phía trước và quy tắc học tập được áp dụng. Các kết nối ngược cố định lưu một bản sao của các giá trị trước đó của các đơn vị ẩn trong các đơn vị ngữ cảnh u (vì chúng lan truyền qua các kết nối trước khi áp dụng quy tắc học tập). Do đó, mạng có thể duy trì một loại trạng thái, cho phép nó thực hiện các nhiệm vụ như dự đoán chuỗi vượt quá khả năng của một multilayer perceptron tiêu chuẩn.
+Mạng Jordan tương tự như mạng Elman. Các đơn vị ngữ cảnh được cung cấp từ lớp đầu ra thay vì lớp ẩn. Các đơn vị ngữ cảnh trong mạng Jordan cũng được gọi là lớp trạng thái. Chúng có một kết nối hồi quy với chính nó.
+Mạng Elman và Jordan còn được gọi là "Mạng hồi quy đơn giản" (Simple recurrent networks- SRN).
+
+Elman network
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  h
+                  
+                    t
+                  
+                
+              
+              
+                
+                =
+                
+                  σ
+                  
+                    h
+                  
+                
+                (
+                
+                  W
+                  
+                    h
+                  
+                
+                
+                  x
+                  
+                    t
+                  
+                
+                +
+                
+                  U
+                  
+                    h
+                  
+                
+                
+                  h
+                  
+                    t
+                    −
+                    1
+                  
+                
+                +
+                
+                  b
+                  
+                    h
+                  
+                
+                )
+              
+            
+            
+              
+                
+                  y
+                  
+                    t
+                  
+                
+              
+              
+                
+                =
+                
+                  σ
+                  
+                    y
+                  
+                
+                (
+                
+                  W
+                  
+                    y
+                  
+                
+                
+                  h
+                  
+                    t
+                  
+                
+                +
+                
+                  b
+                  
+                    y
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}h_{t}&=\sigma _{h}(W_{h}x_{t}+U_{h}h_{t-1}+b_{h})\\y_{t}&=\sigma _{y}(W_{y}h_{t}+b_{y})\end{aligned}}}
+  
+
+Jordan network
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  h
+                  
+                    t
+                  
+                
+              
+              
+                
+                =
+                
+                  σ
+                  
+                    h
+                  
+                
+                (
+                
+                  W
+                  
+                    h
+                  
+                
+                
+                  x
+                  
+                    t
+                  
+                
+                +
+                
+                  U
+                  
+                    h
+                  
+                
+                
+                  y
+                  
+                    t
+                    −
+                    1
+                  
+                
+                +
+                
+                  b
+                  
+                    h
+                  
+                
+                )
+              
+            
+            
+              
+                
+                  y
+                  
+                    t
+                  
+                
+              
+              
+                
+                =
+                
+                  σ
+                  
+                    y
+                  
+                
+                (
+                
+                  W
+                  
+                    y
+                  
+                
+                
+                  h
+                  
+                    t
+                  
+                
+                +
+                
+                  b
+                  
+                    y
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}h_{t}&=\sigma _{h}(W_{h}x_{t}+U_{h}y_{t-1}+b_{h})\\y_{t}&=\sigma _{y}(W_{y}h_{t}+b_{y})\end{aligned}}}
+  
+
+Trong đó
+
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{t}}
+  
+: vecto đầu vào
+
+  
+    
+      
+        
+          h
+          
+            t
+          
+        
+      
+    
+    {\displaystyle h_{t}}
+  
+: vecto lớp ẩn
+
+  
+    
+      
+        
+          h
+          
+            t
+          
+        
+      
+    
+    {\displaystyle h_{t}}
+  
+: vecto đầu ra
+
+  
+    
+      
+        W
+      
+    
+    {\displaystyle W}
+  
+, 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  
+ và 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+: cSN) có một lớp ẩn ngẫu nhiên được kết nối thưa.ác ma trận tham số và vecto bias
+
+  
+    
+      
+        
+          σ
+          
+            h
+          
+        
+      
+    
+    {\displaystyle \sigma _{h}}
+  
+ và 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+: Các hàm kích hoạt
+
+
+=== Mạng Hopfield ===
+
+Mạng Hopfield là một RNN trong đó tất cả các kết nối trên các lớp đều có kích thước bằng nhau. Nó yêu cầu các đầu vào cố định và do đó không phải là một RNN chung, vì nó không xử lý các chuỗi mẫu. Tuy nhiên, nó đảm bảo rằng nó sẽ hội tụ. Nếu các kết nối được đào tạo bằng cách sử dụng phương pháp học tiếng Do Thái thì mạng Hopfield có thể hoạt động như một bộ nhớ định địa chỉ nội dung robust, chống lại sự thay đổi kết nối.
+
+
+==== Bộ nhớ kết hợp hai chiều (Bidirectional Associative Memory - BAM) ====
+Mạng bộ nhớ kết hợp hai chiều (BAM) là một biến thể của mạng Hopfield lưu trữ dữ liệu kết hợp dưới dạng vectơ. Được giới thiệu bởi Bart Kosko vào năm 1988. Tính hai chiều xuất phát từ việc truyền thông tin qua ma trận và chuyển vị của nó. Thông thường, mã hóa lưỡng cực được ưu tiên hơn so với mã hóa nhị phân của các cặp kết hợp. Gần đây, các mô hình BAM ngẫu nhiên sử dụng bước Markov đã được tối ưu hóa để tăng tính ổn định của mạng và mức độ phù hợp với các ứng dụng trong thế giới thực. Mạng BAM có hai lớp, một trong hai lớp này có thể được điều khiển làm đầu vào để gọi lại liên kết và tạo đầu ra trên lớp kia.
+
+
+=== Echo state (ESN) ===
+Mạng echo state (ESN) có một lớp ẩn ngẫu nhiên được kết nối thưa. Trọng số của các nơ ron đầu ra là phần duy nhất của mạng có thể thay đổi (được huấn luyện). ESN tái tạo chuỗi thời gian nhất định rất tốt. Một biến thể cho mạng thần kinh spiking được gọi là liquid state machine.
+
+
+=== Mạng thần kinh hồi quy độc lập (Independently RNN - IndRNN) ===
+Mạng thần kinh hồi quy độc lập (IndRNN) giải quyết các vấn đề biến mất (vanishing) và bùng nổ(exploding) gradient trong RNN được kết nối đầy đủ truyền thống.  Mỗi nơ-ron trong một lớp chỉ nhận trạng thái quá khứ của chính nó dưới dạng thông tin ngữ cảnh (thay vì kết nối đầy đủ với tất cả các nơ-ron khác trong lớp này) và do đó, các nơ-ron độc lập với lịch sử của nhau. Lan truyền ngược gradient có thể được điều chỉnh để tránh hiện tượng vanishing và exploding gradient nhằm duy trì bộ nhớ dài hạn hoặc ngắn hạn. Thông tin về nơ-ron chéo được khám phá trong các lớp tiếp theo. IndRNN có thể được đào tạo mạnh mẽ với các hàm phi tuyến tính không bão hòa như ReLU. Sử dụng kết nối bỏ qua (skip connection), mạng sâu có thể được đào tạo.
+
+
+=== Mạng thần kinh đệ quy (Recursive neural network) ===
+
+Mạng thần kinh đệ quy được tạo bằng cách áp dụng đệ quy cùng một tập trọng số trên một cấu trúc giống như đồ thị khả vi bằng cách duyệt qua cấu trúc theo sắp xếp tô pô. Các mạng như vậy thường cũng được đào tạo theo chế độ đạo hàm tự động. Chúng có thể xử lý các biểu diễn phân bố của cấu trúc, chẳng hạn như các logic toán học. Một trường hợp đặc biệt của mạng thần kinh đệ quy là RNN có cấu trúc tương ứng với một chuỗi tuyến tính. Mạng thần kinh đệ quy đã được áp dụng để xử lý ngôn ngữ tự nhiên. Mạng Tenor thần kinh đệ quy sử dụng hàm tổng hợp dựa trên tensor cho tất cả các nút trong cây.
+
+
+=== Neural history compressor ===
+Trình nén lịch sử thần kinh là một chồng RNN không được giám sát. Ở cấp độ đầu vào, nó học cách dự đoán đầu vào tiếp theo từ các đầu vào trước đó. Chỉ những đầu vào không thể đoán trước của một số RNN trong hệ thống phân cấp mới trở thành đầu vào cho RNN cấp cao hơn tiếp theo, do đó hiếm khi tính toán lại trạng thái bên trong của nó. Do đó, mỗi RNN cấp cao hơn nghiên cứu một biểu diễn nén của thông tin trong RNN bên dưới. Điều này được thực hiện sao cho chuỗi đầu vào có thể được tái tạo chính xác từ biểu diễn ở mức cao nhất.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Mandic, Danilo P. & Chambers, Jonathon A. (2001). Recurrent Neural Networks for Prediction: Learning Algorithms, Architectures and Stability. Wiley. ISBN 978-0-471-49517-8.
+
+
+== Liên kết ngoài ==
+Seq2SeqSharp LSTM/BiLSTM/Transformer recurrent neural networks framework running on CPUs and GPUs for sequence-to-sequence tasks (C Sharp (ngôn ngữ lập trình), .NET Framework)
+RNNSharp CRFs based on recurrent neural networks (C Sharp (ngôn ngữ lập trình), .NET Framework)
+Recurrent Neural Networks with over 60 RNN papers by Jürgen Schmidhuber's group at Dalle Molle Institute for Artificial Intelligence Research
+Elman Neural Network implementation for Weka (học máy)
+Recurrent Neural Nets & LSTMs in Java Lưu trữ 2018-07-21 tại Wayback Machine
+an alternative try for complete RNN / Reward driven Lưu trữ 2018-03-24 tại Wayback Machine

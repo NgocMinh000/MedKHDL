@@ -1,0 +1,24 @@
+Glycozid tim chỉ các steroid có hoạt tính ở tim, chia sẻ cấu trúc vòng aglycon và có tác động tăng co sợi cơ và ảnh hưởng điện sinh lý.
+
+
+== Nguồn gốc ==
+Các glycozid được chiết xuất từ các cây:
+
+Strophanthus: ouabain
+Digitalis lanata và Digitalis purpurea: digoxin, digitoxin
+Scilla maritima: proscillaridin A
+
+
+== Cơ chế tác dụng ==
+Tác dụng chính của glycozid tim là làm giảm vận chuyển natri ra khỏi tế bào tim bằng cách ức chế men Na+-K+ATPase (bơm natri). Sự tích tụ natri dẫn đến tăng nồng độ ion calci nội bào do trao đổi Na+/Ca2+. Điều này gây ra tác dụng làm tăng tính co bóp sợi cơ tim (inotrope dương tính) của glycozid tim. Bên cạnh đó, tác dụng chống rối loạn nhịp của các thuốc này có được là do tăng cường sự ức chế của thần kinh lang thang lên tính tự động của nút xoang và dẫn truyền nút nhĩ thất. Ở nồng độ cao, glycozid tim làm tăng tính tự động cơ tim do gây quá tải calci nội bào.
+Ba tác động chính của glycozid tim là:
+
+Tác động tăng co bóp cơ tim.
+Giảm nhịp thất trong rung nhĩ hay cuồng động nhĩ, bằng cách giảm dẫn truyền nhĩ thất. Tác động này bị giảm bớt khi vận động do giảm trương lực thần kinh lang thang.
+Tăng tính tự động cơ tim ở nồng độ cao (độc tính), hay ở nồng độ 'điều trị' nếu có mặt các yếu tố khác như hạ kali máu.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

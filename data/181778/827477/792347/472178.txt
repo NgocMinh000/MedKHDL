@@ -1,0 +1,236 @@
+Ngủ là trạng thái giảm hoạt động tinh thần và thể chất, trong đó ý thức bị thay đổi, hoạt động của các giác quan bị ức chế ở một mức độ nhất định. Trong khi ngủ, hoạt động của cơ bắp và các tương tác với môi trường xung quanh giảm đi đáng kể. Mặc dù ngủ khác với tình trạng thức về khả năng đáp ứng với các kích thích, nhưng trong giấc ngủ, não vẫn có hoạt động, vẫn có đáp ứng mạnh hơn so với não trong tình trạng hôn mê hoặc rối loạn ý thức.
+Chu kỳ giấc ngủ là sự luân phiên giữa hai "chế độ" giấc ngủ riêng biệt: giấc ngủ REM và giấc ngủ non-REM. Mặc dù REM là viết tắt của "chuyển động mắt nhanh", ngoài sự hoạt động của mắt, chế độ ngủ này còn có nhiều khía cạnh khác như cơ thể bị tê liệt ảo. Giấc mơ là một chuỗi các hình ảnh, ý tưởng, cảm xúc và cảm giác thường xảy ra một cách không chủ ý trong tâm trí tại những giai đoạn nhất định của giấc ngủ. Trong khi ngủ, hầu hết các hệ cơ quan trong cơ thể đều trạng thái đồng hóa, giúp phục hồi miễn dịch, hệ thần kinh, hệ xương và hệ cơ; đây là những quá trình quan trọng giúp duy trì cảm xúc (mood), trí nhớ và chức năng nhận thức. Giấc ngủ đồng thời đóng vai trò quan trọng trong chức năng của hệ nội tiết và hệ miễn dịch. Đồng hồ sinh học có vai trò thúc đẩy giấc ngủ vào ban đêm. Các mục đích và cơ chế đa dạng của giấc ngủ là chủ đề của nhiều nghiên cứu đang được tiến hành. Ngủ là một hành vi được bảo tồn cao trong suốt quá trình tiến hóa của động vật, có thể đã có từ hàng trăm triệu năm trước.
+Con người có thể bị các rối loạn giấc ngủ khác nhau: 
+
+Loạn miên (dyssomnia) như mất ngủ, chứng mất ngủ, chứng ngủ rũ và ngưng thở khi ngủ
+Mất ngủ giả (hay cận miên, parasomnia) như mộng du (còn gọi là miên hành) và rối loạn hành vi khi ngủ chuyển động mắt nhanh (Rapid eye movement sleep behavior disorder); nghiến răng; và rối loạn giấc ngủ nhịp sinh học.
+Ánh sáng nhân tạo đã thay đổi đáng kể thói quen ngủ của con người. Các nguồn ánh sáng nhân tạo phổ biến gồm ánh sáng từ đèn phố và màn hình của các thiết bị điện tử như điện thoại thông minh và tivi phát ra một lượng lớn ánh sáng xanh, một dạng ánh sáng thường có vào ban ngày, làm gián đoạn việc giải phóng hormone melatonin cần thiết để điều chỉnh chu kỳ giấc ngủ.
+
+
+== Sinh lý học ==
+Trong giấc ngủ, những thay đổi sinh lý rõ rệt nhất xảy ra tại não. não sử dụng năng lượng ít hơn đáng kể trong khi ngủ so với khi thức, đặc biệt là trong giấc ngủ non-REM (không chuyển động mắt nhanh). Ở những khu vực bị giảm hoạt động, não phục hồi nguồn cung cấp adenosine triphosphate (ATP), phân tử được sử dụng để lưu trữ và vận chuyển năng lượng trong thời gian ngắn. Khi tỉnh và trong trạng thái nghỉ ngơi, não sử dụng 20% ​​năng lượng của cơ thể, do đó sự giảm thiểu năng lượng sử dụng của não có tác động rõ rệt đến mức tiêu thụ năng lượng tổng thể.
+Giấc ngủ làm tăng ngưỡng cảm giác. Nói cách khác, những người đang ngủ cảm nhận được ít kích thích hơn, nhưng nói chung vẫn có thể phản ứng với tiếng ồn lớn và các kích thích lên giác quan mạnh.
+Trong giấc ngủ sóng chậm, cơ thể người tiết ra hormone tăng trưởng. Prolactin được tiết ra trong mọi giấc ngủ, kể cả ngủ ban ngày.
+Các phương pháp chính để theo dõi và đo lường những thay đổi trong khi ngủ gồm điện não đồ (EEG) sóng não, điện nhãn đồ (EOG) theo dõi chuyển động mắt và điện cơ đồ (EMG) theo dõi cơ vân. Việc thu thập đồng thời các phương pháp này được gọi là đa ký giấc ngủ và thực hiện trong phòng thí nghiệm chuyên biệt về giấc ngủ. Các nhà nghiên cứu về giấc ngủ cũng sử dụng điện tâm đồ đơn giản hóa (ECG) theo dõi hoạt động của tim và biểu đồ cử động (actigraphy) để theo dõi cử động của động cơ.
+
+
+=== Sóng não trong giấc ngủ ===
+Hoạt động điện nhìn thấy trên điện não đồ đại diện cho sóng não. Biên độ của sóng điện não đồ ở một tần số cụ thể tương ứng với các điểm khác nhau trong chu kỳ thức-ngủ, chẳng hạn như trạng thái đang ngủ, đang thức hoặc đang buồn ngủ. Các sóng alpha, beta, theta, gamma và delta đều được thể hiện trong các giai đoạn khác nhau của giấc ngủ. Mỗi dạng sóng duy trì một tần số và biên độ khác nhau. Sóng alpha được nhìn thấy khi ở trạng thái nghỉ ngơi, nhưng vẫn hoàn toàn tỉnh táo. Họ có thể nhắm mắt và toàn bộ cơ thể đang nghỉ ngơi và ở trạng thái tương đối tĩnh, lúc đáp ứng cơ thể bắt đầu chậm lại. Sóng beta lấn át sóng alpha khi một người đang tập trung chú ý, chẳng hạn như lúc đang hoàn thành một nhiệm vụ hoặc đang tập trung vào điều gì đó. Sóng beta có tần số cao nhất và biên độ thấp nhất và xảy ra khi một người hoàn toàn tỉnh táo. Sóng alpha và beta là những sóng duy nhất quan sát được khi một người ở trạng thái tỉnh táo. Sóng gamma xuất hiện khi một người tập trung cao độ vào một nhiệm vụ, đang dành toàn bộ sự tập trung vào nhiệm vụ. Sóng theta xuất hiện trong thời gian một người ở trạng thái thức chuyển sang Giai đoạn 1 của giấc ngủ và xuất hiện ở giai đoạn 2. Sóng delta được nhìn thấy trong giai đoạn 3 và 4 của giấc ngủ, tức là khi chìm vào giấc ngủ sâu nhất.
+
+
+=== Giấc ngủ non-REM và REM ===
+
+Giấc ngủ được chia thành hai type lớn: giấc ngủ không chuyển động mắt nhanh (viết tắt là non-REM hoặc NREM) và giấc ngủ chuyển động mắt nhanh (viết tắt là REM). Giấc ngủ non-REM và REM khác nhau đến mức các nhà sinh lý học xác định đây là những trạng thái hành vi riêng biệt. Giấc ngủ non-REM xảy ra trước và sau một giai đoạn chuyển tiếp được gọi là giấc ngủ sóng chậm (slow-wave slee) hay còn gọi là giấc ngủ sâu. Trong giai đoạn này, nhiệt độ cơ thể và nhịp tim giảm, não sử dụng ít năng lượng hơn. Giấc ngủ REM chiếm một phần nhỏ hơn trong tổng thời gian ngủ. Đây là lúc những giấc mơ (hoặc ác mộng) xảy đến, và có liên quan đến sự không đồng bộ và nhanh của sóng não, của cử động mắt, sự mất trương lực cơ và sự thay đổi cân bằng nội môi.
+Chu kỳ giấc ngủ của giấc ngủ non-REM và REM xen kẽ trung bình mất 90 phút, xảy ra 4–6 chu kỳ trong một đêm ngủ ngon giấc. Học viện Y học về Giấc ngủ Hoa Kỳ (AASM) chia non-REM thành ba giai đoạn: N1, N2 và N3, khoảng thời gian cuối cùng của từng giai đoạn trên còn được gọi là giấc ngủ delta hoặc giấc ngủ sóng chậm. Toàn bộ giai đoạn thường diễn ra theo thứ tự: N1 → N2 → N3 → N2 → REM. Giấc ngủ REM xảy ra khi giấc ngủ quay trở lại giai đoạn N2 hoặc N1 sau một giấc ngủ sâu. Nhiều giấc ngủ sâu (giai đoạn N3) xảy ra sớm hơn vào ban đêm, trong khi tỷ lệ giấc ngủ REM tăng lên trong hai chu kỳ giấc ngủ cuối cùng, ngay trước khi tỉnh (một cách tự nhiên).
+
+
+=== Tỉnh ===
+
+Tỉnh có nghĩa là kết thúc giấc ngủ, hoặc chỉ đơn giản là một khoảnh khắc để quan sát môi trường xung quanh và điều chỉnh lại vị trí cơ thể trước khi lại chìm vào giấc ngủ. Người đang ngủ thường tỉnh ngay sau khi kết thúc giai đoạn REM hoặc đôi khi ở giữa giai đoạn REM. Đồng hồ sinh học bên trong cùng với việc giảm thành công nhu cầu cân bằng nội môi trong khi ngủ, thường dẫn đến thức và kết thúc chu kỳ giấc ngủ. Thức kích hoạt dẫn truyền điện tăng cao trong não, bắt đầu từ đồi thị và lan rộng khắp vỏ đại não.
+Trong một giấc ngủ ban đêm điển hình, trạng thái thức diễn ra trong thời gian rất ngắn. Trong nhiều nghiên cứu sử dụng  điện não đồ để theo dõi giấc ngủ, các nghiên cứu này nhận ra rằng thời gian của trạng thái thức so với tổng thời gian ngủ của phụ nữ là 0-1% còn nam giới là 0-2%. Ở người lớn, thời gian trạng thái thức dài lên. Các chu kỳ giấc ngủ càng gần về cuối giấc thì thời gian thức càng dài lên. Một nghiên cứu cho thấy trong chu kỳ giấc ngủ 90 phút đầu tiên, thời gian thức là 3%. Thời lượng này sẽ là 8% trong chu kỳ giấc ngủ thứ hai, 10% trong chu kỳ thứ ba, 12% trong chu kỳ thứ tư và 13–14% trong chu kỳ thứ năm. Hầu hết thời gian của trạng thái tỉnh này diễn ra ngay sau giấc ngủ REM.
+Ngày nay, đồng hồ báo thức hỗ trợ con người tỉnh dạy; tuy nhiên có thể tự đánh thức mình vào một thời điểm cụ thể mà không cần đồng hồ. Có sự khác nhau về thời lượng ngủ giữa ngày làm việc so với ngày nghỉ, một hành vi dẫn đến tình trạng mất đồng bộ đồng hồ sinh học mạn tính. Nhiều người thường xuyên xem màn hình tivi hay màn hình điện thoại trước khi đi ngủ. Đây là yếu tố có thể làm trầm trọng thêm sự gián đoạn của chu kỳ sinh học. Các nghiên cứu khoa học giấc ngủ đã chỉ ra rằng ngủ gật lúc tỉnh là một yếu tố quan trọng trong việc làm trầm trọng thêm hiện tượng quán tính giấc ngủ.
+Các yếu tố quyết định sự tỉnh táo sau khi thức dậy bao gồm thời lượng/chất lượng giấc ngủ, hoạt động thể chất của ngày hôm trước, bữa sáng giàu carbohydrat và đáp ứng liên quan đường huyết.
+
+
+== Thời gian ==
+Thời gian ngủ được kiểm soát bởi đồng hồ sinh học (Quy trình C, chữ C lấy từ circadian clock), cân bằng nội môi thức-ngủ (Quy trình S, chữ S lấy từ sleep-wake homeostasis) và ở một mức độ nào đó thời gian ngủ phụ thuộc ý chí của cá nhân.
+
+
+=== Đồng hồ sinh học ===
+
+Thời gian ngủ phụ thuộc rất nhiều vào các tín hiệu hormone (nội tiết tố) từ đồng hồ sinh học (còn gọi là Quy trình C). Quy trình C là một hệ thống hóa học-thần kinh phức tạp sử dụng các tín hiệu từ môi trường của cơ thể để tái tạo nhịp ngày-đêm bên trong. Ở sinh vật ban ngày, trong giấc ngủ vào ban ngày, quy trình C chống lại cân bằng nội môi, còn giấc ngủ ban đêm thì quy trình C tăng cường cân bằng nội mô. Nhân trên giao thoa thị giác (còn gọi là nhân trên chéo, tiếng Anh là suprachiasmatic nucleus, viết tắt là SCN) là một vùng não ngay phía trên giao thoa thị giác, hiện được coi là cấu trúc giải phẫu quan trọng nhất cho quá trình này; tuy nhiên, hệ thống đồng hồ thứ cấp đã được tìm thấy trên khắp cơ thể.
+Đồng hồ sinh học tác động liên tục lên cơ thể, ảnh hưởng đến thân nhiệt dao động theo đồ thị hình sin trong khoảng 36,2 °C và 37,2 °C. Bản thân nhân trên giao thoa thị giác tăng cường hoạt động lúc ban ngày ("ban ngày" ở đây phụ thuộc vào nhận thức chủ quan của cơ thể, có thể chính xác hay không chính xác so với thời gian thực) và giảm xuống gần như không vào ban đêm ("ban đêm" ở đây cũng phụ thuộc vào nhận thức chủ quan của cơ thể). Sự tạo nhịp sinh học trong nhân trên giao thoa thị giác có tiếp nối thần kinh trực tiếp với tuyến tùng (tuyến tiết ra hormone melatonin vào ban đêm). Nồng độ cortisol thường tăng vào ban đêm, cao nhất vào thời gian lúc thức giấc và giảm dần vào ban ngày. Sự bài tiết prolactin theo nhịp sinh học bắt đầu vào lúc xế chiều, đặc biệt là ở phụ nữ, và sau đó tăng cường bài tiết khi ngủ, đạt đỉnh vào nửa đêm. Nhịp sinh học gây ra một số ảnh hưởng đến việc tiết hormone tăng trưởng vào ban đêm.
+Nhịp sinh học ảnh hưởng đến thời điểm lý tưởng của một giấc ngủ phục hồi. Buồn ngủ tăng lên trong đêm. Giấc ngủ REM xảy ra nhiều hơn khi nhiệt độ cơ thể ở ngưỡng thấp nhất trong chu kỳ sinh học, trong khi giấc ngủ sóng chậm xảy ra độc lập hơn với thời gian sinh học.
+Đồng hồ sinh học bên trong bị ảnh hưởng sâu sắc bởi những thay đổi của ánh sáng, vì đây là manh mối chính "thông báo" cho đồng hồ biết lúc này là mấy giờ. Tiếp xúc với một lượng nhỏ ánh sáng trong đêm có thể ngăn chặn melatonin tiết ra, đồng thời làm tăng nhiệt độ cơ thể và tăng sự tỉnh táo. Các xung ánh sáng ngắn, vào đúng thời điểm trong chu kỳ sinh học, có thể 'thiết lập lại' đáng kể đồng hồ sinh học bên trong. Đặc biệt, ánh sáng xanh có tác dụng mạnh nhất, dẫn đến lo ngại rằng việc sử dụng màn hình trước khi đi ngủ có thể cản trở giấc ngủ.
+Con người thời hiện đại thường thấy mình không đồng bộ với đồng hồ sinh học bên trong do yêu cầu của công việc (như đi làm ca đêm), di chuyển xa và ảnh hưởng của ánh sáng trong nhà. Ngay cả khi thiếu ngủ hoặc cảm thấy buồn ngủ, con người vẫn có thể gặp khó ngủ khi chu kỳ giấc ngủ đạt đỉnh và khó khăn khi thức dậy khi thời gian ngủ kết thúc.
+
+
+=== Quy trình S ===
+Nói chung, một sinh vật thức càng lâu thì càng cảm thấy cần phải ngủ bù (do "nợ ngủ"). Hiện tượng này được giải thích bằng Quy trình S. Sự cân bằng giữa ngủ và thức được điều chỉnh bởi một quá trình gọi là cân bằng nội môi. Ngủ ít gây ra tình trạng gọi là thiếu ngủ.
+Quá trình S được thúc đẩy bởi sự cạn kiệt glycogen và tích tụ adenosine ở thùy trán làm mất ức chế nhân tiền thị sau ngoài (ventrolateral preoptic nucleus), cho phép ức chế bó thần kinh đi lên vỏ não của cấu tạo lưới (ascending reticular activating system).
+Thiếu ngủ có xu hướng gây ra sóng não chậm hơn ở vỏ não trước, làm giảm thời gian tập trung chú ý, tăng lo lắng, suy giảm trí nhớ, gây tâm trạng cáu kỉnh. Ngược lại, nghỉ ngơi đầy đủ giúp cải thiện trí nhớ và tâm trạng. Các nghiên cứu chẩn đoán hình ảnh chức năng và sinh lý thần kinh đã chứng minh rằng các vùng phía trước của não chịu trách nhiệm cho cân bằng nội môi trong giấc ngủ.
+Có sự bất đồng về liệu thời gian "nợ ngủ" có được tích lũy dựa trên giấc ngủ trung bình của một cá nhân hay một số tiêu chuẩn khác hay không. Cũng chưa rõ liệu tỷ lệ thiếu ngủ ở người trưởng thành có thay đổi đáng kể từ lúc thế giới chuyển sang thời đại công nghiệp hóa hay không. Có một số bằng chứng cho thấy thời lượng "nợ ngủ" có thể tích lũy, dồn lại. Tuy nhiên, về mặt chủ quan, con người dường như đạt đến trạng thái buồn ngủ tối đa 30 giờ sau khi thức dậy. Trẻ em xã hội phương Tây có khả năng ngủ ít hơn so với trước đây.
+Một chất hóa học thần kinh chỉ điểm cho "nợ ngủ" là adenosine, một chất dẫn truyền thần kinh ức chế nhiều quá trình cơ thể liên quan đến sự tỉnh táo. Nồng độ adenosine tăng lên trong vỏ não và nền trước trong thời gian tỉnh táo kéo dài và giảm trong giai đoạn phục hồi giấc ngủ, có khả năng hoạt động như một chất điều hòa cân bằng nội môi của giấc ngủ. Cà phê, trà và các nguồn cafein khác tạm thời ngăn chặn tác dụng của adenosine, kéo dài thời gian trễ của giấc ngủ, đồng thời làm giảm tổng thời gian và chất lượng giấc ngủ.
+
+
+=== Thời gian xã hội ===
+Con người cũng bị ảnh hưởng bởi các khía cạnh của thời gian xã hội (social time), chẳng hạn như giờ cần phải thức dậy, giờ đi làm việc, giờ ghi trên đồng hồ, v.v. Múi giờ, giờ chuẩn dùng để thống nhất thời gian cho người dân trong cùng một khu vực, chỉ tương ứng gần đúng với sự mọc và lặn tự nhiên của mặt trời. Một ví dụ điển hình về bản chất gần đúng của các múi giờ là Trung Quốc, một quốc gia từng có năm múi giờ và hiện chỉ sử dụng chính thức một múi giờ (UTC+8).
+
+
+=== Phân bố thời gian ngủ ===
+Giấc ngủ đa pha là ngủ nhiều lần trong chu kỳ 24 giờ. Giấc ngủ một pha thì chỉ ngủ một lần. Con người có xu hướng luân phiên giữa ngủ và thức thường xuyên hơn (nghĩa là theo xu hướng giấc ngủ đa pha) nếu họ không có việc để làm. Trong điều kiện thí nghiệm, dưới bóng tối trong thời gian 14 giờ, con người có xu hướng ngủ hai lần, và thời điểm đầu và cuối thời gian dưới bóng tối. Trước thời kỳ cách mạng công nghiệp, con người thường ngủ 2 lần như vậy.
+Một số kiểu phân bố thời gian ngủ (chronotype) được gọi nôm na bằng các từ ngữ như "chim sâu dậy sớm" và "cú đêm". Di truyền, giới tính và thói quen ảnh hưởng tới kiểu phân bố thời gian ngủ. Kiểu phân bố này có thể thay đổi theo từng giai đoạn cuộc đời. Trẻ 7 tuổi có khả năng dậy sớm vào buổi sáng tốt hơn so với trẻ 15 tuổi. Các kiểu phân bố thời gian nằm ngoài phạm vi bình thường được gọi là rối loạn giấc ngủ nhịp sinh học.
+
+
+==== Giấc ngủ ngắn ====
+Giấc ngủ ngắn là những khoảng thời gian ngủ ngắn ban ngày, thường là để có đủ thời gian nghỉ ngơi cần thiết. Trẻ nhỏ thường có giấc ngủ ngắn. Thời lượng những giấc ngủ kiểu này tối ưu là khoảng 10–20 phút, vì các nhà nghiên cứu đã chứng minh rằng phải mất ít nhất 30 phút để bước vào giấc ngủ sóng chậm, giai đoạn sâu nhất của giấc ngủ. Việc ngủ ngắn quá lâu khiến giấc ngủ bước vào chu kỳ sóng chậm có thể gây khó tỉnh dậy sau giấc ngủ ngắn và để lại cảm giác bất an. Khoảng thời gian buồn ngủ sau khi thức dậy được gọi là quán tính giấc ngủ.
+
+Có bằng chứng cho rằng thói quen ngủ trưa có mối tương quan với tỷ lệ tử vong do bệnh mạch vành thấp hơn 37% so với không ngủ trưa, có thể là do ngủ trưa giúp giảm căng thẳng. Những giấc ngủ ngắn vào giữa ngày và tập thể dục nhẹ vào buổi tối được cho là có hiệu quả để cải thiện giấc ngủ, nhận thức và sức khỏe tâm thần ở người cao tuổi.
+
+
+=== Di truyền ===
+
+
+==== Gen quy định thời gian ngủ ngắn ====
+Các gen DEC2, ADRB1, NPSR1 và GRM1 có liên quan đến giấc ngủ ngắn.
+
+
+=== Chất lượng giấc ngủ ===
+Chất lượng giấc ngủ được đánh giá từ góc nhìn khách quan và chủ quan. Chất lượng giấc ngủ dưới góc độ khách quan đề cập đến cách thức đi vào giấc ngủ và duy trì trạng thái ngủ như thế nào, cũng như số lần họ thức dậy trong một đêm. Chất lượng giấc ngủ được cho là kém khi chu kỳ chuyển đổi giữa các giai đoạn khác nhau của giấc ngủ bị cản trở. Ngược lại, chất lượng giấc ngủ dưới góc độ chủ quan đề cập đến cảm giác được nghỉ ngơi và tái tạo sau khi thức giấc. Một nghiên cứu của A. Harvey và cộng sự (2002) phát hiện ra rằng những người mất ngủ đòi hỏi khắt khe hơn trong việc đánh giá chất lượng giấc ngủ so với những người không gặp vấn đề về giấc ngủ.
+Để có giấc ngủ được coi là "thỏa mãn", xu hướng cân bằng nội môi khi ngủ phải được cân bằng với yếu tố sinh học. Đồng hồ sinh học sẽ thông báo cho cơ thể biết khi nào cần phải ngủ. Thời điểm chính xác là khi hai dấu sinh học sau đây xảy ra sau giai đoạn giữa giấc ngủ và trước khi thức dậy: (1) nồng độ hormone melatonin tối đa, (2) thân nhiệt tối thiểu.
+
+
+== Thời lượng ngủ lý tưởng ==
+
+Nhu cầu về giấc ngủ của con người thay đổi theo độ tuổi và tùy vào từng cá thể; Giấc ngủ được coi là đủ khi không cảm thấy buồn ngủ ban ngày hoặc rối loạn chức năng. Hơn nữa, thời lượng giấc ngủ do bệnh nhân nói cho bác sĩ biết chỉ có mối tương quan gần đúng với thời gian ngủ thực tế, vốn cần được đo bằng biểu đồ cử động (actigraphy). Một số bệnh nhân có nhận thức sai về trạng thái ngủ (mã ICD-10: G47.0, F51.0) thường báo cáo rằng họ chỉ ngủ được 4 giờ mặc dù họ ngủ đủ 8 giờ.
+Các nhà nghiên cứu đã phát hiện ra rằng ngủ 6-7 giờ mỗi đêm tương quan với tuổi thọ và sức khỏe tim mạch ở người, mặc dù nhiều yếu tố nhiễu khác có can thiệp đến mối quan hệ nhân quả này.
+Ngoài ra, khó ngủ còn liên quan đến các rối loạn tâm thần như trầm cảm, nghiện rượu và rối loạn lưỡng cực. Có tới 90% người lớn bị trầm cảm có khó ngủ. Điện não đồ phát hiện rối loạn tính liên tục của giấc ngủ, giảm giấc ngủ delta và thay đổi các kiểu REM liên quan đến thời gian tiềm (latency), phân bố giấc ngủ trong đêm (distribution across the night) và mật độ chuyển động của mắt (density of eye movements).
+Thời gian ngủ có thể thay đổi theo mùa. Có tới 90% số người cho biết thời gian ngủ dài hơn vào mùa đông, có thể dẫn đến rối loạn cảm xúc theo mùa rõ rệt hơn.
+
+
+=== Trẻ em ===
+
+Khi trẻ 2 tuổi, kích thước não của trẻ đã đạt tới 90% kích thước não người lớn; sự phát triển não bộ này diễn ra phần lớn trong giai đoạn của cuộc đời có thời lượng ngủ nhiều nhất. Số giờ trẻ ngủ ảnh hưởng đến khả năng thực hiện các nhiệm vụ liên quan nhận thức. Những đứa trẻ ngủ ngon suốt đêm và ít thức giấc giữa đêm có khả năng nhận thức cao hơn và tính cách dễ tính hơn những đứa trẻ khác.
+Ngủ cũng ảnh hưởng đến phát triển ngôn ngữ. Để kiểm tra mối tương quan giữa ngủ và ngôn ngữ, các nhà nghiên cứu đã dạy trẻ sơ sinh một "ngôn ngữ giả" và quan sát hồi ức của chúng về các quy tắc của ngôn ngữ giả đó. Trẻ sơ sinh ngủ trong vòng 4 giờ sau khi học ngôn ngữ có thể nhớ các quy tắc ngôn ngữ tốt hơn, trong khi những trẻ thức lâu hơn cũng không nhớ các quy tắc đó. Ngoài ra còn có một mối quan hệ giữa vốn từ vựng của trẻ sơ sinh và giấc ngủ: trẻ sơ sinh ngủ nhiều hơn vào ban đêm khi được 12 tháng tuổi sẽ có vốn từ vựng tốt hơn khi được 26 tháng tuổi.
+Trẻ em hưởng lợi rất nhiều từ thói quen trước khi đi ngủ. Những thói quen này có thể khác nhau giữa các gia đình, nhưng nhìn chung sẽ có các "nghi thức" trước khi đi ngủ như đọc truyện, tắm, đánh răng hay là việc cha mẹ thể hiện tình cảm với con cái như ôm hoặc hôn trước khi đi ngủ. Một thói quen trước khi đi ngủ cũng sẽ bao gồm một khoảng thời gian nhất quán để sẵn sàng đi ngủ. Có một thói quen đi ngủ như vậy có thể giúp cải thiện chất lượng giấc ngủ của trẻ cũng như chuẩn bị cho trẻ thực hiện và giữ thói quen vệ sinh giấc ngủ lành mạnh trong tương lai.
+
+
+=== Thời lượng đề xuất ===
+
+Trẻ em cần ngủ nhiều giờ mỗi ngày để phát triển và hoạt động bình thường: tối đa 18 giờ đối với trẻ sơ sinh, trẻ lớn hơn thì số giờ ngủ giảm dần. Đầu năm 2015, sau 2 năm nghiên cứu, Tổ chức Giấc ngủ Quốc gia Hoa Kỳ đã công bố các khuyến nghị mới sửa đổi như trong bảng dưới đây.
+
+
+== Vai trò của giấc ngủ ==
+
+
+=== Sự phục hồi ===
+Khi tỉnh táo, quá trình trao đổi chất của não tạo ra sản phẩm chuyển hóa cuối cùng, chẳng hạn như loài oxy phản ứng (tiếng Anh: reactive oxygen species, ROS, thuật ngữ được dịch theo nguồn:). Neuron (tế bào thần kinh) là loại tế bào tiêu thụ rất nhiều oxy và tạo ra rất nhiều ROS. Chính ROS làm hỏng và ức chế chức năng của neuron. Trong khi ngủ, tốc độ trao đổi chất giảm và việc tạo ra ROS cũng giảm, tạo điều kiện các quá trình phục hồi. Bộ não khi ngủ đã được chứng minh là loại bỏ các sản phẩm chuyển hóa cuối cùng đã nêu ở trên với tốc độ nhanh hơn so với khi thức. Cơ chế loại bỏ này thể hiện trong hệ thống làm sạch hệ thần kinh trung ương (tiếng Anh: glymphatic system). Giấc ngủ có thể tạo điều kiện thuận lợi cho quá trình tổng hợp các phân tử giúp sửa chữa và bảo vệ não khỏi các sản phẩm cuối cùng của quá trình trao đổi chất được tạo ra khi thức. Các hormone đồng hóa, chẳng hạn như hormon tăng trưởng, được tiết ra nhiều hơn trong khi ngủ. Nồng độ glycogen trong não tăng lên trong khi ngủ và cạn kiệt thông qua quá trình trao đổi chất khi thức.
+Giấc ngủ đóng vai trò cần thiết để sửa chữa DNA và tự thực bào (tiếng Anh: autophagy) một cách hiệu quả. Thiếu giấc ngủ REM làm tăng lượng noradrenalin, một chất chống oxy hóa, khiến tế bào thần kinh chết theo chương trình nhiều hơn mức cần thiết. Noradrenalin trong não ảnh hưởng đến nhiều hoạt động, trong đó làm tăng hoạt động của Na+/K+-ATPase (bơm natri-kali).
+Cơ thể người tự phục hồi về mặt thể chất trong khi ngủ, chủ yếu xảy ra trong giấc ngủ sóng chậm, trong đó nhiệt độ cơ thể, nhịp tim và mức tiêu thụ oxy của não giảm. Ở cả não và cơ thể, tỷ lệ trao đổi chất giảm cho phép kích hoạt các quá trình phục hồi. Bộ não cần ngủ để phục hồi, quá trình phục hồi cũng có thể diễn ra trong thời gian thức giấc nhưng không hoạt động. Tác dụng phục hồi của giấc ngủ đối với não quan trọng đến nỗi được một bài báo khoa học trên tạp chí Nature nhận định rằng: "Giấc ngủ là của não, do não và vì não." Lý thuyết này được củng cố bởi thực tế rằng giấc ngủ được coi là một hành vi cơ bản ở hầu hết các loài động vật, bao gồm cả một số loài động vật kém tiến hóa nhất không cần các chức năng khác của giấc ngủ, chẳng hạn như củng cố trí nhớ hoặc nằm mơ.
+Ảnh hưởng của thời gian ngủ đối với sự phát triển thân thể (somatic) chưa được biết rõ. Một nghiên cứu đã ghi lại tăng trưởng, chiều cao và cân nặng tương quan với thời gian nằm trên giường ở 305 trẻ em trong khoảng thời gian 9 năm (1–10 tuổi), do phụ huynh chúng theo dõi và báo cáo. Người ta thấy rằng "sự thay đổi về thời lượng giấc ngủ ở trẻ em dường như không ảnh hưởng đến tốc độ tăng trưởng." Giấc ngủ sóng chậm ảnh hưởng đến nồng độ hormone tăng trưởng (GH) ở nam giới trưởng thành Trong giấc ngủ 8 tiếng, những người có tỷ lệ giấc ngủ sóng chậm (SWS) cao (trung bình 24%) cũng có lượng GH tiết ra cao, trong khi những đối tượng có tỷ lệ SWS thấp (trung bình 9%) có lượng GH tiết ra thấp.
+
+
+=== Xử lý bộ nhớ ===
+
+Giấc ngủ được cho là hỗ trợ hình thành trí nhớ dài hạn, và nói chung là làm tăng khả năng nhớ lại hay gợi lại (recall) những kinh nghiệm và học tập trước đây. Tuy nhiên, lợi ích của nó dường như phụ thuộc vào giai đoạn của giấc ngủ và loại trí nhớ. Ví dụ, hiện tượng gợi lại trí nhớ rõ ràng (explicit hay declarative memory) và trí nhớ phương thức (procedural memory, một phần của trí nhớ ẩn - implicit memory) xuất hiện trong giấc ngủ đêm kể cả ngủ sớm và ngủ muộn và trong tình trạng thức tĩnh tại, đã được chứng minh rằng trí nhớ rõ ràng cải thiện nhiều hơn trong thời gian ngủ sớm (do SWS chi phối) trong khi đó trí nhớ phương thức (do giấc ngủ REM) cải thiện nhiều hơn trong thời gian ngủ muộn.
+Đối với trí nhớ rõ ràng, vai trò chức năng của SWS có liên quan đến việc phát lại hồi hải mã của các mẫu thần kinh được mã hóa trước đó dường như tạo điều kiện củng cố trí nhớ dài hạn. Giả định này dựa trên giả thuyết củng cố hệ thống tích cực (active system consolidation hypothesis), trong đó nêu rõ ràng rằng việc kích hoạt lặp đi lặp lại thông tin mới được mã hóa ở vùng hải mã trong giấc ngủ Non-REM làm trung gian cho sự ổn định và tích hợp dần dần của trí nhớ rõ ràng với các mạng lưới tri thức có sẵn ở cấp độ vỏ não. Giả thuyết trên giả định rằng hồi hải mã chỉ có thể lưu giữ thông tin tạm thời và kiến thức lĩnh hội ở tốc độ học nhanh, học lướt qua, trong khi vùng tân vỏ não có liên quan đến khả năng lưu trữ lâu dài và kiến thức học ở tốc độ chậm. Sự kết nối giữa hải mã và tân vỏ não xảy ra song song với các gợn sóng nhọn (sharp-wave ripples) tại hồi hải mã và các đợt sóng nhanh (sleep spindle - hoạt động của não bộ xuất hiện lớp sóng dồn trong một giai đoạn nhất định của giấc ngủ). Sự đồng bộ nêu trên thúc đẩy hình thành sự kiện gợn sóng nhọn-đợt sóng nhanh (spindle-ripple event), là điều kiện tiên quyết để hình thành trí nhớ dài hạn.
+
+
+=== Mơ ===
+
+Trong khi ngủ, đặc biệt là giấc ngủ REM, con người có xu hướng mơ. Đây là những trải nghiệm ở ngôi thứ nhất (trải nghiệm của chính mình), tuy nhiên rất khó nắm bắt và hầu như không thể đoán trước sự kiện sẽ xảy đến, đối với người khi đang mơ thì những trải nghiệm đó "có vẻ hợp lý và thực tế", còn dưới góc độ khi thức dậy, khi họ đánh giá lại trải nghiệm thì đó là những sự kiện thường mang tính kỳ quái, phi lý, siêu thực. Giấc mơ thường kết hợp liền mạch các khái niệm, tình huống, con người và đồ vật trong tâm trí của một người mà thông thường không song hành, không liên quan gì đến nhau. Giấc mơ có thể tạo ra các loại cảm giác rất rõ ràng, đặc biệt là cảm giác của thị giác và cảm giác đang chuyển động.
+Những giấc mơ có xu hướng nhanh chóng bị lãng quên khỏi trí nhớ sau khi thức dậy. Một số người lựa chọn giải pháp ghi nhật ký giấc mơ, điều mà họ tin rằng sẽ giúp họ nhớ lại giấc mơ và tạo điều kiện cho khả năng trải nghiệm giấc mơ sáng suốt.
+Giấc mơ sáng suốt (lucid dream) là một loại giấc mơ trong đó người ngủ nhận thức được rằng họ đang mơ trong khi mơ. Trong một số thí nghiệm, những người đang mơ có thể giao tiếp một cách có ý thức với những người làm thí nghiệm thông qua chuyển động của mắt hoặc tín hiệu cơ mặt, đồng thời có thể hiểu các câu hỏi phức tạp và sử dụng trí nhớ công việc (working memory).
+
+Có nhiều giả thuyết về các chức năng của giấc mơ được đưa ra. Sigmund Freud cho rằng giấc mơ là biểu hiện tượng trưng của những ham muốn bị vỡ mộng đã bị chìm vào tiềm thức, và ông đã sử dụng phương pháp giải mộng dưới hình thức phân tâm học để cố gắng khám phá những ham muốn này.
+Hiện tượng dương vật cương cứng khi ngủ trong những giấc mơ liên quan tình dục khi so với những giấc mơ khác thì không có những khác biệt đáng kể nào về tần suất xuất hiện. Hệ thần kinh đối giao cảm tăng hoạt động trong giấc ngủ REM, gây ra cương cứng dương vật hoặc âm vật. Ở nam giới, 80% đến 95% giấc ngủ REM thường đi kèm với hiện tượng dương vật cương cứng một phần đến hoàn toàn, trong khi chỉ có khoảng 12% giấc mơ của nam giới có nội dung tình dục.
+John Allan Hobson và Robert McCarley đề xuất rằng giấc mơ là kết quả của việc truyền tín hiệu (firing) một cách ngẫu nhiên giữa các tế bào thần kinh trong vỏ đại não trong giai đoạn giấc ngủ REM. Thuyết này giúp giải thích rõ ràng sự phi lý của tâm trí trong giai đoạn REM, vì theo thuyết này, vỏ não trước sẽ tạo ra một câu chuyện nhằm cố gắng hòa giải, liên kết và hiểu ý nghĩa của các thông tin vô nghĩa của giác quan. Thuyết trên đã giải thích bản chất kỳ quái của nhiều giấc mơ.
+
+
+== Các rối loạn giấc ngủ ==
+
+
+=== Mất ngủ ===
+Mất ngủ là thuật ngữ chung chỉ tình trạng khó đi vào giấc ngủ và/hoặc duy trì giấc ngủ. Mất ngủ là vấn đề về giấc ngủ phổ biến nhất, rất nhiều người trưởng thành đã từng gặp tình trạng mất ngủ và 10–15% người trưởng thành gặp mất ngủ mạn tính.
+Một tổng quan hệ thống năm 2010 về các đề tài nghiên cứu khoa học đã công bố cho thấy rằng tập thể dục nói chung giúp cải thiện giấc ngủ cho hầu hết mọi người và giúp điều trị rối loạn giấc ngủ như mất ngủ. Thời gian tối ưu để tập thể dục có thể là từ 4 đến 8 giờ trước khi đi ngủ, mặc dù tập vào bất kỳ thời điểm nào trong ngày đều có lợi. Tập nặng ngay trước khi đi ngủ có thể làm rối loạn giấc ngủ. Tuy nhiên, không có đủ bằng chứng để đưa ra kết luận chi tiết về mối quan hệ giữa tập thể dục và giấc ngủ. Thuốc an thần không benzodiazepin như zolpidem (Ambien), zopiclone (Imovane) và eszopiclone (Lunesta, còn được gọi là "thuốc Z"), trước khia được cho là tốt hơn và an toàn hơn các thế hệ thuốc an thần chứa benzodiazepin, tuy nhiên hiện tại các thuốc này được chứng minh là gần giống nhau về mặt dược lực học, chỉ khác nhau trong cấu trúc hóa học của dược chất, và do đó những thuốc này có lợi ích, tác dụng phụ tương tự nhau. Tiếng ồn trắng là một phương pháp điều trị đầy hứa hẹn cho mất ngủ.
+
+
+== Sức khỏe giấc ngủ ==
+Giấc ngủ kém chất lượng có liên quan đến các tình trạng sức khỏe như bệnh tim mạch, béo phì và bệnh tâm thần. Mặc dù giấc ngủ kém phổ biến ở những người mắc bệnh tim mạch, nhưng một số nghiên cứu chỉ ra rằng giấc ngủ kém lại là nguyên nhân gây ra các vấn đề về tim mạch. Thời gian ngủ< 7 tiếng một ngày có mối tương quan với bệnh mạch vành và tăng nguy cơ tử vong do bệnh mạch vành. Thời lượng giấc ngủ > 9 tiếng có mối tương quan với bệnh mạch vành, đột quỵ và các biến cố tim mạch.
+Ở cả trẻ em và người lớn, thời lượng ngủ ngắn có liên quan đến việc tăng nguy cơ béo phì, với nhiều nghiên cứu báo cáo nguy cơ này tăng lên 45 – 55%. Các khía cạnh khác của sức khỏe giấc ngủ có liên quan đến béo phì, bao gồm giấc ngủ ngắn ban ngày, thời gian ngủ, sự thay đổi của thời gian ngủ và hiệu quả giấc ngủ thấp. Tuy nhiên, thời lượng giấc ngủ được nghiên cứu nhiều nhất về tác động của nó đối với bệnh béo phì.
+Các vấn đề về giấc ngủ thường được coi là một triệu chứng của bệnh tâm thần hơn là một yếu tố gây bệnh. Tuy nhiên, ngày càng có nhiều bằng chứng cho thấy đây vừa là nguyên nhân vừa là triệu chứng của bệnh tâm thần. Mất ngủ là một yếu tố dự báo quan trọng của chứng rối loạn trầm cảm nặng. Thật vậy, một phân tích tổng hợp trên 170.000 người cho thấy chứng mất ngủ khi bắt đầu giai đoạn nghiên cứu cho thấy nguy cơ mắc chứng rối loạn trầm cảm nặng tăng gấp đôi. Một số nghiên cứu cũng chỉ ra mối tương quan giữa mất ngủ và lo lắng, rối loạn căng thẳng sau chấn thương (PSTD) và tự sát. Rối loạn giấc ngủ có thể làm tăng nguy cơ loạn thần và làm trầm trọng thêm mức độ nghiêm trọng của các giai đoạn loạn thần.
+Nghiên cứu về giấc ngủ cũng cho thấy sự khác biệt về chủng tộc và giai cấp. Tại Hoa Kỳ, ngủ thời lượng ngắn và ngủ không ngon giấc được quan sát thấy thường xuyên hơn ở các dân tộc thiểu số so với người da trắng. Người Mỹ gốc Phi trải qua số lần ngủ có thời lượng ngủ ngắn gấp 5 lần so với người da trắng, có thể là kết quả của các yếu tố xã hội và môi trường. Trẻ em da đen và trẻ em ở các khu dân cư khó khăn có tỷ lệ mắc hội chứng ngưng thở khi ngủ cao hơn nhiều so với trẻ em da trắng và đáp ứng kém hơn với điều trị.
+
+Có thể cải thiện sức khỏe giấc ngủ thông qua việc thực hiện các thói quen vệ sinh giấc ngủ tốt. Giữ vệ sinh giấc ngủ tốt có thể giúp cải thiện sức khỏe thể chất và tinh thần. Một số cách để cải thiện sức khỏe giấc ngủ bao gồm đi ngủ vào những thời điểm cố định mỗi đêm, tránh mọi thiết bị điện tử như tivi trong phòng ngủ, tập thể dục đầy đủ trong ngày và tránh dùng cafein trong vài giờ trước khi đi ngủ. Có thể thiết lập một môi trường ngủ yên bình và thư thái. Ngủ trong phòng tối và sạch sẽ với những máy móc như máy tạo tiếng ồn trắng có thể giúp tạo điều kiện cho giấc ngủ ngon.
+
+
+== Thuốc và chế độ ăn uống ==
+
+Các loại thuốc gây buồn ngủ, được gọi là thuốc ngủ, bao gồm benzodiazepin (mặc dù những loại thuốc này có can thiệp vào REM); Thuốc ngủ không benzodiazepine như eszopiclone (Lunesta), zaleplon (Sonata) và zolpidem (Ambien); thuốc kháng histamin như diphenhydramin (Benadryl) và doxylamin; alcohol (ethanol, có tác dụng kích thích hồi phục sau đó trong đêm và cản trở giấc ngủ REM) thuốc an thần (cản trở giấc ngủ REM), melatonin (một thành phần của đồng hồ sinh học) và cần sa (cũng có thể can thiệp vào REM). Một số thuốc phiện (bao gồm morphin, codein, heroin và oxycodone) cũng gây buồn ngủ và có thể phá vỡ cấu trúc giấc ngủ và phân bố giai đoạn giấc ngủ. Điều thú vị là thuốc gamma-hydroxybutyrat (GHB) có khả năng tạo ra giấc ngủ chất lượng cao, giấc ngủ này không thể phân biệt được với cấu trúc giấc ngủ tự nhiên ở người.
+
+Các chất kích thích, ức chế giấc ngủ, bao gồm cafein, một chất đối kháng adenosin; amphetamin, methamphetamin, MDMA (thuốc lắc, 3,4-methylenedioxymethamphetamin), empathogen-entactogen và các loại thuốc liên quan; cocain, có thể làm thay đổi nhịp sinh học, methylphenidat, có tác dụng tương tự;các loại thuốc eugeroic (thuốc chống ngủ) như modafinil và armodafinil có cơ chế chưa rõ. Bệnh nhân dùng một lượng lớn chất kích thích cafein có thể dẫn đến gián đoạn giấc ngủ, thiếu ngủ, dẫn đến buồn ngủ, sau đó tiếp tục dùng nhiều cafein hơn để tỉnh táo vào ngày hôm sau. Vòng luẩn quẩn này dẫn đến suy giảm chức năng nhận thức và cảm giác cơ thể lúc nào cũng uể oải, mệt mỏi.
+
+Một số loại thuốc có thể thay đổi cấu trúc giấc ngủ mà không ức chế hoặc gây buồn ngủ. Các loại thuốc khuếch đại hoặc ức chế tiết endocrine và hệ miễn dịch liên quan đến các giai đoạn nhất định của giấc ngủ đã được chứng minh là làm thay đổi cấu trúc giấc ngủ. Chất chủ vận thụ thể hormone giải phóng hormone tăng trưởng MK-677 (Ibutamoren) đã được chứng minh là làm tăng xấp xỉ 20% thời lượng giấc ngủ REM ở người trưởng thành cũng như tăng xấp xỉ 50% thời lượng giấc ngủ giai đoạn IV ở độ tuổi thanh niên.
+
+
+=== Chế độ ăn uống ===
+Lựa chọn chế độ ăn uống và dinh dưỡng có thể ảnh hưởng đến thời lượng và chất lượng giấc ngủ. Một đánh giá năm 2016 chỉ ra rằng chế độ ăn giàu carbohydrat giúp rút ngắn thời gian đi vào giấc ngủ và thời gian ngủ dài hơn so với chế độ ăn giàu chất béo. Một điều tra năm 2012 chỉ ra rằng cân bằng chất dinh dưỡng vi lượng và đa lượng là cần thiết để thúc đẩy giấc ngủ chất lượng. Một chế độ ăn uống đa dạng bao gồm trái cây và rau quả tươi, ít chất béo bão hòa và ngũ cốc nguyên cám có thể là lựa chọn tối ưu cho những người đang tìm cách cải thiện chất lượng giấc ngủ. Cần có nhiều thử nghiệm lâm sàng chất lượng cao để tìm hiểu tác động của ăn kiêng dài hạn, chế độ ăn uống đối với chất lượng giấc ngủ.
+
+
+== Trong văn hóa ==
+
+
+=== Nhân chủng học ===
+
+Nghiên cứu cho thấy rằng mô hình giấc ngủ khác nhau đáng kể giữa các nền văn hóa. Sự khác biệt nổi bật nhất được quan sát thấy giữa các xã hội không có và xã hội có sử dụng nguồn ánh sáng nhân tạo. Xã hội có sử dụng nguồn ánh sáng nhân tạo có nhiều người bị gián đoạn giấc ngủ hơn. Những người không sử dụng ánh sáng nhân tạo có thể đi ngủ sớm hơn rất nhiều sau khi mặt trời lặn, nhưng sau đó thức dậy nhiều lần trong đêm, có những khoảng thời gian tỉnh táo kéo dài vài giờ. Thời kỳ xã hội tiền công nghiệp ở Châu Âu, con người thường ngủ hai pha. Thời điểm bắt đầu giấc ngủ được quyết định không phải bởi giờ đi ngủ cố định, mà bởi khi con người chẳng còn việc gì để làm.
+Ranh giới giữa ngủ và thức bị xóa nhòa trong những xã hội không có sử dụng ánh sáng nhân tạo. Một số nhà quan sát cho rằng giấc ngủ ban đêm ở xã hội nêu trên thường được chia thành hai giai đoạn chính, giai đoạn đầu tiên được đặc trưng chủ yếu bởi giấc ngủ sâu và giai đoạn thứ hai là giấc ngủ REM.
+Một số xã hội thể hiện mô hình giấc ngủ bị phân mảnh, trong đó mọi người ngủ vào mọi thời điểm trong ngày còn đến đêm thì ngủ ít hơn. Trong xã hội kiểu du mục hoặc săn bắt và hái lượm, con người có thể ngủ ngày hoặc đêm tùy thuộc vào môi trường sống và các biến cố xung quanh. Ánh sáng nhân tạo xuất hiện ở phương Tây thời dại công nghiệp hóa ít nhất là từ giữa thế kỷ 19, gây nên thay đổi đáng kể về mô hình giấc ngủ: ngủ tập trung hơn vào đêm, đi ngủ muộn hơn nhiều, mặc dù xu hướng này không phải lúc nào cũng đúng.
+Nhà sử học A. Roger Ekirch cho rằng mô hình truyền thống về " giấc ngủ phân mảnh ", như cách gọi của nó, bắt đầu biến mất trong tầng lớp thượng lưu thành thị ở châu Âu vào cuối thế kỷ 17 và sự thay đổi lan rộng trong 200 năm tiếp theo; vào những năm 1920, "ý tưởng về giấc ngủ thứ nhất và thứ hai đã hoàn toàn biến mất khỏi ý thức xã hội của chúng ta." Ekirch cho rằng sự thay đổi này là do gia tăng "chiếu sáng đường phố, chiếu sáng trong nhà và sự gia tăng số lượng quán cà phê", điều này dần dần khiến ban đêm trở thành thời gian có thể hoạt động, làm giảm thời gian nghỉ ngơi. Ngày nay, ở hầu hết các xã hội, mọi người ngủ vào ban đêm, nhưng ở những vùng khí hậu rất nóng, họ có thể ngủ ngày. Trong tháng Ramadan, nhiều người Hồi giáo ngủ vào ban ngày thay vì ban đêm.
+Trong một số nền văn, mọi người ngủ với ít nhất một người khác (đôi khi nhiều người) hoặc với động vật. Ở một số nền văn hóa khác, mọi người hiếm khi ngủ với bất kỳ ai ngoại trừ bạn đời. Trong hầu hết các xã hội, ngủ với bạn đời được quy định chặt chẽ bởi các tiêu chuẩn xã hội. Ví dụ: một người chỉ có thể ngủ với gia đình ruột thịt, đại gia đình, vợ/chồng hoặc bạn đời, ngủ với con cái đến một độ tuổi nhất định, ngủ với con cái thuộc một giới tính cụ thể, ngủ với bạn thâm cùng giới tính, ngủ với đồng nghiệp có cấp bậc xã hội bình đẳng, hoặc chỉ ngủ một mình. Giấc ngủ có thể là thời gian tích cực mang tính xã hội, tùy thuộc vào các nhóm giấc ngủ, không có hạn chế về tiếng ồn hoặc hoạt động lúc ngủ.
+Con người ngủ ở nhiều địa điểm khác nhau, có thể ngủ ngay trên mặt đất; ngủ trên chăn mền trải dưới đất; ngủ trên giường. Có thể ngủ cần đắp chăn, nằm cần có gối mềm, nằm gối tựa đầu như ngủ trong xe ô tô, một số người ngủ không cần gối. Những thói quen này được hình thành bởi nhiều yếu tố, chẳng hạn như khí hậu, tập tính tránh xa động vật ăn thịt, phụ thuộc vào loại nhà ở, công nghệ sử dụng và sở thích cá nhân.
+
+
+=== Trong hội họa ===
+Về các chủ đề thể hiện giấc ngủ trong nghệ thuật, bác sĩ và nhà nghiên cứu về giấc ngủ Meir Kryger đã viết, "[Các nghệ sĩ] có niềm đam mê mãnh liệt với thần thoại, giấc mơ, chủ đề tôn giáo, tính song hành giữa giấc ngủ và cái chết, phần thưởng, sự từ bỏ kiểm soát một cách có ý thức, sự chữa lành, lối miêu tả về sự ngây thơ và thanh thản, và sự gợi tình."
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+ 
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Brown RE, Basheer R, McKenna JT, Strecker RE, McCarley RW (tháng 7 năm 2012). “Control of sleep and wakefulness”. Physiological Reviews. 92 (3): 1087–187. doi:10.1152/physrev.00032.2011. PMC 3621793. PMID 22811426.
+
+
+== Liên kết ngoài ==
+Rethinking Sleep, David K. Randall, New York Times, September 2012
+How to Sleep, James Hamblin, The Atlantic, January 2017

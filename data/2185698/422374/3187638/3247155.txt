@@ -1,0 +1,35 @@
+Thiamine, còn được gọi là thiamin hoặc vitamin B1, là một loại vitamin có trong thực phẩm, và được sản xuất dưới dạng thực phẩm bổ sung và thuốc. Nguồn thực phẩm của thiamine bao gồm ngũ cốc nguyên hạt, các loại đậu, và một số loại thịt và cá. Chế biến ngũ cốc loại bỏ phần lớn hàm lượng thiamine, vì vậy ở nhiều quốc gia, ngũ cốc và bột được làm giàu bằng thiamine. Các chất bổ sung và thuốc có sẵn để điều trị và ngăn ngừa sự thiếu hụt thiamine và các rối loạn do nó, bao gồm bệnh não beriberi và Wernicke. Các ứng dụng khác bao gồm điều trị bệnh nước tiểu si-rô cây phong và hội chứng Leigh. Chúng thường được dùng bằng đường uống, nhưng cũng có thể được tiêm bằng cách tiêm tĩnh mạch hoặc tiêm bắp.
+Các chất bổ sung thiamine thường được dung nạp tốt. Phản ứng dị ứng, bao gồm sốc phản vệ, có thể xảy ra khi dùng liều lặp lại bằng cách tiêm. Thiamine thuộc họ phức hợp vitamin B.. Nó là một vi chất dinh dưỡng thiết yếu, không thể tạo ra trong cơ thể. Thiamine cần thiết cho quá trình trao đổi chất bao gồm glucose, amino acid và lipid.
+Thiamine được phát hiện vào năm 1897, là vitamin đầu tiên được phân lập vào năm 1926 và được sản xuất lần đầu tiên vào năm 1936. Nó nằm trong Danh sách các loại thuốc thiết yếu của Tổ chức Y tế Thế giới, loại thuốc hiệu quả và an toàn nhất cần có trong hệ thống y tế. Thiamine có sẵn như là một loại thuốc chung chung, và là một loại thuốc không kê đơn. giá bán buôn ở các nước đang phát triển (tính đến năm 2016) là khoảng 2,17 đô la Mỹ cho mỗi lọ thuốc. Ở Hoa Kỳ, một tháng cung cấp một loại vitamin tổng hợp có chứa thiamine ít hơn 25 USD.
+
+
+== Tính chất hóa học ==
+Thiamin là một hợp chất sulfur hữu cơ với công thức hóa học C12H17N4OS. Cấu trúc của nó bao gồm một aminopyrimidin và thiazol vòng liên kết bởi một methylene cầu. Các thiazol được thay thế bằng chuỗi methyl và phụ hydroxyethyl. Thiamine là chất tan trong nước, methanol, và glycerol và không tan trong dung môi hữu cơ không phân cực. Nó ổn định ở pH có tính axit, nhưng không ổn định trong dung dịch kiềm. Thiamine, là một cacben N-heterocyclic, có thể được sử dụng thay cho cyanide như là một chất xúc tác cho benzoin condensation.Thiamine không ổn định với nhiệt, nhưng ổn định khi bảo quản đông lạnh. Nó là không ổn định khi tiếp xúc với ánh sáng cực tím và phóng xạ gamma. Thiamine phản ứng mạnh mẽ trong  phản ứng Maillard-type
+
+
+== Sinh tổng hợp ==
+
+Phức hợp thiamine sinh tổng hợp bởi vi khuẩn, một số sinh vật đơn bào, thực vật và nấm. Các gốc thiazol và pyrimidin được sinh tổng hợp riêng biệt rồi kết hợp để tạo ra thiamine monophosphate (ThMP), bởi tác động của enzyme thiamine-phosphate synthase (EC 2.5.1.3). Các con đường sinh tổng hợp có thể khác nhau giữa các sinh vật. Trong E. coli và các Enterobacteriaceae, ThMP có thể bị phosphoryl hóa tại các cofactor ThDP bởi thiamine-phosphate kinase (ThMP + ATP → ThDP + ADP, EC 2.7.4.16). Trong hầu hết các vi khuẩn và ở loài nhân thực, ThMP thủy phân tạo thành thiamine, sau đó bị pyrophosphoryl hóa thành ThDP bởi enzyme diphosphokinase thiamine (thiamine + ATP → ThDP + AMP, EC 2.7.6.2).
+           Các con đường sinh tổng hợp được hoạt hóa tại riboswitch. Nếu có đủ nồng độ thiamine trong tế bào thì thiamine liên kết với các mRNA bằng các enzyme để ức chế dịch mã chúng. Nếu vắng mặt thiamine sẽ không có sự ức chế, và các enzyme cần thiết cho sự sinh tổng hợp được dịch mã. TPP riboswitch và các riboswitch khác đều được phát hiện ở sinh vật nhân sơ và nhân thực.
+
+
+== Dinh dưỡng ==
+
+
+=== Nguồn thực phẩm ===
+Thiamine được tìm thấy trong nhiều loại thực phẩm ở nồng độ thấp. Nấm men, dịch chiết nấm men và thịt lợn là các nguồn tập trung nhiều thiamine. Nhìn chung, các loại hạt ngũ cốc là nguồn thực phẩm cung cấp lượng thiamine lớn và phổ biến nhất. Trong số này, ngũ cốc nguyên hạt chứa nồng độ thiamine cao hơn ngũ cốc tinh chế, vì thiamine được tìm thấy chủ yếu ở các lớp ngoài của hạt và mầm (vốn bị loại bỏ trong quá trình sơ-tinh chế). Ví dụ, 100 g bột mì thô chứa 0.55 mg thiamine, trong khi 100 g bột mì trắng chỉ chứa 0,06 mg thiamine. Tại Mỹ, bột chế biến phải được bổ sung thêm thiamine mononitrat (cùng với niacin, sắt, riboflavin, và acid folic) để thay thế lượng chất bị mất trong quá trình chế biến. Ở Úc, ngoài thiamin, acid folic và muối iod cũng được bổ sung thêm nhằm tăng cường vitamin và khoáng chất cho thực phẩm. Các muối thiamine mononitrat được thay thế thiamine hydroclorua khi dùng để tăng cường vi chất thực phẩm, vì gốc mononitrate ổn định hơn, không hấp thụ độ ẩm tự nhiên (không hút ẩm), trong khi hydrochloride thiamine hút ẩm mạnh. Thiamine mononitrate tan trong nước sẽ giải phóng nitrate (khoảng 19% khối lượng), sau đó cation thiamine sẽ được hấp thu.
+Một ít ngoại lệ thực phẩm chế biến không được bổ sung dưỡng chất, như bột mì hữu cơ (cho rằng bột hữu cơ giữ lại đủ nhiều chất dinh dưỡng).
+Một số loại thực phẩm khác tự nhiên giàu thiamine là bột yến mạch, lanh, hạt hướng dương, gạo nâu, ngũ cốc nguyên hạt, lúa mạch đen, măng tây, xoăn, súp lơ, khoai, cam, gan (bò, lợn và gà), trứng...
+Mì sợi, các loại đậu và dưa hấu cũng là nguồn cung cấp thiamine phong phú, là lựa chọn mới trong điều trị thiếu dinh dưỡng tự nhiên, Rodale Press 1995.
+Thiamine hydroclorua (Betaxin) màu trắng, tinh thể hút ẩm, được dùng làm phụ gia thực phẩm, nêm tăng hương vị thịt cho nước thịt hoặc súp. Nó là một chất trung gian tự nhiên cho phản ứng thiamine-HCl, trước thủy phân và phosphoryl hóa, là thành phần trong cấu trúc TPP của một số amino enzyme, axit béo, và các hợp chất carbohydrate. 
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+"Thiamine" Lưu trữ 2012-02-08 tại Wayback Machine
+"Branched-Chain Amino Acid Metabolism" at ncbi.nlm.nih.gov
+Thiamin deficiency in poultry
+Type of vitamin B1 could treat common cause of blindness
+Thiamin bound to proteins in the PDB

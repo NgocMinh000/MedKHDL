@@ -1,0 +1,56 @@
+Hệ  thống nhóm máu ABO (a-bê-ô) là tên của một hệ nhóm máu ở người, dựa trên sự tồn tại các kháng nguyên A và B trên bề mặt hồng cầu., 
+Tên của thuật ngữ này trong tiếng Anh là "ABO blood group system"(hệ thống nhóm máu ABO), tiếng Pháp là "système ABO" (hệ ABO) đều dùng chỉ tập hợp các loại máu ở người có kháng nguyên (antigens) A hoặc B hay cả hai (AB) hoặc không có (O) ở mặt ngoài của tế bào hồng cầu (xem hình). Tên tắt thường dùng của thuật ngữ này là máu ABO (ABO blood).
+
+
+== Lược sử ==
+
+Nhóm máu ABO được phát hiện và xác nhận rõ đầu tiên rõ nhờ bác sĩ người Áo là Karl Landsteiner (Kac Lan-xơ-tê-nơ) ở Viện Giải phẫu bệnh lý của Đại học Viên (nay là Đại học Y khoa Vienna thuộc Áo). Năm 1900, ông phát hiện ra rằng một số mẫu máu của người mà trộn với nhau in vitro (trong ống nghiệm) sẽ biến đổi khác hẳn, thậm chí khi quan sát dưới kính hiển vi sẽ thấy hồng cầu dính với nhau. Điều này giải thích vì sao nhiều thầy thuốc đã từng lấy máu của người này truyền cho người khác để cứu chữa thì lại làm cho người cần cứu bị chết (xem hình).
+Các nghiên cứu tiếp theo của ông xác định có ít nhất ba loại máu khác nhau ở người mà ông gọi là loại máu A, B và C. Ông cũng giải thích rằng hồng cầu (RBC) và huyết thanh chứa chúng có liên quan đến nhau rất chặt chẽ. Nếu ở hồng cầu có "dấu hiệu"(sau này gọi là kháng nguyên) không phù hợp với "dấu hiệu"(sau này gọi là kháng thể) trong huyết thanh, thì sẽ bị kết dính với nhau, vón thành "cục". Ông gọi đó là A và B, còn nếu không có thì gọi là C.
+Năm 1910, Ludwik Hirszfeld và Emil Freiherr von Dungern đề xuất kí hiệu 0 (số không) hay O thay cho nhóm C, bởi do từ tiếng Đức thì "Ohne" nghĩa là "không có". Sau đó, nhóm AB được Sturli và von Decastello phát hiện là nhóm máu có cả "dấu hiệu" A và B., 
+Từ đó, tên gọi nhóm máu ABO (tên ghép của 3 kí hiệu trên) ra đời và tồn tại đến ngày nay.
+Tuy hiện nay, người ta đã phát hiện ở người có gần 40 hệ thống nhóm máu khác nhau, nhưng hệ thống ABO là quan trọng bậc nhất khi thực hiện truyền máu ở người.
+
+
+== Cơ chế sinh lý ==
+Bề mặt hồng cầu người bình thường có thể có hai loại kháng nguyên chính là kháng nguyên A và kháng nguyên B. Còn trong huyết tương, thì có thể có hai loại kháng thể chính là kháng thể A và kháng thể B. (Xem chi tiết ở trang Miễn dịch nếu chưa rõ về kháng nguyên và kháng thể cùng phản ứng miễn dịch).
+Người nào khoẻ mạnh, bình thường thì:
+Nếu có kháng nguyên A trên hồng cầu thì có kháng thể B trong huyết tương, sẽ thuộc nhóm máu A.
+Nếu có kháng nguyên B trên hồng cầu thì có kháng thể A trong huyết tương, sẽ thuộc nhóm máu B.
+Nếu hồng cầu có cả kháng nguyên A và B trên bề mặt, thì trong huyết tương lại không có kháng thể nào, sẽ thuộc nhóm máu AB.
+Nếu bề mặt hồng cầu không có loại kháng nguyên nào cả, thì trong huyết tương lại có cả hai loại kháng thể, sẽ thuộc nhóm máu O.
+
+Do đó, máu nhóm A hoà lẫn với máu nhóm B, thì kháng thể B sẽ gắn vào kháng nguyên A vì phản ứng miễn dịch làm cho máu đó coi nó như"kẻ thù"; đồng thời, kháng thể A cũng sẽ gắn vào kháng nguyên B để tiêu diệt. Do đó, cả hai loại hồng cầu ở đó đều bị kết dính với nhau, máu vón lại.  Kết quả của cuộc "tàn sát"này - nếu diễn ra trong cơ thể - là gây tắc mạch và thường nguy hiểm đến tính mạng.,  Cơ chế này mô tả tóm tắt ở hình bên.
+
+
+== Cơ chế di truyền ==
+Các kháng nguyên A và B có bản chất là prôtêin kết hợp với cacbôhyđrat. Trong Di truyền học cổ điển, gen quy định kháng nguyên này là gen đơn do một lô-cut có 3 alen là IA, IB và i.  Ký hiệu "i" là viết tắt từ isoagglutinogen, một thuật ngữ cũng dùng để chỉ kháng nguyên. Trong 3 alen này, thì IA  và IB là các alen đồng trội, còn alen i là gen lặn so với cả hai alen kia. Do đó:
+Nếu người có kiểu gen IAIA  hoặc IAi thì thuộc nhóm máu A.
+Nếu người có kiểu gen IBIB hoặc IBi thì thuộc nhóm máu B.
+Nếu người có kiểu gen IAIB thì thuộc nhóm máu AB.
+Nếu người có kiểu gen ii (đồng hợp lặn) thì thuộc nhóm máu O.
+Do kí hiệu trên hơi phức tạp, nên nhiều tác giả thường lược bỏ chữ i, chỉ dùng 1 chữ cái kí hiệu cho 1 alen. Nghĩa là:
+AA hoặc AO quy định nhóm máu A,
+BB hoặc BO quy định nhóm máu B,
+AB quy định nhóm máu AB, còn
+OO quy định nhóm máu O.
+
+Bởi vì mỗi alen trên ở một nhiễm sắc thể, nên nhóm máu được xác định theo cơ chế phân li và tổ hợp cặp nhiễm sắc thể tương đồng mang các alen này. Chẳng hạn, bố có kiểu gen AO, còn mẹ là BO, thì khả năng sinh các con = ♂(1/2 A + 1/2 O) x ♀(1/2 B + 1/2 O) = 1 AB + 1 AO + 1 BO + 1 OO (xem sơ đồ minh hoạ ở hình bên).
+Sau này, Di truyền học phân tử xác định là đúng, nhưng chỉ ra rõ hơn rằng lô-cut này định vị tại 9q34.2 (nhiễm sắc thể số 9, vai q băng 34.2), mã hóa enzym glycôzyltransfêraza điều chỉnh lượng cacbôhyđrat của các kháng nguyên trên mặt hồng cầu.
+Sự di truyền cả kiểu gen và kiểu hình của nhóm máu này tóm tắt ở bảng 1 sau đây.
+
+Nếu chỉ xét kiểu hình, thì sự di truyền từ cha mẹ cho con được tóm tắt như bảng 2 dưới đây.
+
+
+== Phân bố kiểu hình ==
+Bốn kiểu hình chính (A, B, AB và O) chiếm tỷ lệ rất khác nhau ở những quần thể người khác nhau. Tuy nhiên, trong điều kiện di cư, nhập cư không xảy ra, hôn nhân chỉ xảy ra trong nội bộ quần thể, thì tỷ lệ này là ổn định và đặc trưng cho mỗi quần thể người. Chẳng hạn, tỉ lệ mỗi kiểu hình nhóm máu này của các học sinh, sinh viên đã được điều tra  ở Silte Zone, Ethiopia như bảng 3 sau đây:
+ 
+
+Tương tự như vậy, điều tra chọn mẫu ngẫu nhiên cũng cho biết tần số các alen cũng khác nhau, tạo nên phân bố kiểu hình đặc trưng khác nhau như bảng 4 sau đây.
+
+
+== Tham khảo thêm ==
+Nhóm máu
+Miễn dịch
+
+
+== Nguồn trích dẫn ==

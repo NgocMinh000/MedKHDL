@@ -1,0 +1,16 @@
+Hệ thống kiểu Hindley–Milner (HM) là một hệ thống kiểu cổ điển cho phép tính lambda với đa hình tham số (parametric polymorphism). Nó còn được gọi là Damas–Milner hay Damas–Hindley–Milner. Nó được mô tả lần đầu tiên bởi J. Roger Hindley và sau đó được khám phá lại bởi Robin Milner. Luis Damas đã đóng góp một phân tích và bằng chứng chính thức chặt chẽ trong luận án tiến sĩ của mình.
+Trong số các đặc tính đáng chú ý hơn cả của HM là tính đầy đủ và khả năng suy luận ra kiểu tổng quát nhất của một chương trình nhất định mà không cần chú thích kiểu (type annotation) hay gợi ý khác do lập trình viên cung cấp. Giải thuật W là một phương pháp suy luận kiểu (type inference) hiệu quả, thực hiện trong (gần như) thời gian tuyến tính mà vẫn bảo đảm kích thước mã nguồn, khiến nó rất hữu ích trong thực tế để suy luận kiểu của chương trình lớn. HM được sử dụng nhiều cho ngôn ngữ hàm. Nó được hiện thực lần đầu như là một phần của hệ thống kiểu trong ngôn ngữ lập trình ML. Kể từ đó, HM đã được mở rộng theo nhiều cách, đáng chú ý nhất là với các ràng buộc kiểu lớp (type class constraint) như trong Haskell.
+
+
+== Introduction ==
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+A literate Haskell implementation of Algorithm W along with its source code on GitHub.
+A simple implementation of Hindley-Milner algorithm in Python.

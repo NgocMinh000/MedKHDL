@@ -1,0 +1,35 @@
+Nuclêôprôtêin là một tổ hợp phân tử gồm bất kỳ loại prôtêin nào liên kết với axit nuclêic (DNA hoặc RNA).
+Đây là thuật ngữ dịch theo kiểu phiên âm từ tiếng Anh "nucleoprotein" (dưới đây viết tắt là NP) dùng để chỉ các cấu trúc đại phân tử trong tự nhiên, là từ ghép giữa nuclêôtit (nucleo) với prôtêin (protein), điển hình nhất là ribôxôm và nuclêôxôm.
+
+
+== Cấu trúc chung ==
+NP (nucleoprotein) có ít nhất hai thành phần hoá học chính là axit nuclêic và prôtêin. Sự kết hợp giữa hai thành phần này dường như là tự nhiên, vì prôtêin có xu hướng tích điện dương, nên nó có xu hướng tương tác với chuỗi axit nucleic tích điện âm.
+
+Nếu trong một phân tử NP, mà thành phần prôtêin liên kết với DNA (axit đêôxyribônuclêic), thì phân tử NP này thuộc loại đêôxy-ribô-nuclêô-prôtêin (viết tắt là DNP).
+Nếu prôtêin liên kết với RNA (axit ribônuclêic) thì tạo ra ribô-nuclêô-prôtêin (viết tắt là RNP), thường có chứa amino acid tryptôphan. Một loại RNP rất quan trọng trong sinh vật nhân thực là thể cắt nối (spliceosome).
+
+
+== Vai trò chức năng ==
+
+
+=== DNP (đêôxy-ribônuclêô-prôtêin) ===
+
+Các DNP thường gặp nhất là DNA kết hợp với  histôn (thường thấy nhiều trong nhiễm sắc thể nhân thực) và protamine. Bộ gen của virut thường là DNA được "đóng gói"  chặt chẽ ở capsit của nó, tạo thành DNP.
+
+
+=== RNP (ribônuclêô-prôtêin) ===
+
+RNP là phức hợp giữa prôtêin và RNA. Những phức hợp này đóng vai trò không thể thiếu trong một số chức năng sinh học quan trọng như nhân đôi DNA, biểu hiện gen và biến đổi RNA (như cắt nối RNA). Enzym telômeraza bản chất là RNP. Hiện đã có tới khoảng 2000 loại RNP được thống kê trong Ngân hàng dữ liệu prôtêin RCSB (PDB).
+RNP đóng vai trò quan trọng trong sự nhân lên của virut cúm A. Bộ gen của virut cúm này gồm tám "hạt" RNP. Khi virut xâm nhập vào tế bào chủ, các "hạt" này sẽ được chuẩn bị để bắt đầu quá trình sao chép ngược.
+Các RNP còn đóng vai trò bảo vệ. Nhưng phân tử mRNA trong trạng thái chưa hoạt động chức năng thì không bao giờ ở dạng tuyến tính, tự do trong tế bào, mà luôn liên kết với RNP thích hợp.
+Tương tự như thế, bộ gen "âm bản" của virus RNA cũng luôn liên kết với RNP để được bảo vệ khỏi sự "tấn công" tự nhiên của ribonuclease trong tế bào sống.
+
+Covi-19 (SARS-CoV-2)
+
+Trong cấu trúc của SARS-CoV-2 (côvi-19), luôn có RNP.  Mỗi "con" covi-19 chứa một phân tử  RNA (mạch đơn) có vai trò như gen mang mã di truyền. Trên lớp màng có các gai protein S được xem là công cụ xâm nhập vào tế bào vật chủ. Các gai này liên kết với cấu trúc (thụ thể) thích hợp trên bề mặt tế bào người bị nhiễm. Các thành phần khác như vỏ (E), màng (M) và nucleocapsid (N).
+Gai S gồm hai miền: S1 và S2. Miền S1 có vùng liên kết thụ thể (RBD) chịu trách nhiệm gắn với thụ thể ACE2 trên bề mặt tế bào chủ (người). Sau khi xâm nhập thành công vào tế bào chủ, miền S1 bị cắt bỏ.
+RNP của covi-19 chính là bộ gen RNA của nó được liên kết với protein (màu hồng ở hình bên).
+Khi virút xâm nhập vào tế bào chủ, RNA phiên mã ngược, tạo ra DNA bổ sung (mạch đơn), rồi thành DNA mạch kép của chính nó, từ đó nhân lên nhanh chóng trong cơ thể người đã bị nhiễm.
+
+
+== Nguồn trích dẫn ==

@@ -1,0 +1,45 @@
+Histamin là một amin sinh học có liên quan trong hệ miễn dịch cục bộ cũng như việc duy trì chức năng sinh lý của ruột và hoạt động như một chất dẫn truyền thần kinh cho não, tủy sống và tử cung. Histamin tham gia vào phản ứng viêm và có vai trò trung tâm như một chất trung gian gây ngứa. 
+Là một phần của phản ứng miễn dịch đối với các vi sinh gây bệnh, histamin được giải phóng bởi tế bào bạch cầu ưa base và tế bào mast được tìm thấy trong mô liên kết gần đó. Histamin gây dãn lòng mạch và làm tăng tính thấm của thành mạch đối với tế bào bạch cầu và một số protein, để cho phép chúng tham gia vào tiêu diệt mầm bệnh trong mô bị nhiễm bệnh. Nó bao gồm một vòng imidazole gắn với một chuỗi ethylamin; trong các điều kiện sinh lý, nhóm amin của chuỗi bên là được proton hóa.
+Các nghiên cứu mới đây còn cho thấy histamin có vai trò như một chất của bạch cầu.
+
+
+== Sinh tổng hợp và chuyển hóa ==
+Histamin có nguồn gốc từ quá trình decarboxy hóa của amino acid histidine, phản ứng được xúc tác bởi enzym L-histidine decarboxylase. Nó là một amin có tính hút nước và tính gây giãn mạch.
+
+Histamin chỉ tồn tại ở một trong hai dạng, hoặc ở dạng dự trữ, hoặc ở dạng không hoạt động. Histamin giải phóng vào synapse bị phân hủy bởi acetaldehyde dehydrogenase. Sư thiếu hụt enzyme này sẽ gây ra phản ứng dị ứng do các bể histamine trong synapse. Histamine còn bị phân hủy bởi histamine-N-methyltransferase và diamine oxidase. Một vài dạng bệnh do thức ăn, còn gọi là ngộ độc thức ăn, có nguyên nhân do sự chuyển hóa từ histidine thành histamine trong thức ăn chín, chẳng hạn như cá.Một số bệnh dị ứng như dị ứng thời tiết,dị ứng hóa chất,dị ứng chất tẩy nhuộm dị ứng xi măng người ta thấy lượng histamine tăng lên.
+
+
+== Sự tích trữ và giải phóng ==
+
+Phần lớn histamine trong cơ thể được tìm thấy ở các hạt trong tế bào mast (hay mastocytes, dưỡng bào) hoặc bạch cầu ái kiềm. Tế bào mast đặc biệt tập trung nhiều ở các vị trí dễ bị tổn thương như mũi, miệng, chân; bề mặt nội mô cơ thể, và thành mạch máu. Những tế bào chứa histamine không phải là tế bào mast cũng được tìm thấy ở một vài tổ chức như não, nơi mà chức năng của nó như là một chất dẫn truyền thần kinh. Một vị trí quan trọng nữa của sự tích trữ và giải phóng histamine là ở các tế bào ái chrom của niêm mạc dạ dày.
+Cơ chế tác dụng sinh lý quan trọng nhất của các tế bào mast và bạch cầu ái kiềm trong giải phóng histamine thông qua hệ miễn dịch. Các tế bào này, nếu nhạy cảm với kháng thể IgE gắn vào màng, sẽ mất hạt khi trình diện với kháng nguyên thích hợp. Một số amin, gồm cả các loại thuốc như morphine và tubocurarine, có thể chiếm chỗ của histamine trong hạt và gây giải phóng histamine.
+
+
+== Cơ chế tác dụng ==
+Histamine biểu hiện tác dụng của mình bằng việc kết hợp với các thụ thể histamine tế bào đặc hiệu. Có bốn loại thụ thể histamine đã được xác định đó là thụ thể thư H1 đến H4.
+
+
+== Vai trò trong cơ thể ==
+
+
+=== Điều khiển giấc ngủ ===
+Histamine được giải phóng như các chất dẫn truyền thần kinh. Thân các neuron giải phóng histamine được tìm thấy ở phần sau của vùng dưới đồi ở các nhân tuberomammillary khác nhau. Từ đây, các neuron tiết histamine này sẽ chiếu ra khắp não bộ tới vỏ não thông qua bó vỏ não trước giữa. Tác dụng tiết histamine được biết đến để điều chỉnh giấc ngủ. Về mặt kinh điển, các thuốc kháng histamine ở thụ thể H1gây cảm giác buồn ngủ. Tương tự, các nguyên nhân gây phá hủy các neuron giải phóng histamine hay sự ức chế tổng hợp histamine sẽ làm mất khả năng duy trì sự tập trung cao. Cuối cùng, các chất đối kháng H3 (kích thích giải phóng histamine) làm tăng sự tỉnh táo.
+
+
+=== Sự đáp ứng tình dục ===
+Nghiên cứu cho thấy sự giải phóng histamine từ các tế bào mast ở cơ quan sinh dục ngoài là một phần của sự khoái cảm tình dục ở người. Nếu sự đáp ứng này bị thiếu hụt có thể là do chứng histapenia (chứng thiếu hụt histamine). Trong các trường hợp này, bác sĩ thường kê một chế độ ăn nhiều a-xít folic và niaxin (là những chất được sử dụng trong kết nối có thể làm tăng nồng độ histamine trong máu và tăng giải phóng histamine), hoặc L-histidine. Ngược lại, đàn ông có mức histamine cao có thể sẽ bị chứng xuất tinh sớm.
+
+
+=== Bệnh tâm thần phân liệt ===
+Người ta thấy rằng, khoảng phần nửa số bệnh nhân tâm thần phân liệt có nồng độ histamine trong máu thấp. Điều này có thể là do tác dụng không mong muốn trên histamine của các thuốc chống loạn thần như Quetiapine. Dù vậy, ở những trường hợp này, khi nồng độ histamine được tăng lên thì sức khỏe của họ cũng được cải thiện.
+
+
+== Xem thêm ==
+Đau
+Viêm
+Dị ứng
+Bradykinin
+Prostaglandin
+
+
+== Tham khảo ==

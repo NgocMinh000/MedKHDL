@@ -1,0 +1,2256 @@
+Trong phân loại sinh học, Phân loại giới Động vật cũng như phân loại sinh học là khoa học nghiên cứu cách sắp xếp các động vật sống thành các nhóm khác nhau dựa vào: Đặc điểm hình thái (morphological), cấu trúc giải phẫu cơ thể (anatomy), hành vi (behavioral), khu vực địa lý phân bố (geographical distribution), đặc điểm phân tử (molecular) bao gồm so sánh bộ nhiễm sắc thể (chromosome comparisons) và trình tự DNA (DNA sequence). 
+Thông thường, người ta chia giới Động vật thành có xương sống (Vertebrata) và không xương sống (Invertebrata). Các động vật có xương sống đều có một bộ xương bao gồm một cột sống do các đốt sống tạo thành, còn các động vật không xương sống thì không. Thực tế việc phân loại giới động vật rất phức tạp, bởi giữa các loài động vật có xương sống bao gồm cả cá, lưỡng cư, bò sát, chim và thú, nhưng chỉ chiếm phần rất ít trong giới Động vật, khoảng 40 nghìn loài trên tổng số khoảng 1,1 triệu loài (hay hơn nữa).
+Còn theo thống kê khác giới Động vật có khoảng 7,7 triệu loài được ước tính, đó là sự biểu thị của đa dạng sinh học và nhiều hóa thạch sống khác. Về các loài hoá thạch, các nhà khoa học đã ước tính 250 nghìn loài đã được đặt tên.
+
+Giới động vật có các ngành như sau: Agmata, Annelida (Giun đốt), Archaeocyatha (Động vật Chén cổ), Arthropoda (Chân khớp hay chân đốt), Acanthocephala (Giun đầu gai), Brachiopoda (Tay cuộn hay Tay cuốn), Bryozoa (Động vật hình rêu), Chaetognatha (Trùng mũi tên hay Hàm tơ), Chordata (Dây sống), Cnidaria (Thích ty bào), Ctenophora (Sứa lược), Cycliophora (động vật có vành miệng có lông rung), Dicyemida (Trùng hai phôi), Echinodermata (Da gai), Gastrotricha (Giun bụng lông), Gnathostomulida (Giun hàm), Hemichordata (Động vật bán dây sống hay Nửa dây sống), Kinorhyncha (Rồng bùn, mud dragons) , Lobopodia, Loricifera (Trùng áo giáp), Medusoid, Micrognathozoa, Mollusca (Thân mềm hay Nhuyễn thể), Monoblastozoa, Nematoda (Giun tròn), Nematomorpha (Giun bờm ngựa hay Giun cước), Nemertea (Giun ruy băng hay Giun vòi), Onychophora (Giun nhung hay Giun móc), Orthonectida (Trùng lặn thẳng), Petalonamae, Platyhelminthes (Giun dẹp), Phoronida (Giun móng ngựa), Priapulida (Giun dương vật), Proarticulata, Placozoa (Động vật hình tấm), Porifera (Động vật thân lỗ hay Hải miên bao gồm bọt biển, chúng cũng là động vật bởi vì chúng là nhóm chị em với tất cả các loài động vật còn lại), Rotifera (Luân trùng hay Trùng bánh xe), Saccorhytida, Sipuncula (Sá sùng hay sa sùng, có thể là một ngành cũng có thể là một lớp của ngành Annelida), Trilobozoa (Động vật ba thuỳ), Tardigrada (Gấu nước hay Đi êm), Vetulicolia, Xenacoelomorpha.
+
+Theo nhiều tài liệu khác nhau giới Động vật đã được biết đến với 10 phân ngành khác nhau dựa trên cấu tạo cơ thể hoặc sự khác biệt của chúng. Trong bài này có 22 phân ngành (xem văn bản) và 2 phân thứ ngành (phân thứ ngành Gnathostomata động vật có quai hàm và Agnatha là cá không hàm). Ngoài ra, còn các nhánh phân loại khác nhau và các đơn vị phân loại (không phân hạng), với tất cả các bậc phân loại khác như: liên lớp, lớp, phân lớp, phân thứ lớp, tiểu lớp, tổng bộ, liên bộ, đại bộ, bộ, phân bộ, phân thứ bộ, tiểu bộ, tổng họ, đại họ, liên họ, họ, phân họ, liên tông, tông, phân tông, chi chúng tạo nên giới Động vật.
+
+
+== Giản yếu và tổng quan ==
+
+
+=== Giới Động vật ===
+
+Động vật là một nhóm sinh vật đa bào, nhân chuẩn, được phân loại vào giới Animalia. Động vật tiêu thụ chất hữu cơ, hít thở oxy, có thể di chuyển, có thể sinh sản hữu tính và phát triển từ một quả cầu tế bào rỗng, phôi bào, trong quá trình phát triển phôi thai. Tính đến năm 2022, có 2,16 triệu loài động vật sống đã được mô tả —trong đó có khoảng 1,05 triệu loài là côn trùng, hơn 85.000 loài là động vật thân mềm và khoảng 65.000 loài là động vật có xương sống, nhưng ước tính có khoảng 7,77 triệu loài động vật trong tổng số trên.
+
+
+==== Phân loại chung và phát sinh ngoài ====
+
+
+=== Bậc phân loại ===
+
+Vào thế kỷ 18, Carl Linnaeus, đã đề xuất hệ thống phân loại thứ bậc cho các loài sinh vật đã biết. Trong hệ thống này, các loài có các đặc điểm giống nhau thì phân loại vào cùng một nhóm gọi là chi. Hơn nữa, các chi có đặc điểm giống nhau thì lại đặt vào cùng một họ. Việc phân loại này cứ tiếp tục cho đến khi các loài này tập hợp lại với nhau thành các nhóm được phân loại vào thứ bậc cao nhất.  Carl Linnæus là người đặt nền móng cho hệ thống phân loại sinh học hiện đại này và là cha đẻ của hệ thống phân loại hiện đại ngày nay. Đến nay, hệ thống phân loại sinh học hiện đại có 8 bậc phân loại chính: vực, ngành, giới, lớp, bộ, họ, chi, loài.
+
+
+=== Các quy định, đặc điểm phân loại động vật và danh pháp động vật ===
+Trong động vật học, các danh pháp khoa học cho các bậc phân loại được sử dụng phổ biến (từ liên họ đến phân loài), được quy định bởi Bộ danh pháp Động vật học Quốc tế.
+
+
+==== Tên thông thường và danh pháp khoa học ====
+Tên thường dùng cho các loài thường không rõ ràng chính xác: "mèo" có thể là mèo nhà Felis catus hoặc tất cả những loài trong Họ Mèo Felidae. Các tên này cũng thay đổi tùy theo ngôn ngữ hay địa phương: ví dụ trường hợp báo puma, báo sư tử, báo núi,... đều chỉ về loài Puma concolor mà ngay từ "báo" cũng có thể liên tưởng đến báo đốm Panthera onca ở châu Mỹ Latinh hay báo hoa mai (Panthera pardus) tại châu Phi và châu Á. Ngược lại, tên khoa học hay danh pháp khoa học của mỗi loài sẽ là duy nhất và phổ quát khắp nơi, gồm hai phần: tên chi như Puma, và tên cụ thể như concolor.
+
+
+==== Mô tả loài ====
+
+Một loài được đặt tên phân loại khi một mẫu chuẩn được mô tả chính thức, được gán một tên khoa học duy nhất trong một ấn phẩm. Mô tả loài thường cung cấp các phương tiện để xác định loài mới, phân biệt với các loài khác đã được mô tả trước đó và các loài có liên quan hoặc dễ gây nhầm lẫn. Đồng thời cung cấp tên được công bố hợp lệ (trong thực vật học) hoặc tên dùng được (trong động vật học) khi chấp nhận xuất bản. Mẫu chuẩn thường được lưu giữ trong kho lưu trữ lâu dài, thường là bộ sưu tập nghiên cứu của bảo tàng hoặc trường đại học lớn, cho phép xác minh độc lập và là phương tiện để so sánh mẫu vật. Theo Bộ danh pháp Động vật học Quốc tế khuyến nghị những người mô tả loài mới chọn tên "thích hợp, ngắn gọn, thuận tai, dễ nhớ và không gây xúc phạm".
+
+
+==== Tên viết tắt ====
+Sách báo đôi lúc không viết đủ định danh loài mà dùng từ viết tắt như "sp." ở số ít hoặc "spp." (viết tắt của species pluralis tiếng Latinh nghĩa "nhiều loài"), ví dụ như "Canis sp.". Việc này áp dụng khi một số cá thể chắc chắn thuộc một chi cụ thể nhưng không chắc thuộc loài nào, như thường thấy trong cổ sinh vật học.
+Tác giả cũng có thể dùng "spp." làm cách diễn đạt ngắn gọn về vấn đề áp dụng cho nhiều loài nhưng không phải tất cả trong cùng một chi. Còn nếu muốn bày tỏ rằng áp dụng cho tất cả loài trong một chi thì chỉ dùng tên chi mà không có tên loài. Tên chi và loài thường được in nghiêng nhưng chữ viết tắt như "sp." không nên in nghiêng.
+Khi định danh một loài không rõ, có thể dùng "cf." (confer) trước tên loài để chỉ rằng cần thêm thông tin xác nhận. Các chữ viết tắt "nr." (near) hoặc "aff." (affine) có thể được dùng khi định danh chưa rõ nhưng giống với loài được đề cập sau.
+
+
+==== Mã nhận dạng ====
+Với sự gia tăng của cơ sở dữ liệu trực tuyến, mã nhận dạng các loài đã được khởi tạo và xác định, bao gồm:
+
+Trung tâm Thông tin Công nghệ sinh học Quốc gia (Hoa Kỳ) (National Center for Biotechnology Information - NCBI) sử dụng số nhận dạng 'taxid' (Taxonomy identifier) được coi là "định danh duy nhất (và) ổn định", ví dụ: taxid của Homo sapiens là 9606.
+Bách khoa toàn thư Kyoto về gen và bộ gen (Kyoto Encyclopedia of Genes and Genome - KEGG) sử dụng mã ba hoặc bốn chữ cái cho một số loài hạn chế nhất định; ví dụ H. sapiens có mã đơn giản là hsa.
+UniProt sử dụng "hệ thống dễ nhớ" không quá năm ký tự chữ và số, ví dụ: HUMAN cho H. sapiens.
+Hệ thống Thông tin Phân loại Tích hợp (Integrated Taxonomic Information System - ITIS) cung cấp một số duy nhất cho mỗi loài. Homo sapiens có mã số TSN 180092.
+
+
+==== Gộp và tách ====
+Việc đặt tên cho một loài cụ thể, hay cả chi (và đơn vị phân loại cao hơn) chứa loài đó, là giả thuyết về mối quan hệ tiến hóa và khả năng phân biệt các loài trong nhóm sinh vật đó. Khi có thêm thông tin sẽ có thể chứng minh hoặc bác bỏ giả thuyết. Đôi lúc đặc biệt là trước kia khi còn khó khăn trong trao đổi thông tin, các nhà phân loại học làm việc riêng rẽ nên có thể đặt hai tên khác nhau mà sau này lại xác định đó lại cùng một loài. Khi đó, tên loài đặt trước thường được ưu tiên để giữ lại, còn các tên đặt sau coi là Danh pháp đồng nghĩa. Ngược lại cũng có khi một đơn vị phân loại phải tách thành các đơn vị khác. Việc gộp hay tách tùy thuộc vào cách tiếp cận cá nhân chỉ ra khác biệt hoặc điểm chung giữa các sinh vật.
+
+
+==== Sensu stricto và sensu lato ====
+Bộ mã danh pháp như Bộ danh pháp Động vật học Quốc tế (International Code of Zoological Nomenclature - ICZN) và Bộ danh pháp Quốc tế về tảo, nấm và thực vật (International Code of Nomenclature for algae, fungi, and plants - ICN) chỉ hướng dẫn về việc đặt tên mà không đưa ra quy tắc để xác định ranh giới loài. Ranh giới loài có thể thay đổi dựa trên các nghiên cứu, nghĩa là định nghĩa loài cũng có thể thay đổi dựa trên bằng chứng mới. Định nghĩa ranh giới dùng để phân biệt các loài, tên loài có thể mang nghĩa sensu stricto (s.s. - "theo nghĩa hẹp") theo cách chính xác do tác giả đưa ra, còn sensu lato (s.l. - "theo nghĩa rộng") biểu thị cách dùng rộng hơn, như bao gồm cả các loài phụ khác. Các chữ viết tắt khác như "auct." (auctōrum - tác giả) hay hạn định như "non" (không) có thể được dùng làm rõ thêm nghĩa chủ đích tác giả muốn diễn tả.
+
+
+== Hệ thống phân loại và phân loại động vật ==
+
+Giới Động vật (Animalia)
+
+
+=== Ngành Placozoa ===
+
+Lớp Polyplacotomia
+Bộ Polyplacotomea
+Họ Polyplacotomidae
+Chi Polyplacotoma
+P. mediterranea
+Lớp Uniplacotomia
+Bộ Trichoplacea
+Họ Trichoplacidae
+Chi Trichoplax
+T. adhaeren
+Bộ Cladhexea
+Loài chưa được mô tả
+Bộ Hoilungea
+Họ Cladtertiidae
+Họ Hoilungidae
+Chi Hoilungia
+H. hongkongensia
+
+
+=== Ngành Porifera ===
+
+Lớp Calcarea
+Phân lớp Calcinea
+Bộ Clathrinida
+Họ Clathrinidae
+Họ Dendyidae
+Họ Levinellidae
+Họ Leucaltidae
+Họ Leucascidae
+Bộ Murrayonida
+Họ Lelapiellidae
+Họ Murrayonidae
+Họ Paramurrayonidae
+Phân lớp Calcaronea
+Bộ Baerida
+Họ Baeriidae
+Họ Lepidoleuconidae
+Họ Trichogypsiidae
+Bộ Leucosolenida
+Họ Achramorphidae
+Họ Amphoriscidae
+Họ Grantiidae
+Họ Heteropiidae
+Họ Jenkinidae
+Họ Lelapiidae
+Họ Leucosoleniidae
+Họ Sycanthidae
+Họ Sycettidae 
+Bộ Lithonida
+Họ Minchinellidae
+Chi Minchinella
+Chi Monoplectroninia
+Chi Plectroninia
+Chi Petrostroma
+Chi Tulearinia
+Bộ †Pharetronida
+Lớp Hexactinellida
+Phân lớp Amphidiscophora
+Bộ Amphidiscosida
+Họ Hyalonematidae
+Họ Monorhaphididae
+Chi Monorhaphis
+Loài Monorhaphis chuni
+Họ Pheronematidae
+Phân lớp Hexasterophora
+Bộ Incertae sedis
+Họ Dactylocalycidae
+Bộ Lychniscosida
+Họ Aulocystidae
+Họ Becksiidae
+Họ Callodictyidae
+Họ Callodictyonidae
+Họ Calypterellidae
+Họ Calyptrellidae
+Họ Camerospongiidae
+Họ Coeloptychidae
+Họ Coeloscysphiidae
+Họ Coscinoporidae
+Họ Cypellidae
+Họ Cypelliidae
+Họ Dactylocalycidae
+Họ Diapleuridae
+Họ Oncotoechidae
+Họ Polyblastidiidae
+Họ Sporadopylidae
+Họ Ventriculitidae
+Bộ Lyssacinosida
+Họ Aulocalycidae
+Họ Euplectellidae
+Họ Leucopsacidae
+Họ Rossellidae
+Bộ Sceptrulophora
+Họ Autoplacidae
+Họ Tretodictyidae
+Họ Aphrocallistidae
+Họ Euretidae
+Họ Farreidae
+Họ Cribrospongiidae
+Họ Craticularidae
+Họ Uncinateridae
+Họ Fieldingiidae
+Lớp Demospongiae ước tính khoảng 4750 loài.
+Phân lớp Heteroscleromorpha
+Bộ Agelasida
+Họ Agelasidae
+Họ Astroscleridae
+Họ Hymerhabdiidae
+Bộ Axinellida
+Họ Axinellidae
+Họ Heteroxyidae
+Họ Raspailiidae
+Họ Stelligeridae
+Bộ Biemnida
+Họ Biemnidae
+Họ Rhabderemiidae
+Bộ Bubarida
+Họ Bubaridae
+Họ Dictyonellidae
+Họ Desmanthidae
+Bộ Clionaida
+Họ Acanthochaetetidae
+Họ Clionaidae
+Họ Placospongiidae
+Họ Spirastrellidae
+Bộ Desmacellida
+Họ Desmacellidae
+Bộ Haplosclerida
+Họ Calcifibrospongiidae
+Họ Callyspongiidae
+Họ Chalinidae
+Họ Niphatidae
+Họ Petrosiidae
+Họ Phloeodictyidae
+Bộ Merliida
+Họ Hamacanthidae
+Họ Merliidae
+Bộ Poecilosclerida
+Họ Acarnidae
+Họ Chondropsidae
+Họ Cladorhizidae
+Họ Coelosphaeridae
+Họ Crambeidae
+Họ Crellidae
+Họ Dendoricellidae
+Họ Desmacididae
+Họ Esperiopsidae
+Họ Guitarridae
+Họ Hymedesmiidae
+Họ Iotrochotidae
+Họ Isodictyidae
+Họ Latrunculiidae
+Họ Microcionidae
+Họ Mycalidae
+Họ Myxillidae
+Họ Phellodermidae
+Họ Podospongiidae
+Họ Tedaniidae
+Bộ Polymastiida
+Bộ Scopalinida
+Bộ Sphaerocladina
+Bộ Spongillida
+Bộ Suberitida
+Bộ Tethyida
+Bộ Tetractinellida
+Bộ Trachycladida
+Bộ incertae sedis
+Phân lớp Keratosa
+Bộ Dictyoceratida
+Bộ Dendroceratida
+Phân lớp Verongimorpha
+Bộ Chondrillida
+Bộ Chondrosiida
+Bộ Verongida
+Bộ †Protomonaxonida
+†Choiidae
+†Halichondritidae
+†Hamptoniidae
+†Hazeliidae
+†Leptomitidae
+†Lobatospongia
+†Piraniidae
+†Takakkawiidae
+†Ulospongiellidae
+†Wapkiidae
+Lớp Homoscleromorpha
+Bộ Homosclerophorida
+Họ Plakinidae
+Họ Oscarellidae
+Lớp Stromatoporoidea
+
+
+=== Ngành Archaeocyatha † ===
+
+Archaeocyatha có thể là thành viên của ngành Porifera, một đơn vị phân loại nhánh. Và nó cũng có thể là một ngành.
+Lớp Monocyatha † Okulitch, 1943
+Lớp Archaeocyathea † Okulitch, 1943
+Lớp Anthocyathea † Okulitch, 1943
+
+
+=== Ngành Ctenophora ===
+Lớp Tentaculata
+Bộ Cestida
+Bộ Cambojiida
+Bộ Cryptolobiferida
+Bộ Cydippida
+Bộ Ganeshida
+Bộ Lobata
+Bộ Platyctenida
+Bộ Thalassocalycida
+Lớp Nuda
+Bộ Beroida
+Họ Beroidae
+Chi Beroe
+Chi Neis
+Lớp Scleroctenophora Các chi
+†Batofasciculus
+†Galeactena
+†Gemmactena
+†Thaumactena
+†Maotianoascus
+
+
+=== Ngành Cnidaria ===
+ 
+Phân ngành Anthozoa
+Lớp Octocorallia
+Lớp Hexacorallia
+Lớp Ceriantharia
+Phân ngành Medusozoa
+Lớp Cubozoa
+Bộ Carybdeida
+Họ Alatinidae
+Họ Carukiidae
+Họ Carybdeidae
+Họ Tamoyidae
+Họ Tripedaliidae
+Bộ Chirodropida
+Họ Chiropsellidae
+Họ Chiropsalmidae
+Họ Chirodropidae
+Lớp Hydrozoa
+Phân lớp Hydroidolina
+Họ Anthoathecata
+Họ Leptothecata
+Họ Siphonophorae
+Phân lớp Trachylinae
+Họ Trachymedusae
+Họ Narcomedusae
+Họ Limnomedusae
+Họ Actinulida
+Lớp Polypodiozoa
+Bộ Polypodiidea
+Họ Polypodiidae
+Lớp Scyphozoa
+Phân lớp Coronamedusae
+Bộ Coronatae
+Họ Atollidae
+Họ Atorellidae
+Họ Linuchidae
+Họ Nausithoidae
+Họ Paraphyllinidae
+Họ Periphyllidae
+Phân lớp Discomedusae
+Lớp Staurozoa
+Phân ngành Myxozoa
+Lớp Myxosporea
+Lớp Malacosporea
+
+
+=== Ngành Chordata ===
+Phân ngành Cephalochordata
+Lớp Leptocardii
+Bộ Amphioxiformes
+Phân ngành Urochordata
+Lớp Ascidiacea
+Lớp Thaliacea
+Lớp Larvacea (Appendicularia)
+Phân ngành Vertebrata
+Phân thứ ngành Gnathostomata
+†Lớp Placodermi
+Bộ Antiarchi
+Bộ Arthrodira 
+Bộ Brindabellaspida
+Bộ Petalichthyida
+Bộ Phyllolepida
+Bộ Ptyctodontida
+Bộ Rhenanida
+Bộ Acanthothoraci
+Bộ ?Pseudopetalichthyida
+Bộ ?Stensioellida
+Lớp Chondrichthyes 300+ loài
+Phân lớp Elasmobranchii
+Siêu bộ Selachimorpha
+Bộ Carcharhiniformes
+Bộ Heterodontiformes
+Bộ Hexanchiformes
+Bộ Lamniformes
+Bộ Orectolobiformes
+Bộ Pristiophoriformes
+Bộ Squaliformes
+Bộ Squatiniformes
+Bộ † Cladoselachiformes
+Bộ † Hybodontiformes
+Bộ † Symmoriida
+Bộ † Xenacanthida (Xenacantiformes)
+Siêu bộ Batoidea
+Bộ Rajiformes
+Bộ Pristiformes
+Bộ Myliobatiformes
+Bộ Torpediniformes
+Phân lớp Holocephali
+Bộ Chimaeriformes
+Bộ †Petalodontiformes
+Bộ †Iniopterygiformes
+Bộ †Eugeneodontida
+Lớp Acanthodii
+Bộ Climatiiformes
+Bộ Ischnacanthiformes
+Bộ Acanthodiformes
+Siêu lớp Osteichthyes 30.000+ loài
+Lớp Actinopterygii khoảng 30.000 loài
+Phân lớp Chondrostei
+Bộ Polypteriformes: bao gồm các loài cá nhiều vây.
+Bộ Acipenseriformes: bao gồm cá tầm và cá tầm thìa.
+Bộ Cheirolepidiformes(†)
+Bộ Guildayichthyiformes(†)
+Bộ Luganoiiformes(†)
+Bộ Palaeonisciformes(†)
+Bộ Perleidiformes(†)
+Bộ Phanerorhynchiformes(†)
+Bộ Pholidopleuriformes(†)
+Bộ Ptycholepiformes(†)
+Bộ Saurichthyiformes(†)
+Bộ Tarrasiiformes(†)
+Phân lớp Neopterygii
+Bộ Pachycormiformes (†)
+Cận lớp Holostei
+Bộ Lepisosteiformes: cá láng, cá nhái sông hay cá sấu hỏa tiễn
+Bộ Amiiformes: cá vây cung
+Cận lớp Teleostei
+Siêu bộ Elopomorpha
+Bộ Elopiformes: bao gồm cá cháo biển (cá măng biển) và cá cháo lớn
+Bộ Albuliformes: cá mòi đường
+Bộ Notacanthiformes: bao gồm cá thằn lằn biển và cá chình gai
+Bộ Anguilliformes: bao gồm cá chình thực thụ
+Bộ Saccopharyngiformes:
+Siêu bộ Osteoglossomorpha
+Bộ Osteoglossiformes: cá thát lát, cá rồng, cá mơn
+Bộ Hiodontiformes: bao gồm cá mắt trăng và cá mắt vàng
+Siêu bộ Clupeomorpha
+Bộ Clupeiformes: bao gồm cá trích và cá cơm
+Siêu bộ Ostariophysi
+Bộ Gonorynchiformes: bao gồm cá măng sữa, cá hồi mũi khoằm
+Bộ Cypriniformes: bao gồm cá anh vũ, cá chép, cá chày đất, cá vàng, cá tuế, cá duồng xanh v.v
+Bộ Characiformes: bao gồm cá chép mỡ, cá chim trắng nước ngọt, cá hổ (piranha).
+Bộ Gymnotiformes: bao gồm cá chình điện và cá dao
+Bộ Siluriformes: bao gồm cá nheo, cá trê, cá ba sa, cá tra
+Siêu bộ Protacanthopterygii
+Bộ Argentiniformes
+Bộ Salmoniformes: bao gồm các loài cá hồi
+Bộ Esociformes: cá chó (cá măng)
+Bộ Osmeriformes: cá ốt me
+Siêu bộ Stenopterygii
+Bộ Ateleopodiformes
+Bộ Stomiiformes: bao gồm cá miệng cứng, cá rồng râu và cá rìu biển
+Siêu bộ Cyclosquamata
+Bộ Aulopiformes: bao gồm cá răng kiếm, cá thằn lằn và cá lưỡi trích
+Siêu bộ Scopelomorpha
+Bộ Myctophiformes: bao gồm cá đèn (cá mũi rắn)
+Siêu bộ Lampridiomorpha
+Bộ Lampriformes: bao gồm cá cờ mặt trăng
+Siêu bộ Polymyxiomorpha
+Bộ Polymixiiformes: cá râu
+Siêu bộ Paracanthopterygii
+Bộ Percopsiformes: bao gồm cá hang động và cá hồi-pecca
+Bộ Batrachoidiformes: cá cóc
+Bộ Lophiiformes: bao gồm cá vảy chân
+Bộ Gadiformes: bao gồm cá tuyết
+Bộ Ophidiiformes: bao gồm cá chồn, cá ngọc trai
+Siêu bộ Acanthopterygii
+Bộ Mugiliformes: bao gồm cá đối
+Bộ Atheriniformes: bao gồm cá suốt và cá cầu vồng
+Bộ Beloniformes: bao gồm cá nhái, cá chuồn, cá kìm
+Bộ Cetomimiformes: cá dạng cá voi
+Bộ Cyprinodontiformes: bao gồm cá sóc
+Bộ Stephanoberyciformes
+Bộ Beryciformes
+Bộ Zeiformes: bao gồm các loài cá dây
+Bộ Gobiesociformes:
+Bộ Gasterosteiformes: bao gồm các loài cá gai
+Bộ Syngnathiformes: bao gồm cá chìa vôi và cá ngựa
+Bộ Synbranchiformes: bao gồm các loài lươn, chạch.
+Bộ Tetraodontiformes: bao gồm các loài cá nóc, cá đầu v.v
+Bộ Pleuronectiformes: cá bơn
+Bộ Scorpaeniformes: bao gồm các loài cá mù làn
+Bộ Perciformes: 40% tất cả các loài cá, bao gồm cá rô, cá vược, cá thu, cá pecca v.v
+Incertae sedis
+Bộ Peltopleuriformes(†)
+Lớp Sarcopterygii
+†Guiyu oneiros
+†Onychodontiformes
+Rhipidistia
+Dipnomorpha
+Tetrapodomorpha
+Siêu lớp Tetrapoda 18.000+ loài
+Lớp Amphibia 6.000 loài 
+Loạt Amniota
+Lớp Sauropsida
+Lớp Aves 8.800-10.000 loài)
+
+Lớp Synapsida 4.500+ loài
+
+
+==== Lớp Mammalia 5.800 loài ====
+
+Phân lớp Yinotheria
+Phân thứ lớp Australosphenida
+Bộ Đơn huyệt
+Phân lớp Theriiformes
+Phân thứ lớp Holotheria
+Siêu đoàn Trechnotheria
+Đoàn Cladotheria
+Siêu đội Theria
+Đội Thú có túi
+Siêu bộ Ameridelphia
+Bộ Opossum
+Bộ Paucituberculata
+Siêu bộ Australidelphia
+Bộ Microbiotheriidae
+Bộ Dasyuromorphia
+Bộ Chuột chũi túi
+Bộ Peramelemorphia
+Bộ Hai răng cửa
+Đội Thú nhau thai
+Siêu bộ Xenarthra
+Bộ Thú có mai
+Bộ Thú thiếu răng
+Siêu bộ Afroinsectiphilia
+Bộ Chuột chù rái cá
+Bộ Chuột chù voi
+Bộ Lợn đất
+Siêu bộ Paenungulata
+Bộ Đa man
+Bộ Bò biển
+Bộ Có vòi
+Siêu bộ Euarchontoglires
+Bộ Nhiều răng
+Bộ Thỏ
+Bộ Gặm nhấm
+Bộ Chồn bay
+Bộ Linh trưởng
+Siêu bộ Laurasiatheria
+Bộ Eulipotyphla
+Bộ Dơi
+Bộ Guốc chẵn
+Bộ Guốc lẻ
+Bộ Tê tê
+Bộ Ăn thịt
+Phân thứ ngành Agnatha
+Lớp Myxini 65 loài
+Bộ Myxiniformes
+Lớp Conodonta
+Lớp Hyperoartia
+Bộ Petromyzontiformes
+(Không phân hạng) Cephalaspidomorphi
+Lớp †Osteostraci
+Lớp †Galeaspida
+Bộ Eugaleaspidiformes
+Bộ Huananaspidiformes
+Bộ Polybranchiaspidiformes
+Lớp †Pituriaspida
+Bộ Pituriaspidiformes
+Lớp Pteraspidomorphi
+
+
+=== Ngành Hemichordata ===
+
+Phân lớp Graptolithina
+Bộ †Camaroidea
+Bộ ?†Crustoidea
+Bộ ?†Dithecoidea
+Bộ ?†Tuboidea
+Bộ Rhabdopleurida
+Bộ †Dendroidea
+Bộ †Graptoloidea
+Lớp Pterobranchia
+Bộ Cephalodiscida
+Lớp Planctosphaeroidea
+Chi Planctosphaera
+Loài Planctosphaera pelagica
+Lớp Enteropneusta
+Bộ Enteropneusta
+Họ †Oesia
+Chi †Spartobranchus
+Họ Harrimaniidae
+Họ Ptychoderidae
+Họ Spengeliidae
+Họ Torquaratoridae
+
+
+=== Ngành Echinodermata ===
+Phân ngành †Homalozoa
+Lớp Cincta
+Lớp Soluta
+Lớp Stylophora
+Lớp Ctenocystoidea
+Lớp Quả biển Carpoidea
+Phân ngành Huệ biển Crinozoa
+Lớp Huệ biển
+Lớp Hộp biển
+Lớp Cầu biển
+Lớp Paracrinoidea
+Lớp Rhombifera
+Phân ngành Sao biển
+Lớp Sao biển
+Lớp Đuôi rắn (Sao biển đuôi rắn)
+Phân ngành Echinozoa
+Lớp Cầu gai
+Lớp Hải sâm
+Lớp Ophiocistioidea
+Lớp Helicoplacoidea
+Phân ngành Blastozoa †
+Blastoidea †
+Cystoidea †
+Eocrinoidea †
+
+
+=== (Không phân hạng) Cambroernida ===
+Họ Rotadisciidae
+Họ Eldoniidae
+
+
+=== Ngành Vetulicolia † ===
+Vetulicolia
+Chi Shenzianyuloma
+S. yunnanense
+Lớp Vetulicolida
+Bộ Vetulicolata
+Họ Vetulicolidae
+Chi Vetulicola
+Vetulicola rectangulata
+Vetulicola cuneata
+Vetulicola gangtoucunensis
+Vetulicola monile
+Vetulicola longbaoshanensis
+Chi Ooedigera
+O. peeli
+Họ Beidazooidae
+Chi Beidazoon
+Beidazoon venustum (synonym = Bullivetula variola)
+Họ Didazoonidae
+Chi Nesonektris
+N. aldridgei
+Chi Didazoon
+Didazoon haoae
+Chi Pomatrum
+Pomatrum ventralis
+Chi Yuyuanozoon
+Y.magnificissmia
+Lớp Banffozoa
+Chi Skeemella
+S. clavuda
+Họ Banffiidae 
+Chi Banffia
+Banffia constricta
+Banffia episoma
+Lớp Heteromorphida
+Họ Heteromorphidae
+Chi Heteromorphus
+Heteromorphus longicaudatus (synonym=Banffia confusa)
+"Form A" (unnamed species)
+
+
+=== Ngành Saccorhytida † ===
+Họ Saccorhytidae
+Chi Saccorhytus
+Loài Saccorhytus coronarius
+
+
+=== Lớp Palaeoscolecida† ===
+Phân loại của Carl Linnaeus
+
+Bộ không chắc chắn
+Họ Chalazoscolecidae Conway Morris & Peel 2010
+Chalazoscolex pharkus
+Xystoscolex boreogyrus
+Order Cricocosmida Han 2007
+
+Họ Cricocosmiidae
+Tabelliscolex:
+Tabelliscolex hexagonus
+Tabelliscolex maanshanensis
+Tabelliscolex chengjiangensis
+Cricocosmia:
+Cricocosmia jinningensis
+Houscolex
+Họ Maotianshaniidae
+Maotianshania cylindrica Sun and Huo, 1987
+Họ Palaeoscolecidae
+Wronascolex
+Palaeoscolex
+Utahscolex Whitaker 2020
+Ashetscolex Muir2014
+Sanduscolex Muir2014
+Family Tylotitidae
+Tylotites petiolaris Luo and Hu, 1999
+Palaeoscolecidae khác hoặc không xác định.
+Gamascolex Kraft & Mergl, 1989
+Guanduscolex minor Hu., 2008
+Louisella pedunculata 
+Palaeoscolex sinensis Hou & Sun 1988 (=Mafangscolex siniensis, Parapalaeoscolex sinensis)
+Paramaotianshania zijunia Hu2012
+Wudingscolex sapushanensis Hu2012
+
+Các vi hóa thạch khác
+Hadimopanella 
+Kaimenella 
+Milaculum 
+Plasmuscolex Kraft & Mergl, 1989
+Protoscolex 
+Sahascolex Ivantsov & Wrona, 2004
+Utahphospha 
+Yunnanoscolex magnus Hu2012
+
+
+=== Ngành Priapulida ===
+Lớp Priapulimorpha
+Bộ Priapulimorphida
+Họ Tubiluchidae
+Họ Priapulidae
+Lớp Halicryptomorpha
+Bộ Halicryptomorphida
+Lớp Seticoronaria
+Họ Chaetostephanidae
+Lớp †Archaeopriapulida
+Chi Acosmia maotiania Chen & Zhoi 1997
+Acosmia maotiania Chen & Zhoi 1997
+Chi Archotuba Hou 1999 (có lẽ là ngành Cnidaria) (đặt tại Chengjiang)
+Archotuba conoidalis Hou 1999
+Chi Baltiscalida Slater 2017
+Baltiscalida njorda Slater 2017
+Chi Eopriapulites Liu & al 2014
+Eopriapulites sphinx Liu & al 2014
+Chi Eximipriapulus Ma 2014 (đặt tại Chengjiang) 
+Eximipriapulus globocaudatus Ma 2014
+Chi Gangtoucunia Luo & Hu 1999 (đặt tại Chengjiang )
+Gangtoucunia aspera Luo & Hu 1999 (có thể không phải là Priapulida)
+Chi Lagenula Luo & Hu 1999 (nomen dubium) (đặt tại Chengjiang)
+Lagenula striolata Luo & Hu 1999 (nomen dubium)
+Chi Laojieella Han 2006 (đặt tại Chengjiang)
+Laojieella thecata Han 2006
+Chi Lecythioscopa Conway Morris 1977 (Burgess Shale)
+Lecythioscopa simplex (Walcott 1931) Conway Morris 1977  [Canadia simplex Walcott 1931]
+Chi Oligonodus Luo & Hu 1999 (nomen dubium) (Chengjiang deposits)
+Oligonodus specialis Luo & Hu 1999 nomen dubium
+Chi Omnidens Hou & al 2006 (Chengjiang deposits)
+Omnidens amplus Hou & al 2006
+Chi Sandaokania Luo & Hu 1999 nomen dubium (Chengjiang deposits)
+Sandaokania latinodosa Luo & Hu 1999 nomen dubium
+Chi Singuuriqia Peel 2017 (Sirius Passet)
+Singuuriqia simoni Peel 2017
+Chi Sullulika Peel & Willman, 2018
+Sullulika broenlundi Peel & Willman, 2018
+Chi Xishania Hong 1981
+Xishania fusiformis Hong 1981
+Xishania jiangxiensis Hong 1988
+Chi Paratubiluchus Han, Shu, Zhang et Liu, 2004 (Chengjiang deposits)
+Paratubiluchus bicaudatus Han, Shu, Zhang et Liu, 2004
+Chi Xiaoheiqingella Hu 2002
+Xiaoheiqingella peculiaris Hu 2002 [Yunnanpriapulus halteroformis Huang2004] (Chengjiang deposits)
+Chi Priapulites Schram 1973 (Mazon Creek)
+Priapulites konecniorum Schram 1973
+Họ Palaeopriapulitidae Hou 1999
+Chi Sicyophorus Luo & Hu 1999 (Chengjiang deposits)
+Sicyophorus rara Luo & Hu 1999
+Sicyophorus sp.
+Chi Paraselkirkia Luo & Hu 1999
+Paraselkirkia sinica (Luo & Hu 1999) Luo & Hu 1999
+Họ Selkirkiidae Conway Morris 1977 (stem Palaeoscolecida)
+Chi Selkirkia Walcott 1911
+Selkirkia elongata Luo & Hu 1999 (Chengjiang deposits)
+Selkirkia columbia Walcott 1911 (Burgess Shale)
+Selkirkia pennsylvanica Resser & Howell 1938
+Selkirkia spencei Resser 1939
+Selkirkia willoughbyi Conway Morris & Robison 1986
+Bộ Ancalagonida Adrianov & Malakhov 1995 (stem Scalidophora)
+Họ Ancalagonidae Conway Morris 1977
+Chi Ancalagon (Walcott 1911) Conway Morris 1977 (Burgess Shale)
+Ancalagon minor (Walcott 1911) Conway Morris 1977
+Họ Fieldiidae Conway Morris 1977
+Chi Fieldia Walcott 1912 (Burgess Shale)
+Fieldia lanceolata Walcott 1912
+Chi Scolecofurca Conway Morris 1977 (Burgess Shale)
+Scolecofurca rara Conway Morris 1977
+Họ Ottoiidae Walcott 1911
+Chi Ottoia Walcott 1911
+Ottoia cylindrica (Sun & Hou 1987)
+Ottoia guizhouenis Yang, Zhao & Zhang 2016 
+Ottoia prolifica Walcott 1911 (Burgess Shale)
+Ottoia tenuis Walcott 1911
+Ottoia tricuspida Smith, Harvey & Butterfield 2015
+Họ Corynetidae Huang, Vannier & Chen 2004
+Chi Corynetis Luo & Hu 1999
+Corynetis brevis Luo & Hu 1999 [Anningvermis multispinosus Huang2004) (Chengjiang deposits)
+Corynetis fortis Hu 2012  (Chengjiang deposits)
+Corynetis pusillus (Klug 1842)
+Họ Miskoiidae Walcott 1911
+Chi Louisella Conway Morris 1977 (Burgess Shale)
+Louisella pedunculata (Walcott 1911) Conway Morris 1977
+Chi Miskoia Walcott 1911
+Miskoia placida Walcott 1931
+Miskoia preciosa Walcott 1911
+
+
+=== Ngành Kinorhyncha ===
+Lớp Cyclorhagida
+Bộ Echinorhagata
+Họ Echinoderidae
+Bộ Kentrorhagata
+Họ Antygomonidae
+Họ Centroderidae
+Họ Semnoderidae
+Họ Cateriidae
+Họ Zelinkaderidae
+Bộ Xenosomata
+Họ Campyloderidae
+Họ Incertae sedis
+Chi Tubulideres
+Chi Wollunquaderes
+Lớp Allomalorhagida
+Bộ không đề xuất
+Họ Dracoderidae
+Họ Franciscideridae
+Họ Neocentrophyidae
+Họ Pycnophyidae
+
+
+=== Ngành Loricifera ===
+Bộ Nanaloricida
+Họ Urnaloricidae
+Họ Nanaloricidae
+Họ Pliciloricidae
+
+
+=== Ngành Nematoda ===
+Lớp Enoplea
+Phân lớp Enoplia
+Bộ Enoplida
+Bộ Trefusiida
+Bộ Triplonchida
+Phân lớp Dorylaimia
+Bộ Dorylaimida
+Bộ Mermithida
+Bộ Mononchida
+Bộ Dioctophymatida
+Bộ Trichinellida
+Bộ Isolaimida
+Bộ Marimermithida
+Bộ Muspiceida
+Lớp Secernentea
+Phân lớp Spiruria
+Phân lớp Diplogasteria
+Phân lớp Tylenchia
+Lớp Chromadorea
+
+
+=== Ngành Nematomorpha ===
+Lớp Gordioida
+Bộ Gordioidea
+Họ Chordodidae
+Phân họ Chordodinae
+Chi Chordodes
+Chi Dacochordodes
+Chi Euchordodes
+Chi Neochordodes
+Chi Pantachordodes
+Chi Spinochordodes
+Phân họ Paragordiinae
+Chi Paragordius
+Incertae sedis
+Chi Gordionus
+Chi Parachordodes
+Chi Paragordionus
+Chi Semigordionus
+Họ Gordiidae
+Lớp Nectonematoida
+Bộ Nectonematoidea
+Họ Nectonemidae
+Chi Nectonema
+
+
+=== Ngành Onychophora ===
+Lớp Udeonychophora
+Bộ Euonychophora
+Họ Peripatidae
+Họ Peripatopsidae
+Bộ †Ontonychophora
+Họ †Helenodoridae
+Siêu họ: †Tertiapatoidea
+Họ †Tertiapatidae
+Họ †Succinipatopsidae
+
+
+=== Ngành Lobopodia ===
+Lớp Xenusia
+Bộ Scleronychophora.
+Bộ Protonychophora
+Bộ Archonychophora
+
+
+=== Ngành Arthropoda ===
+Lớp †Dinocaridida
+Bộ Radiodonta
+Họ Anomalocarididae
+Chi Anomalocaris
+Isoxys
+Lớp Megacheira (có lẽ là cận ngành)
+Kiisortoqia
+Fuxianhuiida
+Nhánh Arachnomorpha
+(Không phân hạng) Artiopoda
+Phân ngành Trilobitomorpha
+Class Trilobites 
+Sanctacaris
+Habelia
+Phân ngành Chelicerata
+Lớp Arachnida
+Lớp Xiphosura
+Lớp Eurypterida
+Lớp Pycnogonida
+Nhánh Mandibulata
+Aquilonifer
+Euthycarcinoidea
+Phân ngành Myriapoda
+Lớp Symphyla
+Lớp Pauropoda
+Lớp Diplopoda
+Lớp Chilopoda
+Phân ngành Pancrustacea
+Hymenocarina
+Phân ngành Crustacea
+Liên lớp Oligostraca
+Lớp Ostracoda
+Lớp Branchiura
+Lớp Maxillopoda
+Phân lớp Pentastomida
+Phân lớp Mystacocarida
+Nhánh Altocrustacea
+Lớp Thecostraca
+Lớp Hexanauplia
+Lớp Branchiopoda
+Lớp Cephalocarida
+Lớp Remipedia
+Phân ngành Hexapoda
+Lớp Insecta
+Lớp Entognatha
+Incertae sedis
+†Camptophyllia
+†Marrellomorpha
+†Parioscorpio
+†Thelxiope
+†Thylacocephala
+
+
+=== Chi Sialomorpha ===
+
+Họ Sialomorphidae
+Chi Sialomorpha
+Loài Sialomorpha dominicana
+
+
+=== Ngành Tardigrada ===
+
+Lớp Eutardigrada
+Bộ Apochela
+Họ Milnesiidae
+Bộ Parachaela
+Liên họ Eohypsibioidea
+Họ Eohypsibiidae
+Liên họ Hypsibioidea
+Họ Calohypsibiidae
+Họ Hypsibiidae
+Họ Microhypsibiidae
+Liên họ Macrobiotoidea
+Họ †Beornidae
+Họ Macrobiotidae
+Họ Necopinatidae
+Họ Richtersiida
+Lớp Heterotardigrada
+Bộ Arthrotardigrada
+Họ Archechiniscidae
+Họ Batillipedidae
+Họ Coronarctidae
+Họ Halechiniscidae
+Họ Neoarctidae
+Họ Renaudarctidae
+Họ Stygarctidae
+Họ Styraconyxidae
+Họ Tanarctidae
+Bộ Echiniscoidea
+Họ Carphaniidae
+Họ Echiniscidae
+Họ Echiniscoididae
+Họ Oreellidae
+Lớp Mesotardigrada
+Bộ Thermozodia
+Họ Thermozodiidae
+
+
+=== Ngành Platyhelminthes ===
+Lớp Turbellaria
+Bộ Catenulida
+Bộ Haplopharyngida
+Bộ Lecithoepitheliata
+Bộ Macrostomida
+Bộ Nemertodermata
+Bộ Polycladida
+Bộ Prolecithophora
+Bộ Rhabdocoela
+Bộ Seriata
+Bộ Temnocephalida
+Bộ Tricladida
+Lớp Trematoda
+Phân lớp Aspidogastrea
+Phân lớp Digenea
+Lớp Cestoda
+Phân lớp Eucestoda
+Bộ Bothriocephalidea
+Bộ Caryophyllidea
+Bộ Cathetocephalidea
+Bộ Cyclophyllidea
+Bộ Diphyllidea
+Bộ Diphyllobothriidea
+Bộ Lecanicephalidea
+Bộ Litobothriidea
+Bộ Onchoproteocephalidea
+Bộ Phyllobothriidea
+Bộ Rhinebothriidea
+Bộ Spathebothriidea
+Bộ Tetrabothriidea
+Bộ Tetraphyllidea
+Bộ Trypanorhyncha
+Phân lớp Cestodaria
+Bộ Gyrocotylidea
+Bộ Amphilinidea
+Lớp Monogenea
+Phân lớp Monopisthocotylea
+Bộ Montchadskyellidea
+Bộ Monocotylidea
+Bộ Dactylogyridea
+Bộ Gyrodactylidea
+Bộ Capsalidea
+Phân lớp Polyopisthocotylea
+Bộ Chimaericolidea
+Bộ Diclybothriidea
+Bộ Mazocraeidea
+Bộ Polystomatidea
+Lớp Catenulida
+Họ Catenulidae
+Họ Chordariidae
+Họ Retronectidae
+Họ Stenostomidae
+Họ Tyrrheniellidae
+Lớp Rhabditophora
+
+
+=== Ngành Gastrotricha ===
+
+Bộ Chaetonotida
+Phân bộ Multitubulatina
+Bộ Neodasyidae
+Phân bộ Paucitubulatina
+Họ Chaetonotidae
+Họ Dasydytidae
+Họ Neogosseidae
+Họ Muselliferidae
+Họ Proichthydiidae
+Họ Xenotrichulidae
+Họ Dichaeturidae
+Bộ Macrodasyida
+Họ Cephalodasyidae
+Họ Dactylopodolidae
+Họ Hummondasyidae
+Họ Lepidodasyidae
+Họ Macrodasyidae
+Họ Planodasyidae
+Họ Thaumastodermatidae
+Họ Redudasyidae
+Họ Turbanellidae
+Họ Xenodasyidae
+
+
+=== Ngành Chaetognatha ===
+Lớp Sagittoidea
+Phân lớp Eukrohniones
+Bộ Monophragmoeukrohniformes
+Họ Eukrohniidae
+Bộ Biphragmoeukrohniformes
+Họ Protoeukrohniidae
+Họ Heterokrohniidae
+Họ Tokiokaispadellidae
+Bộ Aphragmoeukrohniformes
+Họ Pterosagittidae
+Họ Krohnittidae
+Họ Krohnittellidae
+Phân lớp Sagittiones
+Họ Pterokrohniidae
+Họ Bathybelidae
+Bộ Biphragmosagittiformes
+Họ Biphragmosagittidae
+Bộ Aphragmophora
+Họ Sagittidae
+Phân họ Sagittinae
+Phân họ Flaccisagittinae
+Phân lớp Spadelliones
+Họ Spadellidae
+
+
+=== Ngành Acanthocephala ===
+Lớp Archiacanthocephala
+Bộ Apororhynchida
+Họ Apororhynchidae
+Bộ Gigantorhynchida
+Họ Giganthorhynchidae
+Bộ Moniliformida
+Họ Moniliformidae
+Bộ Oligacanthorhynchida
+Họ Oligacanthorhynchidae
+Lớp Eoacanthocephala
+Bộ Gyracanthocephala
+Họ Quadrigyridae
+Bộ Neoechinorhynchida
+Họ Dendronucleatidae
+Họ Neoechinorhynchidae
+Họ Tenuisentidae
+Lớp Palaeacanthocephala
+Bộ Echinorhynchida 
+Họ Arhythmacanthidae
+Họ Cavisomidae
+Họ Diplosentidae
+Họ Echinorhynchidae
+Họ Fessisentidae
+Họ Gymnorhadinorhynchidae
+Họ Heteracanthocephalidae
+Họ Illiosentidae
+Họ Isthmosacanthidae
+Họ Pomphorhynchidae
+Họ Rhadinorhynchidae
+Họ Sauracanthorhynchidae
+Họ Transvenidae
+Bộ Heteramorphida
+Họ Pyrirhynchidae
+Bộ Polymorphida 
+Họ Centrorhynchidae
+Họ Isthomosacanthidae
+Họ Plagiorhynchidae
+Họ Pyriprobosicidae
+Họ Polymorphidae
+Lớp Polyacanthocephala
+Bộ Polyacanthorhynchida
+Họ Polyacanthorhynchidae
+
+
+=== Ngành Gnathostomulida ===
+
+Bộ Filospermoidea 
+Họ Haplognathiidae [2]
+Họ Pterognathiidae[3]
+Bộ Bursovaginoidea
+Phân bộ Conophoralia
+Họ Austrognathiidae 
+Phân bộ Scleroperalia
+Agnathiellidae
+Clausognathiidae
+Gnathostomariidae
+Gnathostomulidae
+Mesognathariidae
+Onychognathiidae
+Paucidentulidae
+Problognathiidae
+Rastrognathiidae
+
+
+=== Ngành Rotifera ===
+
+Liên lớp Eurotatoria
+Lớp Bdelloidea
+Bộ Bdelloida
+Họ Adinetidae
+Lớp Monogononta
+Bộ Flosculariaceae
+Họ Conochilidae
+Họ Flosculariidae
+Họ Hexarthridae
+Họ Testudinellidae
+Họ Trochosphaeridae
+Họ Filiniidae
+Liên bộ Pseudotrocha
+Bộ Ploima 
+Asplanchnidae
+Brachionidae
+Dicranophoridae
+Epiphanidae
+Euchlanidae
+Gastropodidae
+Lecanidae
+Lepadellidae
+Lindiidae
+Mytilinidae
+Notommatidae
+Proalidae
+Synchaetidae
+Trichocercidae
+Trichotriidae
+Liên bộ Gnesiotrocha
+Bộ Collothecaceae 
+Họ Atrochidae
+Họ Collothecidae
+Lớp Seisonidea
+Bộ Seisonida
+Họ Seisonidae
+Chi Paraseison
+Chi Seison
+
+
+=== Ngành Micrognathozoa ===
+
+Bộ Limnognathida
+Họ Limnognathiidae
+
+
+=== Ngành Cycliophora ===
+Lớp Eucycliophora
+Bộ Symbiida
+Họ Symbiidae
+Chi Symbion
+Symbion pandora
+Symbion americanus
+
+
+=== Ngành Annelida ===
+Lớp Polychaeta cận ngành
+Lớp Clitellata
+Oligochaeta
+Branchiobdellida
+Hirudinea
+Lớp Machaeridia†
+
+
+=== Ngành Sipuncula ===
+Lớp Phascolosomatidea
+Bộ Aspidosiphoniformes
+Họ Aspidosiphonidae
+Bộ Phascolosomatiformes
+Họ Phascolosomatidae
+Lớp Sipunculidea
+Bộ Golfingiiformes
+Họ Golfingiidae
+Họ Phascolionidae
+Họ Themistidae
+Bộ Sipunculiformes
+Họ Sipunculidae
+
+
+=== Ngành Mollusca ===
+Phân ngành Conchifera
+Monoplacophora
+† Phân lớp Cyrtolitiones
+† Bộ Sinuitopsida
+† Liên họ Cyrtolitoidea S. A. Miller, 1889
+† Họ Cyrtolitidae S. A. Miller, 1889
+† Họ Carcassonnellidae Horný, 1997
+† Liên họ Cyclocyrtonelloidea Horný, 1962
+† Họ Cyclocyrtonellidae Horný, 1962 (= Yochelsoniidae Horný, 1962 (inv.))
+† Họ Multifariitidae Bjaly, 1973
+† Họ Sinuellidae Starobogatov & Moskalev, 1987
+† Họ Sinuitinidae Starobogatov & Moskalev, 1987
+† Phân lớp Cyrtonelliones
+† Bộ Cyrtonellida
+† Liên họ Cyrtonelloidea Knight & Yochelson, 1958
+† Họ Cyrtonellidae Knight & Yochelson, 1958 (= Cyrtonellopsinae Horný, 1965)
+† Phân lớp Eomonoplacophora
+(Bộ chưa công nhận)
+† Liên họ Maikhanelloidea Missarzhevsky, 1989
+† Họ Maikhanellidae Missarzhevsky, 1989 (= Purellidae Vassiljeva, 1990)
+† Phân lớp Tergomya (= Pilinea)
+† Bộ Kirengellida (= Romaniellida)
+† Liên họ Archaeophialoidea Knight & Yochelson, 1958
+† Họ Archaeophialidae Knight & Yochelson, 1958
+† Họ Peelipilinidae Horný, 2006
+† Họ Pygmaeoconidae Horný, 2006
+† Liên họ Kirengelloidea Starobogatov, 1970
+† Họ Kirengellidae Starobogatov, 1970
+† Họ Romaniellidae Rozov, 1975
+† Họ Nyuellidae Starobogatov & Moskalev, 1987
+† Liên họ Hypseloconoidea Knight, 1952
+† Họ Hypseloconidae Knight, 1952
+Bộ Tryblidiida
+Liên họ Tryblidioidea Pilsbry, 1899
+† Họ Tryblidiidae Pilsbry, 1899
+† Họ Proplinidae Knight & Yochelson, 1958
+† Họ Drahomiridae Knight & Yochelson, 1958
+† Họ Bipulvinidae Starobogatov, 1970
+Liên họ Neopilinoidea Knight & Yochelson, 1958
+Họ Neopilinidae Knight & Yochelson, 1958
+Phân họ Neopilininae Knight & Yochelson, 1958 (= Vemidae Moskalev, Starobogatov & Filatova, 1983; = Laevipilinidae Moskalev, Starobogatov & Filatova, 1983; = Monoplacophoridae Moskalev, Starobogatov & Filatova, 1983)
+Phân họ Veleropilininae Starobogatov & Moskalev, 1987 (= Rokopellidae Starobogatov & Moskalev, 1987; = Micropilinidae Haszprunar & Schaefer, 1997)
+Bivalvia
+Gastropoda
+Scaphopoda
+Bộ Dentaliida da Costa, 1776
+Họ Anulidentaliidae Chistikov, 1975
+Họ Calliodentaliidae
+Họ Dentaliidae Children, 1834
+Họ Fustiariidae Steiner, 1991
+Họ Gadilinidae Chistikov, 1975
+Họ Laevidentaliidae Palmer, 1974
+Họ Omniglyptidae Chistikov, 1975
+Họ Rhabdidae Chistikov, 1975
+Bộ Gadilida Starobogatov, 1974
+Phân bộ Entalimorpha Steiner, 1992
+Họ Entalinidae Chistikov, 1979 
+Phân bộ Gadilimorpha Steiner, 1992
+Họ Gadilidae Stoliczka, 1868
+Họ Pulsellidae Scarabino in Boss, 1982
+Họ Wemersoniellidae Scarabino, 1986
+Cephalopoda
+Archinacelloidea†
+Rostroconchia†
+Helcionelloida†
+
+
+=== Ngành Bryozoa ===
+Lớp Stenolaemata
+Bộ Cyclostomatida
+Bộ Cystoporata
+Bộ Cryptostomata
+Bộ Esthonioporata
+Bộ Fenestrata
+Họ Phylloporinidae
+Bộ Timanodictyina
+Bộ Trepostomatida
+Họ Heterotrypidae
+Họ Monticuliporidae
+Lớp Phylactolaemata
+Bộ Plumatellida
+Họ Cristatellidae
+Họ Fredericellidae
+Họ Lophopodidae
+Họ Pectinatellidae
+Họ Plumatellidae
+Họ Stephanellidae
+Họ Tapajosellidae
+Lớp Gymnolaemata
+Bộ Ctenostomatida
+Bộ Cheilostomata
+
+
+=== Ngành Entoprocta ===
+Họ Barentsiidae (Urnatellidae)
+Họ Loxokalypodidae
+Họ Loxosomatidae
+Họ Pedicellinidae
+
+
+=== Ngành Phoronida ===
+Chi Phoronis
+Chi Phoronopsis
+Chi †Diversipora?
+Chi †Hederella?
+Chi †Cytosporella?
+Chi †Hederellids
+Chi †Hernodia?
+
+
+=== Brachiopoda ===
+Phân ngành Linguliformea
+Lớp Lingulata
+Bộ Lingulida
+Liên họ Linguloidea
+Họ †Obolidae
+Họ Lingulidae
+Liên họ †Acrotheloidea
+Liên họ Discinoidea
+Bộ †Acrotretida
+Liên họ Acrotretoidea Schuchert, 1893
+Họ Acrotretidae Schuchert, 1893
+Họ Biernatidae Holmer, 1989
+Họ Ceratretidae Rowell, 1965
+Họ Curticiidae Walcott & Schuchert, 1908
+Họ Eoconulidae Rowell, 1965
+Họ Ephippelasmatidae Rowell, 1965
+Họ Scaphelasmatidae Rowell, 1965
+Họ Torynelasmatidae Rowell, 1965
+Incertae sedis
+Craniotreta Termier & Monod, 1978
+Dzhagdicus Sobolev, 1992
+Schizotretoides Termier & Monod, 1978
+Bộ †Siphonotretida
+Liên họ †Siphonotretoidea
+Họ †Siphonotretidae
+Acanthambonia Cooper, 1956
+Acanthotretella?Holmer & Caron, 2006
+Alichovia Goryanskij, 1969
+Celdobolus Havlíček, 1982
+Cyrbasiotreta Williams & Curry, 1985
+Eosiphonotreta Havlíček, 1982
+Gorchakovia Popov & Khazanovitch
+Helmersenia Pander
+Karnotreta Williams & Curry, 1985
+Mesotreta Kutorga, 1848
+Multispinula Rowell, 1962
+Nushbiella Popov (trong Kolobova & Popov, 1986)
+Oaxaquiatreta Streng, Mellbin, Landing & Keppie, 2011
+Orbaspina Valentine & Brock, 2003
+Quasithambonia? Bednarczyk & Biernat, 1978
+Schizambon Walcott, 1884
+Siphonobolus Havlíček, 1982
+Siphonotreta de Verneuil, 1845
+Siphonotretella Popov & Holmer, 1994
+Lớp †Paterinata
+Bộ †Paterinida
+Liên họ Paterinoidea Schuchert, 1893
+Họ Cryptotretidae Pelman, 1979
+Aldanotreta Pelman, 1977
+Askepasma Laurie, 1896
+Cryptotreta Pelman, 1977
+Dzunarzina Ushatinskaya, 1993
+Salanygolina Ushatinskaya, 1987
+Họ Paterinidae Schuchert, 1893
+Dictyonina Cooper, 1942
+Dictyonites Cooper, 1956
+Kolihium Havlicek, 1982
+Lacunites Gorjansky, 1969
+Micromitra Meek, 1873
+Paterina Beecher, 1891
+Phân ngành Craniiformea
+Lớp Craniata
+Bộ Craniida
+Phân bộ Craniidina
+Liên họ Cranioidea
+Họ Craniidae
+†Craniscus Dall, 1871
+†Conocrania Smirnova, 1996
+†Danocrania Rozenkrantz, 1964
+†Isocrania Jäkel, 1902
+†Lepidocrania Cooper and Grant, 1974
+†Nematocrania Grant, 1976
+Neoancistrocrania Laurin, 1992
+Novocrania Lee và Bruton, 2001
+†Orthisocrania Rowell, 1963
+†Petrocrania Raymond, 1911
+†Philhedra Koken, 1889
+†PseudocraniaMcCoy, 1851
+Valdiviathyris Helmcke, 1940
+Bộ †Craniopsida
+Liên họ †Craniopsoidea
+Họ †Craniopsidae
+†Craniops Hall, 1859
+†Discinopsis Hall & Clarke 1892
+†Lingulapholis Schuchert 1913
+†Paracraniops Williams 1963
+†Pseudopholidops Bekker, 1921
+†Wrightiops Popov và Cocks 2014
+Bộ †Trimerellida
+Phân ngành Rhynchonelliformea
+Lớp †Chileata
+Bộ †Chileida
+Bộ †Dyctonellida
+Lớp †Obolellata
+Bộ †Obolellida
+Bộ †Naukatida
+Lớp †Kutorginata
+Bộ †Kutorginida
+Lớp †Strophomenata
+Bộ †Billingsellida
+Bộ †Strophomenida
+Bộ †Productida
+Bộ †Orthotetida
+Lớp Rhynchonellata
+Bộ Rhynchonellida
+Bộ Terebratulida
+Bộ Thecideida
+Bộ †Protorthida
+Bộ †Orthida
+Bộ †Pentamerida
+Bộ †Atrypida
+Bộ †Athyridida
+Bộ †Spiriferida
+Bộ †Spiriferinida
+Phân ngành Disciniformea
+
+
+=== Lớp Hyolitha † ===
+Bộ Hyolithida
+Họ Hyolithidae
+Bộ Orthothecida
+Họ Allathecidae
+Họ Circothecidae
+Họ Gracilithecidae
+Họ Orthothecidae
+Họ Tetrathecidae
+Họ Novitatidae
+Chi Lenatheca
+Chi Pedunculotheca
+Chi Probactrotheca
+Bộ Incertae sedis
+Chi Cupitheca
+
+
+=== Ngành Monoblastozoa ===
+Họ Salinellidae
+Salinella
+Salinella salve
+
+
+=== Ngành Dicyemida ===
+Lớp Rhombozoa
+Họ Kantharellidae
+Họ Dicyemidae
+Họ Conocyemidae 
+Chi Conocyema
+Chi Microcyema
+
+
+=== Orthonectida ===
+Họ Rhopaluridae 
+Ciliocincta
+Intoshia
+Prothelminthus
+Rhopalura
+Stoecharthrum
+Họ Pelmatosphaeridae 
+Chi Pelmatosphaera
+Loài Pelmatosphaera polycirri
+
+
+=== Petalonamae ===
+Chi †Stromatoveris
+Lớp †Rangeomorpha
+†Avalofractus
+†Bradgatia
+†Fractofusus
+†Frondophyllas
+†Haspidophyllas
+†Khatyspytia
+†Pambikalbae
+†Pectinifrons
+†Primocandelabrum
+†Trepassia
+†Vinlandia
+Họ †Rangeidae
+†Rangea
+Họ †Charniidae
+†Beothukis
+†Bomakellia
+†Charnia
+†Paracharnia
+†Culmofrons
+Lớp †Erniettomorpha Các chi
+†Ernietta
+†Nasepia
+†Palaeoplatoda
+†Phyllozoon
+†Pteridinium
+†Swartpuntia
+Lớp †Arboreomorpha
+† Charniodiscus hoặc Arborea
+† Khatyspytia
+† Thaumaptilon
+† Vaizitsinia
+
+
+=== Ngành Proarticulata ===
+Lớp †Vendiamorpha 
+†Vendiidae
+Chi Vendia
+Chi Paravendia
+Chi Karakhtia
+Lớp†Dipleurozoa
+†Dickinsoniidae
+Lớp †Cephalozoa
+†Andiva
+†Ivovicia
+†Yorgiidae 
+†Sprigginidae 
+
+
+=== Ngành Trilobozoa ===
+Ngành Trilobozoa †
+Họ Albumaresidae †
+Chi Albumares †
+Chi Anfesta †
+Chi Skinnera †
+Họ Tribrachididae †
+Chi Tribrachidium †
+Họ Anabaritidae †
+Chi Aculeochrea †
+Chi Anabarites †
+Chi Cambrotubulus †
+Chi Mariochrea †
+Chi Selindeochrea †
+Họ incertae saedis
+Chi Gastreochrea †
+Chi Hallidaya †
+Chi Kotuites †
+Chi Lobiochrea †
+Chi Longiocrea †
+Chi Paragloborilus †
+Chi Rugoconites †
+Chi Tinsitheca †
+Chi Triforillonia†
+
+
+=== Medusoid ===
+†Arkarua
+†Aspidella
+†Brachina
+†Corumbella
+†Cyclomedusa
+†Eoporpita
+†Ediacaria
+†Eoandromeda
+†Haootia (polipoid)
+†Hiemalora (anemonoid)
+†Inaria (?)
+†Kimberella (molluscoid)
+†Mawsonites
+†Medusina
+†Nimbia
+†Pomoria
+†Solza
+†Studenicia
+Các nhóm được đề xuất:
+
+Lớp  †Psammocorallia
+†Asterosoma
+†Beltanelliformis
+†Brooksella
+†Nemiana
+†Protolyellia
+†Spatangopsis
+
+
+=== Lớp †Coeloscleritophora ===
+Bộ Chancelloriida
+Họ Chancelloriidae .
+Chi Archiasterella
+A. fletchergryllus Randell, 2003
+A. hirundo Bengston, 1990 (in Bengston)
+A. pentactina Sdzuy, 1969
+Chi Chancelloria
+C. eros  Walcott, 1920
+C.  drusilla Walcott, 1920
+C. libo Walcott, 1920
+C. yorkensis Walcott, 1920
+C. cruceana Rusconi, 1954
+C. lenaica  Zhuravleva and Korde, 1955
+C. altaica  Romanenko, 1968
+C. maroccana Sdzuy, 1969
+C. iranica Mostler and Mosleh-Yazdi, 1976
+C. pentacta  Rigby, 1978
+C. arida Duan, 1984
+C. odontodes Duan, 1984
+C. sardinica  Mostler, 1985
+C. coronacea Vassiljeva, 1985
+C. spinulosa Vassiljeva, 1985
+C. symmetrica Vassiljeva, 1985
+C. primaria Missarzhevsky, 1989
+C. racemifundis Bengtson, 1990
+C. obliqua Gravestock, 2001
+C. australilonga Yun, 2019
+C. impar Moore, 2019
+C. lilioides Moore, 2019
+Chi Platyspinites
+Chi Chancelloriella
+Chi Ginospina
+Chi Cambrothyra
+Chi Allonnia 
+
+
+=== Agmata ===
+Họ †Salterellidae
+Chi †Ellisell
+Chi †Salterella
+Chi †Volborthella
+
+
+=== Xenacoelomorpha ===
+
+
+==== Phân ngành Xenoturbellida ====
+Lớp Incertae sedis
+Họ Xenoturbellidae
+Chi Xenoturbella
+X. monstrosa
+X. hollandorum
+X. japonica
+X. bocki
+X. churro
+X. profunda
+
+
+==== Phân ngành Acoelomorpha ====
+Lớp Acoela
+Họ Nadinidae
+Họ Diopisthoporidae
+Họ Antroposthiidae
+Họ Actinoposthiidae
+Họ Antigonariidae
+Họ Paratomellidae
+Phân bộ Bursalia
+Phân thứ bộ Crucimusculata
+Họ Proporida
+Họ Isodiametridae
+Họ Otocelidida
+Họ Dakuidae
+Liên họ Aberrantospermata
+Họ Convolutidae
+Họ Mecynostomidae
+Phân thứ bộ Prosopharyngida
+Họ Hofsteniidae
+Họ Hallangiidae
+Họ Solenofilomorphidae
+Lớp Nemertodermatida
+Họ Ascopariidae
+
+
+== Phát sinh loài và tiến hoá ==
+
+
+=== Cây phát sinh ===
+Đây là cây phát sinh giới Động vật (chỉ các dòng họ chính, và thời gian phân chia của các ngành). Cho thấy động vật bắt đầu sinh tồn vào khoảng 760 triệu năm trước, đó chính là loài hải miên hay bọt biển thuộc ngành Động vật thân lỗ.
+
+
+=== Tiến hoá, sinh tồn và phát triển ===
+
+Động vật bắt đầu hình thành từ đại dương. Thậm chí, trước khi các tế bào thực vật tập hợp lại với nhau ở những vũng cạn, động vật đã bắt đầu phát triển ở biển.  Động vật có sự khác biệt so với thực vật về sự chuyên hoá các chức năng và sự tương tác phức tạp của tế bào. Đến khoảng 580 triệu năm trước, động vật đã tiến hoá để có những bộ phận cứng – chẳng hạn như vỏ hoặc bộ khung xương thấy được bằng mắt thường từ bên ngoài và các hoá thạch của chúng có thể bắt gặp ở khắp nơi trên Trái đất. Loài động vật đơn giản nhất tồn tại ngày nay là Trichoplax, được phát hiện vào năm 1965 khi nó bò lên thành một bể cá.
+
+Ngành Thích ty bào sinh sống vào khoảng 550 năm.
+Ngành Sứa lược khoảng 540 triệu năm.
+Ngành Placozoa khoảng 720 triệu năm hoặc 635 triệu năm trước.
+Ngành Petalonamae đã tuyệt chủng, sinh sống trong khoảng thời gian 570-516 triệu năm trước.
+Ngành Proarticulata đã tuyệt chủng và sinh sống vào khoảng 567-550 triệu năm trước.
+Ngành Trilobozoa đã tuyệt chủng, sinh sống vào khoảng 565-548 triệu năm trước.
+Ngành Medusoid đã tuyệt chủng, sinh sống vào khoảng 560 triệu năm trước.
+
+
+== Phân loại học và phát sinh các nhánh ==
+
+Động vật là đơn ngành, nghĩa là chúng có nguồn gốc từ một tổ tiên chung. Chúng cũng là chị em với Choanoflagellata, cùng với nó tạo thành Choanozoa. Giới Động vật được phân thành các nhánh như sau:
+
+Giới Động vật
+Nhánh ParaHoxozoa
+Nhánh Bilateria
+
+Một số tài liệu khác đưa ra nhánh Planulozoa nằm giữa nhánh ParaHoxozoa và nhánh Bilateria. Để cho ra mối quan hệ chị em của Placozoa với Cnidaria. Một số nghiên cứu đã đưa ra bằng chứng ủng hộ Porifera là chị em với Parahoxozoa và Ctenophora là nhóm chị em với phần còn lại của động vật (ví dụ:). Và nhánh Bilateria (Động vật đối xứng hai bên) chia thành hai nhánh chính là ngành Xenacoelomorpha với một nhánh chứa tất cả các động vật miệng nguyên sinh và động vật có xương sống cùng với một số ngành khác của liên ngành Deuterostomia, đó là nhánh Nephrozoa. Hay một giả thuyết khác là tổ tiên chung gần đây nhất của tất cả các loài Bilateria được gọi là "Urbilateria".
+
+ 
+Phân loại hai nhánh chính của nhánh Bilateria:
+
+Nhánh Bilateria
+Ngành Xenacoelomorpha
+Nhánh Nephrozoa
+
+
+=== Xenacoelomorpha ===
+
+Xenacoelomorpha  là một ngành động vật không xương sống và một ngành của động vật đối xứng hai bên (nhánh Bilateraia). Tất cả loài của ngành này đều là giun sống ở biển. Xenacoelomorpha hay còn gọi là động vật thân rỗng kỳ dị. Ngành này chia thành 2 phân ngành:
+
+Ngành Xenacoelomorpha
+Phân ngành Acoelomorpha
+Phân ngành Xenoturbellida
+
+
+=== Nephrozoa ===
+
+
+==== Phân loại ====
+Nhánh Nephrozoa chia thành hai siêu ngành là:
+
+Nhánh Nephrozoa
+Siêu ngành Deuterostomia
+(Không phân hạng) Protostomia nói chính xác đây là một đơn vị phân loại bao gồm hầu hết các động vật không xương sống.
+
+
+==== Phát sinh chủng loại ====
+Dưới đây là cây phát sinh chủng loài của nhánh Nephrozoa:
+
+
+== Deuterostomia ==
+
+
+=== Phân loại và giới thiệu ===
+
+Siêu ngành (liên ngành) Deuterostomia ; là miệng thứ hai trong tiếng Hy Lạp cổ đại) hay còn gọi là Động vật miệng thứ sinh. Được chia thành nhiều ngành trong đó có 4 ngành và 1 đơn vị phân loại, bao gồm như sao:
+
+Liên ngành Deuterostomia
+Ngành Chordata
+Ngành †Vetulicolia
+Nhánh Ambulacraria
+Ngành Hemichordata
+Ngành Echinodermata
+(Không phân hạng) †Cambroernida
+
+Echinodermata và Hemichordata tạo thành nhánh Ambulacraria.  Hơn nữa, có khả năng là Ambulacraria có thể là chị em với Xenacoelomorpha, và tạo thành nhánh Xenambulacraria.
+
+
+=== Phát sinh loài ===
+Dưới đây là cây phát sinh loài cho thấy mối quan hệ giữa các đơn vị phân loại trong liên ngành động vật thứ sinh. Bằng chứng phát sinh loài họ Torquaratoridae phát sinh từ họ Ptychoderidae. Cây dựa trên dữ liệu trình tự rRNA 16S + 18S và các nghiên cứu phát sinh loài từ nhiều nguồn.
+
+
+=== Một số ngành khác ===
+
+
+==== Ngành Hemichordata ====
+Sự phát sinh của bên trong của ngành Hemichordata:
+
+
+==== Ngành Echinodermata ====
+Các phân tích ban đầu đưa ra kết quả không nhất quán, các giả thuyết chính cho rằng Ophiuroidea là chị em với Asteroidea, hoặc chúng là chị em với (Holothuroidea + Echinoidea). Tuy nhiên, một phân tích năm 2014 trên 219 gen từ tất cả các lớp động vật da gai đã cho ra cây phát sinh loài sau đây.  Một phân tích thống nhất vào năm 2015 về các bản sao RNA từ 23 loài trên tất cả các lớp Da gai đã cho cùng một cây.
+
+Phát sinh bên ngoài
+
+Phát sinh bên trong:
+
+
+==== Ngành Chordata ====
+
+
+===== Phát sinh loài =====
+Hai cây phát sinh loài bên trong của ngành Chordata:
+
+Nhánh thứ nhất.
+
+Nhánh thứ hai.
+
+
+===== Giả thuyết Olfactores =====
+Olfactores là một nhánh trong Chordata bao gồm Tunicata (Urochordata) và Vertebrata (đôi khi được gọi là Craniata).
+Trong khi có giả thuyết cho rằng Cephalochordata là đơn vị phân loại chị em với Craniata đã có từ lâu và đã từng được chấp nhận rộng rãi—có khả năng bị ảnh hưởng bởi sự biến đổi đáng kể về hình thái của Tunicata từ các loài Chordata khác, với các loài Cephalochordata thậm chí còn được đặt biệt danh là 'động vật có xương sống danh dự'—các nghiên cứu từ năm 2006 phân tích các bộ dữ liệu giải trình tự lớn ủng hộ mạnh mẽ Olfactores như một nhánh.
+
+
+==== Ngành Vetulicolia ====
+Vetulicolia là một ngành động vật bao gồm một số loài đã tuyệt chủng thuộc kỷ Cambri. Ngành này được Degan Shu và nhóm nghiên cứu của ông đề ra vào năm 2001, và được đặt theo tên của loài Vetulicola cuneata. Là loài đầu tiên của ngành được mô tả vào năm 1987.
+Vào năm 2024, một phân tích phát sinh loài bởi Mussini và đồng nghiệp đã tìm ra Vetulicolia là nhóm cận ngành thuộc nhóm thân ngành Chordata, nằm ngoài một nhánh được hình thành bởi Yunnanozoon, Cathaymyrus, Pikaia và nhóm đỉnh ngành Chordata.
+
+
+== Protostomia ==
+
+
+=== Phân loại học và giới thiệu ===
+
+Đơn vị phân loại (Không phân hạng) Protostomia hay Động vật miệng nguyên sinh là một đơn vị chứa một số động vật không xương sống. Có quan hệ chị em với Deuterostomia. Cùng với Deuterostomia và ngành Xenacoelomorpha chúng tạo thành nhánh Bilateria.
+
+
+=== Phân loại ===
+Nhóm này chia thành hai nhóm chính:
+
+(Liên ngành) Ecdysozoa (Động vật lột xác)
+(Kph) Spiralia (Động vật xoắn ốc)
+
+
+==== Ecdysozoa ====
+Ecdysozoa  là một liên ngành của Protostomia.
+Nhóm ban đầu bị tranh cãi bởi một số nhà sinh học một cách đáng kể. Some argued for groupings based on more traditional taxonomic techniques, while others contested the interpretation of the molecular data.
+
+Phân loại
+Nhánh Cycloneuralia
+Nhánh Nematoida
+Ngành Nematoda
+Ngành Nematomorpha
+Nhánh Scalidophora
+Ngành Kinorhyncha
+Ngành Priapulida
+Ngành Loricifera
+Lớp Palaeoscolecida †
+(Không phân hạng) Panarthropoda
+Ngành "Lobopodia" †
+Ngành Onychophora
+Ngành Tardigrada
+Ngành Arthropoda
+Hoặc:
+
+Scalidophora
+Kinorhyncha
+Priapulida
+Loricifera
+†Palaeoscolecida
+Cryptovermes
+Nematoida
+Nematoda
+Nematomorpha
+Panarthropoda
+†"Lobopodia"
+Onychophora
+Arthropoda
+Tardigrada
+†Saccorhytida?
+†Acosmia
+†Laojieella
+Dưới đây là cây phát sinh loài hiện đại của liên ngành Ecdysozoa.
+
+
+==== Ngành Sacorhytida ====
+Đây là cây phát sinh loài thứ nhất của ngành Saccorhytida:
+
+Vào năm 2020, một phân loại mới được đề xuất, là thay vào đó nó có lẽ là Động vật lột xác (Ecdysozoa); nhóm thân của nhánh Scalidophora. Do vảy cứng và gai sau của nó tương tự như Scalidophora và thiếu lông rung. Dưới đây là cây phát sinh loài được đặt ra.
+
+
+==== Spiralia ====
+Spiralia là một nhánh thuộc Protostomia, nó bao gồm các ngành như Mollusca, Platyhelminthes, Annelida và đơn vị phân loại khác
+
+Phân loại
+Spiralia được phân loại làm hai nhánh:
+
+Gnathifera
+Rotifera
+Acanthocephala
+Gnathostomulida
+Micrognathozoa
+Cycliophora
+Platytrochozoa
+
+
+=== Phát sinh chủng loài ===
+Cây phát sinh chủng loài công bố năm 2011 được nhiều tác giả công nhận đối với động vật miệng nguyên sinh được chỉ ra dưới đây. 
+Nó cũng kèm theo khoảng thời gian mà các nhánh phân tỏa ra thành các nhánh mới tính bằng triệu năm trước (Ma).
+
+
+== Phân ngành và phân thứ ngành ==
+
+
+=== Các phân ngành ===
+Echinodermata
+Homalozoa
+Asteroidea
+Crinozoa
+Echinozoa
+Blastozoa
+
+Chordata
+Cephalochordata
+Urochordata
+Vertebrata
+
+Brachiopoda
+Craniiformea
+Linguliformea
+Rhynchonelliformea
+Xenacoelomorpha
+Xenoturbellida
+Acoelomorpha
+Cnidaria
+Anthozoa
+Medusozoa
+Myxozoa
+Mollusca
+Conchifera
+Arthropoda
+Trilobitomorpha
+Chelicerata
+Myriapoda
+Hexapoda
+Crustacea
+Tổng 22 phân ngành.
+
+
+=== Phân thứ ngành ===
+Ngành Chordata
+Phân ngành Vertebrata
+Phân thứ ngành Gnathostomata
+Phân thứ ngành Agnatha
+
+
+== Phân loại lỗi thời và không được công nhận ==
+
+
+=== Ivesheadiomorpha, Boynton và Ford ===
+
+Ivesheadiomorpha là một nhóm động vật đã tuyệt chủng, chúng được đặt tên bởi Boynton và Ford vào năm 1996. Cụ thể là một số loài như: Ivesheadia lobata, Blackbrookia oaski, Shepshedia palmata và Pseudovendia charnwoodensis. Tuy nhiên, tất cả các hóa thạch này bị từ chối là đơn vị phân loại hợp lệ.
+Hoá thạch Ivesheadiomorpha được tìm thấy ở Anh và Newfoundland. Thời gian sinh sống của chúng vào khoảng 635-542 triệu năm trước (Kỷ Ediacara). Chúng là taphomorph, đại diện cho các di tích sinh học bảo quản kém như Charnia, Charniodiscus, Bradgatia, Primocandelabrum, Pectinifrons và một số khác.
+
+
+=== Pogonophora ===
+
+Pogonophora là một ngành giun còn gọi là giun ống biển.  Chúng bao gồm khoảng 80 loài và sống trong các ống mỏng bị chôn vùi trong lớp trầm tích hoặc trong các ống gắn với lớp nền cứng ở độ sâu đại dương từ 100 đến 10.000 m.
+
+Hiện nay, đơn vị phân loại này và Vestimentifera đã được thay thế bằng một họ giun nhiều tơ là Siboglinidae trong lớp Polychaeta thuộc ngành Annelida. Hồ sơ hóa thạch cùng với đồng hồ phân tử cho thấy họ này có nguồn gốc từ Đại Trung Sinh (250 – 66 Mya) hoặc Đại Tân Sinh (66 Mya – gần đây).
+
+Các chi trong họ Siboglinidae:
+
+Osedax
+Frenulata
+Birsteinia
+Bobmarleya
+Choanophorus
+Crassibrachia
+Cyclobrachia
+Diplobrachia
+Galathealinum
+Heptobrachia
+Lamellisabella
+Nereilinum
+Oligobrachia
+Paraescarpia
+Polybrachia
+Siboglinoides
+Siboglinum
+Siphonobrachia
+Spirobrachia
+Unibrachium
+Volvobrachia
+Zenkevitchiana
+Sclerolinum
+Vestimentifera
+Alaysia
+Arcovesia
+Escarpia
+Lamellibrachia
+Oasisia
+Ridgeia
+Riftia
+Tevnia
+
+
+=== Aschelminthes ===
+Aschelminthes (còn được gọi là Aeschelminthes), là một ngành động vật và có mối quan hệ chặt chẽ với ngành Platyhelminthes. Ngành động vật này là sinh vật có khoang giả và đã lỗi thời. Hiện giờ, các động vật tương tự khác không còn các mối quan hệ chặt chẽ và đã được trở thành một ngành riêng.
+
+Dù các chuyên gia động vật không xương sống  không nhất thiết phải đồng ý cách phân loại này, các nhóm hợp nhất trong Aschelminthes bao gồm:
+
+Gastrotricha
+Gnathifera
+
+Acanthocephala
+Gnathostomulida
+Chaetognatha
+Rotifera
+Nematoidea
+
+Nematoda
+Nematomorpha
+Scalidophora
+
+Kinorhyncha
+Loricifera
+Priapulida
+Ngoài ra, Cycliophora, Entoprocta và Tardigrada đôi khi cũng bao gồm trong đây.
+Phát sinh loài:
+
+
+=== Coelenterata ===
+
+Động vật ruột khoang hay động vật xoang tràng hoặc ngành Ruột khoang (Coelenterata) là một thuật ngữ đã lỗi thời nhưng vẫn rất phổ biến để chỉ một nhóm cận ngành, cơ thể hình trụ, thường có nhiều tua miệng và là động vật đa bào bậc thấp bao gồm hai ngành động vật theo quan điểm của phát sinh loài, là Ctenophora (sứa lược) và Cnidaria (san hô, sứa thật sự, hải quỳ, san hô lông chim, và các loài có họ hàng gần khác). Tên gọi của đơn vị phân loại này có nguồn gốc từ tiếng Hy Lạp "koilos" ("rỗng"), để chỉ đặc trưng khoang cơ thể rỗng (chưa phân hóa) phổ biến ở hai ngành này. Chúng có các cơ quan, tổ chức mô rất đơn giản, chỉ với hai lớp tế bào, bên ngoài và bên trong, giữa 2 lớp là tầng keo. Động vật ruột khoang thường sống ở biển, số lượng loài của ngành ruột khoang là khoảng 10 nghìn loài.
+Thuật ngữ coelenterata không còn được công nhận là hợp lệ về mặt khoa học, do Cnidaria và Ctenophora đã được đặt ở cấp tương đương ngay dưới giới Metazoa với các ngành động vật khác. Một thuật ngữ duy nhất bao gồm cả hai ngành này nhưng bỏ ra ngoài toàn bộ các đơn vị phân loại cùng cấp khác có thể coi là cận ngành. Tuy nhiên, thuật ngữ coelenterata vẫn còn được sử dụng một cách không chính thức để chỉ cả hai nhóm Cnidaria và Ctenophora.
+
+
+== Đa dạng sinh học ==
+
+
+=== Ngành và số lượng loài ===
+
+
+=== Tổng số lượng loài động vật trên trái đất ===
+
+
+==== Thế giới ====
+Theo nhiều số liệu thống kê của nhiều tổ chức cho rằng:
+
+Theo số liệu thống kê không chính thức, giới Động vật hiện có khoảng 7,7 triệu loài động vật đã được biết đến trên hành tinh của chúng ta. Theo Cơ quan Quản lý Khí quyển và Đại dương Quốc gia Mỹ (NOAA).
+Những loài vật đã được con người biết đến có khoảng 1,7 triệu loài, Trong đó, động vật có vú có hơn 4200 loài, chim có hơn 9000 loài, bò sát có hơn 5100 loài, lưỡng cư có hơn 31000 loài, cá có hơn 21000 loài, động vật không có xương sống có khoảng 1,3 triệu loài.
+Giáo sư Worm và nhà khoa học Camilo Mora thuộc Đại học Hawaii đã sử dụng các mô hình toán học phức tạp và tiên tiến để khám phá các loài để ước tính số loài trên Trái đất. Kết quả họ phát hiện có gần 7,8 triệu loài động vật.
+Các nhà khoa học thuộc Đại học Dalhousie, Canada và Đại học Hawaii vừa công bố một công trình nghiên cứu. Trong đó, có khoảng 8,7 triệu loài khác nhau tồn tại trên Trái Đất, mặc dù chỉ mới có một phần nhỏ trong số này được phát hiện và phân loại. Về động vật, họ ước tính có 7,77 triệu loài động vật, trong đó 953434 loài đã được mô tả và phân loại.
+Theo Trung tâm Thông tin Công nghệ sinh học Quốc gia (NCBI), dự đoán có khoảng 7,77 triệu loài động vật trên đất liền và 2,15 triệu loài động vật ở đại dương.
+
+
+==== Việt Nam ====
+Đến nay, các nhà khoa học về sinh thái, tài nguyên sinh vật Việt Nam và trên thế giới đã xác định được khoảng 51400 loài sinh vật tại Việt Nam. Trong đó, có khoảng 7500 loài hoặc chủng vi sinh vật, 20000 loài thực vật, 10900 loài động vật, 2000 loài động vật không xương sống và cá nước ngọt, 11000 loài sinh vật biển.
+
+
+== Hình ảnh ==
+
+
+== Tham khảo ==
+Bản mẫu:Tham khảo
+
+
+== Xem thêm ==
+
+
+=== Danh sách các loài ===
+Danh sách loài chim ở Thái Lan
+Danh sách loài chim tại Việt Nam
+Danh sách loài họ Chồn hôi
+Danh sách loài họ Chồn
+Danh sách loài họ Trâu bò
+Danh sách loài lợn
+Danh sách loài thỏ
+Danh sách loài chuột chù voi
+Danh sách loài phân thứ bộ Cá voi
+Danh sách động vật chân vây
+Danh sách động vật có vú thời tiền sử
+Danh sách loài guốc chẵn theo số lượng
+Danh sách loài guốc lẻ theo số lượng
+Danh sách loài họ Chó
+Danh sách loài họ Mèo
+Danh sách loài linh trưởng theo số lượng
+Danh sách loài thú theo số lượng
+Danh sách loài gấu
+Danh sách loài họ Hươu nai
+Danh sách loài nhện trong họ Uloboridae
+Danh sách loài được mô tả năm 2015
+Danh sách loài được mô tả năm 2016
+Danh sách loài được mô tả năm 2018
+Danh sách loài được mô tả năm 2019
+Danh sách loài được mô tả năm 2020
+Danh sách loài được mô tả năm 2021
+Danh sách loài được mô tả năm 2022
+Danh sách các loài của ngành Dicyemida
+Danh sách các loài của ngành Vetulicolia
+
+
+=== Bài phân loại ===
+Phân loại học động vật (Hutchins và cộng sự, 2003)
+Phân loại Động vật không xương sống (Brusca & Brusca, 2003)
+Phân loại động vật có xương sống (Young, 1962)
+Phân loại Sibley-Ahlquist (phân loại chim)
+Phân loại Động vật chân bụng (Bouchet & Rocroi, 2005)
+
+
+=== Khác ===
+Đa dạng sinh học toàn cầu
+Bảo tồn động vật hoang dã
+Hiệp hội Bảo vệ Động vật Thế giới
+Hiệp hội bảo tồn Động vật hoang dã
+Danh sách các khu bảo tồn thiên nhiên của Việt Nam
+Animalia
+Eumetazoa
+
+
+== Đọc thêm ==
+
+
+=== Petalonamae ===
+Hoyal Cuthill, Jennifer F.; Han, Jian; Álvaro, Javier. Cambrian petalonamid Stromatoveris phylogenetically links Ediacaran biota to later animals. Palaeontology 2018 11.
+MARTINSSON, ANDERS. Keys to German palaeontological and stratigraphical terminology. Lethaia October 1978.
+BOOK REVIEW. Integrative Zoology 2008 12.
+Glaessner, M.F.; Walter, M.R.. New Precambrian fossils from the Arumbera Sandstone, Northern Territory, Australia. Alcheringa: An Australasian Journal of Palaeontology 1975 01.
+Grazhdankin, Dmitriy. Patterns of Evolution of the Ediacaran Soft-Bodied Biota. Journal of Paleontology 2014 03.
+Bản mẫu:Clade
+
+
+=== Placozoa ===
+The Trichoplax adhaerens Grell-BS-1999 v1.0 Genome Portal at the DOE Joint Genome Institute
+The Trichoplax Genome Project at the Yale Peabody Museum
+A Weird Wee Beastie: Trichoplax adhaerens
+Research articles from the ITZ, TiHo Hannover
+Information page from the University of California at Berkeley
+Mitochondrial DNA and 16S rRNA analysis and phylogeny of Trichoplax adhaerens
+Historical overview of Trichoplax research
+Science Daily:Genome Of Simplest Animal Reveals Ancient Lineage, Confounding Array Of Complex Capabilities
+Vicki Buchsbaum Pearse, and Oliver Voigt, 2007. "Field biology of placozoans (Trichoplax): distribution, diversity, biotic interactions. Integrative and Comparative Biology", Bản mẫu:Doi.
+
+
+=== Trilobozoa ===
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích tạp chí
+
+
+=== Coeloscleritophora ===
+Bản mẫu:Chú thích tạp chí: http://findarticles.com/p/articles/mi_qa3790/is_200509/ai_n15348719
+
+
+=== Cnidaria ===
+Siphonophorae
+PinkTentacle.com (2008): Siphonophore: Deep-sea superorganism (video). Truy cập 2009-MAY-23.
+
+
+=== Annelida ===
+Clitellata
+Bản mẫu:TĐBKVN
+Bản mẫu:En
+
+Bản mẫu:Britannica
+Bản mẫu:NCBI
+Bản mẫu:ITIS
+Bản mẫu:Eol
+Information on the medicinal leech
+Detailed information on leeches
+Leech fact sheet - a more detailed description
+North American leeches Bản mẫu:Webarchive
+How to remove a leech
+How to remove a leech II
+H2G2-Leeches
+
+
+=== Brachiopoda ===
+R.C.Moore, 1952; Brachiopods in Moore, Lalicher, and Fischer; Invertebrate Fossils, McGraw-Hill.
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích web
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích web
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích DOI
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích web
+Bản mẫu:Chú thích web
+Bản mẫu:Chú thích web
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích sách
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích sách
+
+
+== Liên kết ngoài ==
+
+
+=== Dicyemida ===
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+Bản mẫu:Chú thích tạp chí
+
+
+=== Trilobozoa ===
+Ediacara Assemblage University of Bristol
+
+
+=== Proarticulata ===
+Database of Ediacaran Biota Advent of Complex Life
+
+
+=== Vendobionta ===
+Dunn, F. S.; Liu, A. G.; Donoghue, P. C. «Ediacaran developmental biology». (2017). Biological Reviews. 93 (2): 914-932.
+
+
+=== Trilobitomorpha/Trilobite ===
+Bản mẫu:Chú thích. (A site with information covering trilobites from all angles. Includes many line drawings and photographs.)
+Bản mẫu:Britannica
+The Virtual Fossil Museum - Class Trilobita - Including extensive photographs organized by taxonomy and locality.
+Western Trilobite Association
+Kevin's Trilobite Gallery - a collection of photographs of trilobite fossils
+Canadian trilobite web site: photographs of trilobite fossils Bản mẫu:Webarchive
+The Paleontological Society
+Bản mẫu:Cite EB1911
+
+
+=== Vetulicolia ===
+New phylum on the block - Accessed ngày 3 tháng 1 năm 2008
+Photos and drawings of fossils of various Vetulicolians - Accessed ngày 3 tháng 1 năm 2008*Biota of the Maotianshan Shale, Chengjiang China - URL retrieved ngày 22 tháng 6 năm 2006
+Palaeos' Page on Vetulicolia [4]
+Photos of Vetulicola cuneata fossils - URL retrieved ngày 22 tháng 6 năm 2006
+Photos of Vetulicola rectangulata fossils - Accessed ngày 3 tháng 1 năm 2008
+Photos of Vetulicola gangtoucunensis fossils - Accessed ngày 3 tháng 1 năm 2008
+Bản mẫu:Animalia
+Bản mẫu:Sự sống trên Trái Đất

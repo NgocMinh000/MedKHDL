@@ -1,0 +1,58 @@
+Alpha-fetoprotein (AFP, α-fetoprotein; hay alpha-1-fetoprotein, alpha-fetoglobulin, hoặc protein alpha thai nhi) là một protein ở người được mã hóa bởi gen AFP. Gen AFP nằm trên nhánh q của nhiễm sắc thể 4 (4q25). Định lượng AFP huyết thanh mẹ được sử dụng để sàng lọc hội chứng Down, dị tật ống thần kinh và các bất thường nhiễm sắc thể khác.
+AFP là một protein huyết tương do túi noãn hoàng và gan của thai nhi trong quá trình phát triển của thai nhi sản xuất. AFP liên kết với đồng, nickel, acid béo và bilirubin, được tìm thấy dưới dạng monomer, dimer và trimer.
+
+
+== Cấu trúc ==
+AFP là một glycoprotein chứa 591 amino acid và một phần cấu trúc hóa học của carbohydrate.
+
+
+== Chức năng ==
+Chức năng của AFP ở người trưởng thành vẫn chưa được biết. AFP là protein huyết tương phong phú nhất được tìm thấy trong bào thai người. Nồng độ huyết tương của mẹ đạt đỉnh vào gần cuối tam cá nguyệt đầu tiên và bắt đầu giảm trước khi sinh vào thời điểm đó, sau đó giảm nhanh sau khi sinh. Mức độ trưởng thành bình thường ở trẻ sơ sinh thường đạt được ở độ tuổi từ 8 đến 12 tháng. Mặc dù chức năng ở người chưa được biết rõ, nhưng ở loài gặm nhấm, chất này liên kết với estradiol để ngăn cản sự vận chuyển hormone này qua nhau thai đến thai nhi. Chức năng chính của việc này là ngăn cản quá trình nam tính hóa của bào thai nữ. Vì AFP ở người không liên kết với estrogen nên chức năng của nó ở người kém rõ ràng hơn.
+Hệ AFP của loài gặm nhấm có thể bị quá tải khi tiêm nhiều estrogen, hệ này lấn át hệ AFP và sẽ nam tính hóa bào thai. Tác dụng nam tính hóa của estrogen có vẻ vô lý vì estrogen rất quan trọng đối với sự phát triển thích hợp của các đặc điểm nữ tính trong tuổi dậy thì. Các hormone sinh dục từ tinh hoàn, chẳng hạn như testosterone và hormone chống Müller có chức năng phát triển thai nhi kiểu hình nam giới. Nếu không có những hormone này, thai nhi sẽ phát triển thành nữ giới có kiểu hình ngay cả khi nhiễm sắc thể 21 là XY. Việc chuyển đổi testosterone thành estradiol bởi enzyme aromatase trong nhiều mô có thể là một bước quan trọng trong quá trình nam tính hóa mô đó. Sự nam hóa của não được cho là do enzyme aromatase chuyển testosterone thành estradiol và do tổng hợp de novo các estrogen trong não. Do đó, AFP có thể bảo vệ thai nhi khỏi sức ảnh hưởng của hormone estradiol của mẹ, nhưng vai trò chính xác của chất này vẫn còn đang tranh cãi.
+
+
+== Định lượng nồng độ trong huyết thanh ==
+
+
+=== Mẹ ===
+Ở phụ nữ có thai, nồng độ AFP của thai nhi có thể được theo dõi trong nước tiểu của thai phụ. Vì AFP nhanh chóng được đào thải khỏi huyết thanh của mẹ qua thận, nên AFP trong nước tiểu của mẹ tương quan với nồng độ huyết thanh của thai nhi, mặc dù nồng độ trong nước tiểu của mẹ thấp hơn nhiều so với nồng độ trong huyết thanh của thai nhi. Mức AFP tăng cho đến khoảng tuần thứ 32. Việc sàng lọc alpha-fetoprotein trong huyết thanh của mẹ (MSAFP) tiến hành khi tuổi thai được 16 đến 18 tuần. Nếu mức MSAFP cho thấy có sự bất thường, bệnh nhân có thể tiến hành chọc ối.
+
+
+=== Trẻ sơ sinh ===
+Khoảng tham chiếu của AFP đối với người lớn và trẻ em khá đa dạng: dưới 50ng/mL, dưới 10ng/mL hoặc dưới 5ng/mL. Khi mới sinh, trẻ nhũ nhi bình thường có mức AFP cao hơn mức bình thường bốn lần hoặc, giảm dần xuống mức bình thường trong năm đầu đời.
+Đánh giá đúng mức AFP bất thường ở trẻ sơ sinh phải tính đến các hiện tượng bình thường này.
+Mức AFP rất cao có thể liên quan đến ung thư (xem Marker khối u), dẫn đến nồng độ định lượng được báo cáo thấp hơn đáng kể so với nồng độ thực tế. Việc này quan trọng đối với việc phân tích một loạt các xét nghiệm chỉ điểm khối u bằng AFP, ví dụ như theo dõi sớm sau điều trị đối với những người sống sót sau ung thư. Ở những bệnh nhân này, tỷ lệ giảm AFP có giá trị chẩn đoán.
+
+
+== Ý nghĩa lâm sàng ==
+Định lượng AFP thường được sử dụng trong hai bệnh cảnh lâm sàng. Đầu tiên, định lượng AFP được đo ở phụ nữ mang thai thông qua sinh hóa máu mẹ hoặc nước ối như một xét nghiệm sàng lọc các bất thường phát triển nhất định, chẳng hạn như thể lệch bội. Thứ hai, nồng độ AFP trong huyết thanh tăng cao ở những người có khối u, và do đó AFP được sử dụng như một marker sinh học để theo dõi các bệnh này. Sau đây là một số bệnh:
+
+Dị tật bẩm sinh phát triển liên quan đến nồng độ AFP cao
+Omphalocele (Thoát vị cuống rốn)
+Sổ tạng bẩm sinh (Hở thành bụng bẩm sinh)
+Dị tật ống thần kinh : ↑ α-fetoprotein trong nước ối và huyết thanh mẹ
+Các khối u liên quan đến nồng độ AFP cao
+Ung thư biểu mô tế bào gan
+Di căn gan
+U tế bào mầm
+U túi noãn hoàng (còn gọi là u xoang nội bì buồng trứng)
+Các bệnh cảnh khác liên quan đến nồng độ AFP cao
+Chứng thất điều - giãn mạch : AFP tăng cao được sử dụng như một yếu tố trong chẩn đoán
+Một peptide có nguồn gốc từ AFP được gọi là AFPep được cho là có đặc tính chống ung thư.
+Trong điều trị ung thư tinh hoàn, AFP tối quan trọng để phân biệt u tinh bào tinh hoàn và u tế bào mầm. Xét nghiệm định lượng thường được thực hiện sau khi cắt bỏ tinh hoàn và được xác nhận bởi các marker khối u.
+
+
+== Xem thêm ==
+Marker khối u (Chất chỉ điểm khối u)
+AFP-L3
+Triple test
+
+
+== Tham khảo ==
+ 
+
+
+== Liên kết ngoài ==
+MeSH alpha-Fetoproteins
+Tổng quan về mọi thông tin cấu trúc có sẵn trên PDB cho UniProt: P02771 (Alpha-fetoprotein) tại PDBe-KB.
+Bài viết này kết hợp văn bản từ Thư viện Y khoa Quốc gia Hoa Kỳ, nằm trong domain công cộng.

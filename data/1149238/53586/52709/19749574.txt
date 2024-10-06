@@ -1,0 +1,36 @@
+A Boy and His Atom là một bộ phim hoạt hình tĩnh vật ngắn được sản xuất vào năm 2013 và được phát hành trên YouTube bởi IBM Research. Bộ phim kể về câu chuyện của một cậu bé và một nguyên tử tinh nghịch gặp nhau và trở thành bạn thân của nhau. Nó mô tả một cậu bé đang chơi đùa với một nguyên tử có thể biến thành nhiều hình dạng khác nhau. Bộ phim dài hơn một phút, nó được tạo ra bằng cách di chuyển các phân tử carbon monoxide bằng kính hiển vi quét xuyên hầm, một thiết bị có thể phóng đại chúng lên đến 100 triệu lần. Các phân tử gồm hai nguyên tử này được di chuyển để tạo ra hình ảnh, sau đó được lưu lại thành từng khung hình riêng để làm phim. Bộ phim đã được Sách Kỷ lục Guinness công nhận là bộ phim hoạt hình tĩnh vật nhỏ nhất thế giới năm 2013.
+Các nhà khoa học tại IBM Research – Almaden, những người đã thực hiện bộ phim bằng việc di chuyển các nguyên tử nhằm khám phá giới hạn của việc lưu trữ dữ liệu bởi vì, khi việc tạo và tiêu thụ dữ liệu ngày càng lớn, việc lưu trữ dữ liệu cần phải nhỏ hơn, xuống tận mức độ nguyên tử. Công nghệ bóng bán dẫn silicon truyền thống đã trở nên rẻ hơn, dày đặc hơn và hiệu quả hơn, nhưng những hạn chế cơ bản về vật lý cho thấy rằng việc thu nhỏ quy mô là một con đường không bền vững để giải quyết vấn đề Dữ liệu lớn đang ngày càng gia tăng. Nhóm các nhà khoa học này đặc biệt quan tâm đến việc bắt đầu ở quy mô nhỏ nhất, từ các nguyên tử đơn lẻ và xây dựng các cấu trúc từ đó. Sử dụng phương pháp này, IBM đã công bố rằng họ có thể lưu trữ một bit thông tin chỉ với 12 nguyên tử (công nghệ hiện tại cần khoảng một triệu nguyên tử để có thể lưu trữ một bit).
+
+
+== Tóm tắt bộ phim ==
+Ở phần đầu của bộ phim, phụ đề giới thiệu cho khán giả về cách thức và lý do bộ phim được thực hiện. Tiếp theo, chúng ta thấy một cậu bé gặp một nguyên tử. Lúc đầu thì do dự, cậu ấy nhảy theo điệu nhạc của bộ phim, sau đó ném nó xung quanh như một quả bóng. Nguyên tử rơi xuống đất và tạo thành một tấm bạt lò xo, sau đó cậu bé nhảy lên tấm bạt lò xo và bật lên. Nguyên tử trở lại bình thường, và cậu bé tung nó lên trời, bay qua những đám mây và rơi xuống một dấu chấm trên đầu của chữ "i" của từ "Think", một phương châm lâu đời của hãng IBM.
+
+
+== Sáng tạo ==
+
+A Boy and His Atom được tạo ra bởi một nhóm các nhà khoa học của IBM – cùng với Ogilvy & Mather, công ty quảng cáo lâu đời của IBM - tại Trung tâm Nghiên cứu Almaden của công ty ở San Jose, California. Sử dụng kính hiển vi quét xuyên hầm, các phân tử carbon monoxide được điều khiển vào vị trí trên đế đồng bằng phẳng với một chiếc kim đồng ở khoảng cách 1 nanômét. Chúng vẫn ở nguyên vị trí, tạo thành liên kết với chất nền do nhiệt độ cực thấp là 5 K (−268,15 °C, −450,67 °F) của thiết bị. Thành phần oxy của mỗi phân tử hiển thị dưới dạng một chấm khi được kính hiển vi quét xuyên hầm chụp ảnh, cho phép tạo ra hình ảnh bao gồm nhiều chấm như vậy.
+Nhóm nghiên cứu đã tạo ra 242 hình ảnh tĩnh với 65 phân tử carbon monoxide. Các hình ảnh được kết hợp để tạo thành một bộ phim hoạt hình. Mỗi khung hình có kích thước 45 x 25 nanômét. Bốn nhà nghiên cứu đã mất hai tuần với 18 giờ mỗi ngày để sản xuất bộ phim.
+Đồ họa và hiệu ứng âm thanh giống như những trò chơi điện tử đầu tiên. "Bộ phim này là một cách thú vị để chia sẻ thế giới quy mô nguyên tử", trưởng dự án Andreas J. Heinrich nói. "Lý do chúng tôi đưa ra điều này không phải để truyền tải thông điệp khoa học một cách trực tiếp mà là để thu hút sự tham gia của các học sinh, thúc đẩy họ đặt câu hỏi." Ngoài ra, các nhà nghiên cứu đã tạo ra ba hình ảnh tĩnh để quảng cáo Star Trek: Chìm trong bóng tối – gồm biểu tượng của Liên bang Liên hiệp Các hành tinh, phi thuyền Enterprise và một lời chào của người Vulcan.
+
+
+== Phản ứng ==
+Sách Kỷ lục Guinness thế giới đã công nhận bộ phim là phim hoạt hình tĩnh vật nhỏ nhất thế giới từng được thực hiện. Bộ phim đã được chấp nhận tham gia Liên hoan phim trực tuyến Tribeca và được trình chiếu tại Cuộc gặp gỡ công nghệ New York và Liên hoan Khoa học Thế giới. Bộ phim đã vượt qua một triệu lượt xem trong 24 giờ và hai triệu lượt xem trong 48 giờ, với hơn 27.000 lượt thích. Tính đến tháng 7 năm 2021, phim đã có hơn 14 triệu lượt xem và hơn 408.000 lượt thích.
+
+
+== Ý nghĩa ==
+Mặc dù bộ phim được các nhà nghiên cứu sử dụng như một cách thú vị để thu hút học sinh quan tâm đến khoa học, nhưng bộ phim đã phát triển thành công việc có thể làm tăng lượng dữ liệu mà máy tính có thể lưu trữ. Vào năm 2012, họ đã chứng minh rằng họ có thể lưu trữ một bit trên một nhóm chỉ với 12 nguyên tử thay vì một triệu, mức tối thiểu trước đây. Nếu nó trở nên khả thi về mặt thương mại, "Bạn có thể mang theo, không chỉ hai bộ phim trên chiếc iPhone của mình", Heinrich nói trong một video đồng hành về quá trình sản xuất bộ phim, "bạn có thể mang theo mọi bộ phim từng được sản xuất."
+
+
+== Xem thêm ==
+
+Teeny Ted from Turnip Town, "cuốn sách nhỏ nhất thế giới" yêu cầu kính hiển vi điện tử để đọc
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+A Boy and His Atom trên Internet Movie Database
+A Boy and His Atom trên YouTube
+The making of the film trên YouTube
+IBM researchers make world's smallest movie using atoms (w/ video) tại Phys.org

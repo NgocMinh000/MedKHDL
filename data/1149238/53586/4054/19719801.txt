@@ -1,0 +1,61 @@
+Trong ngôn ngữ học, phụ ngữ hoặc tu sức ngữ (tiếng Anh: modifier) là một thành phần tùy ý trong cấu trúc ngữ đoạn hoặc cấu trúc tiểu cú, có chức năng bổ nghĩa (hay tu sức nghĩa) cho một thành phần nào đó khác trong cấu trúc đấy. Chẳng hạn trong tiếng Anh, tính từ "red" (đỏ) đóng vai trò làm phụ ngữ trong ngữ đoạn danh từ "red ball" (bóng đỏ), cung cấp thêm chi tiết về quả bóng nào đang được nhắc đến. Tương tự, trạng ngữ "quickly" đóng vai trò làm phụ ngữ trong ngữ đoạn động từ "run quickly". Phép bổ nghĩa/tu sức nghĩa có thể được coi là địa vực cao cấp trong chức năng của ngôn ngữ, sánh ngang với phép vị ngữ hóa và phép quy chiếu.
+Bài viết này hiện tại chỉ có thông tin về ngữ pháp tiếng Anh.
+
+
+== Kiểu ==
+
+
+=== Kiểu hình thức ===
+Hai từ loại thông dụng được dùng để bổ nghĩa là tính từ (tính luôn cả ngữ đoạn tính từ và tiểu cú tính từ) – để bổ nghĩa cho danh từ; và trạng từ (tính luôn cả ngữ đoạn trạng từ và tiểu cú trạng từ) – để bổ nghĩa cho các từ loại khác, cụ thể là động từ, tính từ và các trạng từ khác, cũng như bổ nghĩa luôn cho cả ngữ đoạn hoặc cả tiểu cú. Tuy không nhất thiết tất cả tính từ và trạng từ đều là phụ ngữ, tính từ sẽ thường được coi là phụ ngữ khi được sử dụng theo kiểu thuộc ngữ, nhưng khi được sử dụng theo kiểu vị ngữ thì không.
+Có một kiểu phụ ngữ khác trong một số ngôn ngữ, bao gồm tiếng Anh, đó là danh từ thuộc ngữ, tức là danh từ bổ nghĩa cho một danh từ khác (hoặc đôi khi là bổ nghĩa cho một từ loại khác). Ví dụ như từ "land" trong ngữ đoạn "land mines".
+Sau đây là ví dụ cho các kiểu phụ ngữ nói trên:
+
+It was [a nice house] (tính từ bổ nghĩa cho danh từ trong ngữ đoạn danh từ)
+[The swiftly flowing waters] carried it away. (ngữ đoạn tính từ – trong trường hợp này là ngữ đoạn phân từ – bổ nghĩa cho danh từ trong ngữ đoạn danh từ)
+She's [the woman with the hat]. (ngữ đoạn tính từ – trong trường hợp này là ngữ đoạn giới từ – bổ nghĩa cho danh từ trong ngữ đoạn danh từ)
+I saw [the man whom we met yesterday]. (tiểu cú tính từ – trong trường hợp này là tiểu cú quan hệ – bổ nghĩa cho danh từ trong ngữ đoạn danh từ)
+His desk was in [the faculty office]. (danh từ thuộc ngữ bổ nghĩa cho danh từ trong ngữ đoạn danh từ)
+[Put it gently in the drawer]. (trạng từ trong ngữ đoạn động từ)
+He was [very gentle]. (trạng từ trong ngữ đoạn tính từ)
+She set it down [very gently]. (trạng từ trong ngữ đoạn trạng từ)
+[Even more] people were there. (trạng từ bổ nghĩa cho hạn định ngữ)
+It ran [right up the tree]. (trạng từ bổ nghĩa cho ngữ đoạn giới từ)
+[Only the dog] was saved. (trạng từ bổ nghĩa cho ngữ đoạn danh từ)
+Trong một số trường hợp, ngữ đoạn danh từ hoặc lượng từ có thể đóng vai trò như phụ ngữ:
+
+[A few more] workers are needed. (lượng từ bổ nghĩa cho hạn định ngữ)
+She's [two inches taller than her sister]. (ngữ đoạn danh từ bổ nghĩa cho tính từ)
+
+
+=== Kiểu chức năng ===
+Phụ ngữ ở tất cả các kiểu đều có thể được sử dụng cho chức năng nào đó với nét nghĩa khác biệt. Dạng cú pháp hình thái nào được dùng cho chức năng nào thì là do ngữ pháp của ngôn ngữ quyết định vì mỗi ngôn ngữ thì mỗi kiểu. Chức năng của phép bổ nghĩa có thể được phân làm năm nhóm như sau:
+
+Phép bổ nghĩa phân loại chỉ rõ thêm về loại của vật quy chiếu: v.d. solar energy, departmental meeting;
+Phép bổ nghĩa định tính chỉ rõ thêm về chất của vật quy chiếu: v.d. black cars, a heavy box;
+Phép bổ nghĩa định lượng chỉ rõ thêm về lượng của vật quy chiếu: v.d. two boxes, several cars;
+Phép bổ nghĩa định vị chỉ rõ vị trí của vật quy chiếu: v.d. this car, the house on the corner;
+Phép bổ nghĩa quy chiếu trong diễn ngôn, chỉ rõ tình trạng của vật quy chiếu trong phạm vi diễn ngôn: v.d. the/a car.
+
+
+== Tiền phụ ngữ và hậu phụ ngữ ==
+Phụ ngữ có thể đứng hoặc đằng trước hoặc đằng sau thành phần được bổ nghĩa (gọi là phần trung tâm), tùy vào kiểu của phụ ngữ và quy tắc cú pháp của ngôn ngữ đang xét. Phụ ngữ mà đặt đằng trước phần trung tâm thì được gọi là tiền phụ ngữ; còn đặt đằng sau phần trung tâm thì được gọi là hậu phụ ngữ. Ví dụ, trong land mines, từ land là tiền phụ ngữ của mines, còn trong cụm từ mines in wartime, ngữ đoạn in wartime là hậu phụ ngữ của mines. Phần trung tâm có thể có nhiều hơn một phụ ngữ, và trong số đó có thể gồm cả tiền phụ ngữ và hậu phụ ngữ. Ví dụ:
+
+that nice tall man from Canada whom you met
+Trong ngữ đoạn danh từ này, man là phần trung tâm, nice và tall là tiền phụ ngữ, còn from Canada và whom you met là hậu phụ ngữ.
+
+
+== Phụ ngữ mơ hồ và lơ lửng ==
+Đôi khi phụ ngữ được trù định bổ nghĩa cho thành phần nào trong câu thì lại không rõ ràng. Trong nhiều trường hợp thì điều này không quan trọng, nhưng trong một số trường hợp thì có thể dẫn đến sự mơ hồ có thật. Ví dụ:
+
+He painted her sitting on the step.(Anh ta vẽ cô ấy ngồi trên bậc, hoặc anh ta ngồi trên bậc mà vẽ cô ấy)
+Ở đây ngữ đoạn phân từ sitting on the step có thể có trù định bổ nghĩa cho her (tức là chủ thể của bức vẽ đang ngồi trên bậc), hoặc nó có thể có trù định bổ nghĩa cho ngữ đoạn động từ painted her hay cả tiểu cú he painted her (hoặc chỉ mỗi he), tức là té ra chính họa sĩ mới là người đang ngồi trên bậc.
+Đôi khi cái thành phần được phụ ngữ trù định bổ nghĩa cho thì thực ra lại không xuất hiện trong câu, hoặc không nằm ở vị trí thích hợp để liên đới với phụ ngữ đó. Điều này hay được coi là lỗi ngữ pháp hoặc lỗi tác phong. Ví dụ:
+
+Walking along the road, a vulture loomed overhead.((Văn kể) Bước dọc theo con đường, một con kền kền lù lù trên đầu.)
+Ở đây cái người nào đó mà "bước dọc theo con đường" thì lại không hề được nhắc đển trong câu, nên phụ ngữ walking along the road không bổ nghĩa được cho thành phần nào hết ngoài "con kền kền" (a vulture) ra, mà đây rõ ràng không phải là ý định trong câu. Trường hợp kiểu này được gọi là "phụ ngữ lơ lửng", hay nói cụ thể hơn trong trường hợp phổ biến khi phụ ngữ là ngữ đoạn phân từ như ở đây thì được gọi là "phân từ lơ lửng".
+
+
+== Ghi chú thuật ngữ ==
+
+
+== Tham khảo ==

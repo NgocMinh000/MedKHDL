@@ -1,0 +1,36 @@
+Định vị hướng ở động vật (Animal navigation) là khả năng của nhiều loài động vật có thể tìm đường chính xác mà không cần bản đồ hoặc dùng công cụ. Những ví dụ về định vị hướng hay điều hướng ở các loài vật có thể nhận thấy ở các loài chim, như chim nhạn Bắc Cực, chim bồ câu, các loài côn trùng như bướm chúa và các loài cá như cá hồi thường xuyên hàng ngàn di cư dặm đến và đi từ khu vực sinh đẻ của chúng để đẻ trứng, và nhiều loài khác di chuyển quãng đường một cách hiệu quả. Theo kinh nghiệm dân gian, người ta có câu "lạc đường nắm đuôi chó, lạc ngõ nắm đuôi trâu" (hay "Lạc đường bắt đuôi chó, lạc ngõ bắt đuôi trâu") nói về việc khi bị mất phương hướng không có ai chỉ dẫn thì một trong những giải pháp tình huống là trông cậy vào con vật nuôi của mình.
+
+
+== Đại cương ==
+Khả năng định hướng của động vật đã được Charles Darwin đề xuất vào năm 1873. Vào thế kỷ 20, Karl von Frisch đã chỉ ra rằng ong mật có thể định vị để điều hướng bằng mặt trời, bằng mô hình phân cực của bầu trời xanh và từ trường của trái đất, chúng dựa vào mặt trời khi có thể. William Tinsley Keeton đã chỉ ra rằng chim bồ câu có thể sử dụng một loạt các tín hiệu điều hướng, bao gồm mặt trời, từ trường trái đất, khứu giác và tầm nhìn. Ronald Lockley đã chứng minh rằng một con chim biển nhỏ thuộc loài Manx shearwater có thể tự định hướng và bay về nhà với tốc độ tối đa, khi được thả ra xa nhà, miễn là có thể nhìn thấy mặt trời hoặc các vì sao.
+Một số loài động vật có thể tích hợp các tín hiệu của các loại khác nhau để tự định hướng và điều hướng hiệu quả. Côn trùng và chim có thể kết hợp các điểm mốc đã ghi nhớ với hướng cảm nhận (từ trường trái đất hoặc từ bầu trời) để xác định vị trí của chúng và do đó để điều hướng. Tấm bản đồ bên trong tâm trí thường được hình thành bằng cách sử dụng thị giác, nhưng các giác quan khác bao gồm khứu giác và định vị bằng tiếng vang cũng có thể được sử dụng. Khả năng định hướng của động vật hoang dã có thể bị ảnh hưởng bất lợi bởi các sản phẩm hoạt động của con người, có bằng chứng cho thấy thuốc trừ sâu có thể cản trở việc định vị hướng của ong và ánh đèn (Ô nhiễm ánh sáng) có thể gây hại cho việc điều hướng của rùa khi bơi.
+Theo kinh nghiệm thì loài chó với bộ óc thông minh, tố chất đánh hơi phân biệt sự vật và định vị không gian tốt hơn loài trâu, vốn chỉ có khả năng định hướng trong phạm vi gần. Người đi cày dẫn trâu về đến làng, xuống ao rửa chân để trâu trên bờ, trâu có thể đủng đỉnh tự tìm đường về ngõ, về nhà và về chuồng nhưng nếu thả trâu giữa cánh đồng rộng, hay trên rừng, trên núi khá xa nhà thì trâu có thể hoàn toàn mất khả năng định hướng tìm lối về. Trong khi đó thì những con chó có thể lần ra đường về kể từ nơi xuất phát, có những con chó bị thất lạc ở nơi rất xa, trong nhiều ngày nhưng rồi lại thấy nó thình lình trở về, bản năng nhận biết và nhớ của hai loài vật này là không giống nhau. Một con vật thân thuộc khác cũng định vị hướng tốt là con ngựa, nó loài vật khôn ngoan, dù đi xa, thời gian qua lâu nhưng ngựa vẫn nhớ đường về nên người xưa có câu "ngựa quen đường cũ".
+
+
+== Tham khảo ==
+Lockley, Ronald M. (1967). Animal Navigation. Pan Books.
+Lockley, Ronald M. (1942). Shearwaters. J. M. Dent.
+Redish, A. David (1999). Beyond the Cognitive Map (PDF). MIT Press.
+Tinbergen, Nico (1984). Curious Naturalists . University of Massachusetts Press.
+von Frisch, Karl (1953). The Dancing Bees. Harcourt, Brace & World.
+Gauthreaux, Sidney A. (1980). Animal Migration, Orientation, and Navigation. Academic Press.
+Keeton, William (1972) Effects of magnets on pigeon homing. pages 579–594 in Animal Orientation and Navigation. NASA SP-262.
+Keeton, William (1977) Magnetic Reception (biology). In Encyclopedia of Science and Technology, 2nd Ed.  McGraw-Hill.
+Keeton, William (1979) Pigeon Navigation. pages 5–20 in Neural Mechanisms of Behavior in the Pigeon. (A. M. Granda and J. H. Maxwell, Eds.) Plenum Publishing.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+How Stuff Works: Animal Navigation
+Oldenburg University: Animal Navigation
+National Geographic: Animal Navigation (resources for teachers) Lưu trữ 2012-06-18 tại Wayback Machine
+
+
+== Xem thêm ==
+Nhận thức ở động vật
+Trí khôn ở động vật
+Động vật di cư
+Chim di cư
+Cá hồi di cư

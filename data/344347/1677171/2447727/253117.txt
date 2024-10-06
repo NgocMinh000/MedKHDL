@@ -1,0 +1,11 @@
+Dự án Atlas bệnh sốt rét, viết tắt là MAP, là một dự án phi lợi nhuận được tổ chức Wellcome Trust, Anh Quốc  tài trợ trong 5 năm. MAP là một dự án liên kết giữa Nhóm Sức khoẻ Cộng đồng và Dịch tễ học, thuộc Trung tâm Y học Địa lý, Kenya và Nhóm Sinh thái học và Dịch tễ học Không gian, thuộc Đại học Oxford, Anh Quốc, với các điểm hợp tác ở Châu Mỹ và Châu Á Thái Bình Dương.
+Mục tiêu chính của dự án này là phát triển mô hình chi tiết về giới hạn không gian của sốt rét Plasmodium falciparum và Plasmodium vivax ở quy mô toàn cầu cũng như tính đặc hữu của nó trong giới hạn này. Nỗ lực gần đây nhất để lập bản đồ nguy cơ bệnh sốt rét đã được thực hiện từ những năm 1960. Điều không may là đối với nhiều khu vực trên thế giới, bản đồ này vẫn là nguồn thông tin tốt nhất về nguy cơ sốt rét. Dự án này nhằm mục đích lập bản đồ, xây dựng mô hình và ước lượng dân số có nguy cơ mắc bệnh sốt rét để cung cấp các phương pháp hiện đại và chắc chắn hơn nhằm giúp đánh giá gánh nặng về bệnh sốt rét hiện nay và trong tương lai.
+Các giai đoạn đầu của MAP, sẽ kết thúc vào cuối năm 2008, là thu thập và lưu trữ dữ liệu. Những phương pháp chúng tôi sử dụng để tổng hợp một cơ sở dữ liệu lớn nhất từ trước đến này về tỷ lệ mắc bệnh (PR) đã được mô tả . MAP dự định công bố trên website công cộng tất cả các dữ liệu thu thập được trong dự án này, do vậy quyền được công bố dữ liệu đã được cấp. Lần công bố dữ liệu đầy đủ đầu tiên được lên kế hoạch là tháng 6 năm 2009 để đảm bảo việc tìm kiếm dữ liệu được triệt để và đảm bảo thời gian kiểm tra và xem xét các bản đồ của chúng tôi về tính đặc hữu của sốt rét.
+Mới đây MAP đã công bố trên website công cộng bản đồ giới hạn không gian ở mức toàn cầu của sốt rét P. falciparum (không có nguy cơ, nguy cơ không ổn định và nguy cơ ổn định) cùng với việc công bố mô tả chi tiết cách xây dựng của các bản đồ đó..
+
+
+== Tài liệu tham khảo ==
+
+
+== Các liên kết ngoài ==
+Dự án Atlas bệnh sốt rét Lưu trữ 2015-03-30 tại Wayback Machine trang web của dự án cung cấp dữ liệu và tin tức về việc mở rộng dự án sang việc lập bản đồ phân bố toàn cầu của các loài muỗi sốt rét Anopheles chính, vector gây bệnh của sốt rét ở người.

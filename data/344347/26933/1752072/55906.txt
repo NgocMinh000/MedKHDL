@@ -1,0 +1,97 @@
+Georg Friedrich Bernhard Riemann (phát âm như "ri manh" hay IPA ['ri:man]; 17 tháng 9 năm 1826 – 20 tháng 7 năm 1866) là một nhà toán học người Đức, người đã có nhiều đóng góp quan trọng vào ngành giải tích toán học và hình học vi phân, xây dựng nền tảng cho việc phát triển lý thuyết tương đối sau này.
+
+
+== Ảnh hưởng ==
+Riemann là nhà toán học có ảnh hưởng lớn nhất ở khoảng giữa thế kỉ 19. Những công trình ông xuất bản không nhiều, nhưng mở ra những ngành nghiên cứu mới kết hợp giải tích và hình học, bao gồm lý thuyết của hình học Riemann, hình học đại số và lý thuyết về đa tạp phức. Những lý thuyết về mặt Riemann được mở rộng bởi Felix Klein và đặc biệt là Adolf Hurwitz. Lãnh vực này trong toán là những nền tảng trong tô pô, và trong thế kỉ 21 vẫn được áp dụng trong các cách thức mới vào toán vật lý.
+Riemann làm việc trong giải tích thực, nơi mà ông là một nhân vật nổi bật. Ngoài việc định nghĩa tích phân Riemann, bằng phương tiện của các tổng Riemann, ông phát triển lý thuyết các chuỗi lượng giác không phải là chuỗi Fourier, bước đầu tiên trong lý thuyết hàm tổng quát và nghiên cứu vi tích phân Riemann-Liouville.
+Ông đã có một số đóng góp nổi tiếng vào ngành số học giải tích hiện đại. Trong một bài báo ngắn (bài báo duy nhất và ông viết về đề tài số học), ông giới thiệu hàm số Riemann zeta và thiết lập sự quan trọng của nó trong việc hiểu được phân bố của số nguyên tố. Ông có một loạt các phỏng đoán về các tính chất của hàm số zeta, một trong đó là giả thuyết Riemann nổi tiếng.
+Việc ông ứng dụng nguyên lý Dirichlet từ phép tính biến phân có hiệu quả lớn; điều này sau này được xem là heuristic (một giải pháp tối ưu), hơn là một phương pháp chặt chẽ, và những giải thích đó tốn tối thiểu cả một thế hệ. Các công trình của ông về monodromy và hàm số hypergeometric trong miền phức đã có nhiều ấn tượng lớn, và thiết lập một cách làm việc cơ sở với các hàm số, bằng cách "xét chỉ những điểm đặc biệt của chúng".
+
+
+== Tiểu sử ==
+
+
+=== Thơ ấu ===
+Riemann được sinh ra ở Breselenz vào 17 tháng 9 năm 1826, trong một làng gần Dannenberg trong Vương quốc Hanover mà bây giờ là ở trong nước Đức. Cha ông, Friedrich Bernhard Riemann, là một mục sư Lutheran nghèo ở Breselenz. Friedrich Riemann tham chiến trong Chiến tranh với Napoléon. Mẹ của Georg cũng qua đời trước khi các con của bà lớn lên. Bernhard là con thứ hai trong sáu người con. Anh là một cậu bé nhút nhát và chịu đựng nhiều chấn động về tinh thần. Từ lúc nhỏ tuổi, Riemann đã biểu lộ những tài năng khác thường, như là những khả năng tính toán phi thường, nhưng rất rụt rè và sợ nói trước đám đông.
+
+
+=== Thanh niên ===
+Thời trung học, Riemann nghiên cứu Kinh Thánh một cách sâu sắc. Nhưng đầu óc của anh thường trôi về lại toán và anh có lúc đã cố gắng chứng minh một cách toán học sự đúng đắn của cuốn Genesis. Thầy của anh rất ngạc nhiên với tài năng của anh và khả năng giải những bài toán hết sức phức tạp. Anh thường vượt qua kiến thức của thầy giáo. Vào năm 1840 Bernhard đến Hanover để sống với bà ngoại và thăm Lyceum. Sau khi bà anh qua đời vào năm 1842 anh đến Johanneum ở Lüneburg. Vào năm 1846, ở tuổi 19, anh bắt đầu nghiên cứu triết lý và thần học, để trở thành một thầy tu và giúp đỡ tài chính của gia đình.
+Vào năm 1847 cha anh, sau khi dành dụm đủ tiền đã gửi Riemann vào trường đại học, cho phép ngưng học thần học và bắt đầu nghiên cứu toán học. Anh được gửi đến Đại học Göttingen nổi tiếng, nơi anh gặp Carl Friedrich Gauss, và tham dự bài giảng của ông về phương pháp bình phương tối thiểu.
+Vào năm 1847 anh chuyển đến Berlin, nơi Jacobi, Dirichlet và Steiner đang giảng dạy. Anh ở lại Berlin trong hai năm trước khi quay lại Göttingen vào năm 1849.
+
+
+=== Cuộc sống về sau ===
+Riemann tổ chức các bài giảng đầu tiên vào năm 1854, không chỉ thành lập nên ngành hình học Riemann mà còn tạo nên những bước nền tảng cho thuyết tương đối rộng của Einstein sau này. Ông được thăng chức lên giáo sư đặc biệt ở Đại học Göttingen vào năm 1857 và trở thành giáo sư chính thức vào năm 1859 sau khi Dirichlet qua đời. Ông cũng là người đầu tiên đưa ra lý thuyết các chiều không gian cao hơn, làm đơn giản hóa các định luật của vật lý. Vào năm 1862 ông thành hôn với Elise Koch.
+Ông qua đời vì lao phổi trên chuyến du hành thứ ba của ông đến nước Ý ở Selasca (nay là một làng của Ghiffa trên hồ Maggiore).
+
+
+== Hình học Euclide và hình học Riemann ==
+
+Gauss yêu cầu học sinh của mình là Riemann vào năm 1853 chuẩn bị một Habilitationsschrift (tiểu luận) về cơ sở của hình học. Trải qua nhiều tháng, Riemann phát triển lý thuyết của ông về các chiều không gian cao hơn. Khi cuối cùng ông đưa ra bài giảng vào năm 1854, cộng đồng toán học đón nhận với sự nhiệt tình.
+Ngành học được thành lập bởi tác phẩm này là hình học Riemann. Riemann đã tìm ra một cách đúng đắn để mở rộng vào n chiều hình học vi phân của các mặt, mà chính Gauss đã chứng minh "theorema egregium" nổi tiếng. Đối tượng cơ sở là bây giờ được gọi là tenxơ độ cong Riemann. Đối với trường hợp các mặt, đại lượng này có thể rút xuống thành một số (vô hướng), dương, âm hay zero, trường hợp khác zero và hằng số được gọi là hình học phi Euclid.
+
+
+== Các chiều không gian cao hơn ==
+Ý tưởng của Riemann là giới thiệu một bộ các số tại mỗi điểm trong không gian để mô tả là nó bị uốn hay cong đến mức nào. Riemann tìm thấy rằng trong không gian bốn chiều, người ta chỉ cần một bộ 10 số tại mỗi điểm để diễn tả tính chất của một đa tạp, không cần biết là nó bị bóp méo thế nào. Đây là tenxơ mêtric nổi tiếng.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Xem thêm ==
+Giả thuyết Riemann
+Hàm Riemann zeta
+Tích phân Riemann
+Hình học Riemann
+Tổng Riemann
+Bổ đề Riemann
+Đa tạp Riemann
+Định lý ánh xạ Riemann
+Bài toán Riemann-Hilbert
+Công thức Riemann-Hurwitz
+Mặt Riemann
+Định lý Riemann-Roch
+Hàm theta Riemann
+Hàm theta Riemann-Siegel
+Hàm zeta Riemann
+Phương trình vi phân Riemann
+Ma trận Riemann
+Mặt cầu Riemann
+Metric tensor
+Tensor cong Riemann
+Các phương trình Cauchy-Riemann
+Định lý Hirzebruch-Riemann-Roch
+Bổ đề Riemann-Lebesgue
+Tích phân Riemann-Stieltjes
+Vi tích phân Riemann-Liouville
+Định lý chuỗi Riemann
+On the Number of Primes Less Than a Given Magnitude - Bài báo năm 1859 của Riemann giới thiệu hàm zeta phức
+Nỗi ám ảnh của số nguyên tố
+
+
+== Tiếng Anh ==
+1868. "On the hypotheses which lie at the foundation of geometry" in Ewald, William B., ed., 1996. From Kant to Hilbert: A Source Book in the Foundations of Mathematics, 2 vols. Oxford Uni. Press: 652-61.
+
+
+== Tham khảo ==
+
+John Derbyshire, "Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics" (John Henry Press, 2003)ISBN 0-309-08549-7
+
+
+== Liên kết ngoài ==
+
+The Mathematical Papers of Georg Friedrich Bernhard Riemann
+All publications of Riemann can be found at: http://www.emis.de/classics/Riemann/
+O'Connor, John J.; Robertson, Edmund F., “Bernhard Riemann”, Bộ lưu trữ lịch sử toán học MacTutor, Đại học St. Andrews
+Bernhard Riemann - one of the most important mathematicians Lưu trữ 2005-09-03 tại Wayback Machine
+Analysis and Synthesis: On Scientific Method based on a study by Bernhard Riemann From the Swedish Morphological Society
+Bernhard Riemann's inaugural lecture
+Higher dimensions Lưu trữ 2006-12-17 tại Wayback Machine
+Riemann, Holger - Pipeline Pigger

@@ -1,0 +1,110 @@
+Bản năng là khuynh hướng vốn có của một sinh vật sống đối với một hành vi phức tạp cụ thể nào đó, có chứa các yếu tố bẩm sinh. Ví dụ đơn giản nhất của một hành vi được thực hiện theo bản năng là dạng mẫu hành động cố định, khi một chuỗi có độ dài rất ngắn hoặc trung bình các hành động luôn luôn được thực hiện để phản ứng lại một tác nhân kích thích tương ứng đã định sẵn.
+
+Một hành vi được xem là có tính bản năng nếu nó được thực hiện mà không cần dựa vào trải nghiệm trước đó (không thông qua học hỏi), và do đó là một biểu hiện của các yếu tố sinh học bẩm sinh. Rùa biển con mới nở trên bãi biển sẽ di chuyển về phía đại dương theo bản năng. Một loài thú có túi sẽ leo vào túi của mẹ sau khi được sinh ra. Các ví dụ khác bao gồm đánh nhau ở động vật, quan hệ tình yêu ở động vật, các chức năng tẩu thoát nội sinh, và tập tính xây tổ. Dù một bản năng được định nghĩa dựa theo các đặc điểm bẩm sinh bất biến của nó, các chi tiết về biểu hiện của nó có thể thay đổi tùy theo trải nghiệm; ví dụ, một con chó có thể cải thiện kĩ năng nghe thông qua luyện tập.
+
+Bản năng là những dạng mẫu bẩm sinh phức tạp của các hành vi tồn tại ở hầu hết các thành viên của một loài. Cần phân biệt giữa bản năng và phản xạ (những phản ứng đơn giản của một sinh vật đối với một tác nhân kích thích cụ thể, ví dụ như đồng tử mắt co khi có ánh sáng mạnh hay chân đá lên khi đầu gối bị chạm). Việc thiếu năng lực ý chí không đồng nghĩa với việc không có khả năng sửa đổi các dạng mẫu hành động cố định. Ví dụ, con người có thể thay đổi một dạng mẫu hành động cố định được kích thích bằng cách nhận ra một cách có ý thức khi nào nó được kích hoạt và dừng thực hiện nó, trong khi một loài động vật nếu không có năng lực ý chí đủ mạnh có thể sẽ dừng lại được các dạng mẫu hành động cố định của chúng một khi đã kích hoạt.
+Các hành vi bản năng ở người đã được nghiên cứu.
+
+
+== Những nhà lí luận đầu tiên ==
+
+
+=== Jean Henri Fabre ===
+
+Jean Henri Fabre (1823–1915) được cho là người đầu tiên nghiên cứu các động vật nhỏ (trừ chim) và côn trùng. Cụ thể, ông nghiên cứu chuyên sâu về các bản năng của côn trùng. Fabre cho rằng bản năng là một tập hợp các hành vi có liên kết mà một sinh vật trải qua trong vô thức để phản ứng lại các điều kiện bên ngoài.
+
+
+==== Hành vi của côn trùng và động vật ====
+Fabre kết luận rằng một điểm khác biệt quan trọng giữa con người và các loài động vật khác là hầu hết động vật không thể lí luận. Ông đi tới kết luận này sau khi quan sát cách côn trùng và các loài chim hoang dã tiếp tục lặp lại một hành vi nhất định để phản ứng lại một tình huống mới. Trong khi những hành vi bản năng này trông có vẻ phức tạp, côn trùng và các loài động vật đã không điều chỉnh hành vi của chúng mặc dù hành vi đó không giúp chúng trong tình huống mới đó.
+Dưới đây là một vài hành vi của côn trùng và động vật mà Fabre đã quan sát và dán nhãn "có tính bản năng", vì chúng được thực hiện mà không cần lí luận:
+
+Các bản năng của người mẹ
+Biến thái hoàn toàn
+Bắt chước
+Lột xác
+Giả chết
+Hướng động
+
+
+==== Các dạng mẫu cố định ====
+Fabre tin rằng các bản năng là "những dạng mẫu cố định", nghĩa là những tập hợp các hành vi được liên kết với nhau không thay đổi khi phản ứng lại những tình huống môi trường mới. Một ví dụ cụ thể giúp ông đi đến kết luận này là việc nghiên cứu nhiều loài tò vò. Tất cả các loài tò vò ông nghiên cứu đã thể hiện một dạng mẫu hành vi nhất định khi bắt mồi, và Fabre gọi đây là một dạng mẫu cố định. Fabre sau đó đã can thiệp vào quá trình bắt mồi của tò vò, và chỉ có một loài điều chỉnh hành vi của chúng để phản ứng lại sự can thiệp lạ này. Fabre giải thích sự đối lập này bằng lí luận rằng bất kì cá thể nào không tuân theo chuẩn mực của loài đều là ngoại lệ. Bên cạnh đó, ông cũng thừa nhận rằng các bản năng của một loài cũng có thể phát triển.
+Niềm tin của Fabre rằng các bản năng là cố định đi ngược lại với thuyết tiến hóa. Ông từ chối ý tưởng một loài có thể tiến hóa thành một loài khác, và cũng từ chối ý tưởng rằng ý thức mà con người có được là kết quả của sự tiến hóa của những đặc điểm vô thức.
+
+
+=== Wilhelm Wundt ===
+Wilhelm Wundt (1832–1920) được biết tới với tư cách là người đã thành lập phòng thí nghiệm tâm lí đầu tiên năm 1879 ở Đại học Leipzig. Ông đã có thể đưa ra các kết luận về bản năng từ các quan sát cẩn thận của ông về hành vi của động vật và con người.
+
+
+==== Các quá trình vô thức ====
+Để giải thích nghiên cứu của Wundt tốt hơn, Claudia Wassman đã thống kê một bộ sưu tập lớn các nguồn, bao gồm một số nhật kí mà Wundt đã viết trước đó. Những nhật kí này đưa ra suy nghĩ về khái niệm "sự vô thức" tốt hơn những nghiên cứu sau đó và nổi tiếng hơn của Wundt. Các bài nghiên cứu của bà kết luận rằng Wundt tin rằng các quá trình vô thức (mà ông gọi là "các chuyển động bản năng") là kết quả của cảm nhận và cảm xúc, và các quá trình vô thức này là thứ tạo nên ý thức.
+
+
+==== Các biểu cảm gương mặt ====
+Những gì Wundt đã nghiên cứu để đi đến kết luận về các quá trình vô thức bao gồm những biểu cảm gương mặt mà các em bé tạo ra khi phản ứng lại cảm giác ngọt, chua và đắng. Ông kết luận rằng các biểu cảm gương mặt này là kết quả của việc các em bé đang cố tránh các cảm xúc tiêu cực khi có thứ gì đó khó chịu trong miệng, và những bản năng này (từ mà ông dùng thay thế lẫn nhau với các chuyển động phản xạ) chỉ trở thành bẩm sinh vì các thế hệ ở quá khứ đã học được nó và nó giúp ích cho sự sinh tồn của họ.
+
+
+==== Chọn lọc tự nhiên ====
+Wundt giải thích sự tồn tại của bản năng thông qua quá trình chọn lọc tự nhiên. Cụ thể hơn, các nghiên cứu của ông gợi ý rằng chọn lọc tự nhiên gây ra những thay đổi nhỏ trong hệ thần kinh qua thời gian. Các thay đổi này đem lại những sự vận động có tính di truyền trong các sinh vật, và những vận động này sau đó sẽ gây ra các quá trình vô thức. Một điều khác cần chú ý là Wundt sử dụng các thuật ngữ các quá trình vô thức, các chuyển động mang tính phản xạ, và các chuyển động mang tính bản năng có thể thay thế lẫn nhau, và ông thường xuyên nhóm chúng lại cùng nhau.
+
+
+=== Sigmund Freud ===
+Sigmund Freud cho rằng bản năng là từ dùng để gọi các hình ảnh tâm trí về những nhu cầu của cơ thể, được thể hiện thông qua các dục vọng tâm trí.
+
+
+=== William McDougall ===
+Vào đầu thế kỉ XX, có một thứ được ghi nhận là "sự tập hợp của bản năng và cảm xúc". William McDougall tin rằng nhiều bản năng đều có những cảm xúc liên quan cụ thể tương ứng. Khi mà các nghiên cứu trở nên gắt gao hơn và các thuật ngữ được định nghĩa tốt hơn, việc sử dụng bản năng để giải thích hành vi của con người trở nên ít phổ biến hơn. Vào năm 1932, McDougall cho rằng từ bản năng thích hợp để miêu tả hành vi của động vật hơn. Ông đề cử sử dụng từ khuynh hướng cho những sự kết hợp hướng đến mục tiêu của nhiều khả năng bẩm sinh của con người, khi những sự kết hợp này liên kết một cách lỏng lẻo và bất biến, theo một cách thể hiện tính mềm dẻo cao.
+
+
+=== Abraham Maslow ===
+Trong những năm 1950, nhà tâm lí học Abraham Maslow tranh luận rằng con người không còn có bản năng vì chúng ta có khả năng kiểm soát chúng trong những tình huống cụ thể. Ông cảm thấy rằng thứ được gọi là bản năng thường được định nghĩa sai, và thật ra chỉ liên quan tới những "sự thôi thúc" mạnh mẽ. Với Maslow, bản năng là thứ gì đó không thể kiểm soát được. Do đó, trong khi thuật ngữ này có thể được áp dụng đối với con người ở trong quá khứ, nó không còn có thể áp dụng được đối với hiện tại.
+
+
+=== Konrad Lorenz ===
+Sự quan tâm đối với các hành vi bẩm sinh lại nổi lên vào những năm 1950 đối với Konrad Lorenz và Nikolaas Tinbergen, những người đã phân biệt được giữa bản năng và các hành vi học được. Sự hiểu biết của chúng ta ở hiện tại về các hành vi bản năng ở động vật nhiều phần là nhờ các công trình nghiên cứu của hai ông. Ví dụ, ở chim, có một giai đoạn nhạy cảm khi chim non học được danh tính của mẹ nó. Konrad Lorenz nổi tiếng là người đã có một con ngỗng in vết đôi ủng của ông. Sau đó, con ngỗng sẽ đi theo bất kì ai đeo chiếc ủng. Điều này gợi ý rằng danh tính mẹ của ngỗng đã được học, nhưng hành vi của con ngỗng đối với thứ mà nó xem là mẹ là có tính bản năng.
+
+
+=== Frank Beach ===
+Trong một hội nghị năm 1960, điều hành bởi Frank Beach (một nhà tiên phong trong tâm lí học so sánh) và tham dự bởi những người có ảnh hưởng lớn trong ngành, việc áp dụng thuật ngữ bản năng đã được giới hạn. Trong những năm 1960 và 1970, sách giáo khoa vẫn chứa một số thảo luận về bản năng liên quan đến hành vi con người. Đến năm 2000, một khảo sát với 12 sách giáo khoa bán chạy nhất về chủ đề tâm lí học nhập môn đã cho thấy rằng chỉ có một lần bản năng được nhắc đến, và đó là khi Sigmund Freud nhắc đến bản năng "nhận dạng". Với nghĩa này, thuật ngữ bản năng dường như đã trở nên lỗi thời trong các sách giáo khoa về tâm lí học con người.
+Cuốn sách Bản Năng: Một Vấn Đề Dai Dẳng trong Tâm Lí Học (Instinct: An Enduring Problem in Psychology) (1961) đã chọn ra một loạt các bài viết về chủ đề này.
+
+
+=== Richard Herrnstein ===
+Trong một bài báo khoa học xuất bản năm 1972, nhà tâm lí học Richard Herrnstein đã viết: "Một sự so sách giữa giả thuyết của McDougall về bản năng và giả thuyết củng cố của Skinner—đại diện cho tự nhiên hay nuôi dưỡng—cho thấy những sự giống nhau đến lạ lùng, mặc dù phần lớn không được nhận ra, giữa hai phe trong cuộc tranh luận về tự nhiên-nuôi dưỡng khi áp dụng vào sự phân tích hành vi."
+F. B. Mandal đề xuất rằng một bộ các tiêu chí để một hành vi được xem là có tính bản năng là: (a) có tính tự động, (b) không thể kiềm chế được, (c) xảy ra đâu đó trong quá trình phát triển, (d) bị kích thích bởi một số sự kiện trong môi trường, (e) xảy ra ở mọi cá thể của một loài, (f) không thể thay đổi được, và (g) điều khiển các hành vi mà các sinh vật không cần phải luyện tập (mặc dù một sinh vật có thể được lợi từ trải nghiệm và đến mức đó thì hành vi này có thể thay đổi được).
+Trong Hành Vi Thông Tin: Một Bản Năng Của Tiến Hóa (Information Behavior: An Evolutionary Instinct) (2010, trang 35–42), Amanda Spink viết rằng "hiện tại trong khoa học hành vi, bản năng thường được hiểu là phần bẩm sinh của một hành vi, xuất hiện mà không cần tập luyện hay dạy dỗ ở con người." Bà cho rằng quan điểm rằng "hành vi thông tin có nền tảng từ bản năng" có cơ sở lập luận từ những suy nghĩ mới nhất về hành vi con người. Thêm vào đó, bà cũng viết rằng "những hành vi như hợp tác, hành vi tình dục, nuôi dạy con cái và thẩm mĩ đều (cũng) được xem là 'các cơ chế tâm lí học đã tiến hóa' với nền tảng là bản năng." Spink nói thêm rằng Steven Pinker cũng đưa ra quan điểm tương tự rằng việc tiếp nhận một ngôn ngữ là có tính bản năng ở con người trong cuốn sách Bản Năng Ngôn Ngữ (The Language Instinct) (1994) của ông. Vào năm 1908, William McDougall viết về "bản năng tò mò" và "cảm xúc tự hỏi" liên quan của nó, mặc dù sách của Spink không đề cập đến điều này.
+M. S. Blumberg đã kiểm tra cách sử dụng từ bản năng năm 2017, và thấy rằng nó thay đổi một cách đáng kể.
+
+
+== Ở con người ==
+Sau đây là một số ví dụ về các hành vi bị ảnh hưởng bởi bản năng ở con người.
+
+Sự chuẩn bị bẩm sinh cho việc phát triển nỗi sợ rắn và nhện được phát hiện ở các em bé sáu tháng tuổi.
+Khóc ở trẻ sơ sinh được cho là một biểu hiện của bản năng. Trẻ sơ sinh sẽ không thể tự bảo vệ bảo thân cho sự sinh tồn trong những giai đoạn dài của sự trưởng thành. Sự gắn kết giữa mẹ và cha biểu hiện cụ thể là khi phản ứng lại tiếng khóc của trẻ sơ sinh. Cơ chế của nó đã được làm sáng tỏ bởi những quan sát về MRI chức năng của não bộ cha mẹ.
+Bản năng bầy đàn được tìm thấy ở trẻ em loài người và tinh tinh sơ sinh, nhưng dường như lại không có ở đười ươi trẻ.
+Nội tiết tố được gắn với những dạng cụ thể của hành vi con người, như tính dục. Mức độ testosterone cao thường được gắn với một người (nam hay nữ) với sự hung dữ. Sự suy giảm mức độ testosterone đã được tìm thấy ở những người cha sau sự chào đời của một em bé.
+Hành vi vệ sinh ở người được gợi ý là có một phần bản năng, dựa trên những cảm xúc như ghê tởm.
+Tình mẹ con hay bản năng người mẹ là khi một người mẹ phát triển một quan hệ đối vói một đứa trẻ để bảo đảm sự phát triển của nó. Oxytocin ở người mẹ được cho là nội tiết tố và chất dẫn truyền thần kinh dẫn đến việc phụ nữ thể hiện hành vi gắn kết và gắn kết.
+Tự vệ ở con người thường là khi ta có bản năng sinh tồn.
+Phản ứng chiến-hay-chạy ở loài người được cho là một phản ứng cụ thể đối với sự xuất hiện của một sự kiện, cuộc tấn công hay mối nguy hiểm gây hại tới sự sinh tồn.
+Hành vi hợp tác hay bản năng xã hội được cho là một bản năng cần thiết cho sự sinh tồn của con người ở tương lai.
+Sự chống lại thay đổi là những khó khăn một người gặp khi họ đang cố gắng chống lại những gợi ý thay đổi hành vi hay chấp nhận những phương pháp trị liệu nhất định bất kể nó có giúp cải thiện tình trạng của họ hay không. Sự chống lại thay đổi cho phép những sự thỏa mãn nhất thời có tính bản năng.
+Hành vi thích nghi với môi trường là một đặc điểm kiểu hình bẩm sinh được thừa hưởng, dù cho được thừa hưởng dưới dạng bản năng một cách phức tạp, hay dưới dạng khả năng tâm lí học thần kinh để tiếp tục học hỏi. Các ví dụ là giao phối, tìm kiếm thức ăn, nhận thức tình huống, thiết lập cấp bậc và tạo ra tiếng.
+
+
+== Phản xạ ==
+
+Ví dụ của các hành vi không yêu cầu suy nghĩ là phản xạ. Tác nhân kích thích của một phản xạ có thể không cần hoạt động não. Thay vào đó, nó có thể di chuyển đến tủy sống như một thông tin, sau đó được truyền lại cơ thể theo một con đường gọi là cung phản xạ. Các phản xạ tương tự như những dạng mẫu hành động cố định ở chỗ hầu hết các phản xạ đều đạt các tiêu chí của một dạng mẫu hành động cố định. Tuy nhiên, một dạng mẫu hành động cố định cũng có thể được xử lí ở trong não bộ. Ví dụ là một con cá gai đực sẽ trở nên hung dữ theo bản năng đối với bất cứ thứ gì màu đỏ trong mùa giao phối. Các ví dụ của hành vi bản năng ở người bao gồm rất nhiều các phản xạ nguyên thủy, như phản xạ vùng miệng hay phản xạ mút, những hành vi biểu hiện ở lớp thú. Ở chuột, các quan sát cho thấy những phản ứng bẩm sinh đều liên quan tới những chất hóa học cụ thể, và những chất hóa học này được phát hiện bởi hai cơ quan nằm ở mũi: khứu giác phụ trợ và biểu mô khứu giác chính.
+
+
+== Trưởng thành ==
+Một số hành vi bản năng phụ thuộc vào quá trình trưởng thành để xuất hiện. Ví dụ, chúng ta thường nói đến việc chim "học" bay. Tuy nhiên, những con chim non đã được nuôi thử nghiệm trong các thiết bị ngăn chúng di chuyển cánh cho đến khi chúng đạt đến độ tuổi mà đàn của chúng bay. Những con chim này bay ngay lập tức và bình thường khi được thả ra, cho thấy điều này là do sự trưởng thành của thần kinh cơ chứ không phải do học tập thực sự.
+
+
+== Trong tiến hóa ==
+In vết cho ta một ví dụ về bản năng. Phản ứng phức tạp này có thể liên quan đến các tín hiệu thị giác, thính giác và khứu giác trong môi trường xung quanh một sinh vật. Trong một số trường hợp, việc in vết khiến con cái gắn bó với bố mẹ của nó, từ đó mang lại lợi ích sinh sản cho sự sống sót của con cái. Nếu con non gắn bó với cha mẹ, nhiều khả năng nó sẽ ở gần cha mẹ và nhận được sự bảo vệ của cha mẹ. Những con non gắn bó cũng có nhiều khả năng học hỏi từ cha mẹ hơn khi tương tác chặt chẽ. (Lợi ích sinh sản là động lực thúc đẩy chọn lọc tự nhiên.)
+Môi trường là một yếu tố quan trọng trong sự tiến hóa của hành vi bẩm sinh. Một giả thuyết của Michael McCollough, một nhà tâm lý học tích cực, giải thích rằng môi trường đóng vai trò then chốt trong các hành vi của con người như sự tha thứ và trả thù. Ông giả thuyết rằng các môi trường xã hội khác nhau khiến cho sự tha thứ hoặc trả thù chiếm ưu thế. McCollough liên hệ lý thuyết của ông với lý thuyết trò chơi. Trong chiến lược ăn miếng trả miếng, sự hợp tác và phản kháng có thể so sánh được với sự tha thứ và trả thù. Sự lựa chọn giữa hai điều này có thể có lợi hoặc có hại, tùy thuộc vào những gì sinh vật đối tác lựa chọn. Mặc dù ví dụ tâm lý học về lý thuyết trò chơi này không mang lại kết quả có thể đo lường trực tiếp đến mức đó, nó vẫn cung cấp một lý thuyết thú vị về tư duy độc đáo. Từ quan điểm sinh học hơn, hệ viền của não hoạt động như khu vực kiểm soát chính để phản ứng với một số kích thích nhất định, bao gồm nhiều hành vi bản năng. Hệ viền xử lý các kích thích bên ngoài liên quan đến cảm xúc, hoạt động xã hội và động lực, từ đó thúc đẩy các phản ứng mang tính hành vi. Một số hành vi bao gồm chăm sóc người mẹ, gây hấn, phòng thủ và phân cấp xã hội. Những hành vi này bị ảnh hưởng bởi đầu vào giác quan - thị giác, thính giác, xúc giác và khứu giác.
+Trong hệ thống mạch của hệ viền, có nhiều nơi khác nhau mà quá trình tiến hóa có thể đã diễn ra hoặc có thể diễn ra trong tương lai. Ví dụ, nhiều loài gặm nhấm có các thụ thể trong cơ quan phát hiện mùi mà phản ứng rõ ràng với các kích thích của động vật săn mồi có liên quan cụ thể đến từng loài gặm nhấm đó. Việc cảm nhận được một kích thích từ động vật săn mồi thường tạo ra phản ứng phòng thủ hoặc sợ hãi. Giao phối ở chuột cũng theo cơ chế tương tự. Cơ quan khứu giác và biểu mô khứu giác chính, được gọi chung là hệ khứu giác, phát hiện pheromone từ các cá thể khác giới. Những tín hiệu này sau đó đi đến hạch hạnh nhân giữa, nơi phân tán tín hiệu đến nhiều bộ phận khác nhau của não. Các con đường liên quan đến mạch bẩm sinh là cực kỳ chuyên biệt và cụ thể. Vô số các cơ quan và thụ thể cảm giác khác nhau đóng vai trò trong quá trình phức tạp này.
+Bản năng là một hiện tượng có thể được nghiên cứu từ nhiều góc độ: di truyền, hệ viền, đường dẫn truyền thần kinh và môi trường. Các nhà nghiên cứu có thể nghiên cứu các cấp độ của bản năng, từ cấp độ phân tử đến nhóm cá thể. Các hệ thống cực kỳ chuyên biệt đã phát triển, dẫn đến việc các cá nhân thể hiện các hành vi mà không cần học chúng.
+
+
+== Tham khảo ==

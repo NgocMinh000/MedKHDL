@@ -1,0 +1,79 @@
+Lenalidomide (tên thương mại Revlimid) là một dẫn xuất của thalidomide được phê duyệt tại Hoa Kỳ vào năm 2005.
+Ban đầu nó được dự định là một phương pháp điều trị đa u tủy, trong đó thalidomide là một phương pháp điều trị được chấp nhận. Lenalidomide cũng đã cho thấy hiệu quả trong nhóm các rối loạn huyết học được gọi là hội chứng loạn sinh tủy (MDS). Cùng với một số loại thuốc khác được phát triển trong những năm gần đây, lenalidomide đã cải thiện đáng kể tỷ lệ sống sót chung trong u tủy (trước đây mang tiên lượng xấu), mặc dù độc tính vẫn là vấn đề đối với người dùng. Nó có giá $ 163,381 mỗi năm cho bệnh nhân trung bình.
+
+
+== Sử dụng trong y tế ==
+
+
+=== Đa u tủy ===
+Đa u tủy là một bệnh ung thư máu, được đặc trưng bởi sự tích tụ của một tế bào plasma nhân bản trong tủy xương. Lenalidomide là một trong những thuốc mới được sử dụng để điều trị đa u tủy. Nó là một chất tương tự phân tử mạnh hơn của thalidomide, giúp ức chế sự hình thành khối u, các cytokine tiết ra khối u và tăng sinh khối u thông qua việc gây ra apoptosis.
+So với giả dược, lenalidomide có hiệu quả trong việc tạo ra phản ứng hoàn toàn hoặc "một phần rất tốt" cũng như cải thiện khả năng sống không tiến triển. Các tác dụng phụ phổ biến hơn ở những người dùng lenalidomide cho u tủy là giảm bạch cầu trung tính (giảm số lượng bạch cầu), huyết khối tĩnh mạch sâu, nhiễm trùng và tăng nguy cơ các khối u ác tính về huyết học khác. Nguy cơ của khối u ác tính huyết học nguyên phát thứ hai không vượt quá lợi ích của việc sử dụng lenalidomide trong đa u nguyên bào tái phát hoặc khó chữa. Có thể khó khăn hơn để huy động các tế bào gốc để tự động ghép ở những người đã nhận được lenalidomide.
+Vào ngày 29 tháng 6 năm 2006, lenalidomide đã nhận được giải phóng mặt bằng của Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) để sử dụng kết hợp với dexamethasone ở những bệnh nhân bị đa u tủy đã nhận được ít nhất một liệu pháp trước đó. Vào ngày 22 tháng 2 năm 2017, FDA đã phê duyệt lenalidomide là liệu pháp duy trì độc lập (không có dexamethasone) cho bệnh nhân đa u tủy sau ghép tế bào gốc tự thân.
+Vào ngày 23 tháng 4 năm 2009, Viện Sức khỏe và Xuất sắc Lâm sàng Quốc gia (NICE) đã ban hành Quyết định thẩm định cuối cùng (FAD) phê duyệt lenalidomide, kết hợp với dexamethasone, như một lựa chọn để điều trị cho bệnh nhân mắc nhiều u tủy đã nhận được hai hoặc nhiều liệu pháp trước đó Nước Anh và xứ Wales.
+Vào ngày 5 tháng 6 năm 2013, FDA đã chỉ định lenalidomide là một loại thuốc đặc trị cần phân phối dược phẩm đặc biệt để "sử dụng trong u lympho tế bào mantle (MCL) ở những bệnh nhân bị tái phát hoặc tiến triển sau 2 lần điều trị trước đó, 1 trong số đó bao gồm bortezomib." Revlimid chỉ có sẵn thông qua một nhà thuốc chuyên khoa, "một chương trình phân phối hạn chế kết hợp với chiến lược đánh giá và giảm thiểu rủi ro (REMS) do tiềm năng rủi ro phôi thai." 
+
+
+=== Hội chứng thần kinh đệm ===
+Với hội chứng myelodysplastic (MDS), kết quả tốt nhất của lenalidomide đã thu được ở những bệnh nhân mắc hội chứng xóa nhiễm sắc thể 5q (hội chứng 5q-). Hội chứng là kết quả của việc xóa nhiễm sắc thể 5 ở người loại bỏ ba gen lân cận, yếu tố kích thích khuẩn lạc bạch cầu hạt, yếu tố tăng trưởng có nguồn gốc từ tiểu cầu B và thụ thể yếu tố kích thích cụm 1.
+Nó đã được FDA chấp thuận vào ngày 27 tháng 12 năm 2005 đối với những bệnh nhân mắc MDS nguy cơ thấp hoặc trung bình 1 với 5q- có hoặc không có bất thường về tế bào học. Một nghiên cứu hoàn chỉnh giai đoạn II, đa trung tâm, một cánh tay, nhãn mở đã đánh giá hiệu quả và an toàn của điều trị đơn trị liệu Revlimid để đạt được sự cải thiện tạo máu trong các đối tượng truyền máu hồng cầu (RBC) với MDS thấp hoặc trung bình liên quan đến một bất thường tế bào tế bào 5q xóa.
+63,8% đối tượng đã đạt được sự độc lập truyền RBC kèm theo sự gia tăng trung bình 5,8 g/dL trong nồng độ Hgb máu từ đường cơ sở đến giá trị tối đa trong thời gian đáp ứng. Các đáp ứng tế bào học chính được quan sát thấy ở 44,2% và các phản ứng tế bào học nhỏ được quan sát thấy ở 24,2% đối tượng đánh giá. Những cải thiện về hình thái tủy xương cũng được quan sát thấy. Kết quả của nghiên cứu này cho thấy hiệu quả của Revlimid trong điều trị các đối tượng mắc MDS có nguy cơ thấp hoặc trung bình 1 và một bất thường về tế bào học liên quan đến del 5.
+Lenalidomide đã được Cơ quan y tế châu Âu phê duyệt vào ngày 17 tháng 6 năm 2013 để sử dụng cho các bệnh nhân mắc hội chứng myelodysplastic (MDS) có nguy cơ bất thường về tế bào hồng cầu 5q và không có bất thường về tế bào học nào khác. và đối với những lựa chọn điều trị khác đã được tìm thấy là không đủ hoặc không đầy đủ.
+
+
+=== U lympho tế bào ===
+Lenalidomide được FDA phê chuẩn cho u lympho tế bào mantle ở những bệnh nhân bị bệnh tái phát hoặc tiến triển sau ít nhất hai lần điều trị trước đó. Một trong những liệu pháp trước đây phải có bortezomib.
+
+
+=== Ung thư khác ===
+Lenalidomide đang trải qua thử nghiệm lâm sàng để điều trị u lympho Hodgkin, cũng như u lympho không Hodgkin, bệnh bạch cầu lymphocytic mãn tính và ung thư khối u rắn, như ung thư biểu mô tuyến tụy. Một thử nghiệm lâm sàng giai đoạn 3 đang được Celgene thực hiện ở những bệnh nhân cao tuổi mắc bệnh bạch cầu lymphocytic mãn tính tế bào B đã bị dừng lại vào tháng 7 năm 2013 khi một số ca tử vong do ung thư không cân xứng được quan sát thấy trong khi điều trị bằng lenalidomide so với bệnh nhân được điều trị bằng chlorambucil.
+
+
+== Tác dụng phụ ==
+Ngoài độc tính với phôi thai, lenalidomide còn mang theo Cảnh báo Hộp đen về độc tính huyết học (bao gồm giảm bạch cầu trung tính và giảm tiểu cầu đáng kể) và huyết khối tĩnh mạch/động mạch.
+Tác dụng phụ nghiêm trọng tiềm tàng là huyết khối, thuyên tắc phổi và nhiễm độc gan, cũng như độc tính tủy xương dẫn đến giảm bạch cầu và giảm tiểu cầu. Ức chế tủy là độc tính giới hạn liều chính, trái với kinh nghiệm với thalidomide. Lenalidomide cũng có thể liên quan đến các tác dụng phụ bao gồm ác tính nguyên phát thứ hai, phản ứng da nghiêm trọng, phản ứng quá mẫn, hội chứng ly giải khối u, phản ứng bùng phát khối u, suy giáp và cường giáp.
+
+
+=== Độc tính gây quái thai ===
+Lenalidomide có liên quan đến thalidomide được biết là gây quái thai. Các thử nghiệm trên khỉ đã cho thấy lenalidomide cũng gây quái thai. Do đó, nó có loại thai kỳ X và không thể được quy định cho những phụ nữ đang mang thai hoặc có thể mang thai trong khi điều trị. Vì lý do này, thuốc chỉ có sẵn ở Hoa Kỳ (dưới tên thương hiệu Revlimid) thông qua một hệ thống phân phối hạn chế được gọi là RevAssist. Nữ giới có thể mang thai phải sử dụng ít nhất hai hình thức tránh thai đáng tin cậy trong quá trình điều trị và trong ít nhất bốn tuần sau khi ngừng điều trị bằng lenalidomide.
+
+
+=== Huyết khối tĩnh mạch ===
+Lenalidomide, giống như hợp chất mẹ thalidomide của nó, có thể gây ra huyết khối tĩnh mạch (VTE), một biến chứng nghiêm trọng tiềm ẩn khi sử dụng. Bennett và cộng sự. đã xem xét các sự cố của VTE liên quan đến lenalidomide ở những bệnh nhân bị đa u tủy. Họ đã phát hiện ra rằng có tỷ lệ VTE cao khi bệnh nhân bị đa u tủy nhận được thalidomide hoặc lenalidomide kết hợp với dexamethasone, melphalan hoặc doxorubicin. Khi lenalidomide và dexamethasone được sử dụng để điều trị đa u tủy, trung bình 14% bệnh nhân bị VTE (khoảng, 3-75%). Ở những bệnh nhân dùng thuốc dự phòng để điều trị VTE liên quan đến lenalidomide, như aspirin, tỷ lệ huyết khối tắc mạch được tìm thấy thấp hơn so với không điều trị dự phòng, thường thấp hơn 10%. Rõ ràng, thuyên tắc huyết khối là một phản ứng bất lợi nghiêm trọng liên quan đến lenalidomide, cũng như thalidomide. Trên thực tế, một cảnh báo hộp đen được bao gồm trong gói chèn cho lenalidomide, chỉ ra rằng điều trị bằng lenalidomide-dexamethasone đối với bệnh đa u tủy rất phức tạp do tỷ lệ huyết khối cao.
+Hiện nay, các thử nghiệm lâm sàng đang được tiến hành để kiểm tra thêm hiệu quả của lenalidomide để điều trị đa u tủy và để xác định cách phòng ngừa huyết khối tĩnh mạch liên quan đến lenalidomide.
+
+
+=== Hội chứng Stevens-Johnson ===
+Vào tháng 3 năm 2008, Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã đưa lenalidomide vào danh sách 20 loại thuốc theo toa đang được điều tra về các vấn đề an toàn tiềm ẩn. Loại thuốc này đang được điều tra vì có thể làm tăng nguy cơ phát triển hội chứng Stevens-Johnson, một tình trạng đe dọa tính mạng ảnh hưởng đến da.
+
+
+=== Đánh giá an toàn liên tục của FDA ===
+Kể từ năm 2011, FDA đã bắt đầu một cuộc đánh giá đang diễn ra, trong đó tập trung vào các thử nghiệm lâm sàng cho thấy nguy cơ phát triển bệnh ung thư như bệnh bạch cầu nguyên bào tủy cấp tính (AML) và ung thư hạch tế bào B, mặc dù FDA hiện đang tư vấn cho tất cả mọi người để tiếp tục điều trị của họ.
+
+
+== Cơ chế hoạt động ==
+Lenalidomide đã được sử dụng để điều trị thành công cả rối loạn viêm và ung thư trong 10 năm qua. Có nhiều cơ chế hoạt động, và chúng có thể được đơn giản hóa bằng cách tổ chức chúng thành các cơ chế hoạt động trong ống nghiệm và in vivo. Trong ống nghiệm, lenalidomide có ba hoạt động chính: tác dụng chống khối u trực tiếp, ức chế sự hình thành mạch và điều hòa miễn dịch. In vivo, lenalidomide gây ra apoptosis tế bào khối u trực tiếp và gián tiếp bằng cách ức chế hỗ trợ tế bào mô tế bào tủy xương, bằng tác dụng chống angiogen và chống hủy xương, và bằng hoạt động điều hòa miễn dịch. Lenalidomide có một loạt các hoạt động có thể được khai thác để điều trị nhiều bệnh ung thư huyết học và rắn.
+Ở cấp độ phân tử, lenalidomide gắn với cereblon (CRBN) - một thành phần của phức hợp CRL4-CRBN E3 Ligase - gây thay đổi cấu hình của CRBN, kích thích sự ubiquitin hóa và thoái hóa các yếu tố phiên mã IKZF1 (Ikaros) và IKZF3 (Aiolos), dẫn đến giảm sự biểu hiện của các gen tiền ung thư như IRF4 và MYC cũng như làm tăng sự sản xuất interleukin-2, từ đó ức chế sự phát triển của các tế bào B ác tính. Ngoài ra, lenalidomide còn kích thích sự suy thoái của caseine kinase 1 alpha (CK1α) và làm ổn định protein p53, khiến cho tế bào nhạy cảm hơn với apoptosis.
+
+
+== Giá bán ==
+Lenalidomide có giá $ 163,381 mỗi năm cho một người bình thường ở Hoa Kỳ. Lenalidomide đã kiếm được gần 9,7 tỷ đô la cho Celgene vào năm 2018.
+Trong năm 2013 Anh Viện Quốc gia về Sức khỏe và chăm sóc sắc (NICE) từ chối lenalidomide cho "sử dụng trong việc điều trị những người bị một loại hình cụ thể của rối loạn tủy xương hội chứng myelodysplastic (MDS)" ở Anh và Scotland, cho rằng Celgene "không cung cấp đủ bằng chứng để chứng minh mức giá 3.780 bảng mỗi tháng (5746,73 USD) của lenalidomide để sử dụng trong điều trị cho những người mắc một loại bệnh rối loạn tủy xương (MDS) cụ thể".
+
+
+== Xem thêm ==
+Phát triển các chất tương tự của thalidomide
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Chang DH, Liu N, Klimek V,  và đồng nghiệp (tháng 7 năm 2006). “Enhancement of ligand-dependent activation of human natural killer T cells by lenalidomide: therapeutic implications”. Blood. 108 (2): 618–21. doi:10.1182/blood-2005-10-4184. PMC 1895497. PMID 16569772.
+Anderson KC (tháng 10 năm 2005). “Lenalidomide and thalidomide: mechanisms of action--similarities and differences”. Seminars in Hematology. 42 (4 Suppl 4): S3–8. doi:10.1053/j.seminhematol.2005.10.001. PMID 16344099.
+
+
+== Liên kết ngoài ==
+Trang web chính thức Bao gồm danh sách các phản ứng bất lợi
+Thông tin mô tả trước Lưu trữ 2007-06-29 tại Wayback Machine
+Tổ chức Myeloma Foundation quốc tế về Revlimid Lưu trữ 2009-06-25 tại Wayback Machine
+multemyeloma.org Revlimid Lưu trữ 2008-09-22 tại Wayback Machine Tháng 4 năm 2007 Tóm tắt

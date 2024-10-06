@@ -1,0 +1,54 @@
+Phân loại virus là quá trình đặt tên virus và đặt chúng vào một hệ thống phân loại, tương tự như các hệ thống phân loại được sử dụng cho các sinh vật tế bào.
+Virus chủ yếu được phân loại theo các đặc điểm kiểu hình, chẳng hạn như hình thái, loại axit nucleic, chế độ sao chép, sinh vật chủ và loại bệnh mà chúng gây ra. Việc phân loại virus chính thức là trách nhiệm của Ủy ban quốc tế về phân loại virus (ICTV), mặc dù hệ thống phân loại của Baltimore có thể được sử dụng để đặt virus vào một trong bảy nhóm dựa trên cách tổng hợp mRNA của chúng. Các quy ước đặt tên cụ thể và các hướng dẫn phân loại tiếp theo được ICTV đặt ra.
+Một danh mục của tất cả các loại virus được biết đến trên thế giới đã được đề xuất và vào năm 2013, một số nỗ lực sơ bộ đã được tiến hành.
+Hệ thống phân loại virus đã được sắp xếp lại và theo phân loại mới nhất, các virus được phân thành 6 bộ chính :
+
+Caudovirales: Bao gồm các virus có ADN và có cấu trúc hình que (như virus phages).
+Herpesvirales: Bao gồm các virus herpesvirus có ADN gây bệnh ở động vật và con người.
+Mononegavirales: Bao gồm các virus RNA đơn sợi âm quang, bao gồm các loại virus gây bệnh như virus Ebola và virus Cúm.
+Nidovirales: Bao gồm các virus RNA dương sợi lớn, bao gồm các loại virus gây bệnh như virus SARS-CoV-2 (virus gây COVID-19).
+Picornavirales: Bao gồm các virus RNA dương sợi nhỏ, không bao bọc, bao gồm các loại virus gây bệnh như virus Poliovirus và virus Feline Calicivirus (FCV).
+Tymovirales: Bao gồm các virus RNA dương sợi nhỏ, không bao bọc, gây bệnh ở cây trồng.
+
+
+== Định nghĩa loài virus ==
+Các loài tạo thành cơ sở cho bất kỳ hệ thống phân loại sinh học. Trước năm 1982, người ta đã nghĩ rằng virus không thể được tạo ra để phù hợp với khái niệm sinh sản loài của Ernst Mayr, và vì vậy không thể chấp nhận việc phân loại như vậy. Năm 1982, ICTV bắt đầu định nghĩa một loài là "một nhóm các chủng" với phẩm chất nhận dạng duy nhất. Năm 1991, các nguyên tắc cụ thể hơn rằng một loài vi-rút là một phân loại polythetic virus mà tái tạo các họ virus và bao gồm thêm một nice sinh thái đặc biệt.
+Vào tháng 7 năm 2013, định nghĩa của ICTV về các loài đã thay đổi thành: "Một loài là một nhóm vi rút đơn thể có đặc tính có thể được phân biệt với các loài khác theo nhiều tiêu chí."  Virus là các thực thể vật lý thực sự được tạo ra bởi tiến hóa sinh học và di truyền, trong khi các loài virus và phân loại cao hơn là các khái niệm trừu tượng được tạo ra bởi suy nghĩ hợp lý và logic. Do đó, mối quan hệ virus / loài đại diện cho tuyến đầu của giao diện giữa sinh học và logic.
+Các tiêu chí thực tế được sử dụng thay đổi theo đơn vị phân loại và đôi khi có thể không nhất quán (ngưỡng tương tự tùy ý) hoặc không liên quan đến dòng dõi (địa lý). Vấn đề là, đối với nhiều virus, việc này chưa được giải quyết.
+
+
+== Cây phân loại ==
+Nhóm phân loại bậc cao nhất của virus gọi là vực, các vực được chia thành các nhóm phân loại bậc thấp hơn (giới, ngành, v.v.). Virus gồm có 6 vực là Adnaviria, Duplodnaviria, Monodnaviria, Riboviria, Ribozyviria và Varidnaviria, còn những nhóm khác như Viriform, Satellite và Viroid không được xem là vực. Tất cả đều được mô tả dưới đây.
+
+
+=== Adnaviria ===
+
+
+=== Duplodnaviria ===
+
+
+=== Monodnaviria ===
+
+
+=== Riboviria ===
+
+
+=== Ribozyviria ===
+
+
+=== Varidnaviria ===
+
+
+=== Phi vực ===
+
+
+=== Viriform ===
+
+
+=== Satellite ===
+
+
+=== Viroid ===
+
+
+== Tham khảo ==

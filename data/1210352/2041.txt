@@ -1,0 +1,41 @@
+Cân bằng nội môi (hay hằng tính nội môi, tiếng Anh: Biological homeostasis) là một đặc tính của một hệ thống mở để điều khiển môi trường bên trong nhằm duy trì trạng thái cân bằng, thông qua việc điều chỉnh các cơ chế điều hòa cân bằng động khác nhau. Tất cả các sinh vật sống bao gồm cả đơn bào hay đa bào đều duy trì cân bằng nội môi. Cân bằng này có thể là cân bằng pH nội bào ở mức độ tế bào; hay cân bằng nhiệt độ cơ thể ở động vật máu nóng; hay cũng chính là tỉ phần khí cacbonic trong khí quyển ở mức độ hệ sinh thái.
+Bài này trình bày cân bằng nội môi theo cái nhìn của sinh lý học người. (Human homeostasis)
+
+
+== Cân bằng nội môi theo sinh lý học ==
+Trong phạm vi của sinh lý học, cân bằng nội môi được hiểu là "sự giữ cho các trạng thái của môi trường bên trong tương đối hằng định". Có thể nói hầu hết các mô và cơ quan đều góp phần duy trì sự hằng định tương đối này.
+
+
+=== Hệ tuần hoàn máu - pha trộn và vận tải dịch ngoại bào ===
+Dịch ngoại bào được vận tải khắp cơ thể qua hai giai đoạn. Thứ nhất là sự chuyển động của máu trong các động, tĩnh và mao mạch. Thứ hai là sự di chuyển qua lại của các chất giữa các mao mạch và khoảng gian bào.
+Khi nghỉ ngơi, toàn bộ lượng máu trong người được lưu thông khắp cơ thể chỉ trong 1 phút, khi hoạt động cật lực, tốc độ này có thể nhanh hơn gấp 6 lần.
+Khi máu lưu thông qua các mao mạch, sự pha trộn giữa huyết tương và dịch kẽ diễn ra liên tục. Vì vách mao mạch có tính thấm đối với hầu hết các chất trong huyết tương, chỉ trừ các đại phân tử protein, nên dịch ngoại bào và các chất hòa tan trong đó qua lại dễ dàng giữa mô và máu. Hiếm có tế bào nào nằm cách xa mao mạch trên 50 micromét, nên mọi tế bào đều có thể tiếp cận với các chất đến từ mao mạch chỉ trong vài giây.
+Như vậy, dịch ngoại bào ở bất cứ nơi nào trong cơ thể - dù huyết tương hay mô kẽ - cũng được pha trộn liên tục, nên hầu như có tính đồng nhất hoàn toàn.
+
+
+=== Việc cung cấp các chất vào dịch ngoại bào ===
+Hệ hô hấp: Máu lấy O2 từ các phế nang để cung cấp cho các tế bào. Lớp màng ngăn giữa phế nang và lòng mao mạch phổi chỉ dày 0,2 - 0,4 micromét nên O2 có thể đi qua các lỗ trên màng này để vào máu cũng bằng với cách mà nước và các ion thấm qua mao mạch các mô.
+Ống tiêu hóa: Máu đi qua các mao mạch ở vách ống tiêu hóa, tại đây, các chất dinh dưỡng hòa tan như đường, axit béo, [[axit được hấp thu.
+Gan và các cơ quan khác có chức năng chuyển hóa căn bản: Không phải mọi chất hấp thu từ ống tiêu hóa đều có thể được tế bào sử dụng ngay dưới nguyên dạng. Gan chuyển hóa nhiều thành phần hóa học của các chất ấy thành những thành phần dễ sử dụng hơn. Ngoài ra, các tế bào mỡ, niêm mạc ống tiêu hóa, thận, các tuyến nội tiết v.v. cũng giúp biến đổi các chất trên hoặc dự trữ chúng.
+Hệ cơ xương: giúp cơ thể đi tìm thức ăn, chạy trốn sự nguy hiểm, nếu không, cơ thể cũng không sống được.
+
+
+=== Loại bỏ các sản phẩm chuyển hóa cuối cùng (chất thải) ===
+Phổi: loại bỏ CO2. CO2 là sản phẩm chuyển hóa cuối cùng nhiều nhất, nó được thải ra đồng thời với quá trình hấp thu O2 nêu trên.
+Thận: Trừ CO2, thận loại bỏ phần lớn các chất khác không cần thiết cho hoạt động của các tế bào, như urê, axit uric; hoặc các ion và nước dư thừa do ăn uống quá nhiều. Quá trình lọc của thận có thể tóm tắt thế này: trừ protein, tất cả các thành phần của huyết tương sẽ qua cầu thận, rồi các chất cần thiết được hấp thu lại vào máu nhờ các ống thận; các chất bị xem là đồ bỏ cũng được hấp thụ lại nhưng rất ít, phần lớn trôi theo dòng nước tiểu ra ngoài.
+
+
+=== Điều hòa hoạt động cân bằng nội môi ===
+Hệ thần kinh: gồm 3 thành phần: phần cảm thụ (đầu vào), cơ quan xử lý và phần phản ứng (đầu ra). Hệ thần kinh tự chủ điều hành một cách vô thức chức năng nhiều cơ quan, như hoạt động bơm máu của tim, chuyển động của ống tiêu hóa, sự tiết của nhiều cơ quan.
+Hệ nội tiết: 8 tuyến nội tiết tiết ra các hooc-môn để điều hòa hoạt động của các tế bào, như hooc-môn tuyến giáp làm tăng các phản ứng sinh hóa trong mọi tế bào, insulin điều hòa chuyển hóa glucozơ, hooc-môn vỏ tuyến thượng thận điều hòa Na+, K+ cũng như chuyển hóa protein, hooc-môn tuyến cận giáp điều hòa calci và phosphat v.v.
+
+
+=== Sự sinh sản ===
+Thường thì sinh sản không được xem là một hoạt động duy trì cân bằng nội môi. Nhưng sinh sản tạo ra các cá thể mới thay thế cho các cá thể già chết, nếu không, giống nòi sẽ bị tuyệt diệt.
+
+
+=== Kết luận ===
+Tế bào lấy dưỡng chất từ dịch ngoại bào (môi trường bên trong), bao nhiêu chất thải tạo ra cũng đổ lại vào chính dịch ngoại bào đó. Đúng là... đại tiện!!! (lời của giáo sư Nguyễn Ngọc Lanh trong một cuốn sách phổ biến kiến thức, chủ đề "Máu").
+
+
+== Tham khảo ==

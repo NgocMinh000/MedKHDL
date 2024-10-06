@@ -1,0 +1,100 @@
+Vắc-xin COVID-19 của Oxford–AstraZeneca, tên mã AZD1222, là loại vắc-xin COVID-19 được phát triển bởi Đại học Oxford và AstraZeneca. Vắc-xin được tiêm bằng cách tiêm bắp, sử dụng vector ChAdOx1, một loại virus adeno trên tinh tinh đã được biến đổi. Vắc xin có thể cho hiệu quả 90% khi được tiêm thêm nửa liều sau ít nhất một tháng kể từ khi tiêm đủ liều đầu tiên, dựa trên thử nghiệm với các tình nguyện viên dưới 55 tuổi. Một phác đồ tiêm khác cũng cho hiệu quả phòng bệnh 62% khi tiêm hai liều đủ hàm lượng cách nhau ít nhất một tháng.
+Nghiên cứu vắc-xin được thực hiện bởi Viện Jenner và Oxford Vaccine Group thuộc Đại học Oxford với sự cộng tác từ nhà sản xuất Advent Srl, có trụ sở tại Pomezia, Ý. Advent Srl cũng là nhà sản xuất lô vắc-xin COVID-19 đầu tiên được đưa đi thử nghiệm lâm sàng. Đứng đầu nhóm phát triển vắc-xin là Sarah Gilbert, Adrian Hill, Andrew Pollard, Teresa Lambe, Sandy Douglas và Catherine Green.
+Vắc-xin được ghi nhận có độ an toàn tốt với khoảng 10% bệnh nhân báo cáo các tác dụng bất lợi nhẹ như đau tại vùng tiêm, đau đầu và buồn nôn. Hiếm gặp hơn, tình trạng sốc phản vệ có thể xảy ra (Cơ quan Quản lý Dược phẩm Anh (MHRA) cho biết có 194 trường hợp trong tổng số khoảng 9 triệu người tiêm tính đến  tháng 2 năm 2021).
+Vào ngày 30 tháng 12 năm 2020, vắc-xin lần đầu tiên được cấp phép sử dụng trong chương trình tiêm chủng tại Anh Quốc, và được đưa vào sử dụng chính thức lần đầu tiên vào ngày 4 tháng 1 năm 2021. Vắc-xin này đã được nhiều cơ quan y tế toàn cầu chấp thuận, trong đó có Cơ quan Quản lý Dược phẩm châu Âu, và Cơ quan Quản lý Sản phẩm Trị liệu Úc (TGA), đồng thời cũng được Tổ chức Y tế Thế giới chấp thuận sử dụng theo quy tắc Danh sách Sử dụng Khẩn cấp (EUL).
+Vào tháng 3 năm 2021, một số nước đã tạm dừng sử dụng vắc-xin do lo ngại có liên quan tới một số trường hợp người tiêm vắc-xin bị đông máu. Cơ quan Quản lý Dược phẩm châu Âu, the MHRA và AstraZeneca đều cho biết tỷ lệ bệnh nhân bị đông máu không vượt quá mức đã dự kiến. Tính tới ngày 8 tháng 3 năm 2021, đã có 37 trường hợp đông máu trong tổng số 17 triệu người đã tiêm vắc-xin khắp EU và Vương quốc Anh.
+
+
+== Nền tảng vắc-xin ==
+Vắc-xin AZD1222 sử dụng vector là một loài virus adeno linh trưởng đã mất khả năng sao chép, chứa toàn bộ đoạn mã di truyền trong protein gai của SARS-CoV-2 cùng với một đoạn trình tự dẫn đầu hoạt hoá plasminogen mô (tPA).
+Protein gai S1 là một protein ngoài cho phép các virus corona dạng SARS xâm nhập tế bào thông qua enzyme ACE2. Sau khi tiêm, cơ thể sẽ sản sinh ra protein gai này, kích hoạt hệ miễn dịch tấn công vào virus nếu cơ thể bị nhiễm bệnh.
+
+
+== Lịch sử ==
+
+
+=== 2020 ===
+Vào tháng 2 năm 2020, Viện Jenner chấp thuận hợp tác với công ty Advent Srl của Ý nhằm sản xuất lô vắc-xin đầu tiên để thử nghiệm lâm sàng.
+Vào tháng 3 năm 2020,
+sau khi Quỹ Gates kêu gọi Đại học Oxford tìm kiếm đối tác là một công ty lớn để đưa vắc-xin ra thị trường, nhà trường quyết định không chia sẻ quyền tiếp thị vắc-xin cho bất kỳ hãng dược phẩm nào như lời hứa trước đó.
+Đồng thời, chính phủ Anh cũng khuyến khích Đại học Oxford hợp tác với AstraZeneca thay vì công ty Mỹ Merck & Co. do lo ngại chính quyền Trump có thể đầu cơ tích trữ vắc-xin.
+Vào tháng 6 năm 2020, Viện Dị ứng và Bệnh Truyền nhiễm Quốc gia Hoa Kỳ (NIAID) xác nhận giai đoạn thử nghiệm thứ ba các loại vắc-xin do Đại học Oxford và AstraZeneca sẽ bắt đầu vào tháng 7 năm 2020.
+
+
+=== Thử nghiệm lâm sàng ===
+Vào tháng 7 năm 2020, AstraZeneca thoả thuận hợp tác với IQVIA nhằm đẩy nhanh tiến độ thử nghiệm lâm sàng vắc-xin tại Mỹ.
+Vào ngày 31 tháng 8 năm 2020, AstraZeneca thông báo bắt đầu tiếp nhận 30.000 tình nguyện viên tại Mỹ nhằm thử nghiệm giai đoạn cuối cho vắc-xin COVID-19.
+Vào ngày 8 tháng 9 năm 2020, AstraZeneca tạm ngừng thử nghiệm vắc-xin trên toàn cầu để điều tra vụ việc một tình nguyện viên tại Anh có thể đã gặp phải phản ứng phụ sau khi tiêm. Đến ngày 13 tháng 9, AstraZeneca cùng Đại học Oxford tiến hành thử nghiệm lâm sàng trở lại tại Anh sau khi các nhà chức trách kết luận quá trình thử nghiệm là an toàn. AstraZeneca đã phải nhận một số chỉ trích về độ an toàn của vắc-xin do công ty từ chối cung cấp thông tin chi tiết về tình trạng bệnh lý thần kinh nghiêm trọng ở hai tình nguyện viên thử nghiệm vắc-xin tại Anh. Trong khi quá trình thử nghiệm được nối lại tại Anh, Brazil, Nam Phi, Nhật Bản và Ấn Độ, các hoạt động này vẫn bị tạm dừng tại Hoa Kỳ cho tới ngày 23 tháng 10 năm 2020 để Cục quản lý Thực phẩm và Dược phẩm (FDA) điều tra trường hợp một bệnh nhân tiêm vắc-xin bị mắc bệnh, theo lời Bộ trưởng Y tế và Dịch vụ Nhân sinh (HHS) Alex Azar.
+Vào ngày 15 tháng 10 năm 2020, Bác sĩ João Pedro R. Feitosa, 28 tuổi, từ Rio de Janeiro, Brazil, qua đời do biến chứng của COVID-19 sau khi được cho dùng giả dược thay vì vắc-xin thử nghiệm AZD1222. Cơ quan y tế Brazil Anvisa thông báo quá trình thử nghiệm sẽ tiếp tục tại Brazil.
+
+
+=== Kết quả thử nghiệm giai đoạn III ===
+Vào ngày 23 tháng 11 năm 2020, Đại học Oxford và AstraZeneca công bố kết quả sơ bộ thử nghiệm giai đoạn III vắc-xin COVID-19. Một số người chỉ trích các phương pháp được sử dụng trong bản báo cáo, trong đó kết quả 62% và 90% từ hai nhóm thử nghiệm khác nhau được kết hợp thành con số chung 70%. AstraZeneca cho biết hãng sẽ tiếp tục thử nghiệm tại nhiều nước với phác đồ sử dụng liều thấp hơn, trước đó đã cho kết quả 90%.
+Bản báo cáo đầy đủ các kết quả sơ bộ từ bốn cuộc thử nghiệm giai đoạn III vào ngày 8 tháng 12 năm 2020 đã xác minh cho các kết quả trên. Ở nhóm tình nguyện viên được tiêm liều vắc-xin đầu tiên hơn 21 ngày trước đó, không có ai phải nhập viện hay mắc bệnh lý nặng, khác với nhóm sử dụng giả dược. Không có sự khác biệt về các phản ứng phụ nghiêm trọng giữa hai nhóm sử dụng vắc-xin và giả dược, nghĩa là vắc-xin sử dụng không có mối lo an toàn nào. Một trường hợp viêm tuỷ ngang được báo cáo 14 ngày sau khi tiêm mũi thứ hai, được cho là liên quan tới việc tiêm chủng. Một hội đồng thần kinh học độc lập chẩn đoán đây khả năng là bệnh tổn hại bao myelin tuỷ tự phát. Hai trường hợp viêm tuỷ khác, một thuộc nhóm tiêm vắc-xin và một thuộc nhóm giả dược, được cho là không liên quan tới vắc-xin.
+Một bản phân tích sau đó vào ngày 19 tháng 2 kết luận mức độ hiệu quả của vắc-xin là 76% 22 ngày sau mũi đầu tiên và tăng lên 81,3% khi tiêm mũi thứ hai từ 12 tuần trở lên sau mũi đầu tiên.
+
+
+=== 2021 ===
+Vào tháng 2 năm 2021, Oxford-AstraZeneca thông báo sẽ tiến hành quá trình nghiên cứu nhằm thích nghi vắc-xin với các biến thể mới của virus corona, dự kiến vắc-xin mới sẽ có mặt "trong vài tháng" dưới dạng một "liều tiêm bổ sung". Mối quan tâm chính là liệu đột biến E484K có thể ảnh hưởng đến khả năng miễn dịch và mức độ hiệu quả của vắc-xin không. Đột biến E484K có mặt trong các biến chủng ở Nam Phi (B.1.351) và Brazil (B.1.1.28); một số trường hợp cũng phát hiện biến thể này ở các bệnh nhân nhiễm virus SARS-CoV-2 chủng gốc và biến chủng ở Anh (B.1.1.7).
+
+
+== Cấp phép ==
+
+Vào ngày 27 tháng 11 năm 2020, chính phủ Anh yêu cầu Cơ quan Quản lý Dược phẩm đánh giá vắc-xin AZD1222 để cung cấp tạm thời, cho tới ngày 20 tháng 12 năm 2020 thì được chính thức cấp phép sử dụng, trở thành loại vắc-xin thứ hai tham gia chương trình tiêm chủng COVID-19 trên toàn quốc.
+Vào ngày 4 tháng 1 năm 2021, Brian Pinker, 82 tuổi, trở thành người đầu tiên được tiêm vắc-xin COVID-19 của Oxford–AstraZeneca sau khi thử nghiệm lâm sàng.
+Cơ quan Quản lý Dược phẩm châu Âu (EMA) đã nhận đơn xin cấp phép tiếp thị có điều kiện (CMA) đối với loại vắc-xin này vào ngày 12 tháng 1 năm 2021. Tại một cuộc họp báo, cơ quan này cho biết có thể đưa ra khuyến nghị đối với vắc-xin trước ngày 29 tháng 1, trong khi Uỷ ban châu Âu sẽ ra quyết định về yêu cầu CMA trong vòng vài ngày. Nhà chức trách Hungary đã đơn phương cấp phép vắc-xin trước khi được EMA chấp thuận.
+Vào ngày 29 tháng 1 năm 2021, EMA khuyến nghị cho phép tiếp thị có điều kiện AZD1222 đối với người từ 18 tuổi trở lên; khuyến nghị đã được Uỷ ban châu Âu chấp nhận cùng ngày.
+Vào ngày 30 tháng 1 năm 2021, Bộ Y tế Việt Nam cấp phép cho vắc-xin AstraZeneca được lưu hành trong nước; đây là vắc-xin COVID-19 đầu tiên được cấp phép sử dụng tại Việt Nam.
+Vắc-xin cũng đã được cấp phép tại Argentina, Bangladesh, Brazil, Cộng hoà Dominica, El Salvador, Ấn Độ, Malaysia, Mexico, Nepal, Pakistan, Philippines, Sri Lanka, và Đài Loan với mục đích sử dụng khẩn cấp trong nước.
+Vào ngày 7 tháng 2 năm 2021, Nam Phi tạm dừng lưu hành vắc-xin AstraZeneca. Các nhà nghiên cứu tại Đại học Witwatersrand cho biết vắc-xin AstraZeneca cho hiệu quả bảo vệ tối thiểu trước COVID-19 thể nhẹ hoặc trung bình đối với người trẻ tuổi. Vào ngày 8 tháng 2 năm 2021, BBC đưa tin Katherine O'Brien, giám đốc phụ trách miễn dịch tại Tổ chức Y tế Thế giới, cho biết bà cảm thấy "rất có khả năng" vắc-xin AstraZeneca có thể có "ảnh hưởng quan trọng" với biến thể tại Nam Phi, cụ thể là phòng bệnh tiến triển nặng và tử vong. Tin cũng cho hay Phó Giám đốc Y tế Anh Jonathan Nguyễn Văn Tâm cho biết nghiên cứu của Witwatersrand không làm thay đổi ý kiến của ông rằng vắc-xin của AstraZeneca "rất có khả năng" có hiệu quả với các ca bệnh nặng do biến thể Nam Phi.
+Vào ngày 10 tháng 2 năm 2021, Hàn Quốc cấp phép cho vắc-xin AstraZeneca, vắc-xin COVID-19 đầu tiên tại nước này. Toàn bộ người trưởng thành, bao gồm cả người lớn tuổi, sẽ được tiêm theo phác đồ hai mũi tiêm. Tuy nhiên, cơ quan quản lý cũng ra cảnh báo cần cân nhắc khi tiêm vắc-xin cho người trên 65 tuổi do dữ liệu thu được từ các nghiên cứu lâm sàng còn hạn chế.
+Vào ngày 10 tháng 2 năm 2021, Tổ chức Y tế Thế giới (WHO) đưa ra hướng dẫn sơ bộ và khuyến cáo sử dụng vắc-xin AstraZeneca cho tất cả người trưởng thành; Nhóm Chuyên gia Cố vấn Chiến lược của tổ chức này cũng đã có những cân nhắc về việc sử dụng vắc-xin tại những nơi có biến thể của virus và kết luận hoàn toàn có thể khuyến cáo sử dụng.
+Vào ngày 16 tháng 2 năm 2021, Cơ quan Quản lý Sản phẩm Trị liệu Úc (TGA) cấp phép tạm thời cho vắc-xin COVID-19 của AstraZeneca.
+Vào ngày 26 tháng 2 năm 2021, vắc-xin được cấp phép sử dụng có điều kiện bởi Health Canada.
+
+
+=== Tạm ngừng ===
+Vào ngày 3 tháng 3 năm 2021, Áo đã cho tạm ngừng sử dụng một lô vắc-xin sau khi có hai người gặp biến chứng đông máu sau khi tiêm, một người sau đó đã tử vong. Tổng cộng đã có bốn trường hợp đông máu đã được phát hiện trong cùng lô vắc-xin với tổng số 1 triệu liều. Mặc dù chưa có mối liên hệ nào giữa việc tiêm vắc-xin với biến chứng đông máu, một vài quốc gia khác, trong đó có Đan Mạch, Na Uy, Iceland, România, Bulgaria, Ireland, Ý, Tây Ban Nha, Đức, Hà Lan và Slovenia cũng đã tạm dừng phân phối vắc-xin trong lúc chờ Cơ quan Quản lý Dược phẩm châu Âu (EMA) hoàn thành đánh giá an toàn. Indonesia cũng đã tạm ngưng tiêm vắc-xin để chờ thêm đánh giá an toàn từ Tổ chức Y tế Thế giới.
+EMA cho biết không có bằng chứng cho thấy vắc-xin gây đông máu, hiện tượng không được liệt kê trong danh sách tác dụng phụ của vắc-xin này. Theo EMA, tỷ lệ xảy ra đông máu trong tổng số những người đã được tiêm vắc-xin không vượt quá mức đã được quan sát trong dân số chung. Tính đến ngày 11 tháng 3 năm 2021, 30 trường hợp đông máu đã được báo cáo trong tổng số gần 5 triệu người được tiêm vắc-xin tại Khu vực Kinh tế châu Âu. Cơ quan Quản lý Dược phẩm Anh cũng cho biết trong số 11 triệu liều mà nước này đã tiêm cho người dân, cơ quan chưa xác nhận trường hợp đông máu nào liên quan đến vắc-xin và quyết định tiếp tục tiêm chủng. Vào ngày 12 tháng 3 năm 2021, Tổ chức Y tế Thế giới cho biết chưa tìm thấy mối liên hệ giữa vắc-xin và đông máu, đồng thời khuyến cáo các nước nên tiếp tục tiêm vắc-xin. Vào ngày 15 tháng 3 năm 2021, Viện Paul Ehrlich báo cáo bảy trường hợp huyết khối tĩnh mạch não cùng với tình trạng giảm tiểu cầu và xuất huyết sau khi tiêm vắc-xin Oxford-AstraZeneca. Theo PEI, số trường hợp huyết khối tĩnh mạch não sau tiêm cao hơn đáng kể về mặt thống kê so với số trường hợp có thể xảy ra trong dân số chung ở cùng khoảng thời gian.
+Vào ngày 14 tháng 3 năm 2021, AstraZeneca xác nhận trong số 17 triệu người đã được tiêm tại Liên minh châu Âu và Anh không có bằng chứng cho thấy vắc-xin làm tăng nguy cơ đông máu ở bất cứ quốc gia nào. Công ty báo cáo rằng tính đến ngày 8 tháng 3 năm 2021, ở khắp EU và Vương quốc Anh đã có 15 trường hợp huyết khối tĩnh mạch sâu và 22 trường hợp thuyên tắc động mạch phổi được báo cáo, thấp hơn nhiều so với mức dự kiến.
+
+
+== Tính an toàn ==
+Tính đến  ngày 28 tháng 2 năm 2021, MHRA cho biết trong tổng số 9 triệu người đã được tiêm vắc-xin Oxford–AstraZeneca, khoảng 10% xảy ra tác dụng không mong muốn, hầu hết là các triệu chứng nhẹ, bao gồm "sưng và đau vùng tiêm, đau đầu, mệt mỏi, đau cơ, khó chịu, sốt, ớn lạnh, đau khớp và buồn nôn". Đã có 194 trường hợp sốc phản vệ được báo cáo. Trong số tất cả các loại vắc-xin COVID-19, số trường hợp bị liệt dây thần kinh mặt (Bell's palsy) sau tiêm không cao hơn mức dự kiến có thể xảy ra tự nhiên. Có 275 người, chủ yếu là người cao tuổi hoặc có bệnh lý, đã tử vong sau khi tiêm vắc-xin; tuy nhiên con số này đồng nhất với tỷ lệ dự kiến, cho thấy không có mối liên hệ với vắc-xin.
+
+
+== Sản xuất và cung ứng ==
+Vắc-xin đạt trạng thái ổn định ở nhiệt độ của tủ lạnh thông thường và có giá khoảng từ 3 đô la Mỹ tới 4 đô la Mỹ một liều. Vào ngày 17 tháng 12, Bộ trưởng Ngân khố Bỉ đăng dòng tweet cho biết Liên minh châu Âu (EU) sẽ trả 1,78 € (2,16 đô la Mỹ) cho mỗi liều vắc-xin.
+Theo Pam Cheng, phó giám đốc hoạt động và IT của AstraZeneca, công ty sẽ có khoảng 200 triệu liều sẵn sàng cung ứng cho toàn cầu trước cuối năm 2020, và có khả năng sản xuất từ 100 đến 200 triệu liều mỗi tháng khi quá trình sản xuất được tăng tốc.
+Vào tháng 6 năm 2020, sau khi cung ứng 100 triệu liều vắc-xin cho Anh trong chương trình tiêm chủng của nước này, AstraZeneca và Emergent BioSolutions ký kết thoả thuận trị giá 87 triệu đô la Mỹ để sản xuất các liều vắc-xin dành riêng cho thị trường Mỹ. Thoả thuận là một phần trong sáng kiến Chiến dịch Thần tốc của chính quyền tổng thống Trump nhằm phát triển và đẩy nhanh quy mô sản xuất các loại vắc-xin trước cuối năm 2020. Catalent sẽ chịu trách nhiệm hoàn thiện và đóng gói vắc-xin. Phần lớn quá trình sản xuất sẽ được thực hiện tại Anh.
+Vào ngày 4 tháng 6 năm 2020, bộ phận phụ trách cơ chế COVAX của Tổ chức Y tế Thế giới (WHO) bắt đầu mua 300 triệu liều vắc-xin từ công ty để phân phối cho các nước thu nhập thấp và trung bình. Ngoài ra, AstraZeneca và Viện Huyết thanh Ấn Độ đạt thoả thuận cung cấp 1 tỷ liều vắc-xin tới các nước thu nhập thấp và trung bình, trong đó có Ấn Độ.
+Vào ngày 29 tháng 9 năm 2020, số tiền nhận được từ Quỹ Bill & Melinda Gates cho phép COVAX có thêm 100 triệu liều vắc-xin COVID-19 nữa từ AstraZeneca hoặc Novavax với giá 3 đôla Mỹ một liều.
+Vào ngày 13 tháng 6 năm 2020, AstraZeneca ký kết hợp đồng với Liên minh Vắc-xin toàn châu Âu, một nhóm do Pháp, Đức, Ý và Hà Lan thành lập, nhằm cung ứng lên tới 400 triệu liều tới tất cả các nước thành viên Liên minh châu Âu. Tuy nhiên, Ủy ban châu Âu đã can thiệp vào thỏa thuận này. Ủy ban đã tiếp quản việc đàm phán thay mặt cho toàn bộ EU, và hai bên đi đến ký kết chính thức vào cuối tháng 8.
+Vào tháng 8 năm 2020, AstraZeneca đồng ý cung cấp 300 triệu liều vắc-xin cho Mỹ với trị giá tổng cộng 1,2 tỷ đô la Mỹ, tức là 4 đô la Mỹ mỗi liều. Theo người phát ngôn của AstraZeneca thì số tiền trên cũng dành cho việc phát triển và nghiên cứu lâm sàng. Hãng cũng đã đạt thỏa thuận chuyển giao công nghệ với chính phủ Mexico và Argentina đồng thời đồng ý sản xuất ít nhất 400 triệu liều nhằm phân phối khắp Mỹ Latinh. Các nguyên liệu sẽ được sản xuất tại Argentina và được gửi sang Mexico để hoàn tất quá trình sản xuất, sẵn sàng phân phối.
+Vào tháng 9 năm 2020, AstraZeneca đồng ý cung cấp 20 triệu liều cho Canada.
+Vào tháng 10 năm 2020, Thụy Sỹ và AstraZeneca thỏa thuận đặt mua lên tới 5,3 triệu liều.
+Vào ngày 5 tháng 11 năm 2020, ba bên là chính phủ Bangladesh, Viện Huyết thanh Ấn Độ và công ty Beximco Pharma của Bangladesh ký thỏa thuận đặt mua 30 triệu vắc-xin Oxford-AstraZeneca từ Viện Huyết thanh thông qua Beximco với giá 4 đôla một liều.
+Vào tháng 11 năm 2020, Thái Lan đặt mua 26 triệu liều vắc-xin từ AstraZeneca. Số vắc-xin có thể sử dụng cho 13 triệu người, khoảng 20% dân số; lô đầu tiên dự kiến có mặt vào cuối tháng 5.
+Bộ trưởng Y tế Thái Lan Anutin Charnvirakul cho biết chính phủ đã phải trả 5 đôla Mỹ một liều; AstraZeneca (Thái Lan) giải thích vào tháng 1 năm 2021 rằng giá mỗi quốc gia phải trả phụ thuộc vào chi phí sản xuất và chuỗi cung ứng của từng nước, bao gồm khả năng sản xuất, chi phí lao động và vật liệu.
+Vào tháng 1 năm 2021, nội các Thái Lan cho phép đàm phán để đặt hàng thêm 35 triệu liều nữa, đồng thời FDA Thái Lan cũng cấp phép sử dụng khẩn cấp vắc-xin trong 1 năm.
+Siam Bioscience, một công ty do vua Vajiralongkorn sở hữu, sẽ tiếp nhận chuyển giao công nghệ,
+và có khả năng sản xuất lên tới 200 triệu liều mỗi năm để xuất khẩu sang các nước ASEAN.
+Cũng trong tháng 11, Philippines đồng ý mua 2,6 triệu liều,
+với tổng trị giá được cho là vào khoảng 700 triệu ₱ (khoảng 5,6 đôla/liều).
+Vào tháng 12 năm 2020, Hàn Quốc ký kết thỏa thuận với AstraZeneca mua 20 triệu liều vắc-xin, với giá trị được cho là tương đương các thỏa thuận trước đó tại Thái Lan và Philippines, lô hàng đầu tiên dự kiến sẽ được chuyển tới từ tháng 1 năm 2021. Tính đến  năm tháng 1 năm 2021, vắc-xin tiếp tục được Cơ quan Kiểm soát và Phòng chống Dịch bệnh Hàn Quốc đánh giá. AstraZeneca cũng ký kết thỏa thuận với công ty SK Bioscience của Hàn Quốc nhằm sản xuất các sản phẩm vắc-xin của hãng. Thỏa thuận trên cho phép các công ty của SK sản xuất AZD1222 cho thị trường trong nước và quốc tế.
+Vào ngày 7 tháng 1 năm 2021, chính phủ Nam Phi thông báo đã mua bước đầu 1 triệu liều từ Viện Huyết thanh Ấn Độ, và sẽ có thêm 500.000 liều nữa vào tháng 2.
+Myanmar ký kết thỏa thuận với Viện Huyết thanh Ấn Độ mua 30 triệu liều vắc-xin vào tháng 12 năm 2020. Myanmar sẽ có đủ liều cho 15 triệu người từ tháng 2 năm 2021.
+Vào ngày 22 tháng 1 năm 2021, AstraZeneca thông báo nếu Liên minh châu Âu cấp phép sử dụng vắc-xin COVID-19 của hãng, nguồn cung ban đầu sẽ bị giảm so với dự kiến do một số vấn đề trong khâu sản xuất tại công ty Novasep ở Bỉ. Chỉ có 31 triệu liều trong số 80 triệu liều dự kiến trước đó sẽ được chuyển tới Liên minh châu Âu cho tới tháng 3 năm 2021. Trong một cuộc phỏng vấn với tờ La Repubblica của Ý, CEO của AstraZeneca Pascal Soriot cho biết lịch trình vận chuyển vắc-xin cho Liên minh châu Âu đang bị chậm hai tháng. Ông nói quá trình nuôi cấy tế bào tại một địa điểm sản xuất quy mô lớn ở châu Âu đang cho kết quả chậm. Bài phân tích của The Guardian cũng xác định các lò phản ứng sinh học tại một nhà máy ở Bỉ đang hoạt động chậm chạp và nhấn mạnh rằng sẽ còn những khó khăn trong việc thiết lập quá trình sản xuất. Kết quả là Liên minh châu Âu buộc phải kiểm soát việc xuất khẩu vắc-xin; tranh cãi đã nổ ra giữa việc liệu các liều vắc-xin có đang bị chuyển hướng sang Anh hay không, và liệu có nên tiếp tục cung ứng vắc-xin cho Bắc Ireland hay không.
+Vào ngày 24 tháng 2 năm 2021, Ghana trở thành nước đầu tiên tại châu Phi nhận vắc-xin COVID-19 thông qua cơ chế COVAX, với 600.000 liều vắc xin AstraZeneca/Oxford được chuyển tới Accra.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+“Medical Information site for COVID-19 Vaccine AstraZeneca”. AstraZeneca.
+“Vaccines: contract between European Commission and AstraZeneca now published”. Ủy ban châu Âu.
+“How the Oxford-AstraZeneca Covid-19 Vaccine Works”. The New York Times.
+Background document on the AZD1222 vaccine against COVID-19 developed by Oxford University and AstraZeneca. Tổ chức Y tế Thế giới (WHO) (Bản báo cáo).
+Australian Public Assessment Report for ChAdOx1-S (PDF) (Bản báo cáo). Bản gốc (PDF) lưu trữ ngày 20 tháng 10 năm 2021. Truy cập ngày 9 tháng 3 năm 2021.

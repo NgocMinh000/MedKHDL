@@ -1,0 +1,817 @@
+Lý thuyết thông tin là một nhánh của toán học ứng dụng và kĩ thuật điện nghiên cứu về đo đạc lượng thông tin. Lý thuyết thông tin được xây dựng bởi Claude E. Shannon để xác định giới hạn cơ bản trong các hoạt động xử lý tín hiệu chẳng hạn như nén dữ liệu hay lưu trữ và truyền dẫn dữ liệu. Ngay từ những ngày đầu, nó đã mở rộng phạm vi ứng dụng ra nhiều lĩnh vực khác, bao gồm suy luận thống kê, xử lý ngôn ngữ tự nhiên, mật mã học, các mạng lưới bên cạnh mạng lưới viễn thông - chẳng hạn như trong thần kinh, sự tiến hóa và chức năng của các mã phân tử, lựa chọn mô hình trong sinh thái học, vật lý nhiệt, máy tính lượng tử, phát hiện sao chép và các hình thức phân tích dữ liệu khác.
+Một độ đo cơ bản của thông tin là entropy, thường được diễn đạt dưới dạng số lượng bit cần thiết trung bình để lưu trữ hoặc dẫn truyền. Entropy lượng hóa sự không chắc chắn trong việc dự đoán giá trị của một biến ngẫu nhiên. Ví dụ như, xác định kết quả của một lần tung đồng xu công bằng (hai kết quả có khả năng như nhau) cho ít thông tin hơn (entropy nhỏ hơn) là xác định kết quả của một lần tung xúc sắc (sáu kết quả có khả năng như nhau).
+Các ứng dụng cơ bản của lý thuyết thông tin bao gồm nén không mất dữ liệu (chẳng hạn như ZIP), nén mất dữ liệu (chẳng hạn MP3, JPG), mã hóa kênh (chẳng hạn như trong DSL). Lý thuyết thông tin nằm ở phần giao nhau giữa toán học, thống kê, khoa học máy tính, vật lý, thần kinh, và kĩ thuật điện. Các ngành hẹp quan trọng của lý thuyết thông tin bao gồm mã hóa nguồn, mã hóa kênh, lý thuyết thông tin thuật toán, bảo mật theo lý thuyết thông tin.
+
+
+== Tổng quan ==
+Khái niệm cơ bản của lý thuyết thông tin có thể được nắm bắt thông qua việc xem xét hình thức liên lạc phổ biến nhất của con người: ngôn ngữ. Hai yếu tố quan trọng của một ngôn ngữ ngắn gọn là: các từ thông dụng (như "một", "cái", "tôi") nên ngắn gọn hơn các từ kém thông dụng hơn (như "thông tin", "thợ thủ công") để các câu không bị quá dài. Sự cân bằng độ dài các từ như vậy cũng tương tự như trong nén dữ liệu và là một thành phần cơ bản của mã hóa nguồn. Ngoài ra, nếu một phần của câu không nghe được hoặc bị nghe nhầm do tiếng ồn, chẳng hạn như do có ô tô chạy qua, thì người nghe vẫn có thể đoán ra ý nghĩa của câu. Sự vững chắc đó là một thành phần thiết yếu cho hệ thống liên lạc điện tử cũng như cho ngôn ngữ. Tính chất đó trong truyền thông được đảm bảo bởi mã hóa kênh. Mã hóa nguồn và mã hóa kênh là những mối quan tâm chính của lý thuyết thông tin.
+Lý thuyết thông tin thường được xem là xuất phát từ bài báo quan trọng của Shannon (1948) mang tên "A Mathematical Theory of Communication". Mô hình trung tâm của lý thuyết thông tin cổ điển là vấn đề kĩ thuật của việc truyền dẫn thông tin trên một kênh nhiễu. Kết quả cơ bản trong lý thuyết này là định lý mã hóa nguồn của Shannon, khẳng định rằng tính trung bình, số bit cần dùng để mô tả kết quả của một sự kiện ngẫu nhiên chính là entropy của nó, và định lý mã hóa trên kênh nhiễu cũng của Shannon, khẳng định rằng việc liên lạc không lỗi trên một kênh nhiễu là có thể miễn là tốc độ truyền dữ liệu là nhỏ hơn một giới hạn nhất định, gọi là dung lượng kênh. Có thể đạt đến gần dung lượng kênh trong thực tế bằng cách sử dụng các hệ thống mã hóa và giải mã thích hợp.
+
+
+== Bối cảnh lịch sử ==
+
+Sự kiện nổi bật đánh dấu sự khởi đầu của lý thuyết thông tin là bài báo của Claude E. Shannon "A Mathematical Theory of Communication" ở Bell System Technical Journal vào tháng 7 và tháng 10 năm 1948.
+Trước bài báo này, một số ý tưởng về lý thuyết thông tin đã được phát triển tại Bell Labs, trong trường hợp đặc biệt khi tất cả các sự kiện đều có cùng xác suất. Bài báo năm 1924 của Harry Nyquist, "Certain Factors Affecting Telegraph Speed", chứa một phần lý thuyết định lượng "tri thức" (intelligence) và "tốc độ đường truyền" (line speed), đưa ra mối liên hệ W = Klogm, trong đó W là tốc độ dẫn truyền tri thức, m là số cấp điện áp có thể sử dụng tại mỗi bước và K là một hằng số. Bài báo năm 1928 của Ralph Hartley, "Transmission of Information", sử dụng thuật ngữ "thông tin" (information) như một đại lượng đo được, thể hiện khả năng phân biệt giữa các dãy ký hiệu của người nhận, do đó lượng hóa thông tin bởi H = logSn = nlogS, trong đó S là số ký hiệu có thể sử dụng, và n là số ký hiệu được truyền đi. Đơn vị tự nhiên của thông tin do đó là một chữ số thập phân, sau này được đổi tên là hartley để ghi danh đóng góp của ông, là một đơn vị đo thông tin. Năm 1940, Alan Turing đã sử dụng những ý tưởng tương tự cho phân tích thống kê để phá bộ mã Enigma của Đức trong chiến tranh thế giới thứ hai.
+Phần lớn lý thuyết toán học đằng sau lý thuyết thông tin với các sự kiện có xác suất khác nhau được xây dựng trong ngành nhiệt động học bởi Ludwig Boltzmann và J. Willard Gibbs. Mối liên hệ giữa entropy thông tin và entropy nhiệt động học, bao gồm đóng góp quan trọng của Rolf Landauer trong thập kỉ 1960, được mô tả trong trang Entropy trong nhiệt động học và lý thuyết thông tin.
+
+
+== Đo lường thông tin ==
+
+Lý thuyết thông tin được xây dựng dựa trên lý thuyết xác suất và thống kê. Thông số quan trọng nhất của thông tin là entropy, lượng thông tin trong một biến ngẫu nhiên, và thông tin tương hỗ, lượng thông tin chung giữa hai biến ngẫu nhiên.
+
+
+=== Entropy ===
+
+Nếu 
+  
+    
+      
+        
+          X
+        
+      
+    
+    {\displaystyle \mathbb {X} }
+  
+ là tập hợp tất cả các thông điệp 
+  
+    
+      
+        {
+        
+          x
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          x
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{x_{1},...,x_{n}\}}
+  
+ mà 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ có thể nhận giá trị, và 
+  
+    
+      
+        p
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(x)}
+  
+ là xác suất 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ nhận giá trị 
+  
+    
+      
+        x
+        ∈
+        
+          X
+        
+      
+    
+    {\displaystyle x\in \mathbb {X} }
+  
+, thì entropy của 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ được định nghĩa như sau:
+
+  
+    
+      
+        H
+        (
+        X
+        )
+        =
+        
+          
+            E
+          
+          
+            X
+          
+        
+        [
+        I
+        (
+        x
+        )
+        ]
+        =
+        −
+        
+          ∑
+          
+            x
+            ∈
+            
+              X
+            
+          
+        
+        p
+        (
+        x
+        )
+        log
+        ⁡
+        p
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle H(X)=\mathbb {E} _{X}[I(x)]=-\sum _{x\in \mathbb {X} }p(x)\log p(x).}
+  
+
+Trường hợp đặc biệt của entropy thông tin cho biến ngẫu nhiên với đúng hai khả năng gọi là hàm entropy nhị phân, thường được tính theo lôgarit cơ số 2:
+
+  
+    
+      
+        
+          H
+          
+            
+              b
+            
+          
+        
+        (
+        p
+        )
+        =
+        −
+        p
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        p
+        −
+        (
+        1
+        −
+        p
+        )
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        1
+        −
+        p
+        )
+        .
+        
+      
+    
+    {\displaystyle H_{\mbox{b}}(p)=-p\log _{2}p-(1-p)\log _{2}(1-p).\,}
+  
+
+
+=== Entropy hợp ===
+Entropy hợp của hai biến ngẫu nhiên rời rạc X và Y là entropy của cặp (X, Y). Có nghĩa là nếu X và Y là độc lập thì entropy hợp là tổng của entropy của mỗi biến.
+
+  
+    
+      
+        H
+        (
+        X
+        ,
+        Y
+        )
+        =
+        
+          
+            E
+          
+          
+            X
+            ,
+            Y
+          
+        
+        [
+        −
+        log
+        ⁡
+        p
+        (
+        x
+        ,
+        y
+        )
+        ]
+        =
+        −
+        
+          ∑
+          
+            x
+            ,
+            y
+          
+        
+        p
+        (
+        x
+        ,
+        y
+        )
+        log
+        ⁡
+        p
+        (
+        x
+        ,
+        y
+        )
+        
+      
+    
+    {\displaystyle H(X,Y)=\mathbb {E} _{X,Y}[-\log p(x,y)]=-\sum _{x,y}p(x,y)\log p(x,y)\,}
+  
+
+
+=== Entropy có điều kiện ===
+Entropy có điều kiện của X cho trước Y là giá trị kì vọng của entropy của X theo phân bố của Y.
+
+  
+    
+      
+        H
+        (
+        X
+        
+          |
+        
+        Y
+        )
+        =
+        
+          
+            E
+          
+          
+            Y
+          
+        
+        [
+        H
+        (
+        X
+        
+          |
+        
+        y
+        )
+        ]
+        =
+        −
+        
+          ∑
+          
+            y
+            ∈
+            Y
+          
+        
+        p
+        (
+        y
+        )
+        
+          ∑
+          
+            x
+            ∈
+            X
+          
+        
+        p
+        (
+        x
+        
+          |
+        
+        y
+        )
+        log
+        ⁡
+        p
+        (
+        x
+        
+          |
+        
+        y
+        )
+        =
+        −
+        
+          ∑
+          
+            x
+            ,
+            y
+          
+        
+        p
+        (
+        x
+        ,
+        y
+        )
+        log
+        ⁡
+        
+          
+            
+              p
+              (
+              x
+              ,
+              y
+              )
+            
+            
+              p
+              (
+              y
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle H(X|Y)=\mathbb {E} _{Y}[H(X|y)]=-\sum _{y\in Y}p(y)\sum _{x\in X}p(x|y)\log p(x|y)=-\sum _{x,y}p(x,y)\log {\frac {p(x,y)}{p(y)}}.}
+  
+
+Một tính chất cơ bản của entropy có điều kiện là
+
+  
+    
+      
+        H
+        (
+        X
+        
+          |
+        
+        Y
+        )
+        =
+        H
+        (
+        X
+        ,
+        Y
+        )
+        −
+        H
+        (
+        Y
+        )
+        .
+        
+      
+    
+    {\displaystyle H(X|Y)=H(X,Y)-H(Y).\,}
+  
+
+
+=== Thông tin tương hỗ ===
+Thông tin tương hỗ đo lượng thông tin thu được về một biến ngẫu nhiên thông qua giá trị của một biến ngẫu nhiên khác. 
+
+  
+    
+      
+        I
+        (
+        X
+        ;
+        Y
+        )
+        =
+        
+          
+            E
+          
+          
+            X
+            ,
+            Y
+          
+        
+        [
+        S
+        I
+        (
+        x
+        ,
+        y
+        )
+        ]
+        =
+        
+          ∑
+          
+            x
+            ,
+            y
+          
+        
+        p
+        (
+        x
+        ,
+        y
+        )
+        log
+        ⁡
+        
+          
+            
+              p
+              (
+              x
+              ,
+              y
+              )
+            
+            
+              p
+              (
+              x
+              )
+              
+              p
+              (
+              y
+              )
+            
+          
+        
+      
+    
+    {\displaystyle I(X;Y)=\mathbb {E} _{X,Y}[SI(x,y)]=\sum _{x,y}p(x,y)\log {\frac {p(x,y)}{p(x)\,p(y)}}}
+  
+
+Một tính chất cơ bản của thông tin tương hỗ là
+
+  
+    
+      
+        I
+        (
+        X
+        ;
+        Y
+        )
+        =
+        H
+        (
+        X
+        )
+        −
+        H
+        (
+        X
+        
+          |
+        
+        Y
+        )
+        .
+        
+      
+    
+    {\displaystyle I(X;Y)=H(X)-H(X|Y).\,}
+  
+
+Thông tin tương hỗ có tính chất đối xứng:
+
+  
+    
+      
+        I
+        (
+        X
+        ;
+        Y
+        )
+        =
+        I
+        (
+        Y
+        ;
+        X
+        )
+        =
+        H
+        (
+        X
+        )
+        +
+        H
+        (
+        Y
+        )
+        −
+        H
+        (
+        X
+        ,
+        Y
+        )
+        .
+        
+      
+    
+    {\displaystyle I(X;Y)=I(Y;X)=H(X)+H(Y)-H(X,Y).\,}
+  
+
+Thông tin tương hỗ có thể được biểu diễn dưới dạng khoảng cách Kullback-Leibler của phân bố hậu nghiệm của X nếu biết giá trị của Y và phân bố tiền nghiệm của X:
+
+  
+    
+      
+        I
+        (
+        X
+        ;
+        Y
+        )
+        =
+        
+          
+            E
+          
+          
+            p
+            (
+            y
+            )
+          
+        
+        [
+        
+          D
+          
+            
+              K
+              L
+            
+          
+        
+        (
+        p
+        (
+        X
+        
+          |
+        
+        Y
+        =
+        y
+        )
+        ‖
+        p
+        (
+        X
+        )
+        )
+        ]
+        .
+      
+    
+    {\displaystyle I(X;Y)=\mathbb {E} _{p(y)}[D_{\mathrm {KL} }(p(X|Y=y)\|p(X))].}
+  
+
+Nói cách khác, độ đo này xác định, về mặt trung bình, sự thay đổi của phân bố của X nếu biết giá trị của Y. Giá trị này còn có thể tính bằng khoảng cách giữa tích của các phân bố biên với phân bố hợp:
+
+  
+    
+      
+        I
+        (
+        X
+        ;
+        Y
+        )
+        =
+        
+          D
+          
+            
+              K
+              L
+            
+          
+        
+        (
+        p
+        (
+        X
+        ,
+        Y
+        )
+        ‖
+        p
+        (
+        X
+        )
+        p
+        (
+        Y
+        )
+        )
+        .
+      
+    
+    {\displaystyle I(X;Y)=D_{\mathrm {KL} }(p(X,Y)\|p(X)p(Y)).}
+  
+
+
+=== Khoảng cách Kullback-Leibler ===
+Khoảng cách Kullback-Leibler (hoặc entropy tương đối) là một cách so sánh hai phân bố: phân bố "thật" p(x) và một phân bố bất kì q(x). Nó được định nghĩa như sau:
+
+  
+    
+      
+        
+          D
+          
+            
+              K
+              L
+            
+          
+        
+        (
+        p
+        (
+        X
+        )
+        ‖
+        q
+        (
+        X
+        )
+        )
+        =
+        
+          ∑
+          
+            x
+            ∈
+            X
+          
+        
+        −
+        p
+        (
+        x
+        )
+        log
+        ⁡
+        
+          q
+          (
+          x
+          )
+        
+        
+        −
+        
+        
+          (
+          
+            −
+            p
+            (
+            x
+            )
+            log
+            ⁡
+            
+              p
+              (
+              x
+              )
+            
+          
+          )
+        
+        =
+        
+          ∑
+          
+            x
+            ∈
+            X
+          
+        
+        p
+        (
+        x
+        )
+        log
+        ⁡
+        
+          
+            
+              p
+              (
+              x
+              )
+            
+            
+              q
+              (
+              x
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle D_{\mathrm {KL} }(p(X)\|q(X))=\sum _{x\in X}-p(x)\log {q(x)}\,-\,\left(-p(x)\log {p(x)}\right)=\sum _{x\in X}p(x)\log {\frac {p(x)}{q(x)}}.}
+  
+
+Mặc dù đôi khi nó được sử dụng như một "khoảng cách metric", khoảng cách Kullback-Leibler không phải là một metric do nó không đối xứng và không thỏa mãn bất đẳng thức tam giác.
+
+
+=== Các thông số khác ===
+Một vài thông số khác trong lý thuyết thông tin bao gồm entropy Rényi, entropy vi phân, thông tin tương hỗ có điều kiện.
+
+
+== Lý thuyết mã hóa ==
+
+Lý thuyết mã hóa là một trong những ứng dụng quan trọng và trực tiếp nhất của lý thuyết thông tin. Nó có thể được chia làm lý thuyết mã hóa nguồn và lý thuyết mã hóa kênh. Sử dụng kết quả thống kê cho dữ liệu, lý thuyết thông tin định lượng số bit cần thiết để lưu trữ dữ liệu (chính là entropy thông tin của dữ liệu).
+
+Nén dữ liệu (mã hóa nguồn): Có hai hình thức nén dữ liệu:
+Nén không mất dữ liệu: dữ liệu phải được khôi phục chính xác
+Nén mất dữ liệu: phân bổ đủ số bit cần thiết để khôi phục dữ liệu, trong một độ chính xác định trước, đo bởi một hàm biến dạng.
+Mã sửa lỗi (mã hóa kênh): Khi nén dữ liệu đã loại bỏ hoàn toàn phần dữ liệu thừa, một mã sửa lỗi thêm vào một số thông tin dự phòng để có thể truyền dữ liệu một cách hiệu quả và trung thực qua một kênh nhiễu.
+Cách phân chia lý thuyết mã hóa thành nén và truyền được giải thích bởi các định lý truyền thông tin, hoặc các định lý phân chia nguồn-kênh, trong đó lý giải việc sử dụng bit làm đơn vị chung cho thông tin trong nhiều bối cảnh khác nhau. Tuy nhiên các định lý này chỉ đúng trong trường hợp một người gửi muốn truyền thông tin cho đúng một người nhận. Trong trường hợp có nhiều người gửi (kênh đa truy cập), hoặc nhiều người nhận (kênh phát sóng), hoặc có người trung gian giúp đỡ (kênh tiếp sức), hoặc tổng quát hơn, trong mạng máy tính, việc nén rồi truyền có thể không còn tối ưu. Lý thuyết thông tin trên mạng nghiên cứu về những mô hình truyền thông nhiều đối tượng.
+
+
+== Ghi chú ==
+
+
+=== Các công trình cổ điển ===
+Shannon, Claude E. (1948). “[[A Mathematical Theory of Communication]]” (PDF). Bell System Technical Journal. 27: 379–423 & 623–656. PDF Bản gốc lưu trữ ngày 15 tháng 12 năm 2017. Truy cập ngày 28 tháng 8 năm 2011. 
+R.V.L. Hartley (1928). “Transmission of Information” (PDF). Bell System Technical Journal. Bản gốc (PDF) lưu trữ ngày 4 tháng 10 năm 2011. Truy cập ngày 28 tháng 8 năm 2011.
+Andrey Kolmogorov (1968). “Three approaches to the quantitative definition of information”. International Journal of Computer Mathematics.

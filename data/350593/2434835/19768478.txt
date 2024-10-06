@@ -1,0 +1,77 @@
+Kháng thể đơn dòng (viết tắt là mAb, theo từ tiếng Anh: monoclonal antibody) là phân tử được sản xuất trong ống nghiệm, có tác dụng như các kháng thể thay thế có thể khôi phục, tăng cường hoặc bắt chước cuộc tấn công của hệ thống miễn dịch đối với các tế bào ung thư hay các loại virus gây bệnh truyền nhiễm.
+Kháng thể đơn dòng có ái lực đơn trị, chỉ liên kết với cùng một epitope (phần của kháng nguyên mà kháng thể phát hiện được). Ngược lại, kháng thể đa dòng liên kết với nhiều epitope và thường được tạo ra bởi một số dòng tương bào tiết ra kháng thể khác nhau. Kháng thể đơn dòng đặc hiệu kép là tăng số lượng từ một epitope của kháng thể đơn dòng thành hai epitope.
+Kháng thể đơn dòng có khả năng tạo liên kết đặc hiệu với hầu như bất kỳ các chất nào, do đó ứng dụng của kháng thể đơn dòng là phát hiện chất hoặc tinh chế chất đó. Ứng dụng này giúp kháng thể đơn dòng đứng một vị trí quan trọng các công trình nghiên cứu hóa sinh, sinh học phân tử và y học. Kháng thể đơn dòng được sử dụng trong lâm sàng để chẩn đoán và điều trị một số bệnh. Năm 2020, một số quốc gia đã cho phép sử dụng kháng thể đơn dòng để điều trị triệu chứng gây ra do COVID-19.
+
+
+== Lịch sử ==
+Vào đầu những năm 1900, nhà miễn dịch học người Đức Paul Ehrlich đã đề xuất ý tưởng về khái niệm Zauberkugel - "viên đạn ma thuật", được coi là một hợp chất nhắm đích có chọn lọc, chính là chất tác động trực tiếp lên sinh vật gây bệnh và có thể đầu độc sinh vật đó. Ý tưởng trên củng cố khái niệm về kháng thể đơn dòng và thuốc đơn dòng. Ehrlich và Ilya Ilyich Mechnikov được trao giải Nobel Sinh lý học hoặc Y học năm 1908 vì đã cung cấp cơ sở lý thuyết cho miễn dịch học.
+Đến thập niên 1970, lympho bào được phát hiện tạo ra một kháng thể duy nhất trong bệnh cảnh đa u tủy xương (một loại ung thư ảnh hưởng đến tế bào B). Các kháng thể bất thường này được sử dụng để nghiên cứu cấu trúc của các kháng thể, nhưng vẫn chưa thể tạo ra các kháng thể giống hệt nhau đặc hiệu cho một kháng nguyên nhất định. Năm 1973, Jerrold Schwaber mô tả quá trình sản xuất kháng thể đơn dòng sử dụng tế bào lai giữa người và chuột. Năm 1975, Georges Köhler và César Milstein thành công trong việc dung hợp dòng tế bào u tủy với tế bào B để tạo ra tế bào lai có khả năng tạo ra các kháng thể, các kháng thể này đặc hiệu với kháng nguyên và tồn tại vĩnh viễn. Nhờ có khám phá này, Georges Köhler, César Milstein và Niels Kaj Jerne cùng được trao giải Nobel về Sinh lý học hoặc Y học năm 1984.
+Năm 1988, Gregory Winter và nhóm nghiên cứu đi tiên phong trong các kỹ thuật nhân bản hóa (humanize) các kháng thể đơn dòng, tiến hành loại bỏ các đáp ứng mà nhiều kháng thể đơn dòng gây ra ở một số bệnh nhân. Vào những năm 1990, nghiên cứu đã đạt đến giai đoạn sử dụng kháng thể đơn dòng trong điều trị. Năm 2018, James P. Allison và Tasuku Honjo được trao giải Nobel về Sinh lý học hoặc Y học vì đã khám phá ra liệu pháp điều trị ung thư bằng cách ức chế điều hòa miễn dịch ngược âm tính.
+
+
+== Sản xuất ==
+
+
+=== Công nghệ phát triển mAb mới ===
+Một số công nghệ kháng thể đơn dòng mới như phương pháp phage display, nuôi cấy tế bào B đơn lẻ, khuếch đại tế bào đơn lẻ từ các quần thể tế bào B khác nhau.
+
+
+=== Tái tổ hợp ===
+Sản xuất các kháng thể đơn dòng tái tổ hợp cần công nghệ nhân bản vô tính, CRISPR/Cas9 hoặc công nghệ phage display hay yeast display. Kỹ thuật kháng thể tái tổ hợp liên quan đến việc sản xuất kháng thể bằng cách sử dụng đối tượng là virus hoặc nấm men, không phải chuột. Những kỹ thuật này dựa vào việc sao chép nhanh các đoạn gen globulin miễn dịch (Ig) để tạo ra loạt kháng thể có trình tự amino acid hơi khác nhau, từ đó có thể chọn các kháng thể có tính đặc hiệu mong muốn. Những kỹ thuật này có thể được sử dụng để nâng cao tính đặc hiệu của kháng thể khi nhận dạng kháng nguyên, tính ổn định trong các điều kiện môi trường khác nhau, hiệu quả điều trị và khả năng phát hiện của háng thể trong các ứng dụng chẩn đoán.
+
+
+=== Kháng thể khảm ===
+Mặc dù các kháng thể của chuột và người có cấu trúc tương tự nhau, nhưng sự khác biệt về loài đủ để tạo ra đáp ứng miễn dịch khi tiêm các kháng thể đơn dòng của chuột vào người. Hậu quả, các kháng thể của chuột dễ dàng và nhanh chóng bị loại bỏ khỏi máu, cũng như các tác động đáp ứng viêm hệ thống gây viêm toàn thân và sản xuất kháng thể người chống lại kháng thể chuột (Human anti-mouse antibody, HAMA).
+DNA tái tổ hợp được khám phá từ cuối những năm 1980 giúp kéo dài tăng thời gian tồn tại của kháng thể. DNA của chuột mã hóa phần liên kết của kháng thể đơn dòng được hợp nhất với DNA tạo kháng thể của người trong tế bào sống. Sự biểu hiện của DNA "khảm" hay còn gọi là DNA "nhân bản hóa" này thông qua quá trình nuôi cấy tế bào tạo ra các kháng thể nửa chuột, nửa người.
+
+
+=== Kháng thể người ===
+
+Kể từ khi các nhà khoa học phát hiện ra rằng có thể tự tạo ra kháng thể đơn dòng, các nghiên cứu "nhắm đích" được tiến hành để tạo ra sản phẩm hoàn toàn phù hợp cho người để giảm tác dụng phụ của các kháng thể khảm (kháng thể "nhân bản hóa"). Một số phương pháp thành công: chuột biến đổi gen, phương pháp phage display và nhân bản tế bào B đơn lẻ.
+
+
+== Chi phí ==
+Sản xuất các kháng thể đơn dòng đắt hơn so với sản xuất phân tử nhỏ khi sản xuất thuốc do quy trình phức tạp và kích thước các phân tử. Chi phí cao còn do để đưa một thực thể hóa học mới vào cơ thể bệnh nhân (con người)m cần tiến hành vô cùng nhiều nghiên cứu và phát triển các nghiên cứu đó. Kháng thể đơn dòng được định giá để cho phép các nhà sản xuất hoàn vốn đầu tư, do đó giá cả để mua kháng thể đơn dòng rất đắt ở những nơi không có kiểm soát giá (chẳng hạn như Hoa Kỳ). 7 nhà nghiên cứu của Đại học Pittsburgh đã kết luận: "Chi phí hàng năm của các liệu pháp mAb trong điều trị ung thư và huyết học cao hơn khoảng 100.000 đô la so với thuốc điều trị các căn bệnh khác". "Điều trị các căn bệnh khác" được so sánh ở đây là chi phí điều trị tim mạch, bệnh rối loạn chuyển hóa, miễn dịch, bệnh truyền nhiễm, dị ứng và nhãn khoa.
+
+
+== Ứng dụng ==
+
+
+=== Xét nghiệm chẩn đoán ===
+
+
+=== Hóa phân tích ===
+
+
+=== Điều trị ===
+Liệu pháp kháng thể đơn dòng có nhiều cơ chế, chẳng hạn như chẹn các phân tử chức năng gây ra quá trình chết tế bào theo chương trình hoặc điều chỉnh con đường truyền tín hiệu.
+
+
+==== Điều trị ung thư ====
+
+Một số mAb được FDA chấp thuận để điều trị bệnh ung thư gồm:
+
+ 
+
+
+==== Bệnh tự miễn ====
+Các kháng thể đơn dòng được sử dụng để điều trị các bệnh tự miễn bao gồm infliximab và adalimumab, có hiệu quả trong điều trị viêm khớp dạng thấp, bệnh Crohn, viêm loét đại tràng và viêm cột sống dính khớp nhờ khả năng liên kết và ức chế TNF-α. Basiliximab và daclizumab ức chế IL-2 trên các tế bào T hoạt hóa và do đó giúp ngăn ngừa thải ghép thận cấp tính. Omalizumab ức chế immunoglobulin E (IgE) ở người và rất hữu ích trong điều trị hen phế quản dị ứng từ trung bình đến nặng.
+
+
+=== COVID-19 ===
+Năm 2020, liệu pháp kháng thể đơn dòng bamlanivimab/etesevimab và casirivimab/imdevimab được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ cấp phép sử dụng khẩn cấp để giảm số ca nhập viện, số lượng bệnh nhân đến phòng cấp cứu và số ca tử vong. Tháng 9 năm 2021, chính quyền Biden đã bơm 2,9 tỷ đô la Mỹ để sản xuất kháng thể đơn dòng Regeneron (2.100 đô la mỗi liều) để hạn chế sự thiếu hụt kháng thể đơn dòng.
+Từ tháng 12 năm 2021, các thử nghiệm in vitro (trong ống nghiệm) cho thấy các liệu pháp kháng thể đơn dòng (ngoại trừ sotrovimab và tixagevimab/cilgavimab) không có khả năng hoạt động chống lại biến thể omicron SARS-CoV-2.
+Trong giai đoạn 2021–22, tổng quan hệ thống của tổ chứcCochrane kết luận: KHÔNG đủ bằng chứng về việc sử dụng kháng thể đơn dòng trung hòa trong điều trị nhiễm COVID-19. Tổng quan hệ thống chỉ áp dụng cho những người chưa được tiêm vắc-xin COVID‐19 và chỉ áp dụng cho các biến thể COVID-19 tồn tại trong quá trình nghiên cứu, không áp dụng cho các biến thể mới hơn, chẳng hạn như biến thể Omicron.
+
+
+== Tác dụng phụ ==
+Một số kháng thể đơn dòng, chẳng hạn như bevacizumab và cetuximab, có thể gây ra các loại tác dụng phụ khác nhau. Những tác dụng phụ này có thể được phân loại thành tác dụng phụ phổ biến và nghiêm trọng.
+Một số tác dụng phụ phổ biến bao gồm:
+
+ 
+Tác dụng phụ nghiêm trọng: 
+
+ 
+
+
+== Tham khảo ==

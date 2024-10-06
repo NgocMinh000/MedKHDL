@@ -1,0 +1,34 @@
+Trifluridine/tipiracil (tên thương mại Lonsurf) là một loại thuốc kết hợp được sử dụng như một phương pháp điều trị thứ ba hoặc thứ tư của ung thư đại trực tràng di căn, sau khi hóa trị liệu và điều trị trúng đích đã thất bại. Nó là sự kết hợp của hai thành phần dược phẩm hoạt động: trifluridine, một chất tương tự nucleoside và tipiracil, một chất ức chế phosphorylase thymidine. Tipiracil ngăn chặn sự chuyển hóa nhanh chóng của trifluridine, làm tăng khả dụng sinh học của trifluridine.
+
+
+== Sử dụng trong y tế ==
+Nó được sử dụng như một phương pháp điều trị thứ ba hoặc thứ tư cho bệnh ung thư đại trực tràng di căn, sau hóa trị liệu và liệu pháp sinh học.
+Sự kết hợp gây ra tác hại cho thai nhi của động vật mang thai, và nó không được thử nghiệm ở phụ nữ mang thai. Phụ nữ mang thai không nên dùng nó, và phụ nữ không nên mang thai trong khi dùng.
+
+
+== Tác dụng phụ ==
+Sự kết hợp làm ức chế nghiêm trọng chức năng tủy xương, dẫn đến ít tế bào hồng cầu, bạch cầu và tiểu cầu, vì vậy nhiều người dùng nó có nguy cơ bị nhiễm trùng, thiếu máu và mất máu do thiếu đông máu. Nó cũng gây ra các vấn đề về tiêu hóa, với hơn 10% số người bị mất cảm giác ngon miệng, tiêu chảy, buồn nôn và nôn. Hơn 10% số người trải qua mệt mỏi và sốt.
+Từ 1 đến 10% số người có vấn đề về da và niêm mạc, như phát ban và ngứa, hoặc lở miệng, cũng như bong tróc da, tê, đỏ và sưng lòng bàn tay và lòng bàn chân. Chóng mặt và nhầm lẫn là phổ biến là tốt.
+
+
+== Tương tác ==
+Chỉ có nghiên cứu tương tác trong ống nghiệm là có sẵn. Trong đó, trifluridine đã sử dụng chất vận chuyển nucleoside tập trung 1 (CNT1) và chất vận chuyển nucleoside cân bằng 1 (ENT1) và 2 (ENT2), và tipiracil được vận chuyển bởi các protein mang chất tan SLC22A2 và SLC47A1. Các loại thuốc tương tác với các chất vận chuyển này có thể ảnh hưởng đến nồng độ trifluridine và tipiracil trong huyết tương. Trifluridine, là một chất ức chế thymidine phosphorylase, cũng có thể tương tác với cơ chất của enzyme này như zidovudine.
+
+
+== Dược lý ==
+
+
+=== Cơ chế hoạt động ===
+
+Thuốc bao gồm cytotoxin trifluridine và chất ức chế thymidine phosphorylase (TPI) tipiracil. Trifluridine được tích hợp vào DNA trong quá trình tổng hợp DNA và ức chế sự phát triển của tế bào khối u. Trifluridine (TFT) được tích hợp vào DNA bằng cách phosphoryl hóa bởi thymidylate kinase (TK) thành TF-TMP; TF-TMP sau đó liên kết cộng hóa trị với tyrosine 146 của vị trí hoạt động của thymidylate synthase (TS) ức chế hoạt động của enzyme. TS rất quan trọng đối với quá trình tổng hợp DNA vì đây là enzyme tham gia vào quá trình tổng hợp deoxynucleotide, thymidine triphosphate (dTTP). Sự ức chế TS làm suy giảm tế bào của dTTP và gây ra sự tích tụ deoxyuridine monophosphate (dUMP), làm tăng khả năng uracil bị nhầm lẫn vào DNA. Ngoài ra, sự phosphoryl hóa tiếp theo của TF-TMP gây ra mức độ TF-TTP trong tế bào tăng lên, dẫn đến việc nó được đưa vào DNA. Mặc dù cơ chế chính xác về cách mà TFT gây ra thiệt hại DNA vẫn chưa hoàn toàn được hiểu, nhưng có giả thuyết cho rằng việc kết hợp TF-TTP trong DNA dẫn đến sự hình thành chuỗi DNA.
+Tipiracil ngăn chặn sự thoái hóa của trifluridine thông qua thymidine phosphorylase (TP) khi dùng bằng đường uống và cũng có đặc tính chống ung thư.
+
+
+== Lịch sử ==
+Kể từ khi tổng hợp 5-fluorouracil (5-FU) vào năm 1957, fluoropyrimidine đã được sử dụng để điều trị nhiều loại ung thư. Do những hạn chế của liệu pháp 5-FU, chẳng hạn như phải được sử dụng trong thời gian dài thông qua truyền tĩnh mạch và phát triển kháng thuốc trong các khối u, điều trị bằng fluoropyrimidine thuận tiện và hiệu quả hơn đã được mong muốn. Thành phần fluoropyrimidine của thuốc này, trifluridine, lần đầu tiên được tổng hợp vào năm 1964 bởi Heidelberger et al.
+Đến cuối những năm 1960, các thử nghiệm lâm sàng giai đoạn I và giai đoạn II của trifluridine tiêm tĩnh mạch ban đầu tỏ ra đáng thất vọng. Hồ sơ dược động học của nó trong các thử nghiệm lâm sàng cho thấy thuốc có thời gian bán hủy rất ngắn khi ở trong huyết thanh (12 phút sau tiêm). Những điều chỉnh trong chế độ dùng thuốc đã cải thiện tác dụng của nó trong các nghiên cứu nhỏ, nhưng hiệu quả chỉ tồn tại trong thời gian ngắn.
+Các nhà nghiên cứu sau đó phát hiện ra rằng trifluridine, khi dùng bằng đường uống, đã bị phân hủy thành các chất chuyển hóa không hoạt động 5-trifluoromethyluracil và 5-trifluoromethyl-2,4 (1 H, 3, H) -pyrimidinedione (FTY) trong quá trình chuyển hóa lần đầu tiên. gan thông qua enzyme thymidine phosphorylase. Sau đó, người ta đưa ra giả thuyết rằng nồng độ FTD dùng đường uống có thể tăng và duy trì nếu thuốc được dùng với chất ức chế thymidine phosphorylase.
+Trifluridine/tipiracil đã được FDA Hoa Kỳ phê duyệt vào tháng 9 năm 2015, và bởi Cơ quan Dược phẩm Châu Âu vào tháng 4 năm 2016.
+
+
+== Tham khảo ==

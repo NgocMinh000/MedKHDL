@@ -1,0 +1,23 @@
+Trong ngôn ngữ học, tính thông hiểu lẫn nhau là mối quan hệ giữa các ngôn ngữ hoặc phương ngữ khi mà người sử dụng các biến thể khác nhau nhưng có liên quan có thể hiểu được nhau một cách dễ dàng mà không cần quen biết trước hay tốn nhiều nỗ lực. Đôi khi, thông hiểu lẫn nhau được sử dụng như một tiêu chí quan trọng để phân biệt giữa ngôn ngữ và phương ngữ, dù các yếu tố thuộc lĩnh vực Ngôn ngữ học xã hội cũng thường được đưa vào xem xét.
+Việc thông hiểu giữa các ngôn ngữ có thể không đối xứng, tức là người dùng một ngôn ngữ có thể hiểu được nhiều hơn về ngôn ngữ kia so với người dùng ngôn ngữ thứ hai hiểu về ngôn ngữ đầu tiên. Khi sự thông hiểu đối xứng tương đối, nó được gọi là "thông hiểu lẫn nhau". Sự thông hiểu lẫn nhau tồn tại ở nhiều mức độ khác nhau giữa các ngôn ngữ có liên quan hoặc gần nhau về địa lý trên thế giới, thường xuyên xuất hiện trong bối cảnh của một dãy phương ngữ.
+
+
+== Sự thông hiểu ==
+
+
+=== Các yếu tố ===
+Việc một cá nhân đạt được độ thành thạo hoặc hiểu biết ở mức độ vừa phải trong một ngôn ngữ (gọi là NN2) khác ngoài ngôn ngữ mẹ đẻ của họ (NN1) thường đòi hỏi nhiều thời gian và nỗ lực thông qua việc học tập và thực hành, nếu hai ngôn ngữ không có mối quan hệ gần gũi với nhau. Những người thành thạo một ngôn ngữ thứ hai thường hướng tới sự thông hiểu, đặc biệt là trong những tình huống họ làm việc bằng ngôn ngữ thứ hai và việc cần được hiểu là rất quan trọng.
+Tuy nhiên, nhiều nhóm ngôn ngữ có mức độ thông hiểu lẫn nhau một phần, tức là hầu hết người nói một ngôn ngữ thì thường dễ dàng đạt được một mức độ hiểu biết nào đó về ngôn ngữ liên quan. Thường thì hai ngôn ngữ có mối quan hệ di truyền với nhau, và chúng có khả năng tương tự nhau về ngữ pháp, từ vựng, phát âm, hoặc các đặc điểm khác.
+Sự thông hiểu giữa các ngôn ngữ có thể thay đổi giữa các cá nhân hoặc nhóm trong một dân số ngôn ngữ, tùy thuộc vào kiến thức của họ về các [[ngữ vực] và từ vựng trong ngôn ngữ của mình, sự tiếp xúc với các ngôn ngữ liên quan khác, sự quan tâm đến hoặc quen thuộc với nền văn hóa khác, lĩnh vực thảo luận, đặc điểm tâm lý-nhận thức, phương thức ngôn ngữ được sử dụng (viết so với nói), và các yếu tố khác.
+Khoảng cách ngôn ngữ là khái niệm về việc tính toán một số liệu để định lượng độ khác biệt giữa các ngôn ngữ. Khoảng cách ngôn ngữ càng lớn, sự thông hiểu lẫn nhau càng thấp.
+
+
+=== Sự thông hiểu không đối xứng ===
+Sự thông hiểu không đối xứng ám chỉ hai ngôn ngữ được xem là có một phần thông hiểu lẫn nhau, nhưng một nhóm người nói có nhiều khó khăn trong việc hiểu ngôn ngữ kia hơn so với chiều ngược lại. Có thể có nhiều lý do cho điều này. Ví dụ, nếu một ngôn ngữ có liên quan đến ngôn ngữ khác nhưng lại đơn giản hóa ngữ pháp của nó, thì người nói ngôn ngữ gốc có thể hiểu được ngôn ngữ đã được đơn giản hóa, nhưng ngược lại thì ít hơn. Ví dụ, người nói tiếng Hà Lan có xu hướng dễ hiểu Afrikaans hơn so với chiều ngược lại do ngữ pháp của tiếng Afrikaans đã được đơn giản hóa.
+
+
+=== Giữa các ngôn ngữ ký hiệu ===
+Ngôn ngữ ký hiệu không phải là phổ biến và thường không thông hiểu lẫn nhau, mặc dù cũng có sự giống nhau giữa các ngôn ngữ ký hiệu khác nhau. Ngôn ngữ ký hiệu độc lập với ngôn ngữ nói và theo đuổi con đường phát triển riêng của chúng. Ví dụ, British Sign Language (BSL) và American Sign Language (ASL) khá khác nhau và không thông hiểu lẫn nhau, mặc dù những người có thính giác ở Vương quốc Liên hiệp Anh và Hoa Kỳ chia sẻ cùng một ngôn ngữ nói. Ngữ pháp của ngôn ngữ ký hiệu thường không giống nhưng ngữ pháp của ngôn ngữ nói được sử dụng trong cùng một khu vực địa lý; thực tế, về cú pháp, ASL lại chia sẻ nhiều điểm tương đồng với ngôn ngữ nói tiếng Nhật hơn so với tiếng Anh.
+
+
+== Chú thích ==

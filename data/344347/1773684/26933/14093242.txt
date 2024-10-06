@@ -1,0 +1,248 @@
+Mycobacterium là một chi của Actinobacteria, họ Mycobacteriaceae. Hơn 190 loài được ghi nhận trong chi này. Chi này bao gồm các mầm bệnh được biết là gây ra các bệnh nghiêm trọng ở động vật có vú, bao gồm bệnh lao (Mycobacterium tuberculosis) và bệnh phong (Mycobacterium leprae) ở người. Tiền tố myco- (Hy Lạp) có nghĩa là "nấm", ám chỉ đến cách Mycobacteria đã được quan sát sự phát triển trong một hình dáng giống đất trên bề mặt khi nuôi cấy. Các vi khuẩn này có tính kháng axit, muốn phát hiện ra chúng cần nhuộm Ziehl–Neelsen thay vì nhuộm Gram.
+Các xét nghiệm kiểu hình có thể được sử dụng để xác định và phân biệt các chủng Mycobacteria khác nhau. Trong các hệ thống cũ, mycobacteria được nhóm lại dựa trên sự xuất hiện và tốc độ tăng trưởng của chúng. Và phân loại gần đây hơn dựa trên sự phân nhánh. Hơn 100 loài hiện đang được công nhận.
+O'Neill và các đồng nghiệp gần đây đã trình bày một phân tích hệ thống toàn diện dựa trên sự liên kết của bộ gen lõi của 57 chủng vi khuẩn, bao gồm tất cả các vi khuẩn Mycobacteria có sẵn.
+
+
+== Chuyển hóa và hình thái học ==
+Mycobacteria là vi khuẩn hiếu khí. Chúng là dạng trực khuẩn thẳng hoặc hơi cong khoảng từ 0,2 và 0,6 µm và dài từ 1,0 đến 10 µm, ít nhất là trong hầu hết các giai đoạn đã thu hút sự chú ý của khoa học vi sinh vật đến nay; thường là các vi khuẩn không độc tố, ngoại trừ loài Mycobacterium marinum, được cho là di chuyển trong các đại thực bào. Chúng có đặc tính kháng axit cồn. Mycobacteria có màng ngoài. Chúng có vỏ, và hầu hết không tạo thành nội bào tử. Mycobacterium marinum và có lẽ M. bovis đã cho thấy là có thể hình thành nội bào tử; tuy nhiên, điều này đã bị tranh cãi bởi nghiên cứu sâu hơn. Đặc điểm phân biệt của tất cả các loài Mycobacterium là thành tế bào dày hơn nhiều loại vi khuẩn khác, là kỵ nước, sáp, và giàu axit mycolic/mycolates. Thành tế bào bao gồm lớp mycolate kỵ nước và một lớp peptidoglycan được tổ chức với nhau bởi một polysaccharide, arabinogalactan. Thành tế bào đóng góp đáng kể cho sự cứng rắn của chi này. Các con đường tổng hợp sinh học của thành phần thành tế bào là các mục tiêu tiềm năng cho các loại thuốc mới cho bệnh lao.
+Nhiều loài Mycobacterium thích ứng dễ dàng với sự tăng trưởng trên các chất nền rất đơn giản, sử dụng amonia hoặc amino acid như các nguồn nitơ và glycerol như một nguồn cacbon trong sự hiện diện của các muối khoáng. Nhiệt độ tăng trưởng tối ưu khác nhau tùy theo loài và phạm vi từ 25 °C đến trên 50 °C.
+Hầu hết các loài Mycobacterium, bao gồm hầu hết các loài có liên quan lâm sàng, có thể nuôi cấy trong môi trường thạch máu. Tuy nhiên, một số loài phát triển rất chậm do chu kỳ sinh sản rất dài - M. leprae, có thể mất hơn 20 ngày để tiến hành qua một chu kỳ phân chia (để so sánh, một số chủng E. coli chỉ mất 20 phút), làm cho nuôi cấy phòng thí nghiệm một quá trình chậm. Ngoài ra, sự sẵn có của kỹ thuật thao tác di truyền học vẫn còn chậm xa so với các loài vi khuẩn khác. Sự phân chia tự nhiên xảy ra giữa các loài chậm và đang phát triển nhanh. Mycobacteria hình thành các khuẩn lạc rõ ràng có thể nhìn thấy bằng mắt thường trong vòng bảy ngày sau nuôi cấy được gọi là phát triển nhanh, trong khi những chủng yêu cầu thời gian dài hơn được gọi là phát triển chậm.
+
+
+== Sắc tố ==
+Một số vi khuẩn Mycobacteria tạo ra sắc tố carotenoid khi không có ánh sáng. Những chủng khác cần có ánh sáng để sản xuất sắc tố.
+
+
+== Photochromogens (nhóm I) - vi sinh vật tạo sắc tố khi có ánh sáng ==
+Khuẩn lạc không tạo sắc tố khi phát triển trong tối và sắc tố chỉ được tạo sau khi tiếp xúc với ánh sáng và ủ.
+
+Ví dụ: M. kansasii, M. marinum, M. simiae.
+
+
+== Scotochromogens (nhóm II) - vi sinh vật tạo sắc tố trong tối ==
+Khuẩn lạc vàng đậm đến màu da cam khi được nuôi cấy trong ánh sáng hoặc bóng tối.
+
+Ví dụ: M. scrofulaceum, M. gordonae, M. xenopi, M. szulgai.
+
+
+== Không nhiễm sắc tố (nhóm III & IV) ==
+Không bị ảnh hưởng trong ánh sáng và bóng tối hoặc chỉ có một sắc tố màu vàng nhạt, hoặc màu nâu nhạt mà không tăng cường sau khi tiếp xúc với ánh sáng.
+
+Ví dụ: M. tuberculosis, M. avium-intra-cellulare, M. bovis, M. ulcerans
+Ví dụ: M. fortuitum, M. chelonae
+
+
+== Các đặc tính nhuộm màu ==
+Mycobacteria là các sinh vật có tính kháng axit cồn. Phương pháp nhuộm sử dụng trong đánh giá các mẫu mô hoặc mẫu vi sinh bao gồm Fite, Ziehl-Neelsen và Kinyoun.
+
+
+== Phát triển chậm ==
+Nhóm của Runyon I, II và III
+
+
+=== Phức hợp Mycobacterium tuberculosis ===
+Thành phần phức hợp Mycobacterium tuberculosis (MTBC) là tác nhân gây bệnh của lao ở người và động vật. Loài trong phức hợp này bao gồm:
+M. africanum
+M. bovis
+M. bovis BCG
+M. canetti
+M. caprae
+M. microti
+M. mungi
+M. orygis
+M. pinnipedii
+M. suricattae
+M. tuberculosis, nguyên nhân chính gây bệnh lao ở người.
+
+
+=== Phức hợp Mycobacterium avium ===
+	Mycobacterium avium complex (MAC) là một nhóm các loài, trong một nhiễm trùng phổ biến nhưng không nhiễm trùng phổi, từng là nguyên nhân gây tử vong đáng kể ở bệnh nhân AIDS. Các loài M. indicus pranii dường như là nền tảng trong phức hợp này. Loài trong phức hợp này bao gồm:
+
+M. avium
+M. avium paratuberculosis, đã được liên quan đến bệnh Crohn ở người và là tác nhân gây bệnh Johne ở gia súc.
+M. avium silvaticum
+M. avium "hominissuis"
+M. colombiense
+M. indicus pranii
+M. intacellulare
+
+
+=== Nhóm Mycobacterium gordona ===
+M. asiaticum
+M. gordonae
+
+
+=== Nhóm Mycobacterium kansasii ===
+M. gastri
+M. kansasii
+
+
+=== Nhóm Mycobacterium nonchromogenicum / terrae ===
+M. hiberniae
+M. icosiumassiliensis
+M. nonchromogenicum
+M. terrae
+M. triviale
+
+
+=== Mycobacteria sản xuất Mycactone ===
+M. ulcerans, gây ra loét "Buruli" hoặc "Bairnsdale"
+M. pseudoshottsii
+M. shottsii
+
+
+=== Nhóm Mycobacterium simiae ===
+M. florentinum
+M. genavense
+M. heidelbergense
+M. interjectum
+M. kubicae
+M. lentiflavum
+M. montefiorense
+M. palustre
+M. parascrofulaceum
+M. simiae
+M. triplex
+
+
+=== Không phân nhóm ===
+M. arabiense
+M. aromaticivorans
+M. aquaticum
+M. bacteremicum
+M. bohemicum
+M. botniense
+M. branderi
+M. celatum
+M. chimaera
+M. conspicuum
+M. cookii
+M. doricum
+M. farcinogenes
+M. haemophilum
+M. heckeshornense
+M. intracellulare
+M. lacus
+M. leprae, gây bệnh phong
+M. lepraemurium
+M. lepromatosis, nguyên nhân khác (ít quan trọng hơn) của bệnh phong, được mô tả năm 2008
+M. liflandii
+M. llatzerense
+M. malmoense
+M. marinum, gây ra một căn bệnh hiếm gọi là u hạt hồ cá.
+M. neoaurum
+M. monacense
+M. murale
+M. nebraskense
+M. saskatchewanense
+M. sediminis
+M. scrofulaceum
+M. shimoidei
+M. szulgai
+Mycobacterium talmoniae
+M. tusciae
+M. xenopi
+M. yongonense
+
+
+=== Tốc độ tăng trưởng trung gian ===
+M. intermedium
+
+
+== Phát triển nhanh chóng ==
+
+
+=== Nhóm Mycobacterium abscessus ===
+M. abscessus
+M. bolletii
+M. massiliense
+Họ cùng nhau được gọi là phức hợp M. abscessus
+
+
+=== Nhóm Mycobacterium chelonae ===
+M. chelonae
+M. immunogenum
+M. stephanolepidis
+
+
+=== Nhóm Mycobacterium fortuitum ===
+M. boenickei
+M. brisbanense
+M. cosmeticum
+M. fortuitum
+M. fortuitum subsp. acetamidolyticum
+M. houstonense
+M. mageritense
+M. neworleansense
+M. peregrinum
+M. porcinum
+M. senegalense
+M. septicum
+
+
+=== Nhóm Mycobacterium mucogenicum ===
+Mycobacterium aubagnese
+M. mucogenicum
+Mycobacterium phocaicum
+
+
+=== Nhóm Mycobacterium parafortuitum ===
+M. austroafricanum
+M. diernhoferi
+M. frederiksbergense
+M. hodleri
+M. neoaurum
+M. parafortuitum
+
+
+=== Nhóm Mycobacterium vaccae ===
+M. aurum
+M. vaccae
+
+
+== CF ==
+M. chitae
+M. fallax
+
+
+== Không phân nhóm ==
+M. agri
+M. aichiense
+M. alvei
+M. arupense
+M. barrassiae
+M. brumae
+M. canariasense
+M. chubuense
+M. conceptionense
+M. confluentis
+M. duvalii
+M. elephantis
+M. flavescens
+M. gadium
+M. gilvum
+M. hassiacum
+M. holsaticum
+M. iranicum
+M. komossense
+M. madagascariense
+M. massilipolynesiensis
+M. moriokaense
+M. obuense
+M. phlei
+M. psychrotolerans
+M. pulveris
+M. pyrenivorans
+M. smegmatis
+M. goodii
+M. wolinskyi
+M. sphagni
+M. thermoresistibile
+M. vanbaalenii
+
+
+== Tiến hóa ==
+M. ulcerans tiến hóa từ M. marinum.
+
+
+== Tham khảo ==

@@ -1,0 +1,14 @@
+Kỹ năng phân tích là khả năng để hình dung, làm rõ, khái niệm hóa cả các vấn đề phức tạp và đơn giản bằng cách đưa ra các quyết định hợp lý cho các thông tin sẵn có. Những kỹ năng đó bao gồm trình diễn của những khả năng để áp dụng tư duy logic để phá vỡ những vấn đề phức tạp thành các bộ phận cấu thành của chúng..
+Năm 1999, Richards J. Heuer Jr., giải thích rằng: "Tư duy phân tích là một kỹ năng như nghề mộc hoặc lái xe. Nó có thể được dạy, nó có thể học được, và nó có thể cải thiện bằng cách thực hành. Nhưng cũng giống như nhiều kỹ năng khác, như cưỡi xe đạp, nó không được học bằng cách ngồi trong lớp học và được bảo làm thế nào để làm điều đó. Các nhà phân tích học bằng cách làm."
+Để kiểm tra các kỹ năng phân tích, người ta có thể được yêu cầu tìm kiếm tính thiếu nhất quán trong một quảng cáo, đặt một loạt các sự kiện theo thứ tự thích hợp hoặc đọc một bài phê bình một cách nghiêm túc.. Thông thường các bài kiểm tra và phỏng vấn chuẩn hóa bao gồm một phần phân tích yêu cầu người kiểm tra sử dụng logic của họ để tách rời một vấn đề và đưa ra một giải pháp.
+Mặc dù kỹ năng phân tích là cần thiết, các kỹ năng khác cũng vậy. Ví dụ trong phân tích hệ thống, các nhà phân tích hệ thống nên tập trung vào bốn bộ kỹ năng phân tích:
+
+Tư duy hệ thống
+Tri thức tổ chức,
+Xác định vấn đề, và
+Phân tích và giải quyết vấn đề
+
+
+== Tham khảo ==
+
+. doi:10.2307/493262.

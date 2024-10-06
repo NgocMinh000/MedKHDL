@@ -1,0 +1,27 @@
+Bộ nhớ flash là một loại bộ nhớ máy tính kiểu bộ nhớ điện tĩnh (non-volative memory), có thể bị xóa và lập trình lại (reprogrammed).
+Về mặt kỹ thuật thì bộ nhớ flash có thể được dùng như một loại EEPROM mà ở đó nó có thể được đọc/ghi bằng điện và không mất dữ liệu khi ngừng cung cấp điện. Có 2 kiểu bộ nhớ flash chính đã được tạo ra là NAND và NOR được cấu thành từ các cổng logic. Bộ nhớ flash được cấu thành từ các phần tử (cell) nhớ riêng rẽ với các đặc tính bên trong giống như những cổng logic tương ứng đã tạo ra nó; do đó, ta có thể thực hiện thao tác đọc/ ghi, lưu trữ dữ liệu theo từng phần tử (cell) nhớ một.
+Khác với các bộ nhớ EPROMs phải được xóa trước khi được ghi lại, thì bộ nhớ flash kiểu cổng NAND có thể được ghi và đọc theo từng khối (block) hoặc trang (page) nhớ, còn bộ nhớ flash kiểu cổng NOR thì có thể được đọc hoặc ghi một cách độc lập theo từng từ (word) hoặc byte nhớ của máy.
+Các chip nhớ flash nhỏ được sử dụng trong bộ nhớ dữ liệu cấu hình tĩnh của máy tính, trong máy dân dụng như tivi, quạt,... Các chip lớn thì dùng trong máy nghe nhạc kĩ thuật số, máy ảnh kĩ thuật số, điện thoại di động. Nó cũng được sử dụng trên các máy trò chơi, thay thế cho EEPROM, hoặc cho RAM tĩnh nuôi bằng pin để lưu dữ liệu của trò chơi.
+Phổ thông nhất chính là thẻ nhớ và ổ USB flash để lưu trữ và truyền dữ liệu giữa các máy tính và các thiết bị kỹ thuật số khác.
+
+
+== Lịch sử ==
+Bộ nhớ flash được Toshiba đưa ra năm 1984 làm EEPROM, cho phép đọc ghi từng byte khác với các EPROM tiền nhiệm .
+
+
+== So sánh với các bộ nhớ khác ==
+
+
+== Xem thêm ==
+Ổ USB
+Linh kiện bán dẫn
+Mạch tích hợp
+Linh kiện điện tử
+Ký hiệu điện tử
+Sơ đồ mạch điện
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

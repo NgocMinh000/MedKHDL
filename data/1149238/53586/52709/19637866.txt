@@ -1,0 +1,243 @@
+Giao thức định tuyến OSPF (OSPF) là một giao thức định tuyến cho các mạng Giao thức Internet (IP). Nó sử dụng thuật toán định tuyến trạng thái liên kết (LSR) và nằm trong nhóm các giao thức cổng nội bộ (IGP), hoạt động trong một hệ thống tự trị duy nhất (AS). Nó được định nghĩa là OSPF Phiên bản 2 trong RFC 2328 (1998) cho IPv4. Các bản cập nhật cho IPv6 được chỉ định là OSPF Phiên bản 3 trong RFC 5340 (2008). OSPF hỗ trợ mô hình định tuyến liên miền không phân lớp (CIDR). OSPF là một IGP được sử dụng rộng rãi trong các mạng doanh nghiệp lớn. IS-IS, một giao thức khác dựa trên LSR, phổ biến hơn trong các mạng nhà cung cấp dịch vụ lớn.
+
+
+== Hoạt động ==
+
+OSPF được thiết kế như một giao thức cổng nội bộ (IGP), để sử dụng trong một hệ thống tự trị như mạng cục bộ (LAN). Nó thực hiện thuật toán Dijkstra, còn được gọi là thuật toán đường đi ngắn nhất (SPF). Là một giao thức định tuyến trạng thái liên kết, nó dựa trên thuật toán trạng thái liên kết được phát triển cho ARPANET vào năm 1980 và giao thức định tuyến IS-IS. OSPF lần đầu tiên được chuẩn hóa vào năm 1989 với tên gọi RFC 1131, hiện được gọi là OSPF phiên bản 1. Công việc phát triển OSPF trước khi được mã hóa thành tiêu chuẩn mở được thực hiện phần lớn bởi Digital Equipment Corporation, công ty đã phát triển các giao thức DECnet độc quyền của riêng mình.
+Các giao thức định tuyến như OSPF tính toán đường đi ngắn nhất đến đích thông qua mạng dựa trên một thuật toán. Giao thức định tuyến đầu tiên được triển khai rộng rãi, Routing Information Protocol (RIP), tính toán đường đi ngắn nhất dựa trên số bước nhảy, đó là số lượng bộ định tuyến mà một gói IP phải đi qua để đến được máy chủ đích. RIP đã thực hiện thành công định tuyến động, trong đó các bảng định tuyến thay đổi nếu cấu trúc liên kết mạng thay đổi. Nhưng RIP đã không điều chỉnh định tuyến của nó theo các điều kiện mạng thay đổi, chẳng hạn như tốc độ truyền dữ liệu. Nhu cầu ngày càng tăng đối với một giao thức định tuyến động có thể tính toán tuyến đường nhanh nhất đến đích. OSPF được phát triển sao cho đường đi ngắn nhất qua mạng được tính toán dựa trên chi phí của đường đi, có tính đến băng thông, độ trễ và tải. Do đó, OSPF đảm nhận việc tính toán chi phí tuyến đường trên cơ sở các tham số chi phí liên kết, có thể được quản trị viên quan tâm. OSPF nhanh chóng được thông qua vì nó được biết đến với khả năng tính toán các tuyến đường một cách đáng tin cậy thông qua các mạng cục bộ lớn và phức tạp.
+Là một giao thức định tuyến trạng thái liên kết, OSPF duy trì cơ sở dữ liệu trạng thái liên kết, thực sự là bản đồ cấu trúc liên kết mạng, trên mọi bộ định tuyến mà nó được triển khai. Trạng thái của một tuyến đường nhất định trong mạng là chi phí và thuật toán OSPF cho phép mọi bộ định tuyến tính toán chi phí của các tuyến đường đến bất kỳ điểm đến có thể truy cập nhất định nào. Trừ khi người quản trị đã tạo cấu hình, chi phí liên kết của đường dẫn kết nối với bộ định tuyến được xác định bởi tốc độ bit (1 Gbit/giây, 10 Gbit/giây, v.v.) của giao diện. Sau đó, một giao diện bộ định tuyến với OSPF sẽ quảng cáo chi phí liên kết của nó với các bộ định tuyến lân cận thông qua phát đa hướng, được gọi là thủ tục hello. Tất cả các bộ định tuyến có triển khai OSPF tiếp tục gửi các gói tin chào và do đó các thay đổi về chi phí liên kết của chúng được các bộ định tuyến lân cận biết đến. Thông tin về chi phí của một liên kết, đó là tốc độ của kết nối điểm tới điểm giữa hai bộ định tuyến, sau đó được truyền thông qua mạng bởi vì các bộ định tuyến OSPF quảng cáo thông tin mà chúng nhận được từ một bộ định tuyến lân cận đến tất cả các bộ định tuyến lân cận khác. Quá trình ngập lụt liên kết thông tin trạng thái thông qua mạng được gọi là đồng bộ hóa. Dựa trên thông tin này, tất cả các bộ định tuyến có triển khai OSPF liên tục cập nhật cơ sở dữ liệu trạng thái liên kết của chúng với thông tin về cấu trúc liên kết mạng và điều chỉnh bảng định tuyến của chúng.
+Một mạng OSPF có thể được cấu trúc hoặc chia nhỏ thành các khu vực định tuyến để đơn giản hóa việc quản trị và tối ưu hóa lưu lượng và sử dụng tài nguyên. Các khu vực được xác định bằng các số 32 bit, được thể hiện đơn giản bằng số thập phân hoặc thường bằng ký hiệu dấu chấm-thập phân được sử dụng cho địa chỉ IPv4. Theo quy ước, vùng 0 (không) hoặc 0.0.0.0, đại diện cho vùng lõi hoặc đường trục của mạng OSPF. Trong khi danh tính của các khu vực khác có thể được lựa chọn theo ý muốn; quản trị viên thường chọn địa chỉ IP của bộ định tuyến chính trong một khu vực làm định danh khu vực. Mỗi khu vực bổ sung phải có kết nối với khu vực xương sống OSPF. Các kết nối như vậy được duy trì bởi một bộ định tuyến kết nối, được gọi là bộ định tuyến khu vực lân cận (ABR). ABR duy trì cơ sở dữ liệu trạng thái liên kết riêng biệt cho từng khu vực mà nó phục vụ và duy trì các tuyến đường tóm tắt cho tất cả các khu vực trong mạng.
+OSPF phát hiện các thay đổi trong cấu trúc liên kết, chẳng hạn như lỗi liên kết và hội tụ trên một cấu trúc định tuyến không vòng lặp mới trong vòng vài giây.
+OSPF đã trở thành một giao thức định tuyến động phổ biến. Các giao thức định tuyến động thường được sử dụng khác là RIPv2 và Border Gateway Protocol (BGP). Ngày nay, các bộ định tuyến hỗ trợ ít nhất một giao thức cổng nội bộ để quảng cáo bảng định tuyến của chúng trong mạng cục bộ. Các giao thức cổng nội bộ được triển khai thường xuyên bên cạnh OSPF là RIPv2, IS-IS và EIGRP (Giao thức định tuyến cổng bên trong nâng cao).
+
+
+== Các mối quan hệ của bộ định tuyến ==
+OSPF hỗ trợ các mạng phức tạp với nhiều bộ định tuyến, bao gồm bộ định tuyến dự phòng, để cân bằng tải lưu lượng trên nhiều liên kết đến các mạng con khác. Các bộ định tuyến lân cận trong cùng một miền quảng bá hoặc ở mỗi đầu của một liên kết điểm-điểm giao tiếp với nhau thông qua giao thức OSPF. Các bộ định tuyến hình thành các bộ định tuyến khi chúng phát hiện ra nhau. Việc phát hiện này được bắt đầu khi một bộ định tuyến xác định chính nó trong gói giao thức Hello. Khi được thừa nhận, điều này thiết lập một trạng thái hai chiều và mối quan hệ cơ bản nhất. Các bộ định tuyến trong mạng Ethernet hoặc Frame Relay chọn bộ định tuyến được chỉ định (DR) và bộ định tuyến được chỉ định dự phòng (BDR) hoạt động như một trung tâm để giảm lưu lượng giữa các bộ định tuyến. OSPF sử dụng cả hai chế độ truyền unicast và multicast để gửi gói tin "Xin chào" và cập nhật trạng thái liên kết.
+Là một giao thức định tuyến trạng thái liên kết, OSPF thiết lập và duy trì các mối quan hệ lân cận để trao đổi các cập nhật định tuyến với các bộ định tuyến khác. Bảng quan hệ lân cận được gọi là cơ sở dữ liệu kề. Hai bộ định tuyến OSPF là khu vực lân cận của nhau nếu chúng là thành viên của cùng một mạng con và chia sẻ cùng một khu vực ID, mặt nạ mạng con, bộ định thời và xác thực. Về bản chất, quan hệ lân cận OSPF là mối quan hệ giữa hai bộ định tuyến cho phép chúng nhìn thấy và hiểu nhau chứ không có gì hơn. Các khu vực lân cận của OSPF không trao đổi bất kỳ thông tin định tuyến nào - các gói duy nhất mà họ trao đổi là gói Hello. OSPF adjacencies được hình thành giữa các lân cận được chọn và cho phép họ trao đổi thông tin định tuyến. Hai bộ định tuyến trước tiên phải là khu vực lân cận của nhau và chỉ sau đó, chúng mới có thể trở nên liền kề. Hai bộ định tuyến trở nên liền kề nếu ít nhất một trong số chúng là bộ định tuyến được chỉ định hoặc bộ định tuyến được chỉ định dự phòng (trên mạng loại đa truy cập) hoặc chúng được kết nối với nhau theo kiểu mạng điểm-điểm hoặc điểm-đa điểm. Để hình thành mối quan hệ lân cận giữa, các giao diện được sử dụng để hình thành mối quan hệ phải nằm trong cùng một khu vực OSPF. Mặc dù một giao diện có thể được cấu hình để thuộc nhiều lĩnh vực, nhưng điều này thường không được thực hiện. Khi được định cấu hình trong khu vực thứ hai, một giao diện phải được định cấu hình làm giao diện phụ.
+
+
+=== Máy trạng thái liền kề ===
+Mỗi bộ định tuyến OSPF trong một mạng giao tiếp với các bộ định tuyến lân cận khác trên mỗi giao diện kết nối để thiết lập trạng thái của tất cả các vùng lân cận. Mỗi chuỗi giao tiếp như vậy là một cuộc hội thoại riêng biệt được xác định bởi cặp ID bộ định tuyến của các khu vực lân cận giao tiếp. RFC 2328 chỉ định giao thức để bắt đầu các cuộc hội thoại này (Giao thức Hello) và để thiết lập các bổ trợ đầy đủ (Gói mô tả cơ sở dữ liệu, Gói yêu cầu trạng thái liên kết). Trong suốt quá trình của nó, mỗi cuộc trò chuyện của bộ định tuyến chuyển đổi qua tối đa tám điều kiện được xác định bởi máy trạng thái:
+
+Down: Trạng thái xuống thể hiện trạng thái ban đầu của cuộc hội thoại khi không có thông tin nào được trao đổi và lưu giữ giữa các bộ định tuyến với Giao thức Hello.
+Attempt: Trạng thái Attempt tương tự như trạng thái Down, ngoại trừ việc một bộ định tuyến đang trong quá trình cố gắng thiết lập một cuộc trò chuyện với một bộ định tuyến khác, nhưng chỉ được sử dụng trên mạng NBMA.
+Init: Trạng thái Init chỉ ra rằng một gói HELLO đã được nhận từ một khu vực lân cận, nhưng bộ định tuyến đã không thiết lập một cuộc trò chuyện hai chiều.
+2 chiều: Trạng thái 2 chiều cho biết việc thiết lập cuộc trò chuyện hai chiều giữa hai bộ định tuyến. Trạng thái này ngay lập tức trước khi thiết lập điều kiện kề cận. Đây là trạng thái thấp nhất của bộ định tuyến có thể được coi là bộ định tuyến được chỉ định.
+ExStart: Trạng thái ExStart là bước đầu tiên của quá trình kề nhau của hai bộ định tuyến.
+Exchange: Trong trạng thái Exchange, một bộ định tuyến đang gửi thông tin cơ sở dữ liệu trạng thái liên kết của nó đến khu vực lân cận. Ở trạng thái này, một bộ định tuyến có thể trao đổi tất cả các gói giao thức định tuyến OSPF.
+Đang tải: Ở trạng thái Đang tải, một bộ định tuyến yêu cầu các quảng cáo trạng thái liên kết (LSA) gần đây nhất từ ​​khu vực lân cận được phát hiện ở trạng thái trước đó.
+Đầy đủ: Trạng thái Đầy đủ kết thúc cuộc hội thoại khi các bộ định tuyến hoàn toàn liền kề và trạng thái xuất hiện trong tất cả các LSA của bộ định tuyến và mạng. Cơ sở dữ liệu trạng thái liên kết lân cận được đồng bộ hóa hoàn toàn.
+
+
+=== Tin nhắn OSPF ===
+Không giống như các giao thức định tuyến khác, OSPF không mang dữ liệu qua một giao thức truyền tải, chẳng hạn như Giao thức Dữ liệu Người dùng (UDP) hoặc Giao thức Điều khiển Truyền (TCP). Thay vào đó, OSPF tạo trực tiếp các biểu đồ IP, đóng gói chúng bằng cách sử dụng giao thức số 89 cho trường Giao thức IP. OSPF định nghĩa năm kiểu thông báo khác nhau, cho nhiều kiểu giao tiếp khác nhau:
+
+
+==== Hello ====
+Thông báo Hello được sử dụng như một hình thức chào, để cho phép một bộ định tuyến khám phá các bộ định tuyến lân cận khác trên các liên kết và mạng cục bộ của nó. Các thông điệp thiết lập mối quan hệ giữa các thiết bị lân cận (được gọi là adjacencies) và truyền đạt các thông số chính về cách OSPF sẽ được sử dụng trong hệ thống hoặc khu vực tự trị. Trong quá trình hoạt động bình thường, các bộ định tuyến gửi tin nhắn xin chào đến khu vực lân cận của chúng theo các khoảng thời gian đều đặn (khoảng thời gian chào); nếu một bộ định tuyến ngừng nhận tin nhắn chào từ một khu vực lân cận, sau một khoảng thời gian đã đặt (khoảng thời gian chết), bộ định tuyến sẽ cho rằng khu vực lân cận đó đã ngừng hoạt động.
+
+
+==== Mô tả cơ sở dữ liệu (DBD) ====
+Thông báo mô tả cơ sở dữ liệu chứa các mô tả về cấu trúc liên kết của hệ thống hoặc khu vực tự trị. Chúng truyền tải nội dung của cơ sở dữ liệu trạng thái liên kết (LSDB) cho khu vực từ bộ định tuyến này sang bộ định tuyến khác. Giao tiếp một LSDB lớn có thể yêu cầu gửi một số thông báo bằng cách đặt thiết bị gửi được chỉ định là thiết bị chính và gửi các thông báo theo trình tự, với thiết bị phụ (người nhận thông tin LSDB) phản hồi bằng các xác nhận.
+
+
+==== Yêu cầu trạng thái liên kết (LSR) ====
+Thông báo yêu cầu trạng thái liên kết được một bộ định tuyến sử dụng để yêu cầu thông tin cập nhật về một phần LSDB từ bộ định tuyến khác. Thông báo chỉ định (các) liên kết mà thiết bị yêu cầu muốn có thêm thông tin mới nhất.
+
+
+==== Cập nhật trạng thái liên kết (LSU) ====
+Thông báo cập nhật trạng thái liên kết chứa thông tin cập nhật về trạng thái của các liên kết nhất định trên LSDB. Chúng được gửi để phản hồi thông báo Yêu cầu trạng thái liên kết và cũng được các bộ định tuyến truyền phát hoặc phát đa hướng một cách thường xuyên. Nội dung của chúng được sử dụng để cập nhật thông tin trong LSDB của các bộ định tuyến nhận chúng.
+
+
+==== Xác nhận trạng thái liên kết (LSAck) ====
+Thông báo xác nhận trạng thái liên kết cung cấp độ tin cậy cho quá trình trao đổi trạng thái liên kết, bằng cách xác nhận rõ ràng đã nhận thông báo Cập nhật trạng thái liên kết.
+
+
+== Khu vực OSPF ==
+Một mạng OSPF có thể được chia thành các khu vực là các nhóm hợp lý của các máy chủ và mạng. Một khu vực bao gồm bộ định tuyến kết nối của nó có các giao diện được kết nối với mạng. Mỗi khu vực duy trì một cơ sở dữ liệu trạng thái liên kết riêng biệt mà thông tin của nó có thể được bộ định tuyến kết nối tóm tắt về phần còn lại của mạng. Do đó, cấu trúc liên kết của một khu vực là không xác định bên ngoài khu vực. Điều này làm giảm lưu lượng định tuyến giữa các bộ phận của hệ thống tự trị.
+OSPF có thể xử lý hàng nghìn bộ định tuyến với mối quan tâm nhiều hơn là đạt đến dung lượng của bảng cơ sở thông tin chuyển tiếp (FIB) khi mạng chứa nhiều tuyến và các thiết bị cấp thấp hơn. Các bộ định tuyến cấp thấp hiện đại có RAM đầy đủ GB cho phép chúng xử lý nhiều bộ định tuyến trong một khu vực 0. Nhiều tài nguyên tham khảo hướng dẫn OSPF từ hơn 20 năm trước, nơi ấn tượng là có 64 MB RAM.
+Các khu vực được xác định duy nhất bằng các số 32 bit. Số nhận dạng khu vực thường được viết bằng ký hiệu dấu chấm-thập phân, quen thuộc với địa chỉ IPv4. Tuy nhiên, chúng không phải là địa chỉ IP và có thể trùng lặp, không có xung đột, bất kỳ địa chỉ IPv4 nào. Số nhận dạng khu vực cho việc triển khai IPv6 (OSPFv3) cũng sử dụng số nhận dạng 32 bit được viết trong cùng một ký hiệu. Khi định dạng dấu chấm bị bỏ qua, hầu hết các triển khai đều mở rộng vùng 1 thành số nhận dạng vùng 0.0.0.1, nhưng một số đã được biết là mở rộng nó thành 1.0.0.0.
+OSPF xác định một số kiểu khu vực đặc biệt:
+
+
+=== Khu vực xương sống ===
+Khu vực xương sống (còn được gọi là khu vực 0 hoặc khu vực 0.0.0.0) tạo thành lõi của mạng OSPF. Tất cả các khu vực khác được kết nối với nó, trực tiếp hoặc thông qua các bộ định tuyến khác. Định tuyến giữa các khu vực xảy ra thông qua các bộ định tuyến được kết nối với khu vực đường trục và đến các khu vực liên kết của chính chúng. Nó là cấu trúc logic và vật lý cho 'miền OSPF' và được gắn với tất cả các vùng khác không trong miền OSPF. Lưu ý rằng trong OSPF, thuật ngữ bộ định tuyến ranh giới hệ thống tự trị (ASBR) có tính lịch sử, theo nghĩa là nhiều miền OSPF có thể cùng tồn tại trong cùng một hệ thống tự quản có thể nhìn thấy trên Internet, RFC 1996.
+Vùng đường trục có nhiệm vụ phân phối thông tin định tuyến giữa các vùng không đường trục. Đường trục phải liền kề, nhưng nó không cần phải tiếp giáp về mặt vật lý; kết nối xương sống có thể được thiết lập và duy trì thông qua cấu hình của các liên kết ảo.
+Tất cả các khu vực OSPF phải kết nối với khu vực đường trục. Tuy nhiên, kết nối này có thể thông qua một liên kết ảo. Ví dụ: giả sử khu vực 0.0.0.1 có kết nối vật lý với khu vực 0.0.0.0. Ngoài ra, giả sử rằng khu vực 0.0.0.2 không có kết nối trực tiếp với đường trục, nhưng khu vực này có kết nối với khu vực 0.0.0.1. Khu vực 0.0.0.2 có thể sử dụng liên kết ảo thông qua khu vực trung chuyển 0.0.0.1 để đến đường trục. Để trở thành một khu vực chuyển tuyến, một khu vực phải có thuộc tính chuyển tuyến, vì vậy nó không thể mập mờ theo bất kỳ cách nào.
+
+
+=== Khu vực thường xuyên ===
+Một khu vực thông thường chỉ là một khu vực không phải đường trục (nonzero) không có tính năng cụ thể, tạo và nhận tóm tắt và các LSA bên ngoài. Khu vực xương sống là một loại đặc biệt của khu vực như vậy.
+
+
+=== Khu vực chuyển tuyến ===
+Khu vực chuyển tuyến là khu vực có hai hoặc nhiều bộ định tuyến ranh giới OSPF và được sử dụng để chuyển lưu lượng mạng từ khu vực lân cận này sang khu vực lân cận khác. Khu vực chuyển tuyến không bắt nguồn giao thông này và không phải là điểm đến của giao thông đó. Khu vực đường trục là một loại khu vực trung chuyển đặc biệt.
+
+
+=== Khu vực sơ khai ===
+Khu vực sơ khai là khu vực không nhận quảng cáo tuyến đường bên ngoài AS và việc định tuyến từ bên trong khu vực này hoàn toàn dựa trên tuyến đường mặc định. ABR xóa loại 4, 5 LSA khỏi các bộ định tuyến nội bộ, gửi cho chúng một tuyến mặc định là 0.0.0.0 và tự biến nó thành một cổng mặc định. Điều này làm giảm LSDB và kích thước bảng định tuyến cho các bộ định tuyến nội bộ.
+Các sửa đổi đối với khái niệm cơ bản về khu vực sơ khai đã được thực hiện bởi các nhà cung cấp hệ thống, chẳng hạn như khu vực hoàn toàn sơ khai (TSA) và khu vực không sơ khai (NSSA), cả hai đều là một phần mở rộng trong thiết bị định tuyến của Hệ thống Cisco.
+
+
+==== Khu vực không sơ khai ====
+Khu vực không sơ khai (NSSA) là một loại khu vực sơ khai có thể nhập các tuyến đường bên ngoài của hệ thống tự trị và gửi chúng đến các khu vực khác, nhưng vẫn không thể nhận các tuyến đường bên ngoài AS từ các khu vực khác. NSSA là một phần mở rộng của tính năng vùng cuống cho phép tiêm các tuyến bên ngoài vào vùng cuống một cách hạn chế. Một nghiên cứu điển hình mô phỏng một NSSA đang giải quyết vấn đề khu vực sơ khai là không thể nhập địa chỉ bên ngoài. Nó hình dung các hoạt động sau: ASBR nhập các địa chỉ bên ngoài với LSA loại 7, ABR chuyển đổi LSA loại 7 thành loại 5 và chuyển nó đến các khu vực khác, ABR hoạt động như một "ASBR" cho các khu vực khác. Các ASBR không sử dụng LSA loại 5 và sau đó chuyển đổi sang LSA loại 7 cho khu vực.
+
+
+==== Phần mở rộng độc quyền ====
+Một số nhà cung cấp (Cisco, Allied Telesis, Juniper, Alcatel-Lucent, Huawei, Quagga), triển khai hai phần mở rộng bên dưới cho các khu vực còn sơ khai và không quá sơ khai. Mặc dù không nằm trong các tiêu chuẩn RFC, nhưng chúng được nhiều người coi là các tính năng tiêu chuẩn trong việc triển khai OSPF.
+
+
+==== Khu vực hoàn toàn sơ khai ====
+Một khu vực hoàn toàn sơ khai tương tự như một khu vực sơ khai. Tuy nhiên, khu vực này không cho phép các tuyến đường tóm tắt ngoài việc không có các tuyến đường bên ngoài, tức là các tuyến đường liên khu vực (IA) không được tổng hợp thành các khu vực hoàn toàn sơ khai. Cách duy nhất để lưu lượng truy cập được định tuyến bên ngoài khu vực là một tuyến đường mặc định là LSA Loại 3 duy nhất được quảng cáo vào khu vực. Khi chỉ có một tuyến đường ra khỏi khu vực, bộ xử lý tuyến đường phải đưa ra ít quyết định định tuyến hơn, điều này làm giảm việc sử dụng tài nguyên hệ thống.
+Đôi khi, người ta nói rằng TSA chỉ có thể có một ABR.
+
+
+==== Khu vực hoàn toàn sơ khai NSSA ====
+Ngoài chức năng tiêu chuẩn của NSSA, NSSA hoàn toàn sơ khai là một NSSA đảm nhận các thuộc tính của TSA, có nghĩa là các tuyến tóm tắt loại 3 và 4 không bị ngập vào loại khu vực này. Cũng có thể khai báo một khu vực cả hoàn toàn sơ khai và không quá sơ khai, có nghĩa là khu vực đó sẽ chỉ nhận được tuyến mặc định từ khu vực 0.0.0.0, nhưng cũng có thể chứa một bộ định tuyến ranh giới hệ thống tự trị (ASBR) chấp nhận bên ngoài định tuyến thông tin và đưa nó vào khu vực cục bộ, và từ khu vực cục bộ vào khu vực 0.0.0.0.
+Việc phân phối lại vào một khu vực NSSA tạo ra một loại LSA đặc biệt được gọi là loại 7, chỉ có thể tồn tại trong một khu vực NSSA. NSSA ASBR tạo LSA này và bộ định tuyến NSSA ABR chuyển nó thành LSA loại 5 được truyền vào miền OSPF.
+Một công ty con mới được mua lại là một ví dụ về nơi nó có thể phù hợp với một khu vực đồng thời không quá sơ khai và hoàn toàn mập mạp nếu nơi thực tế để đặt một ASBR nằm ở rìa của một khu vực hoàn toàn sơ khai. Trong trường hợp như vậy, ASBR thực sự gửi các thiết bị bên ngoài vào khu vực hoàn toàn sơ khai và chúng có sẵn cho các loa OSPF trong khu vực đó. Trong cách triển khai của Cisco, các tuyến bên ngoài có thể được tóm tắt trước khi đưa chúng vào vùng hoàn toàn sơ khai. Nói chung, ASBR không nên quảng cáo mặc định vào TSA-NSSA, mặc dù điều này có thể hoạt động với thiết kế và vận hành cực kỳ cẩn thận, đối với một số trường hợp đặc biệt hạn chế mà quảng cáo như vậy có ý nghĩa.
+Bằng cách khai báo khu vực hoàn toàn sơ khai là NSSA, không có tuyến đường bên ngoài nào từ đường trục, ngoại trừ tuyến đường mặc định, đi vào khu vực đang được thảo luận. Các phần tử bên ngoài tiếp cận khu vực 0.0.0.0 thông qua TSA-NSSA, nhưng không có tuyến đường nào khác ngoài tuyến đường mặc định đi vào TSA-NSSA. Các bộ định tuyến trong TSA-NSSA gửi tất cả lưu lượng đến ABR, ngoại trừ các tuyến được ASBR quảng cáo.
+
+
+== Các loại bộ định tuyến ==
+OSPF xác định các loại bộ định tuyến chồng chéo sau:
+
+
+=== Bộ định tuyến nội bộ (IR) ===
+Một bộ định tuyến nội bộ có tất cả các giao diện của nó thuộc cùng một khu vực.
+
+
+=== Bộ định tuyến ranh giới khu vực (ABR) ===
+Bộ định tuyến ranh giới khu vực là bộ định tuyến kết nối một hoặc nhiều khu vực với mạng đường trục chính. Nó được coi là một thành viên của tất cả các lĩnh vực mà nó được kết nối. ABR lưu giữ nhiều phiên bản của cơ sở dữ liệu trạng thái liên kết trong bộ nhớ, một phiên bản cho mỗi khu vực mà bộ định tuyến đó được kết nối.
+
+
+=== Bộ định tuyến đường trục (BR) ===
+Một bộ định tuyến đường trục có giao diện với khu vực đường trục. Bộ định tuyến đường trục cũng có thể là bộ định tuyến khu vực, nhưng không nhất thiết phải như vậy.
+
+
+=== Bộ định tuyến ranh giới hệ thống tự trị (ASBR) ===
+Bộ định tuyến ranh giới hệ thống tự trị là bộ định tuyến được kết nối bằng cách sử dụng nhiều hơn một giao thức định tuyến và trao đổi thông tin định tuyến với các hệ thống tự trị của bộ định tuyến. ASBR thường cũng chạy giao thức định tuyến bên ngoài (ví dụ: BGP) hoặc sử dụng các tuyến tĩnh hoặc cả hai. ASBR được sử dụng để phân phối các tuyến nhận được từ các AS bên ngoài khác trong toàn bộ hệ thống tự trị của chính nó. ASBR tạo LSA bên ngoài cho các địa chỉ bên ngoài và đưa chúng đến tất cả các khu vực thông qua ABR. Các bộ định tuyến ở các khu vực khác sử dụng ABR làm bước nhảy tiếp theo để truy cập các địa chỉ bên ngoài. Sau đó, ABR chuyển tiếp các gói đến ASBR thông báo các địa chỉ bên ngoài.
+Loại bộ định tuyến là một thuộc tính của quá trình OSPF. Một bộ định tuyến vật lý nhất định có thể có một hoặc nhiều quy trình OSPF. Ví dụ: một bộ định tuyến được kết nối với nhiều khu vực và nhận các tuyến đường từ một quá trình BGP được kết nối với một AS khác, vừa là bộ định tuyến ranh giới khu vực vừa là bộ định tuyến biên hệ thống tự trị.
+Mỗi bộ định tuyến có một số nhận dạng, thường được viết ở định dạng dấu chấm-thập phân (ví dụ: 1.2.3.4) của địa chỉ IP. Mã định danh này phải được thiết lập trong mọi phiên bản OSPF. Nếu không được định cấu hình rõ ràng, địa chỉ IP logic cao nhất sẽ bị trùng lặp làm định danh bộ định tuyến. Tuy nhiên, vì định danh bộ định tuyến không phải là địa chỉ IP nên nó không phải là một phần của bất kỳ mạng con có thể định tuyến nào trong mạng và thường không tránh được nhầm lẫn.
+
+
+== Thuộc tính bộ định tuyến ==
+Ngoài bốn loại bộ định tuyến, OSPF sử dụng các thuật ngữ bộ định tuyến được chỉ định (DR) và bộ định tuyến được chỉ định dự phòng (BDR), là các thuộc tính của giao diện bộ định tuyến.
+
+
+=== Bộ định tuyến được chỉ định ===
+Một bộ định tuyến được chỉ định (DR) là giao diện bộ định tuyến được chọn trong số tất cả các bộ định tuyến trên một phân đoạn mạng đa truy cập cụ thể, thường được giả định là đa truy cập quảng bá. Các kỹ thuật đặc biệt, thường phụ thuộc vào nhà cung cấp, có thể cần thiết để hỗ trợ chức năng DR trên phương tiện đa truy cập không quảng bá (NBMA). Thông thường nên cấu hình các mạch ảo riêng lẻ của mạng con NBMA dưới dạng các đường điểm-điểm riêng lẻ; các kỹ thuật được sử dụng phụ thuộc vào việc triển khai.
+
+
+=== Sao lưu bộ định tuyến được chỉ định ===
+Bộ định tuyến được chỉ định dự phòng (BDR) là bộ định tuyến sẽ trở thành bộ định tuyến được chỉ định nếu bộ định tuyến được chỉ định hiện tại gặp sự cố hoặc bị lỗi. BDR là bộ định tuyến OSPF có mức độ ưu tiên cao thứ hai tại thời điểm bầu cử cuối cùng.
+Một bộ định tuyến nhất định có thể có một số giao diện được chỉ định (DR) và những giao diện khác được chỉ định dự phòng (BDR) và những giao diện khác không được chỉ định. Nếu không có bộ định tuyến nào là DR hoặc BDR trên một mạng con nhất định, thì BDR được bầu trước tiên, và sau đó cuộc bầu cử thứ hai được tổ chức cho DR.75 DR được bầu dựa trên các tiêu chí mặc định sau:
+
+Nếu cài đặt ưu tiên trên bộ định tuyến OSPF được đặt thành 0, điều đó có nghĩa là nó không bao giờ có thể trở thành DR hoặc BDR.
+Khi một DR thất bại và BDR tiếp quản, sẽ có một cuộc bầu cử khác để xem ai sẽ trở thành BDR thay thế.
+Bộ định tuyến gửi gói Hello có mức ưu tiên cao nhất sẽ thắng cuộc bầu cử.
+Nếu hai hoặc nhiều bộ định tuyến liên kết với cài đặt ưu tiên cao nhất, bộ định tuyến gửi Hello có RID (ID bộ định tuyến) cao nhất sẽ thắng. LƯU Ý: RID là địa chỉ IP logic (lặp lại) cao nhất được định cấu hình trên bộ định tuyến, nếu không có địa chỉ IP logic/lặp lại nào được đặt thì bộ định tuyến sử dụng địa chỉ IP cao nhất được định cấu hình trên các giao diện đang hoạt động của nó (ví dụ: 192.168.0.1 sẽ cao hơn 10.1.1.2).
+Thông thường, bộ định tuyến có số ưu tiên cao thứ hai sẽ trở thành BDR.
+Các giá trị ưu tiên nằm trong khoảng từ 0 - 255, với giá trị cao hơn sẽ làm tăng cơ hội trở thành DR hoặc BDR.
+Nếu bộ định tuyến OSPF có mức ưu tiên cao hơn trực tuyến sau khi cuộc bầu cử diễn ra, nó sẽ không trở thành DR hoặc BDR cho đến khi (ít nhất) DR và ​​BDR không thành công.
+Nếu DR hiện tại 'đi xuống' thì BDR hiện tại sẽ trở thành DR mới và một cuộc bầu cử mới sẽ diễn ra để tìm BDR khác. Nếu DR mới sau đó 'đi xuống' và DR ban đầu hiện có sẵn, BDR vẫn được chọn trước đó sẽ trở thành DR.
+DR tồn tại với mục đích giảm lưu lượng mạng bằng cách cung cấp nguồn cập nhật định tuyến. DR duy trì một bảng cấu trúc liên kết hoàn chỉnh của mạng và gửi các bản cập nhật đến các bộ định tuyến khác thông qua phát đa hướng. Tất cả các bộ định tuyến trong một phân đoạn mạng đa truy nhập sẽ hình thành mối quan hệ phụ / chủ với DR. Họ sẽ chỉ tạo thành các vùng bổ sung với DR và ​​BDR. Mỗi khi một bộ định tuyến gửi một bản cập nhật, nó sẽ gửi nó đến DR và ​​BDR trên địa chỉ multicast 224.0.0.6. DR sau đó sẽ gửi bản cập nhật đến tất cả các bộ định tuyến khác trong khu vực, tới địa chỉ phát đa hướng 224.0.0.5. Bằng cách này, tất cả các bộ định tuyến không phải cập nhật liên tục cho nhau và có thể nhận tất cả các bản cập nhật của chúng từ một nguồn duy nhất. Việc sử dụng đa hướng làm giảm tải mạng. DR và ​​BDR luôn được thiết lập / bầu chọn trên mạng quảng bá OSPF. DR cũng có thể được chọn trên mạng NBMA (Đa truy nhập không phát sóng) như Frame Relay hoặc ATM. DR hoặc BDR không được chọn trên các liên kết điểm-điểm (chẳng hạn như kết nối WAN điểm-điểm) vì hai bộ định tuyến ở hai bên của liên kết phải trở nên hoàn toàn liền kề và băng thông giữa chúng không thể được tối ưu hóa thêm. Các bộ định tuyến DR và ​​không phải DR phát triển từ mối quan hệ 2 chiều đến mối quan hệ kề cận đầy đủ bằng cách trao đổi DD, Yêu cầu và Cập nhật.
+
+
+== Chỉ số định tuyến ==
+OSPF sử dụng chi phí đường dẫn làm số liệu định tuyến cơ bản, được tiêu chuẩn xác định không tương đương với bất kỳ giá trị tiêu chuẩn nào như tốc độ, vì vậy nhà thiết kế mạng có thể chọn một số liệu quan trọng cho thiết kế. Trong thực tế, nó được xác định bằng cách so sánh tốc độ của giao diện với băng thông tham chiếu cho quá trình OSPF. Chi phí được xác định bằng cách chia băng thông tham chiếu cho tốc độ giao diện (mặc dù chi phí cho bất kỳ giao diện nào có thể được ghi đè theo cách thủ công). Nếu băng thông tham chiếu được đặt thành '10000', thì liên kết 10 Gbit / s sẽ có chi phí là 1. Bất kỳ tốc độ nào nhỏ hơn 1 đều được làm tròn thành 1. Dưới đây là bảng ví dụ hiển thị số liệu định tuyến hoặc 'tính toán chi phí trên một giao diện.
+
+OSPF là giao thức lớp 3: nếu một công tắc lớp 2 nằm giữa hai thiết bị đang chạy OSPF, một bên có thể thỏa thuận tốc độ khác với bên kia. Điều này có thể tạo ra một định tuyến không đối xứng trên liên kết (Bộ định tuyến 1 đến Bộ định tuyến 2 có thể có giá "1" và đường dẫn trả về có thể có giá "10"), điều này có thể dẫn đến hậu quả không mong muốn.
+Tuy nhiên, các chỉ số chỉ có thể so sánh trực tiếp khi cùng loại. Bốn loại chỉ số được công nhận. Theo mức độ ưu tiên giảm dần, các loại này là (ví dụ: một tuyến đường nội khu luôn được ưu tiên hơn một tuyến đường bên ngoài bất kể chỉ số nào):
+
+Nội khu
+Liên khu vực
+Loại bên ngoài 1, bao gồm cả chi phí đường dẫn bên ngoài và tổng chi phí đường dẫn nội bộ đối với ASBR quảng cáo tuyến đường
+Loại bên ngoài 2, giá trị của nó chỉ là giá trị của chi phí đường dẫn bên ngoài
+
+
+== OSPF v3 ==
+OSPF phiên bản 3 giới thiệu các sửa đổi đối với việc triển khai giao thức IPv4. Ngoại trừ các liên kết ảo, tất cả các trao đổi lân cận đều sử dụng địa chỉ liên kết cục bộ IPv6 độc quyền. Giao thức IPv6 chạy trên mỗi liên kết, thay vì dựa trên mạng con. Tất cả thông tin tiền tố IP đã bị xóa khỏi quảng cáo trạng thái liên kết và khỏi gói khám phá hello khiến OSPFv3 về cơ bản không phụ thuộc vào giao thức. Mặc dù địa chỉ IP được mở rộng lên 128-bit trong IPv6, việc nhận dạng khu vực và bộ định tuyến vẫn dựa trên số 32-bit.
+
+
+== Phần mở rộng OSPF ==
+
+
+=== Kỹ thuật truyền dẫn ===
+OSPF-TE là một phần mở rộng của OSPF mở rộng tính nhanh chóng để cho phép kỹ thuật lưu lượng và sử dụng trên các mạng không phải IP. Sử dụng OSPF-TE, có thể trao đổi thêm thông tin về cấu trúc liên kết bằng cách sử dụng LSA mờ đục mang theo các phần tử giá trị kiểu-chiều dài. Các phần mở rộng này cho phép OSPF-TE chạy hoàn toàn ngoài băng tần của mạng mặt phẳng dữ liệu. Điều này có nghĩa là nó cũng có thể được sử dụng trên các mạng không phải IP, chẳng hạn như mạng quang.
+OSPF-TE được sử dụng trong mạng GMPLS như một phương tiện để mô tả cấu trúc liên kết mà qua đó các đường dẫn GMPLS có thể được thiết lập. GMPLS sử dụng các giao thức chuyển tiếp và thiết lập đường dẫn của riêng nó, một khi nó có bản đồ mạng đầy đủ.
+Trong Giao thức dành riêng tài nguyên (RSVP), OSPF-TE được sử dụng để ghi và làm ngập băng thông đặt trước tín hiệu RSVP cho các đường chuyển mạch nhãn trong cơ sở dữ liệu trạng thái liên kết.
+
+
+=== Định tuyến quang học ===
+Tài liệu RFC 3717 hoạt động trong định tuyến quang cho IP dựa trên phần mở rộng tới OSPF và IS-IS.
+
+
+=== Multicast Open Shortest Path First ===
+Giao thức Multicast Open Shortest Path First (MOSPF) là một phần mở rộng của OSPF để hỗ trợ định tuyến đa hướng. MOSPF cho phép các bộ định tuyến chia sẻ thông tin về tư cách thành viên nhóm.
+
+
+== OSPF trong mạng quảng bá và không phát sóng ==
+Trong các mạng đa truy nhập quảng bá, lân cận lân cận được hình thành động bằng cách sử dụng các gói hello đa hướng tới 224.0.0.5. DR và BDR được bầu bình thường và hoạt động bình thường.
+Đối với mạng đa truy nhập không quảng bá (NBMA), hai chế độ chính thức sau được xác định:
+
+Không phát sóng
+Điểm-đa điểm
+Cisco đã xác định ba chế độ bổ sung sau cho OSPF trong cấu trúc liên kết NBMA:
+
+Point-to-multipoint non-broadcast
+Phát tin
+PPP
+
+
+== Triển khai đáng chú ý ==
+Allied Telesis triển khai OSPFv2 & OSPFv3 trong Allied Ware Plus (AW +)
+Arista Networks triển khai OSPFv2 và OSPFv3
+BIRD triển khai cả OSPFv2 và OSPFv3
+Cisco IOS và NX-OS
+Cisco Meraki
+D-Link triển khai OSPFv2 trên Bộ định tuyến dịch vụ hợp nhất.
+FTOS của Dell triển khai OSPFv2 và OSPFv3
+ExtremeXOS
+GNU Zebra, một bộ định tuyến GPL dành cho các hệ thống giống Unix hỗ trợ OSPF
+Juniper Junos
+NetWare triển khai OSPF trong module Định tuyến Đa giao thức của nó.
+OpenBSD bao gồm OpenOSPFD, một triển khai OSPFv2
+Quagga, một nhánh của GNU Zebra dành cho các hệ thống giống Unix
+XORP, một bộ định tuyến triển khai RFC2328 (OSPFv2) và RFC2740 (OSPFv3) cho cả IPv4 và IPv6
+Windows NT 4.0 Server, Windows 2000 Server và Windows 2003 Server đã triển khai OSPFv2 trong Dịch vụ Định tuyến và Truy cập Từ xa, mặc dù chức năng này đã bị loại bỏ trong Windows 2008 Server
+
+
+== Các ứng dụng ==
+OSPF là một giao thức định tuyến được triển khai rộng rãi có thể hội tụ một mạng trong vài giây và đảm bảo các đường dẫn không có vòng lặp. Nó có nhiều tính năng cho phép áp đặt các chính sách về việc truyền các tuyến đường mà nó có thể phù hợp để giữ cục bộ, để chia sẻ tải và để nhập tuyến đường có chọn lọc. Ngược lại, IS-IS có thể được điều chỉnh để có chi phí thấp hơn trong một mạng ổn định, loại phổ biến hơn trong ISP so với mạng doanh nghiệp. Có một số tai nạn lịch sử khiến IS-IS trở thành IGP ưu tiên cho ISP, nhưng ISP ngày nay cũng có thể chọn sử dụng các tính năng của việc triển khai hiệu quả hiện tại của OSPF, sau khi xem xét ưu và nhược điểm của IS-IS trong môi trường nhà cung cấp dịch vụ.
+OSPF có thể cung cấp chia sẻ tải trên các liên kết bên ngoài tốt hơn so với các IGP khác. Khi tuyến mặc định đến ISP được đưa vào OSPF từ nhiều ASBR dưới dạng tuyến bên ngoài Loại I và cùng một chi phí bên ngoài được chỉ định, các bộ định tuyến khác sẽ đi đến ASBR với chi phí đường dẫn ít nhất từ ​​vị trí của nó. Điều này có thể được điều chỉnh thêm bằng cách điều chỉnh chi phí bên ngoài. Nếu tuyến mặc định từ các ISP khác nhau được đưa vào các chi phí bên ngoài khác nhau, như là tuyến bên ngoài Loại II, thì tuyến mặc định có chi phí thấp hơn sẽ trở thành lối ra chính và chi phí cao hơn chỉ trở thành dự phòng.
+Yếu tố hạn chế thực sự duy nhất có thể buộc các ISP chính phải chọn IS-IS qua OSPF là nếu họ có mạng với hơn 850 bộ định tuyến.
+
+
+== Xem thêm ==
+FSPF
+L2TP
+PPTP
+UDP
+PPP
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Colton, Andrew (tháng 10 năm 2003). OSPF for Cisco Routers. Rocket Science Press. ISBN 978-0972286213.
+Doyle, Jeff; Carroll, Jennifer (2005). Routing TCP/IP. 1 (ấn bản thứ 2). Cisco Press. ISBN 978-1-58705-202-6.
+Moy, John T. (1998). OSPF: Anatomy of an Internet Routing Protocol. Addison-Wesley. ISBN 978-0201634723.
+Parkhurst, William R. (2002). Cisco OSPF Command and Configuration Handbook. ISBN 978-1-58705-071-8.
+Basu, Anindya; Riecke, Jon (2001). “Stability issues in OSPF routing”. Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications. SIGCOMM '01. tr. 225–236. CiteSeerX 10.1.1.99.6393. doi:10.1145/383059.383077. ISBN 978-1-58113-411-7. S2CID 7555753.
+Valadas, Rui (2019). OSPF and IS-IS: From Link State Routing Principles to Technologies. CRC Press. doi:10.1201/9780429027543. ISBN 9780429027543.
+
+
+== Liên kết ngoài ==
+IETF OSPF Working Group
+Cisco OSPF
+Cisco OSPF Areas and Virtual Links
+Summary of OSPF v2
+OSPF Router Startup Flow
+“Configuring OSPF Authentication”. Tech Tips. Netcordia. Bản gốc lưu trữ ngày 26 tháng 2 năm 2013.

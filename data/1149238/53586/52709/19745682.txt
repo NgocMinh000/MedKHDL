@@ -1,0 +1,40 @@
+ITC Zapf Dingbats là một trong những phông chữ dingbat (phông chữ tượng hình) phổ biến. Nó được thiết kế bởi nhà thiết kế phông chữ Hermann Zapf vào năm 1978 và được cấp phép bởi International Typeface Corporation.
+
+
+== Lịch sử ==
+Năm 1977, Zapf đã tạo ra khoảng 1000 (hoặc hơn 1200 theo Linotype) bản phác thảo các ký hiệu và biểu tượng. ITC đã chọn từ trong số đó 360 biểu tượng, ký hiệu và các yếu tố kiểu chữ dựa trên các thiết kế ban đầu, được gọi là ITC Zapf Dingbats. Phông chữ lần đầu tiên được phân phối rộng rãi khi ITC Zapf Dingbats, bao gồm một nhóm nhỏ do ITC chọn, trở thành một trong 35 phông chữ PostScript được tích hợp trong LaserWriter Plus của Apple. 
+Khi ITC Zapf Dingbats lần đầu tiên được công bố trên tạp chí U&lc, tập 5-2, họ được chia thành 100 loạt (ITC-100), 200 loạt (ITC-200), 300 loạt (ITC-300). Mỗi một loạt có 120 ký tự. 
+Zapf Dingbats loạt 100 đã được triển khai rộng rãi trên các máy in PostScript như một sự mã hóa ở phông chữ dingbat vào những năm 1980 và đầu những năm 1990. Nó kết hợp một số ký tự mũi tên hướng sang phải mà không có các ký tự nằm ở phía đối diện ở ba hướng còn lại, với giả định rằng nó sẽ được sử dụng trong việc xoay các ký tự văn bản.
+
+
+== Khả dụng ==
+Bộ ký tự ITC được bao gồm trong Unicode và nó là một trong những phông chữ "Cơ bản 14" được đảm bảo là có sẵn cho các tập tin PDF.
+ZapfDingbats, phiên bản PostScript của ITC Zapf Dingbats, được phân phối với Acrobat Reader 5 và 5.1.
+URW++ đã cho Ghostscript một phiên bản của ZapfDingbats theo Giấy phép Công cộng Miễn phí Aladdin phi thương mại. Phông chữ có thể được tìm thấy trong mã nguồn GhostPCL, là D050000L.ttf.
+ITC Zapf Dingbats Std là một phiên bản OpenType của họ phông chữ này, dựa trên biến thể PostScript của phông chữ. Các ký tự được ánh xạ tới các điểm mã Unicode tương ứng. Họ này bao gồm một phông chữ (ITC Zapf Dingbats Medium) với 204 ký tự.
+
+
+=== Zapf Essentials ===
+Zapf Essentials là bản nâng cấp cho dòng Zapf Dingbats bao gồm 6 nhóm ký tự biểu tượng là Mũi tên Một (mũi tên đen), Mũi tên Hai (mũi tên trắng, mũi tên có hoa văn), Giao tiếp (ngón trỏ, các phụ kiện giao tiếp), Đánh dấu (hình vuông, hình tam giác, hình tròn, dấu tích, trái tim, chữ thập, dấu kiểm, chiếc lá), Văn phòng (bút, đồng hồ, tiền tệ, kéo, tay), Trang trí (hoa, sao), với tổng số 372 ký tự. Tuy nhiên, không phải tất cả các ký tự của ITC Zapf Dingbats đều được đưa vào bộ Zapf Essentials (ví dụ: máy bay, thư).
+
+
+== Bộ ký tự ==
+
+
+== Sử dụng ==
+David Carson, biên tập viên của tạp chí âm nhạc Ray Gun, đã cho phông chữ này nổi tiếng vào năm 1994 khi anh in một bài phỏng vấn với Bryan Ferry trên tạp chí hoàn toàn được viết bằng phông chữ chỉ có ký hiệu – do đó, việc trải rộng hai trang là không thể hiểu được và sẽ phải được giải thích giống như một mật mã đối với những người không quen thuộc với phông chữ này. Anh ấy nói anh ấy làm vậy vì cuộc phỏng vấn này "vô cùng nhàm chán" và khi tìm kiếm trong bộ sưu tập phông chữ của anh ấy để tìm một phông chữ phù hợp và khi dừng lại ở Zapf Dingbats, anh ấy đã quyết định sử dụng nó với hy vọng làm cho bài viết này thú vị trở lại.
+
+
+== Xem thêm ==
+Wingdings
+Webdings
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ITC Zapf Dingbats Font Family - by Hermann Zapf
+Linotype Zapf Essentials Lưu trữ 2014-04-08 tại Wayback Machine
+Zapf Dingbats to Unicode mapping - provided to the Unicode Consortium by Apple.
+Official Unicode Dingbats block code chart (contains the Zapf Dingbats characters, except those that had already been present in Unicode) - Unicode.org, PDF format

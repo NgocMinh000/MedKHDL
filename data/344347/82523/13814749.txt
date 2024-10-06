@@ -1,0 +1,36 @@
+Chất diệt khuẩn là chất có khả năng giết chết vi khuẩn. Bao gồm chất tẩy uế, thuốc sát trùng, hoặc thuốc kháng sinh.
+
+
+== Chất tẩy uế ==
+Chất tẩy uế đang được sử dụng nhiều nhất bao gồm:
+Chất chlorine hóa (i.e., hypochlorites, chloramines, dichloroisocyanurate và trichloroisocyanurate, chlorine ẩm, chlorine dioxide, etc.),
+Chất oxy hóa (peroxides, như peracetic acid, potassium persulfate, sodium perborate, sodium percarbonate, và urea perhydrate),
+Iodine (povidone-iodine, Lugol's solution, iodine tincture, iodinated nonionic surfactants),
+Alcohol đậm đặc (chủ yếu là ethanol, 1-propanol,hay n-propanolvà 2-propanol, isopropanol và các hỗn hợp của nó, 2-phenoxyethanol và 1- và 2-phenoxypropanols),
+Hợp chất phenolic(như phenol (còn gọi là "carbolic acid"), cresols như thymol, halogenated (chlorinated, brominated) phenols,như hexachlorophene, triclosan, trichlorophenol, tribromophenol, pentachlorophenol, muối và các đồng phân của nó),
+Cationic surfactants,ví dụ như quaternary ammonium cations (benzalkonium chloride, cetyl trimethylammonium bromide or chloride, didecyldimethylammonium chloride, cetylpyridinium chloride, benzethonium chloride),chlorhexidine, glucoprotamine, octenidine dihydrochloride v.v.)
+Chất oxidizer mạnh, như ozone và dung dịchpermanganate;
+Kim loại nặng và muối của chúng, ví dụ colloidal silver, silver nitrate, mercury chloride, muối phenylmercury, copper sulfate, copper oxide-chloride v.v. tuy nhiên rất hại cho môi trường nên thường bị cấm sử dụng.
+Acid mạnh (phosphoric, nitric, sulfuric, amidosulfuric, toluenesulfonic acids), pH < 1,và
+Baso mạnh (sodium, potassium, calcium hydroxides), pH > 13.
+
+
+== Thuốc sát trùng ==
+Do thuốc sát trùng được sử dụng trện con người, hoặc động vật, qua da, niêm mạc, vết thương nên chỉ một vài chất tẩy uế nói trên có thể được sử dụng trong điều kiện thích hợp (chủ yếu là nồng độ, pH, nhiệt độ và độc đối với con người và các loài động vật). Trong đó, một số thuốc quan trọng là:
+Dung dịch chlorine pha loãng thích hợp (vd. dung dịch Dakin, dung dịch 0.5% sodium hoặc potassium hypochlorite, pH trong khoảng pH 7 – 8, hoặc dung dịch 0.5 – 1% sodium benzenesulfochloramide (chloramine B)),
+Dung dịch iodine, ví dụ iodopovidone, galenics (thuốc mỡ, dung dịch, băng vết thương), dung dịch Lugol,
+Peroxide ở pH-đệm 0.1 – 0.25% dung dịch peracetic acid,
+Alcohols sử dụng chủ yếu để sát khuẩn da,
+Các acid hữu cơ yếu như sorbic acid, benzoic acid, lactic acid và salicylic acid
+Một số hợp chất phenolic như hexachlorophene, triclosan và Dibromol,và
+Cationic surfactants, như 0.05 – 0.5% benzalkonium, 0.5 – 4% chlorhexidine, 0.1 – 2% octenidine solutions.
+
+
+== Thuốc kháng sinh ==
+Kháng sinh diệt khuẩn giết chết vi khuẩn; kháng sinh kìm huẩn làm chậm sự phát triển và sinh sản của vi khuẩn.
+Kháng sinh diệt khuẩn ức chế tổng hợp thành tế bào: beta-lactam (dẫn xuất penicillin (penams), cephalosporins (cephems), monobactams, và carbapenems) và vancomycin.
+Kháng sinh diệt khuẩn khác bao gồm daptomycin, fluoroquinolones, metronidazole, nitrofurantoin, co-trimoxazole, telithromycin.
+Kháng sinh dòng aminoglycosid cũng có tác dụng diệt khuẩn, mặc dù chúng có tác dụng kìm khuẩn với một số sinh vật
+
+
+== Tham khảo ==

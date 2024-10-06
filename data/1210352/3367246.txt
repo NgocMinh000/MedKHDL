@@ -1,0 +1,175 @@
+Hội chứng (syndrome) là một tập hợp các dấu hiệu bệnh và triệu chứng có mối tương quan với nhau và thường với một bệnh cụ thể. Từ này xuất phát từ Hy Lạp, σύνδρομον (hội chứng), có nghĩa là "concurrence" ("tính đồng thời").
+Trong một số trường hợp một hội chứng có mối quan hệ rất chặt chẽ với một bệnh hoặc nguyên nhân gây ra bệnh, các từ hội chứng, bệnh và rối loạn thường hay được sử dụng thay thế lẫn nhau. Điều này đặc biệt đúng với gen gây ra hội chứng. Ví dụ, Hội chứng Down, hội chứng Wolf-Hirschhorn và hội chứng Andersen-Tawil là rối loạn với một bệnh đã biết đến, vì vậy đó là nhiều hay chỉ là một tập hợp các dấu hiệu và triệu chứng, mặc dù gọi theo danh pháp là hội chứng.
+Trong trường hợp khác, một hội chứng không đặc hiệu để chỉ một bệnh. Ví dụ, Hội chứng sốc nhiễm độc có thể được gây ra bởi các chất độc khác nhau; hội chứng tiền vận động có thể được gây ra bởi những tổn thương não hay hội chứng tiền kinh nguyệt không phải là một bệnh mà chỉ đơn thuần là một tập hợp các triệu chứng.
+Nếu nghi ngờ là do nguyên nhân di truyền cơ bản nhưng không được biết đến, một tình trạng có thể được gọi là "association") (tập hợp). Theo định nghĩa, một association cho thấy rằng việc thu thập các dấu hiệu và triệu chứng xảy ra trong sự kết hợp thường xuyên hơn sẽ có khả năng do một cơ hội duy nhất. Hội chứng này thường được đặt theo tên của bác sĩ hoặc nhóm các bác sĩ đã phát hiện ra chúng hoặc ban đầu mô tả các hình ảnh lâm sàng đầy đủ. Tên hội chứng cùng tên như vậy là những ví dụ của tổ danh trong y học (medical eponyms).
+Gần đây, đã có một sự thay đổi theo hướng đặt tên linh động theo các triệu chứng hoặc nguyên nhân cơ bản chứ không phải là với eponyms. Tuy nhiên, tên hội chứng và tên thông thường cùng tồn tại trong việc sử dụng. 
+
+
+== Sử dụng ==
+
+
+=== Y học ===
+Trong y học và tâm lý học, định nghĩa các hội chứng được sử dụng thường không cụ thể, trong đó mô tả một tập hợp các triệu chứng và những phát hiện mà không nhất thiết buộc chúng vào một bệnh duy nhất. Các định nghĩa cụ thể hơn được sử dụng trong di truyền y học mô tả một tập hợp con của tất cả các hội chứng y học.
+
+
+=== Di truyền y học ===
+Trong lĩnh vực di truyền y học, thuật ngữ "hội chứng" là truyền thống chỉ được sử dụng khi các nguyên nhân di truyền cơ bản được biết đến. Do đó, Trisomy 21 thường được gọi là hội chứng Down. Cho đến năm 2005, hội chứng CHARGE đã được sử dụng thay cho tập hợp CHARGE. Đến khi các gen gây bệnh chủ yếu (CHD7) của các bệnh này được phát hiện, tên đã được thay đổi. Sự thống nhất về nguyên nhân cơ bản của tập hợp VACTERL chưa được xác định, và do đó chúng không phải khi nào cũng được gọi tên là "hội chứng".
+
+
+=== Lĩnh vực khác ===
+Trong sinh học, "hội chứng" được dùng theo nghĩa tổng quát hơn để mô tả bộ đặc trưng của các đặc điểm trong các hoàn cảnh khác nhau.Ví dụ như hội chứng hành vi - behavioral syndrome, cũng như hội chứng thụ phấn - pollination syndrome và hội chứng tán hạt - seed dispersal syndrome. 
+
+
+== Đặt tên ==
+Không có bộ quy ước chung cho việc đặt tên của hội chứng mới được xác định. Trong quá khứ, các hội chứng này thường được đặt tên sau khi các bác sĩ hay nhà khoa học xác định và mô tả điều kiện trong một ấn phẩm ban đầu, chúng được gọi là "hội chứng cùng tên" - "eponymous syndromes". Trong một số trường hợp, bệnh được đặt tên sau khi bệnh nhân ban đầu được mô tả với các triệu chứng đó.  Đã có trường hợp cá biệt, bệnh nhân mong muốn có hội chứng đặt tên theo họ, trong khi các bác sĩ đang do dự, hoặc tên của hội chứng đặt theo tên một địa điểm, ví dụ thủ đô Stockholm, Thụy Điển (Hội chứng Stockholm). Khi một hội chứng được đặt theo tên một người, có một số quan điểm khác biệt có nên để hình thức sở hữu tiếng Anh - English possessive hay không ("Hội chứng Down" với "hội chứng của Down" - Down syndrome vs Down's syndrome). Việc sử dụng tên hội chứng ở Bắc Mỹ có xu hướng thiên về hình thức không sở hữu, trong khi tài liệu tham khảo châu Âu thường sử dụng sở hữu. Ngay cả ở châu Âu, đã có một xu hướng dùng hình thức sở hữu, trong khoảng thời gian giữa năm 1970 và 2008.
+
+
+== Lịch sử ==
+Thầy thuốc Ibn Sina (Avicenna, 980-1037) với tác phẩm y điển The Canon of Medicine của mình là người đi tiên phong trong ý tưởng về một hội chứng trong chẩn đoán một bệnh cụ thể. Khái niệm về một hội chứng y học đã tiếp tục phát triển hơn trong thế kỷ 17 bởi Thomas Sydenham.
+
+
+== Nguyên nhân tiềm ẩn ==
+Ngay cả trong các hội chứng không biết nguyên nhân, sự hiện diện của các triệu chứng liên quan với một tương quan không thể xảy ra về mặt thống kê, thường dẫn các nhà nghiên cứu đưa ra giả thuyết rằng có thể tồn tại một nguyên nhân cơ bản nào đó mà chưa biết cho tất cả các triệu chứng đã mô tả.
+
+
+== Ví dụ ==
+Trong ví dụ sau đây, chúng ta thấy rằng sự kết hợp các dấu hiệu đau đầu + nôn + cứng gáy + chứng sợ ánh sáng là một hội chứng màng não kết quả kích thích não (cụ thể là tình trạng viêm màng não, xuất huyết dưới nhện). Các bác sĩ sau đó sẽ tiến hành chọc dò dịch não tủy: nếu thấy có chất lỏng chứa máu không đông là xuất huyết màng não và viêm màng não khi có mủ. 
+
+Nhiều hội chứng được mô tả đầy đủ trong y học, ví dụ:
+
+
+=== Phổi ===
+Hội chứng phế nang
+Hội chứng ngưng thở khi ngủ
+Hội chứng suy hô hấp cấp tính (ARDS)
+Hội chứng Erasmus
+Hội chứng Heerfordt
+Hội chứng Lofgren
+Hội chứng rối loạn thông khí tắc nghẽn
+Hạn chế hội chứng
+Hội chứng ngưng tụ
+Hội chứng tràn dịch màng phổi
+
+
+=== Sản khoa ===
+Hội chứng HELLP
+Hội chứng Lacomme
+
+
+=== Gan - tiêu hóa ===
+Hội chứng ruột kích thích (IBS)
+Hội chứng kém hấp thu
+Hội chứng Plummer-Vinson
+Hội chứng ruột non phát triển quá mức của vi khuẩn
+Hội chứng Zollinger-Ellison (ZES)
+
+
+=== Huyết học ===
+Hội chứng Evans
+Hội chứng Felty
+Hội chứng Hyperviscosity
+Hội chứng thiếu máu
+
+
+=== Di truyền học ===
+Hội chứng Bloom
+Hội chứng Down
+Hội chứng Marfan
+Hội chứng Prader-Willi
+
+
+=== Bệnh truyền nhiễm ===
+Hội chứng Fitz-Hugh-Curtis
+
+
+=== Thận ===
+Hội chứng thận hư
+
+
+=== Thần kinh ===
+Hội chứng Asperger
+Hội chứng giọng nói nước ngoài
+Hội chứng Balint
+Hội chứng Brown-Sequard
+Hội chứng ngoại tháp
+Hội chứng tiểu não
+
+
+=== Tâm thần học ===
+Hội chứng Munchausen by Proxy (MHBP)
+Hội chứng Rốn Benjamin
+Hội chứng hoang tưởng
+Hội chứng tách rời
+Hội chứng Hedgehog
+Hội chứng Munchausen
+Hội chứng Skumin
+
+
+=== Tâm lý học ===
+Hội chứng cháy sạch
+Hội chứng kẻ mạo danh
+Hội chứng Lima
+Hội chứng Peter Pan
+Hội chứng Stockholm
+Hội chứng Paris
+Hội chứng Stendhal
+Hội chứng Jerusalem
+
+
+=== Xương khớp ===
+Hội chứng Reiter - Fiessinger
+Hội chứng Cyriax
+Hội chứng xương bánh chè
+
+
+=== Tiết niệu ===
+Hội chứng loạn sản tinh hoàn hay hội chứng Klinefelter
+Hội chứng Irritative
+Hội chứng tắc nghẽn đường tiết niệu
+
+
+=== Tim mạch ===
+Hội chứng Brugada
+Hội chứng Roemheld
+Hội chứng Skumin
+Hội chứng tĩnh mạch chủ trên
+
+
+=== Nội tiết ===
+Hội chứng Kallmann hoặc Hội chứng Morsier-Kallmann
+
+
+=== Khác ===
+Mastodynia
+Fibromyalgia
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Xem thêm ==
+Toxidrome
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Whonamedit.com - Kho lưu trữ tổ danh (eponyms) y học.

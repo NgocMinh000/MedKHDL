@@ -1,0 +1,19 @@
+Thí nghiệm Rosenhan là một thí nghiệm nổi tiếng được thực hiện để xác định giá trị của chẩn đoán tâm thần, được thực hiện bởi nhà tâm lý học David Rosenhan, giáo sư Đại học  Stanford, và được công bố bởi tạp chí Khoa học năm 1973, dưới tên "Về vấn đề không điên trong những nơi điên". Nghiên cứu này được coi là một phê bình quan trọng và có ảnh hưởng về chẩn đoán tâm thần. Ý tưởng bắt ngưồn khi Rosenhan nghe một trong những bài giảng của R. D.Laing, ông đã tự hỏi rằng có cách nào để có thể kiểm nghiệm độ tin cậy của các chẩn đoán tâm thần hay không.
+Nghiên cứu của Rosenhan được thực hiện trong hai phần. Phần đầu tiên là sử dụng các đồng sự khỏe mạnh hay "các bệnh nhân giả" (ba nữ và năm nam, bao gồm cả chính Rosenhan) giả tạo triệu chứng ảo thanh trong một thời gian ngắn để thử được nhập vào 12  bệnh viện tâm thần khác nhau trong năm bang khác nhau ở nhiều địa điểm khác nhau ở Hoa Kỳ. Tất cả đều được cho nhập viện và được chẩn đoán rối loạn tâm thần. Sau khi nhập viện, các bệnh nhân giả tỏ ra bình thường và nói với nhân viên rằng họ cảm thấy bình thường và không còn nhận thấy bất kì ảo giác nào nữa. Tất cả đã bị buộc phải thừa nhận là đang có một bệnh lý tâm thần và đồng ý sử dụng thuốc an thần làm điều kiện xuất viện của họ. Thời gian trung bình các bệnh nhân ở trong một bệnh viện là 19 ngày. Tất cả trừ một người được chẩn đoán là chứng tâm thần phân liệt "giai đoạn khỏi tạm thời" khi họ được xuất viện.
+Phần thứ hai của nghiên cứu của ông dính đến ban quản lý một bệnh viện cảm thấy bị xúc phạm vì phần đầu của ông và thách thức Rosenhan gửi các bệnh nhân giả đến cơ sở của mình, cá rằng các nhân viên của mình sẽ phân biệt được. Rosenhan đã đồng ý. Trong những tuần sau đó, trong số 193 bệnh nhân mới, đội ngũ nhân viên xác định 41 ca có khả năng là bệnh nhân giả, với 19 người trong số đó bị ít nhất một bác sĩ tâm thần cùng một nhân viên khác nghi ngờ. Trên thực tế, Rosenhan chẳng gửi bệnh nhân giả nào đến bệnh viện cả.
+Nghiên cứu đã kết luận "Ta thấy rõ rằng chúng ta không thể phân biệt người không điên với người điên ở các bệnh viện tâm thần" và đồng thời cũng phơi bày nguy cơ bị kì thị không phải là con người và sự dán nhãn ở các viện tâm thần. Nghiên cứu khơi gợi suy nghĩ rằng viêc sử dụng các cơ sở y tế tâm thần cộng đồng nhằm giải quyết các vấn đề sức khỏe nhất định và các hành vi hơn là dán nhãn bệnh tâm thần có thể là một giải pháp và đề nghị giảng dạy để công nhân viên ngành tâm thần ý thức hơn về tâm lý xã hội tại cơ sở của họ.
+
+
+== Tham khảo ==
+
+
+=== Chú thích ===
+
+
+=== Tham khảo ===
+
+
+== Liên kết ngoài ==
+On being sane in insane places
+Rosenhan experiment summary
+BBC Radio 4, "Mind Changers", Series 4 Episode 1: The Pseudo-Patient Study

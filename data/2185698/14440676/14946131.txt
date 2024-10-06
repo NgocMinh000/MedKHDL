@@ -1,0 +1,18 @@
+Retrovirus Jaagsiekte gây bệnh ở cừu (JSRV) là một loại betar RNA là tác nhân gây ra bệnh ung thư phổi truyền nhiễm ở cừu, được gọi là ung thư biểu mô phổi.
+
+
+== Lịch sử tự nhiên ==
+JSRV là virus là nguyên nhân gây ra các khối u phổi truyền nhiễm ở cừu được gọi là ung thư biểu mô phổi (OPA). Bệnh cũng đã được gọi là "jaagsiekte", trong tiếng Afrikaans có nghĩa là "săn đuổi" (jaag) và "bệnh tật" (siekte), để mô tả sự hổn hển giống như bị săn đuổi do suy hô hấp của cừu nhiễm bệnh. Lây truyền virus thông qua aerosol lây lan giữa cừu.
+Dạng lây nhiễm ngoại sinh của JSRV có một bản sao nội sinh có trong bộ gen của tất cả cừu và dê. Bộ gen cừu có khoảng 27 bản sao của retrovirus nội sinh (enJSRV) có liên quan chặt chẽ với JSRV. JSRV nội sinh có vai trò trong quá trình tiến hóa của cừu nhà vì chúng có thể ngăn chặn chu kỳ nhân đôi DNA của JSRV và đóng một vai trò quan trọng trong sự phát triển khái niệm cừu và hình thái của phân thứ lớp động vật có vú nhau thai.
+Mặc dù OPA có các đặc điểm giống với ung thư phổi ở người nhưng ung thư phổi ở người không được biết là do betaretrovirus gây ra. Mặc dù nguyên nhân virus đã được loại bỏ trong ung thư phế quản, việc hiểu được các cơ chế phân tử dẫn đến sự biến đổi biểu mô phổi của JSRV giúp phát triển phương pháp điều trị ung thư phổi ở người nói chung và ung thư biểu mô tuyến phế quản (BAC) nói riêng.
+
+
+== Phân loại ==
+JSRV thuộc họ Retroviridae, thuộc phân họ Orthoretrovirinae và chi Betaretrovirus.
+
+
+== Phản ứng miễn dịch của vật chủ ==
+Một đặc điểm quan trọng của nhiễm trùng JSRV là không có bất kỳ phản ứng miễn dịch cụ thể nào từ vật chủ. Có thể giải thích cừu có khả năng miễn dịch đối với các kháng nguyên JSRV do sự biểu hiện của protein JSRV nội sinh có liên quan chặt chẽ trong tuyến ức của bào thai trong quá trình phát triển tế bào lympho T.
+
+
+== Tham khảo ==

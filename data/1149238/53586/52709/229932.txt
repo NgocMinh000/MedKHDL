@@ -1,0 +1,8 @@
+Từ khóa (tiếng Anh: keyword) là những gì  trong một câu, một đoạn, một văn bản, mang một ý nghĩa quan trọng hoặc có mục đích nhấn mạnh theo ý của người viết.
+Từ khóa đã được sử dụng rộng rãi như là một thuật ngữ internet chỉ việc xác định những từ ngữ chính để thể hiện sản phẩm, dịch vụ, thông tin mà chủ website hướng đến cũng như người dùng internet hay dùng để tìm kiếm thông tin liên quan, quan trọng.
+
+
+== Phân loại ==
+Từ khóa (ngôn ngữ lập trình) - trong các ngôn ngữ lập trình như Pascal( ví dụ như: program, uses, const, type, var,...), C, C++, Basic,..., từ khóa là những từ quan trọng được dùng cho các mệnh lệnh.
+Từ khóa (máy tìm kiếm) - trong các máy tìm kiếm như Google, Yahoo..., từ khóa là những gì phải nhập vào để thực hiện công việc tìm kiếm.
+Từ khóa (ngôn ngữ học) - trong ngôn ngữ học, từ khóa là một từ xuất hiện nhiều lần trong một đoạn văn.

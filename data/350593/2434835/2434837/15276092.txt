@@ -1,0 +1,77 @@
+Liệu pháp trúng đích hoặc liệu pháp trúng đích phân tử là một trong những phương thức chính của điều trị y tế (dược lý) cho bệnh ung thư, những phương pháp khác là liệu pháp hormon và hóa trị liệu gây độc tế bào. Như một hình thức y học phân tử, nhắm mục tiêu các khối điều trị sự tăng trưởng của tế bào ung thư bằng cách can thiệp vào mục tiêu cụ thể các phân tử cần thiết cho chất sinh ung thư và khối u tăng trưởng, chứ không phải bằng cách đơn giản can thiệp vào tất cả các tế bào phân chia nhanh chóng (ví dụ với truyền thống hóa trị). Bởi vì hầu hết các tác nhân cho liệu pháp trúng đích là dược phẩm sinh học, thuật ngữ liệu pháp sinh học đôi khi đồng nghĩa với liệu pháp trúng đích khi được sử dụng trong bối cảnh điều trị ung thư (và do đó phân biệt với hóa trị liệu, đó là liệu pháp gây độc tế bào). Tuy nhiên, các phương thức có thể được kết hợp; liên hợp kháng thể-thuốc  cơ chế sinh học và độc tế bào thành một liệu pháp trúng đích.
+Các liệu pháp điều trị ung thư được nhắm mục tiêu dự kiến sẽ hiệu quả hơn các hình thức điều trị cũ và ít gây hại hơn cho các tế bào bình thường. Nhiều liệu pháp trúng đích là ví dụ về liệu pháp miễn dịch (sử dụng cơ chế miễn dịch cho mục tiêu điều trị) được phát triển bởi lĩnh vực miễn dịch ung thư. Vì vậy, là chất điều hòa miễn dịch, chúng là một loại chất điều biến phản ứng sinh học.
+Các liệu pháp trúng đích thành công nhất là các thực thể hóa học nhắm mục tiêu hoặc ưu tiên nhắm mục tiêu một protein hoặc enzyme mang đột biến hoặc thay đổi di truyền khác dành riêng cho tế bào ung thư và không tìm thấy trong mô chủ bình thường. Một trong những liệu pháp trúng đích phân tử thành công nhất là Gleevec, một chất ức chế kinase có ái lực đặc biệt với protein gây ung thư Bcr-Abl, một yếu tố thúc đẩy mạnh mẽ của bệnh u bướu trong bệnh bạch cầu tủy xương mạn tính. Những ví dụ khác gồm có erlotinib (Tarceva) ở người bệnh ung thư phổi có đột biến EGFR hay sorafenib (Nexavar), được chấp thuận trong điều trị ung thư gan, thận và tuyến giáp.
+Có các liệu pháp trúng đích cho ung thư đại trực tràng, ung thư đầu và cổ, ung thư vú, đa u tủy, ung thư hạch, ung thư tuyến tiền liệt, khối u ác tính và các bệnh ung thư khác.
+Biomarkers thường được yêu cầu để hỗ trợ lựa chọn bệnh nhân có khả năng đáp ứng với một liệu pháp trúng đích nhất định.
+Các thí nghiệm dứt khoát cho thấy liệu pháp trúng đích sẽ đảo ngược kiểu hình ác tính của các tế bào khối u liên quan đến việc điều trị các tế bào biến đổi Her2/neu bằng kháng thể đơn dòng in vitro và in vivo bởi phòng thí nghiệm của Mark Greene và báo cáo từ năm 1985.
+Một số người đã thách thức việc sử dụng thuật ngữ này, nói rằng các loại thuốc thường liên quan đến thuật ngữ này không đủ chọn lọc. Cụm từ thỉnh thoảng xuất hiện trong trích dẫn sợ hãi: "liệu pháp trúng đích". Các liệu pháp trúng đích cũng có thể được mô tả là "hóa trị" hoặc "hóa trị không gây độc tế bào", vì "hóa trị" chỉ có nghĩa là "điều trị bằng hóa chất". Nhưng trong sử dụng thông thường và y học thông thường, "hóa trị" hiện nay chủ yếu được sử dụng đặc biệt cho hóa trị liệu độc tế bào "truyền thống".
+
+
+== Các loại ==
+Các loại chính của liệu pháp trúng đích hiện nay là các phân tử nhỏ và kháng thể đơn dòng.
+
+
+=== Phân tử nhỏ ===
+
+
+==== Các chất ức chế tyrosine kinase (Tyrosine Kinase Inhibitors - TKIs) ====
+Các chất ức chế Bcr-Abl, gồm imatinib, dasatinib, nilotinib, bosutinib, ponatinib và asciminib. Imatinib là hoạt chất đầu tiên trong nhóm này (phê duyệt năm 2001), theo sau đó là sự phát triển và phê duyệt của dasatinib (phê duyệt 2006), nilotinib (2007) và bosutinib (2012) để giải quyết bài toán kháng imatinib. Ponatinib ức chế đa đột biến Bcr-Abl, kể cả đột biến T315I gây kháng các loại thuốc trước. Asciminib là chất ức chế Bcr-Abl mới nhất (phê duyệt 2021) và có cơ chế hoạt động khác hoàn toàn so với các hoạt chất trên: asciminb gắn với vị trí myristoyl của ABL1, không phải vị trí gắn ATP.
+Các chất ức chế thụ thể yếu tố tăng trưởng biểu bì (EGFR-TKIs), gồm các thuốc erlotinib, gefitinib, afatinib, dacomitinib và osimertinib. Các thuốc trong nhóm này ức chế miền tyrosine kinase của EGFR, từ đó ngăn chặn các tín hiệu xuôi dòng của EGFR. Những hoạt chất trong nhóm này được chia làm 3 thế hệ 1,2 và 3. EGFR-TKIs thế hệ 1 (gefitinib và erlotinb) ức chế có thể đảo ngược các thụ thể mand đột biến ở exon 19, exon 21 và ức chế yếu hơn EGFR thể hoang dã. Thế hệ 2 (afatinib và dacomitinib) ức chế không đảo ngược các thụ thể EGFR mang các đột biến ở ex.19, ex.21, các đột biến không thường gặp (v.d G719X) và HER-2. Thế hệ 3 (osimertinib, và có thể sau này sẽ có lazertinib) ức chế chọn lọc thụ thể EGFR mang các đột biến nhạy thuốc và đột biến T790M kháng với EGFR-TKIs thế hệ 1 và 2.
+Các chất ức chế VEGFR, tiêu biểu là sorafenib. Lần đầu tiến bước vào thử nghiệm lâm sàng năm 1999, sorafenib ban đầu được kỳ vọng là chất ức chế đường truyền tín hiệu RAF-MEK-ERK và ức chế các khối u chứa đột biến KRAS / RAF, hóa ra cũng là chất ức chế mạnh các thụ thể liên quan đến sự tân sinh mạch như VEGFR và PDGFR, giải thích cho hiệu quả in vivo ở nhiều khối u không đáp ứng với sorafenib in vitro. Nhiều thuốc trong nhóm này cũng ức chế sự hoạt động của các thụ thể khác, ví dụ vandetanib (ZD6474) ức chế VEGFR, EGFR và RET.
+Các chất ức chế HER-2/neu, gồm lapatinib, neratinib và tucatinib. Lapatinib và neratinib cũng đồng thời ức chế EGFR ở một mức độ nhất định.
+Các chất ức chế ALK, gồm crizotinib, ceritinib, alectinib, brigatinib và lorlatinib.
+Các chất ức chế TRK, gồm larotrectinib và entrectinib. Entrectinib còn là chất ức chế ALK và ROS1.
+Các chất ức chế BTK, gồm ibrutinib, acalabrutinib, zanubrutinib và pirtobrutinib.
+Các chất ức chế chọn lọc FGFR, gồm erdafitinib, pemigatinib và futibatinib. Infigratinib - chất ức chế chọn lọc FGFR thứ 2 được FDA phê duyệt - đang bị dừng phân phối bởi nhà sản xuất do những khó khăn trong việc tuyển bệnh nhân tham gia nghiên cứu xác nhận.
+Các chất ức chế RET, gồm praseltinib và selpercatinib.
+Các chất ức chế MET, gồm tepotinib và capmatinib.
+
+
+==== Thuốc ức chế serine/threonine kinase ====
+Các chất ức chế mTOR, gồm sirolimus (rapamycin) và các dẫn xuất của nó như everolimus và temsirolimus.
+Các chất ức chế BRAF, gồm vemurafenib, dabrafenib và encorafenib
+Các chất ức chế MEK, gồm cobimetinib, trametinib, binimetinib và selumetinib
+Các chất ức chế CDK4/6, gồm palbociclib, ribociclib và abemaciclib. Chúng ngăn CDK4 và CDK6 phosphoryl hóa protein retinoblastoma,do đó gây ngừng chu kỳ tế bào. Nhờ khả năng gây ngưng chu kỳ tế bào, các hoạt chất trong nhóm này cũng có thể làm giảm độc tính của hóa trị lên tủy xương với ví dụ tiêu biểu là trilaciclib.
+
+
+==== Thuốc ức chế các mục tiêu khác ====
+Các chất ức chế PI3K, như idelalisib, umbralisib, duvelisib, copanlisib và alpelisib
+Các chất ức chế Proteasome, gồm bortezomib, carfilzomib và ixazomib
+Các chất ức chế Histone Deacetylase (HDAC) gồm vorinostat, romidepsin, belinostat và panobinostat.
+Các chất ức chế Bcl, gồm venetoclax
+Các chất ức chế đường truyền Smoothened, bao gồm vismodegib và sonidegib
+Các chất ức chế PARP như olaparib, rucaparib, niraparib và talazoparib. Ở các tế bào đột biến BRCA, chúng không thể sửa chữa các hư hại ở gen thông qua BRCA mà phải phụ thuộc vào PARP. Ức chế PARP dẫn đến sự chết tế bào theo chương trình.
+Các chất ức chế IDH1/IDH2, gồm enasidenib, ivosidenib và olutasidenib. Đột biến ở enzyme isocitrate dehydrogenase khiến isocitrate chuyển hóa thành D-2-hydroxyglutarate thay vì thành α-Ketoglutarate, từ đó ngăn cản sự biệt hóa của tế bào. Ức chế IDH làm giảm lượng D-2-hydroxyglutarate và kích thích sự biệt hóa của tế bào ở các mô hình thí nghiệm.
+Các chất ức chế KRAS, gồm adagrasib và sotorasib. Trước đấy, KRAS được coi là mục tiêu "undruggable" (mục tiêu sinh học không thể bị nhắm đến bởi các biện pháp trúng đích) do cấu trúc khá "nhẵn nhụi" nên khó có thể tìm được những "hốc" để hoạt chất bám vào và do KRAS có ái lực rất cao với GTP (Guanosine Triphosphat), vốn luôn có hàm lượng dồi dào trong tế bào nên rất khó thiết kế các chất ức chế cạnh tranh. Tuy vậy, vào năm 2013, Kevin Shokat cùng các cộng sự đã thành công tổng hợp một hợp chất liên kết cộng hoá trị với acid amin cystein trong enzyme KRAS mang đột biến G12C. Sau đó, nhiều hợp chất khác có khả năng ức chế KRAS chứa đột biến G12C cũng dần được phát triển như ARV-853, ARV 1640, AMG510 (Sotorasib) và MRTX849 (Adagrasib).
+
+
+==== Kháng thể đơn dòng ====
+Một số đang được phát triển và một số đã được FDA và Ủy ban Châu Âu cấp phép. Ví dụ về các kháng thể đơn dòng được cấp phép bao gồm:
+
+Pembrolizumab (Keytruda) liên kết với protein PD-1 được tìm thấy trên các tế bào T. Pembrolizumab chặn PD-1 và giúp hệ thống miễn dịch tiêu diệt các tế bào ung thư. Nó được sử dụng để điều trị khối u ác tính, ung thư hạch hodgkin, ung thư biểu mô phổi không phải tế bào nhỏ và một số loại ung thư khác.
+Rituximab nhắm mục tiêu CD20 được tìm thấy trên các tế bào B. Nó được sử dụng trong u lympho không Hodgkin
+Obinutuzumab là kháng thể kháng CD20 thế hệ thứ 2, được xử lý loại bỏ đường fucose ở vùng kết tinh mảnh (Fc) của kháng thể, cũng như gắn với CD20 ở một vị trí khác, làm tăng khả năng gây chết tế bào trực tiếp không thông qua caspase, tăng sự gây độc tế bào phụ thuộc kháng thể và tăng sự thực bào phụ thuộc kháng thể.
+Trastuzumab nhắm vào thụ thể Her2/neu bộc lộ quá mức trong một số loại ung thư vú
+Cetuximab nhắm mục tiêu thụ thể yếu tố tăng trưởng biểu bì (EGFR). Nó được chấp thuận để sử dụng trong điều trị ung thư đại trực tràng di căn và ung thư biểu mô tế bào vảy ở đầu và cổ.
+Panitumumab cũng nhắm mục tiêu EGFR. Nó được chấp thuận cho sử dụng trong điều trị ung thư đại trực tràng di căn.
+Bevacizumab ức chế VEGF-A (Yếu tố tăng trưởng nội mô mạch máu). Nó được phê duyệt để sử dụng trong điều trị ung thư ruột kết, ung thư vú, ung thư phổi không phải tế bào nhỏ và được nghiên cứu trong điều trị sarcoma. Sử dụng của nó để điều trị các khối u não đã được khuyến cáo.
+Ipilimumab (Yervoy)
+
+
+== Tiến bộ và tương lai ==
+Tại Hoa Kỳ, Chương trình Phát triển Mục tiêu Phân tử (MTDP) của Viện Ung thư Quốc gia nhằm xác định và đánh giá các mục tiêu phân tử có thể là ứng cử viên cho phát triển thuốc.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+CancerDriver: cơ sở dữ liệu mở và miễn phí để tìm các liệu pháp trúng đích theo các tính năng của bệnh nhân.
+Cơ sở dữ liệu trị liệu nhắm mục tiêu (TTD) [1] Lưu trữ 2021-03-03 tại Wayback Machine từ Dự án bản đồ phân tử Melanoma [2] Lưu trữ 2021-04-28 tại Wayback Machine
+Mục tiêu trị liệu được nhắm mục tiêu từ Viện Ung thư Quốc gia Hoa Kỳ
+Ung thư phân tử: Liệu pháp dựa trên Receptor Số đặc biệt của Tạp chí Ung thư lâm sàng (ngày 10 tháng 4 năm 2005) dành riêng cho các liệu pháp trúng đích trong điều trị ung thư
+Nhắm mục tiêu trị liệu nhắm mục tiêu Lưu trữ 2010-02-06 tại Wayback Machine Tạp chí y học New England (2004)
+Nhắm mục tiêu khối u với dầu cần sa dược liệu - danh sách xuất bản từ Tây Ban Nha Lưu trữ 2020-01-26 tại Wayback Machine

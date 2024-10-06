@@ -1,0 +1,22 @@
+Cây phân tích cú pháp (tiếng Anh là parse tree) là một cây có gốc và thứ tự dùng để thể hiện cấu trúc cú pháp học của một chuỗi theo như một vài dạng ngữ pháp chính thức.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+Ágel, V., Ludwig Eichinger, Hans-Werner Eroms, Peter Hellwig, Hans Heringer, and Hennig Lobin (eds.) 2003/6. Dependency and valency: An international handbook of contemporary research. Berlin: Walter de Gruyter.
+Chiswell, Ian and Wilfrid Hodges 2007. Mathematical logic. Oxford: Oxford University Press.
+Aho, Alfred et al. 2007. Compilers: Principles, techniques, & tools. Boston: Pearson/Addison Wesley.
+
+
+== Liên kết ngoài ==
+Syntax Tree Editor
+Linguistic Tree Constructor
+phpSyntaxTree – Online parse tree drawing site
+phpSyntaxTree (Unicode) – Online parse tree drawing site (improved version that supports Unicode)
+Qtree – LaTeX package for drawing parse trees
+TreeForm Syntax Tree Drawing Software Lưu trữ 2010-05-07 tại Wayback Machine
+rSyntaxTree Enhanced version of phpSyntaxTree in Ruby with Unicode and Vectorized graphics
+Visual Introduction to Parse Trees Introduction and Transformation
+OpenCourseOnline Dependency Parse Introduction (Christoper Manning)

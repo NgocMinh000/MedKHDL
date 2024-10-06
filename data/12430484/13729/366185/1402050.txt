@@ -1,0 +1,197 @@
+Viêm gan siêu vi C là bệnh truyền nhiễm, chủ yếu ảnh hưởng đến gan, do siêu vi viêm gan C (HCV) gây ra. Bệnh thường không có triệu chứng, nhưng viêm mạn tính có thể dẫn đến mô sẹo ở gan và cuối cùng là xơ gan. Nhìn chung, triệu chứng của xơ gan biểu hiện rõ sau nhiều năm mắc phải. Trong một số trường hợp, bệnh nhân xơ gan sẽ bị suy gan, ung thư gan hoặc thực quản và giãn tĩnh mạch dạ dày có thể gây tử vong.
+HCV chủ yếu lây qua đường máu do tiêm chích ma túy, dụng cụ y khoa không đảm bảo vô khuẩn và truyền máu. Theo Tổ chức Y tế Thế giới, cả thế giới có khoảng 170 triệu người mắc bệnh viêm gan C, trong đó có khoảng 94 triệu người đang sống ở các nước châu Á.. Giả thuyết về bệnh viêm gan siêu vi C (lúc đầu gọi là "không A không B") được đưa ra vào thập niên 70 và đến năm 1989 thì xác định là bệnh viêm gan siêu vi C. Bệnh viêm gan siêu vi C chỉ có ở người và tinh tinh. Siêu vi tồn tại dai dẳng trong gan ở khoảng 85% bệnh nhân viêm gan C. Tình trạng viêm nhiễm dai dẳng có thể điều trị bằng thuốc: phác đồ điều trị chuẩn là kết hợp peginterferon và ribavirin, trong một số trường hợp dùng thêm hoặc boceprevir hoặc telaprevir. Nhìn chung, 50–80% bệnh nhân được điều trị lành bệnh. Những bệnh nhân chuyển sang xơ gan hoặc ung thư gan có lẽ cần phải ghép gan. Viêm gan siêu vi C là nguyên nhân hàng đầu dẫn đến ghép gan dẫu rằng tái nhiễm siêu vi C sau cấy ghép thường xảy ra. Hiện vẫn chưa có vắc xin phòng ngừa viêm gan siêu vi C
+
+
+== Biểu hiện triệu chứng ==
+
+
+=== Viêm cấp ===
+Bệnh viêm gan siêu vi C gây triệu chứng cấp ở 15% số ca nhiễm. Các triệu chứng thường nhẹ và không rõ ràng, nôn, đau cơ và khớp, và sụt cân. Hầu hết các ca viêm cấp không có vàng da. Có từ 10 đến 15% số ca nhiễm tự hồi phục, thường là ở bệnh nhân trẻ và nữ.
+
+
+=== Viêm mạn ===
+Khoảng 80% số người nhiễm siêu vi viêm gan C chuyển sang viêm mạn. Hầu hết rất ít biểu hiện triệu chứng hoặc không có triệu chứng trong vài chục năm đầu mắc bệnh. mặc dù viêm gan siêu vi C mạn có thể gây mệt mỏi. Viêm gan siêu vi C lâu năm là nguyên nhân gây xơ gan và ung thư gan. Có khoảng 10-30 % viêm mạn chuyển sang xơ gan trong thời gian 30 năm. Xơ gan thường xảy ra ở những người cũng bị viêm gan siêu vi B hoặc nhiễm HIV, nghiện rượu, và nam giới. Những người chuyển sang xơ gan có nguy cơ gấp 20 lần bị ung thư biểu mô tế bào gan. Tỉ lệ bị ung thư ở những người này là 1-3% mỗi năm, và nếu bị xơ gan lại thêm nghiện rượu thì nguy cơ cao hơn gấp 100 lần. Viêm gan siêu vi C là nguyên nhân gây ra 27% số ca xơ gan và 25% số ca ung thư biểu mô tế bào gan trên thế giới.
+Xơ gan có thể dẫn đến tăng áp lực tĩnh mạch cửa, cổ trướng (tích tụ nước ở bụng),dễ bầm tím hoặc chảy máu, giãn tĩnh mạch (tĩnh mạch giãn to, đặc biệt ở dạ dày và thực quản), vàng da, và hội chứng suy giảm nhận thức gọi là bệnh não do gan. Đây chính là nguyên nhân phổ biến đòi hỏi phải ghép gan.
+
+
+=== Biến chứng ngoài gan ===
+Viêm gan siêu vi C hiếm khi gây hội chứng Sjögren (rối loạn tự miễn), giảm tiểu cầu, lichen phẳng, bệnh tiểu đường, và rối loạn sinh sản bạch huyết tế bào B. Ước tính có 0,16% đến 45,4% bệnh nhân viêm gan siêu vi C mạn bị giảm tiểu cầu. Có giả định được đưa ra về mối liên hệ giữa viêm gan siêu vi C với  chứng ngứa sẩn cục Hyde  và viêm tiểu cầu thận tăng sinh màng. Viêm gan siêu vi C cũng gây biến chứng cryoglobulin huyết, một loại bệnh viêm mạch máu vừa và nhỏ (hay viêm mạch) do sự lắng đọng của phức thể miễn dịch liên quan đến cryoglobulin.
+
+
+== Vi rút học ==
+Siêu vi viêm gan C (HCV) là virút chứa ARN, nhỏ, chuỗi đơn dương có vỏ bọc. HCV thuộc chi hepacivirus, họ Flaviviridae. HCV có 7 kiểu gen (genotype) chính, biểu thị bằng số từ 1 đến 7. Ở Mỹ, có khoảng 70% số ca viêm gan siêu vi C do genotype 1, có 20% ca do genotype 2, và khoảng 1% do mỗi trong số các genotype còn lại gây ra. Genotype 1 cũng là loại gây bệnh phổ biến nhất ở Nam Mỹ và châu Âu.
+
+
+== Đường lây truyền bệnh ==
+
+Đường lây bệnh chủ yếu ở các nước phát triển là do tiêm chích ma túy (IDU), trong khi ở các nước đang phát triển chủ yếu qua truyền máu và thủ thuật y khoa không an toàn. Có 20% số ca vẫn chưa biết rõ nguyên nhân lây truyền; tuy nhiên, nhiều ca trong số này được cho là do IDU.
+
+
+=== Do tiêm chích ma túy ===
+IDU là yếu tố nguy cơ chính gây viêm gan siêu vi C ở nhiều nơi trên thế giới. Xem xét 77 nước thì thấy 25 nước (trong đó có Mỹ) có tỉ lệ viêm gan siêu vi C từ 60% đến 80% ở đối tượng chích ma túy. Và 12 nước có tỉ lệ mắc bệnh cao hơn 80%. Có 10 triệu người tiêm chích ma túy được cho là bị nhiễm bệnh viêm gan siêu vi C; Trung Quốc (1.6 triệu), Mỹ (1.5 triệu), và Nga (1.3 triệu) có tổng cộng số người tiêm chích bị nhiễm bệnh nhiều nhất. Nhiễm bệnh viêm gan siêu vi C ở những bạn tù tại Mỹ cao gấp 10 đến 20 lần so với dân số chung; điều này được cho là do hành vi mang tính nguy cơ cao ở trong tù, chẳng hạn như tiêm chích ma túy và xăm hình bằng dụng cụ không vô trùng.
+
+
+=== Sử dụng dịch vụ chăm sóc sức khỏe ===
+Truyền máu, truyền các sản phẩm máu, hoặc ghép gan mà không thử nghiệm HCV sẽ mang nguy cơ cao lây nhiễm bệnh. Mỹ tiến hành thử nghiệm truy tầm phổ quát vào năm 1992 và Canada vào năm 1990. Biện pháp này giúp làm giảm nguy cơ lây nhiễm từ 200 đơn vị máu có 1 ca nhiễm  xuống còn 10,000 đơn vị máu có 1 ca nhiễm và đến 10,000,000 đơn vị máu mới có 1 ca nhiễm.. Nguy cơ thấp vẫn tiếp tục duy trì bởi vì kể từ khi người hiến máu nhiễm bệnh viêm gan siêu vi C cho đến khi kiểm tra máu dương tính có thể từ 11–70 ngày phụ thuộc vào phương pháp thử nghiệm. Một số nước không thực hiện việc thử nghiệm viêm gan siêu vi C vì chi phí cao.
+Những người bị đâm phải kim của người có HCV dương tính có khả năng 1,8% nhiễm bệnh sau đó. Nguy cơ còn cao hơn nếu kim có lỗ rỗng và đâm sâu. Có nguy cơ bị lây nhiễm do niêm mạc tiếp xúc với máu nhưng thấp, và không gây lây nhiễm nếu da lành lặn tiếp xúc với máu.
+Dụng cụ bệnh viện cũng được xác định là đường lây truyền viêm gan siêu vi C gồm: dùng lại ống chích kim tiêm, lọ thuốc đa dụng, chai dịch truyền, và dụng cụ phẫu thuật không đảm bảo vô khuẩn, và các dụng cụ khác. Hạn chế việc thực thi bắt buộc các biện pháp phòng ngừa tiêu chuẩn nghiêm ngặt ở các cơ sở y nha công và tư được cho là nguyên nhân chính gây lây nhiễm HCV ở Ai Cập, nước có tỉ lệ nhiễm bệnh cao nhất thế giới.
+
+
+=== Đường tình dục ===
+Liệu viêm gan siêu vi C có thể lây qua đường quan hệ tình dục hay không vẫn còn tranh cãi. Trong khi có mối liên hệ giữa quan hệ tình dục mang nguy cơ cao và viêm gan siêu vi C, người ta vẫn chưa biết rõ lây nhiễm bệnh là do dùng ma túy mà không thú nhận hay là do quan hệ tình dục là yếu tố nguy cơ cao. Phần lớn bằng chứng cho thấy không có nguy cơ ở những đôi một vợ một chồng khác giới. Quan hệ tình dục gây trầy xước nhiều âm đạo, chẳng hạn quan hệ tình dục qua hậu môn, hoặc khi có bệnh lây qua đường quan hệ tình dục, trong đó có HIV hoặc loét âm đạo mang nguy cơ lây nhiễm. Chính phủ Mỹ chỉ khuyến cáo dùng bao cao su để ngừa lây nhiễm viêm gan siêu vi C ở những người có quan hệ tình dục với nhiều người.
+
+
+=== Xăm mình ===
+Xăm làm tăng nguy cơ mắc bệnh viêm gan siêu vi C gấp 2 đến 3 lần. Nguy cơ cao là do hoặc dụng cụ không vô khuẩn hoặc màu xăm nhiễm siêu vi gan C. Hình xăm hay xăm được thực hiện hoặc là trước giữa thập niên 80, "chui," hoặc không chuyên nghiệp gây ra mối quan ngại đặc biệt, vì trong những trường hợp như thế có thể thiếu kỹ thuật vô trùng. Nguy cơ cũng cao hơn ở hình xăm lớn. Ước tính có gần nửa bạn tù dùng chung dụng cụ xăm không vô trùng. Hiếm thấy trường hợp xăm mình ở cơ sở có giấy phép bị nhiễm trực tiếp HCV.
+
+
+=== Dùng chung vật dụng cá nhân ===
+Các đồ dùng chăm sóc cá nhân như dao cạo râu, bàn chải đánh răng, dụng cụ làm móng và chăm sóc bàn chân có thể nhiễm máu. Dùng chung các dụng cụ này tiềm tàng khả năng dẫn đến nhiễm HCV. Cần có biện pháp phòng ngừa thích hợp trong bất kỳ tình huống y khoa nào gây chảy máu, như vết mổ và vết thương. HCV không lây qua tiếp xúc thông thường như ôm, hôn, hoặc dùng chung dụng cụ ăn uống hoặc nấu nướng.
+
+
+=== Lây qua đường âm đạo ===
+Viêm gan C lây qua đường âm đạo từ mẹ bị nhiễm sang con chiếm ít hơn 10% số ca thai nghén. Không có biện pháp làm giảm nguy cơ này. Việc lây nhiễm xảy ra lúc nào trong quá trình mang thai vẫn chưa biết rõ, nhưng có lẽ ở cả vào thời kỳ mang thai và vào lúc sinh. Sanh lâu gây nguy cơ lây nhiễm cao hơn. Không có bằng chứng cho thấy bú sữa mẹ lây truyền HCV; tuy nhiên, đối với người mẹ nhiễm HCV thì hãy cẩn thận nên tránh cho con bú nếu núm vú nứt hoặc chảy máu, hoặc có lượng siêu vi cao trong máu.
+
+
+== Chẩn đoán ==
+
+Có một số xét nghiệm chẩn đoán viêm gan siêu vi C như: kháng thể HCV enzyme immunoassay hay gọi là ELISA, recombinant immunoblot assay, và HCV RNA polymerase chain reaction (PCR) định lượng. ARN của HCV có thể được phát hiện bằng PRC thường từ 1 đến 2 tuần sau khi nhiễm, trong khi kháng thể cần lâu hơn nhiều để hình thành, vì vậy đến lúc này mới phát hiện được.
+Bệnn viêm gan siêu vi C mạn được xác định là nhiễm siêu vi viêm gan C hơn 6 tháng căn cứ trên sự hiện diện của ARN. Viêm mạn thường không có triệu chứng trong vài chục năm đầu, vì vậy thường phát hiện sau khi kiểm tra mức độ men gan tăng hoặc khi kiểm tra định kỳ những người có nguy cơ cao. Xét nghiệm không thể phân biệt được viêm cấp tính và viêm mạn tính.
+
+
+=== Huyết thanh học ===
+Xét nghiệm viêm gan siêu vi C thường bắt đầu với xét nghiệm máu để tìm kháng thể HCV bằng xét nghiệm miễn dịch enzyme. Nếu kết quả dương tính thì làm xét nghiệm xác nhận nhằm kiểm chứng xét nghiệm miễn dịch và nhằm xác định lượng siêu vi. Xét nghiệm recombinant immunoblot assay dùng để kiểm chứng xét nghiệm miễn dịch và HCV RNA polymerase chain reaction dùng để định lượng siêu vi. Nếu không tìm thấy ARN và immunoblot dương tính thì có nghĩa là người đó đã nhiễm trước đó và không còn mang vi rút nữa do hoặc là điều trị hoặc tự khỏi; nếu immunoblot âm tính thì có nghĩa là xét nghiệm miễn dịch sai. Sau khi nhiễm khoảng 6–8 tuần thì kết quả mới cho dương tính.
+Men gan thay đổi trong thời gian đầu của bệnh và trung bình bắt đầu tăng sau khi nhiễm bệnh 7 tuần. Men gan hầu như không liên quan đến mức độ trầm trọng của bệnh.
+
+
+=== Sinh thiết ===
+Các loại sinh thiết gan dùng để xác định mức độ tổn thương gan hiện tại; tuy nhiên, có nguy cơ do thủ thuật này. Các biến đổi thường thấy là u nang bạch huyết ở mô mềm, nang bạch huyết ở bộ tam cửa, và thay đổi ống mật. Cũng có một số xét nghiệm máu nhằm tìm cách xác định mức độ xơ hóa gan và nhằm hạn chế sinh thiết gan.
+
+
+=== Kiểm tra tầm soát ===
+Chỉ 5–50% số người bị nhiễm ở Mỹ và Canada được cho là biết mình mắc bệnh. Những người có nguy cơ cao, trong đó có những người xăm mình, được khuyến cáo làm xét nghiệm kiểm tra. Đối với những người có men gan cao cũng cần rà soát vì đây thường là dấu hiệu duy nhất của viêm gan mạn. Kiểm tra định kỳ hiện không được khuyến cáo tại Mỹ. Tuy nhiên, vào năm 2012, Trung tâm kiểm soát và phòng ngừa bệnh (CDC) Hoa Kỳ khuyến cáo những người sinh từ 1945 đến 1965 cần làm một xét nghiệm kiểm tra.
+
+
+== Phòng ngừa ==
+Tính đến  năm 2011, không có vắc xin phòng ngừa viêm gan siêu vi C. Tuy nhiên, hiện có một số vắc xin đang được nghiên cứu bào chế và cho kết quả khả quan. Kết hợp chiến lược giảm tác hạichẳng hạn như cung cấp kim tiêm ống chích mới và điều trị dùng ma túy, làm giảm 75% nguy cơ viêm gan siêu vi C ở người tiêm chích. Kiểm tra những người hiến máu ở cấp độ quốc gia cũng quan trọng như tuân thủ biện pháp phòng ngừa quốc tế ở các cơ sở chăm sóc sức khỏe. Ở những nước không có đủ nguồn cấp ống chích, thì nên cho thuốc điều trị bằng đường uống thay vì đường tiêm.
+
+
+== Điều trị ==
+HCV gây viêm mạn ở 50–80% số người bị nhiễm. Khoảng 40-80% trong số viêm mạn này sạch siêu vi khi được điều trị. Rất ít trường hợp sạch siêu vi mà không phải điều trị. Bệnh nhân viêm gan siêu vi C mạn được khuyên tránh rượu và thuốc có hại cho gan, và tiêm vắc xin ngừa viêm gan siêu vi A và viêm gan siêu vi B. Những bệnh nhân viêm gan siêu vi C bị xơ gan nên kiểm tra siêu âm để tìm ung thư biểu mô tế bào gan.
+Bệnh viêm gan C mạn tính cần được điều trị càng sớm càng tốt nhằm:
+
+Giảm thiểu hoặc loại trừ hoàn toàn tình trạng viêm gan, do đó ngăn ngừa diễn tiến sang xơ gan, ung thư gan.
+Đào thải hoặc giảm bớt lượng siêu vi C trong cơ thể, đặc biệt là ở gan.
+
+
+=== Điều trị đặc hiệu ===
+
+
+==== Cây kế sữa ====
+Silymarin trong cây kế sữa ức chế vi rút viêm gan C (HCV) qua khả năng chống oxy hóa, kháng viêm và điều hòa miễn dịch, góp phần làm tăng hiệu quả bảo vệ gan. Một số nghiên cứu lâm sàng trong đó sử dụng các chiết xuất thảo dược, đặc biệt là silymarin, để điều trị cho bệnh nhân viêm gan C mãn tính, với mục đích chứng minh rằng loại thuốc này thích ứng tốt với các chất kháng virus và giúp giảm thiểu các phản ứng phụ bất lợi. Các nghiên cứu gần đây cũng chỉ ra rằng silymarin có tác dụng làm giảm sự hình thành kháng insulin. Điều này có ý nghĩa to lớn đối với những người mắc bệnh viêm gan C, thể hiện qua tỷ lệ đáp ứng virus bền vững (sustained virological response – SVR), cho thấy khi điều trị kết hợp silymarin với pegylated interferon và ribavirin thì lượng kháng insulin hình thành chỉ là một nửa (25-33%) so với những bệnh nhân không sử dụng silymarin – có lượng kháng insulin lên đến 60%.
+
+
+==== Interferon Alpha ====
+Cho đến nay, biện pháp cơ bản điều trị viêm gan siêu vi C là Interferon alpha. Đây là một chất tự nhiên của cơ thể, được sản xuất bởi các tế bào đề kháng khi bị nhiễm siêu vi. Như vậy, khi được dùng để điều trị bệnh viêm gan C, interferon alpha bắt chước đáp ứng tự nhiên của cơ thể chúng ta.
+Interferon alpha (RoferonỊ-A) được đóng sẵn trong bơm tiêm nhỏ, tiêm dưới da hoặc bắp thịt. Sau những lần tiêm đầu tiên, hầu hết bệnh nhân có cảm giác sốt nhẹ, mệt mỏi giống như cúm trong vài giờ. Lý do là việc điều trị Interferon alpha sẽ khởi động đáp ứng của cơ thể chống lại siêu vi trùng C, tương tự như đối với siêu vi trùng cúm. Những triệu chứng này giảm dần sau một vài tuần. Để hạn chế tác dụng phụ này, nên tiêm thuốc vào buổi tối và uống Paracetamol nửa tiếng trước khi tiêm. Trong thời gian điều trị, nên làm xét nghiệm máu để đánh giá đáp ứng. Sau khi kết thúc đợt điều trị, cần tiếp tục theo dõi 6 tháng tiếp theo, bởi vì một số bệnh nhân có thể tái phát sau khi ngưng điều trị.
+Hiên nay, một số phác đồ phối hợp kháng sinh chống virut cho kết quả khỏi bệnh cao hơn, ví dụ kết hợp Interferon alpha với Ribavirin.
+
+
+==== Chi phí điều trị ====
+Đến tháng 11/2014, Bảo hiểm xã hội Việt Nam vẫn chưa chi trả bảo hiểm thuốc cho bệnh nhân điều trị viêm gan siêu vi C. Chi phí thuốc khoảng từ 60 - 200 triệu đồng/ 1 bệnh nhân.
+
+
+== Tiên lượng ==
+Đáp ứng điều trị có khác nhau tùy theo genotype. Có 40-50% số bệnh nhân nhiễm HCV genotype 1 đáp ứng lâu dài với 48 tuần điều trị. Có 70-80% bệnh nhân nhiễm HCV genotype 2 và 3 đáp ứng lâu dài với 24 tuần điều trị. Có khoảng 65% số bệnh nhân nhiễm genotype 4 đáp ứng lâu dài với 48 tuần điều trị. Hiếm thấy hiệu quả trong điều trị bệnh genotype 6, và hiệu quả cho thấy trong 48 tuần điều trị với liều giống như liều cho bệnh genotype 1.
+
+
+== Bệnh dịch học ==
+
+Ước tính có 130–170 triệu người, hay khoảng 3% dân số thế giới, sống chung với viêm gan siêu vi C mạn tính. Có khoảng 3–4 triệu người nhiễm bệnh mỗi năm, và hơn 350,000 người tử vong do các biến chứng của viêm gan siêu vi C mỗi năm. Tỉ lệ tăng đều đặn vào thế kỷ 20 do cả IDU và thuốc điều trị qua đường tĩnh mạch hoặc dụng cụ y khoa không đảm bảo vô trùng.
+Trong số những bệnh nhân viêm mạn tính, nguy cơ bị xơ gan sau 20 năm có khác nhau giữa các nghiên cứu nhưng ước tính khoảng 10%-15% ở nam và khoảng 1-5% ở nữ. Nguyên nhân có sự khác nhau về nguy cơ vẫn chưa rõ. Một khi bị xơ gan thì tỉ lệ tiến triến sang ung thư biểu mô tế bào gan là từ 1%-4% mỗi năm.
+Ở Mỹ, khoảng 2% dân số bị viêm gan siêu vi C, với khoảng 35,000 đến 185,000 ca mới mỗi năm. Tỉ lệ mắc bệnh giảm ở các nước phương Tây vào thập niên 90 nhờ cải thiện việc kiểm tra máu trước khi truyền. Tỉ lệ tử vong hàng năm do HCV ở Mỹ từ 8,000 đến 10,000; tỉ lệ tử vong được dự tính sẽ tăng vì những người bị nhiễm do truyền máu trước khi xét nghiệm HCV cho kết quả dương tính.
+Tỉ lệ mắc bệnh cao hơn ở một số nước châu Phi và châu Á. Những nước có tỉ lệ bệnh đặc biệt cao là Ai Cập (22%), Pakistan (4.8%) và Trung Quốc (3.2%). Sở dĩ ở Ai Cập có tỉ lệ cao được cho là do chiến dịch điều trị hàng loạt bệnh sán máng không liên tục trong đó có sử dụng ống tiêm thủy tinh không vô trùng.
+
+
+== Lịch sử ==
+Vào giữa thập niên 70, Harvey J. Alter, Chủ nhiệm bộ môn Bệnh Lây Truyền thuộc Viện Y tế Quốc gia, và nhóm nghiên cứu của ông chứng minh hầu hết các ca viêm gan sau tiêm truyền không do siêu vi Viêm gan A hoặc B. Mặc dù khám phá này, các nỗ lực nghiên cứu quốc tế nhằm tìm cách xác định siêu vi, mà lúc đầu gọi là "viêm gan không A không B" (NANBH), bị thất bại trong thập niên sau đó. Vào năm 1987, Michael Houghton, Qui-Lim Choo, và George Kuo thuộc Chiron Corporation, cộng tác với bác sĩ D.W. Bradley thuộc Trung tâm kiểm soát và phòng ngừa bệnh, đã dùng phương pháp vô tính phân tử nhằm xác định vi sinh vật chưa biết này. Vào năm 1988, siêu vi này được Alter xác nhận bằng cách kiểm tra bộ mẫu NANBH. Vào tháng 4 năm 1989, việc phát hiện HCV được công bố trong hai bài báo trên tạp chí Science. Sự phát hiện siêu vi đưa đến cải thiện đáng kể trong chẩn đoán và cũng nâng cao điều trị chống siêu vi. Vào năm 2000, nữ bác sĩ Alter và Houghton được vinh danh nhận Giải Lasker dành cho nghiên cứu y học lâm sàng vì "công trình tiên phong đưa đến việc phát hiện siêu vi gây viêm gan C và tìm ra phương pháp kiểm tra làm giảm nguy cơ viêm gan do truyền máu từ 30% vào năm 1970 xuống gần như 0% vào năm 2000."
+Chiron đệ đơn xin cấp bằng sáng chế về siêu vi C và chẩn đoán siêu vi C. Vào năm 1990, CDC rút đơn xin cấp bằng sáng chế cạnh tranh sau khi Chiron trả 1,9 triệu đô la Mỹ cho CDC và 337.500 đô la Mỹ cho Bradley. Vào năm 1994, Bradley kiện Chiron, tìm cách vô hiệu bằng sáng chế, đưa tên mình vào làm đồng phát minh, và nhận tiền bồi thường và thu nhập khủng. Vào 1998, ông bỏ vụ kiện sau khi bị thua kiện ở tòa phúc thẩm.
+
+
+== Xã hội và văn hóa ==
+Ngày viêm gan thế giới, được tổ chức vào 28 tháng 7 do Liên đoàn viêm gan thế giới (World Hepatitis Alliance) điều phối. Về mặt kinh tế, chi phí cho viêm gan C rất tốn kém đối với cả cá nhân và xã hội. Ở Mỹ, trung bình, chi phí suốt đời dành điều trị bệnh ước tính 33,407 đô la Mỹ vào năm 2003 với chi phí ghép gan tính đến  năm 2011 khoảng 200,000 đô la Mỹ. Ở Canada chi phí cho đợt điều trị chống siêu vi lên đến 30,000 đô la Canada vào năm 2003, trong khi ở Mỹ từ 9.200 đến 17.600 đô la Mỹ vào năm 1998. Ở nhiều nước trên thế giới, người ta không thể trả nổi tiền điều trị chống siêu vi vì họ hoặc không có bảo hiểm hoặc bảo hiểm của họ không chi trả tiền điều trị chống siêu vi.
+
+
+== Nghiên cứu ==
+Tính đến 2011, có khoảng 100 loại thuốc điều trị viêm gan siêu vi C đang được nghiên cứu. Trong số đó, có vắc xin phòng viêm gan, tác nhân điều biến miễn dịch, và ức chế cyclophilin, và những thuốc khác. Có được những phương pháp điều trị mới tiềm năng này là nhờ sự hiểu biết nhiều hơn về siêu vi viêm gan siêu vi C.
+Viêm gan siêu vi C là bệnh do siêu vi viêm gan C - một loại virút - xâm nhập tế bào gan, gây ra bệnh viêm gan.
+HCV xâm nhập thẳng vào cơ thể qua máu; rồi tấn công tế bào gan và sinh sôi nảy nở tại đây, làm cho tế bào gan sưng lên và đồng thời giết các tế bào gan. Có đến 80% những người bị nhiễm HCV có khả năng trở thành bệnh kinh niên (chronic) - có nghĩa là 6 tháng sau khi bị nhiễm, bệnh vẫn không hết. Đa số những người bị HCV kinh niên không thấy có triệu chứng nào và vẫn có cuộc sống bình thường. Tuy nhiên, trong số 10 - 25% người có HCV kinh niên, bệnh sẽ âm thầm tiến triển trong khoảng 10 - 40 năm, và có thể làm hư gan trầm trọng, xơ gan (cirrhosis), hoặc ung thư gan. Hiện nay bệnh viêm gan C là nguyên nhân hàng đầu đưa đến việc thay ghép gan tại Hoa Kỳ. Cho đến nay chưa có thuốc chích ngừa hoặc thuốc để chữa lành hẳn bệnh HCV. Tuy nhiên nhiều phương pháp trị liệu được áp dụng có thể tiêu diệt và/hoặc làm chậm lại hay chận đứng sự phát triển của HCV cho một số người.
+
+
+== Cách lây nhiễm ==
+Siêu vi viêm gan C lưu hành trong máu, do đó bệnh viêm gan C lây truyền chủ yếu qua đường máu. Những đường lây nhiễm siêu vi C chủ yếu: 
+
+Người nhận máu hoặc chế phẩm máu nhiễm siêu vi C: Mặc dù các biện pháp lựa chọn người cho máu đang được áp dụng, Viêm gan siêu vi C vẫn có thể lọt lưới và được truyền sang người nhận.
+Dùng chung kim tiêm nhiễm siêu vi C: Sử dụng chung kim tiêm ở những người nghiện ma túy làm gia tăng đáng kể lây nhiễm bệnh viêm gan C.
+Nhân viên Y tế: Bất kỳ nhân viên Y tế nào (Bác sĩ, Nha sỹ, Y tá, Y công.) cũng có thể bị nhiễm Viêm gan siêu vi C do tiếp xúc với bệnh phẩm chứa siêu vi trong quá trình làm việc.
+Đường tình dục: Có nguy cơ lây nhiễm siêu vi C qua quan hệ tình dục nhưng hiếm hơn bệnh viêm gan B.
+Mẹ truyền sang con: Người ta ghi nhận có sự lây truyền từ mẹ sang con, nhưng tỉ lệ thấp.
+Nguyên nhân khác: xăm mình, xỏ lỗ tai với vật dụng không tẩy trùng tốt có thể lây truyền siêu vi C.
+Không rõ đường lây nhiễm: chiếm 30-40% trường hợp.
+
+
+== Diễn biến tự nhiên ==
+Nhiễm trùng cấp tính
+
+Phần lớn bệnh nhân không có triệu chứng lâm sàng. Một số khác có biểu hiện mệt mỏi, chán ăn, có thể vàng da, vàng mắt, nước tiểu đậm màu.Chẩn đoán bệnh dựa vào xét nghiệm máu.
+
+Nhiễm trùng mạn tính
+
+Khoảng 85% trường hợp nhiễm Viêm gan siêu vi C sẽ chuyển thành viêm gan mạn tính, nghĩa là không đào thải được virut sau 6 tháng. Đặc điểm nổi bật của bệnh viên gan C mạn tính là sự tiến triển rất thầm lặng qua 10-30 năm, vì thế người bệnh thường không được chẩn đoán và điều trị kịp thời. Nhiều trường bệnh chỉ được phát hiện khi đã có biến chứng nghiêm trọng: xơ gan với biểu hiện báng bụng (ổ bụng có nước), giãn mạch máu đường tiêu hóa, có thể vỡ gây chảy máu ồ ạt và tử vong. Một biến chứng nữa là ung thư tế bào gan.
+Khi đã xơ, gan khó hồi phục lại, cho dù tình trạng viêm có thuyên giảm. Vì vậy, các thầy thuốc khuyên nên điều trị sớm nhằm ngăn ngừa hoặc làm chậm tiến triển sang giai đoạn xơ gan.
+
+
+== Chẩn đoán ==
+
+
+=== Xét nghiệm máu ===
+Men gan tăng chứng tỏ tế bào gan đang bị phá hủy. Kháng thể chống siêu vi C dương tính trong hầu hết các trường hợp. Chức năng gan có thể rối loạn tùy mức độ và thời gian bị bệnh.
+
+
+=== Khám chuyên khoa gan ===
+Sau khi xác nhận đang có quá trình viêm gan, nên làm thêm các xét nghiệm:
+
+Xét nghiệm đánh giá chức năng gan
+Siêu âm gan: Nhằm nghiên cứu cấu trúc của gan và các bộ phận xung quanh, tìm dấu hiệu xơ gan hoặc biểu hiện bất thường khác.
+Sinh thiết gan: Xét nghiệm này cho phép các chuyên gia quan sát tế bào gan dưới kính hiển vi, xác định mức độ viêm nhiễm, chẩn đoán giai đoạn bệnh, đánh giá hiệu quả điều trị.
+Xét nghiệm HCV RNA: Phát hiện trực tiếp siêu vi trong máu, đồng thời định danh dưới nhóm để lựa chọn phác đồ hợp lý. Xét nghiệm này còn được sử dụng để tiên lượng đáp ứng tốt với điều trị.
+
+
+== Lời khuyên chế độ ăn và lối sống ==
+
+
+=== Chế độ ăn ===
+Nên hạn chế uống rượu bia, bởi vì xơ gan dễ xảy ra hơn ở người viêm gan đồng thời nghiện rượu. Bệnh nhân viêm gan C có thể duy trì chế độ ăn lành mạnh bình thường. Khi đã có xơ gan, bác sĩ khuyên nên áp dụng chế độ ăn giảm muối và giảm béo.
+
+
+=== Lối sống ===
+Siêu vi viêm gan C lây truyền qua đường máu. Nếu bị đứt tay, hãy lau sạch máu bằng dung dịch sát trùng. Mặc dù nguy cơ lây nhiễm thấp, vẫn nên áp dụng phương pháp bảo vệ khi quan hệ tình dục.
+
+
+== Tham khảo ==
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Viêm gan siêu vi C: "Kẻ giết người thầm lặng"!
+Viêm gan siêu vi C và việc dùng thuốc
+Sẽ có vaccin phòng viêm gan C
+"Dính" viêm gan C, ai cũng phải chữa?
+Thuốc viêm gan siêu vi C: Công ty bảo còn, nhà thuốc nói hết
+Viêm gan siêu vi C, đừng hốt hoảng
+Khốn khổ với viêm gan siêu vi C
+Viêm gan siêu vi C: Điều trị càng sớm càng tốt
+Triển vọng mới về vắc-xin viêm gan siêu vi C
+Gánh nặng xã hội từ viêm gan siêu vi C

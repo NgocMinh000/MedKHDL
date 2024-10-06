@@ -1,0 +1,80 @@
+Thực khuẩn thể (tiếng Anh bacteriophage (), cũng được gọi là phage () là một dạng virus duplodnaviria nó lây nhiễm và nhân lên ở các loài vi khuẩn và cổ khuẩn. Thể thực khuẩn được hình thành bởi protein là vỏ bọc ngoài (capsid), một bộ gen DNA hoặc RNA và chúng có cấu trúc phức tạp hoặc đơn giản. Bộ gen của chúng có thể mã hóa ít nhất 4 gen (ví dụ Thực khuẩn thể MS2) và nhiều nhất lên đến hàng trăm gen. Các phage sao chép trong vi khuẩn sau khi tiêm bộ gen của chúng vào tế bào chất của vi khuẩn.
+Thuật ngữ này trong tiếng Anh là bacteriophage xuất xứ từ tiếng Hy Lạp: bacterium (vi khuẩn) ghép với φαγεῖν (phagein nghĩa là ăn, nuốt), nghĩa đen là loại vật thể ăn vi khuẩn. Ở Việt Nam, thuật ngữ này còn được gọi là "thể thực khuẩn" hoặc "thể ăn khuẩn". Các tài liệu chuyên ngành thường gọi tắt là "phage".
+
+
+== Định nghĩa đồng nghĩa ==
+Là một tập hợp các loài virus chuyên kí sinh vi khuẩn.
+Là những "vật ăn vi khuẩn" và là các virus chỉ nhân lên được bên trong vi khuẩn. Vì chúng có kích thước rất nhỏ nên người ta còn gọi chúng là hạt (particle).
+
+
+== Đặc điểm cơ bản ==
+Thực khuẩn thể riêng lẻ không được coi là một sinh vật. Cũng như virus, chúng chỉ có biểu hiện sống khi kí sinh trong vật chủ thích hợp. Các nhà khoa học đã từng "cô đặc" virus thành dạng như tinh thể, lưu giữ được rất lâu dài.
+Mỗi thực khuẩn thể cũng như virus có vật chất di truyền (bộ gen) chỉ thuộc một loại DNA hoặc RNA, mà không có cả hai như ở mọi sinh vật khác.
+Thực khuẩn thể (cũng như virus) không có cấu tạo tế bào, không có hệ giải mã và dịch mã di truyền riêng biệt.
+Thực khuẩn thể (cũng như virus) không có cấu trúc giúp nó tự di động, mà hoàn toàn bị phát tán bởi tác nhân bên ngoài (qua không khí, dòng nước, tiếp xúc...).
+Chúng không có khả năng lớn lên, nghĩa là không tăng được kích thước "cơ thể".
+Thể thực khuẩn là một trong những thực thể sống phổ biến và đa dạng nhất trong sinh quyển. Thể thực khuẩn là những virus phổ biến, được tìm thấy ở bất cứ nơi đâu có vi khuẩn. Người ta ước tính có hơn 1031 thể thực khuẩn trên hành tinh, nhiều hơn tất cả các sinh vật khác trên trái đất, bao gồm vi khuẩn.
+Các thể thực khuẩn được tìm thấy tại các địa điểm tập trung đông vi khuẩn chủ như đất hoặc trong ruột động vật. Một trong những nguồn tự nhiên lớn nhất cho các loại vi rút gây bệnh và các loại virut khác là nước biển, nơi có tới 9 × 10^8 virion / ml được tìm thấy trong thảm vi sinh vật, và tới 70% vi khuẩn biển có thể bị nhiễm virut. Chúng đã được sử dụng trong hơn 90 năm để thay thế cho kháng sinh ở Liên Xô cũ và Trung Âu, cũng như ở Pháp. Chúng được xem như một liệu pháp có hiệu quả đối với nhiều chủng vi khuẩn kháng thuốc. Tuy nhiên, các thể của Inoviridae đã cho thấy sự phức tạp của các màng sinh học liên quan đến viêm phổi và xơ nang, giữ cho vi khuẩn an toàn khỏi các loại thuốc có tác dụng diệt trừ bệnh và thúc đẩy sự nhiễm trùng liên tục.
+
+
+== Phân loại ==
+Thực khuẩn thể xuất hiện nhiều trong sinh quyển, với các virion, bộ gen và lối sống khác nhau. Các thực khuẩn thể được phân loại bởi Ủy ban Quốc tế về Phân loại Virus (ICTV) dựa trên hình thái học và axit nucleic. 
+Mười chín họ hiện đang được ICTV công nhận nhiễm khuẩn và vi khuẩn. Trong số này, chỉ có hai họ có bộ gen RNA, và chỉ có năm gia đình có vỏ bao bọc. Trong số những họ virus có bộ gen DNA, chỉ có hai bộ gen đơn. Tám phần trăm các họ có bộ gen DNA có bộ gen hình vòng, trong khi 9 có bộ gen tuyến tính. Chín họ chỉ lây nhiễm vi khuẩn, chỉ có 9 vi khuẩn cổ và chỉ có một (Tectiviridae) nhiễm cả vi khuẩn và Vi khuẩn cổ.
+
+Về mặt cấu trúc, các thể thực khuẩn được chia thành 3 nhóm chính: 
+
+Không đuôi.
+Có đầu và đuôi.
+Có lông
+Hoặc, các thực khuẩn thể có thể phân thành, thể thực khuẩn độc (virulent) và thể thực khuẩn ôn hoà (temperate), tùy thuộc vào chu trình sống của chúng.
+
+
+== Lịch sử ==
+Năm 1896, Ernest Hanbury Hankin báo cáo rằng một cái gì đó trong vùng sông Ganges và Yamuna ở Ấn Độ đã đánh dấu hành động kháng khuẩn chống lại bệnh tả và có thể đi qua một bộ lọc sứ rất tốt. Năm 1915, nhà nghiên cứu vi khuẩn học người Anh, Frederick Twort, Tổng giám đốc Tổ chức Brown ở London, phát hiện ra một bộ phận nhỏ đã nhiễm và giết chết vi khuẩn. Ông tin rằng nguyên nhân phải là một trong những tác nhân sau đây:
+
+Một giai đoạn trong vòng đời của vi khuẩn;
+Một loại enzim sản xuất bởi chính vi khuẩn; 
+Một loại virut phát triển và tiêu diệt vi khuẩn.
+Nghiên cứu của Twort bị gián đoạn bởi sự khởi đầu của Chiến tranh thế giới lần thứ nhất và sự thiếu hụt tài chính. Sau đó, nhà vi sinh vật học người Pháp - Canada Félix d'Hérelle, làm việc tại Viện Pasteur ở Paris, công bố vào ngày 3 tháng 9 năm 1917 rằng ông đã phát hiện ra "một vi khuẩn đối kháng vô trùng của bệnh kiết lị". Đối với d'Hérelle, không có câu hỏi gì về bản chất của phát hiện của ông: "Trong nháy mắt tôi đã hiểu: những gì gây ra các điểm sáng của tôi thực sự là một vi khuẩn vô hình.... một vi khuẩn ký sinh trùng trên vi khuẩn." D'Hérelle gọi loại vi khuẩn này là vi khuẩn ăn thực vật hoặc người ăn vi khuẩn (từ phagein Hy Lạp có nghĩa là ăn). Ông cũng ghi lại một bài diễn văn kịch liệt về một người đàn ông mắc chứng kiết đã được phục hồi sức khoẻ bằng các vi khuẩn (trang 44-59). Đó là D'Herelle, người đã tiến hành nhiều nghiên cứu về thể thực khuẩn và đưa ra khái niệm về liệu pháp gây mê.
+Năm 1969, Max Delbrück, Alfred Hershey và Salvador Luria được trao giải Nobel về Sinh lý học hoặc Y khoa cho những khám phá về sự sao chép của virus và cấu trúc di truyền của chúng.
+
+
+== Liệu pháp cụ thể ==
+Các thực khuẩn thể được phát hiện là các chất kháng khuẩn và được sử dụng ở Cộng hòa Xô Viết cũ của Gruzia (do Giorgi Eliava tiên phong với sự trợ giúp của đồng phát hiện ra vi khuẩn Felix d'Herelle) và Hoa Kỳ trong những năm 1920 và 1930 để điều trị vi khuẩn nhiễm trùng. Họ đã sử dụng rộng rãi, bao gồm cả việc điều trị những người lính trong Hồng quân. Tuy nhiên, chúng đã bị quên lãng ở phương Tây vì một số lý do:
+
+Các thử nghiệm y tế đã được thực hiện, nhưng sự thiếu hiểu biết về các loại thực phẩm làm cho chúng không hợp lệ.  
+Kháng sinh được phát hiện và giới thiệu rộng rãi. Họ đã được dễ dàng hơn để thực hiện, lưu trữ và để quy định
+Các nghiên cứu trước đây của Liên Xô vẫn tiếp tục, nhưng các ấn bản chủ yếu bằng tiếng Nga hoặc Gruzia và đã không có mặt trên thế giới trong nhiều năm.
+Việc sử dụng của họ đã tiếp tục kể từ khi Chiến tranh Lạnh kết thúc ở Georgia và các nơi khác ở Trung và Đông Âu. Cuộc thử nghiệm lâm sàng ngẫu nhiên mù đôi đã được công bố trên tạp chí Journal of Wound Care vào tháng 6 năm 2009 đánh giá tính an toàn và hiệu quả của một loại cocktail vi khuẩn để điều trị loét chân tĩnh mạch ở bệnh nhân là con người. FDA chấp thuận nghiên cứu như một thử nghiệm lâm sàng Giai đoạn I. Các kết quả nghiên cứu chứng minh sự an toàn của việc áp dụng các liệu pháp điều trị vi khuẩn nhưng không cho thấy hiệu quả. Các tác giả giải thích rằng việc sử dụng một số hóa chất nhất định là một phần của việc chăm sóc vết thương tiêu chuẩn (ví dụ lactoferrin hoặc bạc) có thể đã can thiệp vào khả năng sống sót của vi khuẩn. Một thử nghiệm lâm sàng được kiểm soát ở Tây Âu (điều trị nhiễm trùng tai do Pseudomonas aeruginosa) được báo cáo ngay sau khi đăng trên tạp chí Clinical Otolaryngology vào tháng 8 năm 2009. Nghiên cứu kết luận rằng các chế phẩm thể thực khuẩn là an toàn và hiệu quả trong điều trị nhiễm trùng tai mạn tính ở người. Ngoài ra, đã có rất nhiều động vật và các thử nghiệm lâm sàng thực nghiệm khác đánh giá hiệu quả của thể thực khuẩn đối với các bệnh khác nhau, như bỏng và vết thương do nhiễm khuẩn, và chứng xơ phổi liên quan đến xơ phổi. Trong khi đó, các nhà nghiên cứu vi khuẩn đang phát triển các loại virut có khả năng vượt qua sự kháng thuốc và thiết kế các gen gây bệnh cho các enzyme mã hoá làm suy giảm ma trận của màng sinh học, các protein cấu trúc của thể và các enzyme chịu trách nhiệm phân lập thành tế bào vi khuẩn. Đã có kết quả cho thấy rằng các thể T4 có kích thước nhỏ và đuôi ngắn có thể hữu ích trong việc phát hiện các vi khuẩn E.coli trong cơ thể người.
+D'Herelle đã nhanh chóng tìm hiểu được rằng thể thực khuẩn được phát hiện ở bất cứ nơi nào vi khuẩn phát triển: trong cống rãnh, trong các dòng sông chảy xuống dòng chảy của chất thải từ đường ống, trong các phân của bệnh nhân hồi phục,... Điều này cũng bao gồm các dòng sông được cho là có khả năng chữa bệnh, như sông Ganges của Ấn Độ.
+
+
+== Thực khuẩn thể thường được nghiên cứu ==
+Trong số các thực khuẩn thể, chỉ có một số ít được nghiên cứu chi tiết, bao gồm một số thể thực khuẩn quan trọng về mặt lịch sử đã được phát hiện trong những ngày đầu của quá trình di truyền vi sinh vật. Các phage này, đặc biệt là thể thực khuẩn T, đã giúp khám phá ra những nguyên tắc quan trọng về cấu trúc và chức năng của gen.
+
+
+== Xem thêm ==
+Bacterivore
+CrAssphage
+DNA viruses
+Phage ecology
+Phage monographs
+Polyphage
+RNA viruses
+Transaction
+Viriome
+CRISPR
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Animation of bacteriophage targeting E. coli bacteria
+Häusler, T. (2006) "Viruses vs. Superbugs", Macmillan
+Phage.org general information on bacteriophages
+bacteriophages illustrations and genomics Lưu trữ 2013-10-29 tại Wayback Machine
+Bacteriophages get a foothold on their prey Lưu trữ 2017-11-05 tại Wayback Machine
+Phages Fight Bacteria Lưu trữ 2017-12-28 tại Wayback Machine Annette Heist APR. 04, 2008 archive
+T4 bacteriophage.
+3VjE1zddXWk trên YouTube

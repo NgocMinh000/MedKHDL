@@ -1,0 +1,51 @@
+Mạng nano hay mạng có kích thước nano là một tập hợp các thiết bị có kích thước nano được kết nối với nhau (các thiết bị có kích thước tối đa là vài trăm nanomet hoặc vài micromet), chỉ có thể thực hiện các tác vụ rất đơn giản như tính toán, lưu trữ dữ liệu, cảm biến và truyền động. Các mạng nano dự kiến sẽ mở rộng khả năng của các máy nano cả về độ phức tạp và phạm vi hoạt động bằng cách cho phép chúng phối hợp, chia sẻ và tổng hợp thông tin. Mạng nano cho phép các ứng dụng mới của công nghệ nano trong lĩnh vực y sinh, nghiên cứu môi trường, công nghệ quân sự và các ứng dụng hàng công nghiệp và tiêu dùng. Giao tiếp ở cấp độ nano được định nghĩa trong IEEE P1906.1.
+
+
+== Phương pháp giao tiếp ==
+Các mô hình giao tiếp cũ cần được sửa đổi bằng kích thước nano. Hai lựa chọn thay thế chính cho giao tiếp ở quy mô nano là dựa trên giao tiếp điện từ hoặc giao tiếp phân tử.
+
+
+=== Điện từ ===
+Đây được định nghĩa là sự truyền và nhận bức xạ điện từ từ các thành phần dựa trên vật liệu nano mới. Những tiến bộ gần đây trong carbon và điện tử phân tử đã mở ra cánh cửa cho một thế hệ mới của các thành phần nano điện tử như pin nano, hệ thống thu năng lượng nano, bộ nhớ nano, mạch logic có kích thước nano và thậm chí cả ăng-ten nano. Từ góc độ truyền thông, các đặc tính độc đáo quan sát được trong vật liệu nano sẽ quyết định các băng thông cụ thể để phát bức xạ điện từ, độ trễ thời gian của bức xạ, hoặc cường độ của công suất phát ra đối với một năng lượng đầu vào nhất định, trong số các băng thông khác.
+Hiện tại, hai giải pháp thay thế chính cho liên lạc điện từ ở quy mô nano đã được hình dung. Đầu tiên, nó đã được chứng minh bằng thực nghiệm rằng có thể nhận và giải điều chế một sóng điện từ bằng radio nano, tức là, một ống nano carbon cộng hưởng điện cơ có thể giải mã một sóng điều biến biên độ hoặc tần số. Thứ hai, các ăng-ten nano dựa trên graphene đã được phân tích như một bộ tản nhiệt điện từ tiềm năng trong dải terahertz.
+
+
+=== Phân tử ===
+Giao tiếp phân tử được định nghĩa là sự truyền và nhận thông tin bằng các phương tiện của các phân tử. Các kỹ thuật giao tiếp phân tử khác nhau có thể được phân loại theo kiểu lan truyền phân tử trong giao tiếp dựa trên đường đi, dựa trên dòng chảy hoặc dựa trên sự khuếch tán.
+Trong giao tiếp phân tử dựa trên đường đi, các phân tử lan truyền qua các con đường được xác định trước, chẳng hạn như động cơ có kích thước phân tử. Kiểu giao tiếp phân tử này cũng có thể đạt được bằng cách sử dụng vi khuẩn E.coli làm phương pháp điều hòa hóa học.
+Trong giao tiếp phân tử dựa trên dòng chảy, các phân tử lan truyền thông qua sự khuếch tán trong môi trường chất lỏng. Sự giao tiếp nội tiết tố thông qua các dòng máu bên trong cơ thể con người là một ví dụ về kiểu lan truyền này. Sự lan truyền dựa trên luồng cũng có thể được thực hiện bằng cách sử dụng các thực thể sóng mang mà chuyển động của chúng có thể bị hạn chế ở mức trung bình dọc theo các đường dẫn cụ thể, mặc dù hiển thị một thành phần ngẫu nhiên. Một ví dụ điển hình về trường hợp này được đưa ra bởi truyền thông phân tử pheromonal ở xa.
+Trong giao tiếp phân tử dựa trên sự khuếch tán, các phân tử lan truyền thông qua sự khuếch tán tự phát trong môi trường chất lỏng. Trong trường hợp này, các phân tử có thể chỉ tuân theo quy luật khuếch tán hoặc cũng có thể bị ảnh hưởng bởi sự hỗn loạn không thể đoán trước hiện diện trong môi trường chất lỏng. Giao tiếp pheromonal, khi pheromone được giải phóng vào môi trường chất lỏng, chẳng hạn như không khí hoặc nước, là một ví dụ dựa trên sự khuếch tán. Các ví dụ khác về loại vận chuyển này bao gồm truyền tín hiệu calci giữa các tế bào, cũng như sự cảm nhận giữa các vi khuẩn.
+Dựa trên lý thuyết vĩ mô về sự khuếch tán, xung phân tử đã được báo cáo trong một bài báo xác định rằng đáp ứng xung của kênh truyền thông phân tử dựa trên khuếch tán lý tưởng trải qua sự lan truyền theo thời gian. Sự lan truyền theo thời gian như vậy có tác động sâu sắc đến hiệu suất của hệ thống, ví dụ như trong việc tạo ra giao thoa giữa các ISI tại máy nano tiếp nhận. Để phát hiện tín hiệu phân tử được mã hóa theo nồng độ, hai phương pháp phát hiện có tên là phát hiện dựa trên lấy mẫu (SD) và phát hiện dựa trên năng lượng (ED) đã được đề xuất. Trong khi cách tiếp cận SD dựa trên biên độ nồng độ của chỉ một mẫu được lấy tại một thời điểm thích hợp tức thì trong thời gian ký hiệu, thì cách tiếp cận ED dựa trên tổng số phân tử tích lũy nhận được trong toàn bộ thời gian ký hiệu. Để giảm tác động của ISI, một sơ đồ truyền thông phân tử dựa trên độ rộng xung có kiểm soát đã được phân tích. Công trình được trình bày trong đó cho thấy rằng có thể nhận ra điều chế biên độ đa mức dựa trên sự khuếch tán. Một nghiên cứu toàn diện về hệ thống truyền thông phân tử mã hóa nồng độ và nhị phân dựa trên xung và dựa trên xoang, cũng đã được nghiên cứu.
+
+
+== Xem thêm ==
+IEEE P1906.1 Recommended Practice for Nanoscale and Molecular Communication Framework
+
+
+=== Các loại mạng Internet khác: ===
+Mạng cục bộ
+Mạng diện rộng
+Mạng khu vực Internet
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+IEEE Communications Society Best Readings in Nanoscale Communication Networks
+Stack Exchange Page for Q&A on NanoNetworking
+Nanoscale Networking in Industry Lưu trữ 2012-03-09 tại Wayback Machine
+Instructions to join P1906.1 Working Group
+MONACO Project – Broadband Wireless Networking Laboratory at Georgia Tech, Atlanta, Georgia, USA
+GRANET Project – Broadband Wireless Networking Laboratory at Georgia Tech, Atlanta, Georgia, USA
+NaNoNetworking Center in Catalunya at Universitat Politècnica de Catalunya, Barcelona, Catalunya, Spain
+Molecular communication research at York University, Toronto, Canada
+Research on Molecular Communication at University of Ottawa, Ottawa, Canada
+Intelligence Networking Lab. at Yonsei University, Korea
+Wiki on Molecular Communication at University of California, Irvine, California, USA
+Home page of the IEEE Communications Society Emerging Technical Subcommittee on Nanoscale, Molecular, and Quantum Networking.
+P1906.1 – Recommended Practice for Nanoscale and Molecular Communication Framework Lưu trữ 2015-06-19 tại Wayback Machine
+IEEE 802.15 Terahertz Interest Group
+Nano Communication Networks (Elsevier) Journal
+A simulation tool for nanoscale biological networks – Elsevier presentation
+NanoNetworking Research Group (NRG) at Bogazici University, Istanbul, Turkey

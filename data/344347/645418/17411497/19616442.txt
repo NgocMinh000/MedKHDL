@@ -1,0 +1,28 @@
+Biến thể Lambda SARS-CoV-2, còn được gọi là dòng C.37, là một biến chủng của SARS-CoV-2, virus gây bệnh COVID-19. Biến thể này được phát hiện lần đầu tại Peru vào tháng 12 năm 2020. Vào ngày 14 tháng 6 năm 2021, Tổ chức Y tế Thế giới (WHO) chính thức dùng tên Lambda để đặt cho biến thể này và phân loại nó là một biến thể cần quan tâm. Biến thể Lambda đã lan ra ít nhất 30 quốc gia trên toàn thế giới và có thể có khả năng kháng vắc-xin cao hơn các chủng khác. Ngoài ra cũng có dấu hiệu cho thấy chủng Lambda có khả năng lây nhiễm cao hơn cả các biến thể Alpha hay Gamma.
+Một số nhà khoa học đã chỉ ra, lambda có độ nhạy cảm giảm vừa phải đối với sự trung hòa bởi huyết thanh dưỡng bệnh và kháng thể đơn dòng REGN10987, đồng thời giảm nhẹ độ nhạy đối với BNT162b2 (vaccine Pfrizer), mRNA ‐ 1273 (vaccine Moderna) và CoronaVac (vaccine CoronaVac) được chứng nhận kháng thể, trong khi vẫn giữ được độ nhạy cao với REGN10933.
+
+
+== Đột biến ==
+Bộ gen của chủng Lambda có các đột biến amino acid sau, tất cả đều nằm trong đoạn mã protein gai của virus: G75V, T76I, Δ246-252, L452Q, F490S, D614G và T859N.
+
+		
+			
+			
+		
+
+
+== Lịch sử ==
+Các mẫu biến thể Lambda đầu tiên được phát hiện tại Peru vào tháng 12 năm 2020 và cho tới tháng 4 năm 2021, hơn 80% các ca nhiễm mới ở nước này đều là từ biến chủng mới.
+Tới tháng 6 năm 2021, biến chủng Lambda đã bắt đầu lan ra khắp Nam Mỹ và đã được phát hiện tại tổng cộng 29 quốc gia, đặc biệt là tại Argentina, Chile và Ecuador. WHO xếp Lambda là một "biến thể cần quan tâm" vào ngày 14 tháng 6 năm 2021. Vào giữa tháng 6 năm 2021, 90,6% các ca COVID-19 mới tại Arequipa và 78,1% các ca mới tại Cusco đều nhiễm biến chủng Lambda, theo Bộ Y tế Peru.
+Vào ngày 6 tháng 7, Úc ghi nhận ca nhiễm biến thể Lambda đầu tiên là một du khách nước ngoài từng cách ly tại một khách sạn ở New South Wales từ tháng 4.
+
+
+== Thống kê ==
+
+
+== Xem thêm ==
+
+Các biến chủng của SARS-CoV-2
+
+
+== Tham khảo ==

@@ -1,0 +1,45 @@
+Toán sinh học (tiếng Anh: mathematical biology hay biomathematics) là một lĩnh vực giao thoa (interdisciplinary) của nghiên cứu học thuật nhằm vào mô hình hoá các quá trình sinh học trong tự nhiên dùng kĩ thuật và công cụ toán học. Nó vừa mang tính ứng dụng vừa mang tính lý thuyết trong nghiên cứu sinh học.
+
+
+== Nghiên cứu ==
+Dưới đây là một danh sách các lĩnh vực nghiên cứu trong toán sinh học và liên kết đến các dự án liên quan ở nhiều trường đại học khác nhau: 
+
+Mô hình hóa bệnh về động mạch [1]
+Mô hình hóa neuron và các chất gây ung thư (Modelling of neurons and carcinogen|carcinogenesis)
+Đặc tính cơ học của các mô sinh học (Mechanics of biological tissues Lưu trữ 2009-02-02 tại Wayback Machine)
+Enzyme học lý thuyết và động học enzyme (Theoretical enzymology and enzyme kinetics Lưu trữ 2007-11-14 tại Wayback Machine)
+Mô hình hóa cơ chế ung thư (Cancer modelling and simulation Lưu trữ 2005-11-23 tại Wayback Machine)
+Những ví dụ này được đặc trưng bởi các cơ chế phức tạp, phi tuyến và mọi người đang ngày càng được nhận ra rằng kết quả của những sự tương tác đó chỉ có thể được hiểu thông qua các mô hình tính toán và toán học. Vì sự đa dạng của những kiến thức liên quan, nghiên cứu toán sinh học thường được thực hiện ở bởi sự liên kết giữa các nhà toán học, nhà vật lý học, nhà sinh học, nhà y khoa, nhà động vật học, nhà hoá học...
+
+
+== Chú thích ==
+J.D. Murray, Mathematical Biology. Springer-Verlag, 3rd ed. in 2 vols.: Mathematical Biology: I. An Introduction, 2002  ISBN 0387952233; Mathematical Biology: II. Spatial Models and Biomedical Applications, 2003  ISBN 0387952284.
+L. Edelstein-Keshet, Mathematical Models in Biology. SIAM, 2004. ISBN 0075549506
+L.A. Segel, Modeling dynamic phenomena in molecular and cellular biology. C.U.P., 1984. ISBN 052127477X
+F. Hoppensteadt, Mathematical theories of populations: demographics, genetics and epidemics. SIAM, Philadelphia, 1975 (reprinted 1993). ISBN 0898710170
+S.I. Rubinow, Introduction to mathematical biology. John Wiley, 1975. ISBN 0471744468
+A. Goldbeter, Biochemical oscillations and cellular rhythms. C.U.P., 1996. ISBN 0521599466
+E. Renshaw, Modelling biological populations in space and time. C.U.P., 1991. ISBN 0521448557
+P.G. Drazin, Nonlinear systems. C.U.P., 1992. ISBN 0521406684
+D.W. Jordan and P. Smith, Nonlinear ordinary differential equations, 2nd ed. O.U.P., 1987. ISBN 0198565623
+
+
+== Tham khảo ==
+
+F. Hoppensteadt, Getting Started in Mathematical Biology. Notices of American Mathematical Society, Sept. 1995.
+M. C. Reed, Why Is Mathematical Biology So Hard? Notices of American Mathematical Society, March, 2004.
+R. M. May, Uses and Abuses of Mathematics in Biology. Science,  ngày 6 tháng 2 năm 2004.
+J. D. Murray, How the leopard gets its spots? Scientific American, 258(3): 80-87, 1988.
+
+
+== Xem thêm ==
+Tin sinh học
+
+
+== Liên kết ngoài ==
+Society for Mathematical Biology
+European Society for Mathematical and Theoretical Biology
+Centre for Mathematical Biology at Oxford University Lưu trữ 2009-03-27 tại Wayback Machine
+Mathematical Biology at the National Institute for Medical Research Lưu trữ 2005-03-08 tại Wayback Machine
+Institute for Medical BioMathematics
+Mathematical Biology Systems of Differential Equations  from EqWorld: The World of Mathematical Equations

@@ -1,0 +1,12 @@
+Tâm vật lý học điều tra một cách định lượng mối quan hệ giữa các kích thích vật lý với cảm giác và nhận thức mà nó tác động. Tâm vật lý học được mô tả là "sự nghiên cứu một cách khoa học mối liên hệ giữa kích thích mà cảm nhận"  hoặc đầy đủ hơn là "sự phân tích các tiến trình nhận thức bằng cách nghiên cứu tác động lên kinh nghiệm hoặc hành vi của một đối tượng bằng cách điều chỉnh có hệ thống các thuộc tính của một nhân tố kích thích trên một hoặc nhiều thước đo vật lý".
+Tâm vật lý học cũng đề cập đến một tập hợp các phương pháp nói chung có thể áp dụng để nghiên cứu một hệ thống nhận thức. Các ứng dụng hiện này có xu hướng dựa nhiều vào phân tích người quan sát hoàn hảo và lý thuyết phát hiện tín hiệu.
+Tâm vật lý học có những ứng dụng thực tiễn quan trọng. Ví dụ trong nghiên cứu xử lý tín hiệu số, tâm vật lý học đã báo trước sự phát triển của các mô hình và phương pháp nén mất mát. Những mô hình này giải thích vì sao con người ít nhận ra sự suy giảm của chất lượng tín hiệu khi tín hiệu âm thanh hoặc hình ảnh bị định dạng bằng phương pháp nén mất mát.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+Steingrimsson, R.; Luce, R. D. (2006). “Empirical evaluation of a model of global psychophysical judgments: III. A form for the psychophysical function and intensity filtering”. Journal of Mathematical Psychology. 50: 15–29. doi:10.1016/j.jmp.2005.11.005.
+Stevens, S. S. (1957). On the psychophysical law. Psychological Review 64(3):153–181. PMID 13441853.
+Bản mẫu:Psychology

@@ -1,0 +1,25 @@
+Hệ thống là một nhóm các yếu tố có sự tương tác hoặc liên quan lẫn nhau, hoạt động theo một bộ quy tắc để tạo thành một tổng thể thống nhất. Một hệ thống, được bao quanh và chịu ảnh hưởng bởi môi trường của nó, được mô tả bởi các ranh giới, cấu trúc và mục đích của nó và được thể hiện trong chức năng của nó. Hệ thống là đối tượng nghiên cứu của lý thuyết hệ thống và các khoa học hệ thống khác. Các hệ thống có một số thuộc tính và đặc điểm chung, bao gồm cấu trúc, chức năng, hành vi và khả năng kết nối.
+
+
+== Tính chất ==
+Tính trồi
+Tính nhất thể hóa
+
+
+== Điều kiện để trở thành hệ thống ==
+Có 2 điều kiện để trở thành hệ thống:
+
+Tập hợp các yếu tố
+Những mối quan hệ và liên hệ lẫn nhau giữa các yếu tố đó.
+
+
+== Liên hệ giữa hệ thống và kết cấu ==
+Khái niệm hệ thống gắn bó chặt chẽ với khái niệm "kết cấu". Nếu hệ thống là một thể thống nhất bao gồm các yếu tố có quan hệ và liên hệ lẫn nhau thì kết cấu là tổng thể các mối quan hệ và liên hệ giữa các yếu tố của thể thống nhất đó. Như vậy, kết cấu không nằm ngoài hệ thống. Đã là hệ thống thì phải có kết cấu.
+Khái niệm kết cấu phản ánh hình thức sắp xếp của các yếu tố và tính chất của sự tác động lẫn nhau của các mặt và các thuộc tính của chúng. Nhờ có kết cấu mà chúng ta hiểu được vì sao phẩm chất của hệ thống nói chung không giống với tổng số phẩm chất của các yếu tố tạo thành.
+
+
+== Các yếu tố của hệ thống ==
+Trong thực tế, các yếu tố của hệ thống không phải là những điểm trừu tượng mà là những hệ thống phức tạp. Mỗi yếu tố cũng có nhiều nhiều mặt, nhiều thuộc tính, khi tác động lẫn nhau với các yếu tố khác của hệ thống không phải tất cả các mặt, các thuộc tính của nó đều tham gia mà chỉ một số mặt, một số thuộc tính nào đó mà thôi. Vì vậy, tính chất và phẩm chất của các liên hệ phụ thuộc vào đặc điểm của các mặt nào đó của các yếu tố tham gia tác động lẫn nhau. Như vậy, những mặt và thuộc tính của các yếu tố tham gia tác động lẫn nhau càng lớn thì két cấu của hệ thống càng phức tạp. Cùng một số yếu tố, khi tác động lẫn nhau bằng những mặt khác nhau có thể tạo nên các hệ thống khác nhau.
+
+
+== Tham khảo ==

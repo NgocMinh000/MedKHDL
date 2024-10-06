@@ -1,0 +1,26 @@
+Hoạch định trong quản trị là một quá trình ấn định những mục tiêu và xác định biện pháp tốt nhất để thực hiện những mục tiêu đó.
+Hoạch định tập trung vào hai việc chính. Đầu tiên là xây dựng các mục tiêu và chỉ tiêu cần thực hiện. Giai đoạn thứ 2 là lựa chọn các phương pháp hoặc tạo dựng kế hoạch triển khai phù hợp để đạt được các mục tiêu nêu trên. Nếu thiếu 1 trong 2 hoạt động này thì quá trình hoạch định không thể thực hiện trọn vẹn và bạn sẽ không thể dự đoán được trước những điều có thể xảy ra trong tương lai.
+
+
+===== Mục đích =====
+Hoạch định hình thành các nỗ lực và sự phối hợp cần có
+Hoạch định làm giảm bớt các bất trắc
+Hoạch định làm giảm đi các trùng lặp và dư thừa
+Hoạch định hình thành các mục tiêu và chuẩn mực để có thể kiểm soát sau này
+
+
+===== Đặc điểm =====
+Mang tính chất quản lý
+Định hướng các mục tiêu
+Có tính lan toả
+Tính liên tục
+Dự đoán tương lai
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Allmendinger, Phil and Michael Gunder, 2005, "Applying Lacanian Insight and a Dash of Derridean Deconstruction to Planning's 'Dark Side'," Planning Theory, vol. 4, pp. 87–112.
+Bazin, A. (2012). Bilateral and multilateral planning: Best practices and lessons learned. Strategos.
+Das, J P, Binod C Kar, Rauno K Parrila. Cognitive Planning: The Psychological Basis of Intelligent Behaviour. Sage Publications Pvt. Ltd; illustrated edition. English ISBN 0-8039-9287-4 ISBN 978-0-8039-9287-0

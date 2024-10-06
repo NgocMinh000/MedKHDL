@@ -1,0 +1,25 @@
+Bệnh Phó thương hàn vịt (Salmonellosis) là bệnh truyền nhiễm do vi khuẩn Sallmonella gây ra, vịt mọi lứa tuổi đều cảm nhiễm với bệnh; tuy nhiên triệu chứng lâm sàng thường chỉ thấy ở vịt con dưới 3 tuần tuổi, vịt lớn mắc bệnh thường ở thể mãn tính. Mầm bệnh xâm nhập chủ yếu qua thức ăn, nước uống hoặc truyền từ mẹ sang con qua trứng. Bệnh làm giảm tỷ lệ ấp nở, tỷ lệ vịt con chết cao 70-80% và giảm tỷ lệ tăng trọng, làm tăng tỷ lệ cảm nhiễm với các bệnh khác ở những con sống sót, đồng thời còn là nguyên nhân gây nhiễm vi khuẩn Salmonella trong thực phẩm, ảnh hưởng đến sức khỏe người tiêu dùng.
+
+
+== Tác nhân gây bệnh ==
+Salmonellosis do vi khuẩn Sallmonella gây ra. Vi khuẩn có hình gậy thẳng, Gram âm, có nhiều lông, di động. Nuôi cấy trong môi trường canh thang, mọc nhanh, sau 10 giờ và làm đục môi trường; trong môi trường thạch thường, Salmonella phát triển tốt sau 24 giờ, tạo khuẩn lạc dạng S màu trắng xám. Ở tự nhiên, vi khuẩn sống trong nước được 1 tuần, trong phân được 2 tháng. Đây là lý do để bệnh lan thành dịch lớn.
+Với nhiệt độ cao, vi khuẩn chịu đựng kém (vi khuẩn bị chết ở 50 °C/sau 1 giờ và 100 °C/sau 5 phút). Với các hoá chất sát trùng, vi khuẩn bị tiêu diệt bởi các thuốc sát trùng ở nồng độ thông thường như phenol 5%, HCl 1/500. Salmonella được phân loại dựa vào sự khác nhau về cấu trúc kháng nguyên. Hiện nay có khoảng 1.500 typ huyết thanh (còn gọi là loài) Salmonella. Một số loại Salmonella gây bệnh thường gặp gồm có:
+
+S.typhi: Chỉ gây bệnh cho người.
+S.paratyphi A: Chỉ gây bệnh Thương hàn cho người.
+S.paratyphi В: Gây bệnh Thương hàn chủ yếu cho người, đôi khi ở cả súc vật. Bệnh thường gặp ở các nước Châu Âu.
+S.paratyphi С: Gây bệnh Thương hàn, viêm dạ dày ruột và nhiễm khuẩn huyết ở người (thường gặp ở các nước đông nam Châu Á).
+S.typhimurium và S. enteritidis gây bệnh cho người và súc vật. Hai loài này là nguyên nhân chủ yếu của nhiễm khuẩn, nhiễm độc thức ăn do Salmonella.
+S.choleraesuis: Là căn nguyên thường gặp trong các nhiễm khuẩn huyết do Salmonella ở Việt Nam.
+
+
+== Bệnh trên vịt ==
+Bệnh do Salmonella, S. enteritidis và S. typhi murium gây nên. Vịt mắc bệnh ở mọi lứa tuổi, nhưng thường gặp và mẫn cảm nhất ở vịt 5-14 ngày tuổi. Bệnh lây nhiểm chủ yếu qua trứng trước và sau khi đẻ; môi trường xung quanh có mang trùng. Khi mắc bệnh, tỷ lệ chết phôi cao và vịt con chết nhiều trong 1-2 tuần đầu. Vịt viêm kết mạc mắt. Phân lỏng có bọt. Vịt chết có triệu chứng thần kinh, đầu nghẹo ra sau. Vịt con chết xác gầy, thường lòng đỏ không tiêu. Khi mổ khám thấy: vịt mái tích nước xoang bụng, trứng bị dị dạng méo mó, gan sưng, phía dưới màng fibrin có chấm hoại tử.
+Biện pháp phòng và điều trị hữu hiệu nhất là: vệ sinh trứng và máy ấp, lò ấp bằng formol và thuốc tím; Salmonella mẫn cảm với nhiệt vì vậy các dụng cụ chăn nuôi, chất độn chuồng, ổ đẻ cần được phơi khô sau đó phun hoặc phun khử trùng bằng formol 0,5-1% hay crezin5%; dùng kháng sinh trộn thức ăn để phòng bệnh, song cần chú ý thời gian và liều lượng sử dụng; vệ sinh tốt chuồng trại, ổ đẻ, khu vực xung quanh chuồng và dụng cụ chăn nuôi.
+
+
+== Bệnh ở người ==
+Ở người, bệnh do s.typhi và các s.paratyphi típ А, B, C gây ra là chủ yếu. Người bệnh có biểu hiện sốt cao li bì, hốc hác, mạch nhiệt phân ly, rối loạn tiêu hoá (đau bụng, đi ngoài nhiều lần, phân nát màu hồng). Bệnh có thể có biến chứng thủng ruột do bệnh nhân ăn phải thức ăn cứng (đối với bệnh Thương hàn). Hoặc có biểu hiện nhiễm độc cấp: Nôn, tiêu chảy, đau bụng, nếu bệnh nặng, không được phát hiện và điều trị kịp thời có thể dẫn đến tử vong (đối với bệnh viêm dạ dày ruột).
+
+
+== Tham khảo ==

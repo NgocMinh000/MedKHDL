@@ -1,0 +1,32 @@
+Am-pi-xi-lin (bắt nguồn từ tiếng Pháp ampicilline /ɑ̃pisilin/), còn được viết là ampicillin theo tiếng Anh, cũng còn được gọi là am-pi, là kháng sinh phổ rộng thuộc nhóm betalactam, tức là nhóm kháng sinh có cấu trúc phân tử gồm khung bêta-lactame, trên đó có các nhóm trí hoán. Cùng trong nhóm betalactam với ampicillin, còn có các loại thuốc kháng sinh khác là: penicillin, amoxycillin, augmentin, unacyl, cloxacillin, oxacillin,... 
+
+
+== Cơ chế hoạt động ==
+Ampicillin thực chất là một penicillin bán tổng hợp nhóm A có hoạt phổ rộng với nhiều chủng vi khuẩn gram (+) và vi khuẩn gram (-). Ampicillin có tác dụng chống lại những vi khuẩn mẫn cảm gây nhiễm khuẩn đường hô hấp, dẫn mật, tiêu hoá, tiết niệu, một số bệnh ngoài da như viêm bì có mủ, áp -xe, đầu đinh... viêm tai giữa, bàng quang và thận...
+Ampicilin là một kháng sinh tương tự penicilin tác động vào quá trình nhân lên của vi khuẩn, ức chế sự tổng hợp mucopeptid của thành tế bào vi khuẩn.
+
+
+=== Cơ chế hoạt động ===
+Để đạt được hiệu quả, Ampicilin phải thấm qua thành tế bào và gắn với các protein. Các protein gắn Ampicilin chịu trách nhiệm nhiều bước trong quá trình sinh tổng hợp của thành tế bào và có mặt trong hàng trǎm đến hàng nghìn phân tử trên một tế bào vi khuẩn. Các protein gắn Ampicilin rất khác nhau giữa các chủng vi khuẩn. Các kháng sinh beta-lactam cản trở việc tổng hợp thành tế bào qua trung gian PBP, cuối cùng dẫn đến ly giải tế bào. Sự ly giải diễn ra qua trung gian là các enzym tự ly giải thành tế bào vi khuẩn (ví dụ: các autolysin) kháng sinh beta-lactam gây cản trở bằng một chất ức chế autolysin.
+
+
+=== Cơ chế kháng ===
+Tính kháng với các Ampicilin có được phần lớn là nhờ sản sinh beta-lactam. Để khắc phục điều này, người ta đã tạo ra một số chất ức chế beta-lactamase: axít clavulanic và sulbactam. Các hợp chất này cũng là các phân tử beta-lactam nhưng bản thân chúng ít hoặc không có hoạt tính kháng khuẩn. Chúng làm bất hoạt enzym beta-lactam bằng cách gắn vào vị trí hoạt động của enzym. Trong quá trình đó, chúng bị phá huỷ; vì vậy, chúng còn được gọi là các ức chế "tự sát". Việc bổ sung chất ức chế, như: acid clavulanic hoặc sulbactam, sẽ tái lập hoạt tính của Ampicilin chống lại vi sinh vật sản sinh beta-lactamase. Tuy nhiên, các cơ chế khác với sản sinh beta-lactam có vẻ là trung gian tạo ra tính kháng của Staph.aureus kháng methicillin.
+
+
+== Ứng dụng ==
+
+
+=== Tác dụng ===
+Kháng sinh Ampicillin là một kháng sinh phổ rộng có tác dụng tốt trên một số vi khuẩn Gram âm đường ruột như: E. coli, Proteus mirabilis, Shigella, Salmonella. Tác dụng lên vi khuẩn ruột, Listeria monocytogenes, Neisseria gonorrhoeae, Neisseria meningitidis, một số Hemophilus influenzae, Gardnerella vaginalis, Bordetella pertussis.
+Kháng sinh Ampicillin tác dụng trên cả cầu khuẩn Gram dương và Gram âm: Streptococcus, Pneumococcus, Staphylococcus không sinh penicilinase.
+Ampicilin cũng tác dụng trên Meningococcus và Gonococcus.
+
+
+=== Vô hiệu ===
+Ampicilin không tác dụng trên một số chủng vi khuẩn Gram âm như: Pseudomonas, Klebsiella, Proteus, những vi khuẩn kỵ khí.
+Ampicilin không qua được hàng rào máu - não. Trong viêm màng não mủ, do hàng rào máu - não bị viêm và thay đổi độ thấm, nên thông thường ampicilin thâm nhập vào hệ thần kinh trung ương đủ để có tác dụng, Ampicillin rất dễ bị phá hủy trong môi trường axít.
+Do bị lạm dụng nên hiện nay nhiều báo cáo cho thấy ampicillin đã bị vi khuẩn kháng lại với tỷ lệ khá cao. Xu hướng dùng những kháng sinh mới phổ rộng hơn để điều trị nhiễm khuẩn đã làm cho ampicillin trở thành loại thuốc bị nhiều người cho là cũ.
+
+
+== Tham khảo ==

@@ -1,0 +1,97 @@
+HER-2/neu là thụ thể trên màng tế bào thuộc nhóm thụ thể của yếu tố tăng trưởng thượng bì. Hiện nay thụ thể này được quan tâm nhiều trong bệnh ung thư vú vì nhiều nghiên cứu cho thấy thụ thể này liên quan đến sinh bệnh học, cũng như diễn tiến, tiên lượng và đáp ứng điều trị của bệnh ung thư vú.
+
+
+== Gene HER-2/neu ==
+
+
+=== Yếu tố tăng trưởng thượng bì ===
+Yếu tố tăng trưởng thượng bì - EGF (Epidermal growth factor) là một trong những yếu tố tăng trưởng được biết đến sớm nhất. Stanley Cohen và cộng sự tìm thấy yếu tố này lần đầu tiên vào năm 1962.
+Như đã biết, gene sinh ung là gen kiểm soát sự phát triển của tế bào. Tiền-gene sinh ung là dạng bình thường của gene sinh ung. Đây là gene có chức năng sinh lý trong tế bào. Khi gene này đột biến gây ra sự tăng sinh tế bào không kiểm soát được.
+Thụ thể của yếu tố tăng trưởng thượng bì – gọi là EGFR (epidermal growth factor receptor) nằm trên bề mặt tế bào. Đây là một glycoprotein xuyên màng, phần nằm bên trong màng tế bào của thụ thể này gắn với một tyrosine kinaze. Tyrosine kinaze này được hoạt hóa khi EGF đến gắn với thụ thể này. Thụ thể này do một gene nằm trong tế bào quy định, đó là một tiền-gene sinh ung. Sự đột biến, thay đổi trong khi hoán đổi gene, hoặc sự khuếch đại của gene này sẽ làm thay đổi thụ thể này và có thể gây gia tăng nguy cơ ung thư ở súc vật thí nghiệm và ở người. Gene quy định EGF và thụ thể EGFR đã được tìm thấy ở mô tuyến vú bình thường và nhiều loại mô khác, nó điều hòa sự phân bào, sự sống và sự biệt hóa của nhiều loại tế bào.
+Yếu tố tăng trưởng thượng bì là một nhóm, gồm nhiều yếu tố, có thể kể ra: Yếu tố tăng trưởng chuyển dạng alpha TGF-α, amohiregulin, yếu tố tăng trưởng thượng bì có gắn heparin (heparin-binding HbEGF), β-cellulin, cripto-1,....
+
+
+=== Gene HER-2/neu và sản phẩm protein của HER-2/neu ===
+Thụ thể của yếu tố tăng trưởng thượng bì cũng là một nhóm, gồm bốn loại thụ thể: EGFR hay HER-1, HER-2, HER-3 và HER-4 (Human Epidermal growth factor Receptor). Trong đó được biết đến và được nghiên cứu nhiều nhất là HER-2. Gen quy định thụ thể này nằm trên nhánh q của nhiễm sắc thể số 17, mã hóa một thụ thể có chứa tyrosine kinaze xuyên màng. 
+EGFR dẫn truyền tín hiệu làm ảnh hưởng nhiều mặt sinh học của bướu. Sự hoạt hóa của EGFR cho thấy gia tăng các tiến trình tăng trưởng và diễn tiến của bướu, gồm thúc đẩy tăng sinh, sinh mạch, xâm lấn, di căn và ngăn cản tế bào chết theo lập trình. Sự biểu sinh trong bướu của EGFR có liên hệ đến diễn tiến bệnh, tiên lượng xấu, ít đáp ứng điều trị và đề kháng lại hóa trị quy ước.
+Có khoảng 20-30% các trường hợp ung thư vú có biểu hiện quá lố thụ thể HER-2 (hay còn được gọi là HER-2/neu) này trên bề mặt màng tế bào. Tuy nhiên thụ thể này cũng được tìm thấy ở một số loại ung thư khác như carcinôm tuyến của phổi, buồng trứng, dạ dày, tụy và nội mạc tử cung. Ngược lại với HER-2, các thụ thể HER-3, HER-4 không thường gặp ở ung thư ở người. Chức năng sinh lý của HER-2 ở tế bào bình thường chưa được biết rõ, tuy nhiên một số nghiên cứu trên tuyến vú của chuột và tế bào vú ung thư ở người cho thấy có thể protein này liên quan đến sự biệt hóa tạo sữa của tế bào tuyến vú.
+
+
+== Các phương pháp đánh giá gene HER-2/neu ==
+Ngày nay, HER-2/neu đã trở thành một yếu tố tiên lượng quan trọng của ung thư vú.Có nhiều kỹ thuật đo lường HER-2/neu được sử dụng. Có thể chia làm các nhóm sau:
+
+Đo mức độ khuếch đại của gene quy định thụ thể này HER-2/neu
+Đánh giá sự biểu hiện quá lố của thụ thể HER-2/neu trên bề mặt tế bào bằng các phương pháp nhuộm
+Đánh giá thụ thể này bằng cách đo protein HER-2/neu trong huyết thanh
+Những nghiên cứu trước đây thường đánh giá mức độ khuếch đại của gene quy định thụ thể này, về sau  này những nghiên cứu mới hơn tìm cách định lượng những sản phẩm protein của gene HER-2/neu hơn là đánh giá sự khuếch đại của gene này. Thông thường thì sự biểu hiện của các sản phẩm protein tương ứng với sự khuếch đại của gene. Tuy nhiên, giả thuyết vẫn cho rằng sự khuếch đại gene liên quan trực tiếp đến tính chất của bướu hơn là sự biểu hiện của thụ thể HER-2/neu - tức sản phẩm protein của gen. Thêm nữa, mặc dù gene mã hóa protein  HER-2/neu thường bị khuếch đại khi có sự biểu hiện quá mức của protein này, nhưng ngược lại sự biểu hiện quá mức của protein này không phải lúc nào cũng tương ứng với sự khuếch đại gene.
+
+
+=== Kỹ thuật hóa mô miễn dịch – IHC Immunohistochemocal technique ===
+Là kỹ thuật đo lường được sử dụng phổ biến nhất hiện nay. Hóa mô miễn dịch cũng là kỹ thuật đánh giá thụ thể HER-2/neu - sản phẩm protein của gene HER-2/neu trên bề mặt tế bào. Không giống như những phương pháp hóa mô miễn dịch khác mà hầu hết là định tính thì sự đánh giá HER-2/neu trong hóa mô miễn dịch là phương pháp bán định lượng hơn là phương pháp định tính vì HER-2/neu biểu hiện trên tất cả các tế bào biểu mô tuyến vú. Do đó để đánh giá đầy đủ thụ thể HER-2/neu của một khối bướu vú ác tính thì cần thiết lập một sự tương quan giữa số lượng thụ thể HER-2/neu trên bề mặt tế bào và sự phân bố cũng như mức độ bắt chất nhuộm của mẫu mô khi nhuộm hóa mô miễn dịch.
+Một bảng tính điểm đã được dùng để chuẩn hóa phương pháp này:
+
+Khi tế bào có ít hơn 20 000 thụ thể trên bề mặt thì mẫu mô sẽ không bắt màu chất nhuộm: 0 điểm
+Khi tế bào có khoảng 100 000 thụ thể trên bề mặt thì tế bào sẽ bắt màu chất nhuộm một phần và có ít hơn 10% tế bào bắt màu hoàn toàn chất nhuộm. 1+
+Khi tế bào có khoảng 500 000 thụ thể trên bề mặt thì sẽ có khoảng hơn 10% tế bào bắt màu chất nhuộm trên bề mặt hoàn toàn mức độ từ nhẹ đến trung bình. 2+
+Và khi tế bào có khoảng 2 300 000 thụ thể trên bề mặt tế bào thì khoảng hơn 10% tế bào sẽ bắt màu chất nhuộm hoàn toàn mức độ mạnh. 3+
+Nhiều nghiên cứu cho thấy khi áp dụng phương pháp hóa mô miễn dịch trên một mẫu bệnh phẩm được xử lý, cố định tốt, thì dựa vào kết quả cho thấy một sự tương ứng khá chặt chẽ giữa mức độ copy của gene (mức độ khuếch đại) với mức độ biểu hiện của protein do gene đó mã hóa (protein HER-2/neu).
+Lợi điểm của phương pháp hóa mô miễn dịch là tiện lợi, rẻ tiền, mẫu thử nghiệm dễ bảo quản sau khi đã phân tích, và chỉ cần sử dụng kính hiển vi thông thường khi quan sát.
+Bất lợi của phương pháp này đó là chịu ảnh hưởng của một số yếu tố lên kết quả, đó là điều kiện bảo quản trước đó, thời gian và kỹ thuật cố định bệnh phẩm, loại kháng thể dùng để nhuộm (đơn dòng hay đa dòng), và quan trọng hơn cả đó là khó khăn khi áp dụng bảng tính điểm để có kết luận chính xác.
+Hiện đã có hai bộ sản phẩm dùng để đánh giá thụ thể HER-2 theo phương pháp này được cơ quan quản lý thực phẩm và dược phẩm của Mỹ - FDA công nhận và dùng để quyết định việc sử dụng Trastuzumab trong điều trị hỗ trợ cho bệnh nhân ung thư vú, đó là bộ Hercep Test (của tập đoàn DAKO – Đan Mạch) và bộ Ventana PATHWAY (của Vetana, Mỹ).
+
+
+=== Kỹ thuật FISH - Fluorescence in situ hybridization ===
+Đây là phương pháp đánh giá mức độ khuếch đại của gene.
+Lợi điểm đó là có hệ thống đánh giá kết quả khách quan hơn.
+So sánh giữa 2 phương pháp Hóa mô miễn dịch IHC và nhuộm miễn dịch huỳnh quang FISH cho thấy có sự tương hợp khá tốt về kết quả ở cả nhóm bệnh nhân ung thư vú mới hay ung thư vú đã có di căn. Tuy nhiên, có một tỉ lệ khá lớn trường hợp kết quả biểu hiện là 2+ khi dùng phương pháp IHC lại không cho thấy sự khuếch đại gene tương ứng khi dùng phương pháp FISH. Trong những trường hợp này thì dùng phương pháp đo sự khuếch đại gene lại cho được nhiều thông tin về tiên lượng, về đáp ứng với điều trị Trastuzumab hơn là phương pháp đo sự biểu hiện quá lố protein HER-2/neu trên bề mặt tế bào.
+FISH là một phương pháp xét nghiệm chính xác và nhạy, nó được coi là một xét nghiệm tiêu chuẩn với độ nhạy và độ đặc hiệu cao để phát hiện sự khuếch đại bất thường của gene HER-2/neu. Tuy nhiên phương pháp này cũng có những bất lợi, đó là giá thành cao, cần những thiết bị đắt tiền, việc đọc kết quả khó khăn hơn do có những dấu hiệu hình thái học đôi khi khó ghi nhận, mất nhiều thời gian hơn, phải quan sát dưới kính hiển vi huỳnh quang, và vì nhuộm huỳnh quang nhanh phai màu nên không bảo quản lâu được để có thể xem lại, và đôi khi khó xác định trong những trường hợp bướu xâm lấn.
+
+
+=== Kỹ thuật CISH - Chromogenic In Situ Hybridization ===
+Đây cũng là phương pháp đo mức độ khuếch đại của gen, được coi là một chọn lựa thay thế cho FISH. Phương pháp này kết hợp ưu điểm của cả hai phương pháp IHC và FISH. Với kỹ thuật này, gene HER-2/neu được phát hiện bằng phản ứng peroxidase quan sát dưới kính hiển vi ánh sáng thường.
+Nếu cần, cả hai kỹ thuật IHC và CISH có thể kết hợp với nhau để có sự đánh giá đồng thời sự khuếch đại của gene và sự biểu hiện quá lố của protein do gene mã hóa.
+
+
+=== Kỹ thuật khuếch đại gene RT-PCR - Reverse transcription – polymerase chain reaction ===
+Là kỹ thuật phát hiện RNA thông tin của gen HER-2/neu trong máu ngoại vi và trong tủy xương, cho thấy mức tương ứng với sự khuếch đại gene cao hơn khi so với kỹ thuật nhuộm miễn dịch huỳnh quang IHC.
+
+
+=== Phương pháp ELISA – Enzyme-Link ImmunoSorbent Assay ===
+Phương pháp này được thực hiện trên dịch bào tương (tumor cytosols) lấy từ bệnh phẩm tươi, tránh được những nguy cơ của việc tổn hại đến các kháng nguyên của quá trình xử lý và cố định bệnh phẩm. Tuy nhiên, ngày nay khi bướu được phát hiện ở giai đoạn càng ngày càng sớm hơn, kích thước bướu nhỏ hơn nên việc chiết xuất được cytosols của bướu ngày càng khó khăn hơn.
+
+
+== Mức độ biểu hiện HER-2/neu và giá trị tiên đoán sự đáp ứng với điều trị hỗ trợ ==
+
+
+=== Với Trastuzumab ===
+Trastuzumab là một kháng thể IgG1, đơn dòng được tạo ra bằng phương pháp tái tổ hợp. Liệu pháp điều trị dùng kháng thể đơn dòng này ban đầu được nhắm vào các bệnh nhân bị ung thư vú tái phát có biểu hiện quá mức HER-2/neu, và hiện tại nó được dùng rộng rãi cho những bệnh nhân ung thư vú di căn có thụ thể HER-2/neu dương tính. Hiện có nhiều thử nghiệm vai trò của Trastuzumab trong điều trị hỗ trợ cho những bệnh nhân ung thư vú giai đoạn sớm và trong điều trị tân hỗ trợ.
+Hiện xét nghiệm IHC đang được dùng để chọn lựa bệnh nhân cho việc sử dụng Trastuzumab cùng với hóa trị hỗ trợ. Kết quả cho thấy dùng trastuzumab làm bệnh tiến triển chậm hơn, tăng tỉ lệ và thời gian đáp ứng với điều trị hỗ trợ, tăng  thời gian sống còn.
+Một nghiên cứu gần đây báo cáo cho thấy khi trastuzumab được dùng điều trị hỗ trợ đơn độc, thì tỉ lệ đáp ứng ở nhóm có kết quả nhuộm IHC 3+ là 35% trong khi ở nhóm IHC 2+ là 0%, đối với phương pháp FISH thì tỉ lệ đáp ứng với trastuzumab ở nhóm có kết quả FISH+ và FISH- lần lượt là 34% và 7%. Một nghiên cứu khác sử dụng trastuzumab kết hợp hóa trị hỗ trợ paclitaxel, tỉ lệ đáp ứng ở bệnh nhân có biểu hiện quá mức HER-2/neu là 67-81% so với 41-46% ở nhóm bệnh nhân có biểu hiện HER-2/neu bình thường.
+Độc tim là một hạn chế quan trọng của trastuzumab từ khi nó được FDA công nhận vào năm 1998.
+
+
+=== Với các phương pháp điều trị khác ===
+Một mối liên hệ khá chặt chẽ giữa sự biểu hiện HER-2/neu của bướu và sự đáp ứng điều trị với các phương pháp không có trastuzumab khác đó là sự đáp ứng với điều trị nội tiết. Những bướu có sự biểu hiện quá lố HER-2/neu thường có tỉ lệ ER- và PR- cao hơn những bướu biểu hiện HER-2/neu bình thường. Thêm nữa, một số nghiên cứu cho thấy những bướu dù có thụ thể nội tiết dương tính nhưng biểu hiện quá lố HER-2/neu thì kháng lại điều trị tamoxifen. Cũng có kết quả của vài nghiên cứu lại cho rằng tình trạng HER-2/neu ở những bướu có ER+ không giúp tiên đoán sự đáp ứng với điều trị tamoxifen.
+Một vài nghiên cứu ghi nhận những trường hợp ung thư vú có biểu hiện quá lố HER-2/neu thì nhạy với điều trị paclitaxel, cũng như nhạy với phác đồ điều trị có anthracyline. Điều này được giải thích là do anthracyline là một chất ức chế men topoisomerase, trong khi đó men topoisomerase IIα thường được đồng khuếch đại cùng HER-2/neu.
+Tóm lại, dù có nhiều bằng chứng cho thấy những trường hợp ung thư vú với HER-2/neu dương tính kháng lại điều trị tamoxifen nhưng nhạy với phác đồ điều trị hỗ trợ có anthracycline, nhưng vẫn cần những nghiên cứu với sự kiểm soát tốt hơn để đảm bảo những giả thuyết trên.
+
+
+== Nồng độ kháng nguyên HER-2/neu trong huyết thanh - một chất đánh dấu bướu ==
+Việc đo nồng độ protein HER-2/neu trong máu có thể giúp tiên đoán tình trạng bướu và diễn tiến bệnh của những trường hợp K vú có sự biểu hiện quá lố gene này. Có nhiều nghiên cứu cho thấy có sự liên quan giữa nồng độ protein này trong máu với sự tái phát, di căn và thời gian sống còn ngắn của bệnh.
+
+
+== Liên quan giữa HER-2/neu với loại mô học của ung thư vú ==
+Sự khuếch đại gene HER-2/neu liên quan đến grad mô học cao và những dạng lan tỏa của carcinôm ống tuyến vú tại chỗ - DCIS. Thêm nữa, sự khuếch đại gene này đôi khi gặp ở những bệnh lành tính tuyến vú và thường kèm theo nguy cơ cao bị ung thư vú xâm lấn sau đó.
+Sự khuếch đại gene HER-2/neu và sự biểu hiện quá lố protein HER-2/neu thường liên quan với grad mô học cao, DNA aneuploidy, tỉ lệ tăng trưởng tế bào cao, thụ thể nội tiết âm tính, đột biến gene p53, khuếch đại gene topoisomerase IIα...
+
+
+== Kết luận ==
+Đánh giá tình trạng gene và protein HER-2/neu của một bệnh nhân ung thư vú ngày càng trở nên phổ biến. Ở Mỹ, sự đánh giá này đã trở thành thường quy trong thực hành lâm sàng với những bệnh nhân ung thư vú.
+Đã có nhiều phương pháp đo đạc sự khuyến đại gene HER-2/neu cũng như sự biểu hiện quá lố protein do gene này quy định. Trong các phương pháp trên thì kỹ thuật FISH ngày càng được sử dụng nhiều vì nó cho những tiên đoán chính xác hơn về sự đáp ứng của bệnh ung thư vú với những phác đồ điều trị có trastuzumab.
+Với việc sử dụng trastuzumab, nhiều kết quả khả quan đã thu được trong điều trị hỗ trợ ung thư vú giai đoạn tiến triển có HER-2/neu dương tính và hiện đang có nhiều nghiên cứu đánh giá vai trò của trastuzumab trong điều trị ung thư vú ở những thời điểm sớm hơn.
+
+
+== Tham khảo ==
+
+The HER-2/neu gene and Protein in Breast Cancer 2003: Biomarker and Target Therapy – Jeffrey S. Ross, Jonathan A. Fletcher, The Oncologist 2003, 7, 307-325
+The HER-2/neu Oncogene in Breast Cancer: Prognostic Factor, Predective Factor, and Target for Therapy - Jeffrey S. Ross, Jonathan A. Fletcher, The Oncologist 1998, 3, 237-252.

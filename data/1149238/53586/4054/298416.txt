@@ -1,0 +1,73 @@
+Dịch tự động hay còn gọi là dịch máy (tiếng Anh: machine translation) là một nhánh của xử lý ngôn ngữ tự nhiên thuộc phân ngành trí tuệ nhân tạo, nó là sự kết hợp giữa ngôn ngữ, dịch thuật và khoa học máy tính. Như tên gọi, dịch tự động thực hiện dịch một ngôn ngữ này (gọi là ngôn ngữ nguồn) sang một hoặc nhiều ngôn ngữ khác (gọi là ngôn ngữ đích) một cách tự động, không có sự can thiệp của con người trong quá trình dịch. Khó khăn của việc thiết kế chương trình dịch tự động là làm sao khử nhập nhằng hiệu quả. Nói về tính nhập nhằng, đây là khái niệm chỉ tính không rõ ràng của ngôn ngữ, chẳng hạn khi viết từ đường kính thì vẫn chưa rõ là nó chỉ một loại "chất ngọt dùng để pha làm đồ uống" hay là "đoạn thẳng đi qua tâm và nối hai điểm của đường tròn, của mặt cầu". Nhập nhằng như ví dụ vừa rồi là do hiện tượng đồng âm (hoặc đồng tự) gây ra, một số kiểu nhập nhằng khác như nhập nhằng từ loại, nhập nhằng từ đa nghĩa. Khi dịch tự động từ tiếng Việt sang tiếng Anh, khó khăn đầu tiên lại là việc xác định ranh giới từ, không giống như tiếng Anh (và nhiều ngôn ngữ khác) mỗi từ đã mang trọn vẹn một nghĩa và được xác định ranh giới qua khoảng trắng, tiếng Việt là ngôn ngữ đơn lập do vậy có rất nhiều từ ghép, nếu không xác định đúng sẽ xuất hiện kiểu dịch từng từ rồi ghép lại với nhau ví dụ như từ "miễn bàn" có thể bị dịch thành free table. Với tiếng Anh do là ngôn ngữ biến hình nên việc xác định từ loại dễ hơn, ngoài ra nó cũng ít từ đồng tự (hai từ có ký tự hoàn toàn giống nhau nhưng mang nghĩa khác nhau), còn về từ đa nghĩa tiếng Anh cũng như tiếng Việt và hầu như tất cả các ngôn ngữ khác đều rất phức tạp, muốn xác định nghĩa chính xác phải phải thực hiện phân tích văn cảnh.
+Sau khi xác định nghĩa phù hợp của từ, công việc tiếp theo là sắp xếp để tạo thành câu hoàn chỉnh. Nếu hai ngôn ngữ có cấu trúc càng khác nhau bao nhiêu công việc này càng phức tạp bấy nhiêu, với những ngôn ngữ gần nhau như tiếng Anh và tiếng Pháp công việc tương đối đơn giản, nhưng giữa tiếng Pháp và tiếng Trung thì rất khó khăn. Để sắp xếp người ta đưa vào các cấu trúc ngữ pháp hết sức phức tạp, áp dụng nhiều kiến thức toán học nhưng thực tế cho thấy hiệu quả của chúng vẫn không được tốt.
+Một cách tiếp cận khác trong lĩnh vực này là dựa vào tư liệu đã dịch sẵn của con người, điển hình là Google Translate, nó nạp hàng triệu trang tư liệu sau đó thực hiện các thao tác mà nó gọi là thống kê kiến thức để phân tích cho các lần dịch tự động sau này, kiểu dịch rất gần với thao tác tìm kiếm - lĩnh vực đặc biệt mạnh của Google.
+
+
+== Lịch sử của dịch tự động ==
+
+
+=== Quốc tế ===
+
+Lịch sử của dịch tự động bắt đầu từ thế kỷ 17, khi hai nhà triết học Leibniz và Descartes đưa ra những ý tưởng đầu tiên về các mã thực hiện mối liên hệ giữa nhiều ngôn ngữ, nhưng tất cả những đề xuất này chỉ dừng lại ở mức lý thuyết mà không có một ứng dụng thực tế nào.
+Sáng chế đầu tiên cho một "chương trình dịch tự động" được thực hiện vào khoảng giữa thập niên 1930. Vào thời điểm này Georges Artsruni đã tạo ra một bộ từ điển song ngữ với chức năng tra từ tự động bằng các băng giấy, tiếp theo một người Nga là Pyotr Troyanskii tiếp tục phát triển với nhiều chi tiết hơn. Nó không chỉ có một bộ từ điển song ngữ mà còn bao gồm các quy tắc ngữ pháp cơ bản dựa trên quốc tế ngữ (Esperanto).
+Lịch sử của dịch tự động được chính thức ghi nhận từ thập niên 1950 mặc dù như trên trình bày trước đó một số công việc ở dạng manh nha đã được thực hiện. Vào năm 1954, thực nghiệm Georgetown-IBM đã thực hiện thành công thí nghiệm dịch tự động hoàn toàn hơn 60 câu tiếng Nga sang tiếng Anh. Thành công bước đầu này đã tạo điều kiện để lập ra những quỹ đầu tư có giá trị cho các nghiên cứu. Các tác giả (tại thời điểm đó) tuyên bố rằng chỉ trong vòng từ 3 đến 5 năm nữa vấn đề dịch máy sẽ được giải quyết .
+Nhưng thực tế kết quả chậm hơn nhiều, báo cáo ALPAC vào năm 1966 cho thấy sau hơn 10 năm nghiên cứu lĩnh vực này vẫn không có những tiến bộ đáng kể và hệ quả là số tiền chi cho nghiên cứu giảm mạnh. Vào cuối thập niên 1980, khi máy vi tính có tốc độ xử lý cao hơn đồng thời lại rẻ hơn thì người ta mới bắt đầu quan tâm hơn đến mô hình thống kê vốn đòi hỏi khả năng xử lý dữ liệu cực lớn mà trước đó không thể thực hiện được vì các nguyên nhân kỹ thuật cũng như kinh tế.
+Lĩnh vực dịch tự động trong vài năm qua đã có những thay đổi lớn, có rất nhiều nghiên cứu dựa trên các nền tảng thống kê và ví dụ mẫu. Hiện nay có một số công ty xây dựng chương trình dựa trên thống kê như Language Weaver (chuyên cung cấp các sản phẩm và dịch vụ thương mại liên quan đến dịch thuật), Google và Microsoft cũng có các sản phẩm tương tự do chính họ giữ bản quyền. Một hướng tiếp cận mới là kết hợp (lai ghép) các phương pháp với nhau, như những nghiên cứu phối hợp giữa các nguyên tắc cú pháp và hình thái học vào trong các hệ thống thống kê.
+
+
+=== Tiếng Việt ===
+Những năm thập niên 1960 vấn đề dịch tự động cho tiếng Việt đã bắt đầu được nghiên cứu, hầu hết đều do các nguyên nhân chính trị và quân sự. Các tài liệu nước ngoài cho thấy, được sự bảo trợ của Không lực Hoa Kỳ, Bernard E. Scott thành lập công ty Logos vào năm 1969 với mục đích tiếp tục nghiên cứu việc tổ chức hệ thống dịch tự động từ tiếng Anh ra tiếng Việt. Scott bắt đầu chuẩn bị cho việc tổ chức hệ thống dịch tự động này vào mùa xuân năm 1965 tại Viện công nghệ máy tính tại New York, Mỹ. Vào khoảng tháng 6 năm 1970 hệ thống dịch tự động có tên Logos I ra đời với từ điển tự động hóa hỗ trợ chỉ có hơn 1.000 từ tiếng Việt, tác giả của hệ thống này là Byrne, Charles E.; Scott, Bernard E.; Binh, Truong N . Nhưng hệ thống này không tồn tại được lâu, việc nghiên cứu của Scott chấm dứt vào năm 1973. Cũng trong khoảng thời gian này, một dự án khác về xây dựng hệ thống dịch tự động từ tiếng Anh ra tiếng Việt đã được tiến hành vào đầu thập niên 1970 tại Tập đoàn viễn thông Xyzyx, California. Hệ thống này đầu tiên được xây dựng để dịch văn bản Anh - Pháp về vũ trụ học trên máy IBM 360 theo nguyên tắc hoạt động tương tự như của hệ thống Logos. Tuy nhiên, hệ dịch máy Anh-Việt được sử dụng rộng rãi tại Việt nam đầu tiên là EVTRAN - 1997. Và sau đó EVTRAN 2.0, 1999 với hơn 200.000 từ và cụm từ. Từ năm 2006, bản EVTRAN 3.0 (được gọi là Ev-Shuttle) biên dịch văn bản hai chiều Anh-Việt và Việt-Anh (với hơn 500.000 mục từ vựng).
+
+
+== Các cách tiếp cận ==
+
+
+== Một số dịch vụ dịch tự động ==
+
+
+=== Đa ngôn ngữ ===
+Babel Fish: Một trong các tiện ích dịch tự động đầu tiên trên ứng dụng web, được công cụ tìm kiếm Alta Vista phát triển và đưa lên mạng vào năm 1997, sau đó Yahoo một công cụ tìm kiếm khác mua lại vào năm 2004. Hỗ trợ 38 cặp ngôn ngữ, trong đó tiếng Anh, tiếng Pháp và tiếng Trung Quốc (cả giản thể và phồn thể) được hỗ trợ nhiều nhất; tiếp đến là các tiếng Đức, Tây Ban Nha, Ý, Bồ Đào Nha, Nga, Triều Tiên, Nhật, Hy Lạp và Hà Lan. Liên kết: babelfish.yahoo.com Lưu trữ 2006-05-04 tại Wayback Machine
+Google Translate: Dịch vụ này tính đến thời điểm tháng 2 năm 2010 đã hỗ trợ 52 ngôn ngữ trong đó có tiếng Việt, hiện là dịch vụ trực tuyến duy nhất hỗ trợ khả năng dịch toàn trang web cho tiếng Việt, không giống Yahoo, do sử dụng kiểu dịch trung gian nên cặp ngôn ngữ có khả năng dịch qua lại với nhau lên tới con số 1326 (52*51/2), tuy nhiên rất nhiều cặp chất lượng dịch thấp, vì thực tế đó là kiểu dịch tự động 2 lần qua một ngôn ngữ trung gian nào đó (thường là tiếng Anh), với tính năng này có thể dịch một câu tiếng Việt sang 51 ngôn ngữ còn lại. Có tính năng tương tác với người dùng nhằm tăng chất lượng dịch cho các lần sau, không hỗ trợ dịch chuyên ngành. Tốc độ dịch của Google là rất tốt so với các dịch vụ trực tuyến tương tự khác dành cho người Việt, khi sử dụng người dùng sẽ dễ dàng nhận thấy. Tốc độ, đơn giản dù sao vẫn là những đặc điểm vốn có từ lâu của người khổng lồ Internet này. Liên kết: translate.google.com.vn
+
+
+=== Tiếng Việt ===
+Lạc Việt (công ty từng phát triển và đưa ra bộ từ điển Lạc Việt): chỉ hỗ trợ dịch từ Anh sang Việt có thêm phần dịch chuyên ngành (tin học, toán học, y học và kế toán) và hỗ trợ dịch tốt hơn bởi người dùng. Liên kết: tratu.coviet.vn/hoc-tieng-anh/dich-van-ban.html
+Vdict: Dịch vụ trực tuyến đầu tiên dịch tự động Anh-Việt, mua lại bản quyền phần mềm EVTRAN của Softex (Phòng Công nghệ Phần Mềm - Viện Ứng dụng công nghệ - Bộ Khoa học và Công nghệ Việt Nam) phát triển, sau đó từ bỏ phần mềm này (trong một thời gian ngắn) để sử dụng công nghệ của Google Translate. Tuy nhiên, vì trong nhiều trường hợp EVTRAN dịch tốt hơn Google Translate nên Vdict đã sử dụng lại EVTRAN đồng thời với Google Translate: hiện nay khi dịch Anh<->Việt, vdict cho ra cả hai kết quả. Không hỗ trợ dịch chuyên ngành cũng như trợ giúp từ phía người dùng. Liên kết: vdict.com/?autotranslation#translation
+Baamboo: Dịch dưới 500 từ được hỗ trợ bởi Google.
+EVTRAN: Phần mềm dịch tự động Anh-Việt, Việt-Anh đầu tiên do người Việt làm ra.
+VIKI Translator: Phần mềm dịch tự động Anh-Việt, Việt-Anh và từ điển, xây dựng từ năm 2017. Liên kết: vikitranslator.com
+
+
+== Hạn chế ==
+Do chất lượng chưa thật tốt nên hầu hết các sản phẩm dịch tự động đều chỉ mang tính tham khảo, các bản dịch chỉ cho biết đại ý và nó hoàn toàn có thể dịch sai một phần hoặc toàn bộ nội dung cốt lõi của văn bản. Trong quá trình dịch thuật nếu lạm dụng dịch tự động sẽ làm ảnh hưởng nghiêm trọng đến văn phong, bởi vì người dịch giữ nguyên cách hành văn của bản dịch nhưng cách hành văn này thường không chính xác, máy móc và thiếu "chất người". So sánh giữa các thể loại văn bản khác nhau cho thấy dịch tự động dịch tài liệu chuyên ngành có chất lượng tốt nhất, nguyên nhân là vì các tài liệu này từ vựng có nghĩa rõ ràng (đơn nghĩa), cấu trúc ngữ pháp mạch lạc, đơn giản, ngược lại thể loại văn học là khó dịch nhất vì từ thường đa nghĩa, nhiều khẩu ngữ, cấu trúc ngữ pháp phức tạp, hay sử dụng nghĩa bóng.
+
+
+== Dịch chuyên ngành và dịch chung ==
+Một số chương trình dịch máy cho phép lựa chọn dịch chuyên ngành và dịch chung. Với một văn bản chuyên ngành, từ vựng thường có hai nghĩa, nghĩa thứ nhất là nghĩa chuyên ngành và nghĩa thứ hai là nghĩa vẫn hay được sử dụng, việc người dùng lựa chọn thể loại của văn bản giúp hệ thống giảm bớt gánh nặng xử lý các hiện tượng nhập nhằng, kết quả là tốc độ cũng như chất lượng được gia tăng. Tuy nhiên khi sử dụng tính năng này cần thận trọng, đặc biệt trong các văn bản có tính chất liên ngành, ví dụ như khi dịch một tài liệu về xử lý ngôn ngữ tự nhiên và xếp nó vào chuyên ngành tin học chưa chắc đã cho kết quả dịch tốt hơn, nguyên nhân là vì xử lý ngôn ngữ tự nhiên còn là sự kết hợp giữa các ngành ngôn ngữ, toán học chứ không đơn giản là thuần túy tin học. Một chương trình dịch tự động chất lượng cao sẽ tự động nhận diện thể loại mà không cần sự trợ giúp từ con người.
+
+
+== Đánh giá sản phẩm ==
+Khi các dịch vụ dịch tự động gia tăng lên tới hàng chục (như các dịch vụ dịch tự động từ tiếng Anh sang tiếng Pháp) thì một yêu cầu được đưa ra là cần phải lựa chọn dịch vụ nào tốt nhất. Việc đánh giá chất lượng của một sản phẩm không thể căn cứ trên vài thí nghiệm đơn giản, do vậy các chuyên gia đã thiết kế hẳn một chương trình đánh giá chuyên nghiệp một cách hoàn toàn tự động. Phương pháp của họ là sử dụng một số lượng lớn các tài liệu dịch bởi con người và đã được thẩm định đạt chất lượng, sau đó so sánh các bản dịch này với bản dịch của máy, tỉ lệ so khớp cho kết quả phù hợp càng cao thì sản phẩm đó càng tốt. Hai phương pháp thường sử dụng để đánh giá đó là BLEU (BiLingual Evaluation Understudy) và NIST (National Institute of Standards and Technology) .
+
+
+== Xem thêm ==
+Xử lý ngôn ngữ tự nhiên
+Google Translate
+EVTRAN
+Dịch vụ dịch tự động của Yahoo!
+Nhập nhằng
+Trí tuệ nhân tạo
+Tiếng Việt
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Hutchins J. (2005) The history of machine translation in a nutshell Lưu trữ 2019-07-13 tại Wayback Machine
+Hutchins J. (2005b)  Milestones in machine translation — No.6: Bar-Hillel and the nonfeasibility of FAHQT Lưu trữ 2007-03-12 tại Wayback Machine
+Van Slype G. (1983) Better Translation for Better Communications, (Pergamon Press: Paris)
+
+
+== Liên kết ngoài ==
+Trang chủ Google Translate

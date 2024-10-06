@@ -1,0 +1,107 @@
+Cúm gà hay cúm gia cầm là một loại bệnh cúm do virus gây ra cho các loài gia cầm (hay chim), và có thể xâm nhiễm một số loài động vật có vú. Virus này được phát hiện lần đầu tiên là tại Ý vào đầu thập niên 1900 và giờ đây phát hiện ở hầu hết các nơi trên thế giới. Virus cúm gà có tên khoa học là avian influenza (AI và đọc là ɪnflʊˈɛnzə)  thuộc nhóm virus cúm A của họ Orthomyxociridae. Đây là những retrovirus, mang vật liệu di truyền là những đoạn phân tử RNA, sợi đối mã (sợi âm tính). Biến chủng H5N1 của virus cúm gà bắt đầu hoành hành từ năm 1997 và có nguy cơ bùng phát thành đại dịch cúm đối với con người trong tương lai. Hiện giờ, không một quốc gia nào khẳng định có đầy đủ phương tiện và kỹ thuật để ngăn ngừa, chống lại đại dịch cúm này nếu điều đó xảy ra.
+
+
+== Đường lây nhiễm ==
+Các chủng của virus cúm gà có thể xâm nhiễm vào nhiều loại động vật khác nhau như chim, lợn, ngựa, hải cẩu, cá voi, hổ và con người. Bệnh cúm gà lây truyền qua không khí và phân bón, nhưng cũng có thể gây nhiễm trên thức ăn, nước, dụng cụ và quần áo. Tuy nhiên, hiện giờ chưa có bằng chứng thực nghiệm nào cho thấy virus cúm gà có thể sống sót trong thức ăn đã được nấu chín.
+Thời kỳ ủ bệnh từ 3 đến 5 ngày. Triệu chứng mắc bệnh ở các động vật là khác nhau, nhưng một số biến thể virus có thể dẫn đến tử vong chỉ trong vòng vài ngày.
+
+
+== Triệu chứng ở người ==
+Đối với con người, cúm gà gây ra các triệu chứng tương tự như của các loại cúm khác [1] Lưu trữ 2005-10-26 tại Wayback Machine. Đó là sốt, ho, đau họng, đau nhức cơ bắp, viêm màng kết và;ở những trường hợp nghiêm trọng, có thể gây suy giảm hô hấp và viêm phổi, có thể dẫn đến tử vong. Mức độ nghiêm trọng của bệnh phụ thuộc phần lớn vào thể trạng sức khoẻ, khả năng miễn dịch, tiền sử tiếp xúc virus của người bị nhiễm. [2] Lưu trữ 2006-02-11 tại Wayback Machine
+
+
+== Lây nhiễm từ người sang người? ==
+Trong tháng 5 năm 2006 đã có một số lo ngại về việc virus H5N1 có thể đã biến đổi, tạo khả năng lây từ người sang người sau khi bảy người trong một gia đình lớn ở Indonesia đã bị nhiễm virus, 6 người trong số đó đã tử vong.
+Tuy nhiên các chuyên gia của Tổ chức Sức khỏe Thế giới (WHO) -- tổ chức y tế của Liên Hợp Quốc có tiếng nói uy tín nhất về dịch bệnh trong cộng đồng—cho rằng tuy chưa thể loại bỏ khả năng virus đã lây từ người sang người, hiện họ vẫn đang tìm thêm nguồn lây khác có thể. WHO cho rằng việc tìm kiếm ấy cho đến nay vẫn chưa đưa ra được bằng chứng virus đã lây lan trong cộng đồng và cũng chưa có bằng chứng về việc sự lây nhiễm từ người sang người đã trở nên mạnh mẽ hơn.
+
+
+== Các biến chủng virus cúm lây nhiễm sang người ==
+Tất cả các virus AI đều thuộc nhóm cúm A trong họ virus Orthomyxoviridae và tất cả các phân nhóm của virus cúm A đều có thể lây nhiễm các loài chim. Chi virus cúm nhóm A được chia thành các phân nhóm dựa vào loại protein hemagglutinin (H) và neuraminidase (N) nằm trên lớp vỏ protein bao bọc lõi virus. Có tất cả 16 loại protein H, đối với mỗi loại thì lại có đến 9 phân nhóm protein N, như vậy tổ hợp lại thì có khả năng tạo ra 144 phân nhóm virus cúm gà khác nhau. Ngoài ra, tất cả mỗi phân nhóm virus trên lại có thể chia làm 2 phân nhóm xâm nhiễm: đặc tính xâm nhiễm thấp (LPAI) và cao (HPAI), điều này phụ thuộc vào độc tính của virus đối với các quần thể gia cầm.
+Người ta đang lo ngại rằng các loài virus cúm gia cầm có thể tiến hành chuyển đổi tính kháng nguyên để có khả năng vượt qua các rào cản khác loài (vd. từ chim có thể lây sang người). Nếu thực sự biến chủng này được tạo ra thì nó sẽ vừa mang tính đa hình cực cao (khó kiểm soát) và có độc tính mạnh (khó chữa trị). Một biến chủng như vậy có thể gây nên một đại dịch tương tự như Đại dịch cúm Tây Ban Nha đã làm tử vong 50 triệu người vào năm 1918.
+Tuy nhiên, các đặc điểm di truyền giữa các biến chủng gây bệnh trên người và trên gia cầm có sự khác biệt đáng kể, không dễ vượt qua. Ngay cả trong các phân nhóm của virus cúm gà cũng mang những đặc điểm khác nhau. Các virus cúm gà H5 và H7 có thể có cả dạng "gây nhiễm cao" và "gây nhiễm thấp", phụ thuộc vào đặc điểm di truyền và mức độ nghiêm trọng của bệnh mà chúng gây ra; tuy nhiên, virus cúm H9 thì chỉ có dạng "gây nhiễm thấp".
+
+
+=== H1N1 ===
+
+Phân nhóm H1N1 là chủng virus cúm A được phân lập đầu tiên. Đầu tháng 10 năm 2005, các nhà khoa học tuyên bố rằng họ đã khôi phục thành công chủng virus gây ra Đại dịch cúm Tây Ban Nha. Những trình tự gene cho thấy đại dịch năm 1918 này là do virus phân nhóm H1N1 gây ra, thường được coi là chủng gây cúm lợn nhưng có khả năng truyền nhiễm.
+Vào tháng 3 và tháng 4 năm 2009 một đợt bùng phát dịch với một chủng mới của virus H1N1 đã dẫn đến gần 2.000 ca nhiễm và hàng chục người đã chết. Tính đến ngày 6 tháng 5 năm 2009 đã có 1.893 ca nhiễm tại 23 quốc gia, nhiều nhất là ở Mehico, trong số đó có 31 ca đã tử vong (27 tại Mehico, 2 tại Mỹ), theo WHO.
+
+
+=== H5N1 ===
+
+H5N1 là phân nhóm virus cúm gia cầm có khả năng xâm nhiễm cao. Từ 1997, sự bùng phát của virus H5N1 đã làm nhiễm bệnh và chết hàng chục triệu gia cầm.
+Từ tháng 12 năm 2003 đến tháng 5 năm 2009 đã có 258 người tử vong do cúm gia cầm trong số 423 ca nhiễm H5N1 tại 15 nước, chủ yếu ở châu Á, theo số liệu của Tổ chức Y tế Thế giới-WHO.
+Đến tháng 5 năm 2009 Indonesia là nước có nhiều ca tử vong nhất do H5N1, với 115 người chết trong 141 ca nhiễm. Ở Việt Nam có 56 ca tử vong trong 111 người nhiễm kể từ 2003, theo WHO. 
+Việt Nam tuyên bố có năm bệnh nhân nhiễm và tử vong vì H5N1 từ đầu 2009. Ca tử vong gần đây nhất là Nguyễn Duy Hoàng Huy (SN 2009), trú tại ấp 1, xã Tân Hội Trung, (huyện Cao Lãnh, tỉnh Đồng Tháp) đã tử vong ngày 04/4/2013.
+H5N1 được coi là tâm điểm của sự chú ý và cảnh báo rằng một biến chủng từ phân nhóm H5N1 có thể tự biến đổi (hoặc tái tổ hợp) để có thể lây từ người sang người,tạo thành một chủng virus có khả năng gây đại dịch cúm toàn cầu.
+
+
+=== Các chủng khác ===
+Từ năm 1997, các phân nhóm H5N1, H7N2, H7N3, H7N7, và H9N2 đã được phát hiện xâm nhiễm vào người.
+
+H2N2
+
+Gây nên dịch cúm châu Á vào năm 1957 và 1958 đã làm chết khoảng 1 triệu người trên thế giới.
+H3N2
+
+Phát triển từ chủng H2N2 do biến đổi di truyền và gây nên dịch cúm Hồng Kông vào năm 1968, 1969 đã gây tử vong 750.000 người, Đây là đại dịch gây tử vong lớn nhất thế kỷ 20.
+H7N2
+Với sự bùng phát phân nhóm H7N2 trong gia cầm vào năm 2002, 44 người đã được phát hiện là bị nhiễm virus tại bang Virginia, Hoa Kỳ.
+H7N3
+Ở Bắc Mỹ, người ta đã phát hiện chủng virus cúm gà H7N3 tại một số trang trại gia cầm tại British Columbia vào tháng 2 năm 2004. Cho đến tháng 4 năm 2004, đã có 18 trang trại phải cách ly để ngăn ngừa sự lan truyền của loài virus này. Có 2 trường hợp người dân vùng này bị nhiễm virus cúm.
+H7N7
+Trong năm 2003 ở Hà Lan, 89 người đã được chẩn đoán là nhiễm virus cúm H7N7 sau một đợt dịch cúm gia cầm từ một số trang trại lân cận. Một trường hợp đã tử vong.
+H9N2
+Loại virus này đã được nghiên cứu cho thấy chỉ là dạng "gây nhiễm thấp". Có 3 trường hợp phát hiện ở Trung Quốc và Hồng Kông cho thấy bị nhiễm virus và tất cả đều đã qua khỏi. Trong tháng 10, 2005, một dịch cúm bùng phát tại thị trấn Tolima, Hoa Kỳ. Tuy nhiên, không một trường hợp nào bị virus gây nhiễm cho người. [3]
+H7N9
+
+Loại virus H7N9 là loại virus cúm gia cầm mới vừa được phát hiện có khả năng lây từ gia cầm sang người và có tỉ lệ tử vong cao,bùng phát tại Trung Quốc từ tháng 3 năm 2013 và tập trung chủ yếu ở các tỉnh phía đông Trung Quốc. Hầu hết các trường hợp được báo cáo nhiễm ở người người đều dẫn đến suy hô hấp nặng. H7N9 thường trú ẩn trong cơ thể của chim bồ câu,gà và vịt nhưng không phát hiện trên cá đàn chim di cư.Nó là sự kết hợp gene của các virus khác nhau. Trong virus này, 6 gen bên trong nó là từ virus cúm gia cầm H9N2, nhưng nguồn gốc của cả gen hemagglutinin (H) và gen neuraminidase (N) đều chưa được xác định rõ [4]. Tính đến ngày 27/5/2013 đã có 130 ca mắc bệnh tại Trung Quốc[5],1 ca mắc tại Đài Loan[6] Lưu trữ 2013-07-02 tại Wayback Machine và trong đó đã có 37 ca tử vong [7] Lưu trữ 2013-06-09 tại Wayback Machine, tỉ lệ tử vong vào khoảng 28%
+H6N1
+Loại virus H6N1 là loại virus cúm gia cầm mới nhất vừa được phát hiện ở một cô gái 20 tuổi tại Đài Loan ngày 21 tháng 6 năm 2013. H6N1 là chủng virus cúm nguy cơ thấp thường được phát hiện ở gia cầm.
+
+
+== Phòng chống và điều trị ==
+Cúm gà ở người có thể được phát hiện qua những xét nghiệm cúm thường. Tuy nhiên, những xét nghiệm này không phải luôn đáng tin cậy. Vào tháng 3 năm 2005, Tổ chức Y tế Thế giới thông báo rằng có vài người Việt Nam có xét nghiệm âm tính đối với cúm gà lúc ban đầu nay đã có phát hiện có nhiễm virus. Những người đó sau này đều đã bình phục.
+Hiện nay, các xét nghiệm chẩn đoán nhiễm H5N1 đáng tin cậy đều phải yêu cầu sử dụng virus sống để tương tác với những kháng thể có trong máu của bệnh nhân. Vì lý do an toàn sinh học, các xét nghiệm đều phải được tiến hành trong các phòng thí nghiệm độ an toàn cấp 3 [8].
+Thuốc chống virus đôi khi hữu hiệu trong cả ngăn ngừa và trị bệnh, nhưng chưa có một loại virus nào thực sự được chữa lành trong lịch sử y học. Vắc xin, tuy nhiên, mất tối thiểu 4 tháng để sản xuất và phải được chuẩn bị riêng cho mỗi loài biến thể.
+
+
+== Độc tính gia tăng ==
+Vào tháng 7 năm 2004 các nghiên cứu gia, dẫn đầu bởi Deng của Trung tâm nghiên cứu thú y Harbin, tại Harbin, Trung Quốc và giáo sư Robert Webster của Bệnh viện nghiên cứu nhi đồng St Jude, tại Memphis, Tennessee, đã báo cáo kết quả thực nghiệm trên chuột khi tiếp xúc với 21 chủng H5N1 chiết xuất từ các con vịt Trung Quốc giữa năm 1999 và 2002. Họ đã phát hiện "một mẫu tạm thời rõ ràng có tính độc tố phát triển gia tăng". [9]
+
+
+== Phòng ngừa đại dịch ==
+
+Tổ chức Y tế Thế giới (WHO) đã đưa ra cảnh báo rằng đại dịch cúm đang đến gần, và nhiều khả năng là do một biến chủng của virus cúm gia cầm H5N1. Để chuẩn bị đối phó, các quốc gia phải bắt đầu vạch kế hoạch chi tiết khi tình huống đại dịch diễn ra. Các biện pháp khẩn cấp có thể tiến hành là phân vùng, giới hạn sự lan truyền, tiêu huỷ và tiêm vaccin đối với gia cầm. Ngoài ra, các kế hoạch dài hạn cần phải thực thi là thay đổi dần lối sống, phương pháp chăn nuôi gia cầm của các vùng dân cư có nguy cơ cao.
+WHO đã chia dịch cúm thành 6 giai đoan, từ mức độ chỉ là nguy cơ nhỏ cho đến khi đại dịch bùng phát và lan tràn. Hầu hết các tổ chức y tế của các quốc gia đều tự đánh giá và cho rằng hiện nay (năm 2005) dịch gia cầm đang nằm ở giai đoạn 3 của dịch, điều đó thừa nhận sự gây nhiễm trên người của một chủng virus mới này đã xảy ra nhưng có rất ít bằng chứng về sự lan truyền virus từ người sang người. Tuy thế, các chuyên gia y tế của WHO lo ngại rằng dịch cúm gia cầm có thể trở thành một đại dịch lớn trong thời gian sắp tới. Nhiều cảnh báo của WHO liên tục được phát ra kêu gọi cộng đồng các quốc gia trên thế giới cùng góp sức chống lại hiểm họa dịch cúm gia cầm.
+
+
+== Xem thêm ==
+Cúm gà ở Hồng Kông từ 1969-1969
+Cúm gà ở châu Á từ 1957-1958
+Cúm gà ở Tây Ban Nha từ 1918-1919
+
+
+== Phụ lục ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Tham khảo ==
+
+Kuiken T et al (2004), Avian H5N1 Influenza in Cats, Science 2004 306: 241 (doi:10.1126/science.1102287)

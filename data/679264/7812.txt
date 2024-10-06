@@ -1,0 +1,86 @@
+Digitoxin là một glicozit tim chiết xuất từ cây mao địa hoàng (Digitalis spp.). Nó được sử dụng rộng rãi trong điều trị các tình trạng tim khác nhau, và có hai tác động riêng biệt lên tim.
+Digoxin ức chế bơm Na+-K+ ATPase ở màng tế bào cơ tim (myocyte). Điều này làm tăng nồng độ ion natri trong tế bào cơ tim và dẫn đến tăng nồng độ ion calci. Nồng độ calci tăng làm tăng tính co bóp của cơ tim.
+Digoxin làm tăng sức bóp cơ tim và giảm tính dẫn truyền xung điện qua nút nhĩ thất, do đó nó thường được sử dụng trong điều trị suy tim, kiểm soát nhịp tim trong rung nhĩ, cuồng động nhĩ, nhịp nhanh kịch phát trên thất.
+Một số tính chất vật lý của digoxin là độ tan trong nước 64,8 mg/L ở 25 °C và điểm nóng chảy ở 249 °C.
+
+
+== Dược lực học ==
+
+Digoxin có thể dùng bằng cách uống hoặc tiêm tĩnh mạch. Thể tích phân phối trung bình khoảng 7,3 L/kg; giảm ở bệnh nhân có bệnh thận, nhược giáp hay đang dùng quinidin; tăng ở nhiễm độc tuyến giáp. Độ thanh thải khác nhau tùy người, và là kết quả của các cơ chế thải trừ ở thận và chuyển hoá. Ở người lớn khoẻ mạnh, thành phần chuyển hoá khoảng 40-60 mL/phút cho 70 kg trọng lượng cơ thể, và thành phần thận xấp xỉ độ thanh thải creatinin. Mức thanh thải chuyển hoá giảm ở suy tim ứ huyết.
+Ở bệnh nhân có chức năng thận bình thường, thời gian bán thải khoảng 2 ngày. Ở bệnh nhân có bệnh thận trầm trọng, thời gian bán thải khoảng 4–6 ngày.
+
+
+=== Sinh khả dụng ===
+Sinh khả dụng dạng viên nén cao. Dạng viên nén và dung dịch nước có thể đạt sinh khả dụng 75%.
+Thời gian xuất hiện tác dụng lâm sàng:
+
+Đường tiêm tĩnh mạch: xuất hiện tác dụng lâm sàng sau 10 phút và tác dụng đầy đủ trong vòng 2-4 giờ.
+Khi uống, xuất hiện tác dụng lâm sàng sau 0,5 – 1 giờ và tác dụng đầy đủ trong vòng 5-7 giờ.
+
+
+=== Phân bố ===
+Liên kết protein huyết tương thấp (20-30 %) và sự gắn kết này không bền vững, thuốc dễ giải phóng ra dạng tự do nên ít có ý nghĩa trên lâm sàng.
+Digoxin tập trung nhiều ở các mô: tim, thận, gan, phổi với nồng độ cao hơn ở trong máu. Trong cơ tim nồng độ digoxin có thể cao gấp 25 lần so với trong máu.
+Nồng độ các chất điện giải: Ca2+ cao và K+ thấp trong máu làm tăng nồng độ của thuốc gắn vào cơ tim.
+
+
+=== Chuyển hoá ===
+Chuyển hoá 5-10% tại gan.
+Con đường chuyển hoá chính là thủy phân mất dần phần đường và giải phóng genin. Genin giải phóng được hydroxyl hoá ở microsom gan sau đó liên hợp axít glucuronic và axít sulfuric.
+
+
+=== Thải trừ ===
+Qua thận: thải trừ gần như hoàn toàn. Sự thải trừ không phụ thuộc pH của nước tiểu.
+Qua mật: tái hấp thu một phần theo chu kỳ gan-ruột.
+Ở người chức năng gan thận bình thường, thời gian thải trừ trung bình là 36 giờ. Suy gan, suy thận làm tăng độc tính của thuốc do gây tăng tích luỹ.
+
+
+=== Tác dụng phụ ===
+Tác dụng phụ được quyết định một phần bởi nồng độ huyết tương (>2,5 μg/L) và một phần bởi cân bằng điện giải. Digoxin và kali cạnh tranh các vị trí thụ thể tim và hạ kali máu có thể làm tăng tác dụng phụ của digitalis. Hạ calci máu cũng thúc đẩy độc tính.
+Tác dụng phụ ngoài tim thường gặp:
+
+Chán ăn, buồn nôn, nôn
+Mệt mỏi
+Suy nhược
+Tiêu chảy
+Ít gặp hơn, các triệu chứng thần kinh bao gồm khó khăn trong việc đọc, nhầm lẫn hay thậm chí rối loạn tâm thần. Đau bụng cũng là một biểu hiện ít gặp khác.
+Tác dụng phụ trên tim:
+
+Chậm nhịp xoang hay ngưng xoang
+Các mức độ block nhĩ thất khác nhau, gồm cả block tim hoàn toàn
+Nhịp bộ nối
+Nhịp ngoại tâm thu thất
+Nhịp nhanh nhĩ hay thất
+Rung thất
+Các dấu hiệu tim thường xuất hiện trước các dấu hiệu ngoài tim trong khoảng 50% trường hợp. Tác dụng thường gặp của glicozit trên điện tâm đồ với khoảng PR kéo dài và hạ đoạn ST không là biểu hiện của nhiễm độc.
+
+
+== Tương tác thuốc ==
+Các thuốc làm tăng nồng độ và độc tính của digoxin
+
+Các thuốc làm giảm nhu động ruột: atropin, propanthelin
+Thuốc làm giảm thải trừ hoặc giảm gắn vào mô: verapamil, amiodaron, đặc biệt là quinidin.
+Thuốc ức chế cytocrom P450 tại gan: erythromycin, tetracyclin.
+Các thuốc giảm K+ máu: các thuốc lợi niệu giảm K+ máu (thiazid, lợi niệu quai), glucocorticoit.
+Các thuốc làm tăng loạn nhịp tim: thuốc kích thích β-adrenergic, succinylcholin.
+Các thuốc làm giảm hấp thu digoxin: antacid, cholestyramin, thuốc làm tăng nhu động ruột (metaclopropamid)
+
+
+== Quy định về dược phẩm ==
+Digoxin nằm trong danh mục thuốc thiết yếu Việt Nam ban hành lần thứ 5 năm 2005.
+Thuốc độc bảng A.
+
+
+== Chế phẩm ==
+Viên nén: 0,125; 0,25; 0,5 mg
+Viên nang: 0,05; 0,1; 0,2 mg
+Ống tiêm 1ml chứa 0,1; 0,25; 0,5 mg
+Cồn thuốc: 0,05 mg/ml
+
+
+== Các chủ đề liên quan ==
+Glicozit tim
+Mao địa hoàng
+
+
+== Tham khảo ==

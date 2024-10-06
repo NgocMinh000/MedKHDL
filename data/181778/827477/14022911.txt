@@ -1,0 +1,35 @@
+Giấc ngủ mắt chuyển động nhanh (giấc ngủ REM, RAPID EYES MOVEMENT, REMS) là một pha độc nhất trong giấc ngủ của loài động vật có vú và loài chim trừ cá heo và cá voi sát thủ, có thể phân biệt bằng các chuyển động ngẫu nhiên/nhanh của mắt, đi kèm với trương lực cơ thấp xuyên suốt cả cơ thể, và người ngủ có xu hướng mơ một cách sống động.
+Pha REM còn được gọi là paradoxical sleep (tạm dịch: giấc ngủ nghịch lý) và đôi lúc là desynchronized sleep (tạm dịch: giấc ngủ mất đồng bộ) do những sự giống nhau về mặt sinh lý của nó với trạng thái thức, bao gồm sóng não mất đồng bộ có điện áp thấp nhanh. Các hoạt động hóa và điện điều hòa pha này có vẻ như bắt nguồn từ trong thân não và có đặc điểm nổi trội nhất là tồn tại nhiều chất dẫn truyền thần kinh acetylcholine, được kết hợp với sự gần như thiếu vắng hoàn toàn của các chất dẫn truyền thần kinh monoamin bao gồm histamin, serotonin, và norepinephrin.
+Giáo sư Nathaniel Kleitman và học trò của ông Eugene Aserinsky đã định nghĩa chuyển động mắt nhanh và liên kết nó với các giấc mơ vào năm 1953. Giấc ngủ REM được mô tả kĩ càng hơn bởi các nhà nghiên cứu như William Dement và Michel Jouvet. Nhiều thí nghiệm đã thực hiện cả việc đánh thức những đối tượng kiểm tra mỗi khi họ bắt đầu bước vào pha REM, từ đó sản sinh ra một trạng thái được gọi là thiếu REM. Các đối tượng được phép ngủ bình thường trở lại thì thưởng trải qua hiện tượng REM rebound vừa phải. Các kĩ thuật trong Ngoại thần kinh, tiêm chất hóa học, điện não đồ, chụp positron cắt lớp (PET), và báo cáo về những người đang mơ mà bị tỉnh dậy, thì đều đã được sử dụng để nghiên cứu pha ngủ này.
+
+
+== Tham khảo ==
+
+
+=== Nguồn ===
+Antrobus, John S., & Mario Bertini (1992). The Neuropsychology of Sleep and Dreaming. Hillsdale, NJ: Lawrence Erlbaum Associates. ISBN 0-8058-0925-2
+Brown Ritchie E.; Basheer Radhika; McKenna James T.; Strecker Robert E.; McCarley Robert W. (2012). “Control of Sleep and Wakefulness”. Physiological Reviews. 92 (3): 1087–1187. doi:10.1152/physrev.00032.2011. PMC 3621793. PMID 22811426.
+Ellman, Steven J., & Antrobus, John S. (1991). The Mind in Sleep: Psychology and Psychophysiology. Second edition. John Wiley & Sons, Inc. ISBN 0-471-52556-1
+Jouvet, Michel (1999). The Paradox of Sleep: The Story of Dreaming. Originally Le Sommeil et le Rêve, 1993. Translated by Laurence Garey. Cambridge: MIT Press. ISBN 0-262-10080-0
+Mallick, B. N., & S. Inoué (1999). Rapid Eye Movement Sleep. New Delhi: Narosa Publishing House; distributed in the Americas, Europe, Australia, & Japan by Marcel Dekker Inc (New York).
+Mallick, B. N.; S. R. Pandi-Perumal; Robert W. McCarley; and Adrian R. Morrison. Rapid Eye Movement Sleep: Regulation and Function. Cambridge University Press, 2011. ISBN 978-0-521-11680-0
+Monti, Jaime M., S. R. Pandi-Perumal, & Christopher M. Sinton (2008). Neurochemistry of Sleep and Wakefulness. Cambridge University Press. ISBN 978-0-521-86441-1
+Parmeggiani, Pier Luigi (2011). Systemic Homeostasis and Poikilostasis in Sleep: Is REM Sleep a Physiological Paradox? Luân Đôn: Imperial College Press. ISBN 978-1-94916-572-2
+Rasch, Björn, & Jan Born (2013). "About Sleep's Role in Memory". Physiological Reviews 93, pp. 681–766.
+Solms, Mark (1997). The Neuropsychology of Dreams: A Clinico-Anatomical Study. Mahwah, NJ: Lawrence Erlbaum Associates; ISBN 0-8058-1585-6
+Steriade, Mircea, & Robert W. McCarley (1990). Brainstem Control of Wakefulness and Sleep. New York: Plenum Press. ISBN 0-306-43342-7
+
+
+== Đọc thêm ==
+Snyder F (1966). “Toward an Evolutionary Theory of Dreaming”. American Journal of Psychiatry. 123 (2): 121–142. doi:10.1176/ajp.123.2.121. PMID 5329927.
+Edward F. Pace-Schott biên tập (2003). Sleep and Dreaming: Scientific Advances and Reconsiderations. Cambridge University Press. ISBN 978-0-521-00869-3.
+Koulack, D. To Catch A Dream: Explorations of Dreaming. New York, SUNY, 1991.
+Nguyen TQ, Liang CL, Marks GA (2013). “GABA(A) receptors implicated in REM sleep control express a benzodiazepine binding site”. Brain Res. 1527: 131–40. doi:10.1016/j.brainres.2013.06.037. PMC 3839793. PMID 23835499.
+Liang CL, Marks GA (2014). “GABAA receptors are located in cholinergic terminals in the nucleus pontis oralis of the rat: implications for REM sleep control”. Brain Res. 1543: 58–64. doi:10.1016/j.brainres.2013.10.019. PMID 24141149.
+Grace KP, Vanstone LE, Horner RL (2014). “Endogenous Cholinergic Input to the Pontine REM Sleep Generator Is Not Required for REM Sleep to Occur”. J. Neurosci. 34 (43): 14198–209. doi:10.1523/JNEUROSCI.0274-14.2014. PMID 25339734.
+Carson III, Culley C., Kirby, Roger S., Goldstein, Irwin, editors, "Textbook of Erectile Dysfunction" Oxford, U.K.; Isis Medical Media, Ltd., 1999; Moreland, R.B. & Nehra, A.; Pathosphysiology of erectile dysfunction; a molecular basis, role of NPT in maintaining potency: pp. 105–15.
+
+
+== Liên kết ngoài ==
+PBS' NOVA episode "What Are Dreams?" Video and Transcript
+LSDBase - an open sleep research database with images of REM sleep recordings.

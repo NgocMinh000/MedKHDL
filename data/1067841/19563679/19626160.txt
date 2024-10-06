@@ -1,0 +1,19 @@
+Vắc-xin COVID‑19 Moderna (pINN: elasomeran), có tên mã là mRNA-1273 và được đưa ra thị trường với tên thương hiệu Spikevax, là vắc xin COVID-19 được Moderna , Viện Dị ứng và Bệnh truyền nhiễm Quốc gia Hoa Kỳ (NIAID) và Cơ quan Phát triển và Nghiên cứu Tiên tiến Y sinh Hoa Kỳ (BARDA) phát triển. Vắc xin này được phép sử dụng cho những người từ 12 tuổi trở lên ở một số khu vực pháp lý và cho những người từ 18 tuổi trở lên ở các khu vực pháp lý khác để phòng chống bệnh COVID-19 gây ra do sự lây nhiễm của vi rút SARS-CoV-2. Thiết kế sử dụng của vắc xin này là hai liều 0,5 mL, đưa vào cơ thể bằng cách tiêm bắp thịt, thời gian cách nhau 29 ngày.
+Đây là một loại vắc-xin RNA bao gồm RNA thông tin biến đổi nucleoside (modRNA) mã hóa một protein gai của SARS-CoV-2, được bao trong các hạt nano lipid.
+Vắc xin COVID‑19 Moderna được phép sử dụng ở một số cấp độ ở 53 quốc gia, bao gồm Canada, các quốc gia thuộc Khu vực Kinh tế Châu Âu, Singapore, Philippines, Hàn Quốc, Thái Lan, Vương quốc Anh và Hoa Kỳ.
+
+
+== Ứng dụng y học ==
+Vắc xin COVID‑19 Moderna được sử dụng để bảo vệ chống lại sự lây nhiễm của virus SARS-CoV-2 nhằm ngăn ngừa COVID‑19.
+Vắc xin này được đưa vào cơ thể bằng cách tiêm bắp vào cơ delta. Quá trình tiêm ban đầu bao gồm hai liều. Tổ chức Y tế Thế giới (WHO) khuyến cáo khoảng cách giữa các liều tiêm là 28 ngày. Dữ liệu cho thấy hiệu quả của liều đầu tiên kéo dài đến 10 tuần. Do đó, để tránh tử vong khi nguồn cung hạn chế, WHO khuyến cáo nên trì hoãn liều thứ hai lên đến 12 tuần để đạt được mức độ bao phủ cao của liều đầu tiên trong các nhóm ưu tiên cao.
+
+
+=== Hiệu dụng ===
+
+Bằng chứng về hiệu quả của vắc-xin bắt đầu khoảng hai tuần sau liều đầu tiên. Hiệu quả cao đạt được khi chủng ngừa đầy đủ, hai tuần sau liều thứ hai, và được đánh giá ở mức 94,1%: vào cuối giai đoạn nghiên cứu vắc-xin dẫn đến việc cấp phép khẩn cấp cho vắc xin này  ở Mỹ, có 11 ca bệnh mắc COVID-19 trong nhóm vắc-xin (trong số 15.181 người) so với 185 ca ở nhóm giả dược (15.170 người). Hơn nữa, không có ca bệnh nào bị COVID-19 nghiêm trọng trong nhóm vắc-xin, so với 11 ca ở nhóm dùng giả dược. Hiệu quả này đã được mô tả là "đáng kinh ngạc" và "gần như mang tính lịch sử" đối với loại vắc-xin virus đường hô hấp, và mức hiệu quả này tương tự như hiệu quả của vắc-xin COVID-19 Pfizer–BioNTech.
+Các ước tính về hiệu quả là tương tự nhau giữa các nhóm tuổi, giới tính, chủng tộc và dân tộc, và những người tham gia mắc các bệnh đi kèm có liên quan đến nguy cơ cao mắc COVID‑19 gây biến chứng nghiêm trọng. Chỉ những người từ 18 tuổi trở lên mới được đưa vào các nghiên cứu này. Các nghiên cứu đang được tiến hành để đánh giá hiệu quả và độ an toàn đối với trẻ em từ 0–11 tuổi (KidCOVE) và 12–17 tuổi (TeenCOVE).
+Một nghiên cứu sâu hơn được Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ thực hiện từ tháng 12 năm 2020 đến tháng 3 năm 2021, trên gần 4000 nhân viên y tế, người trả lời đầu tiên, và các nhân viên thiết yếu khác và nhân viên tuyến đầu kết luận rằng trong điều kiện thực tế, hiệu quả của vắc xin mRNA khi tiêm chủng đầy đủ (14 ngày trở lên sau liều thứ hai) là 90% chống lại nhiễm trùng SARS-CoV-2, bất kể các triệu chứng và hiệu quả vắc-xin của việc chủng ngừa một phần (14 ngày trở lên sau liều đầu tiên nhưng trước liều thứ hai) là 80%.
+Thời gian bảo vệ tối đa của vắc-xin này là chưa rõ  và một nghiên cứu theo dõi kéo dài hai năm đang được tiến hành để xác định mốc thời gian này.
+
+
+== Tham khảo ==

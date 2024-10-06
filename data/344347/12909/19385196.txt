@@ -1,0 +1,20 @@
+Trình diện kháng nguyên là một quá trình miễn dịch quan trọng cần thiết cho việc kích hoạt phản ứng miễn dịch tế bào T. Do tế bào T chỉ nhận ra các "mảnh" kháng nguyên gắn trên bề mặt tế bào, nên quá trình xử lý kháng nguyên phải xảy ra trước sự phân "mảnh" kháng nguyên. Kháng nguyên liên kết với phức hợp phù hợp tổ chức chính (MHC), sau đó phức hợp này được vận chuyển đến bề mặt tế bào T. Tại đây xảy ra một quá trình được gọi là trình diện kháng nguyên, nơi kháng nguyên được một thụ thể tế bào T xác nhận. Nếu đã bị nhiễm virus hoặc vi khuẩn, tế bào sẽ xuất hiện một đoạn peptide nội sinh hoặc ngoại sinh có nguồn gốc từ kháng nguyên liên kết với các phân tử MHC. Có hai loại phân tử MHC khác nhau về hoạt động của kháng nguyên, đó là: phân tử MHC lớp I (MHC-I) liên kết peptide ở dịch tế bào (cytosol), MHC lớp II (MHC-II) gắn với peptide được tạo ra trong các túi nội tiết sau khi nội hiện hóa (internalisation).  Kết quả, mỗi tế bào T chỉ có thể nhận ra từ 10 đến vài trăm bản sao của một chuỗi peptide duy nhất trong số vài nghìn peptide được trình diện trên cùng một tế bào trình diện kháng nguyên, vì phân tử MHC trong tế bào này có thể liên kết được với khá nhiều peptide.
+
+
+== Trình bày các kháng nguyên nguyên vẹn cho tế bào B ==
+Thụ thể tế bào B trên bề mặt tế bào B liên kết với các kháng nguyên nguyên sinh và chưa phân cắt (có bản chất dang không gian), chứ không phải là một chuỗi peptide (có bản chất chuỗi tuyến tính) được phân cắt thành các "mảnh" nhỏ và được phân tử MHC trình diện. Các phức hợp lớn của kháng nguyên nguyên vẹn được trình diện trong hạch bạch huyết đến tế bào B nhờ tế bào đuôi gai dưới dạng phức hợp miễn dịch. Một số tế bào trình diện kháng nguyên có nồng độ enzyme lysosome tương đối thấp, do đó ít có khả năng tiêu hóa kháng nguyên mà chúng đã bắt được trước khi "đưa" kháng nguyên vào tế bào B.
+
+
+== Xem thêm ==
+Hệ miễn dịch
+Miễn dịch học
+Synapse miễn dịch
+Trogocytosis
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ImmPort - Gene summaries, ontologies, pathways, protein/protein interactions and more for genes involved in antigen processing and presentation
+MeSH antigen+presentation

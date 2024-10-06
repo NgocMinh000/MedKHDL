@@ -1,0 +1,17 @@
+Nguyên tắc Koch (tiếng Anh: Koch's postulates) là bốn tiêu chí nói về mối quan hệ giữa vi khuẩn và bệnh tật. Các nguyên tắc được xây dựng bởi Robert Koch và Friedrich Loeffler vào năm 1884, dựa trên các khái niệm trước đó được mô tả bởi Jakob Henle, sau đó được Koch tinh chế và xuất bản và năm 1890. Kock áp dụng nguyên tắc để mô tả nguyên nhân của bệnh tả và bệnh lao, nhưng chúng lại cũng được tranh luận tổng quát đến những bệnh khác nữa. Những định đề đã được tạo ra trước khi có sự hiểu biết về các khái niệm hiện đại trong sinh bệnh học của vi sinh vật mà không thể được kiểm tra theo quy tắc Koch, bao gồm virus hay vật chủ mang mầm bệnh không thể hiện triệu chứng. Chúng phần lớn đã được thay thế bởi các tiêu chí khác như các tiêu chí Bradford Hill về tác nhân gây bệnh truyền nhiễm trong y tế công cộng hiện đại.
+
+
+== 4 nguyên tắc ==
+Năm 1884, R. Koch đưa ra 4 nguyên tắc về tác nhân gây bệnh mà cho đến ngày nay vẫn còn được áp dụng là nguyên tắc chuẩn để chứng minh khả năng gây bệnh đặc trưng của một loài vi sinh vật nào đó. Các nguyên tắc đó là:
+1. Tác nhân gây bệnh phải luôn được tìm thấy trên sinh vật bị nhiễm bệnh nhưng không có ở sinh vật khỏe.
+2. Tác nhân gây bệnh phải được nuôi trong điều kiện thực nghiệm bên ngoài cơ thể sinh vật.
+3. Tác nhân gây bệnh phải có khả năng gây bệnh khi gây nhiễm vào con vật mẫn cảm.
+4. Tác nhân gây bệnh phải được xác định từ kết quả tái phân lập.
+
+
+== Tham khảo ==
+
+Giáo trình Sinh vật đại cương. Trang 10
+
+
+== Chú thích ==

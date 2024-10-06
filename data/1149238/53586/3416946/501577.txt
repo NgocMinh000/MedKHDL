@@ -1,0 +1,317 @@
+Trong ngữ pháp, giới từ (tiếng Anh: preposition hoặc adposition) là một bộ phận lời nói giới thiệu một giới ngữ. Một giới từ được đặt vào câu sẽ chỉ ra mối quan hệ giữa những điều được đề cập trong câu ấy. Ví dụ, trong câu "The cat sleeps on the sofa" (Con mèo ngủ trên ghế sofa), từ "on" là một giới từ, giới thiệu giới ngữ "on the sofa". Trong tiếng Anh, các giới từ được dùng phổ biến là "of" (của, thuộc, về,...), "to" (hướng tới, đến, đối với,...), "in" (trong, ở trong,...), "for" (cho, dành cho,...), "with" (với) và "on" (trên, lên,...)
+
+
+== Khái quát ==
+Thuật ngữ ngôn ngữ học tiếng Anh về giới từ thì có preposition (tiền giới từ), postposition (hậu giới từ) và circumposition. Cả ba loại bộ phận của câu nói này được gọi chung là adposition (tức 'giới từ'). Trong ngôn ngữ kĩ thuật hơn, một giới từ là một thành phần, một cách cơ bản, kết hợp cú pháp với một ngữ và chỉ rõ ngữ đó nên được diễn dịch như thế nào trong bối cảnh xung quanh. Một số nhà ngôn ngữ học sử dụng từ "preposition" (giới từ) thay cho "adposition" cho cả ba trường hợp. Trong bài này, từ đây về sau, chúng ta sẽ dùng thuật ngữ giới từ thay cho adposition.
+Trong ngôn ngữ học, giới từ được xem là thành viên của phân loại cú pháp "P". "Giới ngữ", gồm phần đầu giới từ và một bổ ngữ được sử dụng cho một loạt các chức năng cú pháp và chức năng ngữ nghĩa, trong đó phổ biến nhất là chức năng xác định và chức năng bổ trợ. Các ví dụ dưới đây minh họa một số cách dùng giới ngữ tiếng Anh:
+
+Như một định ngữ (tiếng Anh: modifier) đối với một động từ
+To sleep throughout the winter (ngủ suốt mùa đông)
+danced atop the tables for hours (nhảy nhót trên đỉnh các bảng (trong) hàng giờ liền)
+Như một định ngữ đối với một danh từ
+the weather in April (thời tiết vào tháng Tư)
+cheese from France with live bacteria (phó-mát (từ) Pháp cùng (với) vi khuẩn sống)
+Như bổ ngữ của một động từ
+dispose of unwanted items (rời bỏ (khỏi) những mục không mong muốn)
+Như bổ ngữ của một danh từ
+a thirst for revenge (khát vọng (dành cho việc) báo thù)
+an amendment to the constitution (một sửa đổi (đối với) hiến pháp)
+Như bổ ngữ của một tính từ hoặc trạng từ
+attentive to their needs (chú ý tới nhu cầu của họ)
+separately from its neighbors (tách biệt so với láng giềng lân cận)
+Như bổ ngữ của một giới từ khác
+until after supper (cho đến lúc bữa ăn tối kết thúc)
+from beneath the bed (từ dưới giường)
+Giới từ thực hiện nhiều chức năng giống như đánh dấu cách, nhưng giới từ là yếu tố cú pháp, còn đánh dấu cách là yếu tố hình thái học.
+
+
+== Định nghĩa ==
+Các giới từ tạo thành một lớp không đồng nhất có ranh giới mờ. Ranh giới này có khuynh hướng trùng lắp với các thể loại khác (như động từ, danh từ, và tính từ). Vì thế, không thể đưa ra định nghĩa tuyệt đối cho mọi ngôn ngữ để có thể tách ra tất cả các giới từ và chỉ có chúng. Tuy nhiên, các đặc tính dưới đây thường được yêu cầu từ giới từ:
+
+Giới từ kết hợp cú pháp với một bổ ngữ đúng nghĩa, thường gặp nhất là danh ngữ (hoặc cụm từ hạn định trong một phân tích khác). (Trong một số phân tích, giới từ không cần bổ ngữ nào. Xem dưới đây.) Trong tiếng Anh, nói chung đây là một danh từ (hay cái gì đó có chức năng như một danh từ, ví dụ một động danh từ), được gọi là đối tượng của giới từ, cùng với bổ giả của nó (bổ giả:= bổ ngữ/định ngữ giả tạo).
+Giới từ thiết lập quan hệ ngữ pháp kết nối bổ ngữ của nó với một từ hoặc cụm từ khác trong ngữ cảnh. Trong tiếng Anh, nó cũng thiết lập quan hệ ngữ nghĩa, có thể là không gian (in, on, under,...), thời gian (after, during,...), hay logic (via,...).
+Giới từ xác định các tính chất ngữ pháp nhất định cho bổ ngữ (ví dụ cách (ngữ pháp)) của nó. Trong tiếng Anh, đối tượng của giới từ luôn luôn là cách mục đích (tên gọi khác là cách gián tiếp, tiếng Anh: objective case). Trong tiếng Hy Lạp Koine, giới từ nhất định luôn lấy đối tượng trong một trường hợp nhất định (ví dụ, εν luôn lấy đối tượng trong tặng cách), các giới từ khác có thể lấy đối tượng trong nhiều trường hợp tùy thuộc vào ý nghĩa của giới từ (ví dụ, δια lấy đối tượng trong thuộc cách hoặc trong đối cách, tùy thuộc vào ý nghĩa).
+Giới từ không bị biến cách ("bất biến"); ví dụ, chúng không có bảng hình thái cho các dạng (ví dụ, cho các thì, các cách và các giống khác nhau, v.v) như đối với động từ, tính từ, danh từ trong cùng ngôn ngữ. Nhưng vẫn có ngoại lệ, ví dụ trong tiếng Celtic (xem giới từ bị biến cách).
+
+
+== Tính chất ==
+Những tính chất dưới đây đặc trưng cho hầu hết các hệ thống giới từ.
+
+Giới từ thuộc vào nhóm những từ thường gặp nhất trong một ngôn ngữ. Ví dụ, một bảng xếp hạng tần suất cho các từ loại tiếng Anh bắt đầu như sau: (giới từ được in đậm):
+the, of, and, to, a, in, that, it, is, was, I, for, on, you, …
+Các giới từ đơn và monomorphemic là phổ biến nhất. Ví dụ, theo bảng xếp hạng nói trên, các giới từ tiếng Anh phổ biển nhất là:
+of, to, in, for, on, with, as, by, at, from, …
+Các giới từ tạo thành một lớp đóng các mục từ vựng và không thể được tạo ra từ những từ thuộc các từ loại khác.
+
+
+=== Sự đan kết ===
+
+Đan kết giới từ (tiếng Anh: preposition stranding) là một cấu trúc cú pháp trong đó một giới từ không nhất thiết nằm ngay sau đối tượng của nó mà có thể ở đâu đó. Trong tiếng Anh cũng như các ngôn ngữ thuộc ngữ hệ Bắc Germanic điều này phổ biến nhất. Sự có mặt của đan kết giới từ trong tiếng Đức và tiếng Hà Lan đang còn bị tranh cãi. Đan kết giới từ cũng được tìm thấy trong nhiều ngôn ngữ ngoài ngữ hệ Germanic, ví dụ trong tiếng Vata, tiếng Gbadi (thuộc ngữ hệ Niger-Congo) và trong các phương ngữ của một số người nói tiếng Pháp ở miền Bắc Hoa Kỳ.
+
+
+== Phân loại ==
+Có thể xếp các giới từ thành các lớp con dựa vào những tiêu chí khác nhau. Những tiêu chí này có thể dựa trên các tính chất dễ thấy trực tiếp (như dạng của giới từ hay vị trí của nó trong câu) hoặc các tính chất khó thấy hơn (như ý nghĩa của giới từ hay chức năng ngữ cảnh sử dụng).
+
+
+=== Đơn và phức ===
+Giới từ đơn chỉ gồm một từ đơn, trong khi đó giới từ phức gồm một nhóm từ đóng vai trò như một đơn vị từ duy nhất. Một số ví dụ giới từ phức trong tiếng Anh là:
+
+in spite of, with respect to, except for, by dint of, next to
+Ranh giới giữa giới từ đơn và phức không rõ ràng và gần như tự do. Nhiều giới từ đơn bắt nguồn từ các dạng phức (ví dụ with + in → within, by + side → beside) thông qua ngữ pháp hóa. Sự thay đổi này diễn ra qua thời gian, và trong suốt các giai đoạn chuyển tiếp giới từ lúc thì đóng vai trò như một từ đơn, lúc thì như một đơn vị gồm nhiều từ. Ví dụ, sau đây là các giới từ cho phép hai cách đọc được hội chính tả tiếng Đức hiện nay công nhận:
+
+anstelle / an Stelle ("instead of"), aufgrund / auf Grund ("because of"), mithilfe / mit Hilfe ("thanks to"), zugunsten / zu Gunsten ("in favor of"), zuungunsten / zu Ungunsten ("to the disadvantage of"), zulasten / zu Lasten ("at the expense of")
+Ranh giới giữa giới từ phức và tổ hợp từ tự do cũng lờ mờ. Đối với tiếng Anh, điều này liên quan đến cấu trúc dạng "preposition + (mạo từ) + danh từ + preposition" (preposition: giới từ đứng trước cụm từ, tiền giới từ). Nhiều chuỗi trong tiếng Anh, như in front of, theo truyền thống được coi là cụm giới từ, nhưng các nhà ngôn ngữ học không cho là như vậy. Những đặc trưng sau đây là những chỉ dẫn tốt cho việc xác định khi nào thì tổ hợp từ đã cho bị "đóng băng" tới mức có thể được xem như một giới từ phức trong tiếng Anh:
+
+Nó chứa một từ và từ đó không thể được dùng trong bất kì ngữ cảnh nào khác: by dint of, in lieu of.
+Giới từ không thể bị thay thế: with a view to mà không phải là *for/without a view to
+Không thể chèn thêm một mạo từ, hay dùng mạo từ khác: on *an/*the account of, for the/*a sake of
+Chỉ có thể sử dụng một số hạn chế các tính từ: in great favor of, mà không phải là *in helpful favor of
+Số lượng danh từ không thể thay đổi: by virtue/*virtues of
+Không thể dùng từ hạn định sở hữu: in spite of him, mà không phải là *in his spite
+Giới từ phức phát triển thông qua ngữ pháp hóa tổ hợp tự do thông dụng. Quá trình này vẫn đang diễn ra liên tục và có thêm nhiều giới từ tiếng Anh xuất hiện.
+
+
+=== Phân loại theo vị trí ===
+Vị trí bề mặt (tiếng Anh: surface position) của một giới từ so với bổ ngữ của nó cho phép chúng ta xác định các lớp con sau đây: 
+
+tiền giới từ (tiếng Anh: preposition) đứng trước bổ ngữ của nó tạo thành tiền giới ngữ.
+tiếng Đức: auf dem Tisch, tiếng Pháp: sur la table, tiếng Ba Lan: na stole ("trên cái bàn")
+hậu giới từ (tiếng Anh: postposition) theo sau bổ ngữ của nó tạo thành hậu giới ngữ.
+tiếng Trung: 桌子上 zhuōzi shàng (dịch nghĩa theo đúng trật tự từ:   "cái bàn trên"), tiếng Phần Lan: (minun) kanssani (dịch nghĩa theo đúng trật tự từ: "của tôi với"), tiếng Thổ Nhĩ Kỳ: benimle (hoặc "benim ile") (dịch nghĩa theo đúng trật tự từ: "tôi với")
+Hai thuật ngữ này được dùng phổ biến trong thực tế hơn thuật ngữ tổng quát adposition. Một ngôn ngữ hoặc có tiền giới từ đầu tiên hoặc có hậu giới từ đầu tiên được xem là khía cạnh quan trọng trong phân loại loại hình ngôn ngữ của nó, tương ứng với nhiều tính chất khác của ngôn ngữ dựa vào nghiên cứu ngôn ngữ học phổ quát.
+Có thể nói ngay rằng một giới từ hoặc đứng trước hoặc theo sau bổ ngữ của nó, nhưng trong một số trường hợp, bổ ngữ có thể không xuất hiện ở vị trí thông thường của nó. Ví dụ, trong các cấu trúc đan kết giới từ, bổ ngữ xuất hiện ở đâu đó bên trái giới từ.
+
+{How much money} did you say the guy wanted to sell us the car for?
+She's going to the Bahamas? {Who} with?
+Trong những trường hợp khác, bổ ngữ của giới từ hoàn toàn biến mất:
+
+I'm going to the park. Do you want to come with?
+tiếng Pháp: Il fait trop froid, je ne suis pas habillée pour. ("It's too cold, I'm not dressed for [this situation].")
+Các giới từ trong những ví dụ trên nói chung vẫn được coi là tiền giới từ, bởi vì khi chúng kết hợp với bổ ngữ để tạo thành cụm từ (ở cấu trúc đơn giản hơn), chúng phải xuất hiện đầu tiên.
+Một số giới từ trong thực tế có thể xuất hiện ở hai phía của bổ ngữ; những giới từ này có thể được gọi là ambipositions (Reindl 2001, Libert 2006):
+
+He slept {through the whole night}/{the whole night through}.
+tiếng Đức: {meiner Meinung nach}/{nach meiner Meinung} ("in my opinion")
+Một ambiposition có thể có nhiều nghĩa khác nhau, và nó có thể điều chỉnh được các trường hợp nghĩa dựa vào vị trí của nó.
+Ví dụ giới từ tiếng Đức entlang (along). Nó có thể được đặt trước hoặc sau danh từ liên quan tới nó (nhưng với các danh cách khác gắn với nó).
+
+die Straße entlang
+entlang der Straße
+along the road
+Có một khả năng hợp lý khác cho những giới từ xuất hiện ở cả hai phía bổ ngữ của nó:
+
+Một circumposition (giới từ bao quanh cụm từ) có hai phần, bao xung quanh bổ ngữ để tạo thành cụm circumposition.
+Tiếng Anh: from now on
+tiếng Hà Lan: naar het einde toe ("towards the end", lit. "to the end to")
+Mandarin: 從 冰箱 裡 cóng bīngxīang lǐ ("from the inside of the refrigerator", lit. "from refrigerator inside")
+tiếng Pháp: à un détail près ("except for one detail", lit. "at one detail near")
+"Circumposition" là thuật ngữ mô tả hữu ích, mặc dù nếu xem xét kĩ hơn, hầu hết các cụm từ circumposition có thể được chia nhỏ thành cấu trúc phân cấp nhiều hơn, hoặc được cho bởi một phân tích hoàn toàn khác. Chẳng hạn, ví dụ tiếng Mandarin trên đây có thể được phân tích như là một tiền giới ngữ đứng đầu bởi cóng ("from"), lấy hậu giới ngữ bīngxīang lǐ ("refrigerator inside") vai trò như bổ ngữ của nó. Ngoài ra, cóng cũng có thể được phân tích như thể không phải là tiền giới từ chút nào. (xin hãy xem phần phía dưới coverbs).
+
+inposition là giới từ ở giữa các thành phần tạo nên bổ ngữ phức.
+Ambiposition là thuật ngữ thỉnh thoảng được dùng cho một giới từ có thể hoạt động vừa là tiền giới từ vừa là hậu giới từ.
+Melis (2003) đã đề nghị thuật ngữ mô tả interposition cho những giới từ trong các cấu trúc dưới đây:
+
+mot à mot ("word for word"), coup sur coup ("one after another, repeatedly"), page après page ("page upon page")
+Những cụm từ này không đòi hỏi sự chú ý đặc biệt, nhưng thuật ngữ "interposition" không thể được lấy nguyên văn với nghĩa giới từ xuất hiện bên trong bổ ngữ của nó (bởi vì hai danh từ không tạo thành một đơn ngữ *mot mot hay *page page). Các ví dụ thực sự của giới từ được lắp vào (tiếng Anh: interposed adposition) có thể được tìm thấy trong tiếng Latin (ví dụ summa cum laude, dịch theo từng chữ là "cao nhất với lời ca tụng" (tiếng Anh: "highest with praise"), nhưng những từ này luôn liên quan tới cấu trúc giới từ cơ bản hơn.
+
+
+=== Phân loại theo bổ ngữ ===
+Mặc dù danh ngữ là loại bổ ngữ điển hình nhất, trong thực tế giới từ có thể kết hợp với rất nhiều thể loại cú pháp, ví dụ như với động từ.
+
+Danh ngữ: It was on {the table}.
+Giới ngữ: Come out from {under the bed}.
+Tính từ và tính ngữ: The scene went from {blindingly bright} to {pitch black}.
+Trạng từ hoặc trạng ngữ: I worked there until {recently}
+Cụm động từ nguyên thể hoặc phân từ: Let's think about {solving this problem}.
+Mệnh đề nghi vấn: We can't agree on {whether to have children or not}
+Câu đầy đủ (xem Liên từ ở dưới)
+Cũng như động từ, giới từ có thể xuất hiện mà không có bổ ngữ; xem #Trạng từ ở dưới.
+Một số giới từ có thể được miêu tả như là sự kết hợp của hai bổ ngữ:
+
+{With Sammy president}, we can all come out of hiding again.
+{For Sammy to become president}, they'd have to seriously modify the Constitution.
+Điều này thường là được giả định, tuy nhiên, từ Sammy và vị ngữ theo sau đầu tiên tạo thành một mệnh đề nhỏ, mệnh đề này sau đó trở thành bổ ngữ đơn của giới từ. (Trong ví dụ đầu tiên ở trên, một từ (ví dụ như as) có thể được xem là bị ellided, từ này nếu có mặt sẽ giúp làm rõ quan hệ ngữ pháp.)
+
+
+=== Phân loại ngữ nghĩa ===
+Các giới từ có thể được dùng để biểu thị một phạm vi rộng các quan hệ ngữ nghĩa giữa các bổ ngữ của chúng và phần còn lại của văn cảnh. Danh sách sau đây là một phân loại đầy đủ toàn diện:
+
+quan hệ không gian: địa điểm (sự bao gồm, sự loại trừ, sự tương tự), phương hướng (khởi đầu, đường dẫn, điểm cuối)
+quan hệ thời gian
+so sánh: bình đẳng, đối lập, giá cả, tỉ lệ
+nội dung: nguồn, vật liệu, chủ đề
+tác nhân
+dụng cụ, phương tiện, cách thức
+nguyên nhân, mục đích
+Viện dẫn
+Hầu hết các giới từ phổ biến được đánh giá cao là những Từ đa nghĩa. Nhiều nghiên cứu dành cho việc mô tả và giải thích các ý nghĩa kết nối khác nhau của những giới từ cụ thể. Trong nhiều trường hợp, một ý nghĩa không gian ban đầu có thể được xác định, sau đó sẽ được mở rộng ra các cách dùng không có tính không gian bằng ẩn dụ hay các quá trình khác.
+Trong một số hoàn cảnh, giới từ xuất hiện trong các ngữ cảnh mà đóng góp ngữ nghĩa của chúng rất ít hoặc hầu như không có. Những giới từ như vậy đôi khi được gọi là các giới từ đánh dấu cách hoặc các giới từ chức năng. Chúng được lựa chọn cú pháp bởi các yếu tố khác trong cấu trúc hoặc được cấu trúc cố định như một tổng thể.
+
+tiếng Anh: dispense with formalities, listen to my advice, good at mathematics
+tiếng Nga: отвечать на вопрос (lit. "answer on the question"), обвинение в обмане ("accusation in [i.e. of] fraud")
+tiếng Tây Ban Nha: soñar con ganar el título ("dream with [i.e. about] winning the title"), consistir en dos grupos ("consist in [i.e. of] two groups")
+Thường có thể tìm thấy một số motiv ngữ nghĩa cho sự lựa chọn giới từ được đưa ra, nhưng nói chung không thể nào giải thích được nguyên nhân tại sao các motiv ngữ nghĩa khác lại không được chọn trong cùng văn cảnh đó. Việc lựa chọn các giới từ chính xác trong những trường hợp này đang là vấn đề của chuẩn cú pháp.
+
+
+==== Các lớp con của giới từ không gian ====
+Các giới từ không gian có thể được chia làm hai lớp chính gọi là giới từ không gian định hướng và giới từ không gian tĩnh.
+Giới từ không gian định hướng thường liên quan đến chuyển động dọc một đường dẫn theo thời gian, nhưng cũng có thể biểu thị một đường dẫn phi thời gian. Các ví dụ cho giới từ định hướng gồm có to, from, towards, into, along và through.
+
+Bob went to the store. (chuyển động theo thời gian)
+A path into the woods. (đường dẫn phi thời gian)
+The fog extended from London to Paris. (đường dẫn phi thời gian)
+Giới từ không gian tĩnh thường không liên quan đến chuyển động. Ví dụ của những giới từ dạng này gồm có at, in, on, beside, behind, under và above.
+
+Bob is at the store.
+Giới từ không gian định hướng khác với giới từ không gian tĩnh ở chỗ chúng thường không thể kết hợp với một hệ từ để tạo thành một vị ngữ, dù có một số ngoại lệ, như trong câu Bob is from Australia, có lẽ đây được hiểu như là cách dùng đặc biệt.
+
+Hay: Bob is in his bedroom. (in là tĩnh)
+Dở: *Bob is to his bedroom. (to là có định hướng)
+Giới từ không gian định hướng chỉ có thể kết hợp với động từ liên quan đến chuyển động; giới từ không gian tĩnh có thể kết hợp với các động từ khác nữa
+
+Dở: *Bob is lying down into/from his bedroom.
+Khi một giới từ không gian tĩnh kết hợp với một động từ chuyển động, đôi khi nó có ý nghĩa định hướng. Câu sau có thể hiểu là Bob jumped around in the water, hoặc là he jumped so that he ended up in the water.
+
+Bob jumped in the water.
+Trong một số ngôn ngữ, giới từ không gian định hướng thống trị một cách (ngữ pháp) khác nhau đối với bổ ngữ của chúng hơn là các giới từ không gian tĩnh. Chúng được gọi là giới từ biến cách. Ví dụ, trong tiếng Đức, giới từ không gian định hướng thống trị cách mục đích, trong khi giới từ không gian tĩnh thống trị tặng cách. Các giới từ mơ hồ giữa các diễn giải định hướng và tĩnh sẽ thống trị cách mục đích khi chúng được diễn giải định hướng, và thống trị tặng cách khi chúng được diễn giải tĩnh.
+
+in seinem Zimmer (in his-DATIVE room) "in his room" (tĩnh)
+in sein Zimmer (in his-ACCUSATIVE room) "into his room" (định hướng)
+Giới từ không gian định hướng có thể được chia nhỏ hơn thành telic và atelic. To, into và across là telic: chúng liên quan đến chuyển động bằng mọi con đường để tới được điểm cuối đã được đánh dấu bởi bổ ngữ. Atelic bao gồm towards và along. Khi giới từ telic kết hợp với một động từ chuyển động, kết quả sẽ là một động ngữ telic. Khi được kết hợp như vậy giới từ atelic sẽ phát sinh động ngữ atelic.
+Giới từ không gian tĩnh có thể được phân chia thành projective và non-projective. Một giới từ không gian tĩnh non-projective là một giới từ không gian tĩnh mà ý nghĩa của nó có thể được xác định bằng cách suy xét kĩ càng ý nghĩa của bổ ngữ và ý nghĩa của chính giới từ đó. Ngoài ra, một giới từ không gian tĩnh projective đòi hỏi một viễn cảnh hoặc điểm quan sát. Nếu tôi nói Bob is behind the rock, bạn cần biết tôi đang ở đâu để biết Bob được cho là ở bên nào của tảng đá. Nếu tôi nói your pen is to the left of my book, bạn cũng cần phải biết điểm quan sát của tôi là gì. Không cần điểm quan sát nào như vậy trong diễn giải câu ví dụ như your pen is on the desk. Giới từ không gian tĩnh projective thỉnh thoảng có thể lấy chính bổ ngữ làm "điểm quan sát", nếu điều này cung cấp cho chúng ta thông tin nào đó. Ví dụ, một house thường có một front và một back, nên một câu như sau thực sự mơ hồ giữa hai cách đọc: cách đọc thứ nhất Bob is at the back of the house; cách đọc thứ hai Bob is on the other side of the house, tùy theo điểm quan sát của người nói.
+
+Bob is behind the house.
+Hiệu ứng tương tự có thể quan sát được với left of, các đối tượng được cho là có phần trước (fronts) và phần sau (backs) cũng có thể được gán bên trái (lefts) và bên phải (rights). Câu My keys are to the left of the phone, có thể hiểu là they are on the speaker's left of the phone, hoặc cũng có thể hiểu là on the phone's left of the phone.
+
+
+=== Phân loại theo chức năng ngữ pháp ===
+Cách dùng đặc biệt của giới từ có thể được xếp loại dựa vào chức năng của giới ngữ trong câu.
+
+Sự biến thể
+tựa trạng từ
+The athlete ran {across the goal line}.
+tựa tính từ
+thuộc tính
+A road trip {with children} is not the most relaxing vacation.
+ở vị trí vị ngữ
+The key is {under the plastic rock}.
+Các chức năng cú pháp
+Bổ ngữ
+Let's dispense with the formalities.
+Ở đây các từ dispense và with bổ sung cho nhau, hoạt động như một đơn vị có nghĩa là forego, chúng chia sẻ đối tượng trực tiếp (the formalities). Động từ dispensesẽ không có ý nghĩa này nếu không có từ with bổ sung cho nó.
+{In the cellar} was chosen as the best place to hide the bodies.
+Các ngôn ngữ giới từ thường tách riêng giới từ cụ thể cho các chức năng đặc biệt sau đây:
+
+Đánh dấu sở hữu
+Đánh dấu tác nhân trong cấu trúc bị động
+Đánh dấu vai trò người thụ hưởng trong quan hệ chuyển giao
+
+
+== Sự trùng lặp bộ phận với các loại khác ==
+
+
+=== Trạng từ ===
+Có nhiều điểm giống nhau về dạng giữa giới từ và trạng từ. Một số trạng từ rõ ràng có nguồn gốc từ sự hợp nhất giới từ và bổ ngữ của nó, một số giới từ có sử dụng tựa trạng từ không bổ ngữ. 
+
+{down the stairs}/downstairs, {under the ground}/underground.
+{inside (the house)}, {aboard (the plane)}, {underneath (the surface)}
+Có thể xử lý tất cả các trạng từ này như nội giới từ, ngược với ngoại giới từ chọn bổ ngữ (tương tự như nội động từ và ngoại động từ). Phân tích này cũng có thể được mở rộng cho các trạng từ khác, thậm chí ngay cả cho những trạng từ không thể được dùng như giới từ "bình thường" với bổ ngữ danh nghĩa:
+
+here, there, abroad, downtown, afterwards, …
+Một cách tiếp cận bảo thủ hơn đó là: nói một cách đơn giản các trạng từ và giới ngữ chia sẻ nhiều chức năng chung.
+
+
+=== Tiểu từ ===
+Trong tiếng Anh, động ngữ tạo nên từ một động từ và một tiểu từ trông cũng giống như nội giới từ. Điều này cũng đúng với tiền tố động từ biệt lập trong tiếng Đức và tiếng Hà Lan.
+
+give up, look out, sleep in, carry on, come to
+tiếng Hà Lan: opbellen ("to call (by phone)"), aanbieden ("to offer"), voorstellen ("to propose")
+tiếng Đức: einkaufen ("to purchase"), aussehen ("to resemble"), anbieten ("to offer")
+Mặc dù những yếu tố này có cùng dạng từ vựng với giới từ, nhưng trong nhiều trường hợp, chúng không có ngữ nghĩa liên hệ, và bổ ngữ không bị "bỏ quên" khi đặc tính của nó có thể được phục hồi từ văn cảnh.
+
+
+=== Liên từ ===
+Tập hợp giới từ che phủ một phần tập hợp liên từ phụ thuộc (hay complementizer):
+
+(giới từ) before/after/since the end of the summer
+(liên từ) before/after/since the summer ended
+(giới từ) It looks like another rainy day
+(liên từ) It looks like it's going to rain again today
+Tất cả những từ này có thể được coi như giới từ nếu chúng ta mở rộng định nghĩa cho phép các bổ ngữ mệnh đề.
+Việc này cũng có thể được mở rộng hơn nữa cho các liên từ không bao giờ được dùng như những giới từ thông thường:
+
+unless they surrender, although time is almost up, while you were on the phone
+
+
+=== Coverbs ===
+Trong một số ngôn ngữ, vai trò của giới từ có thể được phục vụ bởi coverb. Coverb là động từ về mặt từ vựng, nhưng nói chung được dùng để chuyển tải ý nghĩa của giới từ.
+Ví dụ, việc tồn tại giới từ trong tiếng Trung hay không đôi khi vẫn được xem là một câu hỏi mở. Coverb thường được gọi là giới từ vì chúng xuất hiện trước danh ngữ mà chúng xác định. Tuy nhiên, không giống như giới từ, coverb thỉnh thoảng có thể đứng một mình như động từ chính. Ví dụ, trong tiếng Standard Mandarin, dào có thể được dùng với ý nghĩa giới từ hoặc động từ:
+
+qù ("to go") là động từ chính: 我到北京去。Wǒ dào Běijīng qù. ("I go to Beijing.")
+dào ("to arrive") là động từ chính: 我到了。Wǒ dào le. ("I have arrived.")
+
+
+=== Phụ tố cách ===
+Từ điểm quan sát chức năng, giới từ và đánh dấu cách hình thái học giống nhau một cách lạ lùng. Một giới ngữ trong một ngôn ngữ thường tương ứng trực tiếp với một danh ngữ được đánh dấu cách trong ngôn ngữ khác. Ví dụ, danh ngữ tác động trong cấu trúc bị động tiếng Anh được giới thiệu bởi giới từ by, nhưng trong tiếng Nga nó được đánh dấu bởi cách công cụ: "oy", "om", hoặc "ami", phụ thuộc vào giống và số của danh từ. Thỉnh thoảng cả giới từ và cách cùng được quan sát thấy trong một ngôn ngữ đơn lẻ. Ví dụ, trong một số cách dùng nhất định, thuộc cách trong tiếng Đức có thể thay bằng giới ngữ von.
+Mặc dù có sự tương đồng chức năng này, giới từ và đánh dấu cách khác biệt về từ loại ngữ pháp:
+
+Giới từ kết hợp cú pháp với cụm bổ ngữ của nó. Đánh dấu cách kết hợp với một danh từ theo hình thái học.
+Hai giới từ thường có thể được gắn với một liên từ và cùng chia sẻ một bổ ngữ đơn, nhưng đối với đánh dấu cách điều này thường là không thể:
+{of and for the people} vs. tiếng Latin populi et populo, not *populi et -o ("people-genitive and -dative")
+Một giới từ thường có thể kết hợp với hai bổ ngữ phối hợp, nhưng đối với đánh dấu cách điều này thường là không thể:
+of {the city and the world} vs. tiếng Latin urbis et orbis, not *urb- et orbis ("city and world-genitive")
+Đánh dấu cách kết hợp chủ yếu với danh từ, trong khi giới từ có thể kết hợp với cụm nhiều từ loại khác nhau.
+Đánh dấu cách thường xuất hiện trực tiếp trên danh từ, nhưng một giới từ có thể được tách khỏi danh từ bằng những từ khác.
+Trong danh ngữ, từ hạn định và tính từ có thể hòa hợp với danh từ trong cách (sự lan rộng cách), nhưng một giới từ có thể chỉ xuất hiện một lần duy nhất.
+Một ngôn ngữ có thể có hàng trăm giới từ (bao gồm giới từ phức), nhưng không ngôn ngữ nào có nhiều cách hình thái học khác nhau.
+Tuy vậy, rất khó để vẽ ra một ranh giới rõ ràng giữa đánh dấu cách và giới từ. Ví dụ, các yếu tố hậu-danh nghĩa trong tiếng Nhật và tiếng Hàn lúc thì được gọi là tiểu từ cách, lúc thì được gọi là hậu giới từ. Đôi khi chúng được phân tích như hai nhóm khác nhau vì có những đặc điểm khác nhau. (ví dụ khả năng kết hợp với các tiểu từ tập trung), nhưng trong những phân tích như vậy, việc xác định từ nào rơi vào nhóm nào là không rõ ràng.
+
+Tiếng Nhật: 電車で　(densha de, "by train")
+Tiếng hàn: 한국에 (Hangug-e, "to Korea")
+Tiếng Thổ Nhĩ Kỳ và tiếng Phần Lan có cả đánh dấu cách mở rộng và hậu giới từ, ở đây có dấu hiệu giúp cho việc phân biệt hai loại:
+
+Tiếng Thổ Nhĩ Kỳ: (case) sinemaya (cinema-dative, "to the cinema") vs (postposition) sinema için ("for the cinema")
+Tiếng Phần Lan: (case) talossa (house-inessive, "in the house") vs (postposition) "talon edessä (house-gen in-front, "in front of the house")
+Trong những ví dụ này, đánh dấu cách tạo một từ cùng với chủ của nó (như được chỉ ra bởi sự hòa hợp nguyên âm), các hiệu ứng nội từ khác, và sự hòa hợp của tính từ trong tiếng Phần Lan, trong khi đó các hậu giới từ là những từ độc lập.
+Một số ngôn ngữ, như tiếng Phạn, dùng hậu giới từ để nhấn mạnh ý nghĩa của cách ngữ pháp, và loại bỏ sự mơ hồ trong nghĩa của cụm từ. Ví dụ:
+रामेण सह (Rāmeṇa saha, "in company of Rāma"). Trong ví dụ này, "Rāmeṇa" ở trong cách công cụ, nhưng, vì ý nghĩa của nó có thể mơ hồ, nên hậu giới từ saha được dùng để nhấn mạnh ý nghĩa của company.
+Trong ngữ hệ Ấn - Âu, mỗi cách thường gồm nhiều hậu tố khác nhau, một vài trong số chúng thậm chí có thể xuất phát từ các gốc khác nhau. Một hậu tố được chọn tùy thuộc vào giống, số, tùy thuộc vào từ đó là danh từ hay từ bổ nghĩa, và các nhân tố khác.
+
+
+== Sự lựa chọn từ ==
+Trong những trường hợp mơ hồ, không phải luôn luôn có một quy tắc để xác định giới từ nào là thích hợp, các ngôn ngữ khác nhau và các phương ngữ vùng có thể có các thỏa thuận khác nhau; cách dùng chuẩn của một giới từ có thể là mang tính chất thành ngữ. Việc học các từ được ưa thích hơn trong sử dụng là vấn đề tiếp xúc với các ví dụ. Ví dụ, hầu hết các phương ngữ tiếng Anh Mỹ có "to wait in line", nhưng một số phương ngữ lại có "to wait on line". Đây là lý do tại sao giới từ là một trong những khía cạnh khó nhất của ngôn ngữ mà người học ngoại ngữ có thể nắm bắt. Một số ngôn ngữ đòi hỏi có giới từ nhưng ngôn ngữ khác thì không. Do đó, khi dịch một số văn bản, giới từ phải được xử lý theo từng trường hợp một mà có thể được thêm vào hay lược bỏ đi. Những người học tiếng Anh có thể gặp khó khăn trong việc phân biệt các giới từ on, in, và at, vì những ngôn ngữ khác có thể chỉ dùng một hoặc hai giới từ tương đương với ba giới từ này trong tiếng Anh. Mặt khác, người nói tiếng Anh học tiếng Tây Ban Nha hoặc tiếng Bồ Đào Nha có thể gặp khó khăn trong việc phân biệt các giới từ por và para, vì cả hai giới từ này đều có nghĩa for trong tiếng Anh.
+
+
+== Xem thêm ==
+Danh sách giới từ tiếng Anh
+Giới từ tiếng Anh cổ
+Giới từ tiếng Tây Ban Nha
+Trợ từ tiếng Nhật
+Giới từ biến cách
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Bennett, David C. (1975) Spatial and Temporal Uses of English Prepositions: An Essay in Stratificational Semantics. London: Longman.
+Emonds, Joseph E. (1985) A Unified Theory of Syntactic Categories. Dordrecht: Foris.
+Haspelmath, Martin. (2003) "Adpositions". International Encyclopedia of Linguistics. 2nd ed. New York: Oxford University Press. ISBN 0-19-513977-1.
+Huddleston, Rodney, and Geoffrey K. Pullum. (2002) The Cambridge Grammar of the English Language. Cambridge: Cambridge University Press. ISBN 0-521-43146-8.
+Jackendoff, Ray S. (1973) "Base Rules for PPs". In S. R. Anderson and P. Kiparsky (eds), A Festschrift for Morris Halle, pp. 345–356. New York: Holt, Rinehart, and Winston.
+Koopman, Hilda. (2000) "Prepositions, postpositions, circumpositions, and particles". In The Syntax of Specifiers and Heads, pp. 204–260. London: Routledge.
+Libert, Alan R. (2006) Ambipositions. LINCOM studies in language typology (No. 13). LINCOM. ISBN 3-89586-747-0.
+Maling, Joan. (1983) "Transitive adjectives: A case of categorial reanalysis". In F. Heny and B. Richards (eds), Linguistic Categories: Auxiliaries and Related Puzzles, Vol. 1, pp. 253–289. Dordrecht: Reidel.
+Melis, Ludo. (2003) La préposition en français. Gap: Ophrys.
+Pullum, Geoffrey K. (2005) "Phrasal Prepositions in a Civil Tone." Language Log. Truy cập 9 tháng 9 năm 2007.
+Quirk, Randolph, and Joan Mulholland. (1964) "Complex Prepositions and Related Sequences". English Studies, suppl. to vol. 45, pp. 64–73.
+Rauh, Gisa. (1991) Approaches to Prepositions. Tübingen: Gunter Narr.
+Reindl, Donald F. (2001) "Areal Effects on the Preservation and Genesis of Slavic Postpositions". In Lj. Šarić and D. F. Reindl On Prepositions (= Studia Slavica Oldenburgensia 8), pp. 85–100. Oldenburg: Carl-von-Ossietzky-Universitat Oldenburg.
+Thatcher, David (2008) Saving Our Prepositions: A Guide for the Perplexed Lưu trữ 2021-01-26 tại Wayback Machine by angel martinez
+
+
+== Liên kết ngoài ==
+Có hay không có bổ ngữ: Dạng và chức năng giới từ Lưu trữ 2011-07-15 tại Wayback Machine
+Các chức năng của giới từ và giới ngữ trong tiếng Anh Lưu trữ 2010-08-12 tại Wayback Machine
+Một số giới từ
+Giới từ tiếng Anh: "Anh ấy kết bạn với ai?" (So sánh giới từ tiếng Nga và giới từ tiếng Anh)

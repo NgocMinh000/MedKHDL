@@ -1,0 +1,53 @@
+Darolutamide (được bán dưới tên thương mại Nubeqa bởi Bayer HealthCare) là một loại thuốc được sử dụng trong điều trị ung thư tuyến tiền liệt kháng cắt tinh hoàn chưa di căn (nmCRPC) và ung thư tuyến tiền liệt nhạy với liệu pháp nội tiết (HSPC). Nó được dùng bằng đường uống hai lần một ngày.
+
+
+== Sử dụng trong y tế ==
+Darolutamide được chỉ định trong:
+
+Ung thư tuyến tiền liệt kháng cắt tinh hoàn và chưa di căn đến các bộ phận khác.
+Ung thư tuyến tiền liệt nhạy cảm với liệu pháp nội tiết, phối hợp với docetaxel.
+
+
+== Dược lý ==
+
+
+=== Dược lực học ===
+Tuy có cấu trúc liên quan đến enzalutamide (MDV3100 hoặc Xtandi) và apalutamide (ARN-509 hoặc Erleada), hai NSAAs gần đây khác, darolutamide cho thấy một số lợi thế. Darolutamide ít vượt qua hàng rào máu não hơn, do đó giảm nguy cơ co giật và các tác dụng phụ trên hệ thần kinh trung ương do sự giảm ức chế chệch mục tiêu thụ thể GABAA, xảy ra ở NSAAs có cấu trúc tương tự như enzalutamide. Hơn nữa, vì ít thâm nhập vào hệ thần kinh trung ương, darolutamide dường như không làm tăng nồng độ testosterone ở chuột hoặc người, không giống như các NSAA khác. Một lợi thế khác là darolutamide đã cho thấy khả năng ức chế nhiều loại đột biến ở AR trong ung thư tuyến tiền liệt, bao gồm cả đột biến F876L gây kháng với enzalutamide và apalutamide. Cuối cùng, darolutamide cho thấy ái lực và hiệu quả ức chế AR mạnh hơn (Ki = 11 nM so với 86 nM của enzalutamide và 93 nM của apalutamid; IC50 = 26 nM so với 219 nM của enzalutamide và 200 nM củaapalutamide) và hiệu lực/hiệu quả cao hơn trong các mô hình phi lâm sàng của ung thư tuyến tiền liệt.
+ORM-15341 là chất chuyển hóa hoạt động chính của darolutamide. Nó là một chất đối kháng hoàn toàn của AR tương tự, với ái lực (Ki) là 8 nM và IC50 của 38 nM.
+Không giống như enzalutamide và apalutamide, darolutamide cho thấy không có sự ức chế hoặc cảm ứng của  enzymecytochrome P450 ở nồng độ điều trị.
+
+
+=== Dược động học ===
+Thời gian bán hủy trung bình của darolutamide và chất chuyển hóa hoạt động ORM-15341 ở trạng thái ổn định là 15,8   giờ và 10,0 giờ, tương ứng. Thời gian bán hủy không phụ thuộc vào liều dùng 200-1800 mg/ngày của darolutamide.  Thời gian bán hủy của darolutamide ngắn hơn nhiều so với enzalutamide (1.6 giờ và 18.3 giờ ở chuột, tương ứng), đòi hỏi liều lượng cao hơn và dùng thường xuyên hơn trong trường hợp dùng darolutamide.
+
+
+== Hóa học ==
+Darolutamide có cấu trúc khác biệt với bất kỳ loại thuốc chống ung thư đã biết hoặc đã thành lập nào khác, bao gồm enzalutamide và apalutamide.
+
+
+== Lịch sử ==
+
+
+=== Các thử nghiệm lâm sàng ===
+Darolutamide bước vào giai đoạn thử nghiêm lâm sàng vào năm 2011 với nghiên cứu ARADES. Nghiên cứu ARADES là một nghiên cứu pha kép, gồm hai pha: (a) Pha I đánh giá về dược động học, tính dung nạp và độ an toàn và (b) pha II đánh giá về hiệu quả cho đáp ứng PSA vào tuần 12. Kết quả phân tích toàn bộ cho thấy darolutamide cho khả năng dung nạp tốt và hiệu quả làm chậm tiến triển bệnh.
+Darolutamide lần đầu được phê duyệt vào tháng 6 năm 2019, dựa trên kết quả của nghiên cứu pha III ARAMIS. ARAMIS là nghiên cứu đa trung tâm, mù đôi, so sánh với giả dược trên 1,509 bệnh nhân mắc ung thư tuyến tiền liệt kháng với cắt tinh hoàn và chưa di căn. Bệnh nhân được phân nhóm ngẫu nhiên với tỉ lệ 2:1 (n=955 ở nhóm darolutamide, n=554 ở nhóm giả dược). Mọi bệnh nhân đều đã trải qua cắt tinh hoàn và đều được dùng thuốc chủ vận hormone giải phóng gonadotropin.
+Darolutamide đạt được tiêu chí chính về thời gian sống thêm không di căn (Metastasis-free survival, MFS) với trung vị thời gian sống thêm không di căn là 40,4 ở nhóm darolutamide, so với 18,4 tháng ở nhóm giả dược. Darolutamide cũng cho lợi ích lớn hơn giả dược ở tất cả cả tiêu chí phụ, gồm thời gian sống còn toàn bộ (tỉ số nguy cơ (HR): 0,69, p=0,003), thời gian cho đến đến khi cơn đau tiến triển (trung vị 40,3 tháng so với 25,4, HR: 0,65, p<0,001), thời gian đến khi phải bắt đầu liệu pháp hoá trị độc tế bào (HR: 0,58, p<0,001) và thời gian cho đến khi gặp biến cố xương có triệu chứng đầu tiên (HR: 0,48, p=0,005).
+Vào tháng 8 năm 2022, FDA phê duyệt darolutamide trong điều trị ung thư tuyến tiền liệt nhạy cảm với liệu pháp nội tiết, dựa trên kết quả nghiên cứu ARASENS, một nghiên cứu pha III, đa trung tâm, mù đôi và có đối chứng trên 1,306 bệnh nhân. Vào thời điểm phân tích dự liệu năm 2021, darolutamide cho thấy hiệu quả ở cả tiêu chí chính là thời gian sống còn toàn bộ (HR:0,68, p<0,001) và tỉ lệ sống sót sau 4 năm (62,7% so với 50,4%) cũng như ở các tiêu chí phụ, gồm thời gian cho đến khi bệnh tiến triển thành dạng kháng cắt tinh hoàn (HR: 0,36, p<0,001), thời gian cho đến khi cơn đau tiến triển (HR: 0,79, p=0,01), thời gian sống không biến cố xương (HR: 0,61, p=0,01), thời gian cho đến khi gặp biến cố xương có triệu chứng đầu tiên (HR: 0,71, p<0,001) và thời gian cho đến khi phải bắt đầu liệu pháp kháng ung thư toàn thân thay thế, ví dụ như cabazitaxel, enzalutamide, radium-223... (HR:0,31, p<0,001).
+
+
+== Xã hội và văn hoá ==
+
+
+=== Tên gốc ===
+Darolutamide là tên chung của thuốc và thuốc INN và USAN. Nó cũng được biết đến với tên mã phát triển là ODM-201 và BAY-1841788.
+
+
+== Xem thêm ==
+Danh sách các tác nhân nội tiết tố điều tra § Androgenics
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Darolutamide (ODM-201) - AdisInsight

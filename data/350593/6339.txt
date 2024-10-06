@@ -1,0 +1,129 @@
+Nước từ (tiếng Anh: ferrofluid), viết đầy đủ là nước sắt từ (ferromagnetic fluid) hoặc chất lỏng từ (magnetic fluid), là một loại chất lỏng có từ tính duy nhất trong điều kiện bình thường. Chất lỏng này được sáng chế vào năm 1960 bởi NASA với mục đích kiểm soát dòng chảy của nhiên liệu lỏng tại môi trường không trọng lực.
+Hầu hết các vật liệu có tính sắt từ đều là các vật liệu ở trạng thái rắn như là các nam châm vĩnh cửu, nam châm điện bởi vì, nói chung, các vật liệu từ có nhiệt độ Curie (nhiệt độ mà tại đó vật liệu mất đi tính chất sắt từ để chuyển sang tính thuận từ) nhỏ hơn nhiều nhiệt độ nóng chảy của chúng. Ở nhiệt độ rất thấp, Helium³ có từ tính khi nhiệt độ dưới 2,7 mK. Ở nhiệt độ rất cao, hợp kim dạng lỏng có thành phần Co80Pd20 cũng có từ tính tốt. Tuy nhiên, các chất đó không thể có những ứng dụng thực tế. Nước từ là chất từ duy nhất ở trạng thái lỏng trong điều kiện bình thường. Không giống như He3 và Co80Pd20, nước từ là một chất lỏng có cấu trúc, đó là một sản phẩm hoàn toàn nhân tạo mà từ trước đến nay, người ta chưa thấy có trong tự nhiên.
+
+
+== Thành phần của nước từ ==
+Chất lỏng bình thường được tạo thành từ các phân tử hoặc các ion. Các phần tử tạo nên nước từ lại hoàn toàn khác, bên cạnh các phân tử và ion, nước từ còn có một thành phần, đó là các hạt chất rắn có kích thước vài chục cho đến vài trăm nm. Nước từ gồm ba thành phần chính là hạt từ tính (chất rắn), chất bao phủ bề mặt (còn gọi là chất hoạt hóa bề mặt, là chất rắn hoặc chất lỏng) và dung môi (chất lỏng). Các hạt từ cần được phân tán trong chất lỏng tạo nên một thể được gọi là huyền phù để có thể có được các tính chất đặc biệt.
+
+
+=== Hạt từ tính ===
+Hạt từ tính là thành phần quan trọng nhất trong nước từ, tính chất đặc biệt của nước từ phụ thuộc chủ yếu vào tính chất của hạt từ. Hạt từ có kích thước từ vài nm (nanômét) đến vài chục nm.
+Bất kỳ một vật liệu nào đều hưởng ứng dưới tác động của một từ trường (thường được ký hiệu là H) bên ngoài thể hiện bằng một đại lượng vật lý được gọi là từ độ (còn gọi là độ từ hóa, thường được ký hiệu là M). Đại lượng vật lý 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  
+ = M/H được gọi là độ cảm từ của vật liệu. Tùy theo cách mà vật liệu hưởng ứng từ trường ngoài mà người ta chia thành vật liệu thuận từ, nghịch từ, sắt từ, ferri từ và phản sắt từ. Vật liệu thuận từ là vật liệu có 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  
+ nhỏ và dương, cỡ 10−6; vật liệu thuận từ có 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  
+ nhỏ và âm, cỡ -10−6; vật liệu sắt từ, ferri từ, phản sắt từ là các vật liệu có 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  
+ rất lớn và dương, giá trị của 
+  
+    
+      
+        χ
+      
+    
+    {\displaystyle \chi }
+  
+ có thể lớn hơn vật liệu thuận từ hàng vạn lần. Ta quy định, vật liệu từ tính là vật liệu sắt từ, ferri từ và phản sắt từ. Đối với vật liệu sắt từ và ferri từ, kích thước hạt của vật liệu còn ảnh hưởng mạnh đến từ tính của chúng. Khi kích thước giảm đến một giá trị tới hạn phụ thuộc vào từng vật liệu, tính sắt từ bị mất đi mà thay vào đó, vật liệu tồn tại ở một trạng thái từ tính khác được gọi là siêu thuận từ.
+Đối với nước từ, các hạt từ tính là sắt từ hoặc siêu thuận từ. Chúng được tạo thành từ các hợp chất của các kim loại chuyển tiếp hoặc kim loại đất hiếm. Nước từ thường được dùng nhất là hạt oxide sắt 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+-Fe2O3 (maghemite), Fe3O4 (magnetite) vì từ độ bão hòa (từ độ khi từ trường ngoài lớn) lớn, rẻ tiền, ổn định khi làm việc.
+
+
+=== Chất bao phủ bề mặt ===
+Khi phân tán trong chất lỏng, các hạt từ tính nói trên sẽ chịu tác dụng của các lực sau:
+
+Lực hấp dẫn của Trái Đất có xu hướng làm cho các hạt lắng đọng.
+Nếu có một gradient từ trường thì các hạt sẽ có xu hướng co cụm lại vùng có từ trường lớn.
+Lực Van der Walls và lực lưỡng cực từ làm cho các hạt kết tụ lại với nhau.
+Để hệ ở trạng thái huyền phù thì các hạt phải có một năng lượng chuyển động nhiệt (chuyển động Brown) thắng được năng lượng hấp dẫn và năng lượng tương tác từ.
+
+Năng lượng chuyển động nhiệt: kBT
+Năng lượng hấp dẫn của trái đất: 
+  
+    
+      
+        Δ
+        ρ
+      
+    
+    {\displaystyle \Delta \rho }
+  
+Vgl
+Năng lượng tương tác từ: 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+0mH
+Trong đó, kB là hằng số Boltzmann; T là nhiệt độ tuyệt đối; 
+  
+    
+      
+        Δ
+        ρ
+      
+    
+    {\displaystyle \Delta \rho }
+  
+ là sự khác biệt về khối lượng riêng của hạt từ tính và chất lỏng; g là gia tốc trọng trường; l là độ cao của chất lỏng trong trường hấp dẫn; 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+0 là độ từ thẩm của chân không; m là mô men từ của hạt từ tính (m = MSV, với MS là từ độ bão hòa của vật liệu tạo nên hạt từ tính, V là thể tích của hạt).
+Nếu năng lượng nhiệt không đủ để thắng năng lượng hấp dẫn và năng lượng từ thì người ta phải bổ sung cho các hạt những loại năng lượng mới như năng lượng tĩnh điện hoặc năng lượng đẩy không gian (steric force). Năng lượng tĩnh điện có thể xuất hiện do bề mặt các hạt bị tích điện cùng dấu sẽ đẩy nhau. Năng lượng đẩy không gian thường xuyên được sử dụng để phân tán các hạt. Nó xuất hiện do hạt được bao phủ bởi một lớp bề mặt như là các chất hoạt hóa bề mặt, cao phân tử,... Chất hoạt hóa bề mặt được dùng phổ biến nhất vì phân tử chất hoạt hóa bề mặt là một phân tử dài gồm một đầu bị phân cực như các nhóm chức -COOH, -NH2,... và một đầu không bị phân cực gồm các chuỗi hyđrôcácbon. Khi có mặt trong nước từ, tùy vào bản chất dung môi mà các đầu các hạt này sẽ bám lên bề mặt hạt từ tính hoặc quay ra dung môi để tạo nên một lực đẩy không gian giữa các hạt.
+
+
+=== Dung môi ===
+Dung môi là môi trường chứa hạt từ và chất bao phủ bề mặt. Nếu từ tính của nước từ do hạt từ quyết định thì tính lỏng của nó do dung môi quyết định. Dung môi có thể là các chất phân cực như nước, cồn,.. hoặc các chất không phân cực như dầu, dung môi hữu cơ. Dung môi có thể có độ nhớt rất khác nhau hoặc có thể có khả năng bay hơi dưới điều kiện bình thường cũng khác nhau. Tùy thuộc vào các ứng dụng cụ thể mà người ta dùng dung môi thích hợp. Các ứng dụng sinh hóa thường dùng dung môi là nước vì nước có tính tương hợp sinh học. Với các ứng dụng vật lý, dung môi thường dùng là dầu vì dầu rất ổn định trong môi trường làm việc.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==

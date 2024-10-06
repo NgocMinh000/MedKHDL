@@ -1,0 +1,22 @@
+Chuyển động beta (Tiếng Anh: Beta movement) là một ảo giác được mô tả lần đầu tiên bởi Max Wertheimer vào năm 1912, theo đó một loạt các hình ảnh tĩnh trên một màn hình tạo ra ảo giác chuyển động mượt mà. Điều này xảy ra khi tỷ lệ khung hình  lớn hơn từ 10 đến 12 hình ảnh riêng biệt mỗi giây. Những ảo giác do hoạt hình gây ra dựa trên chuyển động beta và hiện tượng phi, nhưng nguyên nhân chính xác vẫn còn chưa rõ ràng. Các hình ảnh tĩnh không thay đổi về mặt vật lý, nhưng tạo sự xuất hiện của chuyển động vì được nhanh chóng thay đổi nhanh hơn mắt có thể nhìn thấy.
+Ảo giác này gây ra bởi thực tế là dây thần kinh thị giác đáp ứng với sự thay đổi ánh sáng ở khoảng 10 chu kỳ/giây, do đó những thay đổi  này được coi như chuyển động chứ không phải là những hình ảnh khác biệt riêng biệt.
+
+
+== Ví dụ ==
+
+Một ví dụ về hiệu ứng chuyển động beta là một bộ đèn LED, như thể hiện ở hình bên phải. Các đèn LED được điều khiển riêng lẻ, nhưng đôi mắt và não của chúng ta nhận thức chúng như một con rắn chạy theo chiều kim đồng hồ xung quanh bốn cạnh của hình vuông. Điều này cũng thường thấy trên màn hình LED. 
+
+
+== Thí nghiệm ==
+Thử nghiệm hiện tượng beta cổ điển liên quan tới một người xem nhìn vào màn hình, theo đó người thí nghiệm chiếu  hai hình ảnh liên tiếp. Hình ảnh đầu tiên mô tả một quả bóng ở bên trái khung. Hình ảnh thứ hai mô tả một quả bóng ở bên phải khung. Trong thí nghiệm, các hình ảnh đầu tiên được giữ ổn định, sau đó thì chuyển giữa hai khung. Người thử nghiệm hỏi khán giả họ nghĩ đã nhìn thấy gì. 
+
+
+== Hiện tượng phi ==
+Hiện tượng beta thường bị nhầm lẫn với hiện tượng phi nhưng chúng có sự khác nhau về sinh lý học. Hiện tượng phi có thể được coi là một chuyển động rõ ràng gây ra bởi các xung ánh sáng theo trình tự, (nghĩa là đèn bật và tắt theo khoảng thời gian đều đặn), trong khi chuyển động beta là một chuyển động rõ ràng gây ra bởi ánh sáng mà không di chuyển nhưng trông giống.
+
+
+== Beta và phi ==
+Tên beta và phi đơn giản chỉ là chữ "b" và "ϕ" từ trong bảng chữ cái Hy Lạp, và không có ý nghĩa đặc biệt ngoài việc phân biệt hai hiện tượng trên.
+
+
+== Tham khảo ==

@@ -1,0 +1,49 @@
+Một CAPTCHA (ˈkæptʃə, đọc giống như "capture") là một loại kiểm thử
+dạng hỏi đáp được dùng trong máy tính để xác định xem người dùng có phải là con người hay không. "CAPTCHA" là chữ viết tắt của "Completely Automated Public Turing test to tell Computers and Humans Apart" (Phép thử Turing công cộng hoàn toàn tự động để phân biệt máy tính với người), được trường Đại học Carnegie Mellon cố gắng đăng ký thương hiệu nhưng đã bị bác bỏ. Đây là một quá trình một máy tính (máy chủ) yêu cầu một người dùng hoàn tất một kiểm tra đơn giản mà máy tính có thể dễ dàng tạo ra và đánh giá, nhưng không thể tự giải nó được. Vì máy tính không thể giải quyết CAPTCHA, bất kỳ người dùng nào nhập vào lời giải đúng sẽ được xem là con người.
+Thuật ngữ CAPTCHA được Luis von Ahn, Manuel Blum, Nicholas J. Hopper (tất cả đều thuộc Đại học Carnegie Mellon), và John Langford (khi đó thuộc IBM) đặt ra vào năm 2000. Một loại CAPTCHA phổ biến yêu cầu người dùng phải nhập các chữ cái trong một tấm hình méo mó, đôi khi cùng với một dãy số hoặc chữ lờ mờ xuất hiện trên màn hình.
+Một CAPTCHA đôi khi được mô tả như một phép thử Turing ngược, vì nó được một máy tạo ra và nhắm vào con người, ngược lại với phép thử Turing chuẩn do con người tạo ra và nhắm vào máy.
+Hiện nay, reCAPTCHA được những người đã chế tạo ra CAPTCHA ban đầu khuyên dùng như cách hiện thực CAPTCHA chính thức.
+
+
+== Đặc điểm ==
+Một hệ thống CAPTCHA là một dạng thử thách mới được tạo ra tự động trong đó:
+
+Các máy tính hiện nay không thể giải được một cách chính xác.
+Đa số con người có thể giải được.
+Không phụ thuộc vào loại CAPTCHA đó có mới lạ đối với kẻ tấn công hay không. Mặc dù một hộp kiểm "nhấn vào đây nếu bạn không phải là máy" có thể được dùng để phân biệt giữa người với máy tính, nhưng nó không phải CAPTCHA vì nó phụ thuộc vào sự thật là kẻ tấn công không phải mất quá nhiều công sức để phá biểu mẫu kiểu đó.
+
+
+== Nguồn gốc ==
+Sự khó khăn tiềm tàng trong việc phân biệt giữa người và máy tính mạo danh con người đã được đề ra từ những năm 1950, khi Alan Turing mô tả phép thử Turing mà ngày nay đã trở nên rất nổi tiếng của ông. Cuộc bàn luận đầu tiên về các thử nghiệm tự động để phân biệt con người với máy tính với mục đích kiểm soát sự truy cập các dịch vụ web xuất hiện trong bản thảo năm 1996 của Moni Naor từ Viện Khoa học Weizmann, có tên "Lĩnh vực xác minh con người, hay Sự định danh thông qua Phép thử Turing"
+Naor, Moni (1996). “Verification of a human in the loop or Identification via the Turing Test”. 
+Những CAPTCHA nguyên thủy có lẽ được phát triển vào năm 1997 tại AltaVista, do Andrei Broder và đồng nghiệp của ông sáng tạo để ngăn ngừa bot thêm URL vào bộ máy tìm kiếm của họ. Để khiến cho hình ảnh chống lại được OCR (Nhận dạng ký tự quang học), nhóm đã mô phỏng những tình huống mà những cuốn hướng dẫn bộ quét cho rằng sẽ dẫn đến kết OCR sai. Vào năm 2000, von Ahn và Blum đã phát triển và công khai khái niệm CAPTCHA, bao gồm bất kỳ chương trình nào có thể phân biệt con người với máy tính. Họ đã sáng chế ra nhiều mẫu CAPTCHA, gồm có những CAPTCHA đầu tiên được sử dụng rộng rãi, và cũng chính là những loại được Yahoo! sử dụng.
+
+
+== Xem thêm ==
+reCAPTCHA
+
+
+== Ứng dụng ==
+CAPTCHA được dùng để ngăn chặn phần mềm tự động thực hiện những tác vụ có thể làm giảm đi chất lượng dịch vụ của một hệ thống có sẵn, có thể bằng cách lạm dụng hoặc làm hao tổn tài nguyên. CAPTCHA có thể được dùng để bảo vệ hệ thống chống lại spam e-mail, như các dịch vụ webmail của Gmail, Hotmail, và Yahoo!. CAPTCHA cũng được dùng nhiều trong việc ngăn chặn đăng bài tự động trong blog hoặc diễn đàn, có thể với mục đích quảng cáo thương mại, hoặc quấy rối và phá hoại. CAPTCHA cũng có chức năng quan trọng trong hạn chế quá tải, vì việc sử dụng tự động một dịch vụ là điều mong muốn cho đến khi cách dùng đó bắt đầu vượt quá giới hạn, và làm tổn hại đến những người dùng là con người. Trong trường hợp đó, một CAPTCHA có thể thực thi quy định sử dụng tự động do người quản trị đặt ra khi giá trị đo lường mức sử dụng vượt quá một ngưỡng cho trước. Hệ thống xếp hạng bài viết được nhiều trang web tin tức sử dụng cũng là một ví dụ về cơ chế trực tuyến chống lại sự tính toán của phần mềm tự động..
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+The CAPTCHA Project
+The reCAPTCHA project Lưu trữ  tại Stanford Web Archive
+Inaccessibility of CAPTCHA: Alternatives to Visual Turing Tests on the Web, a W3C Working Group Note.
+CAPTCHA History Lưu trữ 2012-02-05 tại Wayback Machine from PARC.
+Google Tech Talk on Human Computation
+Luis von Ahn discusses CAPTCHA technology on the PBS show Wired Science, 19 tháng 12 năm 2007. [1].
+Trang tiếng Việt về CAPTCHA
+Defeating CAPTCHAs:
+
+Breaking a Visual CAPTCHA (Gimpy) By Greg Mori and Jitendra Malik
+Breaking CAPTCHAs without using OCR Lưu trữ 2017-06-25 tại Wayback Machine (talks about a common but easy to fix bug in programming CAPTCHAs, allowing session re-use)
+Defeating a simple CAPTCHA with Open Source software Lưu trữ 2006-08-27 tại Wayback Machine
+Will Solve Captcha for Money? - Article on Slashdot about using low-paid data entry workers to defeat CAPTCHAs in bulk.
+Captcha Exchange Server Lưu trữ 2008-01-29 tại Wayback Machine - Distributed project, defeating captchas from one-click hostings (description in Russian)
+New virus attempts to defeat CAPTCHA with porn - "Virtual Stripper" takes off clothing for each CAPTCHA entered

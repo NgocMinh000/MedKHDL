@@ -1,0 +1,31 @@
+Puromycin là một chất ức chế tổng hợp protein kháng sinh gây ra chấm dứt chuỗi sớm trong quá trình dịch mã.
+
+
+== Ức chế dịch mã ==
+Puromycin là một loại kháng sinh aminonucleoside, có nguồn gốc từ vi khuẩn Streptomyces alboniger, gây ra sự chấm dứt chuỗi sớm trong quá trình dịch mã diễn ra trong ribosome. Một phần của phân tử giống như đầu 3' của tRNA aminoacylate hóa. Nó xâm nhập vào vị trí A và chuyển sang chuỗi đang phát triển, gây ra sự hình thành chuỗi non đã được tinh chế và giải phóng chuỗi sớm. Cơ chế hoạt động chính xác chưa được biết rõ tại thời điểm này nhưng vị trí 3' chứa liên kết amide thay vì liên kết este thông thường của tRNA. Điều đó làm cho phân tử có khả năng chống thủy phân cao hơn nhiều và ngăn chặn ribosome.
+Puromycin được chọn lọc cho cả tế bào nhân sơ hoặc tế bào nhân thực.
+Cũng cần lưu ý, puromycin rất quan trọng trong hiển thị mRNA. Trong phản ứng này, một phân tử puromycin được gắn hóa học vào cuối mẫu mRNA, sau đó được dịch thành protein. Puromycin sau đó có thể tạo thành một liên kết cộng hóa trị với chuỗi peptide đang phát triển cho phép mRNA được liên kết vật lý với sản phẩm tịnh tiến của nó.
+Các kháng thể nhận ra chuỗi khởi đầu tinh khiết cũng có thể được sử dụng để tinh chế các polypeptide mới được tổng hợp  và để hình dung sự phân bố của các ribosome dịch mã hóa bằng phương pháp miễn dịch huỳnh quang.
+
+
+== Chất ức chế peptidase ==
+Puromycin là một chất ức chế thuận nghịch của dipeptidyl-peptidase II (serine peptidase) và cytosol alanyl aminopeptidase (metallicopeptidase). Cơ chế ức chế chưa được hiểu rõ, tuy nhiên puromycin có thể được sử dụng để phân biệt giữa aminopeptidase M (hoạt động) và cytosol alanyl aminopeptidase (bị ức chế bởi puromycin).
+
+
+== Nuôi cấy tế bào ==
+Puromycin được sử dụng trong sinh học tế bào như là một tác nhân chọn lọc trong các hệ thống nuôi cấy tế bào. Nó độc hại đối với các tế bào nhân sơ và nhân thực. Sự kháng puromycin được trao đổi nhờ gen pac mã hóa một puromycin N-acetyl-transferase (PAC) được tìm thấy trong một chủng Streptomyces sản xuất. Puromycin hòa tan trong nước (50 mg/ml) dưới dạng dung dịch không màu ở mức 10   mg/ml. Puromycin ổn định trong một năm dưới dạng dung dịch khi được bảo quản ở mức -20 °C. Liều khuyến cáo dưới dạng tác nhân chọn lọc trong nuôi cấy tế bào nằm trong khoảng 1-10 μg/ml, mặc dù nó có thể gây độc cho tế bào nhân thực ở nồng độ thấp tới 1 μg/ml. Puromycin hoạt động nhanh chóng và có thể tiêu diệt tới 99% tế bào không kháng trong vòng 2 ngày.
+
+
+== Lựa chọn Escherichia coli ==
+Puromycin hoạt động kém trên E. coli. Các chất biến đổi kháng Puromycin được chọn trong môi trường thạch LB bổ sung puromycin 125 µg/ml. Nhưng việc sử dụng puromycin để lựa chọn E.coli đòi hỏi phải điều chỉnh pH chính xác và cũng phụ thuộc vào chủng nào được chọn. Đối với lựa chọn không rắc rối và kết quả tối ưu, có thể sử dụng puromycin điều chỉnh đặc biệt. Các dĩa chứa puromycin ổn định trong 1 tháng khi được lưu trữ ở nhiệt độ 4   °C.
+
+
+== Lựa chọn men ==
+Kháng puromycin trong nấm men cũng có thể được truyền thông qua biểu hiện gen puromycin N-acetyl-transferase (pac). Nồng độ gây tử vong của puromycin đối với các chủng Saccharomyces cerevisiae cao hơn nhiều so với các dòng tế bào động vật có vú. Việc xóa gen mã hóa bơm đa luồng Pdr5 làm nhạy cảm các tế bào với puromycin.
+
+
+== Mất trí nhớ ở chuột ==
+Tính dẻo synap dài hạn, cần thiết cho các quá trình bộ nhớ, đòi hỏi thay đổi hình thái ở mức độ protein. Vì puromycin ức chế tổng hợp protein trong các tế bào nhân thực, các nhà nghiên cứu có thể chỉ ra rằng việc tiêm loại thuốc này sẽ dẫn đến cả mất trí nhớ ngắn hạn cũng như dài hạn ở chuột.
+
+
+== Tham khảo ==

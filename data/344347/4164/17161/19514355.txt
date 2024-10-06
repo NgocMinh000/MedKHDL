@@ -1,0 +1,107 @@
+Hệ thống phân loại Baltimore là một hệ thống được sử dụng để phân loại virus dựa trên cách thức chúng tổng hợp RNA thông tin (mRNA). Bằng cách phân loại virus dựa trên cách thức chúng sản xuất mRNA, có thể nghiên cứu các virus có hoạt động tương tự thành một nhóm riêng biệt. Bảy nhóm Baltimore được mô tả sẽ xem xét bộ gen của virus được tạo ra từ axit deoxyribonucleic (DNA) hay axit ribonucleic (RNA), liệu bộ gen là sợi đơn hay sợi kép, và mạch của bộ gen RNA sợi đơn là mạch âm hay mạch dương.
+Hệ thống phân loại Baltimore cũng tương ứng chặt chẽ với cách sao chép bộ gen, vì vậy hệ thống phân loại Baltimore rất hữu ích trong việc nhóm các virus lại với nhau cho cả quá trình phiên mã lẫn sao chép. Một số bộ môn liên quan đến virus có liên quan đến nhiều nhóm Baltimore cụ thể, chẳng hạn như các dạng dịch mã cụ thể của mRNA hay phạm vi vật chủ của các loại virus khác nhau. Các đặc điểm cấu trúc như hình dạng của vỏ bọc virus, nơi lưu trữ bộ gen của virus, và lịch sử tiến hóa của virus không nhất thiết phải liên quan đến các nhóm Baltimore.
+Hệ thông phân loại Baltimore được tạo ra vào năm 1971 bởi nhà virus học David Baltimore. Kể từ đó, hẹ thông này đã trở nen phổ biến và được các nhà virus học sử dụng song song với hẹ thông phân loại virus tiêu chuẩn dựa trên lịch sử tiến hóa. Trong năm 2018 và 2019, hê thông phân loại Baltimore đã được tích hợp một phần vào phân loại virus dựa trên bằng chứng cho thấy một số nhóm nhất định là hậu duệ của một tổ tiên chung. Các vực, giới và ngành khác nhau hiện tương ứng với các nhóm Baltimore cụ thể khác nhau.
+
+
+== Tổng quát ==
+Hệ thống phân loại Baltimore nhóm các virus lại với nhau dựa trên cách thức chúng tổng hợp mRNA. Các đặc điểm liên quan trực tiếp đến vấn đề này bao gồm việc liệu bộ gen được tạo ra từ axit deoxyribonucleic (DNA) hay axit ribonucleic (RNA), tính chất chuỗi của bộ gen (có thể là chuỗi đơn hoặc chuỗi kép) và cảm giác của bộ gen sợi đơn (có thể là tích cực hoặc tiêu cực). Ưu điểm chính của hệ thống phân loại Baltimore là bằng cách phân loại virus theo các đặc điểm đã nói ở trên, các virus có hành vi giống nhau có thể được nghiên cứu thành các nhóm riêng biệt. Có bảy nhóm Baltimore được đánh số bằng chữ số La Mã, được liệt kê sau đây:
+
+Nhóm I: virus DNA kép
+Nhóm II: virus DNA đơn
+Nhóm III: virus RNA kép
+Nhóm IV: virus RNA đơn, mạch dương (+)
+Nhóm V: virus RNA đơn, mạch âm (-)
+Nhóm VI: virus RNA đơn, mạch dương, phiên mã ngược (có DNA là trung gian)
+Nhóm VII: virus DNA kép, phiên mã ngược (có RNA là trung gian)
+Hệ thống phân loại Baltimore chủ yếu dựa trên sự phiên mã của bộ gen virus và các virus trong mỗi nhóm thường có chung phương thức tổng hợp mRNA. Mặc dù không phải là trọng tâm trực tiếp của hệ thống phân loại Baltimore, các nhóm trong hệ thống được phân loại theo cách mà các virus trong mỗi nhóm thường có cùng cơ chế sao chép bộ gen virus. Do đó, hệ thống phân loại Baltimore cung cấp những hiểu biết sâu sắc về cả phần phiên mã và sao chép của vòng đời virus. Các đặc điểm cấu trúc của hạt virus, được gọi là virion, chẳng hạn như hình dạng của vỏ virus hay sự hiện diện của màng bọc virus bằng lipid thường bao quanh vỏ thì không có mối liên hệ trực tiếp nào với các nhóm trong hệ thống phân loại Baltimore, và các nhóm này cũng không nhất thiết phải thể hiện mối quan hệ về mặt di truyền dựa trên lịch sử tiến hóa.
+
+
+== Hệ thống phân loại ==
+
+
+=== Virus DNA ===
+Virus DNA có bộ gen cấu tạo từ axit deoxyribonucleic (DNA) và được tổ chức thành hai nhóm: virus DNA sợi kép (dsDNA) và virus DNA sợi đơn (ssDNA). Chúng được phân vào ba vực riêng biệt: Duplodnaviria, Monodnaviria và Varidnaviria.
+
+
+==== Nhóm I: virus DNA sợi kép ====
+Nhóm Baltimore đầu tiên bao gồm các virus có bộ gen DNA sợi kép (dsDNA). Tất cả các virus dsDNA đều có mRNA được tổng hợp theo một quy trình ba bước. Bước đầu tiên, một phức hợp tiền khởi đầu phiên mã sẽ liên kết với DNA ngược dòng của vị trí nơi bắt đầu phiên mã, điều này cho phép bổ sung một RNA polymerase vật chủ. Bước thứ hai, khi RNA polymerase được bổ sung, nó sử dụng sợi âm làm khuôn mẫu để tổng hợp các sợi mRNA. Bước thứ ba, RNA polymerase chấm dứt phiên mã khi đạt đến một tín hiệu cụ thể, chẳng hạn như vị trí polyadenyl hóa.
+Virus dsDNA được phân loại thành ba trong bốn vực và bao gồm nhiều đơn vị phân loại không được phân loại vào bất kỳ vực nào:
+
+Tất cả các virus trong vực Duplodnaviria đều là virus dsDNA. Virus trong vực này thuộc hai nhóm: thực khuẩn có đuôi trong bộ Caudovirales và virus herpes trong bộ Herpesvirales.
+Trong vực Monodnaviria, các thành viên của lớp Papovaviricetes là virus dsDNA. Virus trong lớp Papovaviricetes tạo thành hai nhóm: papillomavirus và polyomavirus.
+Tất cả các virus trong vực Varidnaviria đều là virus dsDNA. Virus trong vực này bao gồm virus adeno, virus khổng lồ và poxvirus.
+Các đơn vị phân loại sau đây không được phân loại vào vực này và chỉ chứa virus dsDNA:
+Bộ: Ligamenvirales
+Họ: Ampullaviridae, Baculoviridae, Bicaudaviridae, Clavaviridae, Fuselloviridae, Globuloviridae, Guttaviridae, Halspiviridae, Hytrosaviridae, Nimaviridae, Nudiviridae, Ovaliviridae, Plasmaviridae, Polydnaviridae, Portogloboviridae, Thaspiviridae, Tristomaviridae
+Chi: Dinodnavirus, Rhizidiovirus
+
+
+==== Nhóm II: virus DNA sợi đơn ====
+
+Nhóm Baltimore thứ hai bao gồm các virus có bộ gen DNA sợi đơn (ssDNA). virut ssDNA có cùng cách phiên mã như virut dsDNA. Tuy nhiên, vì bộ gen là dạng sợi đơn nên đầu tiên nó được tạo thành dạng sợi kép bởi một DNA polymerase khi xâm nhập vào tế bào chủ. mRNA sau đó được tổng hợp từ dạng sợi kép. Dạng sợi kép của virus ssDNA có thể được tạo ra trực tiếp sau khi xâm nhập vào tế bào hoặc là kết quả của quá trình sao chép bộ gen virus. Các virus ssDNA của sinh vật nhân chuẩn được sao chép trong nhân.
+Virus ssDNA được phân loại thành một trong bốn vực và bao gồm một số họ không được xếp vào vực nào:
+
+Trong vực Monodnaviria, tất cả các thành viên ngoại trừ virus trong Papovaviricetes đều là virus ssDNA.
+Các họ chưa được phân loại Anelloviridae và Spiraviridae là họ virus ssDNA.
+Virus trong họ Finnlakeviridae chứa bộ gen ssDNA. Finnlakeviridae không được phân loại vào vực nào nhưng là một thành viên được đề xuất của Varidnaviria.
+
+
+=== Virus RNA ===
+Virus RNA có bộ gen được tạo thành từ axit ribonucleic (RNA) và bao gồm ba nhóm: virus RNA sợi kép (dsRNA), virus RNA sợi đơn (+ ssRNA) dương nghĩa và virus RNA sợi đơn (-ssRNA) âm nghĩa. Virus RNA được xếp loại vào giới Orthornavirae trong vực Riboviria.
+
+
+==== Nhóm III: virus RNA sợi kép ====
+
+Phân loại Baltimore thứ ba bao gồm những virus có hệ gen là RNA mạch kép (dsRNA). Sau khi xâm nhập tế bào chủ, dsRNA được phiên mã thành mRNA từ mạch âm bởi RNA polymerase phụ thuộc RNA của virus (RdRp). mRNA này sau đó có thể được dùng cho dịch mã hoặc nhân đôi. Nếu nhân đôi, mRNA này sẽ được tổng hợp mạch bổ sung (cũng là RNA) để tạo thành dsRNA hoàn chỉnh. Đầu 5' của hệ gen virus này có thể là trần, được bao hoặc liên kết hóa trị với một protein vi khuẩn.
+dsRNA không xuất hiện tự nhiên trong tế bào, nên các dạng sống tế bào có thể chống virus bằng cách phát hiện và bất hoạt dsRNA. Để phản lại điều này, nhiều virus giấu hệ gen vào trong vỏ capsid, khiến tế bào chủ không thể nhận diện dsRNA. Nhưng mRNA thì cũng phải ra khỏi capsid để có thể được dịch mã hoặc được đưa vào vỏ capsid mới tổng hợp. Mặc dù virus dsRNA thường có vỏ capsid, những virus trong họ Amalgaviridae và Endornaviridae lại không có, nên chúng không có cấu trúc virion.   
+Virus dsRNA được phân loại thành hai ngành trong giới Orthornavirae của vực Riboviria:
+
+Tất cả các virus trong ngành Duplornaviricota đều là virus dsRNA.
+Trong ngành Pisuviricota, tất cả các thành viên của lớp Duplopiviricetes đều là virus dsRNA.
+
+
+==== Nhóm IV: Virus RNA mạch đơn, dương ====
+
+Nhóm Baltimore thứ tư chứa các virus có bộ gen RNA sợi đơn, dương nghĩa (+ssRNA). Đối với virus +ssRNA, bộ gen có chức năng như mRNA, vì vậy không cần phiên mã để dịch mã. Tuy nhiên, virus +ssRNA cũng sẽ tạo ra các bản sao dương nghĩa của bộ gen từ các sợi (-) của bộ gen dsRNA trung gian. Quá trình này đóng vai trò vừa phiên mã vừa sao chép vì RNA được sao chép cũng là mRNA. Đầu 5' có thể không có, có giới hạn hoặc liên kết cộng hóa trị với protein virus và đầu 3' có thể không có hoặc được polyadenyl hóa.
+Các virus +ssRNA có thể được phân chia thành virus có mRNA đa cistron mã hóa một polyprotein được phân cắt để tạo thành nhiều protein trưởng thành, và virus tạo ra mRNA bộ gen phụ và do đó trải qua hai hoặc nhiều vòng dịch mã. Virus +ssRNA được phân loại trong ba ngành trong giới Orthornavirae thuộc vực Riboviria:
+
+Tất cả các virus trong ngành Lenarviricota đều là virus +ssRNA.
+Tất cả các virus trong ngành Pisuviricota đều là virus +ssRNA, ngoại trừ lớp Duplopiviricetes do thành viên của chúng có bộ gen dsRNA.
+Tất cả các virus trong ngành Kitrinoviricota đều là virus +ssRNA.
+
+
+==== Nhóm V: Virus RNA mạch đơn, âm ====
+
+Phân loại Baltimore thứ ba bao gồm những virus có hệ gen là RNA mạch đơn, âm nghĩa (-ssRNA). Một số đại diện nổi bật của nhóm virus này là virus cúm, virus Ebola, virus sởi và virus dại.   
+Bước đầu tiên sau khi xâm nhập tế bào chủ là phiên mã ra mRNA (+) từ mạch genome. Mạch mRNA (+) này có hai vai trò: trực tiếp tham gia dịch mã vì chúng mang codon, và tham gia tổng hợp mạch genome để cấu tạo thành virus thế hệ tiếp theo. Để thực hiện điều này, virus ssRNA (-) có hai phương pháp:   
+
+Cách đầu tiên, RdRP bám vào tín hiệu khởi đầu phiên mã ở đầu 3' của hệ gen, rồi phiên mã ra cho đến khi gặp tín hiệu kết thúc (rồi lại gắn thêm nhiều nu loại A để làm đuôi), sản phẩm là một mRNA có đầu bọc 5' và đuôi poly-A hoàn toàn được tổng hợp mới do RdRp virus. RdRp sau khi tổng hợp mRNA có thể dò tiếp trên hệ gen để tìm tín hiệu khởi đầu khác rồi lại tiếp tục phiên mã. Đối với các hệ đa cistron (nhiều gen trên một mRNA), mRNA đựoc tổng hợp một mạch cho đến khi gặp tín hiệu kết thúc.
+Cách thứ hai cũng tương tự, chỉ khác là thay vì tự tổng hợp đầu bọc 5', RdRp virus lại đi cướp giật từ mRNA của tế bào chủ (quá trình này gọi là "giựt đầu bọc" - cap snatching). Đầu bọc này là một đoạn RNA dài từ 5 đến 10 bp có tác dụng tương tự tín hiệu khởi đầu phiên mã và cũng là đoạn mồi.
+Sau khi tổng hợp xong mạch RNA (+), virus có thể tổng hợp mạch genome (-ssRNA) với phương pháp tương tự như phiên mã nhưng khác là dùng mạch bổ sung làm mạch khuôn chứ không phải mạch gốc. Trong đó, RdRp di chuyển từ đầu 3' đến 5' của mạch bổ sung và làm nhưng tất cả nhưng tín hiệu phiên mã và tín hiệu dừng phiên mã.
+Nhiều virus -ssRNA có các cơ chế phiên mã đặc biệt, bao gồm
+
+Cơ chế "polymerase cà lăm": để tổng hợp đuôi polyA, RdRp phiên mã một adenine từ uracil rồi quay lại để phiên mã uracil đó tiếp, rồi lặp lại nhiều lần cho đến khi hàng trăm adenin được thêm vào đầu 3' của mRNA.
+Cơ chế -ssRNA "đôi nghĩa": cả mạch (+) và mạch (-) đều mã hóa protein, nên những virus này tổng hợp hai loại mRNA riêng biệt: một từ genom và một từ mạch bổ sung.
+Virus -ssRNA có thể đựoc phân loại một cách không chính thống thành hai loại: hệ gen phân đoạn và không phân đoạn. Hệ gen không phân đoạn chứa một RNA liền mạch duy nhất, còn hệ gen phân đoạn bao gồm nhiều đoạn RNA rời rạc, mã hóa những nội dung khác nhau. Virus cúm là ví dụ tiêu biểu của hệ gen phân đoạn: mỗi virus có đúng 8 đoạn RNA (-) và khi hai chủng virus khác nhau cùng xâm nhập một tế bào, chúng có thể tráo đổi những đoạn này cho nhau để tạo ra chủng virus mới mà không cần tái tổ hợp di truyền hay đột biến. Việc tổng hợp vật chất di truyền của hai phân loại này cũng có những khác biệt cơ sở: virus không phân mảnh tổng hợp duy nhất một đoạn mRNA, và thực hiện tái bản trong tế bào chất; còn virus phân đoạn tổng hợp một đoạn mRNA cho mỗi đoạn genome, và thực hiện tái bản trong nhân. Tất cả virus -ssRNA đều thuộc ngành Negarnaviricota, giới Orthornavirae, vực Riboviria. Ngành này cũng chỉ chứa toàn virus -ssRNA, nên "virus -ssRNA" đồng nghĩa với Negarnaviricota. Negarnaviricota lại được chia thành hay phân ngành dựa theo phương pháp phiên mã RNA: Haploviricotina - tự tổng hợp đầu bọc, và Polyploviricotina - giựt đầu bọc của mRNA vật chủ.
+
+
+==== Nhóm VI: virus RNA sợi đơn với một DNA trung gian ====
+Nhóm Baltimore thứ sáu bao gồm các virus có bộ gen RNA sợi đơn (dương nghĩa) có một DNA trung gian ((+)ssRNA-RT) trong chu trình sao chép của chúng.
+
+
+==== Nhóm VII: virus DNA sợi kép với một RNA trung gian ====
+Nhóm Baltimore thứ bảy bao gồm các virus có bộ gen RNA sợi kép có một RNA trung gian (dsDNA-RT) trong chu trình sao chép của chúng.
+
+
+== Tham khảo ==
+
+
+=== Đọc thêm ===
+
+
+== Liên kết ngoài ==
+Các nhóm họ - Phương pháp Baltimore Lưu trữ 2013-03-30 tại Wayback Machine
+Cơ sở dữ liệu về virus phổ quát của Ủy ban quốc tế về phân loại virus
+Cổng phân loại của cơ sở dữ liệu Genbank
+ViralZone
+Hệ thống Baltimore - Blog về virus học

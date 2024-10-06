@@ -1,0 +1,54 @@
+Ngữ đoạn, còn được gọi là đoản ngữ hay cụm từ (tiếng Anh: phrase), là một khái niệm trong cú pháp và ngữ pháp, tức là một nhóm các từ cùng với nhau đóng vai trò làm một đơn vị ngữ pháp. Chẳng hạn, biểu đạt tiếng Anh "the very happy squirrel" là một ngữ đoạn danh từ có chứa ngữ đoạn tính từ "very happy". Ngữ đoạn có thể gồm một từ đơn hoặc một câu hoàn chỉnh. Trong ngôn ngữ học lý thuyết, ngữ đoạn hay được phân tích làm đơn vị – kiểu như thành tố – trong cấu trúc cú pháp.
+
+
+== Ngữ nghĩa của thuật ngữ ==
+Ba cách gọi ngữ đoạn, đoản ngữ và cụm từ được sử dụng theo các nghĩa có đôi chút khác nhau trong tiếng Việt. Ngữ đoạn (語段) là tổ hợp nhiều yếu tố bất kì làm thành một đơn vị trong chuỗi lời nói hoặc tổ hợp làm thành một đơn vị ngữ pháp, và bản thân đơn vị này là thành tố của một đơn vị ngữ pháp khác ở bậc cao hơn. Đoản ngữ (短語) là tổ hợp từ có quan hệ chính phụ – chỉ gồm các ngữ đoạn có phần trung tâm và thành tố phụ thuộc. Cụm từ là đơn vị ngữ pháp trung gian ở giữa từ và câu – gần với nghĩa thứ nhất của ngữ đoạn. Ngữ đoạn theo nghĩa thứ hai là cách gọi có tính bao trùm toàn bộ các cách gọi còn lại.
+Trong nhiều tài liệu tiếng Việt, những khái niệm như ngữ đoạn danh từ, ngữ đoạn động từ, ngữ đoạn tính từ, ngữ đoạn trạng từ còn được gọi ngắn gọn là danh ngữ, động ngữ, tính ngữ, trạng ngữ; một số nơi còn ghi như ngữ danh từ, cụm tính từ. Không phải tất cả ngữ đoạn đều được gọi tên như vậy.
+
+
+== Cây ngữ đoạn ==
+Nhiều lý thuyết cú pháp và ngữ pháp minh họa cấu trúc câu bằng cách sử dụng 'cây' ngữ đoạn, cung cấp biểu đồ thể hiện cách các từ trong câu được gom nhóm và liên hệ với nhau. Cây ngữ đoạn cho thấy các từ, các ngữ đoạn và các tiểu cú tạo nên câu. Bất kì tổ hợp từ nào tương ứng với cây con hoàn chỉnh cũng có thể coi là ngữ đoạn.
+
+Có hai nguyên lý đối chọi nhau để xây dựng cây, hai cái tạo ra hai loại cây: cây 'thành tố' và cây 'phụ thuộc', cả hai được minh họa dưới đây bằng một câu ví dụ. Bên trái là cây dựa trên tính thành tố, còn bên phải là cây dựa trên tính phụ thuộc:
+Cây bên phải là dựa theo tính thành tố, ngữ pháp cấu trúc ngữ đoạn, còn cây bên phải là theo ngữ pháp phụ thuộc. Các nhãn nút ở hai cây đánh dấu phạm trù cú pháp của các thành tố – hoặc thành phần 'từ' – khác nhau trong câu.
+Trong cây thành tố, mỗi ngữ đoạn được đánh dấu bởi một nút ngữ đoạn (NP, PP, VP); và có tám ngữ đoạn được nhận biết bằng phép phân tích cấu trúc ngữ đoạn trong câu ví dụ. Mặt khác, cây phụ thuộc thì nhận biết ngữ đoạn dựa theo bất kì nút nào đặt tính phụ thuộc lên một nút khác. Và bằng cách phân tích phụ thuộc, có sáu ngữ đoạn trong câu đấy.
+Hai cây này cùng với số đếm ngữ đoạn cho thấy rõ rằng lý thuyết cú pháp khác nhau thì cách định tính xem tổ hợp từ nào là ngữ đoạn cũng khác nhau. Ở đây, cây thành tố thì nhận biết được ba ngữ đoạn mà cây phụ thuộc thì không thấy, đó là: house at the end of the street, end of the street, và the end. Bằng kinh nghiệm có thể phân tích sâu hơn về hai kiểu ngữ pháp này, bao gồm cả tính thỏa đáng của chúng, bằng cách áp dụng các phép kiểm tra thành tố.
+
+
+== Phần trung tâm và phần phụ thuộc ==
+Trong phân tích ngữ pháp, hầu hết ngữ đoạn chứa một phần trung tâm mà xác định kiểu và đặc trưng ngôn ngữ học của ngữ đoạn đấy. Phạm trù cú pháp của phần trung tâm được sử dụng để đặt tên cho phạm trù của ngữ đoạn đấy, ví dụ, ngữ đoạn mà có phần trung tâm là danh từ thì được gọi là ngữ đoạn danh từ. Các từ còn lại trong ngữ đoạn thì được gọi là phần phụ thuộc của phần trung tâm.
+Trong các ngữ đoạn sau đây, từ trung tâm hoặc phần trung tâm được bôi đậm:
+
+too slowly — Ngữ đoạn trạng từ (AdvP); phần trung tâm là một trạng từ
+very happy — Ngữ đoạn tính từ (AP); phần trung tâm là một tính từ
+the massive dinosaur — Ngữ đoạn danh từ (NP); phần trung tâm là một danh từ (hoặc đây là ngữ đoạn định từ, xem phần phạm trù chức năng bên dưới)
+at lunch — Ngữ đoạn giới từ (PP); phần trung tâm là một giới từ
+watch TV — Ngữ đoạn động từ (VP); phần trung tâm là một động từ
+Năm ví dụ bên trên là các kiểu ngữ đoạn thông dụng nhất, nhưng theo logic phần trung tâm và phần phụ thuộc, thì cũng có thể có những kiểu khác hay được tạo ra. Chẳng hạn, ngữ đoạn hạ cấp:
+
+before that happened — Ngữ đoạn hạ cấp (SP); phần trung tâm là một liên từ hạ cấp – nó có cấp bậc thấp hơn cái tiểu cú bất phụ thuộc
+Dựa trên phép phân tích ngôn ngữ, đây là một cụm từ có đủ tính chất để coi là ngữ đoạn, với từ trung tâm được gọi là "từ hạ cấp" và cái tên cú pháp này được dùng để đặt tên cho phạm trù ngữ pháp của cả ngữ đoạn đấy luôn. Nhưng ngữ đoạn "before that happened" này, ở những ngữ pháp khác, bao gồm ngữ pháp tiếng Anh truyền thống, thì thường được phân loại là tiểu cú hạ cấp (hoặc tiểu cú phụ thuộc) hơn. Vậy nên thay vì được liệt vào ngữ đoạn, thì nó được liệt vào tiểu cú.
+Hầu hết lý thuyết cú pháp đều xem hầu hết ngữ đoạn là có phần trung tâm, nhưng có ghi nhận một số ngữ đoạn không có phần trung tâm. Ngữ đoạn mà không có phần trung tâm thì được gọi là exocentric, còn ngữ đoạn có phần trung tâm thì được gọi là endocentric.
+
+
+=== Phạm trù chức năng ===
+Một số lý thuyết cú pháp hiện đại đưa ra 'phạm trù chức năng', trong đó phần trung tâm của ngữ đoạn thì nó là 'mục từ vựng chức năng'. Một số phần trung tâm chức năng trong một số ngôn ngữ thì không được phát âm, mà được ẩn đi. Ví dụ, nhẳm để giải thích các mô thức cú pháp nhất định có tương liên với hành động lời nói mà câu văn thực hiện, thì một số nhà nghiên cứu đã đề xuất khái niệm force phrase, mà trong đó phần trung tâm của nó không được phát âm trong nhiều ngôn ngữ bao gồm tiếng Anh. Tương tự, nhiều căn cứ cho rằng những định từ bị ẩn đó có hiện diện trong các ngữ đoạn danh từ nguyên trần như danh từ riêng.
+Một kiểu khác là ngữ đoạn biến tố, trong đó ví dụ có một động từ hữu hạn được dùng làm bổ ngữ cho phần trung tâm chức năng có thể bị ẩn đi, phần trung tâm đó được coi như có chứa các yêu cầu cho động từ đấy biến tố – để phù ứng với chủ thể, với thì và thể của nó, v.v. Nếu các nhân tố đấy được xem xét riêng rẽ, thì có thể phải tính đến nhiều phạm trù cụ thể hơn: ngữ đoạn thì, trong đó ngữ đoạn động từ thì là bổ ngữ cho một thành phần "thì" trừu tượng; ngữ đoạn thể; ngữ đoạn phù ứng và cứ thế.
+Các ví dụ thêm nữa cho các phạm trù được đề xuất như trên bao gồm ngữ đoạn chủ đề và ngữ đoạn tiêu điểm, trong đó người ta chủ trương rằng có các thành phần làm nên phần trung tâm có chứa đựng yêu cầu để cho thành tố nào đó trong câu nó được đánh dấu làm chủ đề hoặc tiêu điểm.
+
+
+== Sự khác nhau trong các lý thuyết cú pháp ==
+Các lý thuyết cú pháp khác nhau thì có cách nhìn nhận xem cái gì là ngữ đoạn cũng khác nhau. Chẳng hạn, trong khi hầu như tất cả lý thuyết cú pháp đều ghi nhận sự tồn tại của ngữ đoạn động từ, các ngữ pháp cấu trúc ngữ đoạn đều ghi nhận cả ngữ đoạn động từ hữu hạn và ngữ đoạn động từ phi hạn còn ngữ pháp phụ thuộc thì chỉ ghi nhận ngữ đoạn động từ phi hạn thôi. Sự chia rẽ giữa các quan điểm này dai dẳng là do các kết quả xung khắc nhau từ các 'phép chẩn đoán tiêu chuẩn bằng kinh nghiệm' như phép kiểm tra thành tố.
+Sự khu biệt được minh họa bằng ví dụ sau đây:
+
+The Republicans may nominate Newt. - phần bôi đậm là ngữ đoạn động từ hữu hạn
+The Republicans may nominate Newt. - phần bôi đậm là ngữ đoạn động từ phi hạn
+Hai cây cú pháp của câu này như sau:
+
+Cây thành tố bên trái cho thấy chuỗi động từ hữu hạn may nominate Newt là một thành tố; nó tương ứng với VP1. Trái lại, cũng chuỗi này lại không được cho thấy là ngữ đoạn ở 'cây phụ thuộc' bên phải. Tuy nhiên, cả hai cây đều cho rằng chuỗi ngữ đoạn động từ phi hạn nominate Newt là một thành tố.
+
+
+== Ghi chú thuật ngữ ==
+
+
+== Tham khảo ==

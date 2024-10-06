@@ -1,0 +1,27 @@
+Giảm mầm bệnh bằng cách sử dụng riboflavin và tia UV là một phương pháp bất hoạt mầm bệnh truyền nhiễm trong chế phẩm truyền máu bằng cách thêm riboflavin và chiếu tia UV. Phương pháp này làm giảm mức độ lây nhiễm các tác nhân gây bệnh có thể tìm thấy trong các thành phần máu của người hiến, đồng thời vẫn duy trì các thành phần máu có chất lượng tốt để truyền. Trong công nghiệp, phương pháp tiếp cận nhằm tăng cường độ an toàn cho máu còn được gọi là "bất hoạt mầm bệnh".
+Nguy cơ lây truyền bệnh vẫn tồn tại ngay cả khi các nước phát triển thực hiện nhiều biện pháp để đảm bảo an toàn cho các chế phẩm máu truyền. Do đó, việc phát triển các công nghệ bất hoạt mầm bệnh/ khử mầm bệnh cho các chế phẩm máu là một nỗ lực không ngừng trong ngành truyền máu.
+
+
+== Phương pháp ==
+Quá trình giảm mầm bệnh: thêm riboflavin (vitamin B2) vào thành phần máu, sau đó đưa vào đèn chiếu tia UV trong khoảng 5 đến 10 phút. Tiếp xúc với tia cực tím sẽ kích hoạt riboflavin, khi chất này liên kết với acid nucleic (DNA và RNA), riboflavin gây ra sự thay đổi hóa học đối với các nhóm chức của acid nucleic, làm cho mầm bệnh không thể sao chép và phân chia. Quá trình này ngăn không cho virus, vi khuẩn, ký sinh trùng và các tế bào bạch cầu phân chia, làm mất khả năng gây bệnh.
+
+Ánh sáng UV + Riboflavin → Bất hoạt không thuận nghịch
+Phương pháp này sử dụng riboflavin và tia UV làm cho mầm bệnh trở nên vô hại là một phương pháp không gây đột biến, không độc hại. Riboflavin và các sản phẩm tạo thành của nó có sẵn trong cơ thể người và không cần phải loại bỏ khỏi các chế phẩm máu trước khi truyền máu.
+
+
+== Ví dụ về các mầm bệnh bị bất hoạt bằng phương pháp này ==
+Virus (cả virus có vỏ và không vỏ), gồm: cúm gia cầm, Chikungunya, Cytomegalovirus, viêm gan A, viêm gan B, viêm gan C, HIV, B-19 Người, cúm, bệnh dại và virus Tây sông Nile.
+Vi khuẩn: B. cereus, E. cloacae, E. coli, K. pneumonia, P. acnes, S. marcescens, S. aureus, S. epidermidis, S. agalactiae, S. mitis, S. pyogenes, và Y. enterocolitica.
+Ký sinh trùng: bệnh Babesiosis, bệnh Chagas, bệnh Leishmania, sốt rét và sốt phát ban dạng vảy.
+Bạch cầu - do sự bất hoạt hiệu quả của các tế bào bạch cầu trong các chế phẩm máu được hiến tặng, điều trị bằng riboflavin và tia UV có thể được sử dụng thay thế cho chiếu xạ gamma để ngăn ngừa bệnh ghép chống chủ liên quan đến truyền máu (transfusion-associated graft-versus-host disease, TA-GVHD), một biến chứng nghiêm trọng liên quan đến truyền máu.
+
+
+== Ứng dựng ==
+Phương pháp sử dụng riboflavin và tia UV để khử mầm bệnh trong chế phẩm tiểu cầu và huyết tương đang được sử dụng thường quy ở nhiều quốc gia khắp Châu Âu. Quy trình tương tự này hiện đang được phát triển để điều trị máu toàn phần, giảm tác nhân gây bệnh của ba thành phần máu (hồng cầu, tiểu cầu và huyết tương).
+
+
+== Đọc thêm ==
+Bất hoạt virus
+
+
+== Tham khảo ==

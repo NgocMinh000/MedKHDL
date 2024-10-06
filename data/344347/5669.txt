@@ -1,0 +1,266 @@
+Lao (Tiếng Anh: tuberculosis) là bệnh truyền nhiễm qua đường hô hấp  thường do vi khuẩn Mycobacterium tuberculosis gây ra. Bệnh chủ yếu tác động đến phổi nhưng cũng có thể đến những bộ phận khác của cơ thể. Đa số trường hợp mắc lao không biểu hiện triệu chứng, gọi là lao tiềm ẩn. Khoảng 10% ca lao tiềm ẩn tiến triển thành lao hoạt tính mà nếu không chữa trị sẽ khiến khoảng một nửa số bệnh nhân tử vong. Triệu chứng điển hình của lao hoạt tính là ho dai dẳng kèm dịch nhầy chứa máu, sốt, đổ mồ hôi đêm, sụt cân. Nếu các cơ quan khác bị nhiễm khuẩn thì triệu chứng sẽ đa dạng hơn.
+Lao lây truyền từ người sang người qua không khí khi người bệnh lao hoạt tính ho, khạc nhổ, nói, hay hắt hơi. Người mang lao tiềm ẩn không làm bệnh lây lan. Lao hoạt tính thường xảy ra hơn ở người hút thuốc và mắc HIV/AIDS. Cách thức chẩn đoán lao hoạt tính là X quang ngực, cấy dịch cơ thể và khám nghiệm vi mô. Xét nghiệm Mantoux hay xét nghiệm máu giúp chẩn đoán lao tiềm ẩn.
+Cách thức phòng bệnh bao gồm tầm soát đối với người nguy cơ cao, phát hiện và điều trị sớm, chủng ngừa bằng vắc-xin BCG (Bacillus Calmette-Guérin). Người nguy cơ cao là người ở chung nhà, nơi làm việc, và tiếp xúc xã hội với bệnh nhân lao hoạt tính. Chữa trị đòi hỏi sử dụng nhiều loại kháng sinh trong thời gian dài. Tình trạng kháng kháng sinh đang ngày một trở nên đáng lo ngại với tỷ lệ lao đa kháng và lao siêu kháng tăng.
+Vào năm 2018 khoảng một phần tư dân số thế giới được cho là mắc lao tiềm ẩn. Mỗi năm có thêm khoảng 1% dân số mắc bệnh. Trong năm 2018 có hơn 10 triệu người bị lao hoạt tính trong đó 1,5 triệu người tử vong, con số khiến lao là bệnh truyền nhiễm gây tử vong hàng đầu. Căn bệnh xuất hiện chủ yếu ở Đông Nam Á (44%), châu Phi (24%), Tây Thái Bình Dương (18%) với hơn 50% ca được chẩn đoán ở tám quốc gia là Ấn Độ (27%), Trung Quốc (9%), Indonesia (8%), Philippines (6%), Pakistan (6%), Nigeria (4%), và Bangladesh (4%). Số ca mắc mới mỗi năm đã giảm kể từ năm 2000. Khoảng 80% dân số ở nhiều nước châu Á, châu Phi xét nghiệm tuberculin dương tính còn với người dân Hoa Kỳ chỉ là 5–10%. Bệnh lao đã có ở người từ thời cổ đại.
+
+
+== Dấu hiệu và triệu chứng ==
+Bệnh lao có thể tác động đến bất kỳ bộ phận nào của cơ thể nhưng phổ biến nhất là phổi (gọi là lao phổi). Lao ngoài phổi xảy ra khi bệnh phát triển ở bên ngoài phổi, dù vậy hai dạng có thể tồn tại đồng thời.
+Dấu hiệu và triệu chứng tổng quan gồm có sốt, ớn lạnh, đổ mồ hôi đêm, chán ăn, sụt cân, và mệt mỏi. Ngoài ra còn có thể xuất hiện ngón tay dùi trống rõ rệt.
+
+
+=== Phổi ===
+Nếu nhiễm khuẩn lao ở trạng thái hoạt động thì phổi là cơ quan hay bị tác động nhất (khoảng 90% ca). Triệu chứng gồm có đau ngực và ho ra đờm kéo dài. Khoảng 25% bệnh nhân không biểu hiện triệu chứng. Đôi khi người bệnh có thể ho ra máu với lượng nhỏ và trong rất ít trường hợp xảy ra vỡ động mạch phổi hay phình mạch Rasmussen dẫn đến chảy máu ồ ạt. Lao có thể trở thành bệnh mãn tính và gây sẹo khắp những thùy phổi trên. Những thùy dưới ít bị tác động thường xuyên hơn. Không rõ tại sao có sự khác biệt này, có thể do ở phần phổi trên dẫn khí tốt hơn hoặc dẫn lưu bạch huyết kém hơn.
+
+
+=== Ngoài phổi ===
+Ở 15–20% ca hoạt tính, nhiễm khuẩn lan ra ngoài phổi gây nên những dạng lao khác. Chúng được gọi chung là "lao ngoài phổi". Lao ngoài phổi xảy ra phổ biến hơn ở người có hệ miễn dịch suy yếu và trẻ em. Hơn một nửa số ca nhiễm HIV xuất hiện tình trạng này. Các địa điểm nhiểm khuẩn ngoài phổi đáng chú ý là màng phổi (viêm màng phổi do lao), hệ thần kinh trung ương (viêm màng não do lao), hệ bạch huyết (lao hạch cổ), hệ niệu sinh dục (lao niệu sinh dục), xương và khớp (lao cột sống). Lao kê là một dạng lao có tiềm năng lan rộng và nghiêm trọng hơn, hiện chiếm khoảng 10% trường hợp lao ngoài phổi.
+
+
+== Tác nhân ==
+
+
+=== Vi khuẩn lao ===
+
+Tác nhân chủ yếu gây bệnh lao là Mycobacterium tuberculosis, một trực khuẩn nhỏ không động, hiếu khí. Việc sở hữu hàm lượng lipid cao lý giải cho nhiều đặc điểm lâm sàng độc nhất của chúng. Vi khuẩn này phân chia cứ 16 đến 20 giờ một lần, một tốc độ cực kỳ chậm so với những vi khuẩn khác thường phân chia trong chưa đến một tiếng. Mycobacterium có một màng ngoài hai lớp lipid. Nếu tiến hành nhuộm Gram thì M. tuberculosis hoặc "Gram dương" rất yếu hoặc không lưu giữ thuốc nhuộm do hàm lượng mycolic acid và lipid cao của thành tế bào. M. tuberculosis có thể chống chịu các chất tẩy uế yếu và sống sót trong môi trường khô vài tuần. Ngoài tự nhiên, M. tuberculosis chỉ có thể sinh trưởng trong tế bào của sinh vật chủ nhưng chúng có thể được nuôi trong phòng thí nghiệm.
+Các nhà khoa học có thể nhận diện vi khuẩn lao dưới kính hiển vi nhờ tiến hành nhuộm các mẫu đờm dãi của người bệnh. Vì M. tuberculosis lưu lại những chất nhuộm nhất định kể cả sau khi được xử lý bằng dung dịch acid nên nó được xếp vào loại trực khuẩn kháng acid. Kỹ thuật nhuộm kháng acid phổ biến nhất là nhuộm Ziehl–Neelsen và nhuộm Kinyoun khiến trực khuẩn có màu đỏ sáng nổi bật trên nền xanh. Nhuộm auramine-rhodamine và soi hiển vi huỳnh quang cũng được áp dụng.
+Tổ hợp M. tuberculosis bao gồm bốn chủng Mycobacterium gây lao khác nhau: M. bovis, M. africanum, M. canetti, và M. microti. M. africanum không phổ biến nhưng là tác nhân gây lao đáng kể ở những vùng châu Phi. M. bovis từng là nguyên nhân phổ biến nhưng đã bị diệt trừ gần như hoàn toàn từ khi sữa thanh trùng xuất hiện và không còn là vấn đề ở các nước phát triển. M. canetti hiếm thấy và dường như hạn chế ở Sừng châu Phi, dù vậy đã quan sát thấy một vài ca ở những người châu Phi di cư. M. microti cũng không phổ biến và gần như chỉ thấy ở người bị suy giảm miễn dịch, dù vậy độ thịnh hành của nó có thể bị đánh giá thấp đáng kể.
+Còn những Mycobacterium gây bệnh khác được biết là M. leprae, M. avium, và M. kansasii. M. avium và M. kansasii thuộc nhóm Mycobacterium không điển hình. Loại này không gây lao hay phong mà gây những bệnh phổi khác tương tự lao.
+
+
+=== Lây truyền ===
+Khi người bệnh lao hoạt tính ho, hắt hơi, nói, hát, hay khạc nhổ, họ bắn ra những giọt nước bọt nhỏ (aerosol) có đường kính 0,5 đến 5,0 µm chứa mầm bệnh. Một lần hắt hơi có thể bắn ra tới 40.000 giọt. Chỉ một giọt cũng có thể truyền bệnh bởi số lượng vi khuẩn cần để sinh bệnh là rất ít (dưới 10 vi khuẩn).
+Người tiếp xúc gần, thường xuyên, thời gian dài với người bị lao có nguy cơ nhiễm bệnh rất cao với tỷ lệ lây nhiễm ước tính 22%. Một người mắc lao hoạt tính không chữa trị có thể lây cho 10 đến 15 người (hoặc hơn) trong một năm. Sự lây nhiễm chỉ xảy ra từ người mắc lao hoạt tính, người mang lao tiềm ẩn không được xem là nguồn lây. Xác suất lây truyền từ người này sang người khác phụ thuộc vào một số yếu tố bao gồm: số giọt bắn mà người bệnh phát ra, độ thông thoáng của môi trường, thời gian tiếp xúc, độc lực của chủng M. tuberculosis, năng lực miễn dịch của người không bị bệnh, và những yếu tố khác.
+Chuỗi lây truyền người sang người có thể ngăn chặn bằng biện pháp cách ly người bệnh lao hoạt tính và điều trị bằng thuốc kháng lao. Sau khoảng hai tuần điều trị hiệu quả thì nhìn chung đối tượng mang vi khuẩn không kháng thuốc sẽ không thể lây bệnh cho người khác. Một người mới nhiễm vi khuẩn lao thường phải sau 3 đến 4 tuần mới có thể lây nhiễm cho người khác.
+
+
+=== Yếu tố làm tăng nguy cơ ===
+
+
+==== Bệnh hoạt tính ====
+Yếu tố nguy cơ làm tăng khả năng mắc bệnh lao hàng đầu trên toàn cầu là HIV, 13% bệnh nhân lao nhiễm HIV. Vấn đề này nghiêm trọng ở châu Phi hạ Sahara nơi có tỷ lệ nhiễm HIV cao. 30% người đồng nhiễm lao và HIV bệnh phát triển thành thể hoạt tính, trong khi tỷ lệ này ở người không nhiễm HIV là 5–10%.
+Sử dụng những thuốc nhất định như corticosteroid và infliximab là một yếu tố nguy cơ quan trọng khác, đặc biệt ở các nước phát triển.
+Yếu tố nguy cơ khác bao gồm: nghiện rượu, hút thuốc lá (nguy cơ tăng gấp đôi), tiểu đường (nguy cơ tăng gấp ba), bụi phổi silic (nguy cơ tăng gấp 30 lần), ô nhiễm không khí trong nhà, suy dinh dưỡng, nhỏ tuổi, mới mắc lao gần đây, sử dụng ma túy, bệnh thận nặng, nhẹ cân, cấy ghép nội tạng, ung thư đầu cổ, và nhạy cảm gen.
+
+
+==== Nhiễm khuẩn ====
+Nguy cơ nhiễm khuẩn lao gia tăng ở những người hút thuốc lá và trẻ em.
+
+
+== Bệnh sinh ==
+
+Khoảng 90% người nhiễm M. tuberculosis không có triệu chứng hay gọi là mắc lao tiềm ẩn và khả năng bệnh tiến triển đến dạng hoạt tính chỉ là 10% trong suốt cuộc đời. Ở người nhiễm HIV nguy cơ xuất hiện lao hoạt tính tăng gần 10% một năm. Nếu không được điều trị hiệu quả, tỷ lệ tử vong ở những ca hoạt tính lên tới 66%.
+Nhiễm khuẩn lao bắt đầu khi vi khuẩn đến túi khí phế nang của phổi, tại đó chúng xâm nhập và sinh sôi trong thể nội bào của đại thực bào phế nang. Đại thực bào xác định vi khuẩn là ngoại xâm và cố gắng tiêu diệt chúng thông qua sự thực bào. Trong quá trình này, vi khuẩn bị đại thực bào bao bọc và nhốt tạm thời trong một túi có màng bao gọi là thể thực bào. Tiếp đó thể thực bào kết hợp với tiêu thể tạo ra thực bào-tiêu thể (hay nội tiêu thể). Trong nội tiêu thể, tế bào nỗ lực sử dụng những dạng oxy phản ứng và acid để giết vi khuẩn. Tuy nhiên, M. tuberculosis có một bao mycolic acid dày, sáp bảo vệ nó khỏi những độc chất mà tế bào sản sinh. M. tuberculosis có thể sinh sôi bên trong đại thực bào và cuối cùng tiêu diệt đại thực bào.
+Vị trí nhiễm khuẩn đầu tiên ở phổi gọi là tụ điểm Ghon nhìn chung nằm ở phần trên của thùy dưới hoặc phần dưới của thùy trên. Lao phổi còn có thể xảy ra do nhiễm trùng từ dòng máu tại vị trí được gọi là tụ điểm Simon thường thấy ở đỉnh phổi. Thông qua đường máu vi khuẩn còn có thể lan đến những địa điểm xa hơn như hạch ngoại vi, thận, não, và xương. Căn bệnh có thể tác động đến mọi bộ phận của cơ thể, dù vậy nó hiếm khi ảnh hưởng đến tim, cơ xương, tụy, hay giáp.
+
+Lao được xếp vào nhóm các bệnh viêm u hạt. Đại thực bào, tế bào dạng biểu mô, tế bào T, tế bào B, và nguyên bào sợi tập hợp hình thành nên u hạt với bạch huyết bào bao quanh đại thực bào bị nhiễm. Khi những đại thực bào khác tấn công đại thực bào bị nhiễm, chúng hợp nhất thành một tế bào đa nhân khổng lồ trong khoang phế nang. U hạt có thể ngăn vi khuẩn phát tán và tạo môi trường cục bộ cho các tế bào của hệ miễn dịch tương tác. Tuy nhiên, chứng cứ gần đây hơn gợi ý vi khuẩn lợi dụng u hạt để tránh né bị hệ miễn dịch của vật chủ tiêu diệt. Đại thực bào và tế bào tua trong u hạt không thể trình diện kháng nguyên đến bạch huyết bào nên phản ứng miễn dịch bị kìm hãm. Vi khuẩn bên trong u hạt có thể trở nên bất hoạt dẫn đến nhiễm khuẩn tiềm ẩn. Một đặc điểm khác của u hạt là hoại tử phát triển ở tâm của nốt lao. Nhìn bằng mắt thường nó trông như phô mai trắng mềm và được gọi là hoại tử phô mai.
+Nếu vi khuẩn lao xâm nhập dòng máu từ một vùng mô bị nhiễm khuẩn thì chúng có thể lan ra khắp cơ thể và tạo ra nhiều tụ điểm nhiễm khuẩn có dạng nốt trắng nhỏ ở mô. Dạng lao nghiêm trọng này được gọi là lao kê phổ biến nhất ở trẻ em và người nhiễm HIV. Tỷ lệ tử vong đối với lao dạng lan tỏa này là cao kể cả có chữa trị (khoảng 30%).
+Ở nhiều người, tình trạng nhiễm khuẩn lúc nặng lên lúc thuyên giảm. Hoại tử và sự hủy hoại mô thường được cân bằng bởi chữa lành và xơ hóa. Thế chỗ mô bị tác động là sẹo và các khoang chứa đầy vật chất hoại tử màu trắng giống như phô mai. Trong thời gian bệnh phát tác (lao hoạt tính), một số khoang này nhập vào đường khí và vật chất có thể được ho ra. Vật chất chứa vi khuẩn sống nên có thể làm lây bệnh. Chữa trị bằng kháng sinh phù hợp giúp diệt vi khuẩn tạo điều kiện cho sự phục hồi diễn ra. Khi ấy những vùng bị tác động cuối cùng sẽ được mô sẹo thay thế.
+
+
+== Ngăn ngừa ==
+Các nỗ lực ngăn ngừa và kiểm soát bệnh lao chủ yếu dựa trên việc tiêm phòng cho trẻ sơ sinh cũng như phát hiện và điều trị bệnh nhân lao hoạt tính. Tổ chức Y tế Thế giới (WHO) đã đã đạt được những thành công nhất định trong việc cải thiện phác đồ điều trị cũng như làm giảm số ca bệnh.
+
+
+=== Vắc-xin ===
+
+Tính đến  năm 2011, chỉ có một vắc-xin phòng lao duy nhất là Bacillus Calmette-Guérin (BCG). Ở trẻ em, vắc xin này làm giảm 20% nguy cơ nhiễm bệnh và gần 60% nguy cơ lao tiềm ẩn tiến triển thành lao hoạt tính.
+BCG là vắc-xin được sử dụng rộng rãi nhất trên thế giới; 90% tất cả trẻ em đã được tiêm vắc-xin này. Khả năng miễn dịch mà vắc-xin mang lại giảm đi sau khoảng 10 năm. Ở Canada, Tây Âu và Hoa Kỳ, lao không phải là một bệnh phổ biến nên chỉ những người có nguy cơ mắc bệnh cao mới được tiêm vắc-xin BCG. Một trong những lý do cho việc hạn chế sử dụng vắc-xin này là nó khiến xét nghiệm Mantoux cho kết quả dương tính giả và làm giảm tác dụng của xét nghiệm này trong việc tầm soát lao. Một số vắc-xin khác đang được phát triển.
+Việc kết hợp vắc-xin BCG với vắc-xin MVA85A không có hiệu quả trong việc phòng bệnh lao.
+
+
+=== Y tế công cộng ===
+Trong thế kỷ 19, các chiến dịch y tế công cộng tập trung vào việc giảm thiểu tụ tập đông người và khạc nhổ nơi công cộng cũng như khuyến khích vệ sinh cá nhân thường xuyên (trong đó có rửa tay) đã được triển khai và giúp làm giảm đáng kể sự lây lan của lao nói riêng và các bệnh lây truyền qua không khí nói chung. Nhờ đó, lao đã không còn là một vấn đề y tế công cộng lớn ở hầu hết các nền kinh tế phát triển vào cuối thế kỷ 20. Các yếu tố nguy cơ khác khiến bệnh lao lan rộng, chẳng hạn như suy dinh dưỡng, cũng đã được giảm thiểu. Tuy nhiên, sự xuất hiện của HIV đã hình thành nên một nhóm đối tượng bị suy giảm miễn dịch dễ dàng bị nhiễm lao.
+Năm 1993, Tổ chức Y tế Thế giới (WHO) tuyên bố lao là một "tình trạng y tế khẩn cấp toàn cầu". Năm 2006, tổ chức Stop TB Partnership xây dựng Kế hoạch Ngăn chặn Lao Toàn cầu với mục tiêu cứu được 14 triệu mạng sống từ khi kế hoạch này khởi động đên năm 2015. Tuy nhiên, đến năm 2015, kế hoạch này đã không đạt được một số mục tiêu đặt ra, chủ yếu do sự gia tăng các ca lao liên quan đến HIV và sự xuất hiện của chủng lao kháng nhiều loại thuốc. Các chương trình y tế công cộng chủ yếu sử dụng hệ thống phân loại lao do Hiệp hội Lồng ngực Hoa Kỳ phát triển.
+Chưa rõ việc sử dụng thuốc trị lao ở người mắc lao kháng nhiều loại thuốc mang lại lợi ích cũng như nguy cơ gì. Việc cung cấp liệu pháp HAART cho bệnh nhân lao dương tính với HIV làm giảm đáng kể (tới 90%) nguy cơ lao tiềm ẩn tiến triển thành lao hoạt tính cũng như hạn chế bệnh phát tán trong cộng đồng những người mang HIV.
+
+
+== Điều trị ==
+
+Lao được điều trị bằng cách sử dụng kháng sinh để tiêu diệt vi khuẩn. Việc điều trị lao thường khó hiệu quả bởi cấu trúc và thành phần hóa học bất thường của vách tế bào vi khuẩn gây lao khiến thuốc khó xâm nhập và làm cho nhiều loại kháng sinh không có hiệu quả.
+Bệnh lao hoạt tính được điều trị bằng cách sử dụng kết hợp một số loại kháng sinh nhằm giảm nguy cơ vi khuẩn gây bệnh trở nên kháng thuốc. Chưa rõ việc sử dụng rifabutin thay cho rifampicin ở bệnh nhân lao dương tính với HIV có mang lại lợi ích gì hay không (tính đến  năm 2007).
+
+
+=== Lao tiềm ẩn ===
+Lao tiềm ẩn được điều trị bằng một trong hai loại thuốc isoniazid và rifampin, hoặc kết hợp isoniazid với một trong hai loại thuốc rifampicin và rifapentine.
+Phác đồ điều trị có thể kéo dài từ 3 đến 9 tháng tùy theo loại thuốc được chỉ định. Việc điều trị lao tiềm ẩn có mục đích ngăn bệnh không tiến triển thành lao hoạt tính trong tương lai.
+Giáo dục nhận thức hoặc tư vấn tâm lý có thể cải thiện tỷ lệ hoàn thành việc điều trị lao tiềm ẩn.
+
+
+=== Lao hoạt tính vừa khởi phát ===
+Phác đồ điều trị đối với bệnh lao hoạt tính vừa khởi phát, tính đến  năm 2010, kéo dài 6 tháng, trong đó bệnh nhân sử dụng kết hợp thuốc kháng sinh chứa rifampicin, isoniazid, pyrazinamide và ethambutol trong 2 tháng đầu tiên, và chỉ sử dụng rifampicin và isoniazid trong 4 tháng còn lại. Nếu bệnh nhân kháng thuốc với isoniazid, có thể thay thế bằng ethambutol trong giai đoạn thứ hai. Việc sử dụng thuốc trị lao trong thời gian ít nhất 6 tháng có tỷ lệ chữa khỏi cao hơn việc điều trị trong thời gian ít hơn 6 tháng; mặc dù sự khác biệt này không quá lớn. Các bệnh nhân gặp vấn đề trong việc tuân thủ điều trị có thể cần được chỉ định phác đồ ngắn hơn. Cũng không có bằng chứng nào cho thấy phác đồ điều trị ngắn có hiệu quả hơn phác đồ điều trị 6 tháng.
+
+
+=== Lao tái phát ===
+Nếu bệnh tái phát, cần xét nghiệm để xác định vi khuẩn lao nhạy cảm với loại kháng sinh nào trước khi quyết định cách điều trị. Trong trường hợp phát hiện lao kháng nhiều loại thuốc (tiếng Anh: multiple drug-resistant tuberculosis, hay MDR-TB), người bệnh sẽ cần sử dụng ít nhất 4 loại kháng sinh có hiệu quả trong thời gian từ 18 đến 24 tháng.
+
+
+=== Lao kháng thuốc ===
+Bệnh nhân lao có thể gặp phải tình trạng kháng thuốc sơ cấp khi nhiễm chủng lao kháng thuốc, hoặc kháng thuốc thứ cấp khi nhiễm chủng lao không kháng thuốc nhưng lại hình thành sự kháng thuốc khi điều trị do phác đồ điều trị không đủ hiệu quả, không tuân thủ phác đồ điều trị hoặc sử dụng thuốc kém chất lượng. Khả năng kháng thuốc của vi khuẩn lao là một vấn đề y tế công cộng nghiêm trọng ở nhiều quốc gia đang phát triển, bởi bệnh nhân kháng thuốc cần được điều trị lâu hơn và dùng các loại thuốc đắt tiền hơn. Nếu người bệnh mắc loại vi khuẩn lao kháng hai loại thuốc điều trị được ưu tiên sử dụng hàng đầu là rifampicin và isoniazid, họ được xem là mắc lao kháng nhiều loại thuốc hay MDR-TB. Nếu người bệnh cũng kháng từ ba trong sáu loại thuốc được ưu tiên điều trị thứ hai trở lên thì được xem là mắc lao kháng thuốc diện rộng (tiếng Anh: extensively resistant tuberculosis, hay XDR-TB). Trường hợp đầu tiên kháng tất cả các loại thuốc đang được sử dụng được ghi nhận vào năm 2003 ở Ý, nhưng đến năm 2012 mới được công bố rộng rãi. Các trường hợp khác cũng đã được ghi nhận ở Iran và Ấn Độ. Bedaquiline đã bước đầu cho thấy hiệu quả trong việc điều trị lao kháng nhiều loại thuốc.
+Cứ 10 ca MDR-TB thì có một ca XDR-TB. Các ca XDR-TB đã được ghi nhận ở hơn 90% tất cả các quốc gia trên thế giới. Việc sử dụng linezolid để điều trị XDR-TB có thể mang lại hiệu quả nhất định nhưng thường gây ra tác dụng phụ và khi đó người bệnh thường phải ngưng dùng thuốc.
+
+
+== Tiên lượng ==
+Lao tiềm ẩn tiến triển thành lao hoạt tính khi vi khuẩn lao vượt qua được hàng rào bảo vệ của hệ miễn dịch và bắt đầu sinh sôi. Điều này xảy ra không lâu sau khi người bệnh nhiễm vi khuẩn đối với các ca lao sơ cấp (chiếm từ 1–5% tổng số ca bệnh lao). Tuy nhiên, trong hầu hết trường hợp, lao tiềm ẩn không thể hiện triệu chứng rõ rệt nào, và chỉ 5–10% số ca bệnh lao tiềm ẩn tiến triển thành lao hoạt tính, thường là nhiều năm sau khi người bệnh bị nhiễm vi khuẩn.
+Nguy cơ bệnh tái phát sẽ cao hơn ở người bệnh bị ức chế miễn dịch, chẳng hạn như do bị mắc HIV. Khi người bệnh đồng thời nhiễm M. tuberculosis và HIV, nguy cơ lao tái phát tăng lên 10% mỗi năm. Nghiên cứu được thực hiện trên các chủng M. tuberculosis khác nhau bằng cách lập hồ sơ DNA cho thấy việc tái nhiễm vi khuẩn lao có tác động lớn hơn đến khả năng bệnh tái phát so với những hiểu biết trước đó. Theo một số ước tính, ở các khu vực mà lao là một bệnh phổ biến, điều này có thể chiếm hơn 50% số ca lao tái phát. Nguy cơ tử vong do lao rơi vào khoảng 4% tính đến  năm 2008, so với con số 8% vào năm 1995.
+Ở bệnh nhân lao không dương tính với HIV, nếu không được điều trị, 50-60% sẽ tử vong còn 20-25% tự khỏi bệnh sau 5 năm. Ở bệnh nhân dương tính với HIV, lao gần như chắc chắn sẽ gây tử vong và nguy cơ tử vong vẫn cao ngay cả khi người bệnh được điều trị HIV bằng thuốc kháng retrovirus.
+
+
+== Lịch sử ==
+
+Trong suốt lịch sử, bệnh lao đã được biết đến với nhiều tên gọi khác nhau như "bệnh phthisis" và "bệnh dịch hạch trắng". Người ta thường chấp nhận rằng tác nhân gây bệnh, vi khuẩn Mycobacterium tuberculosis có nguồn gốc từ các vi khuẩn nguyên thủy khác thuộc cùng một chi Mycobacterium. Năm 2014, kết quả của một nghiên cứu DNA mới về bộ gen bệnh lao được tái tạo lại từ hài cốt ở miền nam Peru cho thấy rằng bệnh lao xuất hiện ở người dưới 6.000 năm trước. Ngay cả khi các nhà nghiên cứu đưa ra giả thuyết rằng con người mắc bệnh này lần đầu tiên ở châu Phi khoảng 5.000 năm trước,, vẫn có bằng chứng cho thấy ca nhiễm bệnh lao đầu tiên đã xảy ra cách đây khoảng 9.000 năm. Nó lây lan sang người khác dọc theo các con đường thương mại. Nó cũng lây lan sang các động vật được thuần hóa ở châu Phi, chẳng hạn như dê và bò. Hải cẩu và sư tử biển sinh sản trên các bãi biển châu Phi được cho là đã mắc bệnh và mang nó qua Đại Tây Dương đến Nam Mỹ. Những người thợ săn hải cẩu sẽ là những người đầu tiên mắc bệnh ở đó.
+
+
+=== Nguồn gốc ===
+Công trình khoa học điều tra nguồn gốc tiến hóa của các chủng vi khuẩn Mycobacterium tuberculosis đã kết luận rằng tổ tiên chung gần đây nhất của nhóm này là một mầm bệnh cụ thể ở người, đã trải qua một đợt thắt cổ chai dân số. Việc phân tích các đơn vị lặp đi lặp lại xen kẽ của mycobacteria đã cho phép xác định niên đại của nút cổ chai cách đây khoảng 40.000 năm, tương ứng với thời kỳ tiếp theo sự mở rộng của loài người hiện đại (Homo sapiens sapiens) ra khỏi châu Phi. Việc phân tích các đơn vị lặp đi lặp lại xen kẽ của mycobacterium cũng xác định niên đại của dòng Mycobacterium bovis đã phân tán khoảng 6.000 năm trước, có thể liên quan đến quá trình thuần hóa động vật và nuôi trồng sơ khai.
+Xương người từ thời đồ đá mới cho thấy sự hiện diện của vi khuẩn. Cũng đã có tuyên bố về các bằng chứng cho thấy tổn thương đặc trưng của bệnh lao trong hóa thạch của người Homo erectus cách đây 500.000 năm, mặc dù phát hiện này còn gây tranh cãi.
+Kết quả của một nghiên cứu về gen được báo cáo vào năm 2014 cho thấy rằng bệnh lao xuất hiện gần đây hơn những gì người ta nghĩ trước đây. Các nhà khoa học đã có thể tái tạo bộ gen của vi khuẩn từ hài cốt của những bộ xương 1.000 năm tuổi ở miền nam Peru. Khi xác định niên đại của DNA, họ phát hiện ra nó chưa đầy 6.000 năm tuổi. Họ cũng phát hiện ra nó có liên quan gần nhất với một chủng vi khuẩn lao ở hải cẩu và đã đưa ra giả thuyết rằng những con vật này là phương thức truyền bệnh từ Châu Phi sang Nam Mỹ. Nhóm nghiên cứu từ Đại học Tübingen tin rằng con người mắc phải căn bệnh này ở Châu Phi khoảng 5.000 năm trước. Động vật thuần hóa của người châu Phi, chẳng hạn như dê và bò, đã lây bệnh từ họ. Hải cẩu lây nhiễm nó khi đến các bãi biển châu Phi để sinh sản, và mang theo nó khi bơi qua Đại Tây Dương. Ngoài ra, bệnh lao còn lây lan qua người trên các con đường thương mại của Cựu thế giới (châu Á, châu Âu và châu Phi). Các nhà nghiên cứu khác đã lập luận rằng có bằng chứng khác cho thấy vi khuẩn lao đã tồn tại lâu hơn 6.000 năm. Chủng lao tìm thấy ở Peru này khác với chủng lao phổ biến ngày nay ở châu Mỹ, có liên quan chặt chẽ hơn với chủng bệnh Âu-Á sau này có khả năng do thực dân châu Âu mang đến. Tuy nhiên, kết quả này bị chỉ trích bởi các chuyên gia khác trong lĩnh vực này, chẳng hạn như có bằng chứng về sự hiện diện của vi khuẩn Mycobacterium tuberculosis trong các bộ xương 9.000 năm tuổi.
+Mặc dù tương đối ít thông tin về tần suất xuất hiện của nó trước thế kỷ 19, nhưng tỷ lệ mắc bệnh của nó được cho là đã đạt đến đỉnh điểm từ cuối thế kỷ 18 đến cuối thế kỷ 19. Theo thời gian, các nền văn hóa khác nhau trên thế giới đã đặt cho căn bệnh những cái tên khác nhau: phthisis (tiếng Hy Lạp) consumptio (Latin), yaksma (Ấn Độ), và chaky oncay (Inca), mỗi cái tên đều ám chỉ đến triệu chứng suy kiệt dần dần do căn bệnh.
+Vào thế kỷ 19, tỷ lệ tử vong cao của bệnh lao ở thanh niên và trung niên cùng với sự gia tăng của Chủ nghĩa lãng mạn, vốn làm căng thẳng cảm xúc hơn lý trí, khiến nhiều người gọi căn bệnh này là "bệnh lãng mạn".
+
+
+=== Bệnh lao trong các nền văn minh sơ khai ===
+
+Năm 2008, bằng chứng về sự lây nhiễm bệnh lao đã được phát hiện trong hài cốt người từ thời kỳ đồ đá mới có niên đại từ 9.000 năm trước, ở Atlit Yam, một khu định cư ở phía đông Địa Trung Hải. Phát hiện này đã được xác nhận bằng các phương pháp hình thái học và phân tử; cho đến nay nó là bằng chứng lâu đời nhất về sự lây nhiễm bệnh lao ở người.
+Bằng chứng về sự lây nhiễm ở người cũng được tìm thấy trong một nghĩa trang gần Heidelberg, trong một bộ xương thời đồ đá mới cho thấy bằng chứng về kiểu đau thắt lưng thường thấy gắn với bệnh lao cột sống. Một số tác giả gọi bệnh lao là căn bệnh đầu tiên được nhân loại biết đến.
+Dấu hiệu của căn bệnh này cũng đã được tìm thấy trong các xác ướp Ai Cập có niên đại từ năm 3.000 đến 2.400 trước Công nguyên. Trường hợp thuyết phục nhất được tìm thấy trong xác ướp của linh mục Nesperehen, được Grebart phát hiện năm 1881, trong đó có bằng chứng về bệnh lao cột sống với các ổ áp xe đặc trưng Các đặc điểm tương tự cũng được phát hiện trên các xác ướp khác như của linh mục Philoc và khắp các nghĩa trang của Thebes. Có vẻ như vua Akhenaten và vợ là Nefertiti đều chết vì bệnh lao, và bằng chứng chỉ ra rằng các bệnh viện điều trị bệnh lao đã tồn tại ở Ai Cập từ năm 1500 trước Công nguyên
+Trong Giấy cói Ebers, một chuyên luận y học quan trọng của Ai Cập từ khoảng năm 1550 trước Công nguyên, mô tả sự tổn thương ở phổi. Khuyến cáo rằng nó cần được điều trị bằng cách phẫu thuật và áp dụng một hỗn hợp của cây keo, đậu Hà Lan, trái cây, máu động vật, máu côn trùng, mật ong và muối.
+Kinh Thánh Cựu Ước đề cập đến một căn bệnh gây suy kiệt sẽ ảnh hưởng đến người Do Thái nếu họ đi lạc khỏi Đức Chúa Trời. Nó được liệt kê trong phần những lời nguyền rủa được đưa ra trước khi họ vào đất Ca-na-an.
+
+
+=== Phương đông ===
+
+
+==== Ấn Độ cổ đại ====
+Các tài liệu tham khảo đầu tiên về bệnh lao trong các nền văn minh ngoài châu Âu được tìm thấy trong kinh Veda. Sách cổ nhất trong số đó (Rigveda, khoảng 1500 TCN) gọi đây là bệnh yaksma. Atharvaveda gọi nó là balasa. Trong Atharvaveda, mô tả đầu tiên về scrofula được đưa ra. The Sushruta Samhita, được viết vào khoảng năm 600 trước Công nguyên, khuyến cáo rằng bệnh cần được điều trị bằng sữa mẹ, các loại thịt khác nhau, rượu và nghỉ ngơi. Yajurveda khuyên rằng những người bị bệnh nên di chuyển lên độ cao lớn hơn.
+
+
+==== Trung Hoa cổ đại ====
+Văn bản y học cổ điển của Trung Quốc Huangdi Neijing (khoảng năm 400 TCN - 260 CN), theo truyền thống được cho là của vị vua thần thoại Hoàng đế, mô tả một căn bệnh được gọi là "bệnh ho lao" (虛 癆病), đặc trưng bởi ho dai dẳng, xuất hiện bất thường, sốt, mạch yếu và nhanh, chướng ngực và khó thở. Nó được mô tả là thuốc không mang lại hiệu quả chữa trị; châm cứu cũng không thể chữa khỏi [bệnh]
+"Sổ tay kê đơn cho trường hợp khẩn cấp", của học giả Đạo giáo Ge Hong (263–420), sử dụng cái tên shizhu 尸疰, tức là "bệnh xác chết; bệnh lao" và mô tả các triệu chứng và sự lây lan: "Bệnh này có nhiều triệu chứng thay đổi khác nhau, từ ba mươi sáu đến chín mươi chín loại khác nhau. Nói chung là phát sốt cao, vã mồ hôi, suy nhược, đau vùng da bao quy đầu, làm mọi vị trí đều ốm yếu. Dần dần, sau nhiều tháng mắc phải, căn bệnh mang lại cái chết cho người mắc phải và sau đó nó lây sang người khác cho đến khi cả gia đình bị xóa sổ."
+Thời nhà Tống (920–1279), các tu sĩ kiêm bác sĩ Đạo giáo lần đầu tiên ghi lại rằng bệnh lao, được gọi là shīzhài 尸瘵 ("bệnh xác chết") "bệnh biến một sinh vật thành xác chết", là do lây nhiễm một loại ký sinh trùng cụ thể hoặc mầm bệnh, sớm hơn nhiều thế kỷ so với các đồng nghiệp cùng thời của họ ở các nước khác.
+Ngoài ra, những bác sĩ Đạo giáo sẽ đốt những lá bùa để "tẩy trùng" quần áo và đồ đạc của người đã chết vì bệnh lao, và sẽ cảnh báo gia đình nạn nhân bệnh lao rằng hãy vứt bỏ mọi thứ đồ dùng bởi lý do phong thủy. Theo Liu Ts'un-yan, "Điều này chứng tỏ rằng các tu sĩ thời đó thực sự muốn phá hủy tất cả đồ đạc của người đã khuất (để ngăn chặn sự lây nhiễm cho người khác), họ sử dụng bùa chú như một thứ ngụy trang."
+
+
+=== Thời cổ đại ===
+
+Hippocrates, trong Quyển 1 của bộ sách "Bệnh dịch", mô tả các đặc điểm của bệnh: sốt, nước tiểu không màu, ho dẫn đến nước dãi, mất cảm giác khát và thèm ăn. Ông lưu ý rằng hầu hết những người mắc phải đều trở nên mê sảng trước khi họ chết do căn bệnh này. Hippocrates và nhiều người khác vào thời điểm đó tin rằng "bệnh phthisis" là do di truyền một cách tự nhiên. Aristotle không đồng ý, ông tin rằng căn bệnh này có thể lây lan.
+Pliny Trẻ đã viết một bức thư cho Priscus, trong đó anh kể chi tiết các triệu chứng của bệnh phthisis khi anh nhìn thấy chúng ở Fannia:
+
+Những cơn sốt đeo bám cô ấy, cơn ho ngày càng nhiều, cô ấy tiều tụy và kiệt sức ở mức độ cao nhất.
+
+Galen đã đề xuất một loạt các phương pháp điều trị căn bệnh này, bao gồm: thuốc phiện làm thuốc ngủ và thuốc giảm đau; trích máu; chế độ ăn kiêng với nước lúa mạch, cá và trái cây. Ông cũng mô tả phyma (khối u) của phổi, được cho là tương ứng với các nốt lao hình thành trên phổi do hậu quả của căn bệnh này.
+Vitruvius lưu ý triệu chứng "lạnh trong khí quản, ho, sưng tấy, ho, khạc đờm, [và] khạc ra máu", và đây là những căn bệnh phổ biến ở những vùng có gió thổi từ bắc sang tây bắc, và khuyên rằng nên xây tường để che chắn cho các cá nhân khỏi gió
+Aretaeus là người đầu tiên mô tả một cách chặt chẽ các triệu chứng của căn bệnh này trong văn bản của mình De causis et signis diuturnorum morborum:
+
+Giọng khàn; cổ hơi cong, mềm, không linh hoạt, có phần dài ra; ngón tay mảnh khảnh nhưng khớp dày; hình hài chỉ còn lại xương xẩu, vì những phần thịt đã bị teo tóp; các ngón tay cong queo, mạch máu co rút, phẳng lì... Mũi nhọn, thanh mảnh; má nổi rõ và đỏ; mắt trống rỗng và long lanh; sưng, nhợt nhạt hoặc chảy nước mắt; các phần mảnh mai của hàm lộ ra răng như thể đang cười...
+
+Trong cuốn sách khác của mình "De curatione diuturnorum morborum", ông khuyến cáo những người mắc bệnh phải đi du lịch ở độ cao lớn, đi du lịch bằng đường biển, ăn uống đầy đủ và uống nhiều sữa.
+
+
+=== Châu Mỹ tiền Colombus ===
+Tại Nam Mỹ, một nghiên cứu vào tháng 8 năm 2014 cho thấy rằng bệnh lao có khả năng lây lan qua những con hải cẩu đã mắc bệnh trên các bãi biển của châu Phi (lây từ người hoặc động vật thuần hóa) rồi mang nó qua Đại Tây Dương. Một nhóm nghiên cứu tại Đại học Tübingen đã phân tích DNA của vi khuẩn lao trong các bộ xương 1.000 năm tuổi của nền văn hóa Chiribaya ở miền nam Peru; rất nhiều vật chất di truyền đã được phục hồi để họ có thể tái tạo lại bộ gen. Họ biết được rằng chủng lao này có quan hệ gần nhất với một dạng chỉ có ở hải cẩu. Ở Nam Mỹ, những người có khả năng bị nhiễm bệnh đầu tiên là những thợ săn xử lý thịt bị nhiễm vi khuẩn. Chủng lao này là một chủng khác với chủng phổ biến ngày nay ở Châu Mỹ, có liên quan chặt chẽ hơn với chủng Âu-Á sau này.
+Trước nghiên cứu này, bằng chứng đầu tiên về căn bệnh này ở Nam Mỹ đã được tìm thấy trong những di tích của nền văn hóa Arawak vào khoảng năm 1050 trước Công nguyên. Phát hiện quan trọng nhất thuộc về xác ướp của một đứa trẻ Nascan từ 8 đến 10 tuổi ở Hacienda Agua Sala, có niên đại năm 700 sau Công nguyên. Các nhà khoa học đã có thể phân lập bằng chứng về loại vi khuẩn này.
+
+
+=== Châu Âu: Thời Trung cổ và Phục hưng ===
+Trong suốt thời Trung cổ, không có tiến bộ đáng kể nào liên quan đến bệnh lao. Avicenna và Rhazes tiếp tục cân nhắc để tin rằng căn bệnh này vừa dễ lây vừa khó điều trị. Arnaldus de Villa Nova đã mô tả lý thuyết nguyên nhân gây bệnh liên quan trực tiếp đến lý thuyết của Hippocrates, theo đó một luồng khí lạnh đã truyền từ đầu vào phổi.
+Ở Hungary thời Trung cổ, Tòa án Dị giáo đã ghi lại những thử thách của những người ngoại giáo. Một tài liệu từ thế kỷ 12 đã ghi lại lời giải thích về nguyên nhân gây bệnh. Những người ngoại đạo nói rằng bệnh lao được sinh ra khi một con quỷ hình con chó chiếm giữ cơ thể người đó và bắt đầu ăn phổi của người đó. Khi người bị ám ho, thì con quỷ sẽ sủa và đến gần mục tiêu của nó, đó là giết nạn nhân.
+
+
+==== Gia ân hoàng gia ====
+
+Thời trung cổ, các vị vua được coi là những nhân vật tôn giáo có sức mạnh ma thuật hoặc chữa bệnh. Người ta tin rằng khi chạm vào vị vua của Anh hoặc Pháp, có thể chữa khỏi bệnh do "sự thiêng liêng của nền quân chủ". Vua Henry IV của Pháp thường cử hành nghi thức mỗi tuần một lần, sau khi rước lễ. Thực hành chữa bệnh hoàng gia này rất phổ biến ở Pháp, đến nỗi bệnh lao được gọi là "mal du roi" hoặc "Ác ma của nhà vua".
+Đến thời Louis XIV của Pháp, những tấm bảng chỉ dẫn ngày và giờ mà Nhà vua sẽ có mặt để tiếp xúc với người dân đã được đăng thường xuyên; một số tiền đã được trích ra làm hỗ trợ từ thiện. Ở Anh, quy trình này cực kỳ chính thức và hiệu quả. Cuối năm 1633, Sách Cầu nguyện chung của Nhà thờ Anh giáo có ghi cách tổ chức một buổi lễ Cảm ứng Hoàng gia. Quốc vương (vua hoặc hoàng hậu), ngồi trên ngai vàng được trang hoàng, chạm vào người bệnh đau khổ và trao cho người đó một đồng xu - thường là một "đồng xu Thiên thần", một đồng tiền vàng có giá trị thay đổi từ khoảng 6 shilling đến khoảng 10 shilling - bằng cách ấn nó vào cổ người bệnh.
+Mặc dù nghi lễ này không có tác dụng về mặt y học, nhưng các thành viên của triều đình thường tuyên truyền rằng những người nhận được "gia ân hoàng gia" đều được chữa lành một cách kỳ diệu. André du Laurens, bác sĩ cấp cao của Henry IV, đã công bố công khai những phát hiện rằng ít nhất một nửa trong số những người nhận được gia ân hoàng gia đã được chữa khỏi trong vòng vài ngày. Buổi lễ này vẫn phổ biến cho đến thế kỷ 18. Sổ đăng ký của giáo xứ từ Oxfordshire, Anh quốc không chỉ bao gồm hồ sơ về các cuộc rửa tội, hôn nhân và cái chết, mà còn cả hồ sơ của những người đủ điều kiện để được tiếp xúc với hoàng gia.
+
+
+==== Lây nhiễm ====
+Trong tác phẩm De contagione năm 1546, Girolamo Fracastoro trở thành người đầu tiên đề xuất rằng "bệnh phthisis" được lan truyền bởi một loại mầm bệnh vô hình. Trong số những khẳng định của ông là việc mầm bệnh có thể tồn tại từ hai đến ba năm trên quần áo của những người mắc bệnh và nó thường lây truyền qua tiếp xúc trực tiếp hoặc chất dịch thải ra của người bị nhiễm. Ông lưu ý rằng bệnh phthisis có thể lây nhiễm mà không cần tiếp xúc trực tiếp, nhưng ông không chắc chắn về quá trình bệnh lây truyền qua những khoảng cách không gian nhất định.
+Paracelsus thì lại tin rằng bệnh lao là sự rối loạn do một cơ quan nội tạng không thể hoàn thành chức năng của nó. Khi điều này xảy ra trong phổi, kết tủa dạng rắn sẽ phát triển gây ra bệnh lao mà ông gọi là "quá trình tartaric".
+
+
+==== Thế kỷ 17 và 18 ====
+Tỷ lệ mắc bệnh lao tăng dần trong thời Trung cổ và Phục hưng, trở nên phổ biến hơn bệnh phong, đạt đỉnh điểm giữa thế kỷ 18 và 19 khi những người nông dân chuyển đến các thành phố để tìm việc làm. Khi công bố nghiên cứu của mình vào năm 1808, William Woolcombe đã rất ngạc nhiên về sự phổ biến của bệnh lao ở Anh vào thế kỷ 18. Trong số 1.571 trường hợp tử vong ở thành phố Bristol của Anh từ năm 1790 đến 1796, có 683 người là do bệnh lao. Các thị trấn hẻo lánh, ban đầu bị cô lập khỏi dịch bệnh, dần dần bị lây nhiễm. Những cái chết do lao ở làng Holycross ở Shropshire giữa năm 1750 và 1759 chiếm 1/6 số người chết; mười năm sau là 1/3. Ở thủ đô London, tỷ lệ 1/7 chết vì bệnh lao vào đầu thế kỷ 18, đến năm 1750, tỷ lệ đó tăng lên 1/5,25 và tăng lên 1/4,2 vào khoảng đầu thế kỷ 19. Cuộc Cách mạng Công nghiệp khiến mật độ dân số tại các thành phố tăng lên, cùng với nghèo đói và bệnh tật đã tạo ra môi trường tối ưu cho sự lây lan của căn bệnh này.
+
+
+=== Thế kỷ 19 ===
+
+
+==== Dịch bệnh lao ====
+Vào thế kỷ 18 và 19, bệnh lao (TB) đã trở thành dịch bệnh ở châu Âu, xuất hiện theo mùa. Vào thế kỷ 18, bệnh lao có tỷ lệ tử vong cao tới 900 ca tử vong (800 – 1000) trên 100.000 dân mỗi năm ở Tây Âu, bao gồm cả ở những nơi như London, Stockholm và Hamburg. Tỷ lệ tử vong tương tự cũng xảy ra ở Bắc Mỹ. Tại Vương quốc Anh, dịch lao có thể đạt đỉnh vào khoảng năm 1750, theo phân tích từ dữ liệu tử vong.
+Vào thế kỷ 19, bệnh lao đã giết chết khoảng một phần tư dân số trưởng thành của châu Âu. Ở Tây Âu lục địa, dịch lao có thể đã đạt đến đỉnh điểm vào nửa đầu thế kỷ 19. Ngoài ra, từ năm 1851 đến năm 1910, khoảng 4 triệu người chết vì bệnh lao ở Anh và xứ Wales - hơn 1/3 số người từ 15 đến 34 tuổi và một nửa số người từ 20 đến 24 tuổi chết vì bệnh lao. Vào cuối thế kỷ 19, 70–90% dân số thành thị ở châu Âu và Bắc Mỹ đã bị nhiễm vi khuẩn Mycobacterium tuberculosis, và khoảng 80% những người mà vi khuẩn phát triển thành bệnh lao hoạt động đã chết vì nó Tuy nhiên, tỷ lệ tử vong bắt đầu giảm vào cuối thế kỷ 19 trên khắp châu Âu và Hoa Kỳ.
+Vào thời điểm đó, bệnh lao được gọi là "kẻ cướp đi tuổi trẻ", vì căn bệnh này có tỷ lệ tử vong ở những người trẻ tuổi cao hơn. Các tên khác bao gồm "Đại dịch hạch trắng" và "Cái chết trắng", trong đó "màu trắng" là do tình trạng xanh xao vì thiếu máu của những người bị nhiễm bệnh. Ngoài ra, TB còn được nhiều người gọi là "Đội trưởng của Tất cả những kẻ chết chóc".
+
+
+==== Căn bệnh lãng mạn ====
+
+Trong thế kỷ này, bệnh lao được mệnh danh là Bệnh dịch trắng, mal de vivre, và mal du siècle. Nó được xem là một "căn bệnh lãng mạn". Mắc bệnh lao được cho là nguyên nhân khiến người mắc phải tăng thêm độ nhạy cảm. Sự tiến triển chậm của căn bệnh cho phép một "cái chết an lành" vì những người mắc bệnh có thể sắp xếp công việc của họ Căn bệnh này bắt đầu đại diện cho sự thuần khiết về mặt tinh thần và sự giàu có về mặt vật chất, khiến nhiều phụ nữ trẻ, thuộc tầng lớp thượng lưu có chủ đích làm tái xanh làn da của họ để đạt được vẻ ngoài mong manh. Nhà thơ người Anh Lord Byron đã viết, "Tôi nên chết vì lao", giúp phổ biến căn bệnh được coi là bệnh của các nghệ sĩ. George Sand nói về người tình của cô, nhạc sĩ Frédéric Chopin, là "thiên thần sầu muộn tội nghiệp".
+Ở các thành phố lớn, tỷ lệ người nghèo mắc bệnh lao là rất cao do điều kiện sống chật chội, thiếu vệ sinh và suy dinh dưỡng ở tầng lớp này. Các bác sĩ y tế công cộng và các chính trị gia thường đổ lỗi cho cả bản thân người nghèo và những ngôi nhà tập thể xiêu vẹo của họ là nguyên nhân lây lan căn bệnh đáng sợ. Mọi người phớt lờ các chiến dịch y tế công cộng để hạn chế sự lây lan của các bệnh truyền nhiễm, chẳng hạn như cấm khạc nhổ trên đường phố, các hướng dẫn nghiêm ngặt về chăm sóc trẻ sơ sinh và trẻ nhỏ, và việc cách ly gia đình khỏi những người thân bị bệnh.
+
+
+==== Tiến bộ khoa học ====
+Mặc dù bị loại bỏ khỏi phong trào văn hóa, sự hiểu biết khoa học vẫn tiến bộ đáng kể. Vào cuối thế kỷ 19, một số đột phá lớn đã mang lại hy vọng rằng có thể tìm ra nguyên nhân và cách chữa trị bệnh lao.
+Một trong những bác sĩ quan trọng nhất trong việc nghiên cứu bệnh lao là René Laennec, người đã chết vì căn bệnh này ở tuổi 45, sau khi mắc bệnh lao trong khi nghiên cứu bệnh nhân và cơ thể bị nhiễm bệnh. Laennec đã phát minh ra ống nghe mà ông sử dụng để chứng thực kết quả nghe tim của mình và chứng minh sự tương ứng giữa các tổn thương được tìm thấy trên phổi của bệnh nhân lao được khám nghiệm tử thi và các triệu chứng hô hấp ở bệnh nhân còn sống. Công trình quan trọng nhất của ông là Traité de l'Auscultation Médiate trình bày chi tiết những khám phá của ông về công dụng của nghe tim phổi trong chẩn đoán bệnh lao. Cuốn sách này đã nhanh chóng được dịch sang tiếng Anh bởi John Forbes năm 1821; nó đại diện cho sự khởi đầu của sự hiểu biết khoa học hiện đại về bệnh lao. Laennec được bổ nhiệm làm chủ tịch chuyên môn của Hôpital Necker vào tháng 9 năm 1816 và ngày nay ông được coi là một trong những nhà lâm sàng học Pháp vĩ đại nhất.
+Công việc của Laennec đã đưa ông tiếp xúc với các nhà tiên phong của những cơ sở y tế Pháp, bao gồm cả Pierre Charles Alexandre Louis. Louis sẽ tiếp tục sử dụng các phương pháp thống kê để đánh giá các khía cạnh khác nhau của sự tiến triển của bệnh, hiệu quả của các liệu pháp khác nhau và tính nhạy cảm của từng cá nhân, sau đó ông xuất bản một bài báo trên Annales d'hygiène publique có tựa đề "Lưu ý về tần suất tương đối của bệnh Phthisis ở hai giới tính ". Một người bạn tốt và đồng nghiệp khác của Laennec, Gaspard Laurent Bayle, đã xuất bản một bài báo vào năm 1810 với tựa đề "Recherches sur la Pthisie Pulmonaire", trong đó ông chia bệnh pthisis thành sáu loại. Ông xây dựng những phát hiện của mình dựa trên hơn 900 cuộc khám nghiệm tử thi.
+Năm 1869, Jean Antoine Villemin đã chứng minh rằng căn bệnh này thực sự có thể lây lan, ông tiến hành một thí nghiệm trong đó chất dịch từ xác người được tiêm vào thỏ thí nghiệm, sau đó chúng bị nhiễm bệnh.
+Vào ngày 24 tháng 3 năm 1882, Robert Koch công bố căn bệnh này là do một tác nhân truyền nhiễm gây ra. Năm 1895, Wilhelm Roentgen phát hiện ra tia X, cho phép các bác sĩ chẩn đoán và theo dõi sự tiến triển của bệnh, và mặc dù một phương pháp điều trị y tế hiệu quả sẽ không được tìm ra trong 50 năm nữa, tỷ lệ mắc và tử vong của bệnh lao bắt đầu suy giảm.
+
+
+==== Robert Koch tìm ra vi khuẩn lao ====
+
+Các thí nghiệm của Villemin đã xác nhận tính chất lây lan của căn bệnh này và buộc cộng đồng y tế phải chấp nhận rằng bệnh lao thực sự là một bệnh truyền nhiễm, lây truyền bởi một số tác nhân gây bệnh không rõ nguồn gốc. Năm 1882, bác sĩ người Phổ Robert Koch sử dụng một phương pháp nhuộm mới và áp dụng nó vào đờm của bệnh nhân lao, lần đầu tiên phát hiện ra tác nhân gây bệnh: Mycobacterium tuberculosis, hay trực khuẩn Koch.
+Khi bắt đầu cuộc điều tra, Koch đã biết về công việc của Villemin và những người khác đã tiếp tục các thí nghiệm của mình như Julius Conheim và Carl Salmosen. Ông cũng được tiếp cận với "khu pthisis" tại Bệnh viện Charité Berlin. Trước khi đối mặt với vấn đề bệnh lao, ông đã làm việc với bệnh than và đã phát hiện ra tác nhân gây bệnh là vi khuẩn Bacillus anthracis. Trong cuộc điều tra này, ông kết thân với Ferdinand Cohn, giám đốc Viện Sinh lý Rau quả. Họ cùng nhau làm việc để phát triển các phương pháp nuôi cấy mẫu mô. Ngày 18 tháng 8 năm 1881, trong khi nhuộm mẫu bệnh phẩm lao bằng xanh methylen, ông nhận thấy các cấu trúc thuôn dài, mặc dù ông không thể chắc chắn liệu đó có phải chỉ là kết quả của việc tô màu hay không. Để cải thiện độ tương phản, ông quyết định thêm màu nâu Bismarck, sau đó các cấu trúc thuôn dài được trả lại sáng và trong suốt. Ông đã cải tiến kỹ thuật bằng cách thay đổi nồng độ kiềm trong dung dịch nhuộm cho đến khi đạt được điều kiện quan sát lý tưởng đối với trực khuẩn.
+Sau nhiều nỗ lực, ông đã có thể ủ vi khuẩn trong huyết thanh đông tụ ở 37 độ C. Sau đó, ông cấy vi khuẩn vào những con thỏ trong phòng thí nghiệm và quan sát thấy chúng chết khi có các triệu chứng của bệnh lao, chứng minh rằng loại trực khuẩn mà ông đặt tên là trực khuẩn lao, chính là nguyên nhân gây ra bệnh lao.
+Ông đã công bố kết quả của mình tại Hiệp hội Sinh lý học Berlin vào ngày 24 tháng 3 năm 1882, trong một bài giảng nổi tiếng mang tên Über Tuberculose, được xuất bản ba tuần sau đó. Kể từ năm 1882, ngày 24 tháng 3 được gọi là Ngày Thế giới phòng chống lao
+Vào ngày 20 tháng 4 năm 1882, Koch trình bày một bài báo có tựa đề Die Ätiologie der Tuberculose, trong đó ông chứng minh rằng Mycobacterium là nguyên nhân đơn lẻ gây ra bệnh lao ở tất cả các dạng của nó.
+Năm 1890, Koch đã phát triển một dẫn xuất protein tinh khiết của vi khuẩn. Nó được chứng minh là một phương tiện tiêm chủng không hiệu quả nhưng vào năm 1908, Charles Mantoux tìm ra một xét nghiệm máu hiệu quả để chẩn đoán bệnh lao.
+
+Nếu tầm quan trọng của một căn bệnh đối với nhân loại được đo bằng số ca tử vong do nó gây ra, thì bệnh lao phải được coi là quan trọng hơn nhiều so với những căn bệnh truyền nhiễm đáng sợ nhất như bệnh dịch hạch, bệnh tả, và những thứ tương tự. Thống kê đã chỉ ra rằng 1/7 tổng số người chết là vì bệnh lao.
+
+
+==== Phong trào điều dưỡng ====
+
+Sự tiến bộ của hiểu biết khoa học về bệnh lao, và tính chất lây lan của nó đã tạo ra nhu cầu về các cơ sở trị liệu cho những người mắc bệnh.
+Hermann Brehmer, một bác sĩ người Đức, tin rằng bệnh lao phát sinh từ sự khó khăn của tim trong việc cung cấp máu cho phổi một cách chính xác. Do đó, ông đề xuất rằng tại những vùng cao hơn mực nước biển, nơi áp suất khí quyển thấp hơn, sẽ giúp tim hoạt động hiệu quả hơn. Với sự khuyến khích của nhà thám hiểm Alexander von Humboldt và giáo viên của ông là JL Schönlein, viện điều dưỡng chống bệnh lao đầu tiên được thành lập vào năm 1854, ở độ cao 650 mét so với mực nước biển, tại Görbersdorf. Ba năm sau, ông công bố những phát hiện của mình trên một bài báo Die chronische Lungenschwindsucht und Tuberkulose der Lunge: Ihre Ursache und ihre Heilung.
+Brehmer và một trong những bệnh nhân của ông, Peter Dettweiler, đã trở thành những người đề xướng phong trào điều dưỡng, và đến năm 1877, các viện điều dưỡng bắt đầu lan rộng ra ngoài nước Đức và khắp châu Âu. Tiến sĩ Edward Livingston Trudeau sau đó đã thành lập "Adirondack Cottage Sanitorium" ở Saranac Lake, New York vào năm 1884. Một trong những bệnh nhân đầu tiên của Trudeau là tác giả Robert Louis Stevenson; danh tiếng của ông đã giúp thành lập Saranac Lake như một trung tâm điều trị bệnh lao. Năm 1894, sau khi một trận hỏa hoạn thiêu rụi phòng thí nghiệm nhỏ tại nhà của Trudeau, ông đã tổ chức Phòng thí nghiệm Saranac để nghiên cứu về bệnh Lao; đổi tên thành Viện Trudeau, phòng thí nghiệm tiếp tục nghiên cứu các bệnh truyền nhiễm.
+Peter Dettweiler tiếp tục thành lập viện điều dưỡng của riêng mình tại Falkenstein vào năm 1877 và vào năm 1886, ông tuyên bố rằng 132 trong số 1022 bệnh nhân của ông đã được chữa khỏi hoàn toàn sau khi ở viện của ông. Cuối cùng, các viện điều dưỡng bắt đầu xuất hiện gần các thành phố lớn và ở độ cao thấp, như Viện điều dưỡng Sharon vào năm 1890 gần Boston.
+Viện điều dưỡng không phải là cơ sở điều trị duy nhất. Các phòng khám chuyên khoa lao bắt đầu phát triển ở các khu vực đô thị lớn. Ngài Robert Philip đã thành lập Trạm điều dưỡng Hoàng gia Victoria ở Edinburgh vào năm 1887. Các trạm y tế đóng vai trò như những viện điều dưỡng đặc biệt dành cho những trường hợp mắc bệnh lao sớm và được mở cho những người có thu nhập thấp. Việc sử dụng các trạm y tế để điều trị cho những người thuộc tầng lớp trung lưu và hạ lưu ở các khu vực đô thị lớn và sự phối hợp giữa các cấp độ khác nhau của các chương trình dịch vụ y tế như bệnh viện, viện điều dưỡng và các khu bệnh lao được gọi là "Chương trình chống lao Edinburgh".
+
+
+=== Thế kỷ 20 ===
+
+
+==== Việc ngăn chặn ====
+
+Vào đầu thế kỷ 20, bệnh lao là một trong những vấn đề sức khỏe cấp bách nhất của Vương quốc Anh. Một ủy ban hoàng gia được thành lập vào năm 1901, Ủy ban Hoàng gia được bổ nhiệm để điều tra các mối quan hệ của bệnh lao ở người và động vật. Nhiệm vụ của nó là tìm hiểu xem liệu bệnh lao ở động vật và người có phải là cùng một bệnh hay không, và liệu động vật và con người có thể lây nhiễm cho nhau hay không. Đến năm 1919, Ủy ban đã phát triển thành Hội đồng Nghiên cứu Y khoa của Vương quốc Anh.
+Năm 1902, Hội nghị quốc tế về bệnh lao được triệu tập tại Berlin. Trong số các hoạt động khác, hội nghị đã đề xuất Thánh giá Lorraine là biểu tượng quốc tế của cuộc chiến chống lại bệnh lao. Các chiến dịch quốc gia lan rộng khắp Châu Âu và Hoa Kỳ để ngăn chặn sự lan rộng của bệnh lao.
+Sau những năm 1880, bệnh lao đã trở thành một căn bệnh đáng quan tâm ở Anh; đã có các chiến dịch cấm khạc nhổ ở những nơi công cộng, và những người nghèo bị nhiễm bệnh bị áp lực phải vào các trại điều dưỡng giống như nhà tù; trong khi các viện điều dưỡng dành cho tầng lớp trung lưu và thượng lưu cung cấp dịch vụ chăm sóc tuyệt vời và chăm sóc y tế liên tục. Bất kể lợi ích của không khí trong lành và trị liệu trong viện điều dưỡng, ngay cả trong điều kiện tốt nhất, 50% bệnh nhân đã chết trong vòng 5 năm (số liệu năm 1916).
+Việc quảng bá "Con dấu Giáng sinh" bắt đầu ở Đan Mạch trong năm 1904 như một cách để gây quỹ cho các chương trình chống bệnh lao. Nó mở rộng sang Hoa Kỳ và Canada vào năm 1907–1908 để giúp Hiệp hội Lao Quốc gia (sau này được gọi là Hiệp hội Phổi Hoa Kỳ).
+Tại Hoa Kỳ, lo ngại về sự lây lan của bệnh lao đã đóng một vai trò trong phong trào cấm khạc nhổ nơi công cộng.
+
+
+==== Vắc-xin ====
+Thành công thực sự đầu tiên trong việc tạo miễn dịch chống lại bệnh lao đã được Albert Calmette và Camille Guérin phát triển từ chủng vi khuẩn lao bò giảm độc lực vào năm 1906. Nó được gọi là "BCG" ( Bacille Calmette-Guérin). Vắc-xin BCG lần đầu tiên được sử dụng trên người vào năm 1921 tại Pháp nhưng phải đến sau Thế chiến 2, BCG mới được chấp nhận rộng rãi ở Anh và Đức. Trong những ngày đầu của Dịch vụ Y tế Quốc gia Anh, máy X-quang phát hiện lao tăng đột biến nhưng tỷ lệ tiêm chủng ban đầu rất thấp. Năm 1953, học sinh trung học đã được thống nhất nên được chủng ngừa, nhưng đến cuối năm 1954 chỉ có 250.000 người được chủng ngừa. Đến năm 1956, con số này đã tăng lên 600.000, khoảng một nửa là trẻ em đi học.
+Tại Ý, vắc xin khuếch tán Salvioli (Vaccino Diffondente Salvioli; VDS) được sử dụng từ năm 1948 đến năm 1976. Nó được phát triển bởi Giáo sư Gaetano Salvioli (1894–1982) của Đại học Bologna.
+
+
+==== Điều trị ====
+ 
+Thời cận đại, một số can thiệp phẫu thuật, bao gồm cả kỹ thuật thổi khí màng phổi hoặc ghép màng phổi - làm xẹp phổi bị nhiễm trùng để nó "nghỉ ngơi" và cho phép các tổn thương lành lại - đã được sử dụng để điều trị bệnh lao Tràn khí màng phổi không phải là một kỹ thuật mới. Năm 1696, Giorgio Baglivi đã báo cáo về sự cải thiện chung ở những người bị bệnh lao sau khi họ có những vết thương do gươm đâm vào ngực. FH Ramadge gây ra ca tràn khí màng phổi điều trị thành công đầu tiên vào năm 1834, và sau đó được báo cáo rằng bệnh nhân đã được chữa khỏi. Tuy nhiên, vào thế kỷ 20, các nhà khoa học đã tìm cách điều tra nghiêm ngặt tính hiệu quả của các phương pháp như vậy. Carlo Forlanini đã thử nghiệm với kỹ thuật tạo khí màng phổi nhân tạo của ông từ năm 1882 đến năm 1888 và điều này bắt đầu được thực hiện chỉ những năm sau đó. Năm 1939, Tạp chí Lao của Anh đã công bố một nghiên cứu của Oli Hjaltested và Kjeld Törning trên 191 bệnh nhân trải qua quy trình này từ năm 1925 đến năm 1931; năm 1951, Roger Mitchell đã xuất bản một số bài báo về kết quả điều trị của 557 bệnh nhân được điều trị từ năm 1930 đến năm 1939 tại Trudeau Sanatorium ở Saranac Lake. Tuy nhiên, việc tìm kiếm thuốc chữa bệnh vẫn tiếp tục một cách nghiêm túc.
+Trong thời kỳ Đức Quốc xã chiếm đóng Ba Lan, SS-Obergruppenführer Wilhelm Koppe đã tổ chức hành quyết hơn 30.000 bệnh nhân Ba Lan mắc bệnh lao - ít ai biết hoặc quan tâm rằng việc chữa khỏi gần như nằm trong tầm tay. Ở Canada, các bác sĩ tiếp tục phẫu thuật loại bỏ bệnh lao cho bệnh nhân bản địa trong những năm 1950 và 60, ngay cả khi thủ thuật này không còn được thực hiện trên bệnh nhân không phải là người bản địa.
+Năm 1944, Albert Schatz, Elizabeth Bugie và Selman Waksman đã phân lập được streptomycin do một chủng vi khuẩn Streptomyces griseus sản xuất. Streptomycin là chất kháng sinh hiệu quả đầu tiên chống lại được vi khuẩn M. tuberculosis. Khám phá này thường được coi là khởi đầu kỷ nguyên hiện đại của điều trị bệnh lao, mặc dù cuộc cách mạng thực sự chỉ bắt đầu vài năm sau đó, vào năm 1952, với sự phát triển của isoniazid, loại thuốc diệt vi khuẩn đường miệng đầu tiên. Sự ra đời của rifampin trong những năm 1970 đã đẩy nhanh thời gian phục hồi và giảm đáng kể số ca bệnh lao cho đến những năm 1980.
+
+
+==== Bệnh lao hồi sinh ====
+Hy vọng rằng căn bệnh này có thể được loại bỏ hoàn toàn đã bị tiêu tan vào những năm 1980 với sự gia tăng của các chủng vi khuẩn kháng thuốc. Các trường hợp mắc bệnh lao ở Anh, khoảng 117.000 trường hợp năm 1913, đã giảm xuống còn khoảng 5.000 trường hợp vào năm 1987, nhưng các trường hợp nhiễm lao đã tăng trở lại, đạt 6.300 trường hợp vào năm 2000 và 7.600 trường hợp vào năm 2005. Do việc loại bỏ các cơ sở y tế công cộng ở New York và sự xuất hiện của HIV, có sự bùng phát trở lại của bệnh lao vào cuối những năm 1980. Số lượng bệnh nhân không hoàn thành liệu trình sử dụng thuốc của họ là khá cao. New York đã phải đương đầu với hơn 20.000 bệnh nhân lao với các chủng vi khuẩn đa kháng thuốc (ít nhất là kháng cả rifampin và isoniazid).
+Để đối phó với sự bùng phát trở lại của bệnh lao, Tổ chức Y tế Thế giới đã ban bố tình trạng khẩn cấp về sức khỏe toàn cầu vào năm 1993. Năm 2008, gần nửa triệu trường hợp mắc bệnh lao đa kháng thuốc mới (MDR-TB) được ước tính xảy ra trên toàn thế giới
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Chuyên trang Lao của WHO
+Chuyên trang Lao của Viện Thông tin Thư viện Y học Trung ương, Bộ Y tế Việt Nam

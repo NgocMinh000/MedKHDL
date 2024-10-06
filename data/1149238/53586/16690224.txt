@@ -1,0 +1,37 @@
+Ngôn ngữ học tính toán là một lĩnh vực liên ngành liên quan đến mô hình thống kê hoặc dựa theo luật của ngôn ngữ tự nhiên từ góc độ tính toán cũng như nghiên cứu các cách tiếp cận với các câu hỏi về ngôn ngữ. Nói chung, ngôn ngữ học tính toán dựa trên ngôn ngữ học, khoa học máy tính, trí tuệ nhân tạo, toán học, logic, triết học, khoa học nhận thức, tâm lý học nhận thức, ngôn ngữ học tâm lý (psycholinguistics), nhân chủng học và khoa học thần kinh, cùng với những chuyên ngành khác.
+
+
+== Chuyên ngành và các lĩnh vực liên quan ==
+Theo truyền thống, ngôn ngữ học tính toán đã nổi lên dưới dạng là một lĩnh vực của trí tuệ nhân tạo, được các nhà khoa học máy tính thực thi, và là những người có kỹ năng chuyên về ứng dụng máy tính để xử lý một ngôn ngữ tự nhiên. Cùng với sự hình thành tổ chức Hiệp hội Ngôn ngữ học Tính toán (Association for Computational Linguistics - (ACL) và thiết lập các chuỗi hội thảo độc lập, lĩnh vực này được củng cố trong suốt thập niên 70 và 80.
+ACL định nghĩa ngôn ngữ học tính toán là:
+
+...nghiên cứu khoa học của ngôn ngữ từ một quan điểm tính toán. Các nhà ngôn ngữ học tính toán quan tâm đến việc cung cấp các mô hình tính toán của các loại khác nhau của hiện tượng ngôn ngữ.
+
+Thuật ngữ "ngôn ngữ học tính toán" ngày nay (2020) được coi là từ gần đồng nghĩa với xử lý ngôn ngữ tự nhiên (NLP) và công nghệ ngôn ngữ con người (HTL). Từ những năm 2000, những thuật ngữ này nhấn mạnh hơn vào các khía cạnh ứng dụng thực tế hơn là các nghiên cứu lý thuyết suông. Trên thực tế, những thuật ngữ này (NLP & HLT) đã thay thế phần lớn thuật ngữ "ngôn ngữ học tính toán" trong cộng đồng NLP/ACL,  mặc dù chúng chỉ đặc biệt đề cập đến lĩnh vực con của ngôn ngữ học tính toán ứng dụng.
+Ngôn ngữ học tính toán chứa các thành phần lý thuyết lẫn ứng dụng. Ngôn ngữ học tính toán lý thuyết tập trung vào các vấn đề trong ngôn ngữ học lý thuyết (theoretical linguistics) và khoa học nhận thức.
+Trong khi đó, ngôn ngữ học tính toán ứng dụng lại tập trung vào các kết quả thực tế từ việc mô hình cách sử dụng ngôn ngữ con người.
+
+
+== Ứng dụng ==
+
+Ngôn ngữ học tính toán ứng dụng phần lớn tương đương với xử lý ngôn ngữ tự nhiên. Một vài ứng dụng dành cho người dùng cuối bao gồm phần mềm nhận dạng giọng nói, chẳng hạn như tính năng Siri của Apple, các công cụ kiểm tra lỗi chính tả, các chương trình tổng hợp giọng nói. Đây là những công cụ thường được dùng để biểu đạt khả năng phát âm hoặc trợ giúp người khuyết tật, cũng như các chương trình và trang web dịch máy, chẳng hạn như Google Dịch.
+Ngôn ngữ học tính toán cũng hữu ích trong các tình huống liên quan đến phương tiện truyền thông mạng xã hội và Internet, chẳng hạn, cung cấp các bộ lọc nội dung ở các chat room hoặc các website tìm kiếm,, gom nhóm và sắp xếp nội dung thông qua khai thác phương tiện truyền thông xã hội, truy xuất và phân nhóm tài liệu. Ví dụ, nếu một người tìm kiếm từ khóa "chiếc xe bốn bánh có màu đỏ", để tìm các hình ảnh của một chiếc xe tải màu đỏ, cơ chế tìm kiếm sẽ tìm thông tin theo yêu cầu bằng cách khớp các cụm từ như "bốn bánh", "xe", "màu đỏ".
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+
+Association for Computational Linguistics (ACL)
+ACL Anthology of research papers
+ACL Wiki for Computational Linguistics
+CICLing annual conferences on Computational Linguistics Lưu trữ 2019-02-06 tại Wayback Machine
+Computational Linguistics – Applications workshop
+Free online introductory book on Computational Linguistics tại Wayback Machine (lưu trữ 2008-01-25)
+Language Technology World
+Resources for Text, Speech and Language Processing Lưu trữ 2019-10-25 tại Wayback Machine
+The Research Group in Computational Linguistics Lưu trữ 2013-08-01 tại Wayback Machine

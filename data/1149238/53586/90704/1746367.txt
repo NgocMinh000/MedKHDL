@@ -1,0 +1,31 @@
+Hoạch định chuyển động ("định hướng", "di chuyển Piano") là khái niệm sử dụng trong ngành robotics dùng để chỉ quá trình chuyển đổi một nhiệm vụ di chuyển thành các chuyển động rời rạc.
+Xét việc định hướng một mobile robot từ trong tòa nhà đi ra ngoài. Để thực hiện nhiệm vụ này, robot cần có khả năng tránh các bức tường và không bị đổ khi di chuyển xuống bậc thang. Giải thuật hoạch định chuyển động sẽ dùng các mô tả nhiệm vụ này là đầu vào để tạo ra các lệnh về tốc độ và điều khiển đến bánh xe robot. Giải thuật hoạch định chuyển động có thể cần xét qua các ràng buộc của robot như: số khớp (đối với tay máy công nghiệp), độ phức tạp của công việc (trong trường hợp di chuyển đồ vật), các ràng buộc khác (robot chỉ di chuyển thẳng tiến) và nhiễu (sai lệch do môi trường hoặc bản thân robot).
+Hoạch định chuyển động có nhiều ứng dụng trong ngành robotics, ví dụ như trong điều khiển tự hành, tự động hóa, thiết kế robot bằng phần mềm CAD. Trong các ngành khác như sản xuất phim hoạt hình, trò chơi AI, thiết kế kiến trúc, phẫu thuật bằng robot, nghiên cứu sinh phân tử.
+
+
+== Nội dung ==
+Các khái niệm
+Giải thuật
+Tính hoàn thành và hoạt động
+
+
+== Các khái niệm ==
+
+
+== Giải thuật ==
+Để giải bài toán ít bậc tự do, chúng ta có thể dùng giải thuật chia lưới, giải thuật bảo phủ lưới lên không gian đặc tính. Hoặc giải thuật hình học tính toán hình dạng và kết nối Cfree
+Hoạch định chuyển động chính xác đối với các hệ thống bậc tự do cao đòi hỏi khối lượng tính toán lớn. Giải thuật trường thế được áp dụng rất hiệu quả trong trường hợp này, nhưng lại có một nhược điểm là cực tiểu địa phương (trừ giải thuật hàm thế điều hòa). Giải thuật lấy mẫu không mắc phải cực tiểu địa phương và giải quyết bài toán tương đối nhanh. Chúng không có khả năng xác định không có đường đi đến đích, nhưng chúng có xác suất không hoàn thành nhiệm vụ tiến đến zero nếu thời gian tính toán đủ lâu.
+Giải thuật lấy mẫu hiện đang là giải thuật tốt nhất hiện nay cho bài toán hoạch định chuyển động đối với không gian có bậc tự do cao, và chúng đang được áp dụng cho các vấn đề có hàng chục hoặc thậm chí hàng trăm bậc tự do (tay máy, sinh phân tử, chuyển động hoạt hình, robot dạng chân).
+
+
+==== Giải thuật chia lưới ====
+Bằng cách bao phủ lưới lên cả không gian đặc tính, mỗi điểm trên không gian đặc tính giờ là một điểm lưới. Từ một điểm trên lưới, robot có thể di chuyển đến các điểm kề nếu đường thẳng nối giữa hai điểm này hoàn toàn nằm trong không gian tự do. Việc chia lưới sẽ rời rạc hóa các chuyển động, giải thuật tìm kiếm (ví dụ A*) có thể được sử dụng để tìm đường đi từ điểm ban đầu đến điểm đích.
+
+
+== Chú thích ==
+
+"Motion Planning" http://en.wikipedia.org/wiki/Motion_planning
+
+
+== Tham khảo ==
+"Motion Planning" http://en.wikipedia.org/wiki/Motion_planning

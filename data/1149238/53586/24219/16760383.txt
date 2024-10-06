@@ -1,0 +1,382 @@
+Một mạng thần kinh là một mạng nơ-ron, hoặc theo khía cạnh hiện đại, là một mạng thần kinh nhân tạo, chứa các nơron nhân tạo hoặc các nút (node). Vì vậy một mạng thần kinh có thể xem là một mạch nơron, chứa các nơron sinh học thực tế, hoặc một mạng thần kinh nhân tạo, dùng để giải quyết các vấn đề (bài toán) ở lĩnh vực trí tuệ nhân tạo (AI).
+Các kết nối của nơron sinh học được mô hình hóa là các trọng lượng. Một trọng lượng dương (tích cực) phản ánh một kết nối kích thích (xúc động), trong các giá trị âm (tiêu cực) nghĩa là các kết nối ức chế (bị ngăn cản). Tất cả đầu vào được thay đổi bằng một giá trị trọng lượng và tính tổng. Hoạt động này được coi là một kết hợp tuyến tính. Cuối cùng, một hàm kích hoạt điều khiển biên độ của đầu ra. Ví dụ, một tập giá trị chấp nhận được ở đầu ra thường là từ 0 đến 1, đôi khi có thể là từ -1 đến 1.
+Các mạng thần kinh có thể dùng cho mô hình hóa dự đoán, điều khiển đáp ứng và các ứng dụng mà có thể huấn luyện thông qua một tập dữ liệu. Việc tự học với kết quả từ kinh nghiệm có thể xảy ra bên trong các mạng, có thể rút ra kết luận từ một tập thông tin phức tạp và dường như không liên quan.
+
+
+== Lịch sử khái niệm mạng neural ==
+
+Khái niệm mạng neural được bắt đầu vào cuối thập kỷ 1800 khi người ta cố gắng mô tả hoạt động của trí tuệ con người. Ý tưởng này bắt đầu được áp dụng cho các mô hình tính toán từ mạng Perceptron.
+Đầu thập kỷ 1950 Friedrich Hayek là người đầu tiên khẳng định ý tưởng về trật tự tự phát trong não xuất phát từ các mạng phân tán gồm các đơn vị đơn giản (neural). Cuối thập kỷ 1940, Donnald Hebb đưa ra giả thuyết đầu tiên về một cơ chế thần kinh mềm dẻo (neural plasticity), Hebbian learning (???). Hebbian learning được coi là một quy tắc 'điển hình' của học không có giám sát. Nó (và các biến thể) là mô hình thời kỳ đầu của long term potentiation (tạo tiềm lực dài hạn).
+Perceptron là một bộ phân loại tuyến tính dành cho việc phân loại dữ liệu 
+  
+    
+      
+        x
+        ∈
+        
+          R
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in R^{n}}
+  
+ xác định bằng các tham số 
+  
+    
+      
+        w
+        ∈
+        
+          R
+          
+            n
+          
+        
+        ,
+        b
+        ∈
+        R
+      
+    
+    {\displaystyle w\in R^{n},b\in R}
+  
+ và một hàm đầu ra 
+  
+    
+      
+        f
+        =
+        
+          w
+          ′
+        
+        x
+        +
+        b
+      
+    
+    {\displaystyle f=w'x+b}
+  
+. Các tham số của nó được thích nghi với một quy tắc tùy biến (ad-hoc) tương tự với xuống dốc ngẫu nhiên (stochastic steepest gradient descent). Perceptron chỉ có thể phân loại hoàn hảo một tập dữ liệu mà các lớp khác nhau là phân tách tuyến tính (linearly separable) trong không gian đầu vào. Nó thường thất bại hoàn toàn đối với dữ liệu không chia tách được. Sự phát triển của thuật toán này ban đầu đã tạo ra một số hứng khởi, phần vì mối quan hệ của nó đối với các cơ chế sinh học. Sau này, phát hiện về điểm yếu này đã làm cho các mô hình Perceptron bị bỏ mặc cho đến khi các mô hình phi tuyến được đưa ra.
+Cognitron (1975) là một mạng neural đa tầng thời kỳ đầu với một thuật toán huấn luyện. Các chiến lược thần kinh khác nhau sẽ khác nhau về cấu trúc thực sự của mạng và các phương pháp thiết lập trọng số cho các kết nối. Mỗi dạng có các ưu điểm và nhược điểm riêng. Mạng có thể lan truyền thông tin chỉ theo một hướng, hoặc thông tin có thể được đẩy đi đẩy lại cho đến khi tại một nút xuất hiện sự tự kích hoạt và mạng sẽ dừng tại một trạng thái kết thúc. Khả năng truyền dữ liệu hai chiều giữa các neural/nút còn được sử dụng trong mạng Hopfield (1982), và sự chuyên hóa các tầng nút này cho các mục đích cụ thể đã được đưa ra trong mạng neural lai (hybrid neural network) đầu tiên.
+Giữa thập kỷ 1980, xử lý phân tán song song (parallel distributed processing) trở nên một chủ đề thu hút được nhiều quan tâm dưới cái tên connectionism.
+Mạng truyền ngược (backpropagation) có lẽ đã là nguyên nhân chính của sự tái xuất của mạng neural từ khi công trình "Learning Internal Representations by Error Propagation" (học các biểu diễn bên trong bằng cách lan truyền lỗi) được xuất bản năm 1986. Mạng truyền ngược ban đầu sử dụng nhiều tầng, mỗi tầng gồm các đơn vị tổng-trọng-số có dạng 
+  
+    
+      
+        f
+        =
+        g
+        (
+        
+          w
+          ′
+        
+        x
+        +
+        b
+        )
+      
+    
+    {\displaystyle f=g(w'x+b)}
+  
+, trong đó 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ là một hàm sigmoid. Huấn luyện được thực hiện theo kiểu xuống dốc ngẫu nhiên. Việc sử dụng quy tắc tính nguyên hàm cho hàm hợp (chain rule) khi tính toán các thay đổi thích hợp cho các tham số dẫn đến một thuật toán có vẻ 'truyền ngược lỗi'. Đó là nguồn gốc của thuật ngữ truyền ngược. Tuy nhiên, về bản chất, đây chỉ là một dạng xuống dốc. Việc xác định các tham số tối ưu cho một mô hình thuộc dạng này không đơn giản, không thể dựa vào các phương pháp xuống dốc để có được lời giải tốt mà không cần một xuất phát điểm tốt. Ngày nay, các mạng có cùng kiến trúc với mạng truyền ngược được gọi là các mạng Perceptron đa tầng. Thuật ngữ này không hàm ý bất cứ giới hạn nào đối với loại thuật toán dùng cho việc học.
+Mạng truyền ngược đã tạo ra nhiều hứng khởi và đã có nhiều tranh cãi về chuyện quy trình học đó có thể được thực hiện trong bộ não hay không. Một phần vì khi đó chưa tìm ra cơ chế truyền tín hiệu ngược. Nhưng lý do quan trọng nhất là chưa có một nguồn tín hiệu 'dạy' hay tín hiệu 'đích' đáng tin cậy.
+Ngày nay, các nhà thần kinh học đã thành công trong việc tìm ra mối liên hệ giữa học tăng cường và hệ thống hưởng thưởng dopamine (dopamine system of reward). Tuy nhiên, vai trò của nó và các neuromodulator khác vẫn đang được nghiên cứu.
+
+
+== Mạng neural và Trí tuệ nhân tạo ==
+Bài chính: Mạng neural nhân tạo
+
+
+=== Nền tảng ===
+Các mô hình mạng neural trong trí tuệ nhân tạo thường được gọi là các mạng neural nhân tạo; chúng thực chất là các mô hình toán học đơn giản định nghĩa một hàm 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f:X\rightarrow Y}
+  
+. Từ mạng được sử dụng vì hàm này phân rã được thành các thành phần đơn giản hơn kết nối với nhau.
+Một loại mô hình mạng neural cụ thể tương ứng với một lớp hàm như vậy. Khả năng học là điều thu hút nhiều quan tâm nhất tới mạng neural.
+Cho trước một bài toán cụ thể để giải quyết, và một lớp các hàm 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+, việc học có nghĩa là sử dụng một tập các quan sát để tìm hàm 
+  
+    
+      
+        
+          f
+          
+            ∗
+          
+        
+        ∈
+        F
+      
+    
+    {\displaystyle f^{*}\in F}
+  
+ giải được bài toán một cách tốt nhất.
+Việc đó đòi hỏi định nghĩa một hàm chi phí 
+  
+    
+      
+        C
+        :
+        F
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle C:F\rightarrow \mathbb {R} }
+  
+ sao cho, với lời giải tối ưu 
+  
+    
+      
+        
+          f
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle f^{*}}
+  
+, 
+  
+    
+      
+        C
+        (
+        
+          f
+          
+            ∗
+          
+        
+        )
+        ≤
+        C
+        (
+        f
+        )
+      
+    
+    {\displaystyle C(f^{*})\leq C(f)}
+  
+ 
+  
+    
+      
+        ∀
+        f
+        ∈
+        F
+      
+    
+    {\displaystyle \forall f\in F}
+  
+
+Hàm chi phí 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ là một khái niệm quan trọng trong học máy, do nó là một phép đo khoảng cách tới lời giải tối ưu cho bài toán cần giải quyết. Các thuật toán học tìm kiếm trong không gian lời giải để được một hàm có chi phí nhỏ nhất có thể.
+
+
+=== Các loại học ===
+Có ba kiểu học chính, mỗi kiểu mẫu tương ứng với một nhiệm vụ học trừu tượng. Đó là học có giám sát, học không có giám sát và học tăng cường. Thông thường, loại kiến trúc mạng nào cũng có thể dùng được cho các nhiệm vụ trên.
+
+
+==== Học có giám sát ====
+Trong học có giám sát, ta được cho trước một tập ví dụ gồm các cặp 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        )
+        ,
+        x
+        ∈
+        X
+        ,
+        y
+        ∈
+        Y
+      
+    
+    {\displaystyle (x,y),x\in X,y\in Y}
+  
+ và mục tiêu là tìm một hàm f (trong lớp các hàm được phép) khớp với các ví dụ. Nói cách khác, ta muốn tìm ánh xạ mà dữ liệu đầu vào đã hàm ý, với hàm chi phí đo độ không khớp giữa ánh xạ của ta và dữ liệu.
+
+
+==== Học không có giám sát ====
+Trong học không có giám sát, ta được cho trước một số dữ liệu 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+, và hàm chi phí cần được cực tiểu hóa có thể là một hàm bất kỳ của dữ liệu 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ và đầu ra của mạng, 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+. Hàm chi phí được quyết định bởi phát biểu của bài toán. Phần lớn ứng dụng nằm trong vùng các bài toán ước lượng như mô hình hóa thống kê, nén, lọc (filtering), blind source seperation và phân mảnh (clustering).
+
+
+==== Học tăng cường ====
+Trong học tăng cường, dữ liệu 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ thường không được cho trước mà được tạo ra trong quá trình một agent tương tác với môi trường. Tại mỗi thời điểm 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+, agent thực hiện hành động 
+  
+    
+      
+        
+          y
+          
+            t
+          
+        
+      
+    
+    {\displaystyle y_{t}}
+  
+ và môi trường tạo một quan sát 
+  
+    
+      
+        
+          x
+          
+            t
+          
+        
+      
+    
+    {\displaystyle x_{t}}
+  
+ và một chi phí tức thời 
+  
+    
+      
+        
+          c
+          
+            t
+          
+        
+      
+    
+    {\displaystyle c_{t}}
+  
+, theo một quy trình động nào đó (thường là không được biết). Mục tiêu là tìm một sách lược lựa chọn hành động để cực tiểu hóa một chi phí dài hạn nào đó, nghĩa là chi phí tích lũy mong đợi. Quy trình động của môi trường và chi phí dài hạn cho mỗi sách lược thường không được biết, nhưng có thể ước lượng được. Mạng neural nhân tạo thường được dùng trong học tăng cường như là một phần của thuật toán toàn cục. Các bài toán thường được giải quyết bằng học tăng cường là các bài toán điều khiển, trò chơi, và các nhiệm vụ quyết định tuần tự (sequential decision making) khác.
+
+
+=== Các thuật toán học ===
+Có nhiều thuật toán có thể dùng cho việc huấn luyện các mô hình mạng neural; hầu hết có thể được xem là áp dụng trực tiếp của lý thuyết tối ưu hóa và ước lượng thống kê
+Phần lớn các thuật toán huấn luyện mạng neural sử dụng một kiểu xuống dốc (gradient descent - tiến dần tới cực tiểu địa phương) nào đó. Điều này được thực hiện bằng cách lấy đạo hàm của hàm chi phí theo các tham số của mạng và thay đổi các tham số đó theo một hướng
+được tính toán theo độ dốc (gradient-related direction) để tiến dần tới cực tiểu địa phương của hàm chi phí.
+Các phương pháp thường dùng cho huấn luyện mạng neural là: phương pháp tiến hóa, giải thuật luyện kim (simulated annealing), expectation maximisation (cực đại hóa kỳ vọng) và các phương pháp không tham số (non-parametric methods). Xem thêm bài Học máy.
+
+
+=== Các tính chất lý thuyết ===
+
+
+==== Năng lực ====
+Một số mô hình lý thuyết của mạng neural đã được phân tích để tính toán một số tính chất, chẳng hạn khả năng lưu trữ tối đa, độc lập với các thuật toán học. Nhiều kỹ thuật ban đầu được phát triển để nghiên cứu các hệ từ trường nhiễu (disordered magnetic systems (spin glasses)) đã được áp dụng thành công cho các kiến trúc mạng neural đơn giản, chẳng hạn mạng perceptron. Công trình nghiên cứu có ảnh hưởng lớn của E. Gardner và B. Derrida đã cho thấy nhiều tính chất thú vị về các perceptron với các trọng số có giá trị là số thực, trong khi nghiên cứu sau này của W. Krauth và M. Mezard đã mở rộng các nguyên lý này cho các trọng số có giá trị 0 hoặc 1.
+
+
+=== Các loại mạng neural nhân tạo ===
+
+Perceptron một lớp
+Perceptron nhiều lớp
+Mạng bán kính-tâm
+Support vector machines
+Committee machines
+Bản đồ tự điều chỉnh
+Máy thống kê
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+A Brief Introduction to Neural Networks (D. Kriesel) - Illustrated, bilingual manuscript about artificial neural networks; Topics so far: Perceptrons, Backpropagation, Radial Basis Functions, Recurrent Neural Networks, Self Organizing Maps, Hopfield Networks.
+Review of Neural Networks in Materials Science Lưu trữ 2015-06-07 tại Wayback Machine
+Artificial Neural Networks Tutorial in three languages (Univ. Politécnica de Madrid) Lưu trữ 2009-03-18 tại Wayback Machine
+Another introduction to ANN Lưu trữ 2009-12-16 tại Wayback Machine
+Performance of Neural Networks

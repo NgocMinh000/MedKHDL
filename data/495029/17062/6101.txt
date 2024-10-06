@@ -1,0 +1,57 @@
+Chụp cộng hưởng từ (còn gọi nôm na là chụp em-rai theo viết tắt tiếng Anh MRI của Magnetic Resonance Imaging) là một phương pháp thu hình ảnh của các cơ quan trong cơ thể sống và quan sát lượng nước bên trong các cấu trúc của các cơ quan. Ảnh cộng hưởng từ hạt nhân dựa trên một hiện tượng vật lý là hiện tượng cộng hưởng từ hạt nhân.
+Chụp cộng hưởng từ gọi đầy đủ là "chụp cộng hưởng từ hạt nhân" bắt đầu được dùng để chẩn đoán bệnh từ năm 1982. Hiện tượng cộng hưởng từ hạt nhân bắt đầu được 2 tác giả Bloch và Purcell phát hiện năm 1952. Sự khác nhau cơ bản giữa chụp cộng hưởng từ và chụp X quang là năng lượng dùng trong chụp X quang là năng lượng phóng xạ tia X còn trong chụp cộng hưởng từ là năng lượng vô tuyến điện.
+
+
+== Cơ sở vật lý ==
+Gồm 4 giai đoạn:
+
+
+=== Giai đoạn 1: Sắp hàng hạt nhân ===
+Mỗi hạt nhân trong môi trường vật chất đều có một mômen từ tạo ra bởi spin (sự xoay) nội tại của nó.
+Các hạt nhân đều sắp xếp một cách ngẫu nhiên và từ trường của chúng triệt tiêu lẫn nhau do đó không có từ trường dư ra để ghi nhận được.
+Khi có một từ trường mạnh tác động từ bên ngoài các mômen từ của hạt nhân sẽ sắp hàng song song cùng hướng hoặc ngược hướng của từ trường, ngoài ra chúng còn chuyển động dần chung quanh hướng của từ trường bên ngoài nó.
+Các vec tơ từ hạt nhân sắp hàng song song cùng chiều với hướng từ trường bên ngoài có số lượng lớn hơn các vectơ từ hạt nhân sắp nhân sắp hàng ngược chiều và chúng không thể triệt tiêu cho nhau hết, do đó có mạng lưới từ hoá theo hướng của từ trường bên ngoài.
+Các vectơ tạo ra hiện tượng từ hoá chủ yếu theo hướng của từ trường bên ngoài; đó là trạng thái cân bằng.
+Trong trạng thái cân bằng không có một tín hiệu nào có thể được ghi nhận. Khi trạng thái cân bằng đó bị xáo trộn sẽ có tín hiệu được hình thành.
+
+
+=== Giai đoạn 2: Kích thích hạt nhân ===
+Hiện tượng sắp hàng hạt nhân kết thúc thì các hạt nhân hydrogen tức proton sẽ phóng thích năng lượng dùng để sắp hàng chúng để trở về vị trí ban đầu. Tốc độ phóng thích các phôton này dựa vào năng lượng được phóng thích. Thời gian cần thiết cho 63% vectơ khôi phục theo chiều dọc gọi là T1. Thời gian cần thiết để cho 63% vectơ khôi phục theo chiều ngang gọi là T2.
+
+
+=== Giai đoạn 3: Ghi nhận tín hiệu ===
+Khi các proton trở lại sắp hàng như cũ do ảnh hưởng từ trường bên ngoài chúng phóng thích năng lượng dưới dạng tín hiệu tần số vô tuyến. Cường độ phát ra từ một đơn vị khối lượng mô được thể hiện trên một thang màu từ trắng đến đen, trên đó màu trắng là cường độ tín hiệu cao, màu đen là không có tín hiệu. Cường độ tín hiệu của một loại mô phụ thuộc vào thời gian khôi phục lại từ tính T1 và T2, mật độ phôton của nó.
+
+
+=== Giai đoạn 4: Tạo hình ảnh ===
+T1 tạo ra tín hiệu MRI mạnh và cho thấy hình ảnh các cấu trúc giải phẫu với T1 dịch não tuỷ, lớp vỏ xương, không khí và máu lưu thông với tốc độ cao tạo ra những tín hiệu không đáng kể và thể hiện màu sẫm. Chất trắng và chất xám biểu hiện bằng màu xám khác nhau và chất xám đậm hơn. Với T1 thì mô mỡ có màu sáng đó là lợi thế lớn nhất để ghi hình mô mỡ trong hốc mắt, ngoài màng cứng tuỷ xương và cột sống. Máu tụ mạn tính có hình ảnh tín hiệu cao và thể hiện ảnh màu trắng. Tuy nhiên sự khác biệt giữa hàm lượng nước trong mô không lớn thì độ nhạy hình ảnh T1 không cao. Do đó không thể ghi hình được ở những tổn thương nhỏ không đè đẩy cấu trúc giải phẫu.
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Xem thêm ==
+Chụp cắt lớp vi tính (CT)
+Chụp cộng hưởng từ Dotarem
+Phương pháp điều trị MRI HIFU
+Chụp X-quang
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+James Mattson and Merrill Simon. The Pioneers of NMR and Magnetic Resonance in Medicine: The Story of MRI. Jericho & New York: Bar-Ilan University Press, 1996. ISBN 0-9619243-1-4.

@@ -1,0 +1,57 @@
+Thị giác là khả năng nhận và diễn giải thông tin từ ánh sáng đi vào mắt. Việc tri giác này còn được gọi là thị lực, sự nhìn. Những bộ phận khác nhau cấu thành thị giác được xem như là một tổng thể như là hệ thị giác và được tập trung nghiên cứu trong nhiều lĩnh vực khác nhau như tâm lý, khoa học nhận thức, khoa học thần kinh và sinh học phân tử.
+
+
+== Hệ thị giác ==
+Hệ thị giác cho phép con người thu nhận và xử lý thông tin từ môi trường. Hành động nhìn bắt đầu từ khi thấu kính của mắt điều chỉnh để thu được ảnh của cảnh vật xung quanh vào một màng lưới nhạy sáng nằm sau mắt (võng mạc). Về bản chất, võng mạc là một phần của tách biệt não bộ, hoạt động như là một máy biến đổi để chuyển đổi mẫu ánh sáng thành các tín hiệu thần kinh. Võng mạc có các tế bào nhạy với tác nhân kích thích là ánh sáng. Chúng phát hiện các quang tử kích thích và đáp ứng bằng cách sinh ra các xung/tín hiệu thần kinh. Các tín hiệu này được xử lý trong một cấu trúc thứ lớp gồm các phần khác nhau của não bộ, từ võng mạc đến các nhân cong ở biên, đến các vỏ não sơ cấp và thứ cấp.
+
+
+== Nghiên cứu về thị giác ==
+Vấn đề chính của thị giác là những gì mà con người thấy được không phải chỉ là sự biến đổi của các kích thích ở võng mạc (tức là ảnh trên võng mạc). Vì vậy, những người có quan tâm đến dạng tri giác này đã cố gắng giải thích cách làm việc của tiến trình xử lý hình ảnh để tạo ra cái mà chúng ta thực sự nhìn thấy.
+
+
+=== Các nghiên cứu trước đây về thị giác ===
+
+Có hai trường phái chính thời Hy Lạp cổ đưa ra các giải thích đầu tiên về cách hoạt động của việc nhìn trong cơ thể người.
+Trường phái thứ nhất là "lý thuyết phát xạ". Theo trường phái này thì sự nhìn diễn ra khi các tia nhìn phát ra từ mắt bị chặn bởi các vật được nhìn thấy. Theo họ, nếu chúng ta nhìn trực tiếp một vật thì đó là do các tia nhìn đi từ mắt rơi vào vật đó. Tuy nhiên, một ảnh khúc xạ cũng được nhìn thấy bởi các tia nhìn. Lúc này, tia nhìn đi từ mắt, xuyên qua không khí và rơi vào vật được nhìn thấy sau khi bị khúc xạ như là kết quả của sự chuyển động của các tia nhìn phát ra từ mắt. Lý thuyết này được ủng hộ bởi các học giả như Euclid và Ptolemy và những người kế tục.
+Trường phái thứ hai chủ trương về cách tiếp cận gọi là 'sự đưa vào', xem sự nhìn như là có một cái gì đó đại diện cho vật đi vào mắt. Với sự ủng hộ của các nhà truyền bá chính như Aristotle, Galen và những người kế tục, lý thuyết này dường như đã đạt đến một ít tri giác về bản chất của sự nhìn, nhưng ánh sáng chưa đóng vai trò gì trong lý thuyết này và nó chỉ là sự suy đoán mà không có các cơ sở thực nghiệm.
+
+Ibn al-Haytham (còn được biết đến với tên Alhacen hoặc Alhazen), "cha đẻ của quang học", là người đầu tiên giải quyết được cuộc tranh luận giữa hai trường phái bằng cách điều chỉnh lý thuyết về sự đưa vào thành lý thuyết hiện đại được chấp nhận về sự nhìn trong cuốn Book of Optics (1021). Ông lập luận rằng sự nhìn diễn ra là do ánh sáng từ các vật đi vào mắt và ông phát triển một phương pháp khoa học nhấn mạnh việc thực nghiệm để chứng minh điều đó. Ông chủ trì một nghiên cứu khoa học về tâm lý học thị giác và là nhà khoa học đầu tiên cho rằng sự nhìn diễn ra trong não bộ chứ không phải trong mắt. Ông chỉ ra rằng các thí nghiệm cá nhân có ảnh hưởng đến những gì con người nhìn thấy và cách mà họ nhìn thấy và sự nhìn cũng như tri giác là chủ quan.
+Ông giải thích chi tiết các lỗi có thể có trong thị giác và lấy ví dụ về một đứa trẻ có ít kinh nghiệm có thể gặp nhiều khó khăn như thế nào trong việc diễn giải những gì mà nó nhìn thấy. 
+Ông ta cũng đưa ra ví dụ về một người trưởng thành có thể mắc sai lầm trong sự nhìn do các kinh nghiệm của họ sẽ làm cho họ thấy một cái gì đó khác với cái mà họ thực sự nhìn thấy. Điều này có thể liên hệ với câu châm ngôn "Cái đẹp nằm trong mắt của người ngắm". Nghĩa là một bông hoa có thể xuất hiện rất đẹp trong mắt một người lại không đẹp được như thế trong mắt người khác.
+Leonardo DaVinci,1452-1519, là người đầu tiên nhận thức được các phẩm chất quang học đặc biệt của mắt. Ông viết "Chức năng của mắt người,... đã được mô tả bởi nhiều tác giả theo một cách thức nhất định. Nhưng tôi tìm thấy điều hoàn toàn khác." Phát hiện thực nghiệm chính của ông là chỉ có một sự nhìn rõ và phân biệt tại đường nhìn, đường thẳng quang học kết thúc tại vùng giữa của võng mạc.
+
+
+=== Sự suy luận vô thức ===
+Hermann von Helmholtz thường được kể công nhờ nghiên cứu đầu tiên của ông về thị giác trong thời hiện đại. Helmholtz khảo sát mắt người và kết luận rằng về mặt quang học thì mắt người khá kém cỏi. Theo ông thì thông tin thu được qua mắt kém chất lượng đến nổi khó mà thấy gì được. Vì thế, ông kết luận rằng sự nhìn chỉ có thể là kết quả của một dạng suy luận vô thức: một vấn đề về việc thừa nhận và kết luận từ những dữ liệu không đầy đủ, dựa trên những kinh nghiệm đã có.
+Sự suy luận này cần có những kinh nghiệm về thế giới. Các ví dụ đã được biết đến là:
+
+Ánh sáng đến từ phía trên
+Các vật thường không được nhìn từ phía dưới lên
+Các khuôn mặt được nhìn thấy (và nhận ra) từ phía bên phải
+Nghiên cứu về ảo giác (trường hợp mà quá trình suy luận là sai) đã đem lại những hiểu biết sâu hơn về các dạng suy luận mà hệ thị giác thực hiện.
+Một dạng khác của giả thuyết suy luận vô thức (dựa trên xác suất) đã được làm sống lại bởi các nghiên cứu (còn gọi là nghiên cứu Bayes) về thị giác. Các đề xuất theo hướng tiếp cận này cho rằng hệ thị giác thực hiện một kiểu suy luận Bayes để tri giác từ các dữ liệu cảm tính. Các mô hình dựa trên ý tưởng này đã được sử dụng để mô ta nhiều hệ thị giác nhỏ khác nhau, như là sự tri giác về chuyển động hoặc về độ sâu.
+
+
+=== Lý thuyết Gestalt ===
+Các nhà tâm lý học cấu trúc hình thức (Gestalt psychologists) làm việc chủ yếu vào những năm 1930s và 1940s đã đưa ra nhiều câu hỏi nghiên cứu mà các nhà khoa học về thị giác thời nay đang nghiên cứu.
+Các định luật cấu trúc hình thức về sự tổ chức đã dẫn đến nghiên cứu về cách thức mà con người nhận thức các thành phần thị giác như là các mẫu thức hoặc các toàn thể được tổ chức thay cho nhiều phần riêng biệt khác nhau. Ví dụ về trường hợp hệ thị giác cho ta một hình ảnh không có thật đã được nghiên cứu từ lâu. ‘Gestalt’ là một từ tiếng Đức được dịch ra là "cấu hình hoặc mẫu thức". Theo thuyết này thì có 6 yếu tố chính để xác định xem chúng ta ghép nhóm các đồ vật theo sự nhìn: sự gần gũi về không gian, sự tương tự, sự đóng kín, sự đối xứng, sự quen thuộc và sự liên tục.
+
+
+== Xem thêm ==
+Mù màu
+Loạn thị
+Nhãn khoa
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Empiristic theory of visual gestalt perception
+Visual Perception 3 - Cultural and Environmental Factors
+Gestalt Laws
+Summary of Kosslyn et al.'s theory of high-level vision
+The Organization of the Retina and Visual System
+Dr Trippy's Sensorium Lưu trữ 2007-05-29 tại Wayback Machine A website dedicated to the study of the human sensorium and organisational behaviour
+Effect of Detail on Visual Perception by Jon McLoone, the Wolfram Demonstrations Project.

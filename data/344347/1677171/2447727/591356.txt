@@ -1,0 +1,38 @@
+Ký sinh trùng sốt rét (danh pháp khoa học: Plasmodium) là một chi của ký sinh trùng đơn bào thuộc lớp bào tử, chúng ký sinh bắt buộc trên cơ thể sinh vật để tồn tại và phát triển. Chi Plasmodium được Ettore Marchiafava và Angelo Celli miêu tả năm 1885. Hiện tại người ta biết trên 200 loài của chi này và các loài mới vẫn tiếp tục được miêu tả.
+Trong số trên 200 loài đã biết của chi Plasmodium thì ít nhất 11 loài ký sinh trên người. Các loài khác ký sinh trên các động vật khác, bao gồm khỉ, động vật gặm nhấm, chim và bò sát. Các sinh vật ký sinh này luôn luôn có 2 vật chủ trong vòng đời của chúng: một vật chủ muỗi và một vật chủ là động vật có xương sống.
+Ở ngoài cơ thể, Plasmodium cần những phương pháp nuôi cấy đặc biệt hoặc giữ ở nhiệt độ lạnh để sống còn. Khi vào cơ thể người, ký sinh trùng sốt rét ký sinh nội tế bào, cụ thể là ở tế bào gan hoặc hồng cầu, Plasmodium chính là nguyên nhân gây ra bệnh sốt rét. Đời sống của ký sinh trùng sốt rét ngắn nhưng chúng sinh sản nhanh và nhiều do vậy tồn tại lâu dài trong cơ thể. Plasmodium có 2 phương thức sinh sản, sinh sản vô tính thực hiện ở vật chủ phụ (người hoặc những động vật khác) và sinh sản hữu tính ở vật chủ chính là muỗi Anopheles. Plasmodium có cấu tạo đơn giản, cơ thể gồm thành phần chính là nhân, chất nguyên sinh và một số thành phần khác, chúng không có không bào nên mọi hoạt động dinh dưỡng đều thực hiện qua màng tế bào, do không có bộ phận di động nên Plasmodium thường phải ký sinh cố định.
+
+
+== Sự phân bố của các loài Plasmodium ký sinh ở người ==
+Ký sinh trùng sốt rét ký sinh ở người không phải chỉ bao gồm một loài duy nhất, ngược lại chúng gồm nhiều loài, có hình thái và khu vực sinh sống khác nhau, sau đây là những loại chính:
+1. P.falciparum: Gặp nhiều ở vùng nhiệt đới có khí hậu nóng ẩm, mưa nhiều, nhiệt độ trung bình năm tương đối cao. Loại ký sinh trùng sốt rét này hay gặp ở châu Á (đặc biệt là vùng Đông Nam Á), châu Phi, châu Mỹ La Tinh và ít gặp hơn ở châu Âu. Hiếm gặp P.falciparum ở nơi có bình độ cao.
+2. P.vivax: Gặp nhiều ở châu Âu, còn châu Á và châu Phi chỉ gặp nhiều ở một số nơi.
+3. P.malariae: Xuất hiện nhiều ở châu Âu, châu Phi, ít hơn ở châu Mỹ, còn châu Á rất hiếm gặp.
+
+
+== Chu kỳ của các loại Plasmodium ký sinh ở người ==
+
+Cả bốn loại ký sinh trùng sốt rét trên tuy có khác nhau về hình thái học nhưng diễn biến chu kỳ ở người và muỗi truyền bệnh tương tự nhau, gồm 2 giai đoạn:
+
+Giai đoạn sinh sản và phát triển vô tính trong cơ thể người.
+Giai đoạn sinh sản hữu tính ở muỗi Anopheles truyền bệnh.
+Trong đó người là vật chủ phụ, muỗi là vật chủ chính, thiếu một trong 2 vật chủ này thì Plasmodium không thể sinh sản và bảo tồn nòi giống được.
+
+
+=== Giai đoạn sinh sản vô tính trong cơ thể người ===
+Giai đoạn sinh sản vô tính trong cơ thể người chia làm hai thời kỳ, thời kỳ phát triển trong gan và thời kỳ sinh sản vô tính trong hồng cầu. Quá trình cụ thể như sau: muỗi Anopheles mang mầm bệnh (thoa trùng) đốt người, thoa trùng từ nước bọt của muỗi truyền vào máu ngoại biên của người. Thoa trùng chủ động tìm đường xâm nhập vào gan, vì tại giai đoạn đó máu không phải là môi trường thích hợp cho thoa trùng tồn tại và phát triển, thời gian chúng ở trong máu chỉ dưới 1 giờ đồng hồ.
+Thoa trùng xâm nhập tế bào gan và bắt đầu phân chia, đến một lượng nhất định làm tế bào gan bị vỡ ra giải phóng những ký sinh trùng thế hệ mới, đây là giai đoạn phát triển của nhiều thoa trùng. Từ gan vào máu, ký sinh trùng xâm nhập hồng cầu, chúng sinh sản vô tính tại đây đến mức độ đầy đủ làm vỡ hồng cầu giải phóng ký sinh trùng, đại bộ phận những ký sinh trùng này sẽ lại thâm nhập vào hồng cầu khác để tiếp tục sinh sản vô tính.
+Nhưng một số mảnh ký sinh trùng khác trở thành những thể giao bào đực cái, nếu muỗi hút những giao bào này, chúng sẽ phát triển chu kỳ hữu tính ở trong dạ dày của muỗi, nếu không được muỗi hút thì sau một thời gian sẽ bị tiêu hủy. Khoảng thời gian cần thiết để hoàn thành chu kỳ vô tính trong hồng cầu tùy từng chủng loại Plasmodium, có thể từ 40 đến 72 giờ, đo đó trong khoảng thời gian này cơ thể người thường bị sốt rét cách nhật.
+Giao bào đực và cái được muỗi hút vào dạ dày sẽ phát triển thành những giao tử đực và cái, qua sinh sản hữu tính sinh ra thoa trùng. Các thoa trùng đến tập trung trong tuyến nước bọt của muỗi là tiếp tục truyền bệnh cho người khác.
+Các loài
+Chi này gồm các loài được xếp theo phân chi:
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+ Dữ liệu liên quan tới Plasmodium tại Wikispecies
+ Tư liệu liên quan tới Plasmodium tại Wikimedia Commons
+Plasmodium (organism) tại Encyclopædia Britannica (tiếng Anh)
+Trùng sốt rét tại Từ điển bách khoa Việt Nam

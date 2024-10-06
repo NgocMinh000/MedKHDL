@@ -1,0 +1,38 @@
+Clioquinol (iodochlorhydroxyquin) là một thuốc kháng nấm và chống nguyên sinh. Nó là chất độc thần kinh với liều lượng lớn. Nó là thành viên của một họ thuốc gọi là hydroxyquinolines có tác dụng ức chế một số enzyme liên quan đến sự sao chép DNA. Các loại thuốc đã được tìm thấy có hoạt động chống lại cả nhiễm virus và nguyên sinh.
+
+
+== Sử dụng thuốc chống độc ==
+Một báo cáo năm 1964 đã mô tả việc sử dụng Clioquinol trong cả điều trị và phòng ngừa nhiễm shigella và nhiễm Entamoeba histolytica ở những người được thể chế hóa tại Bệnh viện bang Sonoma ở California. Báo cáo cho thấy 4000 cá nhân đã được điều trị trong thời gian 4 năm với một vài tác dụng phụ.
+Một số bài báo được báo cáo gần đây mô tả việc sử dụng nó như một chất chống độc tố bao gồm:
+
+Một tài liệu tham khảo năm 2005 về việc sử dụng nó trong điều trị một gia đình Hà Lan bị nhiễm Entamoeba histolytica.
+Một tài liệu tham khảo năm 2004 về việc sử dụng nó ở Hà Lan trong điều trị nhiễm trùng Dientamoeba fragilis.
+Một tài liệu tham khảo năm 1979 về việc sử dụng ở Zaire trong điều trị nhiễm Entamoeba histolytica.
+
+
+== Bệnh thần kinh bán cấp ==
+Sử dụng Clioquinol như một chống nguyên sinh ma túy đã bị hạn chế hoặc ngưng ở một số nước do một sự kiện ở Nhật Bản nơi hơn 10.000 người phát triển bệnh thần kinh tủy quang bán cấp (SMON) giữa năm 1957 và 1970. Thuốc được sử dụng rộng rãi ở nhiều quốc gia trước và sau sự kiện SMON mà không có báo cáo tương tự. Cho đến nay, vẫn chưa có lời giải thích nào về lý do tại sao nó tạo ra phản ứng này và một số nhà nghiên cứu đã đặt câu hỏi liệu clioquinol có phải là tác nhân gây bệnh hay không, lưu ý rằng thuốc đã được sử dụng trong 20 năm trước khi xảy ra dịch bệnh và SMON các trường hợp bắt đầu giảm số lượng trước khi ngừng thuốc. Các lý thuyết được đề xuất đã bao gồm việc dùng thuốc không đúng cách, việc sử dụng thuốc được cho phép trong thời gian dài, và việc dùng thuốc không xem xét tầm vóc trung bình nhỏ hơn của Nhật Bản; tuy nhiên không bao giờ tìm thấy mối quan hệ phụ thuộc liều giữa phát triển SMON và sử dụng clioquinol, cho thấy sự tương tác của một hợp chất khác. Các nhà nghiên cứu cũng cho rằng dịch SMON có thể là do nhiễm virus với virus Inoue-Melnick.
+
+
+== Sử dụng tại chỗ ==
+Clioquinol là một thành phần của thuốc theo toa Vioform, là một loại thuốc chống nấm tại chỗ. Nó cũng được sử dụng dưới dạng kem (và kết hợp với betamethasone hoặc fluocinolone) trong điều trị các rối loạn viêm da.
+
+
+== Sử dụng tiềm năng như là một phòng ngừa hoặc điều trị trong ung thư tuyến tiền liệt ==
+Từ lâu, người ta đã nhận ra rằng các tế bào tuyến tiền liệt bình thường có hàm lượng kẽm cao thông qua sự hấp thu qua trung gian ZIP1 và hô hấp thấp (thế hệ OXPHOS ATP được chuyển sang xuất khẩu citrate để lấy năng lượng từ tinh trùng). Các tế bào ung thư tuyến tiền liệt đã vận chuyển quá mức vận chuyển ZIP1 dẫn đến việc tạo ra ATP lớn hơn được chuyển sang tăng sinh ung thư. Một ví dụ về kiểu hình trao đổi chất giống như bình thường thay vì ác tính (hiệu ứng Warburg được ngụy trang?). Kẽm ionophore clioquinol đã được hiển thị trên chuột để khôi phục nồng độ kẽm và ngăn chặn sự phát triển của khối u tuyến tiền liệt (xem Hình 13).
+
+
+== Sử dụng trong các bệnh thoái hóa thần kinh ==
+Nghiên cứu tại UCSF chỉ ra rằng clioquinol dường như ngăn chặn hành động di truyền của bệnh Huntington ở chuột và trong nuôi cấy tế bào.
+Các nghiên cứu gần đây trên động vật đã chỉ ra rằng clioquinol có thể đảo ngược sự tiến triển của bệnh Alzheimer, Parkinson và Huntington. Theo Tiến sĩ Siegfried Hekimi và các đồng nghiệp tại Khoa Sinh học của McGill, clioquinol tác động trực tiếp lên một loại protein có tên là Clk-1, thường được gọi một cách không chính thức là Clock-1, Hồi và có thể làm chậm quá trình lão hóa. Họ đưa ra giả thuyết rằng điều này có thể giải thích khả năng rõ ràng của thuốc có hiệu quả trong các điều kiện trên, nhưng cảnh báo chống lại các cá nhân thử nghiệm loại thuốc này.
+Ngoài ra, một nghiên cứu được thực hiện trong Drosophila  bởi Huang và Wu, hai nhà nghiên cứu từ Đại học Tsinghua và Đại học Stanford, chứng minh rằng Clioquinol có thể làm chậm quá trình sinh bệnh của mô hình Tauopathy bằng cách loại bỏ lượng kẽm dư thừa trong tế bào.
+
+
+== Tiếp tục sử dụng và sản xuất trên toàn thế giới ==
+
+
+== Xem thêm ==
+PBT2, 8-hydroxyquinoline có liên quan
+
+
+== Tham khảo ==

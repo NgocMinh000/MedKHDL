@@ -1,0 +1,18 @@
+Phân loại bệnh (nosology) là một nhánh của y học mà đề cập đến việc phân loại của bệnh.
+
+
+== Các loại phân loại ==
+Bệnh có thể được phân loại theo nguyên nhân, sinh bệnh học (cơ chế gây bệnh) hoặc theo triệu chứng.
+Ngoài ra, các bệnh có thể được phân loại theo hệ thống cơ quan liên quan, mặc dù điều này thường phức tạp vì nhiều bệnh ảnh hưởng đến nhiều hơn một cơ quan.
+Một khó khăn chính trong khoa học là bệnh thường không thể được xác định và phân loại rõ ràng, đặc biệt là khi không rõ nguyên nhân hoặc bệnh sinh.  Do đó, thuật ngữ chẩn đoán thường chỉ phản ánh một triệu chứng hoặc tập hợp các triệu chứng (hội chứng).
+Các bệnh truyền thống được xác định là hội chứng bởi các triệu chứng của họ.  Khi có thêm thông tin, chúng cũng được xác định bởi thiệt hại mà chúng tạo ra.  Khi nguyên nhân được biết đến, chúng được xác định rõ hơn bởi nguyên nhân của chúng, mặc dù điều quan trọng vẫn là đặc điểm của chúng.
+Có lẽ loại bệnh được mô tả cuối cùng là bệnh phân tử, được xác định bởi các đặc điểm phân tử của chúng.  Điều này đã được giới thiệu vào tháng 11 năm 1949, với bài báo " Bệnh thiếu máu hồng cầu hình liềm, bệnh phân tử ", trên tạp chí Khoa học, Linus Pauling, Harvey Itano và các cộng tác viên của họ đã đặt nền móng cho việc thành lập lĩnh vực y học phân tử.
+
+
+== Hệ thống mã hóa ==
+Một số phân loại bệnh đã được đề xuất trong lịch sử và thông thường tất cả chúng đều gán mã cho mọi bệnh được hỗ trợ.  Một số trong số chúng mã hóa các bệnh theo con đường của cây phân loại và những bệnh khác như SNOMED sử dụng hệ thống phân loại đa yếu tố.
+Hệ thống mã hóa được biết đến nhiều nhất là Tổ chức Y tế Thế giới ICD-Series, nhưng có các phân loại được chấp nhận khác như DOCLE, NANDA hoặc SNOMED.  Trong lịch sử có những cái khác như Hệ thống mã hóa Berkson không còn được duy trì nữa.
+Ngoài ra còn có hệ thống mã hóa cho các triệu chứng trình bày trong các bệnh và phát hiện sinh học.  Chúng thường được bao gồm trong từ điển y tế, cũng với một hệ thống mã hóa.  Một số trong số đó là MeSH (Medical Subject Headings), COSTART (Coding Symbols for Thesaurus of Adverse Reaction Terms) hoặc MedDRA (Medical Dictionary for Regulatory Activities)  Các hệ thống khác như Current Procedural Terminology không làm việc trực tiếp với bệnh nhưng có thủ tục liên quan.
+
+
+== Tham khảo ==

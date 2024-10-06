@@ -1,0 +1,20 @@
+Sulfanilamide (cũng viết là sulphanilamide) là một chất kháng khuẩn sulfonamit. Về mặt khoa học, nó là một hợp chất hữu cơ bao gồm anilin được dẫn xuất với một nhóm sulfonamit. Sulanilamide dạng bột được sử dụng trong Chiến tranh thế giới II để giảm tỷ lệ nhiễm bệnh và góp phần làm giảm đáng kể tỷ lệ tử vong so với các cuộc chiến trước đây. Các kháng sinh hiện đại đã thay thế sulfanilamide trên chiến trường; Tuy nhiên, sulfanilamide vẫn được sử dụng để điều trị nhiễm nấm âm đạo.
+Thuật ngữ "sulfanilamide" cũng được sử dụng để mô tả một họ các phân tử chứa các nhóm chức năng này. Những ví dụ bao gồm:
+
+Furosemide, một thuốc lợi tiểu tuần hoàn
+Sulfadiazine, kháng sinh
+Sulfamethoxazole, kháng sinh
+
+
+== Cơ chế hoạt động ==
+Là một kháng sinh sulfonamit, sulfanilamide hoạt động bằng cách ức chế cạnh tranh (tức là, bằng cách hoạt động như một chất nền tương tự) các phản ứng enzym liên quan đến axit para-aminobenzoic (PABA). PABA là cần thiết trong các phản ứng enzyme tạo ra axit folic, hoạt động như một coenzyme trong việc tổng hợp purin và pyrimidin. Động vật có vú không tổng hợp axit folic của mình nên không bị ảnh hưởng bởi các chất ức chế PABA, loại trừ các vi khuẩn có chọn lọc.
+
+
+== Lịch sử ==
+Sulfanilamide được chuẩn bị vào năm 1908 bởi nhà hoá học người Áo Paul Josef Jakob Gelmo (1879-1961) như là một phần của luận văn của ông về bằng tiến sĩ từ Technische Hochsschule Vienna, Áo. Nó được cấp bằng sáng chế vào năm 1909.
+Gerhard Domagk, người chỉ đạo thử nghiệm Prontosil vào năm 1935 và Jacques và Thérèse Tréfouël, cùng với Federico Nitti và Daniel Bovet trong phòng thí nghiệm của Ernest Fourneau tại Viện Pasteur, xác định sulfanilamide là dạng hoạt hóa thường được ghi nhận với khám phá sulfanilamide như là một chất điều trị hóa học. Domagk đã được trao giải Nobel cho công trình của ông.
+
+
+== Tham khảo ==
+
+Bản mẫu:Sulfonamide và trimethoporim

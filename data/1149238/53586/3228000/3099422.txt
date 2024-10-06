@@ -1,0 +1,17 @@
+Trong ngôn ngữ học, một ngôn ngữ tự nhiên (tiếng Anh: natural language) là bất kỳ ngôn ngữ nào phát sinh, không suy nghĩ trước trong não bộ của con người. Điển hình là một số ngôn ngữ mà con người được sử dụng để giao tiếp với nhau, dù là ngôn ngữ nói, ngôn ngữ ký hiệu, ký hiệu xúc giác hay chữ viết. Những ngôn ngữ này khác với ngôn ngữ được xây dựng và ngôn ngữ hình thức chẳng hạn như ngôn ngữ lập trình hoặc nghiên cứu logic.
+
+
+== Định nghĩa ngôn ngữ tự nhiên ==
+Mặc dù sự định nghĩa chính xác khác nhau giữa các học giả, ngôn ngữ tự nhiên có thể định nghĩa theo nghĩa rộng là đối nghịch với ngôn ngữ mang tính nhân tạo hay ngôn ngữ được xây dựng. Định nghĩa các ngôn ngữ tự nhiên thường phát biểu hay ngụ ý là ngôn ngữ mà bất kỳ đứa trẻ nào cũng có thể học và được phát triển thông qua sử dụng ngôn ngữ và nói chứ không phải theo hướng dẫn chỉ định. 
+
+
+== Xem thêm ==
+Từ vựng được kiểm soát
+Ngôn ngữ Creole
+Ngôn ngữ
+LGML
+Xử lý ngôn ngữ tự nhiên (NLP)
+
+
+== Tham khảo ==
+Meulen, Alice, 2001, "Logic and Natural Language," in Goble, Lou, ed., The Blackwell Guide to Philosophical Logic. Blackwell.

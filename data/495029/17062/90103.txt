@@ -1,0 +1,79 @@
+Digital Imaging and Communications in Medicine (DICOM) là tiêu chuẩn để xử lý, lưu trữ, in ấn và thu/nhận hình ảnh trong y tế. Tiêu chuẩn này bao gồm cả việc định nghĩa cấu trúc tập tin và giao thức truyền thông tin. Giao thức truyền thông tin là một giao thức ứng dụng sử dụng nền tảng TCP/IP để giao tiếp lẫn nhau giữa các hệ thống. Các tập tin DICOM có thể được trao đổi lẫn nhau giữa các hệ thống khi các hệ thống này có khả năng thu nhận hình ảnh và dữ liệu bệnh nhân theo định dạng DICOM. Hiệp hội các nhà sản xuất điện-điện tử Hoa kỳ năm giữ bản quyền của tiêu chuẩn (DICOM broschure). Tiêu chuẩn này được phát triển bởi Ủy ban tiêu chuẩn DICOM, với các thành viên thuộc Hiệp hội Các nhà sản xuất Điện-Điện tử Hoa Kỳ.
+Tiêu chuẩn DICOM cho phép việc tích hợp dễ dàng các máy thu nhận hình ảnh, server, trạm làm việc (workstation), máy in và các thiết bị phần cứng khác có nối mạng từ các nhà sản xuất khác nhau vào trong hệ thống PACS. Các thiết bị khác nhau được đi kèm một bảng đáp ứng các tiêu chuẩn DICOM để làm rõ các lớp dịch vụ mà thiết bị này hỗ trợ. DICOM đã dần dần được chấp nhận rộng rãi ở các bệnh viện và phòng khám.
+
+
+== Các thành phần của tiêu chuẩn DICOM ==
+Tiêu chuẩn DICOM được phân ra thành các phần độc lập được liên quan với nhau: Digital Imaging and Communications in Medicine (DICOM).
+Các liên kết dưới đây là phiên bản năm 2007 được xuất bản vào Tháng 12 năm 2006:
+
+PS 3.1: [01pu.pdf Introduction and Overview]
+PS 3.2: [02pu.pdf Conformance]
+PS 3.3: [03pu.pdf Information Object Definitions]
+PS 3.4: [04pu.pdf Service Class Specifications]
+PS 3.5: [05pu.pdf Data Structure and Encoding]
+PS 3.6: [06pu.pdf Data Dictionary]
+PS 3.7: [07pu.pdf Message Exchange]
+PS 3.8: [08pu.pdf Network Communication Support for Message Exchange]
+PS 3.9: Retired (formerly Point-to-Point Communication Support for Message Exchange)
+PS 3.10: [10pu.pdf Media Storage and File Format for Data Interchange]
+PS 3.11: [11pu.pdf Media Storage Application Profiles]
+PS 3.12: [12pu.pdf Storage Functions and Media Formats for Data Interchange]
+PS 3.13: Retired (formerly Print Management Point-to-Point Communication Support)
+PS 3.14: [14pu.pdf Grayscale Standard Display Function]
+PS 3.15: [15pu.pdf Security and System Management Profiles]
+PS 3.16: [16pu.pdf Content Mapping Resource]
+PS 3.17: [17pu.pdf Explanatory Information]
+PS 3.18: [18pu.pdf Web Access to DICOM Persistent Objects (WADO)]
+
+
+== Lịch sử ==
+
+DICOM là phiên bản thứ ba của tiêu chuẩn này bởi Hiệp hội ngành Chẩn Đoán hình ảnh Hoa Kỳ (ACR) và Hiệp hội Các nhà sản xuất Điện-Điện tử Hoa Kỳ (NEMA).
+Vào đầu thập niên 1980, đó là điều không thể để các nhà sản xuất CT hoặc MR để giải mã hình ảnh từ các máy này. Do đó ACR và NEMA đã tập trung hợp tác và cấu trúc lại để đưa ra tiêu chuẩn vào năm 1983. Tiêu chuẩn đầu tiên của sự hợp tác này có tên là ACR/NEMA 300, được phát hành vào năm 1985.
+Vào năm 1988 phiên bản thứ hai được phát hành. Đây là phiên bản được sử chấp nhận rộng rãi của các nhà sản xuất. Hình ảnh được truyền qua sợi cáp DICOM 50 chân. Vào cuộc gặp thường niên của RSNA vào năm 1990, sản phẩm thương mại đầu tiên hỗ trợ ACR/NEMA 2.0 đã được giới thiệu bởi GE Healthcare và một công ty tên Vortech (sau này được mua bởi Eastman Kodak). Không lâu sau đó phiên bản thứ 2 được phát hành với nhiều sự cải tiến. Một vài phần mở rộng cho ACR/NEMA 2.0 đã được thiết lập, như Papyrus (được phát triển bởi Đại học Y Dược Geneva, Thụy Sĩ) và SPI (Standard Procduct Interconnect). Chuẩn liên kết nối các thiết bị (được phát triển bởi Siemens Medical Solutions và Philips Medical Systems).
+Năm 1992, phiên bản thứ ba được ra mắt và đổi tên thành DICOM. Nhiều lớp dịch vụ mới đã được định nghĩa, và tính năng hỗ trợ lớp mạng được thêm vào và bảng đáp ứng các điều kiện của DICOM được giới thiệu.
+
+
+== Định dạng dữ liệu DICOM ==
+Định dạng dữ liệu DICOM khác so với các định dạng khác là các nhóm thông tin được tích hợp vào bên trong tập tin DICOM. Do đó, nếu một tập tin X-quang phổi theo định dạng DICOM sẽ chứa các thông tin như tên bệnh nhân, mã ID bệnh nhân, vì vậy hình ảnh sẽ không bao giờ bị thất lạc thông tin.
+Một đối tượng dữ liệu DICOM sẽ bao gồm các thuộc tính như họ và tên, mã ID,v.v. và cũng bao gồm các thuộc tính đặc biệt chứa dữ liệu Pixel của hình ảnh.
+
+
+== Các lớp dịch vụ DICOM ==
+
+
+== Phạm vi ứng dụng ==
+Ví dụ về các Modality hỗ trợ DICOM:
+
+CR = Computed Radiography
+CT = Computed Tomography
+DX = Digital Radiography
+EC = Echocardiography
+ES = Endoscopy
+FA = Fluorescein Angiography
+FS = Fundoscopy
+MG = Mammography
+MR = Magnetic Resonance
+MS = Magnetic Resonance Spectroscopy
+NM = Nuclear Medicine
+PT = Positron Emission Tomography (PET)
+RF = Radio Fluoroscopy
+RTDOSE = Radiotherapy Dose
+TG = Thermography
+US = Ultrasound
+XA = X-Ray Angiography
+ECG = Electrocardiograms
+
+
+== Ví dụ ==
+Hình mẫu về đầu gối được chụp bởi Máy Chụp Cộng hưởng từ MRI
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ của DICOM

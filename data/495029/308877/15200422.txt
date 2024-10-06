@@ -1,0 +1,19 @@
+Liệu pháp tiêm tĩnh mạch (IV) là một liệu pháp mang lại chất lỏng trực tiếp vào một tĩnh mạch. Cách đưa chất vào tĩnh mạch có thể được sử dụng qua đường tiêm (với một ống tiêm có áp lực cao hơn) hoặc truyền (thường chỉ sử dụng áp lực của lực hấp dẫn). Truyền tĩnh mạch thường được gọi là nhỏ giọt. Đường truyền tĩnh mạch là cách nhanh nhất để cung cấp thuốc và thay thế chất lỏng trên khắp cơ thể, bởi vì tuần hoàn sẽ mang chúng đi. Liệu pháp tiêm tĩnh mạch có thể được sử dụng để thay thế chất lỏng (như điều chỉnh mất nước), điều chỉnh sự mất cân bằng điện giải, để cung cấp thuốc và truyền máu.
+
+
+== Các cách tiếp cận ==
+
+Hệ thống tiêm tĩnh mạch có thể được phân loại theo loại tĩnh mạch mà đường ống sẽ chèn, được gọi là ống thông, đẩy vào.
+
+
+=== Đường ngoại vi ===
+Một đường tiêm tĩnh mạch ngoại biên (PIV) được sử dụng trên các tĩnh mạch ngoại vi (các tĩnh mạch ở cánh tay, bàn tay, chân và bàn chân). Đây là loại trị liệu tiêm tĩnh mạch phổ biến nhất được sử dụng.
+
+
+=== Đường trung tâm ===
+
+Các đường tĩnh mạch trung tâm có ống thông được đưa qua tĩnh mạch và rỗng vào tĩnh mạch trung tâm lớn (tĩnh mạch trong thân thể), thường là tĩnh mạch chủ trên, tĩnh mạch chủ dưới hoặc thậm chí là tâm nhĩ phải của tim.
+Các chỉ định cho một đường trung tâm trên đường IV ngoại vi phổ biến hơn thường bao gồm truy cập tĩnh mạch ngoại biên kém cho PIV. Một chỉ định phổ biến khác là khi bệnh nhân cần truyền dịch trong một thời gian dài, chẳng hạn như điều trị bằng kháng sinh trong vài tuần đối với viêm tủy xương. Một dấu hiệu khác là khi các chất được sử dụng có thể gây kích ứng niêm mạc mạch máu như dinh dưỡng toàn phần, có hàm lượng glucose cao có thể làm hỏng mạch máu và một số chế độ hóa trị. Các mạch máu ít bị tổn thương hơn vì các tĩnh mạch trung tâm có đường kính lớn hơn các tĩnh mạch ngoại biên, lưu lượng máu nhanh hơn và sẽ bị pha loãng khi nó được phân phối nhanh chóng đến phần còn lại của cơ thể. Thuốc co mạch (như norepinephrine, vasopressin, epinephrine, phenylephrine, v.v..) thường được truyền qua các đường trung tâm để giảm thiểu nguy cơ xuất huyết.
+
+
+== Tham khảo ==

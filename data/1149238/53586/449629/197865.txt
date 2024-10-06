@@ -1,0 +1,121 @@
+Ludwig Josef Johann Wittgenstein (tiếng Đức: luːtvɪç ˈjoːzɛf ˈjoːhan ˈvɪtgənʃtaɪn), sinh 26 tháng 4 1889 - mất 29 tháng 4 1951, là một nhà triết học người Áo, người đã có công đóng góp quan trọng trong logic, triết học về toán, triết học tinh thần và triết học ngôn ngữ. Ông được coi là một trong những nhà triết học quan trọng nhất của thế kỷ 20.
+Ludwig Wittgenstein sinh ở Viên năm 1889. Cha ông – mà sau này ông được thừa hưởng gia tài – là nhân vật giàu nhất trong ngành sắt thép ở Áo. Wittgenstein từ bé đã ham thích máy móc, và quá trình giáo dục nặng về toán học, vật lý và kỹ sư. Sau khi học ngành kỹ sư cơ khí ở Berlin ông sang Manchester học tiếp 3 năm trong ngành khí động học. Thời gian này ông bắt đầu bị hút vào câu hỏi cơ bản về môn toán học mà ông sử dụng. Cuốn sách của Bertrand Russell về [Các nguyên lý trong toán học] The Principles of Mathematics đã khiến ông bỏ ngành kỹ sư và đến Cambridge thụ giáo với chính Russell về triết học toán học, và chẳng bao lâu sau thì đã nắm bắt hết tất cả những gì Russell có thể truyền thụ. Vậy là ông bắt đầu tư duy độc lập và xuất bản quyển sách đầu tiên Luận Cương Triết-Logic Tractatus Logico-Philosophicus vào năm 1921, thường được gọi tắt là Luận Cương, Luận lý hay Cương Lĩnh.
+Khi đó Wittgenstein tin rằng mình đã giải quyết xong các vấn đề cơ bản trong triết học, cho nên rời bỏ triết học và quan tâm đến các vấn đề khác. Trong thời gian đó thì Tractatus gây ảnh hưởng sâu rộng, giúp phát triển thêm các vấn đề logic ở Cambridge, còn ở châu Âu lục địa thì trở thành tác phẩm được sùng bái nhất trong nhóm triết gia Logical Positivists hay còn được gọi là nhóm ở Viên – Vienna Circle. Nhưng bản thân Wittgenstein thì lại bắt đầu cảm thấy công trình này của mình sai cơ bản, cho nên cuối cùng lại quay trở lại triết học. Năm 1929 ông quay về Cambridge và giữ chức giáo sư triết học vào năm 1939. Trong giai đoạn thứ hai này ở Cambridge ông xây dựng một hệ tư tưởng hoàn toàn mới, khá khác biệt với công trình trước đây. Trong phần còn lại của cuộc đời ông, ảnh hưởng của tác phẩm này chỉ giới hạn trong mối quan hệ riêng, và chỉ một bài viết rất ngắn được xuất bản ngay sau khi ông qua đời vào năm 1951. Nhưng hai năm sau đó thì quyển sách Các phương pháp nghiên cứu triết học - Philosophical Investigations được xuất bản vào năm 1953, và trở thành một trong số các tác phẩm triết học nhiều ảnh hưởng nhất ở các nước nói tiếng Anh kể từ sau Chiến tranh thế giới thứ hai.
+Trước khi qua đời năm 62 tuổi, cuốn sách duy nhất ông cho xuất bản là Luận văn Logic-Triết học (Tractatus Logico-Philosophicus). Cuốn Những tìm sâu triết học (en. Philosophical Investigations, de. Philosophische Untersuchungen) mà Wittgenstein viết trong những năm cuối đời, được xuất bản một thời gian ngắn sau khi ông mất. Cả hai tác phẩm này đều được đánh giá là có tầm ảnh hưởng trong Triết học phân tích và Chủ nghĩa luận lý thực chứng (en. Logical positivism, de. Logischer Empirismus, Logischer Positivismus). Quyển đầu trong hai tác phẩm chính vừa kể của Wittgenstein là Tractatus vẫn tiếp tục là sách đáng đọc, nhưng quyển sau, Philosophical Investigations mới là tác phẩm đã đưa ông lên tầm quốc tế như một nhân vật văn hóa trong giai đoạn kể từ sau ngày ông qua đời và hiện tiếp tục tích cực gây ảnh hưởng lên nhiều ngành bên ngoài triết học.
+Như vậy đây là trường hợp xuất chúng, một triết gia xuất sắc trong các giai đoạn khác nhau của cuộc đời đã tạo ra hai hệ thống triết học không tương thích, cả hai đều ảnh hưởng lên cả một thế hệ. Mặc dù không tương thích nhưng hai ngành triết này có một số vấn đề cơ bản giống nhau. Cả hai đều tập trung vào vai trò của ngôn ngữ trong tư duy của con người và trong cuộc sống của loài người, và đều cùng quan tâm hàng đầu đến việc định ranh giới giữa chuyện dùng ngôn ngữ có đúng chỗ hay không – hay như có người từng diễn đạt, là vẽ đường phân chia giữa đâu là nơi bắt đầu của có nghĩa và vô nghĩa.
+
+
+== Tác phẩm ==
+Logisch-Philosophische Abhandlung, Annalen der Naturphilosophie, 14 (1921)
+Tractatus Logico-Philosophicus [TLP], translated by C.K. Ogden (1922)
+"Some Remarks on Logical Form" (1929), Aristotelian Society Supplementary Volume, Volume 9, Issue 1, 15 July 1929, pp. 162–171.
+Philosophische Untersuchungen (1953)
+Philosophical Investigations [PI], translated by G. E. M. Anscombe (1953)
+Bemerkungen über die Grundlagen der Mathematik, ed. by G. H. von Wright, R. Rhees, and G. E. M. Anscombe (1956), a selection of his work on the philosophy of logic and mathematics between 1937 and 1944.
+Remarks on the Foundations of Mathematics, translated by G. E. M. Anscombe, rev. ed. (1978)
+Bemerkungen über die Philosophie der Psychologie, ed. G. E. M. Anscombe and G. H. von Wright (1980)
+Remarks on the Philosophy of Psychology, Vols. 1 and 2, translated by G. E. M. Anscombe, ed. G. E. M. Anscombe and G. H. von Wright (1980), a selection of which makes up Zettel.
+Blue and Brown Books (1958), notes dictated in English to Cambridge students in 1933–1935.
+Philosophische Bemerkungen, ed. by Rush Rhees (1964)
+Lectures and Conversations on Aesthetics, Psychology, and Religious Belief, ed. by Y. Smythies, R. Rhees, and J. Taylor (1967)
+Remarks on Frazer's Golden Bough, ed. by R. Rhees (1967)
+Philosophical Remarks (1975)
+Philosophical Grammar (1978)
+Bemerkungen über die Farben, ed. by G. E. M. Anscombe (1977)
+Remarks on Colour (1991), remarks on Goethe's Theory of Colours.
+On Certainty, collection of aphorisms discussing the relation between knowledge and certainty, extremely influential in the philosophy of action.
+Culture and Value, collection of personal remarks about various cultural issues, such as religion and music, as well as critique of Søren Kierkegaard's philosophy.
+Zettel, collection of Wittgenstein's thoughts in fragmentary/"diary entry" format as with On Certainty and Culture and Value.
+Phiên bản trực tuyến
+Wittgenstein: Gesamtbriefwechsel/Complete Correspondence. Innsbrucker Electronic Edition: Ludwig Wittgenstein: Gesamtbriefwechsel/Complete Correspondence contains Wittgenstein's collected correspondence, edited under the auspices of the Brenner-Archiv's Research Institute (University of Innsbruck). Editors (first edition): Monika Seekircher, Brian McGuinness and Anton Unterkircher. Editors (second edition): Anna Coda, Gabriel Citron, Barbara Halder, Allan Janik, Ulrich Lobis, Kerstin Mayr, Brian McGuinness, Michael Schorner, Monika Seekircher and Joseph Wang.
+Wittgensteins Nachlass. The Bergen Electronic Edition: The collection includes all of Wittgenstein's unpublished manuscripts, typescripts, dictations, and most of his notebooks. The Nachlass was catalogued by G. H. von Wright in his "The Wittgenstein Papers", first published in 1969, and later updated and included as a chapter with the same title in his book Wittgenstein, published by Blackwell (and by the University of Minnesota Press in the U.S.) in 1982.
+Review of P. Coffey's Science of Logic Lưu trữ 30 tháng 4 2006 tại Wayback Machine (1913): a polemical book review, written in 1912 for the March 1913 issue of The Cambridge Review when Wittgenstein was an undergraduate studying with Russell. The review is the earliest public record of Wittgenstein's philosophical views.
+Nachlass online
+Các tác phẩm của Ludwig Wittgenstein tại Dự án Gutenberg
+Bemerkungen über die Farben (Remarks on Colour)
+"Some Remarks on Logical Form"
+Cambridge (1932–3) lecture notes
+“On Certainty”. Bản gốc lưu trữ ngày 10 tháng 12 năm 2005. Truy cập ngày 20 tháng 11 năm 2008.
+
+
+== Trích dẫn ==
+ "Die Grenzen meiner Sprache sind die Grenzen meiner Welt." (Tractatus, 5.6)
+ "Zu einer Antwort, die man nicht aussprechen kann, kann man auch die Frage nicht aussprechen." (Tractatus, 6.5)
+ "Wovon man nicht sprechen kann, darüber muss man schweigen." (Tractatus, 7)
+
+
+== Tham khảo ==
+
+
+=== Tiểu sử ===
+Wilhelm Baum: Ludwig Wittgenstein, Colloquium-Verlag, Berlin 1985, (Köpfe des 20. Jahrhunderts; Bd.; 103), ISBN 3-7678-0645-2
+Brian McGuinness: Wittgensteins frühe Jahre, Suhrkamp, Frankfurt/M., 1992, ISBN 3-518-28614-5 (sehr ausführlich)
+Ray Monk: Wittgenstein. Das Handwerk des Genies, Klett-Cotta, Stuttgart 2004, ISBN 3-608-94280-7 (mit vielen Zitaten aus Briefen und Tagebüchern)
+Kurt Wuchterl, Adolf Hübner:  Wittgenstein. Mit Selbstzeugnissen und Bilddokumenten, Rowohlt, Reinbek, 1998, ISBN 3-499-50275-5 (kurz, preiswert, viele Fotos)
+David J. Edmonds, John A. Eidinow Wie Ludwig Wittgenstein Karl Popper mit dem Feuerhaken drohte. Eine Ermittlung München: DVA, 2002 ISBN 3-421-05356-1 (korr. Auflage: Fischer TB ISBN 3-596-15402-2) über ein Zusammentreffen in Cambridge 1946, eine Darstellung ihrer Philosophie und Biographien. Engl. und Span.: 2001
+
+
+=== Dẫn nhập ===
+Chris Bezzel Wittgenstein zur Einführung Hamburg: Junius, 2000 ISBN 3-88506-330-1
+Kai Buchholz Ludwig Wittgenstein Frankfurt u.a.: Campus, 2006 ISBN 3-593-37858-2
+Glock, Hans-Johann Wittgenstein-Lexikon (Führer v.a. durch die Werkausgabe) Darmstadt: WBG, 2000 (Reihe: Forschung)
+A.C.Grayling: Wittgenstein. Freiburg im Breisgau. o.A.
+Ernst M. Lange Ludwig Wittgenstein: „Logisch-philosophische Abhandlung" Paderborn: Schöningh UTB, 1996 (Einführung in Hauptthesen)
+Ernst M. Lange Ludwig Wittgenstein. Philosophische Untersuchungen, eine kommentierte Einführung Paderborn: Schöningh, 1998 ISBN 3-8252-2055-9 (behandelt auch Teil II)
+Howard O. Mounce Wittgenstein's Tractatus. An Introduction Oxford: Blackwell, 1990 ISBN 0-631-12556-6 (Einführung für College-Studenten)
+George Pitcher: Die Philosophie Wittgensteins. Eine kritische Einführung in den Tractatus und die Spätschriften. Aus dem Englischen von Eike von Savigny. Alber, Freiburg / München 1967. ISBN 3-495-47159-6
+Joachim Schulte Wittgenstein. Eine Einführung Stuttgart: Reclam, 2001 ISBN 3-15-008564-0
+Wilhelm Vossenkuhl Ludwig Wittgenstein München: C.H. Beck, 1995 ISBN 3-406-38931-7 (Reihe „Denker")
+
+
+=== Bình luận, Chuyên luận, Tuyển văn ===
+Erich Ammereller, Eugen Fischer (Hrsg.): Wittgenstein at work. Method in the philosophical investigation. London: Routledge 2004, ISBN 0-415-31605-7 (Sammelband zur Methode Wittgensteins)
+Gordon P. Baker, Peter M. Hacker: Analytical Commentary on the „Philosophical Investigations". Oxford: Blackwell 1985ff. (mehrere Bände, der wohl gründlichste und umfassendste Kommentar zu den Philosophischen Untersuchungen, allerdings ohne die Behandlung von Teil II - die Autoren sind die Wittgenstein-„Päpste" und zerfielen über ihrem Hauptwerk in die weiter oben „therapeutisch" / „metaphysisch" gekennzeichneten Lager)
+Gordon P. Baker: Wittgenstein's method. Neglected aspects, essays on Wittgenstein. Oxford: Blackwell 2004, ISBN 1-4051-1757-5 (Sammlung zunächst meist in Französisch erschienener Essays zur weiter oben „therapeutisch" gekennzeichneten Position, die Geisteskrämpfe nicht durch Analyse, sondern Umdeutung sie verursachender Bilder zu lösen anstrebt)
+Françoise Fonteneau: L’éthique du silence. Wittgenstein et Lacan. Paris: Seuil. 1999
+Mirko Gemmel: Die Kritische Wiener Moderne. Ethik und Ästhetik. Karl Kraus, Adolf Loos, Ludwig Wittgenstein. Berlin 2005. (Parerga Verlag) ISBN 3-937262-20-2 (zur Bedeutung der Ethik im Tractatus)
+Peter M. Hacker: Wittgenstein im Kontext der analytischen Philosophie. Frankfurt a. M.: Suhrkamp 1997, ISBN 3-518-58242-9 (fundierter Überblick der „metaphysischen" Position, die in Wittgenstein einen Erben der angelsächsisch-analytischen Philosophietradition sieht)
+Peter M. Hacker: Einsicht und Täuschung Frankfurt (Suhrkamp) 1978, (eine der besten Gesamtdarstellungen der Philosophie von Wittgensteins)
+Fernando Gil: La Réception de Wittgenstein. Paris, Collège international de philosophie, 1988, ISBN 2-905670-27-4
+Merrill B. Hintikka, Jaakko Hintikka: Untersuchungen zu Wittgenstein. (1986) Frankfurt a. M. 1996
+Wolfgang Kienzler: Wittgensteins Wende zur seiner Spätphilosophie 1930 bis 1932. Eine historische und systematische Darstellung. Frankfurt a.M.: Suhrkamp 2001, ISBN 978-3-518-58250-3
+Wolfgang Kienzler: Ludwig Wittgensteins "Philosophische Untersuchungen". Darmstadt: Wiss. Buchges. 2007, ISBN 978-3-534-19823-8
+Saul Aaron Kripke: Wittgenstein über Regeln und Privatsprache. Eine elementare Darstellung. Frankfurt a.M.: Suhrkamp 2006, ISBN 3-518-29383-4 (engl. Original erschien 1982. Umstrittene, aber äußerst einflussreiche Interpretation Wittgensteins, wegen ihrer umstrittenen Treue zur Original-Argumentation ironisch „Kripkenstein" genannt)
+Duncan Richter: Wittgenstein at His Word. London: Continuum 2004, ISBN 0-8264-7473-X (weitere alternative Interpretation von Wittgensteins Spätphilosophie)
+Alois Rust: Wittgensteins Philosophie der Psychologie, Frankfurt am Main: Klostermann 1996, ISBN 978-3-465-02848-2
+Eike von Savigny: Wittgensteins „Philosophische Untersuchungen". Ein Kommentar für Leser. Frankfurt a. M.: Klostermann 1988f., ISBN 978-3-465-03547-3
+Michel Ter Hark: Beyond The Inner And The Outer. Wittgensteins's Philosophy of Psychology, Dordrecht: Kluwer 1990, ISBN 0-7923-0850-6
+J.-M.Terricabras: Ludwig Wittgenstein. Kommentar und Interpretation. Alber, Freiburg / München 1978. ISBN 3-495-47393-9
+Stanley Cavell: Der Anspruch der Vernunft Frankfurt (Suhrkamp) 2006 (insbesondere empfehlenswert seine Interpretation von Wittgensteins "Kriterien", des Weiteren hat er weitere wichtige Aufsätze zu Wittgenstein geschrieben, die in Essaysammlungen auf deutsch vorliegen)
+Mathias Iven: Ludwig sagt... Die Aufzeichnungen der Hermine Wittgenstein. Berlin: Parerga 2006
+
+
+=== Tiểu thuyết ===
+Philip Kerr: A Philosophical Investigation. London 1992. Dt: Das Wittgenstein-Programm.(Übersetzung: Peter-Weber Schäfer) Reinbek (Rowohlt TB) 1996, ISBN 3-499-43229-3 (Kriminalroman)
+Bruce Duffy: The World As I Found It. London 1987.
+
+
+== Phim ==
+Wittgenstein (Spielfilm, 71 Min), Großbritannien 1993, Regie: Derek Jarman, Produktion: British Film Institute/Channel 4/Uplink, Teddy Award 1993: Bester Spielfilm, Infoblatt Lưu trữ 2009-09-28 tại Wayback Machine der Jury der evangelischen Filmarbeit
+
+Denker der Zeit. Die Wahrheit der Worte: Ludwig Wittgenstein. Dokumentarfilm, 45 Min., Deutschland, 1988, Regie: Joseph Kaufmann, Produktion: NDR (Neuausgabe 2001 ISBN 3-935157-47-9), Übersicht Lưu trữ 2009-02-13 tại Wayback Machine der Katholisches Filmwerk GmbH 
+
+
+== Trước tác không công bố ==
+Nicolas Reitbauer: Wittgenstein - Verstehen - Mikrologische Untersuchungen zum Beginn des Big Typescripts, 2006 [1]
+
+
+== Chú thích ==
+
+
+== Liên kết ==
+
+Tác phẩm bởi và về Ludwig Wittgenstein trong thư mục catalogue của Thư viện quốc gia Đức
+O'Connor, John J.; Robertson, Edmund F., “Ludwig Wittgenstein”, Bộ lưu trữ lịch sử toán học MacTutor, Đại học St. Andrews
+Audio-Feature über Werk und Leben Ludig Wittgenstein auf Bayern 2 Radiowissen.de
+Wittgenstein Archiv, Cambridge mit ausführlicher Biographie Lưu trữ 2005-12-29 tại Wayback Machine
+The Austrian Ludwig Wittgenstein Society
+Internationale Ludwig Wittgenstein Gesellschaft
+Tracing Wittgenstein Lưu trữ 2009-09-27 tại Wayback Machine
+Wittgenstein Portal
+Wittgenstein und Hitler?

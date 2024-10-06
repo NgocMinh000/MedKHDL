@@ -1,0 +1,9 @@
+Mô thần kinh gồm các tế bào thần kinh gọi là neuron và các tế bào thần kinh đệm (còn gọi là thần kinh giao) (neuroglia).
+Neuron gồm có thân chứa nhân, từ thân phát đi nhiều tua ngắn phân nhánh gọi là sợi nhánh và một tua dài gọi là sợi trục. Diện tiếp xúc giữa đầu mút của sợi trục ở nơron này với nơron kế tiếp hoặc cơ quan phản ứng gọi là synapse.
+Thân nơron chứa nhân và phần lớn bào tương. Hình dạng và kích thước của thân nơron cũng như số lượng và cách sắp xếp các nhánh nơron rất thay đổi. Thân có hình đa giác với mỗi góc là nơi xuất phát ra một nhánh nơron. Nhân lớn, sáng, chứa ít chất dị nhiễm sắc, có nhiều hạch nhân to.Trong bào tương có nhiều cấu trúc ưa base, gọi là các thể Nissl.
+Chức năng của mô thần kinh là tiếp nhận kích thích, xử lý thông tin và điều hòa hoạt động các cơ quan đảm bảo sự phối hợp hoạt động giữa các cơ quan và sự thích ứng với môi trường.
+Về nguồn gốc, mô thần kinh được hình thành từ ngoại bì phôi
+Neuron là tế bào tạo nên truyền đi và biến đổi các luồng thần kinh.  
+
+
+== Tham khảo ==

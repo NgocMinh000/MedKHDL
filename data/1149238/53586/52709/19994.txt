@@ -1,0 +1,85 @@
+Khai phá dữ liệu (data mining) Là quá trình tính toán để tìm ra các mẫu trong các bộ dữ liệu lớn liên quan đến các phương pháp tại giao điểm của máy học, thống kê và các hệ thống cơ sở dữ liệu. Đây là một lĩnh vực liên ngành của khoa học máy tính. Mục tiêu tổng thể của quá trình khai thác dữ liệu là trích xuất thông tin từ một bộ dữ liệu và chuyển nó thành một cấu trúc dễ hiểu để sử dụng tiếp. Ngoài bước phân tích thô, nó còn liên quan tới cơ sở dữ liệu và các khía cạnh quản lý dữ liệu, xử lý dữ liệu trước, suy xét mô hình và suy luận thống kê, các thước đo thú vị, các cân nhắc phức tạp, xuất kết quả về các cấu trúc được phát hiện, hiện hình hóa và cập nhật trực tuyến. Khai thác dữ liệu là bước phân tích của quá trình "khám phá kiến thức trong cơ sở dữ liệu" hoặc KDD.
+
+
+== Diễn giải ==
+Khai phá dữ liệu là một bước của quá trình khai thác tri thức (Knowledge Discovery Process), bao gồm:
+
+Xác định vấn đề và không gian dữ liệu để giải quyết vấn đề (Problem understanding and data understanding).
+Chuẩn bị dữ liệu (Data preparation), bao gồm các quá trình làm sạch dữ liệu (data cleaning), tích hợp dữ liệu (data integration), chọn dữ liệu (data selection), biến đổi dữ liệu (data transformation).
+Khai thác dữ liệu (Data mining): xác định nhiệm vụ khai thác dữ liệu và lựa chọn kỹ thuật khai thác dữ liệu. Kết quả cho ta một nguồn tri thức thô.
+Đánh giá (Evaluation): dựa trên một số tiêu chí tiến hành kiểm tra và lọc nguồn tri thức thu được.
+Triển khai (Deployment).
+Quá trình khai thác tri thức không chỉ là một quá trình tuần tự từ bước đầu tiên đến bước cuối cùng mà là một quá trình lặp và có quay trở lại các bước đã qua.
+
+
+== Các phương pháp khai thác dữ liệu ==
+Phân loại (Classification): Là phương pháp dự báo, cho phép phân loại một đối tượng vào một hoặc một số lớp cho trước.
+Hồi qui (Regression):  Khám phá chức năng học dự đoán, ánh xạ một mục dữ liệu thành biến dự đoán giá trị thực.
+Phân nhóm (Clustering):  Một nhiệm vụ mô tả phổ biến trong đó người ta tìm cách xác định một tập hợp hữu hạn các cụm để mô tả dữ liệu.
+Tổng hợp (Summarization): Một nhiệm vụ mô tả bổ sung liên quan đến phương pháp cho việc tìm kiếm một mô tả nhỏ gọn cho một bộ (hoặc tập hợp con) của dữ liệu.
+Mô hình ràng buộc (Dependency modeling): Tìm mô hình cục bộ mô tả các phụ thuộc đáng kể giữa các biến hoặc giữa các giá trị của một tính năng trong tập dữ liệu hoặc trong một phần của tập dữ liệu.
+Dò tìm biến đổi và độ lệch (Change and Deviation Detection): Khám phá những thay đổi quan trọng nhất trong bộ dữ liệu.
+
+
+== Các vấn đề về tính riêng tư ==
+Vẫn có các mối lo ngại về tính riêng tư gắn với việc khai thác dữ liệu. Ví dụ, nếu một ông chủ có quyền truy xuất vào các hồ sơ y tế, họ có thể loại những người có bệnh tiểu đường hay bệnh tim. Việc loại ra những nhân viên như vậy sẽ cắt giảm chi phí bảo hiểm, nhưng tạo ra các vấn đề về tính hợp pháp và đạo đức.
+Khai thác dữ liệu các tập dữ liệu thương mại hay chính phủ cho các mục đích áp đặt luật pháp và an ninh quốc gia cũng là những mối lo ngại về tính riêng tư đang tăng cao. 5
+Có nhiều cách sử dụng hợp lý với khai thác dữ liệu. Ví dụ, một CSDL các mô tả về thuốc được thực hiện bởi một nhóm người có thể được dùng để tìm kiếm sự kết hợp của các loại thuốc tạo ra các phản ứng (hóa học) khác nhau. Vì việc kết hợp có thể chỉ xảy ra trong một phần 1000 người, một trường hợp đơn lẻ là rất khó phát hiện. Một dự án liên quan đến y tế như vậy có thể giúp giảm số lượng phản ứng của thuốc và có khả năng cứu sống con người. Không may mắn là, vẫn có khả năng lạm dụng đối với một CSDL như vậy.
+Về cơ bản, khai thác dữ liệu đưa ra các thông tin mà sẽ không có sẵn được. Nó phải được chuyển đổi sang một dạng khác để trở nên có nghĩa. Khi dữ liệu thu thập được liên quan đến các cá nhân, thì có nhiều câu hỏi đặt ra liên quan đến tính riêng tư, tính hợp pháp, và đạo đức.
+
+
+== Các lĩnh vực ứng dụng ==
+Các lĩnh vực hiện tại có ứng dụng Khai thác dữ liệu  bao gồm:
+
+
+== Những ứng dụng đáng chú ý của khai thác dữ liệu ==
+Khai thác dữ liệu được xem là phương pháp mà đơn vị Able Danger của Quân đội Mỹ đã dùng để xác định kẻ đứng đầu cuộc tấn công ngày 11 tháng 9, Mohamed Atta, và ba kẻ tấn công ngày 11 tháng 9 khác là các thành viên bị nghi ngờ thuộc lực lượng al Qaeda hoạt động ở Mỹ hơn một năm trước cuộc tấn công.
+Xem tin tức Wikinews tại: Wikinews: U.S. Army intelligence detection of 9/11 terrorists before attack
+Xem bài viết về đơn vị Able Danger.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+Trong bài:
+Chú giải 1:  W. Frawley and G. Piatetsky-Shapiro and C. Matheus, Knowledge Discovery in Databases: An Overview. AI Magazine, Fall 1992, pages 213-228.
+Chú giải 2:  D. Hand, H. Mannila, P. Smyth: Principles of Data Mining. MIT Press, Cambridge, MA, 2001. ISBN 0-262-08290-X
+Chú giải 3:  Fred Schwed, Jr, Where Are the Customers' Yachts? ISBN 0471119792 (1940).
+Chú giải 4:  T. Menzies, Y. Hu, Data Mining For Very Busy People. IEEE Computer, tháng 10 năm 2003, pages 18–25.
+Chú giải 5:  K. A. Taipale, Data Mining and Domestic Security: Connecting the Dots to Make Sense of Data, Center for Advanced Studies in Science and Technology Policy. 5 Colum. Sci. & Tech. L. Rev. 2 Lưu trữ 2014-11-05 tại Wayback Machine (tháng 12 năm 2003).
+Chú giải 6:  Eddie Reed, Jing Jie Yu, Antony Davies, et al., Clear Cell Tumors Have Higher mRNA Levels of ERCC1 and XPB than Other Types of Epithelial Ovarian Cancer Lưu trữ 2005-10-29 tại Wayback Machine, Clinical Cancer Research, 2003.
+
+
+== Xem thêm ==
+Rakesh Agrawal, Tomasz Imielinski, and Arun Swami. Mining Association Rules between Sets of Items in Large Databases (1993). Proceedings of the 1993 ACM SIGMOD International Conference on Management of Data, months 26–28, pp. 207–216.
+Rakesh Agrawal and Ramakrishnan Srikant. Fast Algorithms for Mining Association Rules (1994). Proceedings of the 20th International Conference on Very Large Data Bases (VLDB), month 12–15, pp. 487–499.
+Jaiwei Han and Micheline Kamber, Data Mining: Concepts and Techniques (2001), ISBN 1-55860-489-8
+Ruby Kennedy et al., Solving Data Mining Problems Through Pattern Recognition (1998), ISBN 0-13-095083-1
+O. Maimon and M. Last, Knowledge Discovery and Data Mining – The Info-Fuzzy Network (IFN) Methodology, Kluwer Academic Publishers, Massive Computing Series, 2000.
+Hari Mailvaganam, Future of Data Mining Lưu trữ 2006-01-10 tại Wayback Machine, (tháng 12 năm 2004)
+Sholom Weiss and Nitin Indurkhya, Predictive Data Mining (1998), ISBN 1-55860-403-0
+Ian Witten and Eibe Frank, Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations (2000), ISBN 1-55860-552-5
+Yike Guo and Robert Grossman, editors, "High Performance Data Mining: Scaling Algorithms, Applications and Systems", Kluwer Academic Publishers, 1999.
+
+
+== Các liên kết ngoài ==
+Data Mining Software Guide
+Eruditionhome Lưu trữ 2006-02-12 tại Wayback Machine Directory site for data mining and web mining resources
+Limited introduction to Data Mining (TwoCrows.com) Lưu trữ 2005-11-09 tại Wayback Machine
+thearling.com Lưu trữ 2010-03-07 tại Wayback Machine Comprehensive data mining white papers and tutorials
+SQLServerDataMining.com Information and interactive demos on SQL Server 2005 Data Mining
+CRM Today - Data Mining White papers, articles, presentations and academic papers on data mining
+Data Mining whitepapers, webcasts and case studies
+Data Mining and Data Warehousing Lưu trữ 2005-11-25 tại Wayback Machine Guide to Data Mining
+
+
+=== Tổng hợp thông tin báo chí tự động ===
+
+
+== Phần mềm ==
+YALE Là công cụ miễn phí cho học máy và khai thác dữ liệu
+Weka Lưu trữ 2011-10-28 tại Wayback Machine Phần mềm mã nguồn mở phục vụ cho khai thác dữ liệu viết bằng Java
+Parago Lưu trữ 2005-12-13 tại Wayback Machine Khai thác dữ liệu và Quản lý ICT Asset cho trường học
+Tanagra Lưu trữ 2005-10-16 tại Wayback Machine Phần mềm thống kê và khai thác dữ liệu mã nguồn mở

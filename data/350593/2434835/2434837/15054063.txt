@@ -1,0 +1,49 @@
+Trifluridine (còn được gọi là trifluorothymidine hoặc TFT) là một loại thuốc chống vi rút chống herpesvirus, được sử dụng chủ yếu trên mắt. Nó được bán dưới tên thương mại Viroptic bởi Glaxo Wellcome, hiện được sáp nhập vào GlaxoSmithKline. Thương hiệu này hiện thuộc sở hữu của Monarch Enterprises, thuộc sở hữu hoàn toàn của King Enterprises.
+Trifluridine đã được phê duyệt cho sử dụng y tế vào năm 1980. Nó cũng là một thành phần của thuốc chống ung thư trifluridine/tipiracil, được dùng bằng đường uống.
+
+
+== Sử dụng trong y tế ==
+Thuốc nhỏ mắt Trifluridine được sử dụng để điều trị viêm giác mạc và viêm giác mạc do virut herpes simplex loại 1 và 2, cũng như để phòng ngừa và điều trị nhiễm virut vaccinia của mắt.
+Một tổng quan hệ thống của Cochrane cho thấy trifluridine và aciclovir là phương pháp điều trị hiệu quả hơn idoxuridine hoặc vidarabine, làm tăng đáng kể số lượng mắt được chữa lành thành công trong một đến hai tuần.
+Để điều trị ung thư, sử dụng kết hợp trifluridine/tipiracil.
+
+
+== Tác dụng phụ ==
+Tác dụng phụ thường gặp của thuốc nhỏ mắt trifluridine bao gồm đốt tạm thời, châm chích, kích ứng tại chỗ và phù nề mí mắt.
+Tác dụng bất lợi của công thức chống ung thư chỉ được đánh giá cho trifluridine/tipiracil kết hợp, không phải cho các thành phần riêng lẻ.
+
+
+== Tương tác ==
+Chỉ có nghiên cứu tương tác trong ống nghiệm có sẵn. Trong đó, trifluridine đã sử dụng chất vận chuyển nucleoside tập trung 1 (CNT1) và chất vận chuyển nucleoside cân bằng 1 (ENT1) và 2 (ENT2). Các loại thuốc tương tác với các chất vận chuyển này có thể ảnh hưởng đến nồng độ trifluridine trong huyết tương. Là một chất ức chế phosphorylase thymidine, trifluridine cũng có thể tương tác với cơ chất của enzyme này như zidovudine.
+Đối với thuốc nhỏ mắt, sự hấp thụ trifluridine là không đáng kể, kết xuất tương tác về cơ bản không liên quan.
+
+
+== Dược lý ==
+
+
+=== Cơ chế hoạt động (thuốc nhỏ mắt) ===
+Nó là một chất tương tự nucleoside, một dạng deoxyuridine đã được sửa đổi, tương tự đủ để kết hợp với sự sao chép DNA của virus, nhưng nhóm NottCF3 đã thêm vào cặp thành phần khối uracil, do đó cản trở sự sao chép DNA của virus.
+
+
+=== Dược động học (thuốc nhỏ mắt) ===
+Trifluridine vượt qua giác mạc và được tìm thấy trong dung dịch nước. Hấp thu toàn thân không đáng kể.
+
+
+=== Dược động học (uống) ===
+
+Dữ liệu dược động học của trifluridine đường uống chỉ được đánh giá kết hợp với tipiracil, ảnh hưởng đáng kể đến biến đổi sinh học trước đây. Ít nhất 57% trifluridine được hấp thu từ ruột và nồng độ trong huyết tương cao nhất đạt được sau hai giờ ở bệnh nhân ung thư. Chất này không có xu hướng tích lũy trong cơ thể. Liên kết với protein huyết tương là hơn 96%. Trifluridine được chuyển hóa bởi enzyme thymidine phosphorylase thành 5-trifluoromethyl-2,4 (1 H, 3 H) -pyrimidinedione (FTY), và cũng bằng glucuronidation. Nửa đời thải trừ là 1,4 giờ vào ngày đầu tiên và tăng lên 2,1 giờ vào ngày thứ mười hai. Nó chủ yếu được bài tiết qua thận.
+Tipiracil làm cho C<sub id="mwTA">max</sub> (nồng độ trong huyết tương cao nhất) của trifluridine tăng gấp 22 lần và diện tích của nó dưới đường cong 37 lần, bằng cách ức chế thymidine phosphorylase.
+
+
+== Hóa học ==
+Chất là một loại bột tinh thể màu trắng. Nó tự do hòa tan trong methanol và acetone; hòa tan trong nước, ethanol, 0,01 M axit clohydric và 0,01 Natri hydroxide M; ít tan trong rượu isopropyl và acetonitril; ít tan trong dietyl ete; và hòa tan rất ít trong isopropyl ether.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Costin D, Dogaru M, Popa A, Cijevschi I (2004). “Trifluridine therapy in herpetic in keratitis”. Rev Med Chir Soc Med Nat Iasi. 108 (2): 409–12. PMID 15688823.
+Kuster P, Taravella M, Gelinas M, Stepp P (1998). “Delivery of trifluridine to human cornea and aqueous using collagen shields”. CLAO J. 24 (2): 122–4. PMID 9571274.
+O'Brien W, Taylor J (1991). “Therapeutic response of herpes simplex virus-induced corneal edema to trifluridine in combination with immunosuppressive agents”. Invest Ophthalmol Vis Sci. 32 (9): 2455–61. PMID 1907950.
+“Trifluridine Ophthalmic Solution, 1%” (PDF). Bản gốc (PDF) lưu trữ ngày 20 tháng 9 năm 2009. Truy cập ngày 24 tháng 3 năm 2007.

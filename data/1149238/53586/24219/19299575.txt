@@ -1,0 +1,16 @@
+Trong lĩnh vực trí tuệ nhân tạo, các vấn đề khó nhất thường được gọi không chính thức là AI-đầy đủ (tiếng Anh: AI-complete hoặc AI-hard, hay còn gọi là AI-hoàn chỉnh, AI-khó), với ngụ ý rằng độ khó các vấn đề tính toán này với giả định trí thông minh được đưa vào tính toán, tương đương với việc giải quyết vấn đề trí tuệ nhân tạo trung tâm—biến máy tính thông minh như con người, hoặc trí tuệ tổng hợp nhân tạo. Gọi một vấn đề là AI-đầy đủ phản ánh một thái độ rằng vấn đề không thể giải quyết bằng cách giải thuật đơn giản nào đó.
+Người ta giải thuyết các vấn đề AI-đầy đủ bao gồm thị giác máy tính, hiểu ngôn ngữ tự nhiên, và đối phó với các tình huống bất ngờ khi giải quyết bất cứ vấn đề nào trong thế giới thực.
+
+
+== Lịch sử ==
+Fanya Montalvo là người đặt ra thuật ngữ này theo cách tương tự với NP-đầy đủ và NP-khó trong lý thuyết độ phức tạp tính toán, dùng để chính thức mô tả một lớp nổi tiếng các bài toán khó nhất. 
+Các cách sử dụng ban đầu của thuật ngữ này là trong luận án Tiến sĩ năm 1987 của Erik Mueller và trong Jargon File của Eric S. Raymond năm 1991.
+
+
+== Xem thêm ==
+ASR-complete
+Danh sách các vấn đề chưa được giải quyết trong khoa học máy tính
+Trí tuệ tổng hợp (synthetic intelligence)
+
+
+== Tham khảo ==

@@ -1,0 +1,69 @@
+Temozolomide (TMZ; tên thương hiệu Temodar và Temodal và Temcad) là một loại thuốc hóa trị liệu uống. Nó là một tác nhân alkyl hóa được sử dụng như một phương pháp điều trị một số bệnh ung thư não; như là một điều trị dòng thứ hai cho u tế bào hình sao và một điều trị đầu tiên cho u nguyên bào thần kinh đệm đa hình.
+
+
+== Chỉ định ==
+Phối hợp với nitrosourea và procarbazine tron điều trị u sao bào
+U nguyên bào thần kinh đệm đa hình mới được chẩn đoán 
+
+
+== Chống chỉ định ==
+Temozolomide chống chỉ định ở những bệnh nhân quá mẫn cảm với nó hoặc với thuốc tương tự dacarbazine. Việc sử dụng temozolomide không được khuyến cáo ở những bệnh nhân bị suy tủy nặng.
+
+
+== Tác dụng phụ ==
+Tác dụng phụ phổ biến nhất là ức chế tủy xương. Các tác dụng phụ không liên quan đến huyết học phổ biến nhất liên quan đến temozolomide là buồn nôn và nôn, có thể tự giới hạn hoặc dễ dàng kiểm soát bằng liệu pháp chống nôn tiêu chuẩn. Những tác dụng sau này thường nhẹ đến trung bình (độ 1 đến 2). Tỷ lệ buồn nôn và nôn nặng là khoảng 4% mỗi. Bệnh nhân đã có từ trước hoặc có tiền sử nôn mửa nghiêm trọng có thể cần điều trị bằng thuốc chống nôn trước khi bắt đầu điều trị temozolomide. Temozolomide nên được dùng ở trạng thái nhịn ăn, ít nhất một giờ trước bữa ăn. Điều trị chống nôn có thể được sử dụng trước, hoặc sau đó, sử dụng temozolomide.
+Temozolomide là genotoxic, teratogen và fetotoxic và không nên được sử dụng trong khi mang thai. Phụ nữ cho con bú nên ngừng cho con bú trong khi nhận thuốc vì nguy cơ bài tiết vào sữa mẹ. Một nghiên cứu chỉ ra rằng những phụ nữ sử dụng temozolomide mà không dùng biện pháp bảo tồn khả năng sinh sản đồng thời mang thai ở mức thấp hơn trong cuộc sống, nhưng nghiên cứu này quá nhỏ để cho thấy ý nghĩa thống kê trong giả thuyết rằng temozolomide sẽ gây nguy cơ vô sinh nữ. Ở bệnh nhân nam, temozolomide có thể có tác dụng gây độc gen. Đàn ông được khuyên không nên làm cha trong một hoặc đến sáu tháng sau khi điều trị và tìm lời khuyên về bảo quản tinh trùng trước khi điều trị, vì khả năng vô sinh không thể đảo ngược do điều trị bằng temozolomide.
+Rất hiếm khi temozolomide có thể gây suy hô hấp cấp tính hoặc tổn thương gan.
+
+
+== Tương tác ==
+Vì temozolomide không được chuyển hóa ở gan và có ái lực thấp với protein huyết tương, nên nó có khả năng tương tác thấp. Một phân tích dữ liệu bệnh nhân cho thấy không có tương tác với một loạt các loại thuốc khác; ngoại lệ là axit valproic, làm chậm quá trình đào thải temozolomide ra khỏi cơ thể. Kết hợp thuốc với các thuốc ức chế tủy khác có thể làm tăng nguy cơ ức chế tủy.
+
+
+== Dược lý ==
+
+
+=== Cơ chế hoạt động ===
+Lợi ích điều trị của temozolomide phụ thuộc vào khả năng alkyl hóa / methyl hoá DNA, thường xảy ra ở các vị trí N-7 hoặc O-6 của guanine. Sự methyl hóa này gây tổn hại đến DNA và gây ra cái chết của các tế bào ung thư. Tuy nhiên, một số tế bào ung thư có khả năng sửa chữa kiểu hư hại DNA này thông qua việc sản xuất protein O 6 -alkylguanine DNA alkyltransferase (AGT) được mã hóa ở người bởi O methyltransferase -6-methylguanine-DNA (MGMT) gen, từ đó làm giảm đáp ứng của khối u với temozolomide. Trong một số khối u, sự im lặng biểu sinh của gen MGMT ngăn cản sự tổng hợp enzyme này và do đó, các khối u như vậy nhạy cảm hơn với việc tiêu diệt temozolomide. Ngược lại, sự hiện diện của protein AGT trong các khối u não dự đoán đáp ứng kém với temozolomide và những bệnh nhân này nhận được rất ít lợi ích từ hóa trị liệu với temozolomide.
+
+
+=== Dược động học ===
+Temozolomide được hấp thu nhanh chóng và gần như hoàn toàn từ ruột, và dễ dàng thâm nhập vào hàng rào máu não máu; nồng độ trong dịch não tủy là 30% nồng độ trong huyết tương. Lượng thức ăn với thức ăn làm giảm nồng độ tối đa trong huyết tương xuống 33% và diện tích dưới đường cong giảm 9%. Chỉ có 15% (10-20%) chất được liên kết với protein huyết tương. Temozolomide là một tiền chất; nó bị thủy phân một cách tự nhiên ở pH sinh lý thành 3-methyl- (triazen-1-yl) imidazole-4-carboxamide (MTIC). MTIC phân tách thành monomethylhydrazine, có thể là tác nhân gâu methyl hóa và 5-aminoimidazole-4-carboxamide (AIC). Các chất chuyển hóa khác bao gồm axit temozolomide và các chất ưa nước không xác định.
+
+Thời gian bán hủy trong huyết tương là 1,8 giờ. Các chất và chất chuyển hóa của nó chủ yếu được bài tiết qua nước tiểu. 
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Tính chất hóa học ==
+Temozolomide là một dẫn xuất imidazotetrazine. Nó hòa tan một chút trong nước và axit nước, và tan chảy ở 212 °C (414 °F)     dưới sự phân hủy.
+
+
+== Lịch sử ==
+Đại lý được phát triển bởi Malcolm Stevens và nhóm của ông tại Đại học Aston ở Birmingham. Nó đã có sẵn ở Mỹ từ tháng 8 năm 1999 và ở các nước khác kể từ đầu những năm 2000.
+
+
+== Nghiên cứu ==
+Các nghiên cứu trong phòng thí nghiệm và các thử nghiệm lâm sàng đã bắt đầu nghiên cứu khả năng làm tăng hiệu lực chống ung thư của temozolomide bằng cách kết hợp nó với các tác nhân dược lý khác. Ví dụ, các thử nghiệm lâm sàng đã chỉ ra rằng việc bổ sung chloroquine có thể có lợi cho việc điều trị bệnh nhân glioma. Các nghiên cứu trong phòng thí nghiệm cho thấy temozolomide đã giết chết các tế bào khối u não hiệu quả hơn khi epigallocatechin gallate (EGCG), một thành phần của trà xanh, được thêm vào; tuy nhiên, hiệu quả của hiệu ứng này vẫn chưa được xác nhận ở bệnh nhân khối u não. Các nghiên cứu tiền lâm sàng đã báo cáo vào năm 2010 về các nghiên cứu về việc sử dụng hợp chất trans natri crocetine tăng cường khuếch tán oxy (TSC) khi kết hợp với temozolomide và xạ trị  và một thử nghiệm lâm sàng đã được tiến hành Tính đến  tháng 8 năm 2015.
+Trong khi các phương pháp đã đề cập ở trên đã điều tra xem liệu sự kết hợp của temozolomide với các thuốc khác có thể cải thiện kết quả điều trị hay không, những nỗ lực cũng đã bắt đầu nghiên cứu xem việc thay đổi chính phân tử temozolomide có thể làm tăng hoạt động của nó hay không. Một cách tiếp cận như vậy đã hợp nhất vĩnh viễn rượu perillyl, một hợp chất tự nhiên với hoạt động trị liệu đã được chứng minh ở bệnh nhân ung thư não, với phân tử temozolomide. Hợp chất tiểu thuyết kết quả, được gọi là NEO212 hoặc TMZ-POH, tiết lộ hoạt động chống ung thư lớn hơn đáng kể so với hai phân tử mẹ của nó, temozolomide và rượu perillyl. Mặc dù Tính đến  năm 2016, NEO212 chưa được thử nghiệm ở người, nó đã cho thấy hoạt động trị liệu ung thư vượt trội trong các mô hình động vật của bệnh u thần kinh đệm, khối u ác tính, và di căn não của ung thư vú ba lần âm tính.
+Do các tế bào khối u biểu hiện gen MGMT có khả năng chống lại tác dụng của temozolomide nhiều hơn, các nhà nghiên cứu đã điều tra xem liệu bao gồm O 6 -benzylguanine (O 6 -BG), một chất ức chế AGT, có thể vượt qua sự kháng thuốc này và cải thiện hiệu quả điều trị của thuốc hay không. Trong phòng thí nghiệm, sự kết hợp này thực sự cho thấy hoạt động temozolomide tăng lên trong nuôi cấy tế bào khối u trong ống nghiệm và trên mô hình động vật in vivo. Tuy nhiên, gần đây     hoàn thành thử nghiệm lâm sàng giai đoạn II với bệnh nhân khối u não mang lại kết quả hỗn hợp; trong khi có một số hoạt động trị liệu được cải thiện khi O 6 -BG và temozolomide được dùng cho bệnh nhân mắc bệnh glioma anaplastic kháng temozolomide, dường như không có sự phục hồi đáng kể về độ nhạy temozolomide ở bệnh nhân mắc bệnh glioblastoma đa kháng thuốc.
+Một số nỗ lực tập trung vào các tế bào gốc tạo máu kỹ thuật biểu hiện gen MGMT trước khi cấy chúng vào bệnh nhân khối u não. Điều này sẽ cho phép bệnh nhân nhận được liều temozolomide mạnh hơn, vì các tế bào tạo máu của bệnh nhân sẽ kháng thuốc.
+Liều cao temozolomide trong u thần kinh đệm cấp độ cao có độc tính thấp, nhưng kết quả tương đương với liều tiêu chuẩn.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Thuốc hóa trị thu nhỏ khối u não Học viện thần kinh học Hoa Kỳ, ngày 21 tháng 5 năm 2007
+Thông tin cho những người đang điều trị với temozolomide Cancer Research UK (CancerHelp UK)

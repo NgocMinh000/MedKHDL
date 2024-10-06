@@ -1,0 +1,33 @@
+Daptomycin là kháng sinh lipopeptide được sử dụng trong điều trị nhiễm trùng hệ thống và đe dọa tính mạng gây ra bởi vi khuẩn Gram dương. Thuốc được tìm thấy trong tự nhiên dưới dạng hợp chất của Streptomyces roseosporus hoại sinh trong đất. Cơ chế hoạt động khác biệt giúp nó chống lại nhiều vi khuẩn đa kháng. Thuốc được phân phối ở Hoa Kỳ dưới tên thương mại Cubicin bởi Cubist Pharmaceuticals.
+
+
+== Cơ chế hoạt động ==
+Daptomycin có có chế hoạt động khác biệt gây phá hủy chức năng màng tế bào. Nó chèn vào màng tế bào dưới dạng phosphatidylglycerol sau đó tập hợp lại. Sự tập trung của daptomycin làm thay đổi độ cong của màng tạo ra lỗ gây rò rỉ ion. Điều này gây khử cực rất nhanh kết quả làm mất điện thế màng tế bào dẫn đến ức chế tổng hợp protein, DNA, và ARN gây chết tế bào vi khuẩn.
+
+
+== Tác dụng ==
+
+
+=== Chỉ định ===
+Daptomycin được chấp thuận để sử dụng ở người lớn tại Hoa Kỳ cho nhiễm trùng da và cấu trúc da gây ra bởi nhiễm trùng Gram dương, vãng khuẩn huyết S. aureus, và viêm nội tâm mạc cũng do S. aureus. Nó liên kết chặt với lớp surfactant của phổi, do đó không thể dùng trong viêm phổi. There seems to be a difference in working daptomycin on hematogenous pneumonia.
+
+
+=== Tác dụng không mong muốn ===
+Tác dụng không mong muốn thường gặp khi sử dụng daptomycin bao gồm:
+Tim mạch: huyết áp thấp, cao huyết áp, phù
+Hệ thần kinh trung ương: mất ngủ
+Da:phát ban
+Tiêu hóa: tiêu chảy, đau bụng
+Huyết học: tăng bạch cầu ái toan
+Hô hấp: khó thở
+Khác: phản ứng tại chỗ tiêm, sốt, quá mẫn
+Ít gặp hơn nhưng các tác dụng phụ nghiêm trọng được báo cáo trong y văn bao gồm
+Nhiễm độc gan: tăng men gan
+Nhiễm độc thận : tổn thương thận cấp từ tiêu cơ vân
+Bệnh lý về cơ và tiêu cơ vân đã từng được báo cáo ở bệnh nhân đang dùng statins đồng thời, nhưng cơ chế do statin hay daptomycin gây ra hiệu ứng này vẫn chưa rõ. Do đó nhà sản xuất đề nghị rằng nên tạm ngưng statin trong thời gian điều trị daptomycin. Cần thường xuyên kiểm tra nồng độ creatinine kinase trong thời gian điều trị daptomycin.
+
+
+== Sinh tổng hợp ==
+
+
+== Tham khảo ==

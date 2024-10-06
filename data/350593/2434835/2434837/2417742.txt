@@ -1,0 +1,36 @@
+Celecoxib INN ( SE-lə-KOK-sib) là thuốc thuộc nhóm sulfonamide nonsteroidal anti-inflammatory drug (NSAID) và ức chế chọn lọc COX-2 sử dụng điều trị thoái hóa khớp, Viêm khớp dạng thấp, đau, các triệu chứng liên quan đến kinh nguyệt, giảm lượng polyp ở kết tràng và trực tràng.
+Tác dụng phụ bao gồm tăng 37% nguy cơ tim mạch ở bệnh nhân, bao gồm nhồi máu cơ tim, đột quỵ hoặc tử vong do bệnh tim mạch.
+Thuốc được tiếp thị bởi Pfizer, được biết dưới tên biệt dược Celebrex hoặc Celebra điều trị chứng viêm khớp và Onsenal điều trị giảm lượng polyps. Celecoxib là thuốc kê đơn dưới dạng viên nang.
+
+
+== Chỉ định ==
+Celecoxib thường được điều trị cho thoái hóa khớp, viêm khớp dạng thấp, đau, đau đo kinh nguyệt, đau cột sống, và giảm lượng polyp ở kết tràng và trực tràng.
+Tác dụng giảm đau sử dụng trong phẫu thuật gần bằng hoặc hơn ibuprofen. Sử dụng giảm đau tương tự như paracetamol (acetaminophen).
+Celecoxib có tác dụng giảm đau tương tự như các NSAID thông thường nhưng ít tác dụng phụ hệ tiêu hóa hơn. Thực tế Celecoxib được chỉ định điều trị cơn đau cho bệnh mãn tính. Cũng có thể điều trị cho cơn đau tức thời đặc biệt trong trường hợp bệnh nhân mẫn cảm ở da (như là nổi mề đay) khi sử dụng các NSAID ức chế không chọn lọc hoặc aspirin.
+Chống chỉ định:
+Mẫn cảm với các thành phần của thuốc.
+Suy gan nặng, suy tim nặng, viêm ruột và suy thận.
+Trẻ em.
+
+
+== Dược lý học ==
+Celecoxib ưu tiên ức chế chọn lọc COX-2 mạnh hơn COX-1 từ 100 đến 400 lần, chủ yếu ức chế đồng phân của cyclooxygenase (do dó ức chế sản xuất prostaglandin), ngược lại các NSAID ức chế không chọn lọc (như aspirin, naproxen, và ibuprofen) ức chế cả COX-1 và COX-2. COX-1 thường được xem là loại enzyme "bảo vệ" và đóng vai trò trong bảo vệ chất nhầy hệ tiêu hóa, huyết động học ở thận, chức năng đông máu ở tiểu cầu. COX-2 tác dụng trên các tế bào bao gồm phản ứng viêm và yếu tố kích thích hoạt động lipopolysaccharides, cytokines, tiêu diệt khối u. Celecoxib ưu tiên ức chế COX-2 hơn COX-1 khoảng 10-20 lần. Cơ chế là liên kết với cầu nối Sulfonamide với phần thân nước che lấp phần có hoạt tính của COX-2. Dựa trên lý thuyết này, celecoxib và các thuốc ức chế chọn lọc COX-2 khác sẽ kháng viêm giảm đau trong khi giảm tối thiểu được tác dụng phụ trên hệ tiêu hóa (ví dụ loét dạ dày) tác dụng phụ thường thấy ở các NSAID ức chế không chọn lọc.
+Celecoxib ức chế COX-2 mà không ảnh hưởng đến COX-1. COX-1 có nhiều tác dụng bao gồm tổng hợp prostaglandins và thromboxane, Nhưng COX-2 chỉ có ảnh hưởng lên tổng hợp prostaglandin. Do đó, việc ức chế COX-2 chỉ ức chế tổng hợp prostaglandin mà không ảnh hưởng thromboxane, vì vậy không có tác dụng bảo vệ tim mạch như các NSAID ức chế không chọn lọc.
+Dược động học:
+Hấp thu: được qua ống tiêu hóa, đạt nồng độ đỉnh trong huyết tương sau 3h, gắn với protein huyết tương khoáng 97%.
+Chuyển hóa: bởi men cytocrom P450, CYP2P9 thành chất không có hoạt tính ức chế COX.
+Thải trừ: qua phân và nước tiểu dưới dạng những chất chuyển hóa. T1/2 khoảng 11h.
+Thận trọng:
+Không dùng Celecoxib để thay thế corticoid hoặc điều trị suy giảm corticoid.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Celebrex website run by Pfizer
+FDA Alert for Practitioners on Celebrex (celecoxib), published ngày 17 tháng 12 năm 2004
+FDA Alert for Healthcare Professionals published ngày 4 tháng 7 năm 2005
+Largest systematic review of adverse renal and arrhythmia risk of Celecoxib and other COX-2 inhibitors, in JAMA 2006 Lưu trữ 2020-11-05 tại Wayback Machine
+U.S. National Library of Medicine: Drug Information Portal - Celecoxib
+"Celebrex" collected news and commentary at The New York Times

@@ -1,0 +1,88 @@
+Interleukin-2 (IL-2) là một interleukin, một loại phân tử tín hiệu cytokine trong hệ thống miễn dịch. Đó là protein 15,5 - 16 kDa  điều chỉnh hoạt động của các tế bào bạch cầu (bạch cầu, thường là tế bào lympho) chịu trách nhiệm về khả năng miễn dịch. IL-2 là một phần trong phản ứng tự nhiên của cơ thể đối với nhiễm trùng vi khuẩn và phân biệt đối xử giữa người nước ngoài ("vô ngã") và "bản thân". IL-2 làm trung gian tác dụng của nó bằng cách liên kết với các thụ thể IL-2, được thể hiện bởi các tế bào lympho. Các nguồn chính của IL-2 là các tế bào T CD4 + được kích hoạt, tế bào T CD8 + được kích hoạt, tế bào NK và tế bào đuôi gai.
+
+
+== Thụ thể IL-2 ==
+IL-2 là một thành viên của một gia đình cytokine, mỗi thành viên trong đó có một gói bốn chuỗi xoắn alpha; gia đình cũng bao gồm IL-4, IL-7, IL-9, IL-15 và IL-21. Tín hiệu IL-2 thông qua thụ thể IL-2, một phức hợp bao gồm ba chuỗi, được gọi là alpha (CD25), beta (CD122) và gamma (CD132). Chuỗi gamma được chia sẻ bởi tất cả các thành viên trong gia đình.
+Tiểu đơn vị thụ thể IL-2 (IL-2R) liên kết IL-2 với ái lực thấp (K d ~ 10 8 M). Sự tương tác của IL-2 và CD25 không dẫn đến sự truyền tín hiệu do chuỗi nội bào ngắn của nó nhưng có khả năng (khi được liên kết với tiểu đơn vị β và ϒ) để tăng ái lực gấp 100 lần IL-2R. Phản ứng dị hóa của tiểu đơn vị β và IL của IL-2R là điều cần thiết để truyền tín hiệu trong các tế bào T.  IL-2 có thể báo hiệu thông qua dimeric CD122/CD132 IL-2R (K d ~ 10 −9 M) hoặc trimeric ái lực cao CD25/CD122/CD132 IL-2R (K d ~ 10 11 M). Dimeric IL-2R được biểu thị bằng các tế bào T CD8 + và các tế bào NK, trong khi các tế bào T điều tiết và các tế bào T được kích hoạt thể hiện mức độ cao của IL-2R.
+
+
+== Đường dẫn và quy định báo hiệu IL-2 ==
+Các hiệu ứng pleiotropic của IL-2 được kích hoạt do thực tế là tín hiệu IL-2 có thể được truyền qua 3 đường truyền tín hiệu khác nhau; Con đường JAK-STAT, PI3K/Akt/mTOR và MAPK/ERK. Sau khi IL-2 liên kết với thụ thể của nó, các miền tế bào chất của CD122 và CD132 dị hóa. Điều này dẫn đến việc kích hoạt Janus kinase JAK1 và JAK3, sau đó phosphoryl hóa T338 trên CD122. Phosphoryl hóa này tuyển dụng các yếu tố phiên mã STAT, chủ yếu là STAT5, làm giảm dần và di chuyển đến nhân tế bào nơi chúng liên kết với DNA.
+Quy định biểu hiện gen cho IL-2 có thể ở nhiều cấp độ hoặc theo nhiều cách khác nhau. Một trong những điểm kiểm tra là tín hiệu thông qua TCR, thụ thể kháng nguyên của tế bào lympho T sau khi nhận ra phức hợp MHC-peptide. Con đường báo hiệu từ TCR sau đó đi qua con đường phụ thuộc phospholipase-C (PLC). PLC kích hoạt 3 yếu tố phiên mã chính và con đường của chúng: NFAT, NFkB và AP-1. Sau khi tính toán chi phí từ CD28, việc kích hoạt tối ưu biểu hiện IL-2 và các con đường này được tạo ra.
+Đồng thời Oct-1 được thể hiện. Nó giúp kích hoạt. Oct1 được thể hiện trong các tế bào lympho T và Oct2 được cảm ứng sau khi kích hoạt tế bào.
+NFAT có nhiều thành viên trong gia đình, tất cả chúng đều nằm trong tế bào chất và tín hiệu đi qua calcineurin, NFAT bị khử phospho hóa và do đó được chuyển vào nhân.
+AP-1 là một dimer và bao gồm các protein c-Jun và c-Fos. Nó hợp tác với các yếu tố phiên mã khác bao gồm cả NFkB và Oct.
+NFkB được chuyển vào nhân sau khi tính toán chi phí thông qua CD28. NFkB là một dị vòng và có hai vị trí liên kết trên bộ khởi động IL-2.
+
+
+== Chức năng ==
+IL-2 có vai trò thiết yếu trong các chức năng chính của hệ thống miễn dịch, khả năng chịu đựng và miễn dịch, chủ yếu thông qua các tác động trực tiếp của nó lên các tế bào T. Trong tuyến ức, nơi các tế bào T trưởng thành, nó ngăn ngừa các bệnh tự miễn bằng cách thúc đẩy sự biệt hóa của một số tế bào T chưa trưởng thành thành các tế bào T điều tiết, ngăn chặn các tế bào T khác có khả năng tấn công các tế bào khỏe mạnh bình thường trong cơ thể. IL-2 tăng cường sự chết tế bào do kích hoạt (AICD). IL-2 cũng thúc đẩy quá trình biệt hóa tế bào T thành tế bào T tác động và vào tế bào T nhớ khi tế bào T ban đầu cũng được kích thích bởi một kháng nguyên, do đó giúp cơ thể chống lại nhiễm trùng. Cùng với các cytokine phân cực khác, IL-2 kích thích sự biệt hóa tế bào T CD4 + ngây thơ thành tế bào lympho Th1 và Th2 trong khi nó cản trở sự biệt hóa thành tế bào lympho Th17 và folicular Th.
+Biểu hiện và bài tiết của nó được quy định chặt chẽ và hoạt động như một phần của cả hai vòng điều hòa ngược dương tính và âm tính thoáng qua trong việc gắn kết và làm giảm các phản ứng miễn dịch. Thông qua vai trò của nó trong việc phát triển bộ nhớ miễn dịch tế bào T, phụ thuộc vào sự mở rộng số lượng và chức năng của các dòng vô tính tế bào T được chọn lọc, nó đóng một vai trò quan trọng trong việc duy trì miễn dịch qua trung gian tế bào.
+
+
+== Vai trò trong bệnh tật ==
+Trong khi nguyên nhân gây ngứa vẫn chưa được hiểu rõ, một số bằng chứng chỉ ra rằng IL-2 có liên quan đến bệnh vẩy nến ngứa.
+
+
+== Sử dụng y tế ==
+
+
+=== Dược phẩm tương tự ===
+Aldesleukin là một dạng interleukin-2 tái tổ hợp. Nó được sản xuất bằng công nghệ DNA tái tổ hợp và được bán trên thị trường dưới dạng protein trị liệu và có thương hiệu là Proleukin. Nó đã được Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phê duyệt và tại một số quốc gia Châu Âu để điều trị ung thư (u ác tính, ung thư tế bào thận) với liều lượng lớn không liên tục và đã được sử dụng rộng rãi với liều lượng liên tục.
+Interking là một IL-2 tái tổ hợp với serine ở dư lượng 125, được bán bởi Thâm Quyến Neptunus.
+Neoleukin 2/15 là một mô phỏng được thiết kế tính toán của IL-2 được thiết kế để tránh các tác dụng phụ phổ biến. Nó hiện đang được thương mại hóa thành một liệu pháp.
+
+
+==== Liều dùng ====
+Các liều IL-2 khác nhau trên khắp Hoa Kỳ và trên toàn thế giới được sử dụng. Hiệu quả và tác dụng phụ của các liều lượng khác nhau thường là một điểm bất đồng.
+
+
+===== Hoa Kỳ =====
+Thông thường, ở Mỹ, lựa chọn liều cao hơn được sử dụng, bị ảnh hưởng bởi loại ung thư, đáp ứng với điều trị và sức khỏe bệnh nhân nói chung. Bệnh nhân thường được điều trị trong năm ngày liên tiếp, ba lần một ngày, trong mười lăm phút. Khoảng 10 ngày sau đây giúp bệnh nhân hồi phục giữa các lần điều trị. IL-2 được truyền tĩnh mạch trên cơ sở nội trú để cho phép theo dõi đúng các tác dụng phụ.
+Một chế độ liều thấp hơn bao gồm tiêm IL-2 dưới da thường trên cơ sở ngoại trú. Nó có thể được đưa ra trên cơ sở điều trị nội trú trong hơn 1-3 ngày, tương tự và thường bao gồm cả việc cung cấp hóa trị.
+IL-2 tiêm bắp thường được sử dụng để điều trị di căn khối u ác tính trong quá cảnh và có tỷ lệ đáp ứng hoàn thành cao.
+
+
+==== Độc tính ====
+IL-2 có một cửa sổ trị liệu hẹp và mức độ dùng thuốc thường quyết định mức độ nghiêm trọng của các tác dụng phụ.
+Một số tác dụng phụ thường gặp:
+
+triệu chứng giống cúm (sốt, nhức đầu, đau cơ và khớp, mệt mỏi)
+buồn nôn/nôn
+khô, ngứa da hoặc phát ban
+yếu hoặc khó thở
+bệnh tiêu chảy
+huyết áp thấp
+buồn ngủ hoặc lú lẫn
+ăn mất ngon
+Tác dụng phụ nghiêm trọng và nguy hiểm hơn đôi khi được nhìn thấy, chẳng hạn như các vấn đề về hô hấp, nhiễm trùng nghiêm trọng, co giật, dị ứng, các vấn đề về tim, suy thận hoặc một loạt các biến chứng có thể khác. Tác dụng phụ phổ biến nhất của liệu pháp IL-2 liều cao là hội chứng rò rỉ mạch máu (VLS; còn được gọi là hội chứng rò rỉ mao mạch). Nó được gây ra bởi các tế bào nội mô phổi biểu hiện IL-2R có ái lực cao. Những tế bào này, là kết quả của liên kết IL-2, làm tăng tính thấm thành mạch. Do đó, dịch nội mạch xâm nhập vào các cơ quan, chủ yếu là phổi, dẫn đến phù phổi đe dọa tính mạng hoặc phù não.
+Một nhược điểm khác của liệu pháp miễn dịch ung thư IL-2 là thời gian bán hủy ngắn trong lưu thông và khả năng mở rộng chủ yếu các tế bào T điều tiết.
+IL-2 tiêm tĩnh mạch được sử dụng để điều trị di căn khối u ác tính trong quá cảnh thường được dung nạp tốt.
+
+
+=== Dẫn xuất dược phẩm ===
+Eisai đưa ra thị trường một loại thuốc gọi là denileukin Diftitox (tên thương mại là Ontak), là một loại protein tổng hợp tái tổ hợp của phối tử IL-2 ở người và độc tố bạch hầu. Thuốc này liên kết với các thụ thể IL-2 và đưa độc tố bạch hầu vào các tế bào thể hiện các thụ thể đó, giết chết các tế bào. Trong một số bệnh bạch cầu và u lympho, các tế bào ác tính biểu hiện thụ thể IL-2, vì vậy denileukin Diftitox có thể giết chết chúng. Năm 1999, Ontak đã được Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phê chuẩn để điều trị ung thư hạch tế bào T ở da (CTCL).
+
+
+== Nghiên cứu tiền lâm sàng ==
+IL-2 đã được sử dụng trong các thử nghiệm lâm sàng để điều trị nhiễm virus mạn tính và làm thuốc tăng cường (bổ trợ) cho vắc-xin. Việc sử dụng IL-2 với liều lượng lớn trong 6 tuần8 lần điều trị HIV, tương tự như sử dụng trong điều trị ung thư, được cho là không hiệu quả trong việc ngăn ngừa tiến triển chẩn đoán AIDS trong hai thử nghiệm lâm sàng lớn được công bố năm 2009. Gần đây, IL-2 liều thấp đã cho thấy thành công sớm trong việc điều chỉnh hệ thống miễn dịch trong bệnh như tiểu đường tuýp 1 và viêm mạch máu. Cũng có những nghiên cứu đầy hứa hẹn tìm cách sử dụng IL-2 liều thấp trong bệnh tim thiếu máu cục bộ.
+
+
+=== Các phức hợp miễn dịch IL-2/anti-IL-2 mAb (IL-2 ic) ===
+IL-2 không thể hoàn thành vai trò là một tác nhân trị liệu miễn dịch hứa hẹn do những hạn chế đáng kể được liệt kê ở trên. Một số vấn đề có thể được khắc phục bằng cách sử dụng ic IL-2. Chúng bao gồm IL-2 và một số kháng thể đơn dòng của nó (mAb) và có thể tăng cường hoạt động sinh học của IL-2 in vivo. Cơ chế chính của hiện tượng này trên cơ thể là do sự kéo dài thời gian bán hủy của cytokine trong lưu thông. Tùy thuộc vào bản sao của IL-2 mAb, ic IL-2 có thể kích thích có chọn lọc cả CD25 cao (phức hợp IL-2/JES6-1) hoặc tế bào cao CD122 (IL-2/S4B6). Các phức hợp miễn dịch IL-2/S4B6 có hoạt tính kích thích cao đối với tế bào NK và tế bào T CD8 + và do đó chúng có thể thay thế IL-2 thông thường trong liệu pháp miễn dịch ung thư. Mặt khác, IL-2/JES6-1 kích thích chọn lọc rất cao các tế bào T điều tiết và chúng có thể có khả năng hữu ích cho việc cấy ghép và điều trị các bệnh tự miễn.
+
+
+== Lịch sử ==
+Theo sách giáo khoa miễn dịch học: "IL-2 đặc biệt quan trọng trong lịch sử, vì đây là loại cytokine loại I đầu tiên được nhân bản, loại cytokine loại I đầu tiên được nhân bản và là loại cytokine loại chuỗi ngắn đầu tiên có cấu trúc thụ thể đã được giải quyết. Nhiều nguyên tắc chung đã được rút ra từ các nghiên cứu về cytokine này, bao gồm cả cytokine đầu tiên được chứng minh là hoạt động theo yếu tố tăng trưởng như thời trang thông qua các thụ thể có ái lực cao cụ thể, tương tự như các yếu tố tăng trưởng đang được nghiên cứu bởi các nhà nội tiết học và sinh hóa học ". 
+Vào giữa những năm 1960, các nghiên cứu đã báo cáo "các hoạt động" trong môi trường điều hòa bạch cầu đã thúc đẩy sự tăng sinh tế bào lympho.  Vào giữa những năm 1970, người ta phát hiện ra rằng các tế bào T có thể được tăng lên nhanh chóng chọn lọc khi con người bình thường tủy xương tế bào được nuôi cấy trong môi trường có điều kiện thu được từ tế bào lympho người kích thích phytohemagglutinin bình thường.  Yếu tố chính được phân lập từ các tế bào chuột nuôi cấy vào năm 1979 và từ các tế bào người được nuôi cấy vào năm 1980. Gen cho IL-2 ở người được nhân bản vào năm 1982 sau một cuộc cạnh tranh khốc liệt. 
+Hoạt động thương mại để đưa một loại thuốc IL-2 ra thị trường đã diễn ra mạnh mẽ vào những năm 1980 và 90. Đến năm 1983, Cetus Corporation đã tạo ra một phiên bản tái tổ hợp độc quyền của IL-2 (Aldesleukin, sau này được đặt tên là Proleukin), với alanine được loại bỏ khỏi đầu N và dư lượng 125 được thay thế bằng serine.     Amgen sau đó tham gia vào lĩnh vực này với protein tái tổ hợp, đột biến, độc quyền của riêng mình và Cetus và Amgen đã sớm cạnh tranh khoa học và tại các tòa án; Cetus đã thắng các trận chiến pháp lý và buộc Amgen rời khỏi sân.  Đến năm 1990, Cetus đã được aldesleukin chấp thuận ở chín quốc gia châu Âu nhưng trong năm đó, Cục quản lý thực phẩm và dược phẩm Hoa Kỳ (FDA) đã từ chối chấp thuận ứng dụng của Cetus vào thị trường IL-2. Thất bại đã dẫn đến sự sụp đổ của Cetus, và vào năm 1991, công ty đã được bán cho Chiron Corporation. Chiron tiếp tục phát triển IL-2, cuối cùng đã được FDA chấp thuận là Proleukin cho ung thư biểu mô thận di căn vào năm 1992.
+Vào năm 1993, aldesleukin là phiên bản duy nhất được chấp thuận của IL-2, nhưng Roche cũng đang phát triển một IL-2 tái tổ hợp, được sửa đổi, độc quyền gọi là teceleukin, với một methionine được thêm vào là N-terminal, và Glaxo đang phát triển một phiên bản gọi là bioleukin, với Glaxo. một methionine được thêm vào là N-terminal và dư lượng 125 được thay thế bằng alanine. Hàng chục thử nghiệm lâm sàng đã được tiến hành IL-2 tái tổ hợp hoặc tinh chế, một mình, kết hợp với các thuốc khác, hoặc sử dụng liệu pháp tế bào, trong đó các tế bào được lấy từ bệnh nhân, được kích hoạt bằng IL-2, sau đó được tái sử dụng. Novartis mua lại Chiron vào năm 2006  và bán doanh nghiệp aldesleukin cho Phòng thí nghiệm Prometheus vào năm 2010  trước khi quyền toàn cầu đối với Proleukin sau đó được mua lại bởi Clinigen vào năm 2018 và 2019.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web Proleukin
+Đường dẫn tín hiệu IL-2 Lưu trữ 2020-01-11 tại Wayback Machine
+Rosenberg SA (tháng 6 năm 2014). “IL-2: the first effective immunotherapy for human cancer”. Journal of Immunology. 192 (12): 5451–8. doi:10.4049/jimmunol.1490019. PMC 6293462. PMID 24907378.

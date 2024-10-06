@@ -1,0 +1,61 @@
+Đường truyền tín hiệu WNT (/ˈdʌbljuː ɛn tiː/) là tập hợp các con đường dẫn truyền tín hiệu tế bào khởi đầu bằng loại prôtêin WNT và sẽ kết thúc khi prôtêin WNT này được tiếp nhận bởi thụ thể bề mặt tế bào. Trong tiếng Anh, đây là thuật ngữ thuộc lĩnh vực di truyền học phân tử và sinh hoá học phân tử, nguyên gốc là Wnt signaling pathways (con đường truyền tín hiệu Wnt).
+
+
+== Tổng quan ==
+
+
+=== Từ nguyên ===
+Từ viết tắt Wnt trong thuật ngữ này là  tên ghép, kết hợp giữa tên Wingless và tên Int-1.  Tên Wingless (nghĩa là không cánh, viết tắt là wg) lấy trong nghiên cứu về gen wg (quy định tính trạng mất cánh, cánh cụt) của ruồi giấm (Drosophila); còn tên int là viết tắt, nguồn gốc của sự kết hợp proto-oncogene-1, tương đồng với động vật có vú của gen wg.
+Các prôtêin Wnt có bản chất hoá học là glycôprôtêin, ở người bao gồm 19 loại khác nhau, gợi ra sự phức tạp của việc truyền, điều hòa và tiếp nhận tín hiệu, cũng như trong việc điều chỉnh các quá trình tạo phôi và di truyền.
+
+
+=== Các kiểu ===
+Đường truyền tín hiệu WNT có thể diễn ra ở cùng tế bào (autocrine) - tức truyền tín hiệu nội bào, hoặc diễn ra giữa tế bào này với tế bào khác gần đó (paracrine)  - tức truyền tín hiệu ngoại bào. Nhóm prôtêin Wnt này cũng như cơ chế truyền tín hiệu WNT đã phát sinh trong quá trình tiến hoá rất lâu dài và được bảo tồn ở nhiều loài động vật, về cơ bản là giống nhau từ các loài ruồi giấm, thú cho đến người.
+Có thể gặp các kiểu truyền tín hiệu loại cổ điển hay chuẩn (canonical); kiểu không chuẩn (noncanonical) và kiểu con đường Ca2+. Cũng có tác giả gọi ba lộ trình tương tác này là: con đường β-catenin (chuẩn), con đường phân cực và con đường Wnt / Ca2+, trong đó con đường β-catenin thường gặp nhất.
+
+
+== Lược sử ==
+Việc phát hiện ra tín hiệu Wnt xuất phát từ các nghiên cứu về cơ chế gây ung thư (oncogenic) của các retrovirus. Năm 1982, Roel Nusse và Harold E. Varmus từ các nghiên cứu nhiễm virut khối u ở chuột thí nghiệm đã xác định được một gen tiền ung thư (proto-oncogene) mới mà họ đặt tên là int1 (integration 1).
+Các nghiên cứu tiếp theo về int1 cho thấy gen này có ở nhiều loài gồm cả con người và Drosophila. Đến năm 1987, đã xác  định rằng gen int1 ở Drosophila lại là gen đã được biết đến khá lâu trước đó và đã gọi là "gen không cánh" (Wg, viết tắt từ "Wingless").
+Các nghiên cứu của Christiane Nüsslein-Volhard và Eric Wieschaus (giải Nobel năm 1995) đã thiết lập chức năng của Wg như một đoạn gen phân cực (segment polarity gene) liên quan đến sự hình thành trục cơ thể trong quá trình phát triển phôi, đồng thời cũng xác định rằng int1 ở thú (như chuột đã nghiên cứu trước đó) cũng liên quan đến sự phát triển phôi tương tự.
+Nhiều nghiên cứu khác theo hướng này dẫn đến việc phát hiện ra các gen liên quan đến "int1", nhưng cấu trúc gen và cơ chế  hoạt động không giống nhau và không giống y hệt như "int1", nên danh pháp "gen int" là không đủ. Bởi thế, các gen này tạo thành một họ gọi là Wnt ("Wingless-related integration site", lô-cut tích hợp liên quan không cánh), trong đó "int1" trở thành Wnt1. Danh pháp Wnt này có nguồn gốc từ tên Wg và tên Int.
+
+
+== Vai trò ==
+Protein Wnt do gen Wnt mã hóa. Cấu trúc gen của nó được bảo tồn cao từ động vật không xương sống thấp đến động vật có xương sống, và trình tự tương đồng của nó là khoảng 27-83%. Protein Wnt khởi đầu một con đường tín hiệu nội bào, phát ra "thông báo" kích thích tăng trưởng và tham gia vào các cơ chế phát triển khác nhau, chẳng hạn như sự biệt hóa tế bào, định hình trục cơ thể, di cư và tăng sinh tế bào, nghĩa là nó đóng vai trò quan trọng trong quá trình sinh trưởng và phát triển của động vật. Ngoài ra, nó cũng đóng một vai trò đáng kể trong sự xuất hiện và phát triển của các khối u ác tính.
+Ngoài ra, Wnt cũng kiểm soát quá trình tái tạo mô trong tủy xương, da và ruột của người trưởng thành. Tín hiệu Wnt - như trên đã nói - gồm ba con đường đều được kích hoạt bởi sự liên kết của protein Wnt với một thụ thể thuộc họ Frizzled, thụ thể này truyền tín hiệu sinh học đến protein Disheveled bên trong tế bào.
+1. Con đường Wnt chuẩn (cổ điển), kích hoạt các gen mục tiêu thông qua sự ổn định của β-catenin trong nhân, và dẫn đến điều hòa phiên mã gen, và được cho là được điều hòa một phần bởi gen SPATS1. Chức năng của con đường này trong quá trình phát triển phôi ban đầu đã được làm sáng tỏ bằng phân tích thực nghiệm về sự phát triển trục ở ếch Xenopus laevis và sự phân cực của đoạn và sự phát triển cánh ở ruồi Drosophila melanogaster.
+2. Con đường phân cực liên quan đến RhoA và Jun Kinase (JNK) và kiểm soát sự sắp xếp lại của tế bào. Nó chủ yếu điều chỉnh khung xương tế bào chịu trách nhiệm về hình dạng của tế bào.
+3. Con đường Ca2+ được kích thích bởi Wnt 5a và Wnt 11 và liên quan đến sự gia tăng Ca trong tế bào và hoạt hóa các thành phần tín hiệu nhạy cảm với Ca, chẳng hạn như kinase phụ thuộc calmodulin, calcineurin phosphatase, và yếu tố phiên mã NF-AT. Nó chủ yếu điều chỉnh calci bên trong tế bào.
+
+Các gen Wnt rất đa dạng, riêng ở người đã phát hiện 19 biến thể, tổng hợp ra các glycoprotein truyền tín hiệu gồm khoảng  350-400 amino acid khác nhau (xem bảng dưới đây).
+
+
+== Cơ chế chung ==
+
+Trong ba lộ trình tín hiệu, thì con đường β-catenin là quan trọng và thường gặp nhất, dẫn đến sự tích tụ của β-catenin trong nhân, đến hàm lượng nào đó sẽ tác động đến gen đích (gen mục tiêu của nó). Ở các sinh vật bình thường, con đường này bị bất hoạt, vì β-catenin tự do hầu như không có do phần lớn các phân tử β-catenin được kết hợp với glycogen synthase kinase 3β (GSK-3β), polyposis coli (APC) và axin, dẫn đến sự phosphoryl hóa và phân hủy β-catenin thông qua con đường ubiquitin.
+Khi protein Wnt liên kết với thụ thể tương ứng của nó (xem hình bên), nó có thể phát sinh các tín hiệu hóa sinh, dẫn đến tạo thành β-catenin. Đó là lúc con đường tín hiệu Wnt kích hoạt sẽ dẫn đến phiên mã gen đích bị ảnh hưởng. Nghĩa là kích hoạt bất thường, trường hợp này hay liên quan đến nhiều loại bệnh ác tính như ung thư túi mật, phổi và ung thư vú; do đó, việc phát triển các loại thuốc ức chế con đường này là một lĩnh vực được quan tâm trong nghiên cứu liệu pháp điều trị ung thư. Một số chất ức chế Wnt đã được nghiên cứu trong các nghiên cứu tiền lâm sàng như salinomycin là một chất ức chế mạnh mẽ con đường truyền tín hiệu Wnt và hoạt động bằng cách can thiệp vào quá trình phosphoryl hóa thụ thể.
+
+
+== Danh sách prôtêin Wnt ==
+Những prôtêin này đã được tìm thấy ở chuột, người, Xenopus, cá ngựa vằn, chi ruồi giấm và nhiều loài khác.
+
+
+== Xem thêm ==
+AXIN1
+GSK-3
+Management of hair loss
+Wingless localisation element 3 (WLE3)
+WNT1-inducible-signaling pathway protein 1 (WISP1)
+WNT1-inducible-signaling pathway protein 2 (WISP2)
+WNT1-inducible-signaling pathway protein 3 (WISP3)
+
+
+== Nguồn trích dẫn ==
+
+
+== Xem thêm ==
+
+
+== Liên kết ngoài ==
+MeSH Wnt+Proteins

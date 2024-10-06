@@ -1,0 +1,169 @@
+Thiết kế là việc tạo ra một bản vẽ hoặc quy ước nhằm tạo dựng một đối tượng, một hệ thống hoặc một tương tác giữa người với người có thể đo lường được (như ở các bản vẽ chi tiết kiến trúc, bản vẽ kỹ thuật, quy trình kinh doanh, sơ đồ mạch điện, ni mẫu cắt may...). Ở các lĩnh vực khác nhau, việc thiết kế được gán những ý nghĩa khác nhau (xem Các ngành thiết kế bên dưới). Trong một số trường hợp, việc xây dựng, tạo hình trực tiếp một đối tượng (như với nghề gốm, công việc kỹ thuật, quản lý, lập trình, và thiết kế đồ họa...) cũng được coi là vận dụng tư duy thiết kế.
+Việc thiết kế thường đòi hỏi những cân nhắc về các khía cạnh mang tính thẩm mỹ, công năng, kinh tế và chính trị-xã hội của cả đối tượng được thiết kế lẫn quá trình thiết kế. Nó có thể bao gồm trong đó nghiên cứu, ý tưởng, mô hình, tạo mẫu, điều chỉnh có tính tương tác, và tái-thiết kế. Trong khi đó, rất nhiều những thứ khác nhau có thể trở thành đối tượng của thiết kế, ví dụ quần áo, giao diện đồ họa người dùng, các tòa nhà chọc trời, hệ thống nhận dạng thương hiệu, các quy trình kinh doanh, và thậm chí cả các phương pháp hoặc quá trình thiết kế.
+Theo đó, "thiết kế" có thể là danh từ chỉ một sự xác định trừu tượng về (những) thứ được tạo ra, hoặc là động từ chỉ quá trình tạo ra và sẽ được làm rõ trong ngữ cảnh nhất định. Về cơ bản, thiết kế bao hàm sự vật, hiện tượng, hành động có liên quan đến sáng tạo.
+
+
+== Các định nghĩa ==
+Một cách chính thức hơn, thiết kế đã được định nghĩa như sau:(danh từ) sự đặc tả chi tiết một đối tượng, được thực hiện bởi một tác nhân, nhằm hoàn thành một mục đích xác định, trong một hoàn cảnh cụ thể, thông qua sử dụng tập hợp các thành phần nguyên thủy, hướng tới thỏa mãn các yêu cầu, trong khi vẫn phụ thuộc vào các ràng buộc; (động từ, ngoại động từ) hành động tạo ra một phác thảo/kế hoạch, trong hoàn cảnh cụ thể (do nhà thiết kế thực hiện)
+Một định nghĩa khác coi thiết kế là "một lộ trình hoặc phương pháp tiếp cận chiến lược để một người đạt được một kỳ vọng duy nhất. Nó xác định các đặc điểm kỹ thuật, kế hoạch, thông số, chi phí, hoạt động, quy trình, cách thức và mục tiêu trong những ràng buộc pháp lý, chính trị, xã hội, môi trường, an toàn và kinh tế nhằm đạt được mục tiêu."
+Ở đây, "sự đặc tả chi tiết" có thể được thể hiện dưới dạng một bản vẽ/kế hoạch hoặc một sản phẩm hoàn thiện, và "các yếu tố nguyên thủy" là thành tố mà từ đó đối tượng thiết kế được tạo nên.
+Với biểu hiện rộng như vậy, không có ngôn ngữ phổ quát hoặc tổ chức thống nhất cho các nhà thiết kế thuộc tất cả các ngành. Điều này cho phép nhiều triết lý và cách tiếp cận khác nhau đến một đối tượng (xem Các triết lý và các nghiên cứu ở dưới).
+Người làm công việc thiết kế được gọi là nhà thiết kế, đó cũng là thuật ngữ dùng chỉ những người làm việc chuyên nghiệp tại một trong những phạm vi thiết kế khác nhau, thường được chỉ định rõ bởi phạm vi mà họ đang hoạt động (chẳng hạn như nhà thiết kế thời trang, nhà thiết kế ý tưởng, nhà thiết kế website hoặc nhà thiết kế nội thất). Một chuỗi các hoạt động của nhà thiết kế được gọi là quy trình thiết kế trong khi nghiên cứu khoa học về thiết kế được gọi là khoa học thiết kế.
+Một định nghĩa khác của thiết kế, đó là việc lên kế hoạch để sản xuất một đối tượng, một hệ thống, một thành phần hoặc cấu trúc. Do đó, "thiết kế" có thể được sử dụng như một danh từ hoặc một động từ. Theo nghĩa rộng hơn, thiết kế là một dạng mỹ thuật ứng dụng và kỹ thuật kết hợp với công nghệ.
+Mặc dù định nghĩa về thiết kế khá rộng, thiết kế có rất nhiều đặc điểm chuyên môn mà các chuyên gia sử dụng trong từng lĩnh vực của họ.
+
+
+== Thiết kế là một quy trình ==
+Có nhiều sự bất đồng quan trọng liên quan đến cách thức mà các nhà thiết kế, trong nhiều lĩnh vực, dù nghiệp dư hay chuyên nghiệp, làm độc lập hoặc theo nhóm, tạo ra các thiết kế. Kees Dorst và Judith Dijkhuis, cả hai đều là những nhà thiết kế, lập luận rằng "có rất nhiều cách để mô tả quy trình thiết kế", họ cũng đưa ra thảo luận "hai cách thức nền tảng và khác biệt cơ bản", cả hai đều có một vài cách gọi. Quan điểm phổ biến được gọi là "mô hình duy lý", "giải quyết vấn đề kỹ thuật" và "quan điểm lấy lý trí làm trung tâm". Quan điểm khác được gọi là "phản ánh qua hành vi", "thiết kế tiến hóa", "đồng tiến hóa", và "quan điểm lấy hành vi làm trung tâm".
+
+
+=== Mô hình duy lý ===
+Mô hình duy lý được phát triển độc lập bởi Herbert A. Simon, một nhà khoa học Mỹ, và Gerhard Pahl cùng với Wolfgang Beitz, hai nhà lý luận thiết kế của Đức. Họ cho rằng:
+
+các nhà thiết kế cố gắng để tối ưu hóa một đối tượng thiết kế dựa vào các ràng buộc và mục tiêu đã biết,
+quy trình thiết kế được định hướng theo kế hoạch,
+quy trình thiết kế được nhận thức theo dạng một chuỗi các bước rời rạc.
+Mô hình duy lý dựa trên triết lý của các nhà duy lý và là cơ sở của mô hình thác nước, vòng đời phát triển hệ thống, và nhiều tài liệu thiết kế kỹ thuật khác. Theo quan điểm của các nhà duy lý, thiết kế được cung cấp thông tin bởi khảo sát, nghiên cứu và tri thức theo phương cách có thể dự báo cũng như có thể kiểm soát được.
+
+
+==== Ví dụ về các bước thiết kế ====
+Các bước thiết kế quy chuẩn phù hợp với mô hình duy lý bao gồm:
+
+Thiết kế tiền kỳ
+Hồ sơ tóm tắt (Design brief hoặc Parti pris) – trình bày mục đích thiết kế ban đầu
+Phân tích – phân tích mục tiêu thiết kế hiện tại
+Nghiên cứu – khảo sát các giải pháp thiết kế tương tự trong cùng lĩnh vực hoặc chủ đề liên quan
+Đặc tả chi tiết – chỉ rõ các yêu cầu cho giải pháp thiết kế một sản phẩm hoặc dịch vụ
+Giải quyết vấn đề – khái niệm hoá và tư liệu hóa các giải pháp thiết kế
+Công bố – công bố các giải pháp thiết kế
+Thiết kế trong quá trình sản xuất
+Phát triển – tiếp tục phát triển và cải tiến giải pháp thiết kế
+Thử nghiệm – thử nghiệm tại chỗ (in situ) đối với giải pháp thiết kế
+Thiết kế hậu kỳ và phản hồi
+Tiến hành – đưa giải pháp thiết kế vào hoàn cảnh cụ thể
+Đánh giá và tổng kết – tổng hợp quá trình và kết quả, trong đó bao gồm phê bình có tính xây dựng và đề xuất cải tiến trong tương lai
+Tái thiết kế – lặp lại một vài hoặc tất cả các bước trong quy trình trình thiết kế (đã điều chỉnh) tại bất kỳ thời điểm nào trước, trong, hoặc sau khi sản xuất
+Mỗi giai đoạn có nhiều cách làm tốt nhất (best practice) liên quan.
+
+
+==== Bình luận về mô hình duy lý ====
+Mô hình duy lý được bình luận, phê bình rộng rãi trên hai căn cứ chính:
+
+Các nhà thiết kế không thực hành theo cách này – bằng chứng theo kinh nghiệm cho thấy các nhà thiết kế không làm theo những đề xuất của mô hình duy lý.
+Các giả thuyết thiếu thực tế – mục tiêu thường chưa thể xác định cho đến khi dự án thiết kế chính thức bắt đầu, các yêu cầu lẫn ràng buộc sẽ tiếp tục thay đổi.
+
+
+=== Mô hình lấy hành vi làm trung tâm ===
+Quan điểm lấy hành vi làm trung tâm được gán cho một tập hợp các khái niệm tương quan, là phản đề với mô hình duy lý. Quan điểm này cho rằng:
+
+các nhà thiết kế dùng cảm xúc và sự sáng tạo để liên kết các các đối tượng thiết kế,
+thiết kế là quy trình ứng biến,
+không có chuỗi bước phổ quát nào là hiển nhiên – việc phân tích, thiết kế và thi hành diễn ra đồng thời và được liên kết không thể tách rời nhau.
+Quan điểm lấy hành vi làm trung tâm dựa trên triết lý của các nhà kinh nghiệm chủ nghĩa và phù hợp với lối tiếp cận nhanh lẹ cùng sự phát triển có hệ thống. Bằng chứng kinh nghiệm thực tế hỗ trợ cho sự xác tín của quan điểm này khi mô tả hành vi của các nhà thiết kế chân chính. Giống như mô hình duy lý, mô hình lấy hành vi làm trung tâm quan niệm thiết kế được cung cấp thông tin bởi khảo sát, nghiên cứu và tri thức. Tuy nhiên, khảo sát và tri thức được mang vào quy trình thiết kế thông qua đánh giá và cảm nhận chung chung của các nhà thiết kế, những người mà "tay chân làm việc nhanh hơn đầu óc" – hơn là thông qua quy trình có thể dự báo và kiểm soát vốn được quy định bởi mô hình duy lý.
+
+
+==== Mô tả hành vi thiết kế ====
+Có ít nhất hai ý kiến về hành vi thiết kế phù hợp với quan điểm lấy hành vi làm trung tâm. Cả hai đều bao gồm ba kiểu hành vi cơ bản.
+Trong mô hình phản ánh qua hành vi, các nhà thiết kế lựa chọn luân phiên giữa "lên khung sườn", "tạo bước chuyển dịch", và "đánh giá bước chuyển dịch". Bước "lên khung sườn" gợi đến việc khái niệm hóa vấn đề, tức là xác định mục đích và mục tiêu. "Bước chuyển dịch" là một quyết định thiết kế thử nghiệm. Quá trình đánh giá có thể dẫn đến những bước chuyển sâu hơn trong thiết kế.
+Trong hệ kết cấu "tạo ý nghĩa–đồng tiến hoá–thực hiện", các nhà thiết kế chọn lựa giữa ba hành vi danh nghĩa. Hành vi "tạo ý nghĩa" bao gồm việc lên khung sườn và đánh giá bước chuyển dịch. "Thực hiện" là quá trình xây dựng đối tượng thiết kế. "Đồng tiến hóa" là quá trình mà tác nhân thiết kế cải tiến đồng thời yếu tố tinh thần của đối tượng thiết kế dựa trên yếu tố tinh thần của môi trường, và ngược lại".
+Khái niệm chu trình thiết kế được hiểu là cấu trúc thời gian xoay vòng, nó có thể khởi đầu với một ý tưởng, sau đó nó được thể hiện bởi một hoặc nhiều phương tiện truyền thông, sử dụng hình ảnh hoặc truyền miệng (các công cụ thiết kế), ý tưởng được chia sẻ và tri nhận sau cùng sẽ khởi động một chu trình mới, với sự tái tư duy có tính phản biện từ chính ý tưởng đã được lĩnh hội. Anderson chỉ rõ rằng khái niệm này nhấn mạnh vào tầm quan trọng của các phương tiện biểu hiện, những thứ cùng lúc trở thành phương tiện nhận thức cho bất kỳ ý tưởng thiết kế nào.
+
+
+== Các ngành thiết kế ==
+
+
+== Các triết lý và các nghiên cứu ==
+Không thể kể hết được các triết lý về định hướng thiết kế khi mà các giá trị thiết kế và các phương diện kéo theo của chúng trong thiết kế hiện đại luôn biến đổi, cả giữa các trường phái tư duy khác nhau lẫn giữa các nhà thiết kế thực hành. Mục đích thiết kế thường được xác định bởi các triết lý thiết kế. Một mục đích có thể thuộc phạm vi từ giải quyết vấn đề cá nhân ít quan trọng nhất, cho đến những mục đích không tưởng có tầm ảnh hưởng lớn nhất. Mục đích thiết kế thường dùng để định hướng thiết kế. Tuy nhiên, tranh chấp giữa các mục đích nhất thời và thứ yếu có thể dẫn đến chất vấn về mục đích thiết kế, cũng có thể dẫn đến thiết lập những mục tiêu dài hạn hơn hoặc mục tiêu sau cùng. John Heskett, một tác giả người Anh viết về thiết kế đòi hỏi, "Thiết kế, khi đã tháo bỏ hết để trở về với bản chất của chính nó, có thể được liên tưởng tới bản tính loài người khi họ tạo dựng và định hình môi trường sống mà không cần những yếu tố tiền lệ, nó phục vụ chính nhu cầu và mang lại ý nghĩa cuộc sống cho họ."
+
+
+=== Các triết lý định hướng thiết kế ===
+Các triết lý thiết kế là những quy tắc định hướng nền tảng giúp các nhà thiết kế tiếp cận thực hành của họ. Những phê phán về văn minh vật chất hay những lo ngại về môi trường (thiết kế bền vững) có thể định hướng một triết lý thiết kế. Có thể lấy một ví dụ là tuyên ngôn "First Things First 2000 a design manifesto" được tuyên bố với cộng đồng thiết kế đồ họa, trong đó khẳng định "Chúng tôi đề xuất một sự hoán đổi quyền ưu tiên của các hình thức truyền thông hữu ích hơn, bền vững hơn và dân chủ hơn – một tư duy tách rời khỏi tiếp thị sản phẩm, hướng tới khám phá và sản xuất một dạng ý nghĩa mới. Phạm vi của tranh luận đang thu hẹp dần; nó phải được mở rộng. Chủ nghĩa tiêu thụ hiện nay chiếm vị thế không thể tranh giành; nó phải được thử thách bởi những quan điểm biểu hiện khác, phần nào thông qua ngôn ngữ thị giác và các nguồn tài nguyên thiết kế."
+Trong cuốn "The Sciences of the Artificial" của học giả Herbert A. Simon, tác giả khẳng định thiết kế sẽ trở thành một liên kết meta-discipline (tạm dịch: siêu ngành) với tất cả các ngành chuyên môn. "Kỹ sư không còn là những nhà thiết kế chuyên nghiệp duy nhất. Tất cả những người thực hành thiết kế đều đã có hành động nào đó hướng tới việc thay đổi các tình huống hiện thời theo hướng tích cực. Hành động có tri thức nhằm làm ra các đồ tạo tác có tính vật chất không khác biệt cơ bản so với việc kê đơn thuốc cho một bệnh nhân hoặc lập một kế hoạch bán hàng cho công ty, hoặc ban hành chính sách phúc lợi xã hội cho một thành phố. Thiết kế, từ đó có thể hiểu, là cốt lõi của mọi chương trình đào tạo chuyên nghiệp; là dấu ấn chủ yếu nhằm phân biệt các nghề nghiệp chuyên môn với nghiên cứu khoa học. Các trường đào tạo về kỹ thuật, cũng như kiến trúc, kinh doanh, giáo dục, luật, hay dược, đều có liên quan mật thiết đến quy trình thiết kế."
+
+
+=== Các cách tiếp cận thiết kế ===
+Cách tiếp cận thiết kế là một triết lý chung có thể hoặc không bao gồm hướng dẫn cho các phương pháp cụ thể. Một số cách sẽ dẫn hướng đến mục tiêu bao quát của thiết kế. Các tiếp cận khác là định hướng cho khuynh hướng của nhà thiết kế. Một sự kết hợp các cách tiếp cận có thể được sử dụng nếu chúng không xung đột lẫn nhau.
+Một số phương pháp phổ biến bao gồm:
+
+Thiết kế hệ thống công nghệ xã hội, một triết lý và công cụ cho việc thiết kế có sự tham gia của việc sắp xếp công việc và các quá trình hỗ trợ - nhằm mục đích tổ chức, chất lượng, an toàn, kinh tế và yêu cầu của khách hàng trong các quy trình làm việc cốt lõi, chất lượng kinh nghiệm của người dân trong công việc và nhu cầu của xã hội.
+Nguyên tắc KISS (Keep it Simple Stupid) cố gắng để loại bỏ các biến chứng không cần thiết.
+Có nhiều hơn một cách để làm điều đó (There is more than one way to do it - TIMTOWTDI), một triết lý cho phép nhiều phương pháp xử lý cùng một việc.
+Thiết kế lấy mục đích làm trung tâm, tập trung vào các mục tiêu và nhiệm vụ liên quan đến việc sử dụng các đồ tạo tác, thay vì tập trung vào người dùng cuối.
+Thiết kế lấy người dùng làm trung tâm, tập trung vào các nhu cầu, mong muốn, và nhược điểm của người dùng cuối.
+Thiết kế có tính phản biện sử dụng các hiện vật đã được thiết kế như một phản biện hoặc phê bình về các giá trị, đạo đức và thực hành tồn tại trong văn hoá.
+Thiết kế dịch vụ thiết kế hoặc tổ chức trải nghiệm xung quanh sản phẩm và dịch vụ liên quan đến việc sử dụng sản phẩm.
+Thiết kế xuyên thế hệ, thực hành tạo ra sản phẩm và môi trường tương thích với những suy giảm thể chất và cảm giác liên quan đến sự lão hóa của con người và những tác nhân hạn chế các hoạt động chính của cuộc sống hàng ngày.
+Thiết kế đầu cơ, quá trình thiết kế đầu cơ không nhất thiết phải xác định một vấn đề cụ thể để giải quyết, nhưng thiết lập một điểm khởi đầu khiêu khích từ đó một quá trình thiết kế xuất hiện. Kết quả là sự tiến hóa của phép lặp và sự phản chiếu biến đổi bằng cách sử dụng các đối tượng được thiết kế để kích động các câu hỏi và kích thích thảo luận trong các môi trường học thuật và nghiên cứu.
+
+
+=== Các phương pháp thiết kế ===
+Các phương pháp thiết kế là một phạm vi rộng, trong đó tập trung vào:
+
+Khám phá các khả năng và khó khăn bằng cách tập trung các kỹ năng tư duy phản biện để nghiên cứu và xác định không gian có vấn đề cho các sản phẩm hoặc dịch vụ hiện có - hoặc tạo các loại mới (xem Brainstorming).
+Xác định lại các đặc điểm của các giải pháp thiết kế có thể dẫn đến các hướng dẫn tốt hơn cho các hoạt động thiết kế truyền thống (đồ hoạ, công nghiệp, kiến trúc...).
+Quản lý quá trình khám phá, xác định, tạo hiện vật liên tục qua thời gian.
+Tạo mẫu các kịch bản có thể, hoặc các giải pháp tăng dần hoặc cải thiện đáng kể tình trạng kế thừa.
+Trendspotting, hiểu được quy trình theo xu hướng.
+
+
+== Hệ thống thuật ngữ ==
+Từ "thiết kế" thường được cho là mơ hồ, và nó được áp dụng trong nhiều hoàn cảnh khác nhau.
+
+
+=== Thiết kế và mỹ thuật ===
+Ngày nay, thuật ngữ thiết kế được kết hợp phổ biến với mỹ thuật ứng dụng, nó được khởi xướng bởi Raymond Loewy và đưa vào giảng dạy tại Trường Nghệ thuật Bauhaus và Trường Thiết kế Ulm (HfG Ulm) ở Đức trong suốt thế kỷ XX.
+Ranh giới giữa mỹ thuật và thiết kế bị xóa mờ, chủ yếu là do một loạt các ứng dụng cho cả thuật ngữ 'mỹ thuật' và 'thiết kế'. Mỹ thuật ứng dụng đã được sử dụng như một thuật ngữ bao trùm để xác định các lĩnh vực thiết kế công nghiệp, thiết kế đồ hoạ, thiết kế thời trang... Thuật ngữ "mỹ thuật trang trí" là thuật ngữ truyền thống được sử dụng trong các tài liệu lịch sử để mô tả các vật thủ công và cũng nằm trong mỹ thuật ứng dụng. Trong nghệ thuật đồ hoạ (tạo hình ảnh 2D từ nhiếp ảnh đến minh hoạ), sự khác biệt thường được tạo ra giữa mỹ thuật hàn lâm và mỹ thuật thương mại, dựa trên bối cảnh trong đó sản phẩm được sản xuất và cách thức nó được giao thương.
+Ở một mức độ nào đó, một số phương pháp để tạo ra tác phẩm / sản phẩm, chẳng hạn như sử dụng trực giác, được chia sẻ qua các nguyên tắc trong nghệ thuật ứng dụng và mỹ thuật. Mark Getlein, tác giả, cho thấy các nguyên tắc thiết kế là "bản năng", "tích hợp sẵn", "tự nhiên", và là một phần của "ý thức của chúng ta về 'tính đúng đắn'." Tuy nhiên, ứng dụng và ngữ cảnh của dự án kết quả công việc sẽ thay đổi rất nhiều.
+
+
+=== Thiết kế kỹ thuật ===
+Trong kỹ thuật, thiết kế là một thành phần của quy trình kỹ thuật. Nhiều phương pháp và quy trình chồng chéo có thể được nhìn thấy khi so sánh Thiết kế sản phẩm, Thiết kế công nghiệp và Kỹ thuật. Từ điển Di sản Hoa Kỳ xác định thiết kế là: "Nhận thức hoặc sáng tạo trong tâm trí, phát minh," và "Xây dựng một kế hoạch" và định nghĩa kỹ thuật như sau: "Sự áp dụng các nguyên tắc khoa học và toán học vào các mục đích thực tế như thiết kế, sản xuất, và vận hành một cách có hiệu quả, có giá trị kinh tế các cấu trúc, máy móc, quy trình và hệ thống." Cả hai đều là các hình thức giải quyết vấn đề với một sự phân biệt được xác định là việc áp dụng "các nguyên tắc khoa học và toán học". Tuy nhiên, sự tập trung có tính khoa học vào thực tiễn kỹ thuật ngày càng tăng thì nó cũng thúc đẩy tầm quan trọng của những lĩnh vực thiết kế mới "tập trung vào con người" nhiều hơn. Bao nhiêu phần khoa học được áp dụng trong một thiết kế là một câu hỏi về những gì được coi là "khoa học". Cùng với câu hỏi về những gì được coi là khoa học, thì khoa học xã hội so với khoa học tự nhiên cũng được đề cập. Các nhà khoa học tại Xerox PARC đã tạo ra sự khác biệt về thiết kế so với kỹ thuật ở "trí óc vận động" so với "nguyên tử vận động" (có lẽ nó trái ngược với nguồn gốc của thuật ngữ "kỹ thuật - kỹ sư" từ tiếng Latin "genio" theo ý nghĩa của "thiên tài" sự tồn tại của một "tâm trí" không phải là "nguyên tử").
+
+
+=== Thiết kế và sản xuất ===
+Mối quan hệ giữa thiết kế và sản xuất là một dạng lên kế hoạch và thực hiện. Theo lý thuyết, kế hoạch nên dự đoán và đền bù cho những vấn đề tiềm ẩn trong quá trình thực hiện. Thiết kế bao gồm việc giải quyết vấn đề và sáng tạo. Ngược lại, sản xuất liên quan đến một quy trình thông thường hoặc được lên kế hoạch trước. Một thiết kế cũng có thể chỉ là một kế hoạch không bao gồm các quy trình sản xuất hoặc kỹ thuật mặc dù kiến ​​thức làm việc về các quy trình như vậy thường được các nhà thiết kế mong đợi. Trong một số trường hợp, có thể không cần thiết hoặc không khả thi để mong đợi một nhà thiết kế có kiến ​​thức chuyên ngành đa ngành cần thiết cho thiết kế đó cũng có một kiến ​​thức cụ thể chi tiết về cách sản xuất sản phẩm.
+Thiết kế và sản xuất được gắn liền với nhiều sự nghiệp chuyên nghiệp sáng tạo, có nghĩa là giải quyết vấn đề là một phần của việc thực hiện và ngược lại. Khi chi phí sắp xếp sắp xếp lại tăng, nhu cầu tách thiết kế từ sản xuất tăng lên là tốt. Ví dụ, dự án có ngân sách cao, chẳng hạn như một tòa nhà chọc trời, đòi hỏi phải có (thiết kế) kiến ​​trúc tách biệt khỏi việc (thi công / sản xuất) xây dựng. Một dự án ngân sách thấp, chẳng hạn như giấy mời in của văn phòng in tại địa phương, có thể được sắp xếp lại và in hàng chục lần với chi phí thấp của một vài tờ giấy, một vài giọt mực, và ít hơn một giờ trả tiền cho máy tính để bàn nhà xuất bản.  
+Điều này không có nghĩa là sản xuất không bao giờ liên quan đến giải quyết vấn đề hay sự sáng tạo, và thiết kế đó luôn luôn liên quan đến sự sáng tạo. Thiết kế hiếm khi hoàn hảo và đôi khi lặp đi lặp lại. Sự không hoàn hảo của thiết kế có thể là vị trí sản xuất (ví dụ như nhà sản xuất, công nhân xây dựng) sử dụng khả năng sáng tạo hoặc kỹ năng giải quyết vấn đề để bù đắp cho những gì đã bị bỏ qua trong quá trình thiết kế. Tương tự như vậy, một thiết kế có thể là một sự lặp lại đơn giản (bản sao) của một giải pháp đã tồn tại trước đây, đòi hỏi kỹ năng giải quyết vấn đề tối thiểu, nếu có, từ các nhà thiết kế.
+
+
+=== Thiết kế quy trình ===
+"Thiết kế quy trình" (khác với "quy trình thiết kế" đã nói ở trên) đề cập đến việc lập kế hoạch các bước thường lệ của quy trình bên ngoài kết quả mong đợi. Các quy trình (nói chung) được coi như một sản phẩm của thiết kế chứ không phải là phương pháp thiết kế. Thuật ngữ này có nguồn gốc từ quá trình thiết kế công nghiệp hoá các quá trình hóa học. Với sự phức tạp ngày càng tăng của thời đại thông tin, các nhà tư vấn và giám đốc điều hành đã tìm ra thuật ngữ hữu ích để mô tả thiết kế quy trình kinh doanh cũng như các quy trình sản xuất.
+
+
+==== Sáu bước Thiết kế quy trình ====
+Nghiên cứu - đây là bước đầu tiên của quá trình thiết kế. Nó bao gồm nghiên cứu về người sử dụng tiềm năng, hành vi, mục tiêu, động lực và nhu cầu của họ.
+Kiến trúc thông tin (IA) - là bước thứ hai của quá trình thiết kế đến sau khi nghiên cứu. Đó là thiết kế cấu trúc của môi trường thông tin chia sẻ. Giai đoạn này dẫn đến khả năng sử dụng, khả năng tìm kiếm và hình dạng của các sản phẩm số.
+Wireframing - bước này trong thiết kế UX đề cập đến một minh hoạ hoặc sơ đồ website, phần mềm hoặc trang ứng dụng. Wireframes ít khi có màu sắc, hình ảnh hoặc kiểu dáng vì công việc của họ là giúp nhóm UX hiểu và thiết lập các mối quan hệ giữa các mẫu khác nhau của website.
+Prototyping - kết quả của giai đoạn này là một phiên bản dự thảo của website, ứng dụng hoặc sản phẩm kỹ thuật số.
+Thiết kế trực quan (hoặc thiết kế đồ hoạ) - là việc sử dụng hình ảnh, màu sắc, hình dạng, kiểu chữ và hình thức để nâng cao khả năng sử dụng và cải thiện trải nghiệm người dùng.
+Thử nghiệm (hoặc thử nghiệm khả năng sử dụng) - là một phần cốt lõi của quá trình thiết kế tổng thể UX. Đây là một kỹ thuật được sử dụng trong thiết kế tương tác người dùng làm trung tâm để đánh giá một sản phẩm bằng cách thử nghiệm nó trên người dùng.
+
+
+== Xem thêm ==
+Các yếu tố và nguyên lý thiết kế
+Nghiên cứu lấy thiết kế làm nền tảng
+Tư duy thiết kế
+Thiết kế trên cơ sở các dữ kiện đáng tin cậy
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R.C., Mellor, S., Schwaber, K., Sutherland, J., and Thomas, D. Manifesto for agile software development Lưu trữ 2021-03-27 tại Wayback Machine, 2001.
+Bourque, P., and Dupuis, R. (eds.) Guide to the software engineering body of knowledge (SWEBOK). IEEE Computer Society Press, 2004 ISBN 0-7695-2330-7.
+Brooks, F.P. The design of design: Essays from a computer scientist, Addison-Wesley Professional, 2010 ISBN 0-201-36298-8.
+Cross, N., Dorst, K., and Roozenburg, N. Research in design thinking, Delft University Press, Delft, 1992 ISBN 90-6275-796-0.
+Dorst, K.; Cross, N. (2001). "Creativity in the design process: Co-evolution of problem-solution". Design Studies. 22 (2): 425–437. 
+Dorst, K., and Dijkhuis, J. "Comparing paradigms for describing design activity," Design Studies (16:2) 1995, pp 261–274.
+Faste, R. (2001). "The Human Challenge in Engineering Design" (PDF). International Journal of Engineering Education. 17 (4–5): 327–331. * McCracken, D.D.; Jackson, M.A. (1982). "Life cycle concept considered harmful". SIGSOFT Software Engineering Notes. 7 (2): 29–32. doi:10.1145/1005937.1005943.
+Newell, A., and Simon, H. Human problem solving, Prentice-Hall, Inc., 1972.
+Pahl, G., and Beitz, W. Engineering design: A systematic approach, Springer-Verlag, London, 1996 ISBN 3-540-19917-9.
+
+Pahl, G., Beitz, W., Feldhusen, J., and Grote, K.-H. Engineering design: A systematic approach, (3rd ed.), Springer-Verlag, 2007 ISBN 1-84628-318-3.
+
+Ralph, P. "Comparing two software design process theories" International Conference on Design Science Research in Information Systems and Technology (DESRIST 2010), Springer, St. Gallen, Switzerland, 2010, pp. 139–153.
+Royce, W.W. "Managing the development of large software systems: Concepts and techniques," Proceedings of Wescon, 1970.
+Schön, D.A. The reflective practitioner: How professionals think in action, Basic Books, USA, 1983.
+Simon, H.A. The sciences of the artificial, MIT Press, Cambridge, MA, USA, 1996 ISBN 0-262-69191-4.
+Truex, D.; Baskerville, R.; and Travis, J. (2000). "Amethodical systems development: The deferred meaning of systems development methods". Accounting, Management and Information Technologies. 10 (1): 53–79.

@@ -1,0 +1,108 @@
+gamma-Aminobutyric acid, hoặc axit γ-aminobutyric , hoặc GABA , là chất ức chế dẫn truyền thần kinh chính trong hệ thống thần kinh trung ương động vật có vú trưởng thành phát triển. Vai trò chính của nó là làm giảm sự kích thích thần kinh trong toàn bộ hệ thống thần kinh. Ở người, GABA cũng chịu trách nhiệm trực tiếp cho việc điều chỉnh trương lực cơ.
+GABA được bán dưới dạng bổ sung chế độ ăn uống.
+
+
+== Chức năng ==
+
+
+=== Chất dẫn truyền thần kinh ===
+
+Ở động vật có xương sống, GABA hoạt động tại các khớp thần kinh ức chế trong não bằng cách liên kết với các thụ thể xuyên màng cụ thể trong màng plasma của cả quá trình tế bào thần kinh trước và sau synap. Sự gắn kết này làm cho việc mở các kênh ion cho phép dòng ion chloride tích điện âm vào trong tế bào hoặc các ion kali tích điện dương ra khỏi tế bào. Hành động này dẫn đến một sự thay đổi tiêu cực trong tiềm năng xuyên màng, thường gây ra siêu phân cực. Hai loại chung của thụ thể GABA được biết đến:
+
+GABAA trong đó thụ thể là một phần của phức hợp kênh ion bị phối tử
+Các thụ thể metabotropic GABAB, là các thụ thể kết hợp protein G mở hoặc đóng các kênh ion thông qua các trung gian (protein G)
+
+Các tế bào thần kinh sản xuất GABA là đầu ra của chúng được gọi là tế bào thần kinh GABAergic và có tác dụng ức chế chủ yếu ở các thụ thể ở động vật có xương sống trưởng thành. Các tế bào gai trung bình là một ví dụ điển hình của các tế bào GABAergic ức chế hệ thần kinh trung ương. Ngược lại, GABA thể hiện cả hành động kích thích và ức chế ở côn trùng, làm trung gian kích hoạt cơ bắp tại các khớp thần kinh giữa các dây thần kinh và tế bào cơ, và cả sự kích thích của một số tuyến. Ở động vật có vú, một số tế bào thần kinh GABAergic, như tế bào đèn chùm, cũng có thể kích thích các đối tác glutamatergic của chúng.
+Các thụ thể GABAA là các kênh chloride được hoạt hóa bằng ligand: khi được kích hoạt bởi GABA, chúng cho phép dòng ion chloride chảy qua màng tế bào. Liệu dòng chloride này có khử cực hay không (làm cho điện áp trên màng tế bào ít âm hơn), shunting (không ảnh hưởng đến tiềm năng màng tế bào) hay ức chế/siêu phân cực (làm cho màng tế bào âm tính hơn) phụ thuộc vào hướng của dòng chảy chloride. Khi chloride ròng chảy ra khỏi tế bào, GABA đang khử cực; khi chloride chảy vào tế bào, GABA bị ức chế hoặc siêu phân cực. Khi lưu lượng ròng của chloride gần bằng 0, tác động của GABA là shunt. Ức chế shunting không có ảnh hưởng trực tiếp đến tiềm năng màng của tế bào; tuy nhiên, nó làm giảm tác dụng của bất kỳ đầu vào khớp thần kinh trùng hợp nào bằng cách giảm điện trở của màng tế bào. Ức chế shunting có thể "ghi đè" tác dụng kích thích của khử cực GABA, dẫn đến ức chế tổng thể ngay cả khi tiềm năng màng trở nên ít âm tính hơn. Người ta cho rằng một công tắc phát triển trong bộ máy phân tử kiểm soát nồng độ chloride bên trong tế bào làm thay đổi vai trò chức năng của GABA giữa giai đoạn sơ sinh và trưởng thành. Khi não bộ phát triển đến tuổi trưởng thành, vai trò của GABA chuyển từ kích thích sang ức chế.
+
+
+=== Phát triển não ===
+Trong khi GABA là một chất dẫn truyền ức chế trong não trưởng thành, hành động của nó được cho là chủ yếu kích thích ở não đang phát triển. Độ dốc của chloride được báo cáo là bị đảo ngược trong các tế bào thần kinh chưa trưởng thành, với khả năng đảo ngược của nó cao hơn tiềm năng màng nghỉ của tế bào; kích hoạt thụ thể GABA-A do đó dẫn đến dòng ion Cl - từ tế bào (nghĩa là dòng khử cực). Độ dốc khác biệt của chloride trong các tế bào thần kinh chưa trưởng thành được chứng minh chủ yếu là do nồng độ cao hơn của các chất đồng vận chuyển NKCC1 so với các chất đồng vận chuyển KCC2 trong các tế bào chưa trưởng thành. Các tế bào nội tiết GABAergic trưởng thành nhanh hơn ở vùng hải mã và máy móc báo hiệu GABA xuất hiện sớm hơn truyền glutamatergic. Do đó, GABA được coi là chất dẫn truyền thần kinh kích thích chính ở nhiều vùng trong não trước khi trưởng thành các khớp thần kinh glutamatergic.
+Trong các giai đoạn phát triển trước khi hình thành các tiếp xúc synap, GABA được tổng hợp bởi các tế bào thần kinh và hoạt động như một autocrine (hoạt động trên cùng một tế bào) và paracrine (hoạt động trên các tế bào gần đó). Các biểu hiện hạch cũng góp phần rất lớn trong việc xây dựng quần thể tế bào vỏ não GABAergic.
+GABA quy định sự tăng sinh của các tế bào tiền thân thần kinh  sự di chuyển  và biệt hóa  sự kéo dài của các tế bào thần kinh  và sự hình thành các khớp thần kinh.
+GABA cũng điều chỉnh sự phát triển của tế bào gốc phôi và tế bào thần kinh. GABA có thể ảnh hưởng đến sự phát triển của các tế bào tiền thân thần kinh thông qua biểu hiện yếu tố tế bào thần kinh có nguồn gốc từ não (BDNF). GABA kích hoạt thụ thể GABAA, gây ra sự bắt giữ chu kỳ tế bào trong pha S, hạn chế sự tăng trưởng.
+
+
+=== Ngoài hệ thần kinh ===
+
+Bên cạnh hệ thống thần kinh, GABA cũng được sản xuất ở mức tương đối cao trong các tế bào sản xuất insulin của tuyến tụy. Các tế bào sec tiết ra GABA cùng với insulin và GABA liên kết với các thụ thể GABA trên các tế bào α đảo nhỏ lân cận và ức chế chúng tiết ra glucagon (sẽ chống lại tác dụng của insulin).
+GABA có thể thúc đẩy sự nhân lên và sống sót của các tế bào  và cũng thúc đẩy quá trình chuyển đổi tế bào α thành tế bào,, có thể dẫn đến các phương pháp điều trị mới cho bệnh tiểu đường.
+GABA cũng đã được phát hiện trong các mô ngoại biên khác bao gồm ruột, dạ dày, ống dẫn trứng, tử cung, buồng trứng, tinh hoàn, thận, bàng quang tiết niệu, phổi và gan, mặc dù ở mức độ thấp hơn nhiều so với tế bào thần kinh hoặc tế bào.. Các cơ chế GABAergic đã được chứng minh ở các mô và cơ quan ngoại vi khác nhau, bao gồm ruột, dạ dày, tuyến tụy, ống dẫn trứng, tử cung, buồng trứng, tinh hoàn, thận, bàng quang tiết niệu, phổi và gan.
+Các tế bào miễn dịch thể hiện thụ thể GABA  và sử dụng GABA có thể ức chế phản ứng miễn dịch viêm và thúc đẩy phản ứng miễn dịch "theo quy định", do đó chính quyền GABA đã được chứng minh là ức chế các bệnh tự miễn ở một số mô hình động vật.
+Năm 2018, GABA đã cho thấy điều chỉnh việc tiết ra một số lượng lớn hơn các cytokine. Trong huyết tương của bệnh nhân T1D, nồng độ 26 cytokine được tăng lên và trong số đó, 16 bị ức chế bởi GABA trong các xét nghiệm tế bào.
+Năm 2007, một hệ thống GABAergic kích thích đã được mô tả trong biểu mô đường dẫn khí. Hệ thống được kích hoạt khi tiếp xúc với các chất gây dị ứng và có thể tham gia vào các cơ chế của bệnh hen suyễn. Hệ thống GABAergic cũng đã được tìm thấy trong tinh hoàn  và trong ống kính mắt.
+GABA xảy ra trong thực vật.
+
+
+== Cấu trúc và hình dạng ==
+GABA được tìm thấy chủ yếu dưới dạng zwitterion (nghĩa là với nhóm carboxyl bị khử và nhóm amin bị proton hóa). Hình dạng của nó phụ thuộc vào môi trường của nó. Trong pha khí, một cấu trúc gấp rất cao được ưa chuộng mạnh mẽ do lực hút tĩnh điện giữa hai nhóm chức năng. Sự ổn định là khoảng 50 kcal/mol, theo tính toán hóa học lượng tử. Ở trạng thái rắn, một cấu trúc mở rộng được tìm thấy, với cấu trúc trans ở đầu amino và cấu trúc gạc ở đầu carboxyl. Điều này là do các tương tác đóng gói với các phân tử lân cận. Trong giải pháp, năm sự phù hợp khác nhau, một số gấp và một số mở rộng, được tìm thấy như là kết quả của hiệu ứng hòa tan. Tính linh hoạt về hình dạng của GABA rất quan trọng đối với chức năng sinh học của nó, vì nó đã được tìm thấy để liên kết với các thụ thể khác nhau với sự phù hợp khác nhau. Nhiều chất tương tự GABA với các ứng dụng dược phẩm có cấu trúc cứng hơn để kiểm soát liên kết tốt hơn.
+
+
+== Lịch sử ==
+Năm 1883, GABA lần đầu tiên được tổng hợp và lần đầu tiên nó chỉ được biết đến như một sản phẩm trao đổi chất thực vật và vi khuẩn.
+Năm 1950, GABA được phát hiện là một phần không thể thiếu của hệ thần kinh trung ương của động vật có vú.
+Năm 1959, người ta đã chứng minh rằng tại một khớp thần kinh ức chế trên các sợi cơ của tôm càng GABA hoạt động giống như kích thích dây thần kinh ức chế. Cả ức chế bởi kích thích thần kinh và bằng GABA áp dụng đều bị chặn bởi picrotoxin.
+
+
+== Sinh tổng hợp ==
+GABA được tổng hợp chủ yếu từ glutamate thông qua enzyme glutamate decarboxylase (GAD) với pyridoxal phosphate (dạng hoạt động của vitamin B6) dưới dạng đồng yếu tố. Quá trình này chuyển đổi glutamate (chất dẫn truyền thần kinh kích thích chính) thành GABA (chất dẫn truyền thần kinh ức chế chính).
+GABA cũng có thể được tổng hợp từ putrescine  bởi diamine oxidease và aldehyd dehydrogenase.
+Theo truyền thống, người ta cho rằng GABA ngoại sinh không xâm nhập vào hàng rào máu não, tuy nhiên nghiên cứu hiện tại  chỉ ra rằng có thể, hoặc GABA ngoại sinh (tức là dưới dạng bổ sung dinh dưỡng) có thể gây ra tác dụng GABAergic trên hệ thống thần kinh ruột giúp kích thích sản xuất GABA nội sinh. Sự tham gia trực tiếp của GABA vào chu trình glutamine-glutamate đưa ra câu hỏi liệu GABA có thể xuyên qua hàng rào máu não có phần gây hiểu lầm hay không, bởi vì cả glutamate và glutamine đều có thể tự do vượt qua hàng rào và chuyển thành GABA trong não.
+
+
+== Dị hóa ==
+Enzyme GABA transaminase xúc tác sự chuyển đổi axit 4-aminobutanoic (GABA) và 2-oxoglutarate (α-ketoglutarate) thành semialdehyd và glutamate succinic. Sau đó, succinic semialdehyd bị oxy hóa thành axit succinic bởi succinic semialdehyd dehydrogenase và do đó đi vào chu trình axit citric như một nguồn năng lượng có thể sử dụng.
+
+
+== Dược lý ==
+Các loại thuốc đóng vai trò điều chế biến cấu của các thụ thể GABA (được gọi là thuốc tương tự GABA hoặc thuốc GABAergic), hoặc tăng lượng GABA có sẵn, thường có tác dụng thư giãn, chống lo âu và chống co giật. Nhiều chất dưới đây được biết là gây mất trí nhớ thuận chiều và mất trí nhớ ngược chiều.
+Nói chung, GABA không vượt qua hàng rào máu não, mặc dù một số khu vực trong não không có hàng rào não máu có hiệu quả, chẳng hạn như nhân quanh não thất, có thể đạt được bằng các thuốc như GABA được tiêm một cách có hệ thống. Ít nhất một nghiên cứu cho thấy rằng GABA dùng đường uống làm tăng lượng hormone tăng trưởng của con người (HGH). GABA tiêm trực tiếp vào não đã được báo cáo là có tác dụng kích thích và ức chế sản xuất hormone tăng trưởng, tùy thuộc vào sinh lý của từng cá nhân. Một số loại thuốc pro của GABA (ví dụ picamilon) đã được phát triển để thấm qua hàng rào máu não, sau đó tách thành GABA và phân tử chất mang một lần trong não. Prodrugs cho phép tăng mức GABA trực tiếp trên tất cả các khu vực của não, theo cách phân phối theo mô hình phân phối của thuốc trước khi chuyển hóa.
+GABA đã tăng cường quá trình dị hóa serotonin thành N -acetylserotonin (tiền chất của melatonin) ở chuột. Do đó, người ta nghi ngờ rằng GABA có liên quan đến quá trình tổng hợp melatonin và do đó có thể gây ảnh hưởng đến sự điều hòa đối với giấc ngủ và chức năng sinh sản.
+
+
+== Hóa học ==
+Mặc dù về mặt hóa học, GABA là một amino acid (vì nó có cả nhóm chức amin chính và nhóm axit cacboxylic), nó hiếm khi được gọi là như vậy trong cộng đồng chuyên nghiệp, khoa học hoặc y tế. Theo quy ước, thuật ngữ "amino acid", khi được sử dụng mà không cần vòng loại, đặc biệt chỉ một amino acid alpha. GABA không phải là một amino acid alpha, có nghĩa là nhóm amino không được gắn vào carbon alpha nên nó không được tích hợp vào protein.
+
+
+== Thuốc GABAergic ==
+Phối tử thụ thể GABAA được hiển thị trong bảng sau 
+
+Ngoài ra, carisoprodol là một hoạt chất GABA A tăng cường. Ro15-4513 là công cụ giảm hoạt động của GABA A.
+Thuốc pro-GABAergic bao gồm chloral hydrate, được chuyển hóa thành trichloroethanol , sau đó hoạt động thông qua thụ thể GABA A. 
+Skullcap và valerian là những thực vật có chứa chất GABAergic . Hơn nữa, kava thực vật có chứa các hợp chất GABAergic, bao gồm kavain, dihydrokavain, methysticin, dihydromethysticin và yangonin.
+Các bộ điều biến GABAergic khác bao gồm:
+
+Phối tử thụ thể GABA B.
+Chất chủ vận: baclofen, GBL, propofol, GHB, phenibut.
+Thuốc đối kháng: phaclofen, saclofen.
+Thuốc ức chế tái hấp thu GABA: deramciclane, hyperforin, tiagabine.
+Các chất ức chế transaminase GABA: gabaculine, phenelzine, valproate, vigabatrin, chanh balm (Melissa officinalis).
+Chất tương tự GABA: pregabalin, gabapentin, picamilon, progabide
+
+
+== Trong thực vật ==
+GABA cũng được tìm thấy trong thực vật. Nó là amino acid dồi dào nhất trong apoplast của cà chua. Bằng chứng cũng cho thấy một vai trò trong tín hiệu tế bào ở thực vật.
+
+
+== Xem thêm ==
+Thụ thể GABA
+Tiềm năng khử cực khổng lồ
+Co cứng
+Co cứng cơ, một bệnh lý thần kinh cơ thiếu hụt GABA
+Trà GABA
+Chất tương tự GABA
+Thiếu hụt semialdehyd dehydrogenase
+Thiếu 4-aminobutyrate transaminase (GABA-transaminase)
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Parviz M, Vogel K, Gibson KM, Pearl PL (ngày 25 tháng 11 năm 2014). “Disorders of GABA metabolism: SSADH and GABA-transaminase deficiencies”. Journal of Pediatric Epilepsy. 3 (4): 217–227. doi:10.3233/PEP-14097. PMC 4256671. PMID 25485164. Clinical disorders known to affect inherited GABA metabolism
+Phổ gamma-aminobutyric axit MS
+Bài viết của học giả về GABA
+Danh sách các tế bào thần kinh GABA trên NeuroLex.org Lưu trữ 2021-04-12 tại Wayback Machine

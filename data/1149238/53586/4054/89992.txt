@@ -1,0 +1,45 @@
+Trong ngôn ngữ học, ngữ pháp (hay còn gọi là văn phạm, tiếng Anh: grammar, từ Tiếng Hy Lạp cổ đại γραμματική grammatikí) của một ngôn ngữ tự nhiên là một tập cấu trúc ràng buộc về thành phần mệnh đề, cụm từ, và từ của người nói hoặc người viết. Thuật ngữ này cũng có thể đề cập đến việc nghiên cứu các ràng buộc, bao gồm các lĩnh vực như âm vị học, hình thái học, và cú pháp học, và thường được bổ sung bởi ngữ âm học, ngữ nghĩa học, và ngữ dụng học.
+Việc tạo ra các  quy tắc chính cho một ngôn ngữ riêng biệt là ngữ pháp của ngôn ngữ đó, vì vậy mỗi ngôn ngữ có một ngữ pháp riêng biệt của nó. Ngữ pháp là một phần trong nghiên cứu ngôn ngữ hay còn gọi là ngôn ngữ học. Ngữ pháp là một cách thức để hiểu về ngôn ngữ. Mặt khác, ngữ pháp còn là một công cụ để quản lý từ ngữ, làm cho từ ngữ từ một từ hay nhiều từ thành một câu đúng ý nghĩa và thực sự hữu ích.
+Ngữ pháp, theo cách hiểu của hầu hết các nhà ngôn ngữ học hiện đại bao gồm ngữ âm, âm học, hình thái ngôn ngữ, cú pháp, ngữ nghĩa. Tuy nhiên, theo truyền thống, ngữ pháp chỉ bao gồm hình thái ngôn ngữ và cú pháp.
+
+
+== Từ nguyên ==
+Từ ngữ pháp có nguồn gốc từ từ Hán Việt 語法. Từ grammar trong tiếng Anh có nguồn gốc từ Tiếng Hy Lạp cổ đại γραμματικὴ τέχνη (grammatikē technē), có nghĩa là "nghệ thuật các chữ cái", từ γράμμα (gramma), "chữ cái", chính nó từ γράφειν (graphein), "vẽ, viết". Cùng gốc Hy Lạp cũng xuất hiện trong các từ đồ họa, grapheme, và ảnh chụp (photograph).
+
+
+== Sự phát triển của các ngữ pháp ==
+Các loại ngữ pháp được tạo ra và được phát triển thông qua tập quán, thói quen sử dụng của các khu dân cư khác nhau. Với sự ra đời của chữ viết, các quy tắc chính thức về cách sử dụng ngôn ngữ cũng xuất hiện. Các ngữ pháp chính thức là các luật lệ, quy tắc sử dụng đã được phát triển bởi việc quan sát, theo dõi.
+Các nghiên cứu chính thức về ngữ pháp là một phần quan trọng của giáo dục từ thời trẻ đến khi học cao hơn, tuy nhiên các quy tắc được dạy trong trường học đôi khi không hoàn toàn là "ngữ pháp" theo đúng nghĩa của thuật ngữ này trong ngôn ngữ học, chúng thường mang tính chất thói quen.
+
+
+== Trong khoa học máy tính ==
+Trong khoa học máy tính, cú pháp của mỗi ngôn ngữ lập trình được định nghĩa bằng một quy tắc ngôn ngữ quy ước. Trong các lý thuyết về máy tính và toán học, ngôn ngữ được sử dụng là các ngôn ngữ quy ước.
+
+
+== Các thuật ngữ ngữ pháp ==
+Danh từ
+Tính từ
+Liên từ
+Trạng từ
+Động từ
+Câu
+Mệnh đề
+Chủ ngữ
+Vị ngữ
+Túc từ
+Trợ động từ
+
+
+== Xem thêm ==
+Cấu trúc câu
+Cấu trúc ngôn ngữ
+Cú pháp
+Hình thái ngôn ngữ
+Hệ thống chức năng của ngôn ngữ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+English Grammar (Gramática da Língua Inglesa) Lưu trữ 2007-04-29 tại Wayback Machine, wikibook trong tiếng Anh

@@ -1,0 +1,125 @@
+Viêm não (encephalitis), một tình trạng viêm của nhu mô não, biểu hiện bằng sự rối loạn chức năng thần kinh-tâm thần khu trú hoặc lan tỏa. Trên phương diện dịch tễ học cũng như sinh lý bệnh, viêm não được phân biệt với viêm màng não thông qua khám xét lâm sàng và cận lâm sàng mặc dù hai thể bệnh này điều có những triệu chứng của tình trạng viêm màng não như sợ ánh sáng, nhức đầu hay cứng cổ [1]. Viêm não hiểu theo nghĩa đen thì đó là "tình trạng viêm của não", nghĩa là có thể do nhiều nguyên nhân khác nhau, tuy nhiên thuật ngữ viêm não thường được hiểu là tình trạng viêm não gây nên do virus [2]. Đây là một tình trạng bệnh lý nặng nề đe dọa tính mạng bệnh nhân.
+Viêm não có thể biểu hiện dưới hai thể khác nhau: thể tiên phát và thể thứ phát. Viêm não tiên phát thường nặng nề hơn trong khi viêm não thứ phát thường gặp hơn. Tuy nhiên do thể thứ phát thường nhẹ nhàng hơn nên trong số các trường hợp nhập viện, viêm não tiên phát chiếm đa số.
+
+
+== Nguyên nhân ==
+Nguyên nhân của viêm não thường gặp nhất là nhiễm virus. Một số ví dụ điển hình là do herpes virus; do arbovirus lây truyền do muỗi, bét hoặc các côn trùng khác; bệnh dại gây nên do vết cắn của một số động vật nhiễm bệnh như chó, mèo.
+Viêm não có hai thể phân theo phương thức virus sử dụng gây nhiễm trùng ở hệ thần kinh trung ương:
+Viêm não tiên phát: Viêm não này xuất hiện khi virus trực tiếp tấn công não và tủy sống (tủy gai). Thể viêm não này có thể xuất hiện vào bất cứ thời gian nào trong năm (viêm não tản phát: sporadic encephalitis) hoặc có thể xuất hiện theo mùa đôi khi thành dịch (viêm não dịch tễ: epidemic encephalitis).
+Viêm não thứ phát (viêm não sau nhiễm trùng (post-infectious encephalitis): Hình thức viêm não này xuất hiện khi virus gây bệnh ở một số cơ quan khác bên ngoài hệ thần kinh trung ương và sau đó mới ảnh hưởng đến hệ này.
+Tương tự, các bệnh lý nhiễm khuẩn cũng đôi khi gây nên viêm não như bệnh Lyme hoặc một số nhiễm ký sinh trùng cũng có thể gây viêm não như trong trường hợp Toxoplasma (ở những bệnh nhân suy giảm miễn dịch) và thậm chí cả giun nữa.
+Sau đây là một số nguyên nhân gây viêm não thường gặp:
+
+
+=== Nguyên nhân do các Arbovirus ===
+Virus này được lây truyền thông qua muỗi và bét là những động vật chân đốt (arthropod) nên có tên là arbovirus (Arthropod-borne virus)[3]. Các virus này là nguyên nhân thường gặp nhất của viêm não dịch tễ. Trong những năm gần đây, viêm não dịch tễ chiếm số lượng bệnh viêm não cao nhất trong các công trình nghiên cứu đã được công bố. Ở Việt Nam, điển hình là viêm não Nhật Bản thường xuất hiện vào mùa hè khi mà lượng muỗi trong môi trường sống đạt mật độ cao nhất trong năm.
+Các sinh vật truyền bệnh từ một cơ thể vật chủ này sang một vật chủ khác được gọi là vector truyền bệnh. Muỗi là một vector truyền bệnh quan trọng, đặc biệt là tryền virus từ chim và các động vật gặm nhấm sang người. Một điều đáng lưu ý là khi muỗi chích các động vật máu nóng (trong đó có người) thì trước khi hút máu chúng phải bơm nước bọt có chứa chất chống đông máu vào để thuận lợi cho quá trình hút máu. Tuy nhiên nếu muỗi này đã có chứa virus gây bệnh thì virus cũng theo nước bọt bơm vào đó để đi vào hệ tuần hoàn động vật bị hút máu.
+Các loài chim sống trong khu vực có nhiều nguồn nước đứng như các ao, hồ, đầm lầy thường dễ nhiễm virus gây viêm não. Khi chim nhiễm virus viêm não, lượng virus trong máu của chúng tồn tại ở mật độ rất cao trước khi chim lành bệnh và xuất hiện miễn dịch chống bệnh. Nếu muỗi hút máu chim trong giai đoạn này thì chúng sẽ trở thành vector mang bệnh suốt đời. Chính muỗi mang virus gây bệnh này khi hút máu một con chim lành khác thì sẽ truyền vurus cho chim này và rồi có thể chim này lại chuyển virus gây bệnh cho một con muỗi khác nữa. Chính nhờ quá trình này mà virus được lưu hành rộng rãi trong quần thể các loài chim.
+Thông thường thì phương thức truyền virus trên đây không ảnh hưởng gì đến sức khỏe của cả muỗi và chim và cũng không gây nguy hiểm cho con người. Một phần là do muỗi thường chỉ thích hút máu các loài chim và các động vật có vú nhỏ. Người chỉ là một lựa chọn thứ hai. Tuy nhiên trong điều kiện môi trường thay đổi như thời tiết bất thường hay thay đổi khí hậu, lượng chim nhiễm bệnh và lượng muỗi tăng lên rất nhiều. Trong những rường hợp như thế, người sẽ đứng trước nguy cơ nhiễm bệnh cao hơn.
+Ở Việt Nam, Viêm não Nhật Bản B là một đe dọa sức khỏe cộng đồng, đặc biệt là trẻ em vào mùa hè. Xin xem thêm bài chính Viêm não Nhật Bản.
+Một số các arbovirus gây viêm não được đề cập trong y văn gồm:
+
+Viêm não ngựa miền Đông (Eastern equine encephalitis): Như tên bệnh cho biết, viêm não này xuất hiện chủ yếu ở ngựa, ít gặp ở người và thường gặp ở khu vực miền Đông Hoa Kỳ. Bệnh có thể xảy ra quanh năm nhưng thường nhất là vào mùa hè. Virus này thường hiện diện ở các loài chim sống trong các đầm nước ngọt. Viêm não thường nặng nề và gây tử vong. Bệnh thường xảy ra 10 ngày sau khi bị muỗi đốt.
+Viêm não ngựa miền Tây (Western equine encephalitis): Hầu hết các báo cáo về bệnh này xảy ra ở bình nguyên miền Tây Hoa Kỳ. Các loài chim sống trên các cánh đồng có hệ thống thủy lợi hoặc trên các trang tại thường nhiễm virus. Bệnh xảy ra chủ yếu ở ngựa, hiếm gặp ở người. Thường cao điểm vào tháng Sáu và tháng Bảy. Bệnh nhẹ hơn người chị em của nó ở miền Đông tuy nhiên trẻ nhỏ mắc bệnh sẽ biểu hiện nặng nề.
+Viêm não St. Louis (St. Louis encephalitis): Bệnh này cùng từ chim lan sang muỗi. Người già mắc bệnh nặng hơn. Tỷ lệ tử vong khoảng từ 2 đến 20%.
+Viêm não La Crosse (La Crosse encephalitis): La Crosse là nơi phát hiện viêm não này lần đầu tiên vào năm 1963. Bệnh thường gặp ở trẻ em.
+Viêm não Tây sông Nile (West Nile encephalitis). Bệnh lưu hành ở châu Phi, Trung Đông, một phần châu Âu, Nga, Ấn Độ và Indonesia. Bệnh phát hiện ở Hoa Kỳ lần đầu tiên vào năm 1999. Cũng giống như các arbovirus khác, virus gây viêm não Tây sông Nile có ổ chứa là chim và vector truyền bệnh là muỗi tuy nhiên trong một số hiếm trường hợp, bệnh lây truyền qua truyền máu hay ghép tạng hay cho bú. Bệnh thường nhẹ nhưng cũng có thể trầm trọng nếu bệnh nhân bị suy giảm miễn dịch.
+
+
+=== Herpes virus ===
+Một số virus thuộc họ này thường gây những bệnh lý thông thường thì cũng có thể gây viêm não:
+
+Virus herpes simplex: Có hai type herpes simplex virus (HSV) là HSV type 1 và HSV type 2. HSV type 1 thường gây bệnh ở miệng tạo thành các vết loét rất đau hoặc các mụn rộp xung quanh miệng (dân gian hay gọi là chứng nhiệt). HSV type 2 thường gây bệnh ở cơ quan sinh dục. HSV-1 gây viêm não tản phát. Phụ nữ mang thai nhiễm HSV đường sinh dục có thể truyền virus cho con lúc sinh gây nên bệnh cảnh viêm não cực kỳ nặng nề với tỉ lệ tử vong rất cao.
+Virus varicella-zoster: Virus này gây nên bệnh thủy đậu (bệnh xuất hiện trong nhiễm trùng tiên phát) và bệnh dời leo (do sự tái hoạt động của virus trong cơ thể). Virus này có thê gây nên viêm não và có thể đưa đến tử vong.
+Virus Epstein-Barr: Virus này gây nên chứng tăng bạch cầu đơn nhân nhiễm trùng (infectious mononucleosis). Virus có thể gây viêm não và thường nhẹ tuy nhiên trong một số trường hợp có thể đưa đến tử vong.
+
+
+=== Các bệnh nhiễm trùng thông thường ở trẻ em gây viêm não ===
+Trong một số trường hợp hiếm gặp, viêm não thứ phát có thể xuất hiện sau khi trẻ mắc một số bệnh nhiễm trùng thường gặp, bao gồm:
+
+Sởi
+Quai bị
+Sởi Đức (Rubella)
+Trong những trường hợp này, viêm não có thể là do đáp ứng quá mẫn, một đáp ứng quá mức của hệ miễn dịch đối với các chất lạ. Tuy nhiên trong bệnh sởi, ngoài viêm não do quá mẫn (xuất hiện khá sớm sau sởi) thì còn biến chứng viêm não xơ hóa bán cấp tiến triển do virus cư trú trong tế bào thần kinh trung ương.
+[4] [5].
+
+
+=== Các enterovirus (virus ruột) ===
+Các enterovirus cũng có thể gây nên viêm não nặng nề như enterovirus 71 ngoài biểu hiện nhẹ của nó là bệnh tay chân miệng.
+
+
+== Các yếu tố nguy cơ ==
+Muỗi không phân biệt đối tượng khác nhau trong quần thể dân cư do vậy mọi người đều có thể mắc bệnh. Tuy nhiên có một số yếu tố gọi là yếu tố nguy cơ làm cho người đó có nhiều khả năng mắc bệnh hơn [6]. Cũng nên nhớ là không phải tất cả mọi người nhiễm virus đều mắc bệnh.
+
+Tuổi: Một số viêm não thường xuất hiện hơn và/hoặc nặng nề hơn ở trẻ em hoặc người già.
+Suy giảm miễn dịch: Bệnh nhân suy giảm miễn dịch do bệnh hoặc do điều trị hoặc do ghép tạng có nguy cơ cao hơn.
+Vùng địa lý: Vùng nhiệt đới thường có nguy cơ viêm não cao hơn, nhất là viêm não do các arbovirus.
+Các hoạt động ngoài trời: Những người có hoạt động ngoài trời nhiều như làm vườn, chăn nuôi lợn, nghiên cứu chim, nghĩa là có nguy cơ tiếp xúc nhiều với muỗi sẽ dễ bị mắc bệnh hơn.
+Mùa trong năm: Các tháng nóng ấm mùa hè là mùa sinh sản của chim và muỗi do đó các bệnh viêm não do arbovirus tăng cao hơn. Vào mùa đông xuân, viêm não do virus ruột có thể gặp nhiều hơn.
+
+
+== Sinh lý bệnh ==
+Đường xâm nhập thay đổi tùy theo từng loại virus gây bệnh Có nhiều virus có thể lây truyền từ người sang người. Một số trường hợp viêm não lại do sự tái hoạt động của virus trong cơ thể như herpes simplex virus. Muỗi và các côn trùng truyền bệnh thông qua đường vào từ các vết đốt. Bệnh dại có đường vào từ các vết cắn của một số động vật. Với một số virus như varicella-zoster virus (VZV) và virus vùi hạt cự bào (cytomegalovirus: CMV) thì tình trạng suy giảm miễn dịch đóng một vai trò quan trọng trong sự phát sinh bệnh.
+Thông thường thì virus nhân lên bên ngoài hệ thống thần kinh trung ương và đi vào hệ thống này hoặc bằng đường máu hoặc đi ngược theo các dây thần kinh (bệnh dại, herpes simplex virus và varicella-zoster virus) và đường khứu giác (herpes simplex virus). Nguyên nhân của các trường hợp viêm não chậm như viêm não xơ hóa bán cấp tiến triển (subacute sclerosing panencephalitis: SSPE) sau sởi, bệnh lý chất trắng đa ổ tiến triển (progressive multifocal leukoencephalopathy: PML) vẫn chưa được hiểu tường tận.
+Một khi đã vượt qua được hàng rào máu-não, virus xâm nhập tế bào thần kinh gây nên rối loạn chức năng tế bào, xung huyết quanh mao mạch, xuất huyết, và đáp ứng viêm lan tỏa ảnh hưởng đến chất xám và chất trắng tuy nhiên chất xám bị ảnh hưởng nặng nề hơn. Bệnh lý não khu trú là hậu quả của tổn thương một vùng não nào đó do virus có ái tính cao với vùng này. Ví dụ herpes simplex virus thường ảnh hưởng đến thùy thái dương dưới và giữa.
+Mặc dù các đặc điểm mô học là không đặc hiệu, sinh thiết não vẫn là tiêu chuẩn chính để chẩn đoán bệnh dại. Sự hiện diện của các thể Negri (Negri bodies) ở hồi hải mã (hippocampus) và tiểu não (cerebellum) là đấu hiệu chỉ điểm của bệnh. Trong viêm não do herpes simplex virus, các hạt vùi HSV Cowdry type A cùng với hiện tượng hoại tử xuất huyết thùy thái dương và thùy trán là dấu hiệu thường thấy.
+Ngược lại với các bệnh lý ảnh hưởng trực tiếp đến chất xám kể trên thì các bệnh lý gây viêm não cấp lan tỏa hoặc viêm não tủy sau nhiễm trùng sau sởi, Epstein-Barr virus (EBV), và virus vùi hạt cự bào (CMV) thường là do đáp ứng miễn dịch gây nên tổn thương hủy hoại myeline đa ổ chất trắng xung quanh mạch máu [7].
+
+
+== Dấu hiệu và triệu chứng ==
+Dấu hiệu trong trường hợp viêm não thể nhẹ gồm:
+Trong những trường hợp nặng hơn bệnh nhân có thể có sốt cao và kèm theo các tiệu chứng liên quan đến tổn thương hệ thần kinh trung ương bao gồm:
+
+Nhức đầu dữ dội
+Buồn nôn và nôn mửa
+Cứng cổ
+Lú lẫn
+Mất định hướng
+Thay đổi nhân cách
+Co giật
+Rối loạn nghe nói
+Ảo giác
+Mất trí nhớ
+Đờ đẫn
+Hôn mê
+Ở trẻ nhỏ, các dấu hiệu trên không điển hình và khó phát hiện tuy nhiên vẫn có một số dấu hiệu quan trọng giúp định hướng chẩn đoán. Các dấu hiệu này bao gồm:
+
+Nôn mửa
+Thóp phồng (nếu còn thóp)
+Khóc không thể dỗ nín hoặc khóc tăng lên khi trẻ được bồng lên hoặc làm thay đổi tư thế
+Gồng cứng người
+Vì viêm não có thể xuất hiện sau hoặc đi kèm với các chứng nhiễm virus nên đôi khi có những triệu chứng đặc trưng của các bênh này trước khi có viêm não. Tuy vậy, viêm não thường xuất hiện mà không có triệu chứng báo trước nào cả.
+
+
+== Chẩn đoán ==
+Viêm não là một cấp cứu y khoa, do đó khi có bất cứ triệu chứng nghi ngờ nào như nêu trên thì cũng cần làm các xét nghiệm sau:
+
+Chọc dịch não tủy: lấy dịch não tủy để xét nghiệm tế bào-vi trùng, hóa sinh hay virus học.
+Chẩn đoán hình ảnh: như chụp cắt lớp điện toán (CT scan) hay chụp cộng hưởng từ (MRI) để phát hiện tình trạng phù nề, xuất huyết hay các bất thường khác của não
+Điện não đồ (EEG): khảo sát hoạt động điện của não nhằm phát hiện các sóng bất thường.
+Xét nghiệm máu: như công thức máu, xét nghiệm hóa sinh, xét nghiệm huyết thanh học nhằm phát hiện các kháng thể đặc hiệu chống lại bệnh hay phân lập virus.
+
+
+== Điều trị ==
+Điều trị viêm não cần được thực hiện tại bệnh viện có đủ phương tiện theo dõi cũng như can thiệp kịp thời. Điều trị gồm theo dõi và kiểm soát huyết áp, tần số tim, hô hấp, rối loạn nước-điện giải và nhất là chống phù não.
+Ngoại trừ trường hợp viêm não do herpes simplex virus, hấu hết các trường hợp viêm não không cần dùng kháng sinh vì kháng sinh không có tác dụng. Có thể dùng corticosteroid, các dung dịch ưu trương để điều trị phù não. Các thuốc an thần và chống co giật sử dụng khi có co giật.
+Trong trường hợp nặng có rối loạn hô hấp, tuần hoàn, bệnh nhân cần điều trị tích cực như thông khí nhân tạo, chống sốc...
+Điều trị phục hồi chức năng cho những bệnh nhân có di chứng.
+
+
+== Tiên lượng ==
+Bệnh nhân có thể hồi phục hoàn toàn không di chứng tuy nhiên trong các trường hợp khác như viêm não do herpes simplex virus, viêm não Nhật Bản B, viêm não do virus ruột tình trạng tổn thương tế bào não cũng như phù não gây nên các di chứng nặng nề như suy giảm khả năng học tập, mất trí nhớ, mất khả năng kiểm soát vận động cơ, động kinh, thay đổi nhân cách… Trẻ nhỏ dưới một tuổi thường có nguy cơ bệnh nặng hơn và có thể đưa đến bại não. Trường hợp viêm não tổn thương nặng đến thân não, nơi có trung tâm hô hấp, tuần hoàn, điều nhiệt… bệnh nhân dễ tử vong [8] Lưu trữ 2006-08-06 tại Wayback Machine.
+
+
+== Phòng bệnh ==
+Viêm não bản thân nó không thể phòng ngừa được ngoại trừ các biện pháp phòng ngừa các bệnh lý có thể dẫn đến viêm não. Các bệnh này thường là những bệnh nhiễm trùng thông thường ở trẻ em như sởi, quai bị và thủy đậu và có thể phòng ngừa hiệu quả bằng tiêm chủng.
+Trong những vùng mà viêm não được lây truyền do côn trùng, nhất là muỗi, thì trẻ em nên [9], [10]:
+
+Tránh chơi ngoài trời vào lúc bình minh hoặc hoàng hôn
+Cần mặc áo quần phủ kín tay chân như mang tất
+Dùng các chất xua đuổi côn trùng
+Nằm màn khi ngủ
+Vệ sinh môi trường: phát quang bụi rậm, thông thoáng cống rãnh, đậy kỹ các vật dụng chứa nước, loại bỏ các dụng cụ thừa có khả năng đọng nước.Mục đích nhằm giảm thiểu nơi cư ngụ cũng như nơi đẻ trứng của muỗi.
+
+
+== Tham khảo ==

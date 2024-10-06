@@ -1,0 +1,25 @@
+Bài giảng là một phần nội dung trong chương trình của một môn học được giáo viên trình bày trước học sinh.
+
+
+== Yêu cầu ==
+Các yêu cầu cơ bản đối với bài giảng là: 
+
+Định hướng rõ ràng về chủ đề
+Trình bày có mạch lạc
+Có hệ thống và truyền cảm nội dung, phân tích rõ ràng, dễ hiểu các sự kiện, hiện tượng cụ thể có liên quan và tóm tắt có khái quát chúng
+Sử dụng phối hợp nhiều thủ pháp thích hợp như thuyết trình, chứng minh, giải thích, đàm luận, làm mẫu, chiếu phim, mở máy ghi âm, ghi hình v.v.
+Bài giảng luôn được xem như một đơn vị nội dung của chương trình có độ dài tương ứng với một hoặc hai tiết học.
+Khi thực thi một giáo án (kế hoạch dạy học) nào đó trên đối tượng học sinh cụ thể trong một không gian và thời điểm nhất định thì được coi là ta đang thực hiện một bài giảng. Như vậy, giáo án là tĩnh, bài giảng lại động. Một giáo án chỉ có thể trở thành bài giảng khi nó được thực thi. Hay nói một cách văn chương, nếu coi giáo án là "kịch bản" thì bài giảng được coi là "vở kịch được công diễn". Bài giảng là tiến trình giáo viên triển khai giáo án của mình ở trên lớp.
+
+
+== Lịch sử ==
+
+
+== Hình thức giảng dạy khác ==
+
+
+== Xem thêm ==
+Bài giảng điện tử
+
+
+== Chú thích ==

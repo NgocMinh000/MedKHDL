@@ -1,0 +1,15 @@
+Màu chàm (indigo) là màu của ánh sáng trong khoảng 440 đến 420 nm, nằm giữa màu xanh lam và màu tím. Giống như màu da cam, tên gọi của nó có xuất xứ từ tự nhiên, do màu này rất gần với màu của chất tanin lấy từ lá hay vỏ cây chàm dùng để nhuộm quần áo. Nó không phải là màu gốc bổ sung hay loại trừ nhưng trong các sách vật lý vẫn liệt kê nó như màu gốc. Lý do cơ bản là khi Newton chia quang phổ ra làm bảy phần để cho phù hợp với con số bảy hành tinh (khi đó chỉ biết có vậy), bảy ngày trong tuần và bảy nốt nhạc cũng như một số các danh sách khác chỉ có bảy phần tử thì ông đã đặt tên và định nghĩa nó như màu gốc. Mắt con người không nhạy cảm lắm với ánh sáng màu chàm. Một số người không thể phân biệt nó với màu xanh lam hay màu tím.
+
+
+== Tọa độ màu ==
+Số Hex =  #15167209
+RGB   (r, g, b)      = (75, 0, 130)
+CMYK  (c, m, y, k)   = (42, 100, 0, 49)
+HSV (h, s, v) =  (275, 100, 51)
+
+
+== Xem thêm ==
+Danh sách màu
+
+
+== Tham khảo ==

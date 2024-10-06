@@ -1,0 +1,58 @@
+Hệ renin-angiotensin (viết tắt tiếng Anh là RAS) hay còn gọi là Hệ renin-angiotensin-aldosterone (viết tắt tiếng Anh là RAAS) là một hệ thống các hormon làm nhiệm vụ điều hòa cân bằng huyết áp và (dịch ngoại bào) trong cơ thể người.
+Khi thể tích máu trong cơ thể người hạ thấp khiến huyết áp giảm, thận sẽ bài tiết một men có tên là renin. Renin sẽ kích thích sự sản sinh angiotensin. Đến lượt Angiotensin gây co mạch máu dẫn đến việc tăng huyết áp. Angiotensin cũng kích thích sự chế tiết hormon aldosterone từ lớp cầu của tuyến vỏ thượng thận. Aldosterone làm tăng tái hấp thu nước và ion Na+ ở các tế bào biểu mô ống thận. Điều đó sẽ dẫn tới việc tăng lượng nước trong cơ thể, phục hồi huyết áp.
+Nếu hệ renin-angiotensin-aldosterone hoạt động bất thường thì huyết áp sẽ lên quá cao. Người ta đã bào chế ra nhiều loại thuốc tác động lên các bước khác nhau trong hệ này để làm giảm huyết áp. Những thuốc thuộc loại trên là một trong những phương pháp được dùng để điều trị chứng cao huyết áp trong các bệnh suy thận, suy tim, và các biến chứng của bệnh tiểu đường.
+
+
+== Hoạt hóa ==
+Hệ thống này có thể được hoạt hóa khi có sự giảm thiểu thể tích máu hay sụt giảm huyết áp (như trong xuất huyết).
+
+Nếu lưu lượng nước qua các tế bào cạnh cầu thận nằm trong bộ máy cạnh cầu thận ở thận giảm xuống, sau đó các tế bào cận tiểu cầu giải phóng enzyme renin.
+Renin sẽ tác động lên một protein trong huyết tương là angiotensinogen vốn đang ở dang bất hoạt bằng cách cắt một đoạn zymogen, chuyển nó thành angiotensin I.
+Angiotensin I sau đó được chuyển đổi thành angiotensin II bởi enzyme chuyển đổi angiotensin (viết tắt tiếng Anh là ACE) được tìm thấy chủ yếu ở mao mạch phổi.
+Angiotensin II là chất có tác dụng sinh học cao của hệ renin-angiotensin, sẽ gắn lên các thụ thể nằm trên màng tế bào nội mô mao mạch, làm cho các tế bào này co thắt và mạch máu quanh chúng dẫn đến sự giải phóng aldosterone từ vùng cung ở tuyến vỏ thượng thận. Angiotensin II hoạt động như là hormon nội tiết, tự tiết, cận tiết, và kích thích tố nội bào.
+Nhà khoa học Patil Jaspal gần đây đã chỉ ra sự tổng hợp của Angiotensin III ở các tế bào thuộc thần kinh giao cảm.
+
+
+== Tác động ==
+Đọc thêm: Angiotensin#Tác động và Aldosterone#Chức năng
+
+Một số nghiên cứu chỉ ra vài chức năng nhỏ của angiotensin I nhưng thật sự thì sản phẩm của nó là angiotensin II đóng vai trò sinh học lớn hơn. Angiotensin II có nhiều tác động lên cơ thể con người:
+
+Trong cơ thể nó đóng vai trò là yếu tố gây co tiểu động mạch tiềm năng.
+Ở thận, nó gây co tiểu động mạch của tiểu cầu, tác động này đối với tiểu động mạch ra mạnh hơn tiểu động mạch vào. Giống như phần lớn các mạch máu khác trong cơ thể, việc co tiểu động mạch vào gây tăng lực cản của tiểu động mạch, làm huyết áp động mạch của vòng tuần hoàn cơ thể gia tăng và giảm lưu lượng máu chảy. Tuy nhiên, thận cần phải tiếp tục nhiệm vụ lọc toàn bộ lượng máu của cơ thể bất chấp sự sụt giảm lưu lượng máu đến thận. Do đó yêu cầu đặt ra cần có một cơ chế để tăng huyết áp trong mao mạch tiểu cầu thận. Để làm được điều này, angiotensin II gây co tiểu động mạch ra, từ đó làm tăng dòng máu tới tiểu cầu thận thông qua việc tăng áp suất tiểu cầu. Nhờ đó, mức lọc cầu thận (viết tắt tiếng Anh là GFR) được duy trì không đổi và sự lọc máu có thể tiếp diễn bất chấp việc dòng máu đến sự giảm dòng máu toàn phần đến thận. Bởi vì tỷ lệ lọc tiểu cầu tăng lên, và có ít dịch huyết tương trong dòng máu đi xuống tiểu động mạch tiểu cầu. Điều này sẽ dẫn tới việc giảm áp suất thủy tĩnh và tăng áp suất thẩm thấu (do các protein huyết tương không được lọc) trong tiểu động mach tiểu cầu. Tác động của việc giảm áp suất thủy tĩnh và tăng áp suất thẩm thấu là tạo điều kiện cho việc tăng tái hấp thu dịch trong lòng ống.
+Angiotensin II làm giảm dòng máu trong các động mạch thẳng ở vùng tủy thận. Điều này dẫn tới việc loại bỏ muối NaCl và urê trong các khoảng trống của vùng tủy thận. Do đó, nồng độ NaCl và urê cao trong tủy thận tạo điều kiện tăng hấp thu dịch trong lòng ống. Ngoài ra, tăng tái hấp thu dịch ở vùng tủy sẽ làm tăng tái hấp thu thụ động Na ở ngành lên của quai Henle.
+Angiotensin II cũng kích thích men trao đổi ion Na+/H+ tại màng niệu của tế bào biểu mô ống lượn gần và ngành lên dày của quai Henle để tăng cường cho các kênh Na+ ở ống góp. Kết quả cuối cùng là tăng tái hấp thu Na+.
+Angiotensin II kích thích sự phì đại của tế bào ống thận, cũng dẫn tới sự tăng tái hấp thu Na+.
+Ở vùng tuyến vỏ thượng thận, angiotensin II gây ra sự giải phóng hormon aldosterone. Đến lượt aldosterone tác động lên ống thận (cụ thể là tế bào biểu mô ống lượn xa và ống góp vỏ), làm tăng tái hấp thu Na và nước từ nước tiểu. Trong quá trình tái hấp thu Na vào máu, K được bài tiết ra ống và trở thành một phần của nước tiểu rồi sau đó được thải ra ngoài. Aldosterone cũng tác động lên hệ thần kinh trung ương gây ra sự thèm ăn muối và kích thích cảm giác khát.
+Sự giải phóng của hormon chống lợi tiểu (viết tắt tiếng Anh là ADH), cũng được gọi với cái tên là vasopressin từ vùng dưới đồi vào mao mạch thùy sau tuyến yên. Chức năng của hormon này được diễn giải trong tên của nó là bao gồm các đặc tính chống lợi tiểu, gây co mạch tất cả dẫn đến kết quả cuối cùng là kích thích tái hấp thu nước ở thận.
+Tất cả các tác động trên đây phối hợp chung với nhau trong kết quả cuối cùng là tăng huyết áp.
+
+
+== Ý nghĩa lâm sàng ==
+Những chất ức chế men chuyển đổi angiotensin (viết tắt là chất ức chế ACE) thường được sử dụng để ức chế sự hình thành hormon angiotensin II tiềm tàng. Captopril là một ví dụ của chất ức chế ACE.
+Ngoài ra còn một biện pháp thay thế khác là dùng chất phong bế thụ thể angiotensin (viết tắt tiếng Anh là ARBs) để ngăn chặn angiotensin II không cho gắn với các thụ thể angiotensin receptor của hormon này.
+Hay một biện pháp trực tiếp hơn là dùng chất ức chế renin, cụ thể là aliskiren and the investigational remikiren.
+Vào tháng 11 năm 2008, một loại vaccin mới có tác dụng chống lại angiotensin II, mang mật mã CYT006-AngQb, đang được thử nghiệm lâm sàng.
+
+
+== Những ứng dụng khác của ACE ==
+Một điều thú vị là ACE còn có nhiệm vụ phân cắt nhiều loại peptide khác và nó đóng vai trò là chất điều hòa quan trọng trong hệ kinin-kallikrein.
+
+
+== Hệ renin-angiotensin ở thai nhi ==
+Ở bào thai, hệ renin-angiotensin là một hệ chủ yếu gây thất thoát Na, khi mà angiotensin II có rất ít ảnh hưởng hay hầu như không có lên mức aldosterone. Và mức renin đạt nồng độ cao trong bào thai, trong khi mức angiotensin II đặc biệt thất; điều này được lý giải là do giới hạn của dòng máu phổi đã ngăn chặn ACE (được tìm thấy phần lớn trong vòng tuần hoàn phổi) không cho men này phát huy hết tác dụng của nó.
+
+
+== Xem thêm ==
+Chất ức chế ACE
+Kháng thụ thể Angiotensin II
+Tiến trình khám phá và phát triển chất phong bế thụ thể angiotensin
+
+
+== Tham khảo ==
+
+Banic A, Sigurdsson GH, Wheatley AM (1993). “Influence of age on the cardiovascular response during graded haemorrhage in anaesthetized rats”. Res Exp Med (Berl). 193 (5): 315–21. doi:10.1007/BF02576239. PMID 8278677.Quản lý CS1: nhiều tên: danh sách tác giả (liên kết)
+
+
+== Liên kết ngoài ==
+MeSH Renin-Angiotensin+System

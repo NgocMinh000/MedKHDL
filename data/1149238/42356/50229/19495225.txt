@@ -1,0 +1,90 @@
+The human brain has 100 billion neurons, each neuron connected to 10,000 other neurons. Sitting on your shoulders is the most complicated object in the known universe. 
+
+  
+    
+      
+        
+          λ
+          
+            2
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                V
+                
+                  m
+                
+              
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        τ
+        
+          
+            
+              ∂
+              
+                V
+                
+                  m
+                
+              
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        −
+        
+          V
+          
+            m
+          
+        
+        (
+        x
+        ,
+        t
+        )
+        =
+        0.
+        
+         
+      
+    
+    {\displaystyle \lambda ^{2}{\frac {\partial ^{2}V_{m}(x,t)}{\partial x^{2}}}-\tau {\frac {\partial V_{m}(x,t)}{\partial t}}-V_{m}(x,t)=0.\quad \ }
+  
+
+
+== Reference ==

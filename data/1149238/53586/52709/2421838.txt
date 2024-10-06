@@ -1,0 +1,10 @@
+Cơ sở dữ liệu thư mục (tiếng Anh: bibliographic database) là cơ sở dữ liệu chứa các biểu ghi thư mục, được tổ chức như một bộ sưu tập kỹ thuật số các tài liệu đã xuất bản, bao gồm các bài báo đăng trên tạp chí học thuật và báo viết, kỷ yếu hội thảo, báo cáo, xuất bản phẩm của chính phủ và xuất bản phẩm về pháp luật, bằng sáng chế, sách, vân vân. Trái với các mục trong biên mục thư viện, một lượng lớn biểu ghi thư mục trong cơ sở dữ liệu thư mục là để mô tả các bài viết hay tài liệu hội nghị,...thay vì mô tả các chuyên khảo đầy đủ; các biểu ghi này nhìn chung mô tả rất kỹ chủ thể dưới dạng chỉ mục hoặc tóm tắt nội dung (abstract).
+Cơ sở dữ liệu thư mục có thể mang nội dung chung chung hoặc dành riêng cho một môn khoa học nào đó. Một số lượng đáng kể cơ sở dữ liệu thư mục hiện vẫn mang tính độc quyền, phải thông qua thỏa thuận cấp phép với bên cung cấp hoặc trực tiếp từ bên cung cấp dịch vụ indexing and abstracting tạo ra các cơ sở dữ liệu này.
+Nhiều cơ sở dữ liệu thư mục đã phát triển thành các thư viện số, cung cấp toàn văn các nội dung được liệt kê trên đó. Số khác lại hợp với các cơ sở dữ liệu học thuật phi thư mục để trở thành các hệ thống truy tìm dữ liệu phức tạp, chẳng hạn Chemical Abstracts hoặc Entrez.
+
+
+== Lịch sử ==
+Trước giữa thế kỷ 20, các cá nhân muốn tìm tài liệu đã xuất bản đều phải dựa vào các mục lục thư mục dạng in. Đầu thập niên 1960, máy tính lần đầu được dùng để số hóa văn bản nhằm giảm chi phí và thời gian để xuất bản hai tạp chí tóm tắt bài báo của Mỹ là Index Medicus (của Thư viện Quốc gia về Y học) và Scientific and Technical Aerospace Reports (của NASA). Từ đầu thập niên 1970, người ta bắt đầu thương mại hóa hoạt động truy cập. Tuy nhiên, truy cập còn đắt đỏ và phải được thực hiện thông qua nhân viên thư viện.
+
+
+== Tham khảo ==

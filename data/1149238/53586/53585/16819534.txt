@@ -1,0 +1,25 @@
+Sự không chắc chắn đề cập đến các tình huống tri thức liên quan đến thông tin không hoàn hảo hoặc không xác định. Điều này áp dụng cho các dự đoán về các sự kiện trong tương lai, cho các phép đo vật lý đã được thực hiện hoặc chưa biết. Sự không chắc chắn phát sinh trong môi trường có thể quan sát được một phần và/hoặc ngẫu nhiên, cũng như do sự thiếu hiểu biết, thờ ơ hoặc cả hai. Sự không chắc chắn phát sinh trong bất kỳ lĩnh vực nào, bao gồm bảo hiểm, triết học, vật lý, thống kê, kinh tế, tài chính, tâm lý học, xã hội học, kỹ thuật, đo lường, khí tượng học, sinh thái học và khoa học thông tin.
+
+
+== Các khái niệm ==
+Mặc dù các thuật ngữ được sử dụng theo nhiều cách khác nhau trong công chúng, nhiều chuyên gia về lý thuyết quyết định, thống kê và các lĩnh vực định lượng khác đã xác định độ không chắc chắn, rủi ro và phép đo của chúng là:
+
+Tính không chắc chắn
+Sự thiếu chắc chắn, một trạng thái của kiến thức hạn chế trong đó không thể mô tả chính xác trạng thái hiện tại, kết quả trong tương lai hoặc nhiều hơn một kết quả có thể.
+Đo lường độ không chắc chắn
+Một tập hợp các trạng thái hoặc kết quả có thể có trong đó xác suất được gán cho từng trạng thái hoặc kết quả có thể - điều này cũng bao gồm việc áp dụng hàm mật độ xác suất cho các biến liên tục.
+Sự không chắc chắn thứ hai
+Trong thống kê và kinh tế, độ không đảm bảo bậc hai được biểu diễn trong các hàm mật độ xác suất so với xác suất (bậc một).
+Ý kiến trong logic chủ quan mang loại không chắc chắn này.
+Rủi ro
+Một trạng thái không chắc chắn trong đó một số kết quả có thể có tác động không mong muốn hoặc mất mát đáng kể.
+Đo lường rủi ro
+Một tập hợp các độ không đảm bảo đo được trong đó một số kết quả có thể xảy ra là tổn thất và mức độ nghiêm trọng của những tổn thất đó - điều này cũng bao gồm các hàm mất đối với các biến liên tục.
+Không chắc chắn kiểu hiệp sĩ
+Trong kinh tế học, vào năm 1921, Frank Knight đã phân biệt sự không chắc chắn với rủi ro với sự không chắc chắn là thiếu kiến thức là vô lượng và không thể tính toán được; bây giờ được gọi là sự không chắc chắn của Hiệp sĩ:
+Uncertainty must be taken in a sense radically distinct from the familiar notion of risk, from which it has never been properly separated.... The essential fact is that 'risk' means in some cases a quantity susceptible of measurement, while at other times it is something distinctly not of this character; and there are far-reaching and crucial differences in the bearings of the phenomena depending on which of the two is really present and operating.... It will appear that a measurable uncertainty, or 'risk' proper, as we shall use the term, is so far different from an unmeasurable one that it is not in effect an uncertainty at all.
+
+Các nguyên tắc phân loại khác của sự không chắc chắn và quyết định bao gồm một cảm giác không chắc chắn rộng hơn và cách tiếp cận nó từ góc độ đạo đức:
+
+
+== Tham khảo ==

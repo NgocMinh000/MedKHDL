@@ -1,0 +1,16 @@
+Điều trị đa mô thức là phương pháp điều trị có sử dụng nhiều hơn một loại thuốc hoặc phương thức (so với đơn trị liệu, chỉ sử dụng một phương pháp điều trị). Thông thường, thuật ngữ này chỉ nhiều phương pháp điều trị  cho duy nhất một bệnh, và thường thì tất cả các phương pháp điều trị đều dùng thuốc (mặc dù có thể liên quan đến điều trị không dùng thuốc, như kết hợp dùng thuốc và tâm lý trị liệu để điều trị trầm cảm).
+Dùng nhiều thuốc là một thuật ngữ liên quan, đề cập đến việc sử dụng nhiều thuốc (mà không quan tâm điều trị cùng một bệnh hay các bệnh khác nhau). Đôi khi "đa trị liệu" được sử dụng với ý nghĩa là phương pháp kết hợp thuốc. 
+
+
+== Tác dụng ==
+Các bệnh lý thường được điều trị kết hợp bao gồm lao, bệnh phong cùi, ung thư, sốt rét, và HIV/AIDS. Một trong những lợi ích của sự kết hợp các phương pháp điều trị là làm giảm kháng thuốc do mầm bệnh hay u là ít có khả năng kháng với nhiều thuốc cùng một lúc. Không khuyến khích dùng đơn trị liệu với Artemisinin điều trị bệnh sốt rét  để tránh những phát sinh kháng thuốc với phương pháp điều trị mới.
+Điều trị đa mô thức có vẻ tốn kém hơn đơn trị liệu về ngắn hạn, nhưng khi được sử dụng một cách hợp lý sẽ tiết kiệm đáng kể: hạ thấp tỷ lệ thất bại điều trị, tỷ lệ tử vong giảm, ít tác dụng phụ hơn đơn trị liệu, chậm kháng thuốc, và do đó cần ít tiền phát triển thuốc mới.
+
+
+=== Trong ung thư học ===
+Điều trị đa mô thức ngày càng ưu thế trong ung thư những năm gần đây, với nhiều nghiên cứu chứng minh tỷ lệ đáp ứng cao hơn của điều trị đa mô thức so với đơn trị liệu, và FDA gần đây phê duyệt phác đồ điều trị đa mô thức có tính an toàn và hiệu quả điều trị cao hơn đơn trị liệu.
+Nhiều phương pháp sinh học khác nhau cần được sử dụng để tìm ra phương pháp điều trị đa mô thức phù hợp giúp giảm kháng thuốc trong từng loại ung thư. Các phương pháp điều trị trúng đích tập trung vào các dấu sinh học được tìm thấy trong mỗi khối u bằng cách sử dụng thuốc kết hợp. Tuy nhiên, với 300 thuốc điều trị ung thư được FDA chấp thuận trên thị trường, có gần 45,000 cách kết hợp hai loại thuốc và gần 4.5 triệu cách kết hợp ba thuốc để lựa chọn. Sự phức tạp này là một trong những trở ngại cho sự phát triển của điều trị đa mô thức trong ung thư.
+National Cancer Institute gần đây báo cáo điều trị đa mô thức là một ưu tiên nghiên cứu hàng đầu trong ung thư.
+
+
+== Tham khảo ==

@@ -1,0 +1,19 @@
+Favipiravir, còn được gọi là T-705 hoặc Avigan, là một loại thuốc chống vi rút thử nghiệm đang được phát triển bởi Toyama Chemical của Nhật Bản với hoạt động chống lại nhiều loại virus RNA. Giống như một số loại thuốc chống vi rút thử nghiệm khác (T-1105 và T-1106), nó là một dẫn xuất pyrazinecarboxamide. Favipiravir hoạt động chống lại vi-rút cúm, vi-rút West Nile, vi-rút sốt vàng, vi-rút bệnh lở mồm long móng cũng như các flavirus khác, arenavirus, bunyavirus và alphavirus. Hoạt tính kháng enterovirus  và vi-rút sốt Rift Valley cũng đã được chứng minh. Favipiravir cho thấy hiệu quả hạn chế đối với virus Zika trong các nghiên cứu trên động vật, nhưng kém hiệu quả hơn các thuốc kháng vi-rút khác như MK-608. Thuốc cũng đã cho thấy một số hiệu quả chống lại bệnh dại, và đã được sử dụng thử nghiệm ở một số người bị nhiễm vi-rút.
+Cơ chế hoạt động của nó được cho là có liên quan đến sự ức chế chọn lọc RNA polymerase phụ thuộc RNA của vi-rút. Một nghiên cứu khác cho thấy rằng favipiravir gây ra đột biến chuyển gen RNA có tác dụng gây chết, tạo ra kiểu hình vi-rút không thể sống được. Favipiravir là một tiền dược dùng đường uống và được chuyển hóa thành dạng hoạt động của nó, favipiravir-RTP, có cả dạng đường uống và đường tĩnh mạch. Hypoxanthine guanine phosphoribosyltransferase (HGPRT) của người được cho là đóng một vai trò quan trọng trong quá trình hoạt hóa này. Favipiravir không ức chế tổng hợp RNA hoặc DNA trong tế bào động vật có vú và không độc đối với chúng. Năm 2014, favipiravir đã được phê duyệt tại Nhật Bản để dự trữ để chống lại các đại dịch cúm. Tuy nhiên, favipiravir chưa được chứng minh là có hiệu quả trong các tế bào đường hô hấp chính của con người, khiến người ta nghi ngờ về hiệu quả của nó trong điều trị cúm.
+
+
+== Bệnh do vi rút Ebola ==
+Thuốc dường như có hiệu quả trong mô hình chuột mắc bệnh do vi rút Ebola, nhưng hiệu quả của nó đối với nhiễm Ebola ở người không được chứng minh. Trong đợt bùng phát virus Ebola ở Tây Phi năm 2014, có thông tin rằng một y tá người Pháp nhiễm Ebola khi đang tình nguyện cho MSF ở Liberia đã hồi phục sau khi được điều trị bằng một liệu trình favipiravir. Một thử nghiệm lâm sàng khảo sát việc sử dụng favipiravir chống lại bệnh do vi-rút Ebola đã được bắt đầu tại Guéckédou, Guinea, trong tháng 12 năm 2014. Kết quả sơ bộ cho thấy tỷ lệ tử vong giảm ở những bệnh nhân có nồng độ vi-rút Ebola từ thấp đến trung bình trong máu, nhưng không có tác dụng với những bệnh nhân có nồng độ vi-rút cao, là nhóm có nguy cơ tử vong cao hơn. Thiết kế thử nghiệm đã bị Scott Hammer và những người khác chỉ trích vì chỉ sử dụng nhóm chứng lịch sử. Kết quả của thử nghiệm lâm sàng này đã được trình bày vào tháng 2 tại Hội nghị thường niên về Retrovirus và Nhiễm trùng cơ hội (CROI) 2016 của Daouda Sissoko  và được công bố vào ngày 1 tháng 3 năm 2016 trên PLOS Medicine.
+
+
+== Xem thêm ==
+BCX4430
+Brincidofovir
+FGI-106
+JK-05
+TKM-Ebola
+Triazavirin
+ZMapp
+
+
+== Tham khảo ==

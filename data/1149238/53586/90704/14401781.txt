@@ -1,0 +1,31 @@
+Tính toán là bất kỳ loại tính toán nào  bao gồm cả các bước đối xứng và không đối xứng và tuân theo một mô hình được xác định rõ, ví dụ như một thuật toán.
+Các nghiên cứu về tính toán là tối quan trọng đối với các ngành khoa học máy tính.
+
+
+== Hiện tượng vật lý ==
+Một tính toán có thể được xem như một hiện tượng vật lý thuần túy xảy ra bên trong một hệ thống vật lý khép kín gọi là máy tính.  Ví dụ về các hệ thống vật lý này bao gồm máy tính kỹ thuật số, máy tính cơ học, máy tính lượng tử, máy tính DNA, máy tính phân tử, máy tính dựa trên vi lỏng, máy tính tương tự hoặc máy tính đi bộ.  Quan điểm này đã được thông qua bởi vật lý tính toán, một nhánh của vật lý lý thuyết, cũng như lĩnh vực điện toán tự nhiên.
+Một quan điểm thậm chí còn triệt để hơn, chủ nghĩa tụy, là định đề của vật lý kỹ thuật số cho rằng sự tiến hóa của vũ trụ tự nó là một sự tính toán.
+
+
+=== Tài khoản bản đồ ===
+Tài khoản cổ điển về tính toán được tìm thấy trong các tác phẩm của Hilary Putnam và những người khác.  Peter Godfrey-Smith đã gọi đây là "tài khoản lập bản đồ đơn giản".    Tóm tắt của Gualtiero Piccinini về tài khoản này nói rằng một hệ thống vật lý có thể được cho là thực hiện một tính toán cụ thể khi có một ánh xạ giữa trạng thái của hệ thống đó với tính toán sao cho các trạng thái vi mô của [hệ thống] phản ánh trạng thái chuyển đổi giữa tiểu bang tính toán.” 
+
+
+=== Tài khoản ngữ nghĩa ===
+Các nhà triết học như Jerry Fodor  đã đề xuất nhiều tài khoản tính toán khác nhau với hạn chế rằng nội dung ngữ nghĩa là điều kiện cần để tính toán (nghĩa là, điều khác biệt giữa một hệ thống vật lý tùy ý với hệ thống máy tính là toán hạng của tính toán đại diện cho một cái gì đó).  Khái niệm này cố gắng ngăn chặn sự trừu tượng hóa logic của tài khoản lập bản đồ của chủ nghĩa tụy, ý tưởng rằng mọi thứ có thể nói là tính toán mọi thứ.
+
+
+=== Tài khoản cơ khí ===
+Gualtiero Piccinini đề xuất một tài khoản tính toán dựa trên triết lý cơ học.  Nó nói rằng các hệ thống máy tính vật lý là các loại cơ chế, theo thiết kế, thực hiện tính toán vật lý, hoặc điều khiển các thao tác (theo cơ chế chức năng) của một phương tiện độc lập trung bình theo quy tắc.  Tính độc lập trung bình đòi hỏi tài sản có thể được khởi tạo bởi nhiều bộ thực hiện và nhiều cơ chế và các đầu vào và đầu ra của cơ chế cũng có thể được nhân rộng.  Tóm lại, tính độc lập trung bình cho phép sử dụng các biến vật lý với các đặc điểm khác với điện áp (như trong các máy tính kỹ thuật số thông thường); điều này là bắt buộc trong việc xem xét các loại tính toán khác, chẳng hạn như xảy ra trong não hoặc trong một máy tính lượng tử.  Theo nghĩa này, một quy tắc, cung cấp một ánh xạ giữa các đầu vào, đầu ra và trạng thái bên trong của hệ thống máy tính vật lý.
+
+
+== Mô hình toán học ==
+Trong lý thuyết tính toán, sự đa dạng của các mô hình toán học của máy tính đã được phát triển.  Các mô hình toán học điển hình của máy tính như sau:
+
+Các mô hình trạng thái bao gồm máy Turing, máy tự động đẩy xuống, máy tự động trạng thái hữu hạn và PRAM
+Các mô hình chức năng bao gồm tính toán lambda
+Các mô hình logic bao gồm lập trình logic
+Các mô hình đồng thời bao gồm mô hình diễn viên và tính toán quá trình
+
+
+== Tham khảo ==

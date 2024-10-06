@@ -1,0 +1,75 @@
+Bảo vệ dữ liệu cá nhân khởi đầu dùng để chỉ việc bảo vệ dữ liệu có liên quan đến cá nhân trước sự lạm dụng. Trong vùng nói tiếng Anh người ta gọi đó là privacy hay data privacy. Trong vùng theo luật lệ châu Âu khái niệm data protection được dùng trong luật lệ. Ngày nay mục đích của việc bảo vệ dữ liệu được xem là để bảo vệ từng cá nhân không bị thiệt thòi trong quyền tự quyết định về thông tin của chính mình thông qua việc sử dụng dữ liệu liên quan đến cá nhân của họ. Bảo vệ dữ liệu cá nhân ủng hộ ý tưởng là về nguyên tắc mỗi người đều có thể tự quyết định là người nào, khi nào và dữ liệu cá nhân nào của mình được phép cho người khác xem. Bảo vệ dữ liệu cá nhân muốn ngăn ngừa cái gọi là "con người bằng kính".
+Tầm quan trọng của việc bảo vệ dữ liệu cá nhân đã tăng liên tục từ lúc phát triển kỹ thuật số vì thu thập, lưu trữ, giao chuyển và phân tích dữ liệu ngày càng đơn giản đi. Các phát triển kỹ thuật như Internet, thư điện tử, điện thoại di động, giám sát bằng video và các phương pháp thanh toán điện tử tạo nên những khả năng mới để thu thập dữ liệu. Cả cơ quan quốc gia lẫn doanh nghiệp tư nhân đều quan tâm đến những thông tin có liên quan đến cá nhân. Cơ quan an ninh quốc gia muốn cải tiến việc đấu tranh chống tội phạm thí dụ như thông qua điều tra đặc tính cá nhân (tiếng Anh: racial profiling) và giám sát viễn thông, cơ quan tài chính quan tâm đến giao dịch ngân hàng để khám phá vi phạm về thuế. Doanh nghiệp hy vọng tăng năng suất từ việc giám sát nhân viên và hy vọng việc định hình khách hàng sẽ giúp đỡ tiếp thị. Đối diện với sự phát triển này là sự thời ơ của phần lớn dân chúng mà trong mắt của họ việc bảo vệ dữ liệu cá nhân không có hay chỉ có tầm quan trọng trên thực tế rất ít.
+
+
+== Quy định ==
+
+
+=== Quy định quốc tế ===
+Từ năm 1980, cùng với Guidelines on the Protection of Privacy and Transborder Data Flows of Personal Data của Tổ chức Hợp tác và Phát triển Kinh tế (OECD) đã tồn tại những quy định có giá trị quốc tế với mục đích làm hài hòa sâu rộng các quy định về bảo vệ dữ liệu của các nước thành viên, khuyến khích trao đổi thông tin tự do, tránh cản trở thương mại vô lý và để tránh chia cách, đặc biệt là giữa các phát triển ở châu Âu và ở Mỹ.
+Năm 1981, với Hiệp ước Bảo vệ Dữ liệu Cá nhân châu Âu, Hội đồng châu Âu đã thông qua một trong những hiệp định quốc tế đầu tiên về việc bảo vệ dữ liệu cá nhân. Hiệp ước Bảo vệ Dữ liệu Cá nhân châu Âu có giá trị cho đến ngày nay nhưng chỉ có tính khuyên bảo. Ngược lại các chỉ thị bảo vệ dữ liệu cá nhân của Liên minh châu Âu là bắt buộc đối với các quốc gia thành viên và phải được chuyển thành luật lệ quốc gia.
+
+
+=== Liên minh châu Âu ===
+Với Chỉ thị Bảo vệ Dữ liệu Cá nhân châu Âu, Quốc hội châu Âu và Hội đồng châu Âu đã ghi rõ các tiêu chuẩn tối thiểu cho việc bảo vệ dữ liệu cá nhân cho các quốc gia thành viên. Tuy nhiên chỉ thị không có hiệu lực trong lãnh vực cộng tác tư pháp và cảnh sát. Việc chuyển giao dữ liệu có liên quan đến cá nhân sang quốc gia không phải là thành viên của Liên minh châu Âu cũng được điều chỉnh: theo chương 25 thì việc chuyển giao chỉ được phép khi quốc gia đó bảo đảm một "mức độ bảo vệ thích hợp". Quyết định quốc gia nào bảo đảm được mức độ bảo vệ này là do Ủy ban đưa ra, được cố vấn bởi nhóm gọi là Nhóm bảo vệ cá nhân trong việc xử lý dữ liệu có liên quan đến cá nhân. Hiện nay (thời điểm 9/2004) theo quyết định của Ủy ban, mức độ bảo vệ thích hợp được bảo đảm từ những quốc gia sau đây: Thụy Sĩ, Canada, Argentina, Guernsey, đảo Man (Isle of Man) cũng như trong việc ứng dụng các nguyên tắc của "Bến an toàn" (safe harbor) do Bộ Thương mại Mỹ đề ra và trong việc chuyển giao dữ liệu của hành khách hàng không đến Cơ quan Bảo vệ Biên giới và Hải quan Mỹ (CBP).
+Đặc biệt là quyết định về việc cho phép chuyển giao dữ liệu của hành khách hàng không đến Cơ quan Hải quan Mỹ đã được tranh cãi nhiều. Quốc hội châu Âu đã khởi kiện quyết định này của Ủy ban và Hội đồng châu Âu vì theo quan điểm của Quốc hội châu Âu là đã không được tham gia đúng mức và thêm vào đó là từ phía Mỹ cũng không bảo đảm được một mức độ bảo vệ dữ liệu thích hợp.
+Chỉ thị này được bổ sung bởi Chỉ thị 2002/58/EG về việc xử lý dữ liệu có liên quan đến cá nhân và việc bảo vệ riêng tư cá nhân trong thông tin điện tử. Sau khi thời hạn thực hiện chỉ thị kết thúc vào ngày 31 tháng 12 năm 2003, 9 quốc gia thành viên đã bị khởi kiện và sau khi chỉ có Thụy Điển do đó đã thực hiện hoàn toàn chỉ thị Bỉ, Đức, Hy Lạp, Pháp, Luxembourg, Hà Lan, Bồ Đào Nha và Phần Lan đang bị đe dọa bởi một vụ kiện trước Tòa án châu Âu.
+Trên bình diện châu Âu việc ghi nhớ dữ liệu bắt buộc của viễn thông và Internet được thông qua từ Quốc hội châu Âu với các phiếu của những người theo Đảng Dân chủ Thiên chúa giáo và Dân chủ Xã hội. Một thời hạn tối thiểu là 6 tháng (Internet) và 1 năm (điện thoại) được đề nghị từ phía của Hội đồng châu Âu và Ủy ban châu Âu, thế nhưng các dữ liệu hiện nay được ghi nhớ cho đến 2 năm. Những người có trách nhiệm bảo vệ dữ liệu cá nhân quốc gia chỉ trích các quy định về việc ghi nhớ dữ liệu trong viễn thông và Internet này.
+
+
+=== Áo ===
+Cơ sở luật pháp cho việc bảo vệ dữ liệu ở Áo là Luật Bảo vệ Dữ liệu 2000. Ủy ban Bảo vệ Dữ liệu Áo kiểm soát việc thi hành đúng theo pháp luật.
+
+
+=== Đức ===
+Theo phán quyết của Tòa án Hiến pháp Liên bang bảo vệ dữ liệu là một quyền cơ bản (quyền tự quyết định về thông tin). Theo đó người có liên can về cơ bản có quyền tự quyết định là cho những ai biết những thông tin cá nhân nào của mình.
+Trên bình diện liên bang Luật Bảo vệ Dữ liệu Liên bang quy định việc bảo vệ dữ liệu cho các cơ quan liên bang và lãnh vực cá nhân (có nghĩa là cho tất cả các doanh nghiệp kinh tế). Bên cạnh đó các Luật Bảo vệ Dữ liệu Tiểu bang của các tiểu bang quy định việc bảo vệ dữ liệu trong các cơ quan tiểu bang và địa phương.
+Bên cạnh các luật bảo vệ dữ liệu chung còn có nhiều quy định bảo vệ dữ liệu cho từng lãnh vực. Thí dụ như các quy định đặc biệt về bảo vệ dữ liệu của Bộ luật Xã hội có giá trị cho các cơ quan về phúc lợi xã hội. Các quy định bảo vệ dữ liệu riêng biệt cho từng lãnh vực có hiệu lực trước các quy định chung của Luật bảo vệ dữ liệu. Các cơ quan của liên bang cũng như các doanh nghiệp cung cấp dịch vụ bưu điện và viễn thông có tính cách kinh doanh chịu sự giám sát của Ủy viên Liên bang về Bảo vệ Dữ liệu (Bundesbeauftragte für den Datenschutz). Doanh nghiệp tư nhân (ngoại trừ viễn thông và bưu điện) chịu sự giám sát của các cơ quan giám sát về bảo vệ dữ liệu cho khu vực phi công cộng thuộc dưới quyền của Ủy viên Tiểu bang về Bảo vệ Dữ liệu (Landesdatenschutzbeauftragte) hay cơ quan tiểu bang (thí dụ như Bộ Nội vụ). Ủy ban Liên minh châu Âu đã khởi kiện nước Cộng hòa Liên bang Đức về việc vi phạm hiệp định vì một số ủy viên về bảo vệ dữ liệu tiểu bang và tất cả các cơ quan của tiểu bang không hoạt động "hoàn toàn độc lập" mà chịu sự chỉ thị của chính phủ tiểu bang.
+
+
+=== Thụy Sĩ ===
+Tương tự như ở Đức, Luật Bảo vệ Dữ liệu Cá nhân của liên bang quy định về việc bảo vệ dữ liệu cho các cơ quan liên bang và cho khu vực tư nhân, Luật Bảo vệ Dữ liệu Tiểu bang được áp dụng cho các cơ quan tiểu bang. Ủy viên Liên bang về Bảo vệ Dữ liệu (Eidgenössische Datenschutzbeauftragte) giám sát việc thi hành Luật Bảo vệ Dữ liệu. Giám sát việc thi hành các luật bảo vệ dữ liệu tiểu bang thuộc về thẩm quyền của tiểu bang, không trực thuộc dưới quyền của ủy viên về bảo vệ dữ liệu liên bang.
+
+
+== Phương pháp ==
+Trong Hội nghị Bảo vệ Dữ liệu Quốc tế 2005 các ủy viên về bảo vệ dữ liệu đã nhắc nhở đến các nguyên tắc bảo vệ dữ liệu trong "Tuyên bố Montreux":
+
+Nguyên tắc hợp pháp trong lúc thu thập và xử lý dữ liệu.
+Nguyên tắc đúng đắn.
+Nguyên tắc phù hợp với mục đích.
+Nguyên tắc cân xứng.
+Nguyên tắc minh bạch.
+Nguyên tắc được cùng quyết định cho từng cá nhân và bảo đảm quyền truy cập cho người có liên quan.
+Nguyên tắc không phân biệt đối xử.
+Nguyên tắc an toàn.
+Nguyên tắc có trách niệm trước pháp lý.
+Nguyên tắc giám sát độc lập và hình phạt theo pháp luật.
+Nguyên tắc mức bảo vệ tương ứng trong vận chuyển dữ liệu xuyên biên giới.
+
+
+== Phê bình ==
+Những người phê phán thường hay nêu lý lẽ là việc bảo vệ dữ liệu quá mức hay bảo vệ dữ liệu không đúng chỗ có thể gây thiệt hại. Thí dụ hay được nêu ra là việc trao đổi dữ liệu được cho là không đầy đủ giữa những người điều trị trong y học. Một phê phán khác thường hay được ngành cảnh sát đưa ra là việc bảo vệ dữ liệu gây khó khăn cho việc chống tội phạm hình sự.
+
+
+== Tham khảo ==
+
+Bäumler, Helmut: E-Privacy - Datenschutz im Internet. (E-Privacy - Bảo vệ dữ liệu cá nhân trong Internet) Vieweg Verlag, ISBN 3-528-03921-3
+Garstka, Hansjürgen: Informationelle Selbstbestimmung und Datenschutz. Das Recht auf Privatsphäre. (Quyền tự quyết định về thông tin và bảo vệ dữ liệu cá nhân. Quyền có sự riêng tư) (PDF)
+Kongehl, Gerhard (Hrsg): Datenschutz-Management in Unternehmen und Behörden. (Quản lý việc bảo vệ dữ liệu cá nhân trong doanh nghiệp và cơ quan) Haufe 2005, ISBN 3-8092-1705-0
+Roßnagel, Alexander: Handbuch Datenschutzrecht (Sổ tay về quyền bảo vệ dữ liệu cá nhân), Verlag C.H. Beck 2003, ISBN 3-406-48441-7
+Schulzki-Haddouti, Christiane: Bürgerrechte im Netz. (Quyền công dân trong mạng), ISBN 3-8100-3872-5.
+Schulzki-Haddouti, Christiane: Vom Ende der Anonymität. Die Globalisierung der Überwachung. (Chấm dứt tình trạng vô danh. Toàn cầu hóa sự giám sát) ISBN 3-88229-185-0
+Schulzki-Haddouti, Christiane: Datenjagd. Eine Anleitung zur Selbstverteidigung. (Săn dữ liệu. Hướng dẫn để tự vệ). ISBN 3-434-53089-4
+Ström, Pär: Die Überwachungsmafia. Das gute Geschäft mit unseren Daten. (Mafia giám sát. Kinh doanh với dữ liệu cá nhân của chúng ta) München 2005
+
+
+== Đọc thêm ==
+An ninh thông tin
+P3P
+Vô danh
+
+
+== Liên kết ngoài ==
+Cổng bảo vệ dữ liệu của Liên minh châu Âu
+Ủy viên bảo vệ dữ liệu cá nhân châu Âu Lưu trữ 2007-01-09 tại Wayback Machine
+Bảo vệ dữ liệu doanh nghiệp

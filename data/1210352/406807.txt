@@ -1,0 +1,64 @@
+Bệnh hay bịnh, bệnh tật, ốm (Tiếng Anh: disease)  là quá trình hoạt động không bình thường của cơ thể sinh vật từ nguyên nhân khởi thủy đến hậu quả cuối cùng. Bệnh có thể gặp ở người, động vật hay thực vật. Có rất nhiều nguyên nhân sinh ra bệnh, nhưng có thể chia thành ba loại chính:
+
+Bệnh do bản thân cơ thể sinh vật có khuyết tật như di truyền bẩm sinh hay rối loạn sinh lý.
+Bệnh do hoàn cảnh sống của sinh vật khắc nghiệt như quá lạnh, quá nóng, bị ngộ độc, không đủ chất dinh dưỡng.
+Bệnh do bị các sinh vật khác (nhất là các vi sinh vật) ký sinh.
+Triệu chứng, điều kiện phát sinh, phát triển của từng loại bệnh thường khác nhau.
+
+
+== Thuật ngữ ==
+
+
+=== Loại ===
+Bệnh nhiễm trùng (Infectious diseases)
+Bệnh truyền nhiễm (Contagious diseases)
+Ngộ độc thực phẩm: là những bệnh gây ra do ăn thức ăn bị nhiễm các tác nhân như vi khuẩn, chất độc, virus hoặc ký sinh trùng.
+Bệnh dễ lây (Communicable diseases)
+Bệnh khó lây
+Bệnh lây qua đường không khí
+Bệnh do lối sống: là những bệnh xuất hiện ngày càng nhiều ở những quốc gia công nghiệp hóa và người dân sống lâu hơn, đặc biệt nếu các yếu tố nguy cơ như các lựa chọn hành vi như ít vận động hoặc chế độ ăn không lành mạnh như uống các loại cacbohydrat tinh chế, ăn mỡ hoặc uống bia rượu.
+Rối loạn tâm thần
+
+
+=== Giai đoạn ===
+Bệnh cấp tính
+Bệnh mãn tính: là bệnh tiến triển kéo dài hoặc hay tái phát, thời gian bệnh từ 3 tháng trở lên. Bệnh mạn tính không thể ngừa bằng vắc-xin, không thể chữa khỏi hoàn toàn và cũng không tự biến mất. Bệnh mạn tính phần lớn là bệnh không lây nhiễm, không do vi khuẩn, virus, ký sinh trùng hoặc nấm gây nên.
+Bùng phát
+Bệnh trơ/thời kỳ trơ: là giai đoạn kháng lại điều trị, đặc biệt ở những trường hợp khám lại điều trị lâu hơn so với bình thường cho đối với bệnh đặc biệt.
+Bệnh tiến triển
+Chữa bệnh
+
+
+== Gánh nặng bệnh tật ==
+Gánh nặng bệnh tật là sự ảnh hưởng của vấn đề về sức khỏe của một khu vực được đo bằng chi phí tài chính, tỷ lệ tử vong, tỷ lệ mắc bệnh, hoặc các chỉ số khác.
+Có nhiều cách đo đạc được sử dụng để lượng hóa gánh nặng bệnh đối với con người. Năm nguy cơ đánh mất cuộc sống (YPLL) là ước tính đơn giản về số năm sống/tuổi thọ của người ngắn hơn do bệnh tật. Ví dụ, nếu một người chết ở tuổi 65 do bệnh, và nếu không có bệnh người đó có thể sống đến 80 tuổi, do vậy bệnh đã làm mất đi 15 năm sống có thể. Các đo đạc YPLL không tính đến bệnh như thế nào của một người trước khi mất, vì việc tính toán xem một người chết đột ngột và một người chết cùng tuổi sau thập kỷ bệnh tương đương. Năm 2004, Tổ chức Y tế Thế giới tính toán có 932 triệu năm sống có thể đã bị mất do chết sớm.
+Năm sống điều chỉnh theo chất lượng (QALY) và năm sống điều chỉnh theo bệnh tật (DALY) cũng tính toán tương tự, nhưng tính cả việc nếu người đó khỏe mạnh sau khi chẩn đoán. Thêm vào số năm mất do chết sớm, các tính toán này thêm vào một phần số năm bị mất do bệnh. Không giống YPLL, việc đo đạc này thể hiện gánh nặng đối với người bệnh rất nặng nhưng có tuổi thọ bình thường. Một căn bệnh có tỷ lệ mắc bệnh cao, nhưng tỷ lệ tử vong thấp, thì có DALY cao và YPLL thấp. Năm 2004, Tổ chức Y tế Thế giới tính toán rằng 1,5 tỷ năm cuộc sống điều chỉnh theo bệnh tật bị mất do bệnh và thương tật. Ở các nước phát triển, đau tim và đột quỵ gây tử vong là chủ yếu, nhưng các bệnh liên quan đến thần kinh như rối loại trầm cảm chủ yếu gây chủ yếu nhiều năm mất đối với bệnh.
+
+
+== Dịch tễ học ==
+
+Dịch tễ học nghiên cứu về các yếu tố ảnh hưởng đến sức khỏe và bệnh tật trong các cộng đồng và tạo nền tảng logic cho những kế hoạch y tế trong việc chữa trị và phòng ngừa. Khoa học này là mấu chốt của nghiên cứu y tế cộng đồng và y học dự phòng, dựa trên khái niệm y học dựa trên bằng chứng (evidence-based medicine). Dịch tễ học giúp chuyên viên y tế xác định các yếu tố nguy cơ của bệnh, phát triển và tối ưu hóa phương thức điều trị của y học lâm sàng.
+Trong nghiên cứu bệnh, dịch tễ học phải đối mặt với những thách thức trong việc định nghĩa bệnh. Đặc biệt đối với các bệnh chưa được hiểu rõ, các nhóm khác nhau có thể sử dụng các định nghĩa khác nhau đáng kể. Nếu không có một định nghĩa thỏa mãn, các nhà nghiên cứu khác nhau có thể đưa ra nhiều trường hợp và các đặc điểm khác nhau về bệnh đó.
+Một số cơ sở dữ liệu bệnh được biên dịch từ dữ liệu do các cơ quan y tế của các quốc gia và vùng lãnh thổ cung cấp, ở cấp quốc gia (ví dụ cơ sở dữ liệu bệnh Quốc gia (NHMD) Hoa Kỳ), hoặc cấp châu Âu (Cơ sở dữ liệu bệnh châu Âu hay HMDB) nhưng chưa có cấp toàn cầu.
+
+
+== Điều trị ==
+
+Các phương pháp điều trị y tế là những nỗ lực để chữa bệnh hoặc cải thiện tình trạng bệnh hoặc các vấn đề sức khỏe khác. Các phương pháp thông thường như dùng thuốc, phẫu thuật, thiết bị y tế, tự trị bệnh. Việc điều trị có thể do hệ thống chăm sóc sức khỏe thực hiện hoặc có thể do người nhà bệnh nhân thực hiện.
+Y tế dự phòng là cách để tránh thương tật, mắc bệnh ở nơi đầu tiên. Chữa bệnh được tiến hành sau khi các vấn đề về sức khỏe xuất hiện. Việc điều trị nhằm cải thiện tình hình sức khỏe nhưng không thể chữa trị lâu dài đặc biệt đối với các bệnh mạn tính. Nhiều bệnh không thể chữa khỏi hoàn toàn vẫn có thể tiếp tục điều trị. Khống chế cơn đau là một phương pháp được tiếp cận đa ngành để giảm đau và cải thiện chất lượng cuộc sống của những bệnh nhân bị đau
+Điều trị y tế khẩn cấp phải được thực hiện đúng cách thông qua khoa cấp cứu hoặc ít nghiêm trọng hơn thì thông qua cơ sở chăm sóc sức khỏe khẩn cấp.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Health Topics, MedlinePlus descriptions of most diseases, with access to current research articles.
+Medical knols
+OMIM Comprehensive information on genes that cause disease at Online Mendelian Inheritance in Man
+CTD The Comparative Toxicogenomics Database is a scientific resource connecting chemicals, genes, and human diseases.
+NLM The most comprehensive database of top quality science for information on the web at US National Library of Medicine
+Health Topics A-Z, fact sheets about many common diseases at Center for Disease Control
+The Merck Manual containing detailed description of most diseases
+Report: The global burden of disease from World Health Organization (WHO), 2004

@@ -1,0 +1,25 @@
+Neuraminidase (sialidase) là một enzyme (EC 3.2.1.18) bản chất glycoprotein và mang tính kháng nguyên có trên bề mặt virus cúm.
+
+
+== Phân nhóm ==
+Cho đến nay có 9 phân nhóm neuraminidase đã được xác định, chủ yếu xảy ra ở vịt và gà. Các phân nhóm N1 và N2 có liên quan đến các vụ dịch ở người.
+
+
+== Cấu trúc ==
+Men neuraminidase có dạng nút lồi hình nấm trên bề mặt virus cúm. Nó có một đầu gồm 4 bán đơn vị hình dạng gần hình cầu trên cùng mặt phẳng, và một vùng kị nước gắn vào bên trong màng virus.
+
+
+== Chức năng ==
+Neuraminidase có vai trò hỗ trợ giải phóng virus khỏi tế bào vật chủ. Neuraminidase cắt liên kết giữa gốc sialic acid tận cùng khỏi phân tử carbonhydrate của tế bào và virus, từ đó nó ngăn cản kết tập virus và cho phép phóng thích các hạt virus khỏi tế bào bị nhiễm. Tác dụng của neuraminidase trên niêm mạc đường hô hấp cũng có thể giúp cho virus dễ xâm nhập tế bào biểu mô hơn.
+
+
+== Chất ức chế neuraminidase ==
+Chất ức chế chọn lọc neuraminidase, gồm có zanamivir và oseltamivir, được dùng trong dự phòng và điều trị cúm.
+
+
+== Xem thêm ==
+Hemagglutinin
+Dịch chuyển kháng nguyên
+
+
+== Tham khảo ==

@@ -1,0 +1,85 @@
+Virus corona gây hội chứng hô hấp cấp tính nặng 2 (SARS-CoV-2) được nhận dạng tại thành phố Vũ Hán ở Hồ Bắc, Trung Quốc vào giữa tháng 12 năm 2019 khi một nhóm người ở Vũ Hán bị viêm phổi mà không có nguyên nhân rõ ràng, trong khi các phương pháp điều trị hiện tại được cho là không hiệu quả. SARS-CoV-2 có các đặc điểm tương tự như Hội chứng hô hấp cấp tính nặng (SARS) và Hội chứng hô hấp Trung Đông (MERS), có thể lây nhiễm trong thời gian ủ bệnh tới 14 ngày trong khi người nhiễm bệnh có thể không có bất kỳ triệu chứng nào và có tỷ lệ tử vong khoảng 2-3%. Đến cuối tháng 1 năm 2020, SARS-CoV-2 đã lan rộng ra 27 quốc gia và khu vực trên toàn cầu, lây nhiễm gần 15.000 người và khiến hơn 300 người tử vong. Vì SARS-CoV-2 có nguồn gốc từ Trung Quốc và hơn 95% những người nhiễm bệnh là người Trung Quốc, dịch bệnh đã gây ra những vấn đề về bài ngoại và bài Trung trên khắp thế giới.
+
+
+== Bối cảnh ==
+Đại dịch COVID-19 gợi lại nỗi sợ hãi và lo ngại do SARS 2003 và MERS 2012–2013 gây ra ở các quốc gia bị ảnh hưởng. Giống như SARS, SARS-CoV-2 từ Trung Quốc và bị nghi ngờ có nguồn gốc từ virus ở dơi. Mặc dù không nguy hiểm như SARS (tỷ lệ tử vong khoảng 9-10%) nhưng SARS-CoV-2 này dễ lây lan hơn. Trong vòng hơn một tháng kể từ khi phát hiện ra, SARS-CoV-2 đã vượt qua tổng số người bị nhiễm SARS trong suốt 8 tháng dịch. Trong khi vẫn chưa phát triển vắc-xin cho virus mới, nhiều thông tin về virus mới đã được biết đến và hơn 95% số ca nhiễm là người Trung Quốc, phản ứng bài ngoại và phân biệt chủng tộc đối với người châu Á và đặc biệt là người Trung Quốc bắt đầu nổi lên. Một cư dân Đức gốc Á than thở: "Với sự bùng phát virus corona, nó [sự phân biệt chủng tộc đối với người gốc Á] đã trở nên tồi tệ hơn.... về cơ bản chúng ta bị mắc kẹt giữa việc bị chế giễu và là người nhận sự kinh tởm."
+Một chủ đề phổ biến trong tâm lý bài Trung là định kiến người Trung Quốc có thói quen ăn thịt thú rừng. Một trong những nguồn nghi ngờ của SARS-CoV-2 là Chợ bán buôn hải sản Hoa Nam, một khu chợ bán thịt động vật và hải sản ở trung tâm Vũ Hán, khiến virus lây lan từ động vật sang người (tương tự như SARS), mặc dù nguyên nhân thực sự cho chủng SARS-CoV-2 vẫn đang được điều tra và tạp chí y khoa The Lancet đã chỉ ra rằng 13 trong số 41 trường hợp nhiễm trùng ban đầu được biết là không có liên quan đến khu chợ và thời gian ủ bệnh hai tuần có nghĩa là virus có thể lây lan ở Vũ Hán trước khi đến nhóm người bị mắc bệnh ở chợ. Các chuyên gia đã nói rằng nó không phải là về việc ăn thịt, nhưng quan trọng là cách nấu chín kỹ và vệ sinh trong việc chuẩn bị thức ăn. Chuyên gia về bệnh truyền nhiễm Leong Hoe Nam, người có liên quan mật thiết đến cuộc chiến chống SARS ở Singapore, cho biết "Đầu bếp có nguy cơ cao nhất... đó là trường hợp đúng người gặp virus không đúng lúc."
+Tâm lý kỳ thị và chủ nghĩa bài Trung Quốc phát sinh từ SARS-CoV-2 trở nên trầm trọng hơn bởi một video lan truyền trên mạng xã hội cho thấy một người có ảnh hưởng ở Trung Quốc tiêu thụ một bát súp dơi. Đoạn video đã đưa ra một bằng chứng về thói quen ăn uống "kinh tởm" của người Trung Quốc, mặc dù nó được xuất bản hơn ba năm trước khi dịch SARS-CoV-2 và được quay ở Palau, một quốc đảo ở Thái Bình Dương, nơi súp dơi là một món ngon. Trong một bản op-ed, nhà báo Jeff Yang từ tờ CNN đã viết: "Sự vu khống về thực phẩm và vệ sinh từ lâu đã trở thành mũi nhọn của các cuộc tấn công bởi những người phương Tây khinh miệt (hoặc ghen tị) đang tìm cách biến người Trung Quốc trở nên dường như xa lạ, và do đó không thể chấp nhận đối với những đất nước "văn minh" của họ được." Anh nói tiếp: "Quay về thế kỷ 19, người Trung Quốc thường bị coi là "những kẻ ăn thịt chuột bẩn thỉu", những thước quảng cáo cổ điển cho thuốc khử chuột Rough on Rats đã bắt chước quan niệm này... khi nói rằng nó hiệu quả trong việc kiểm soát sâu bọ bằng những người Trung Quốc đói bụng."
+
+
+== Các trường hợp trên toàn cầu ==
+
+
+=== Bắc Macedonia ===
+Một sự cố đã được ghi nhận khi một anh chàng Roma địa phương la hét một nhóm người có quốc tịch Hàn Quốc vì nhầm tưởng rằng họ là khách du lịch Trung Quốc. Ông đã bị bắt vào ngày hôm sau và Thị trưởng thành phố thủ đô Skopje, ông Petre Shilego, vì vậy Bộ Ngoại giao đã tổ chức một cuộc họp với du khách Hàn Quốc và xin lỗi về vụ việc. Trớ trêu hơn, các vị khách là thành viên của tổ chức phi chính phủ nhằm thúc đẩy hòa bình và khoan dung dưới sự tổ chức của Liên Hợp Quốc.
+
+
+=== Canada ===
+Trang web BlogTO của Toronto nhắc đến sự kỳ thị liên quan đến thực phẩm Trung Quốc tương tự như những gì đã xảy ra trong vụ dịch SARS năm 2003. Những bình luận phân biệt chủng tộc về một nhà hàng món Hoa mới khai trương đã được đăng trên Instagram của trang web này, nhà hàng này bị một số người tẩy chay vì "trong đó có thể có những miếng thịt dơi hoặc trong bất cứ thứ gì họ ăn." Nhiều người dùng Instagram cũng bình luận về một bức ảnh của một nhà hàng món Hoa ở Toronto, đưa ra những bình luận như "Làm ơn đừng ăn dơi! Đây là thủ phạm khiến đại dịch virus corona bắt đầu ở Trung Quốc" hay "Tôi không bắt được virus."
+Frank Ye, một sinh viên của Trường Quan hệ Quốc tế Munk và chính sách công tại Đại học Toronto nói với Đài phát thanh CBC, những người bạn Canada gốc Á của anh đã chứng kiến ​​nhiều người tránh xa họ hoặc giữ miệng họ. Mẹ của anh, y tá tại một bệnh viện ở Toronto, được một người đàn ông yêu cầu đeo khẩu trang vì "có quá nhiều người Trung Quốc ở đây".
+Peter Akman, một phóng viên của CTV, đã tweet ảnh thợ cắt tóc của anh, là một người châu Á, đang đeo khẩu trang và nói, "Hy vọng tất cả những gì tôi có được hôm nay là được cắt tóc." Anh ấy đã bị sa thải sau khi dòng tweet được báo cáo.
+Một kiến nghị trực tuyến đã được thiết lập, kêu gọi các trường cấm học sinh Trung Quốc. Một hội đồng đại diện cho 208 trường học ở Toronto đã lên án đơn kiến ​​nghị, nói đó là kích động phân biệt chủng tộc và thiên vị.
+Thủ tướng Justin Trudeau đã lên án nạn phân biệt chủng tộc đối với người Canada gốc Hoa trong một lễ hội Tết Nguyên đán ở Toronto.
+
+
+=== Đan Mạch ===
+Nhật báo Đan Mạch Jyllands-Posten đã đăng một lá cờ Trung Quốc nhưng thay thế các ngôi sao bằng các biểu tượng virus. Mặc dù Đại sứ quán Trung Quốc yêu cầu một lời xin lỗi, tổng biên tập của tờ báo Jacob Nybroe vẫn không xin lỗi, ông nói rằng: "Chúng tôi có truyền thống tự do ngôn luận và biếm họa mạnh mẽ ở Đan Mạch, và chúng tôi sẽ tiếp tục nó trong tương lai."
+
+
+=== Hàn Quốc ===
+Lối vào của một nhà hàng ở trung tâm thành phố Seoul, Hàn Quốc đã treo một biển báo màu đỏ bằng tiếng Trung có dòng chữ "Miễn người Trung Quốc".
+Hơn nửa triệu công dân Hàn Quốc đã ký vào một bản kiến ​​nghị kêu gọi, vận động chính phủ cấm khách du lịch Trung Quốc nhập cảnh vào nước này.
+
+
+=== Hoa Kỳ ===
+Trong một infographic về các phản ứng phổ biến đối với dịch SARS-CoV-2 được đăng tải bởi Dịch vụ Y tế Đại học của Đại học California tại Berkeley, trường khuyên rằng "Bài ngoại: lo ngại về việc tiếp xúc với những người có thể đến từ châu Á và cảm thấy có lỗi vì những cảm giác này" là bình thường.
+Trong cửa hàng Costco, một cậu bé da trắng tám tuổi quốc tịch Mỹ, mang dòng máu Mexico-Hàn-Trung-Mỹ bản địa đeo khẩu trang bị một nhân viên bán đồ ăn thử đuổi đi vì sợ lây nhiễm virus cho cô ta.
+
+
+=== Hồng Kông ===
+
+
+=== Indonesia ===
+Một cuộc biểu tình đã diễn ra bên ngoài một khách sạn ở Bukmitgi để phản đối nhận khách du lịch từ phía Nam Trung Quốc vì sợ virus corona. Những người biểu tình yêu cầu khách du lịch phải bị cách ly trong một sân bay, họ không tin tưởng vào các công cụ sàng lọc lắp đặt ở sân bay. Cuộc biểu tình kết thúc sau khi cảnh sát cam kết rằng khách du lịch sẽ chỉ ở trong khách sạn cho đến ngày hôm sau.
+
+
+=== Malaysia ===
+Một kiến nghị ở Malaysia kêu gọi cấm công dân Trung Quốc vào quốc gia này vì "virus mới đang lan rộng khắp thế giới vì lối sống mất vệ sinh [của họ]". Gần 500.000 người đã ký đơn kiến nghị này ký chỉ sau một tuần.
+
+
+=== Nhật Bản ===
+Tại Nhật Bản, hashtag #ChineseDon'tComeToJapan (tạm dịch #NgườiTrungQuốcĐừngĐếnNhậtBản) trở nên thịnh hành trên Twitter.
+Một bồi bàn tại nhà hàng ở Ito bị quay cảnh hét vào một vị khách du lịch "Trung Quốc! Ra ngoài!" Người phụ nữ Trung Quốc đó ngay lập tức rời khỏi nhà hàng.
+Một cửa hàng bánh kẹo ở Hakone, tỉnh Kanagawa treo một biển hiệu phản cảm cấm người Trung Quốc vào, khiến cư dân mạng Trung Quốc tẩy chay cửa hàng.
+
+
+=== Pháp ===
+Tờ báo Le Courrier Picard của Pháp đã đăng một người phụ nữ châu Á đeo khẩu trang trên trang nhất vào chủ nhật, ngày 26 tháng 1 năm 2020 với tiêu đề "Cảnh báo da vàng". Tờ báo cũng giật tít một bài xã luận "Một hiểm họa da vàng mới". Những người Pháp gốc Á lên án gay gắt bài viết, bắt đầu bằng dòng hashtag #JeNeSuisPasUnVirus (tức là #TôiKhôngPhảiLàConVirus). Một người phụ nữ tên Forky đã viết trên Twitter: "Không phải tất cả người châu Á đều là người Trung Quốc. Không phải tất cả người Trung Quốc được sinh ra ở Trung Quốc và không phải ai cũng về nước. Người châu Á bị ho không đồng nghĩa với việc mắc #coronavirus. " 
+
+
+=== Philippines ===
+Nhiều nhóm lợi ích Philippines-Trung Quốc đã cảnh báo sự nổi dậy của phân biệt chủng tộc đối với cộng đồng người Trung kể từ khi dịch bắt đầu bùng phát. Federation Of Filipino Chinese Chambers Of Commerce & Industry, Inc và Đại hội Công đoàn Philippines đã lên án việc tuyên truyền chủ nghĩa bài Trung liên đến virus. Đại học Adamson, một trường Công giáo đáng chú ý ở Manila, đã nhận sự phản ứng dữ dội trên mạng vì yêu cầu các sinh viên Trung Quốc phải tự cách ly giữa dịch bệnh.
+
+
+=== Úc ===
+Ngày 26 tháng 1 năm 2020, hai trong số các tờ báo lưu hành nhiều nhất ở Úc đăng các dòng tin mang tính khiêu khích. Tờ Herald Sun của Melbourne có tiêu đề "Chinese virus pandamonium" (Dịch bệnh virus Trung Quốc) nhưng từ "pandemonium" bị viết sai chính tả để ám chỉ gấu trúc bản địa Trung Quốc (panda), còn tiêu đề trên tờ The Daily Telegraph của Sydney là "China kids stay home" (Ở nhà đi trẻ em Trung Quốc). Một trong những hậu quả là một lá đơn yêu cầu xin lỗi với hơn 51.000 chữ ký.
+Một người trong siêu thị Woolworths ở Port Hedland, Tây Úc đã báo cáo có nhân viên không cho các khách hàng có vẻ là người gốc Á vào bên trong và nói rằng đó là để ngăn ngừa virus corona lây lan. Woolworths đã thừa nhận lỗi sai của người nhân viên, xin lỗi vì sự cố và nói rằng họ đã và đang tiến hành một cuộc điều tra.
+Trường nữ sinh Ravenswood, một trường tư ở North Shore của Sydney, đã yêu cầu một học sinh người Hàn Quốc rời khỏi ký túc xá mặc dù em chưa từng đến Trung Quốc kể từ khi đi Thượng Hải vào tháng 10 năm 2019 và đã được kiểm tra y tế khi đến trường.
+Có một số lượng gia tăng các báo cáo việc thành viên của những công đồng người Úc gốc Trung và người Úc gốc Á bị lăng mạ, chửi bới và thậm chí là tấn công về mặt thể lý, bao gồm cả những lời lẽ trên mạng xã hội như cần "tiêu diệt người Trung" hay "thiêu Trung Quốc để ngăn ngừa dịch bệnh".
+
+
+=== Vương quốc Anh ===
+
+
+=== Ý ===
+La Republicca báo cáo rằng giám đốc nhạc viện Santa Cecilia danh tiếng của Rome, Roberto Giuliani đã cho nghỉ học tất cả các lớp chứa "sinh viên đến từ phương Đông (Trung Quốc, Hàn Quốc, Nhật Bản, v.v.)" do dịch bệnh, mặc dù hầu hết các sinh viên này là thế hệ con cái của người nhập cư, không liên quan đến quốc gia gốc của họ.
+
+
+== Xem thêm ==
+Tâm lý bài Trung tại Hàn Quốc
+Tâm lý bài Trung tại Nhật Bản
+Tâm lý bài Trung tại Hoa Kỳ
+Hiểm họa da vàng
+
+
+== Tham khảo ==

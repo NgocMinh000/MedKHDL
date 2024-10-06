@@ -1,0 +1,5 @@
+Hệ chuyên gia, còn gọi là hệ thống dựa tri thức hoặc hệ thống chuyên gia, là một chương trình máy tính chứa một số tri thức đặc thù của một hoặc nhiều chuyên gia con người về một chủ đề cụ thể nào đó. Các chương trình thuộc loại này đã được phát triển từ các thập niên 1960 và 1970, và trở thành ứng dụng thương mại từ thập niên 1980. Dạng phổ biến nhất của hệ chuyên gia là một chương trình gồm một tập luật phân tích thông tin (thường được cung cấp bởi người sử dụng hệ thống) về một lớp vấn đề cụ thể, cũng như đưa ra các phân tích về các vấn đề đó, và tùy theo thiết kế chương trình mà đưa lời khuyên về trình tự các hành động cần thực hiện để giải quyết vấn đề. Đây là một hệ thống sử dụng các khả năng lập luận để đạt tới các kết luận.
+Nhiều hệ chuyên gia đã được thiết kế và xây dựng để phục vụ các lĩnh vực kế toán, y học, điều khiển tiến trình (process control), dịch vụ tư vấn tài chính (financial service), tài nguyên con người (human resources), v.v..
+
+
+== Tham khảo ==

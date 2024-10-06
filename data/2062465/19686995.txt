@@ -1,0 +1,52 @@
+Thang đo SAD PERSONS là một công cụ đánh giá lâm sàng cho các chuyên gia y tế để đánh giá nguy cơ tự tử, do Patterson và cộng sự. Thang điểm Adapted-SAD PERSONS được Gerald A. Juhnke phát triển để sử dụng cho đối tượng là trẻ em vào năm 1996.
+Các nghiên cứu gần đây cho thấy mặc dù thang đo có độ đặc hiệu cao nhưng độ nhạy của nó rất thấp nên không có giá trị lâm sàng; Hơn nữa, thang điểm này thực sự có thể có hại về mặt lâm sàng. Thang điểm này cũng bị chỉ trích vì là một chỉ số về các yếu tố rủi ro, có thể không áp dụng được cho các cá nhân. Nguy cơ tự tử cần được đánh giá bằng các biện pháp hợp lý hơn về mức độ rủi ro hiện tại của cá nhân đó.
+
+
+== Cách tính ==
+Thang điểm là hệ thống 10 câu hỏi đúng/sai, nếu đúng thì cộng 1 điểm:
+
+S (sex): Giới nam
+A (age): Tuổi (<19 hoặc> 45 tuổi)
+D (depression): Trầm cảm
+P (previous attempt): Ý định tự tử trước đây
+E (excess): Sử dụng quá nhiều rượu hoặc chất kích thích
+R (rational thinking loss): Mất tư duy lý trí
+S (social supports lacking): Thiếu hỗ trợ xã hội
+O (organized plan): Kế hoạch tự tử vạch sẵn
+N (no spouse): Không có vợ/chồng
+S (sickness): Ốm đau
+Tổng điểm sẽ ánh xạ vào thang đánh giá rủi ro như sau:
+
+0–4 điểm: Thấp
+5–6 điểm: Trung bình
+7–10 điểm: Cao
+
+
+== Thang điểm SAD PERSONS sửa đổi ==
+Thang điểm là hệ thống 10 câu hỏi đúng/sai, số điểm cho mỗi câu trả lời "đúng" được tính như sau:
+
+S: Giới nam → 1
+A: Tuổi từ 15–25 hoặc 59+ → 1
+D: Trầm cảm hoặc tuyệt vọng → 2
+P: Nỗ lực thực hiện tự tử trước đây hoặc chăm sóc tâm thần → 1
+E: Nghiện ethanol hoặc ma túy → 1
+R: Mất tư duy lý trí (rối loạn tâm thần hoặc bệnh cơ quan) → 2
+S: Độc thân, góa bụa hoặc ly hôn → 1
+O: Có kế hoạch tử tự một cách nghiêm túc → 2
+N: Không có hỗ trợ xã hội → 1
+S: Ý định tự tử trong tương lai (được xác định là có tính lặp lại hoặc có tính chất xung quanh) → 2
+Tổng điểm sau đó được ánh xạ vào thang đánh giá rủi ro như sau:
+
+0–5 điểm: Có thể an toàn
+6–8 điểm: Có thể cần tham vấn tâm thần
+> 8 điểm: Có thể phải nhập viện
+
+
+== Xem thêm ==
+Đánh giá nguy cơ tự tử
+Thang đo Beck Hopelessness
+IS PATH WARM?
+Tự sát
+
+
+== Tham khảo ==

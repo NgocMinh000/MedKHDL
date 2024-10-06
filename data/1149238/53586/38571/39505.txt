@@ -1,0 +1,28 @@
+Về thuật toán khai thác dữ liệu, xem bài thuật toán tiên nghiệm (apriori algorithm).
+Tiên nghiệm (chữ Hán: 先驗, tiếng Latin: a priori, tiếng Anh: transcendental (ism)) có nghĩa "trước kinh nghiệm". Trong nhiều cách sử dụng tại phương Tây hiện đại, thuật ngữ tiên nghiệm được cho là có nghĩa tri thức mệnh đề-loại tri thức có thể có được mà không cần hoặc "trước" kinh nghiệm. Nó thường được đối lập với tri thức hậu nghiệm với nghĩa "sau kinh nghiệm"-loại tri thức đòi hỏi bằng chứng thực nghiệm.
+Toán học và logic thường được coi là các ngành khoa học tiên nghiệm. Các khẳng định, như "2 + 2 = 4" chẳng hạn, được coi là "tiên nghiệm" vì chúng là các tư tưởng xuất phát chỉ từ tư duy mà thôi. Các khoa học về tự nhiên và khoa học xã hội thường được coi là các ngành khoa học hậu nghiệm. Các câu như kiểu "Trời thường có màu xanh" có thể được coi là tri thức "hậu nghiệm".
+
+
+== Tư tưởng triết học ==
+Một trong các câu hỏi cơ bản của nhận thức luận là có hay không tri thức tiên nghiệm không tầm thường (non-trivial). Nói chung, các nhà duy lý tin rằng có, trong khi  các nhà kinh nghiệm chủ nghĩa tin rằng mọi tri thức đều được rút ra từ một dạng kinh nghiệm nào đó(thường là từ bên ngoài), nếu không, nó là tri thức tầm thường theo một nghĩa nào đó.
+Thuật ngữ này đã đạt được một vị trí vững chắc nhờ các nhà tư tưởng duy lý, chẳng hạn René Descartes và Gottfried Leibniz, những người đã lý luận rằng tri thức được thu được qua lý tính, mà không phải kinh nghiệm. Descartes coi tri thức về bản ngã, hay tôi tư duy, do đó tôi tồn tại, là tiên nghiệm, vì ông cho rằng người ta không cần viện dẫn đến kinh nghiệm trong quá khứ để suy xét về sự tồn tại của chính mình.
+Tin rằng tư duy là một phần của kinh nghiệm, John Locke, đã đưa ra một cơ sở lý luận mà từ đó toàn bộ khái niệm "tiên nghiệm" có thể bị loại bỏ.
+David Hume coi mọi tri thức tiên nghiệm là một "quan hệ của các ý niệm" (Relation of Ideas), khi ông nhắc đến thuật ngữ này vài lần trong tác phẩm Enquiry Concerning Human Understanding của mình.
+Cách sử dụng từ tiên nghiệm hiện đại được bắt đầu với Immanuel Kant, người đã đưa ra sự phân biệt  giữa chân lý tổng hợp và chân lý phân tích để bổ sung cho sự phân biệt giữa tri thức tiên nghiệm và tri thức hậu nghiệm. Ông lý luận rằng các mệnh đề được biết là tiên nghiệm nhất thiết đúng, trong khi các mệnh đề được biết là hậu nghiệm thì còn tùy thuộc, vì  theo Kant tri thức tiên nghiệm đã luôn luôn đúng (chẳng hạn 2 + 2 = 4).  Các mệnh đề hậu nghiệm sẽ phụ thuộc vào các điều kiện ngoại cảnh, các điều kiện này có thể thay đổi theo thời gian và làm cho mệnh đề trở nên sai (ví dụ. Bill Clinton là Tổng thống Mỹ, là mệnh đề đã từng đúng nhưng bây giờ là sai).
+Saul Kripke, khi phê phán Kant trong "Naming and Necessity" (Đặt tên và sự cần thiết - 1980), lý luận rằng tiên nghiệm là một tính chất nhận thức luận, và không nên được kết hợp với vấn đề tách biệt của siêu hình học về sự cần thiết. Để hỗ trợ luận cứ này, ông đưa ra một vài kêu gọi tới trực giác. Đầu tiên, ông lý luận rằng một chân lý hậu nghiệm có thể nhất thiết đúng. Ví dụ, khi nói rằng "Sao Hôm là Sao Mai" ("Hesperus is Phosphorus"). Câu đó nhất thiết đúng do cả hai đều là tên của Sao Kim, nhưng lại được biết là hậu nghiệm. Ông còn lý luận rằng có thể có các mệnh đề tiên nghiệm tùy thuộc. Ví dụ, ở Paris có một đoạn thước đã từng được dùng làm tiêu chuẩn của mét. Mệnh đề đi kèm, "Đoạn thước đó dài 1 mét", là tùy thuộc do ta có thể lấy một độ dài khác để định nghĩa mét. Tuy nhiên, nó được biết là tiên nghiệm, vì một mét đã được định nghĩa là chiều dài của đoạn thước đó, nên đoạn thước phải có độ dài 1m (tại thời điểm nó được dùng làm tiêu chuẩn) - đây là một phép lặp thừa (tautology).
+Trong tác phẩm "The Problems of Philosophy" (Các vấn đề triết học), Bertrand Russell đã coi tri thức tiên nghiệm là quan hệ giữa các phạm trù (universal). Chẳng hạn "2 + 2 = 4," là một nguyên lý tiên nghiệm cho thấy quan hệ giữa "2", "+", "=", và "4", theo Russell, chúng đều là các phạm trù.
+Các triết gia nổi bật đương thời về tư duy tiên nghiệm bao gồm Alfred Ayer, Roderick Chisholm và W.V.O. Quine.
+
+
+== Xem thêm ==
+hậu nghiệm
+mệnh đề phân tích
+mệnh đề tổng hợp
+nhận thức luận
+thuyết tiên nghiệm (tiếng Anh: transcendentalism)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

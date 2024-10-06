@@ -1,0 +1,28 @@
+Zero-COVID, còn được gọi là COVID-Zero và FTTIS ("Find, Test, Trace, Isolate and Support", "Tìm, Xét nghiệm, Truy vết, Cách ly và Hỗ trợ"), là một chính sách y tế công cộng đã được một số quốc gia thực hiện trong đại dịch COVID-19. Trái ngược với chiến lược sống chung với COVID-19, chiến lược zero-COVID là một chiến lược "ngăn chặn và kiểm soát tối đa". Chiến lược này bao gồm việc sử dụng các biện pháp y tế công cộng như truy vết tiếp xúc, xét nghiệm hàng loạt, kiểm dịch biên giới, phong tỏa và sử dụng phần mềm để ngăn chặn sự lây truyền COVID-19 trong cộng đồng ngay khi được phát hiện. Mục tiêu của chiến lược là đưa một khu vực trở về trạng thái bình thường, không có ca nhiễm mới và tiếp tục các hoạt động kinh tế và xã hội bình thường.
+Chiến lược zero-COVID bao gồm hai giai đoạn: giai đoạn ngăn chặn ban đầu, trong đó virus được loại bỏ tại chỗ bằng các biện pháp y tế công cộng tích cực và giai đoạn ngăn chặn bền vững, tiếp tục hoạt động kinh tế xã hội bình thường và sử dụng các biện pháp y tế công cộng để ngăn chặn các đợt bùng phát mới trước khi virus lây lan rộng rãi. Chiến lược này đã được sử dụng ở các mức độ khác nhau bởi Úc, Canada, Trung Quốc đại lục, Hong Kong, Ma Cao, New Zealand, Triều Tiên, Singapore, Scotland, Hàn Quốc, Đài Loan, Tonga và Việt Nam. Đến cuối năm 2021, sự xuất hiện biến thể Delta và Omicron với tốc độ lây nhiễm nhanh hơn, cũng như sự xuất hiện của vắc-xin COVID-19, khiến một số quốc gia không còn theo đuổi chiến lược zero-COVID nữa. Đến tháng 1 năm 2023, Triều Tiên là quốc gia duy nhất theo đuổi chiến lược này.
+Các chuyên gia phân biệt chiến lược zero-COVID, một chiến lược loại trừ, với các chiến lược giảm thiểu, nhằm giảm bớt tác động của virus đối với xã hội, nhưng vẫn chấp nhận một mức độ lây truyền nhất định trong cộng đồng. Các chiến lược ban đầu này có thể được theo đuổi tuần tự hoặc đồng thời trong giai đoạn miễn dịch thu được thông qua quá trình miễn dịch tự nhiên và do vắc-xin.
+Những người ủng hộ chiến lược này chỉ ra rằng, ở các quốc gia theo đuổi zero-COVID, tỷ lệ tử vong thấp hơn nhiều và tăng trưởng kinh tế cao hơn, so với các quốc gia theo đuổi chiến lược giảm thiểu, và lập luận rằng các biện pháp nhanh chóng, nghiêm ngặt loại bỏ virus mới giúp nhanh chóng trở lại cuộc sống bình thường. Những người phản đối zero-COVID cho rằng loại bỏ một loại virus đường hô hấp như SARS-CoV-2 là không thực tế, không khác gì nói loại bỏ bệnh cúm hoặc cảm lạnh. Để đạt được zero-COVID ở một khu vực có tỷ lệ lây nhiễm cao, một bản đánh giá ước tính sẽ mất ba tháng phong tỏa chặt chẽ.
+
+
+== Triển khai Zero-COVID theo quốc gia ==
+
+
+=== Trung Quốc ===
+
+
+==== Trung Hoa lục địa ====
+
+Trung Quốc là quốc gia đầu tiên trải nghiệm đại dịch COVID-19. Cụm bệnh nhân viêm phổi đầu tiên được phát hiện vào cuối tháng 12 năm 2019 tại Vũ Hán, tỉnh Hồ Bắc và một thông báo công chúng về đợt bùng phát đã được phát đi vào ngày 31 tháng 12 năm 2019.
+Vào ngày 23 tháng 1 năm 2020, chính phủ Trung Quốc đã cấm đi đến và ra khỏi Vũ Hán, đồng thời bắt đầu thực hiện các biện pháp phong tỏa nghiêm ngặt ở Vũ Hán và các thành phố khác trên khắp Trung Quốc. Các biện pháp này đã làm giảm sự lây lan của vi-rút xuống dưới mức độ nguy ngập, đưa hệ số lây nhiễm cơ bản của vi-rút về gần bằng không. Vào ngày 4 tháng 2 năm 2020, khoảng hai tuần sau khi bắt đầu phong tỏa ở tỉnh Hồ Bắc, số ca nhiễm ở tỉnh này đạt đỉnh và bắt đầu giảm sau đó. Đợt bùng phát vẫn chủ yếu tập trung ở tỉnh Hồ Bắc, với hơn 80% trường hợp trên toàn quốc tính đến ngày 22 tháng 3 năm 2020 xảy ra ở đó.
+Số người chết ở Trung Quốc trong đợt bùng phát ban đầu là khoảng 4.600 theo số liệu chính thức (tương đương 3,2 tử vong trên một triệu dân),  và được ước tính dưới 5.000 bởi một nghiên cứu khoa học về tỷ lệ tử vong do viêm phổi quá mức được công bố trong BMJ.
+Khi dịch bệnh giảm sút, trọng tâm chuyển sang khởi động lại hoạt động kinh tế và ngăn chặn sự bùng dậy của virus. Các khu vực có nguy cơ thấp và trung bình của nước này bắt đầu giảm bớt các biện pháp giãn cách xã hội vào ngày 17 tháng 2 năm 2020. Việc mở cử trở lại được đi kèm với sự gia tăng thử nghiệm và phát triển "mã sức khỏe" điện tử (sử dụng các ứng dụng điện thoại thông minh) để tạo điều kiện theo dõi tiếp xúc, liên hệ qua lại. Các ứng dụng mã sức khỏe chứa thông tin rủi ro được cá nhân hóa, dựa trên các liên hệ qua lại và kết quả kiểm tra gần đây.  Vũ Hán, thành phố lớn cuối cùng mở cửa trở lại, đã kết thúc việc phong tỏa vào ngày 8 tháng 4 năm 2020. 
+
+
+== Xem thêm ==
+Biểu tình chống phong tỏa COVID-19 tại Trung Quốc 2022
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==

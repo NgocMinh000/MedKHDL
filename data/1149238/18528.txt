@@ -1,0 +1,131 @@
+Viêm màng não mủ, hay viêm màng não nhiễm khuẩn, là hiện tượng viêm của các màng bao bọc quanh hệ thần kinh trung ương (não và tủy sống) do sự hiện diện của các vi khuẩn gây bệnh trong khoang dịch não tủy. Sự viêm nhiễm này sẽ gây nên tình trạng sinh mủ bên trong hệ thống thần kinh trung ương. Các tình trạng viêm nhiễm hệ thần kinh trung ương khác là viêm não do virus, viêm màng não do nấm, viêm màng não do hóa chất hoặc do xâm nhập của các tế bào ung thư...
+
+
+== Nguyên nhân gây bệnh ==
+Nguyên nhân gây bệnh khác nhau giữa các nước phát triển và các nước đang phát triển. Ở các quốc gia có nền y học phát triển, việc chủng ngừa Hemophilus influenzae đã được thực hiện từ vài chục năm nay nên tỉ lệ gây bệnh do tác nhân này giảm xuống rõ rệt, đứng sau phế cầu, não mô cầu. Tuy nhiên ở các nước nghèo như Việt Nam việc tiêm chủng ngừa Hemophilus influenzae chưa được rộng rãi nên tác nhân này vẫn chiếm hàng đầu, sau đó là phế cầu, não mô cầu, tụ cầu khuẩn, vi khuẩn thương hàn. Ở lứa tuổi sơ sinh và trẻ nhỏ (thường dưới 3 tháng) thì nguyên nhân không khác nhau ở các nước: E. coli, liên cầu khuẩn nhóm B, Listeria monocytogenes. Các vi khuẩn này có thể từ vị trí tai mũi họng, phổi đi theo đường máu vào trong não hoặc đi theo đường kế cận từ các ổ nhiễm trùng cạnh màng não hoặc cũng có thể đi trực tiếp vào não khi bị chấn thương nứt vỡ sọ...
+
+
+=== Phế cầu khuẩn ===
+Thường được gọi tắt là phế cầu (Streptococcus pneumoniae) là nguyên nhân gây viêm màng não mủ hàng đầu ở lứa tuổi ngoài sơ sinh tại các nước phát triển (có chủng ngừa rộng rãi Hemophilus influenzae típ b). Tỷ lệ viêm nàng não mủ do phế cầu vào khoảng 1 - 3/1000 dân. Nhiễm trùng có thể xảy ra ở bất kỳ tuổi nào. Những tháng giữa mùa đông có tỉ lệ mắc bệnh cao nhất trong năm. Phế cầu gây nhiễm trùng huyết và viêm màng não mủ thường xuất phát từ nơi cư trú là niêm mạc hầu họng. Trẻ em sau khi sinh sẽ bị lây vi khuẩn này từ các thành viên trong gia đình. Độc lực của vi khuẩn phụ thuộc vào các típ huyết thanh khác nhau. Nguy cơ mắc bệnh ở người da đen cao gấp 5 đến 36 lần so với người da trắng, đặc biệt những người da đen bị bệnh hồng cầu hình liềm (thường tán huyết ở lách và làm lách mất chức năng), nguy cơ này cao gấp 300 lần. Các yếu tố nguy cơ của viêm màng não mủ do phế cầu là viêm tai giữa, viêm xoang, viêm phổi, rò rỉ dịch não tủy qua tai hoặc qua mũi, bệnh nhân cắt lách, nhiễm HIV, bệnh ghép chống chủ sau ghép tủy xương.
+
+
+=== Haemophilus influenzae típ b ===
+Haemophilus influenzae típ b là một vi khuẩn gram âm hình que. Hình dạng có thể thay đổi từ dạng cầu - trực khuẩn đến hình que dài và hơi cong. Viêm màng não mủ do Haemophilus influenzae típ b xảy ra chủ yếu ở trẻ em không được chủng ngừa chống lại tác nhân này. Khoảng 80% các trường hợp viêm màng não mủ do Haemophilus influenzae típ b xảy ra ở trẻ từ 1 tháng đến 3 tuổi, là lứa tuổi mà hệ thần kinh phát triển nhanh nhất. Sau ba tuổi, hầu hết trẻ em có miễn dịch mắc phải chống lại Polyribophosphate của vách vi khuẩn do đó trẻ được bảo vệ.
+Phương thức truyền bệnh là từ người sang người qua tiếp xúc trực tiếp bởi các hạt nhỏ của chất tiết đường hô hấp. Thời gian ủ bệnh thường ngắn hơn 10 ngày. Tỷ lệ tử vong do bệnh còn khá cao. tử vong thường xảy ra trong những ngày đầu tiên của bệnh.
+Sự đề kháng với ampicillin được truyền qua plasmid ngày càng gia tăng trong cộng đồng. Khả năng đề kháng này của vi khuẩn đối với ampicillin là do chúng sản xuất được các enzyme beta-lactamase có khả năng phá vỡ vòng beta-lactam của các thuốc kháng sinh thuộc họ này. Tỷ lệ đề kháng với ampicillin vào khoảng 30-50%. Tuy nhiên trên thực tế lâm sàng thì Haemophilus influenzae típ b có tính đề kháng rất cao, đôi khi có khả năng đề kháng nhiều loại kháng sinh khác nhau.
+
+
+=== Não mô cầu ===
+
+Não mô cầu (Neisseria meningitidis) là loại cầu khuẩn Gram âm có hình hạt đậu và là vi khuẩn nội bào. Não mô cầu được định típ huyết thanh dựa vào polysaccharide của vách tế bào vi khuẩn. Các típ huyết thanh thường gặp và có vai trò gây bệnh là A, B, C, D, X, Y, Z, 29E và W135. Một số típ, đặc biệt là B, C, Y và W135 gây nên 15 đến 25% các trường hợp viêm màng não mủ ở trẻ em. Các chủng thuộc nhóm a cũng đã từng là nguyên nhân gây nên các vụ dịch khắp nơi trên thế giới và đặc biệt là trong các trại lính (trong Thế chiến thứ hai). Vi khuẩn thường định cư vùng hầu họng và thường không gây nên triệu chứng gì. Lây truyền chủ yếu do tiếp xúc người với người thông qua các hạt chất tiết nhỏ của đường hô hấp. Thời gian ủ bệnh thường ngắn hơn 4 ngày, thay đổi từ 1 ngày đến 7 ngày. Không phải tất cả các trường hợp có vi khuẩn đường hầu họng đều bị bệnh.
+Hầu hết các trường hợp bệnh xảy ra ở lứa tuổi 6 đến 12 tháng. Thiếu niên cũng bị bệnh nhưng thấp hơn. Biểu hiện đặc trưng của bệnh là sự xuất hiện các ban xuất huyết hoại tử hình sao gọi là tử ban. Tỷ lệ tử vong rất cao trong thể tiến triển tối cấp (thể sét đánh). Trong thể này, tử vong thường xảy ra trong vòng 24 giờ sau khi nhập viện. Tiên lượng bệnh rất nặng nề nếu trẻ nhập viện với các dấu hiệu: hạ huyết áp, sốc, giảm bạch cầu trung tính, tuổi rất nhỏ hoặc người già, tử ban lan nhanh trong vòng 12 giờ trước đó, bệnh đông máu rải rác trong lòng mạch, nhiễm toan, sự hiện diện của vi khuẩn trong các tế bào bạch cầu máu ngoại biên, tốc độ lắng máu không tăng, protein C phản ứng (CRP) không cao, tác nhân gây bệnh thuộc típ C, dịch não tủy không biến đổi hoặc ít biến đổi, hôn mê.
+Típ C cũng là típ gây nên tỷ lệ tử vong cao nhất đồng thời cũng là nhóm gây nên biến chứng hoại tử chi thường gặp nhất.
+Tuy nhiên nếu được điều trị thoát sốc thì sau khi khỏi bệnh, trẻ rất ít bị biến chứng lâu dài.
+
+
+=== Escherichia coli ===
+Là một trực khuẩn gram âm điển hình, cư trú trong phần thấp của hệ tiêu hóa các động vật máu nóng như chim và động vật có vú. E. coli thường gây viêm màng não mủ ở trẻ sơ sinh và trẻ nhỏ, ít gặp ở trẻ lớn và người lớn. Viêm màng não mủ do E. coli ở trẻ sơ sinh là một bệnh lý nặng vì thường nằm trong bối cảnh nhiễm trùng huyết.
+Xem thêm bài chính: Escherichia coli.
+
+
+=== Listeria monocytogenes ===
+Listeria monocytogenes là một trực khuẩn Gram dương sống ký sinh nội bào. Trực khuẩn này tương đối đề kháng với các thay đổi của môi trường. L. monocytogen cũng hiện diện nhiều trong đất và nước do đó có khả năng gây nhiễm bẩn thực phẩm và gây ngộ độc. Thịt, sữa và các thực phẩm tươi sống khác thường mang vi khuẩn này. Những bệnh nhân suy giảm miễn dịch như người già, trẻ sơ sinh, bệnh nhân điều trị thuốc ức chế miễn dịch, AIDS thường có nguy cơ bị bệnh. Viêm màng não mủ sơ sinh do tác nhân này thường nằm trong bối cảnh nhiễm trùng huyết nặng. Các dấu hiệu nghi ngờ trên lâm sàng là: mẹ thường có sốt, sinh non không rõ nguyên nhân, nhau thai có tổn thương hạt...
+Tác nhân này đề kháng tự nhiên với các kháng sinh cephalosporine do đó kháng sinh này không bao giờ được dùng đơn độc trong điều trị nhiễm trùng sơ sinh (bao gồm cả viêm màng não mủ) khi chưa phát hiện được vi khuẩn.
+
+
+== Sinh lý bệnh ==
+Viêm màng não mủ chủ yếu do vi khuẩn gây bệnh từ một ổ nhiễm nhiễm trùng ở xa màng não đi theo đường máu đến. Trước khi viêm màng não thường có vãng khuẩn huyết. Vị trí xuất phát thường gặp nhất là từ nhiễm trùng đường hô hấp. Vi khuẩn có thể ngay sau khi định cư ở đây sẽ xâm nhập vào máu để vào màng não. Tuy nhiên cũng có một số người, tình trạng mang trùng này tồn tại lâu hơn đến một lúc nào đó, khi có điều kiện thuận lợi như suy giảm miễn dịch toàn bộ hoặc cục bộ thì vi khuẩn mới đi xuyên qua niêm mạc để vào máu. Tình trạng nhiễm siêu vi (nhiễm virus) trước đó hoặc đồng thời với vi khuẩn sẽ tạo điều kiện để vi khuẩn gây bệnh dễ dàng hơn.
+
+Não mô cầu (N. meningitidis) và Hemophilus influenzae típ b thường bám vào các thụ thể (receptor) của các tế bào biểu bì niêm mạc đường hô hấp bằng một cấu trúc lông bám dính gọi là pili. Sau khi bám vào tế bào, vi khuẩn phá vỡ các tế bào và vượt qua hàng rào bảo vệ để đi vào tuần hoàn. N. meningitidis còn có thể được đưa vào bên trong nhờ các túi thực bào khi tế bào niêm mạc bắt giữ chúng. Sự tồn tại của vi khuẩn trong dòng máu mà không bị tiêu diệt bởi các tế bào miễn dịch của cơ thể là nhờ chúng có một lớp vỏ dày có tác dụng chống lại sự thực bào nhờ opsonin hóa. Lớp vỏ vi khuẩn này có liên quan đến độc lực của vi khuẩn. Sự khuyếm khuyết trong cơ chế phòng vệ của vật chủ cũng là một trong những điều kiện thuận lợi cho sự phát tán của vi khuẩn. Ở trẻ nhỏ và trẻ sơ sinh chưa được miễn dịch, khả năng phòng vệ của trẻ rất kém. Hoặc người già, người bị say giảm miễn dịch mắc phải như bệnh nhân AIDS cũng hay bị viêm màng não mủ và thường bị nặng hơn những đối tượng khác. Một số hội chứng suy giảm miễn dịch bẩm sinh như hội chứng Di George, khiếm khuyết chức năng bổ thể, bệnh nhân cắt lách hoặc không có lách bẩm sinh có thể bị những tác nhân gây bệnh hiếm gặp hơn như vi khuẩn thương hàn.
+Vi khuẩn đi vào khoang dịch não tủy qua (1) đám rối mạch mạc ở não thất bên hoặc (2) xuyên qua màng não. Từ đó chúng lại theo dịch não tủy để đến tủy sống và khoang dưới nhện. Sự nhân lên của vi khuẩn tại đây rất nhanh vì trong dịch não tủy, nồng độ bổ thể cũng như kháng thể rất thấp không đủ để ức chế sự sinh sản của chúng. Các yếu tố hóa ứng động khởi phát một chuỗi các phản ứng viêm làm thu hút các bạch cầu đa nhân trung tính vào khoang dịch não tủy. Sự hiện diện của các lipopolysaccharide (chính là nội độc tố của vi khuẩn) ở vách tế bào vi khuẩn gram âm (gram negative cocci) như N. meningitidis và Hemophilus influenzae típ b và các thành phần của vách tế bào vi khuẩn gram dương(Gram positive cocci) như teichoic acid, peptidoglycan của phế cầu tạo nên một phản ứng viêm rất mạnh mẽ. Phản ứng viêm này tạo ra tại chỗ các chất như yếu tố hoại tử khối u alpha (TNF alpha), interleukin - 1, prostagalandin E và các cytokine hoạt viêm. Hậu quả của phản ứng viêm này là sự xâm nhập bạch cầu đa nhân trung tính, tăng tính thấm mạch máu, thay đổi cấu trúc và chức năng hàng rào mạch máu - não, huyết khối tĩnh mạch. Sự sản xuất các ctokine hoạt viêm như trên vẫn được tiếp tục sau khi dịch não tủy đã sạch vi khuẩn và đây có thể là nguyên nhân của các biến chứng mạn tính, di chứng của viêm màng não mủ.
+Viêm màng não mủ đôi khi có thể là do sự xâm nhập của vi khuẩn từ các ổ nhiễm trùng lân cận như viêm xoang mũi, viêm tai giữa, viêm xương chũm, viêm mô tế bào hốc mắt hoặc viêm xương - tủy xương các xương sọ não hoặc xương cột sống. Vi khuẩn cũng có thể xâm nhập trực tiếp vào khoang dich não tủy trong trường hợp chấn thương sọ não hở, thoát vị màng não tủy. Hiếm hơn, viêm màng não mủ còn có thể gặp trong viêm nội tâm mạc nhiễm khuẩn, viêm tắc tĩnh mạch, trong bỏng nặng, đặt catheter lâu ngày, truyền dịch bị nhiễm bẩn.
+
+
+== Triệu chứng ==
+
+
+=== Ở trẻ sơ sinh và trẻ nhỏ ===
+Các triệu chứng không điển hình và thường biểu hiện một tình trạng bệnh lý toàn thân nặng. các dấu hiệu bao gồm:
+
+Bú kém
+Suy kiệt
+Tăng kích thích
+Cơn ngưng thở
+Quấy khóc, không yên tĩnh
+Sốt hoặc hạ thân nhiệt
+Vô cảm, thờ ơ ngoại cảnh
+Co giật
+Vàng da
+Thóp phồng
+Da xanh tái
+Biểu hiện sốc
+Giảm trương lực cơ
+Khóc thét
+Hạ đường huyết
+Nhiễm toan chuyển hóa khó điều trị
+
+
+=== Ở trẻ lớn hơn ===
+Biểu hiện bệnh ở nhóm tuổi này tương đối điển hình hơn với các dấu hiệu như sau:
+
+Sốt
+Dấu nhiễm trùng, nhiễm độc
+Cứng cổ
+Tư thế ưỡn người
+Thóp phồng (nếu thóp chưa đóng kín)
+Co giật
+Sợ ánh sáng
+Nhức đầu
+Suy giảm ý thức
+Tăng kích thích
+Mệt mỏi suy nhược
+Chán ăn
+Buồn nôn và nôn vọt
+Hôn mê
+
+
+== Chẩn đoán ==
+Việc phát hiện sớm và chẩn đoán kịp thời có ý nghĩa rất quan trọng trong điều trị nhằm hạn chế tử vong và dị chứng cho trẻ. Khi có các dấu hiệu nghi ngờ kể trên, thầy thuốc sẽ thực hiện các xét nghiệm xác định chẩn đoán như công thức máu, CRP, điện giải đồ, đường máu, cấy máu và quan trọng nhất là chọc dich não tủy để xét nghiệm sinh hóa và vi sinh.
+Chọc dịch não tủy là thủ thuật quyết định chẩn đoán. Chọc dich não tủy sẽ được thực hiện bởi các thầy thuốc. Đây là một thủ thuật vô trùng và xâm nhập. Vị trí chọc dịch não tủy hay sử dụng nhất trên lâm sàng là vùng cột sống thắt lưng ngang mức L4. Dụng cụ là một cây kim chuyên dụng, sắc và có nòng. Kim được đưa vào khoang dịch não tủy để lấy dịch não tủy. Dịch não tủy sẽ được đánh giá bằng mắt thường và xét nghiệm hóa sinh cũng như vi sinh.
+
+Bằng mắt thường có thể đánh giá sơ bộ tính chất vật lý của dịch não tủy. Thông thường dịch não tủy trong như nước suối. Khi bị viêm màng não mủ thì tùy theo giai đoạn mà màu sắc thay đổi khác nhau từ màu ám khói, đục như nước dừa, đục như nước vo gạo đến mủ rõ ràng. Việc đánh giá này cũng rất quan trọng để quyết định điều trị kháng sinh sớm trước khi có kết quả xét nghiệm chắc chắn.
+Xét nghiệm hóa sinh thường sẽ đo nồng độ glucose, protein, lactate, clo, CRP... Nồng độ glucose trong dich não tủy thường bằng từ 1/2 đến 2/3 nồng độ glucose máu lấy đồng thời với lúc chọc dịch não tủy trong điều kiện bệnh nhân chưa được truyền đường trước đó. Nếu nồng độ glucose dịc não tủy thấp hơn 1/2 nồng độ đường máu lấy đồng thời được gọi là hạ. Đôi khi nồng độ glucose trong dịch não tủy giảm chỉ còn dạng vết hoặc không định lượng được. Protein trong dịch não tủy thường thấp hơn 0,25 g/L. Trong trường hợp viêm màng não mủ thì lượng protein tăng cao, đôi khi rất cao đến 5 hoặc 10 g/L.
+Xét nghiệm vi sinh dịch não tủy nhằm đánh giá lượng tế bào bạch cầu và sự hiện diện của vi khuẩn trong dịch não tủy. Thường dịch não tủy chỉ chứa 3 - 5 tế bào trong một milimét khối và đa phần là tế bào lympho. Trong viêm màng não mủ, tế bào tăng cao vài trăm đến vài nghìn, đôi khi trên chục nghìn, đa phần là tế bào đa nhân trung tính và các tế bào này ở dạng thoái hóa mủ. Xét nghiệm tìm vi trùng thực hiện nhanh bằng nhuộm Gram và soi kính hiển vi. Xét nghiệm này cho thấy có sự hiện diện của vi khuẩn hay không, hình thái như thế nào và cách bắt màu thuốc nhuộm. Cũng có thể dùng các kháng thể để phát hiện các kháng nguyên hòa tan trong dich não tủy. Dịch não tủy cũng được đem cấy để định danh vi khuẩn và làm kháng sinh đồ. Các phòng xét nghiệm tiên tiến có thẻ làm thêm các xét nghiệm tìm virus như virus viêm não Nhật Bản B, enterovirus, herpes virus, parvovirus... nếu nghi ngờ viêm não do virus.
+
+
+== Viêm màng não mủ mất đầu ==
+Viêm màng não mủ mất đầu là một thuật ngữ thường hay sử dụng trên lâm sàng bắt nguồn từ thuật ngữ méningite décapitée trong tiếng Pháp, trong tiếng Anh thuật ngữ này là partially treated bacterial (purulent) meningitis. Đây là trường hợp bệnh nhân bị viêm màng não mủ nhưng không được chẩn đoán đúng và đã được điều trị kháng sinh. Kháng sinh này không đủ mạnh để điều trị triệt để viêm màng não mủ nhưng cũng có khả năng làm thay đổi tính chất của dịch não tủy, làm cho dịch não tủy biến đổi không còn đặc hiệu gây khó khăn trong chẩn đoán phân biệt giữa viêm màng não mủ với các tình trạng viêm nhiễm thần kinh trung ương không do vi khuẩn khác.
+
+
+== Điều trị ==
+Điều trị viêm màng não mủ cần tiến hành sớm, theo dõi chặt chẽ để thay đổi điều trị thích hợp và xử trí nhanh chóng các biến chứng. Điều trị gồm có hai phần chính: điều tri đặc hiệu và điều trị nâng đỡ
+
+Điều trị đặc hiệu là điều trị bằng kháng sinh nhằm tiêu diệt vi khuẩn gây bệnh. Điều trị này thường tiến hành ngay sau khi chọc dịch não tủy nếu nghi ngờ viêm nàng não mủ. Đôi khi tình trạng bệnh nhân chưa cho phép chọc dịch não tủy thì việc điều trị bằng kháng sinh vẫn có thể tiến hành. Kháng sinh ban đầu khi chưa có xét nghiệm kháng sinh đồ thường được chọn dựa vào tần suất gây bệnh của các loại vi khuẩn, khả năng thấm qua hàng rào mạch máu - não, ít gây các tác dụng không mong muốn (hay tác dụng phụ). Kháng sinh ban đầu cho trẻ lớn thường chọn là một cephalosporin thế hệ thứ ba như Cefotaxime (Claforan) với liều từ 200–300 mg/Kg/ngày tiêm vào tĩnh mạch chia 3 đến 4 lần, hay một ceftriaxon (như Rocephine, Megion) liều 100–150 mg/Kg/ngày tiêm vào tĩnh mạch chia hai lần. Ở trẻ sơ sinh và trẻ nhỏ không bao giờ được dùng cephalosporin thế hệ thứ ba đơn độc mà thường kết hợp thêm ampicillin và/hoặc gentamycin. Sau khi có kết quả kháng sinh đồ thì điều trị theo kháng sinh đồ. Điều trị thường kéo dài từ 10 ngày đến 3 tuần tùy theo loại vi khuẩn.
+Điều trị nâng đỡ, hay còn gọi điều trị hỗ trợ, cũng đóng vai trò cực kỳ quan trọng trong thành công của điều trị. Điều trị này bao gồm bảo đảm thông khí và cung cấp đủ oxy cũng như thải khí carbonic, hạ sốt, chống phù não, kiểm soát co giật, cân bằng nước-điện giải, phát hiện hội chứng tăng tiết ADH bất thường, đảm bảo dinh dưỡng, chống vảy mục, vật lý trị liệu...
+
+
+== Biến chứng ==
+Tử vong: mặc dù có nhiều tiến bộ trong hồi sức thần kinh, tỷ lệ tử vong của viêm màng não còn rất cao, có nơi đến 30%. Bệnh nhân tử vong vì tổn thương não nặng nề, đặc biệt là tổn thương đến các vùng sinh tồn ở thân não, vì sốc nhiễm trùng huyết, vì rối loạn nước-điện giải, vì suy kiệt...
+Bại não
+Não úng thủy
+Động kinh
+Chậm phát triển tinh thần vận động
+Điếc tiếp nhận
+Mù vỏ não
+
+
+== Phòng bệnh ==
+Phát hiện và điều trị sớm các nhiễm trùng tai - mũi - họng, hô hấp.
+Chăm sóc răng miệng, điều trị các bệnh nha khoa.
+Tiêm chủng: Hiện nay trên thị trường có vaccine phòng Hemophilus influenzae và phế cầu. Tuy nhiên, trong điều kiện Việt Nam thì vaccine phòng Hemophilus influenzae là giải pháp thích hợp và hiệu quả hơn.
+Cải thiện môi trường sống, giũ gìn vệ sinh cá nhân.
+
+
+== Tài liệu tham khảo chính ==
+Charles G. Prober. Central nervous system infections. Nelson textbook of Pediatrics. 16th edition. Pages 751 - 757.
+Ashir Kumar. Meningitis, bacterial. http://www.emedicine.com/ped/topic198.htm.
+Obladen M. Infektionen. Neugeborenenintensivpflege, Grundlagen und Richtlinien. 5. völlig überrabeitete Auflage. Springer. S 467 - 486.
+Meningitis#Bacterial meningitis
+
+
+== Tham khảo ==

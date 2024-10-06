@@ -1,0 +1,45 @@
+Carboplatin, tên thương mại Paraplatin, là một hóa chất sử dụng để điều trị một số bệnh ung thư. Bao gồm ung thư buồng trứng, ung thư phổi, ung thư đầu cổ, ung thư não, và neuroblastoma.Đường dùng: tiêm tĩnh mạch. 
+Tác dụng không mong muốn thường gặp bao gồm giảm tế bào máu, buồn nôn, và rối loạn điện giải. Các tác dụng không mong muốn nghiêm trọng khác bao gồm dị ứng và tăng nguy cơ ung thư khác. Sử dụng thuốc khi mang thai có thể gây hại cho phôi thai. Carboplatin thuộc họ hóa trị chứa platin và hoạt động dựa trên cơ chế tác động vào quá trình sao chép DNA.
+Carboplatin là dẫn xuất của cisplatin, hợp chất được phát hiện vào những năm 1960 bởi Barnett Rosenberg. Ông thực hiện thí nghiệm đặt điện cực chứa platin vào dung dịch chứa Escherichia coli với mục đích khảo sát tác dụng của điện trường lên tế bào, kết quả thu được các vi khuẩn không phân chia nhưng bình thường, nhưng tác dụng này sau đó được xác định không phải do điện trường mà là do hợp chất platin. Sau thí nghiệm này, nhiều hợp chất khác chứa platin được tạo ra trong đó có carboplatin.
+Carboplatin đã được cấp bằng sáng chế năm 1972 và chấp thuận sử dụng trong y tế vào năm 1986.
+
+
+== Chỉ định ==
+Carboplatin được sử dụng để điều trị một số bệnh ung thư. Bao gồm ung thư buồng trứng, ung thư phổi, ung thư đầu cổ, ung thư não, và neuroblastoma. Có thể sử dụng trong ung thư tinh hoàn nhưng cisplatin thường có hiệu quả hơn.
+
+
+== Tác dụng không mong muốn ==
+So với cisplatin, lợi ích lớn nhất của carboplatin là giảm tác dụng phụ, đặc biệt là trên thận. Buồn nôn và nôn ít nghiêm trọng và dễ dàng kiểm soát hơn.
+Tác dụng phụ chính của carboplatin là ức chế tạo máu. Điều này gây ra sụt giảm nghiêm trọng số lượng tế bào máu mà tủy xương sản xuất, đôi khi giảm xuống chỉ còn 10% so với bình thường. Ức chế tủy xương thường xảy ra 21-28 ngày sau đợt điều trị đầu tiên, sau đó số lượng các tế bào máu và tiểu cầu trong máu bắt đầu ổn định, thường đạt gần đến giá trị trước khi điều trị. Sự sụt giảm các tế bào bạch cầu (hạ bạch cầu) có thể gây ra nhiều biến chứng, và đôi khi  cần được điều trị bằng thuốc như filgrastim. Biến chứng đáng chú ý nhất của hạ bạch cầu là tăng nguy cơ nhiễm trùng bởi các vi khuẩn cơ hội khiến bệnh nhân phải nhập viện để điều trị thuốc kháng sinh.
+Carboplatin yếu hơn cisplatin, tùy thuộc vào loại ung thư, carboplatin chỉ có thể đạt được 1/8 đến 1/45 hiệu quả. Liều tiêu chuẩn trên lâm sàng của carboplatin thường là 4:1 so với cisplatin.
+
+
+== Cấu trúc hóa học ==
+Carboplatin có tên hóa học là  1,1-cyclobutyldicarboxylate.
+
+Về mặt cấu trúc, carboplatin khác cisplatin ở chỗ nó mang nhóm tạo phức bidentate dicarboxylate (phối tử CycloButane DiCarboxylic Acid, CBDCA) khác với hai nhóm chloride ở cisplatin. Do đó, trong y văn đôi khi carboplatin được viết tắt là "CBDCA". Hai nhóm dicarboxylat làm carboplatin phản ứng thấp và động học gắn DNA chậm, mặc dù nó tạo thành các sản phẩm phản ứng trong thí nghiệm giống như carboplatin. Một số nghiên cứu cho thấy cisplatin và carboplatin gây ra các biến đổi hình thái trong dòng tế bào MCF-7 c. Tốc độ bài tiết carboplatin chậm hơn giúp thuốc ở lại trong cơ thể lâu hơn, và do đó tác dụng kéo dài hơn (t1/2 của carboplatin là 30 giờ so với cisplatin là 1.5-3.6 giờ).
+
+
+== Cơ chế hoạt động ==
+
+Sau khi qua màng tế bào, 1,1-cyclobutanedicarboxylate bị thủy phân và tích điện dương giúp carboplatin có thể tương tác với các phân tử trong nhân, platin hình thành liên kết với DNA, RNA và protein.
+Carboplatin gắn vào vào vị trí N7 của purine, từ đó tạo liên kết chéo giữa các chuỗi của DNA (interstrand cross-linking; ISC). Liên kết này ngăn tái bản DNA, giữ tế bào ở pha G2/M từ đó đi vào quá trình chết tế bào theo chương trình.
+Cơ chế kháng thuốc:
+Cơ chế sửa chữa bắt cặp sai (mismatch repair) xác định 6-thioguanine và các sản phẩm tạo thành giữa DNA và carboplatin, giải phóng tín hiệu khởi động chết theo chương trình. Thiếu hụt cơ chế này đóng vai trò quan trọng trong kháng carboplatin trong điều trị ung thư buồng trứng.
+Cơ chế cắt bỏ nucleotide (NER) sửa chữa các hợp chất cuối của platin với DNA. Cross-complementation group 1 (ERCC1) là một protein quan trọng trong con đường sửa chữa này. Một thí nghiệm trên ung thư buồng trứng kháng carboplatin, khi làm mất chức năng của ERCC1 bằng mRNA interference ung thư trở nên nhạy cảm hơn với thuốc. Nồng độ thấp mRNA của ERCC1 và bộc lộ ERCC1 thấp trên hóa mô miễn dịch ở khối u cũng cho thấy đáp ứng thuốc tốt hơn ở nhiều loại ung thư.
+Các kênh vận chuyển đồng cũng đóng vai trò quan trọng trong giảm độc tính của carboplatin.
+
+
+== Lịch sử ==
+Carboplatin đã được phát hiện tại Đại học Bang Michigan, phát triển tại Viện Nghiên cứu Ung thư ở London. Bristol-Myers Squibb được Cục quản lý thực phẩm và dược phẩm Hoa Kỳ (FDA) chấp thuận cho carboplatin, với tên thương mại Paraplatin vào tháng ba năm 1989. 
+
+
+== Tham khảo ==
+
+
+== Tham khảo thêm ==
+
+
+== Liên kết ngoài ==
+MedlinePlus page on carboplatin
+Creatinine Clearence [sic] Calculator Lưu trữ 2020-12-05 tại Wayback Machine

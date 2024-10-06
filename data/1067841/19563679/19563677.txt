@@ -1,0 +1,128 @@
+Sputnik V (tiếng Nga: Спутник V) là loại vắc-xin COVID-19 được phát triển bởi Viện Nghiên cứu Dịch tễ học và Vi sinh vật học Gamaleya. Sputnik V sử dụng vector là một loài virus adeno ở người và đã được Bộ Y tế Nga đăng ký với tên gọi Gam-COVID-Vac (tiếng Nga: Гам-КОВИД-Вак, chuyển tự Gam-KOVID-Vak) vào ngày 11 tháng 8 năm 2020.
+Gam-COVID-Vac được cấp phép phân phối tại Nga dựa trên kết quả thử nghiệm sơ bộ Giai đoạn I-II được xuất bản vào ngày 4 tháng 9 năm 2020. Việc cấp phép vắc-xin Gam-COVID-Vac quá nhanh vào đầu tháng 8 đã nhận nhiều chỉ trích từ truyền thông và gây ra tranh cãi trong cộng đồng khoa học khi nhiều người cho rằng độ an toàn và hiệu quả của vắc-xin chưa được kiểm chứng rõ ràng. Vào ngày 2 tháng 2 năm 2021, các phân tích được xuất bản trên tạp chí The Lancet cho thấy vắc-xin có hiệu quả 91,6% và không gây ra tác dụng phụ nào bất thường.
+Tiến trình phân phối khẩn cấp trên diện rộng vắc-xin Sputnik V bắt đầu vào tháng 12 năm 2020 tại nhiều quốc gia, trong đó có Nga, Argentina, Belarus, Hungary, Serbia và Các Tiểu vương quốc Ả Rập Thống nhất. Tính đến tháng 3 năm 2021, 45 quốc gia đã cấp phép sử dụng khẩn cấp vắc-xin Sputnik V, đồng thời hơn một tỷ liều vắc-xin đã được đặt mua để phân phối trên toàn cầu.. Việt Nam cũng mới sản xuất thành công lô vắc-xin Sputnik V đầu tiên từ bán thành phẩm, công nghệ do Nga chuyển giao
+
+
+== Công nghệ ==
+
+Gam-COVID-Vac là vắc-xin sử dụng hai vector virus, dựa trên hai virus adeno ở người – một loại virus gây cảm lạnh – trong đó có chứa đoạn gen mã hóa protein gai (S) của virus SARS-CoV-2 để kích thích phản ứng miễn dịch của cơ thể. Vắc-xin Gam-COVID-Vac được phát triển bởi một nhóm các nhà vi sinh vật học tế bào thuộc Viện Nghiên cứu Dịch tễ học và Vi sinh vật học Gamaleya do chính phủ tài trợ. Đứng đầu nhóm phát triển là Tiến sĩ Denis Logunov, thành viên dự khuyết Viện Hàn lâm Khoa học Nga, người từng tham gia phát triển vắc-xin ngừa virus Ebola và MERS-CoV.
+Hai virus adeno tái tổ hợp loại 26 và 5 được dùng làm vector để sản xuất vắc-xin. Chúng được xử lý bằng công nghệ sinh học và chứa cDNA trong protein S của SARS-CoV-2. Chúng sẽ được đưa vào vị trí cơ delta: vắc-xin Ad26 được sử dụng vào ngày tiêm đầu tiên và đến ngày thứ 21 thì tiêm thêm vắc-xin Ad5 để tăng phản ứng miễn dịch.
+Vắc-xin có thể được bào chế giới dạng đông lạnh (bảo quản ở nhiệt độ −18 °C hay 0 °F) và dạng sấy lạnh ("Gam-COVID-Vac-Lyo", bảo quản ở nhiệt độ 2–8 °C hay 36–46 °F). Dạng đầu tiên được phát triển để sử dụng quy mô lớn, thường rẻ và dễ sản xuất hơn. Dạng sản phẩm sấy lạnh tốn nhiều thời gian và nguồn lực hơn để sản xuất, nhưng lại tiện bảo quản và vận chuyển hơn. Gam-COVID-Vac-Lyo được phát triển để vận chuyển vắc-xin tới các vùng khó tiếp cận của nước Nga. Giám đốc Viện Nghiên cứu Gamaleya Alexander Ginzburg ước tính rằng sẽ mất khoảng 9–12 tháng để tiêm chủng cho phần lớn dân số Nga, với điều kiện có đầy đủ nguồn lực trong nước.
+
+
+== Nghiên cứu lâm sàng ==
+
+
+=== Giai đoạn I–II ===
+Quá trình thử nghiệm an toàn giai đoạn I bắt đầu vào ngày 18 tháng 6. Vào ngày 4 tháng 9, dữ liệu thử nghiệm giai đoạn I–II trên 76 tình nguyện viên được công bố, cho thấy hiệu quả sơ bộ về tính an toàn và phản ứng miễn dịch. Một số nhà khoa học vắc-xin quốc tế hoài nghi về các kết quả này, cho rằng chúng không đầy đủ, đáng ngờ và không tin cậy khi dữ liệu của nhiều tình nguyện viên có kết quả giống nhau; các tác giả giải thích mới chỉ có 9 người được lấy mẫu, và các kết quả chuẩn độ đo được chỉ có thể lấy giá trị rời rạc (800, 1600, 3200, 6400). Cùng với quan sát cho thấy các giá trị thường ổn định sau ba tới bốn tuần, các tác giả cho rằng hoàn toàn có khả năng các tình nguyện viên có thể cho các kết quả giống nhau từ ngày thứ 21 đến 28.
+
+
+=== Giai đoạn III ===
+Vào đầu tháng 11 năm 2020, tổng giám đốc Trung tâm Y tế Hadassah Israel, Giáo sư Zeev Rotstein cho biết chi nhánh của Hadassah tại Trung tâm Đổi mới sáng tạo Skolkovo ở Moskva đang cùng hợp tác thực hiện thử nghiệm lâm sàng giai đoạn III.
+Cuộc thử nghiệm giai đoạn III được tiến hành theo phương thức ngẫu nhiên, mù đôi, có sử dụng nhóm đối chứng điều trị bằng giả dược, với 40.000 tình nguyện viên tại Moskva, và được dự kiến sẽ tiếp tục đến tháng 5 năm 2021. Trong các năm 2020–2021, giai đoạn III thử nghiệm lâm sàng cũng đang được tiến hành tại Belarus, UAE, Ấn Độ và Venezuela.
+
+Vào ngày 2 tháng 2 năm 2021, bản phân tích sơ bộ cuộc thử nghiệm tại Moskva được xuất bản trên tạp chí The Lancet, cho thấy hiệu quả đạt 91,6% (95% CI 85,6–95,2) sau mũi tiêm thứ hai, không gây tác dụng phụ bất thường nào.
+Cuộc thử nghiệm bắt đầu vào ngày 7 tháng 9 năm 2020 sử dụng vắc-xin dạng đông lạnh, sau đó dữ liệu phân tích đã được công bố vào ngày 24 tháng 11 năm 2020. Nhóm thử nghiệm trên 60 tuổi (trong đó người lớn tuổi nhất là 87 tuổi) về cơ bản cho hiệu quả giống như mọi lứa tuổi khác (91,8%). Tình nguyện viên nhỏ tuổi nhất là 18 tuổi.
+
+
+=== Nghiên cứu vắc-xin COVID-19 Sputnik–AstraZeneca ===
+Vào ngày 21 tháng 12 năm 2020, Quỹ Đầu tư Trực tiếp Nga, Trung tâm Quốc gia Gamaleya, AstraZeneca và R-Pharm đã ký kết thỏa thuận phát triển và tiến hành chương trình nghiên cứu lâm sàng nhằm đánh giá tính miễn dịch và an toàn khi kết hợp sử dụng các thành phần trong vắc-xin Sputnik V và vắc-xin AZD1222 do AstraZeneca và Đại học Oxford phát triển. Chương trình nghiên cứu sẽ kéo dài 6 tháng tại một số quốc gia, dự kiến có sự tham gia của 100 tình nguyện viên tại mỗi nước. Vào ngày 9 tháng 2 năm 2021, Bộ Y tế Cộng hòa Azerbaijan cho phép tiến hành nghiên cứu lâm sàng kết hợp sử dụng vắc-xin Sputnik V và vắc-xin AstraZeneca tại nước này, cho biết nghiên cứu sẽ bắt đầu trước cuối tháng 2 năm 2021.
+
+
+== Thành phần ==
+Vắc-xin có hai loại. Thành phần chính ở hai loại vắc-xin là một loại virus adeno đã biến đổi (tái tổ hợp) mất khả năng sao chép thuộc hai kiểu huyết thanh khác nhau (loại thứ nhất là Ad26 và loại thứ hai là Ad5). Chúng đã được chỉnh sửa để mang gen mã hóa protein S của SARS-CoV-2.
+Các thành phần còn lại (tá dược) là giống nhau, cả về số lượng và chủng loại, ở cả hai loại vắc-xin.
+
+Tris-(hydroxylmethyl)-aminomethane
+Natri chloride
+Saccarose
+Magie chloride hexahydrate
+Disodium EDTA dihydrate (buffer)
+Polysorbate 80
+Ethanol 95%
+Nước
+Theo tài liệu chính thức, không nên thêm các chất hoặc thành phần nào khác vào vắc-xin.
+
+
+== Lịch sử ==
+Vào tháng 5 năm 2020, Viện Nghiên cứu Dịch tễ học và Vi sinh vật học Gamaleya thông báo đã phát triển được vắc-xin COVID-19 không gây tác dụng phụ nghiêm trọng. Tới tháng 8 năm 2020, giai đoạn I và II của cuộc thử nghiệm lâm sàng (mỗi giai đoạn có sự tham gia của 38 bệnh nhân) đã được hoàn tất. Trong đó dạng vắc-xin sau này được cấp phép sử dụng hạn chế mới chỉ được thử nghiệm trong một giai đoạn. Vắc-xin được đặt tên thương mại là "Sputnik V", đặt theo tên vệ tinh nhân tạo đầu tiên trên thế giới.
+Trong các cuộc thử nghiệm lâm sàng và tiền lâm sàng, 38 tình nguyện viên được tiêm một hoặc hai liều vắc-xin Gam-COVID-Vac đã sản sinh ra kháng thể chống protein gai của SARS-CoV-2, trong đó có các kháng thể trung hòa làm vô hiệu hóa hạt virus. Vào ngày 11 tháng 8 năm 2020, Bộ trưởng Bộ Y tế Mikhail Murashko tại một buổi họp chính phủ với sự tham gia của Tổng thống Vladimir Putin đã thông báo cấp phép sử dụng đại trà vắc-xin Sputnik V. Việc đăng ký vắc-xin được thực hiện "có điều kiện", theo nghị định của chính phủ Nga. Giấy chứng nhận đăng ký vắc-xin ghi rõ không được sử dụng đại trà tại Nga cho tới ngày 1 tháng 1 năm 2021; trước thời điểm này có thể cung cấp vắc-xin cho "một số lượng nhỏ công dân nằm trong nhóm dễ bị tổn thương" như nhân viên y tế và người cao tuổi, theo người phát ngôn của Bộ Y tế. Giấy phép sử dụng số ЛП-006395 (LP-006395) được cấp bởi Bộ Y tế Nga vào ngày 11 tháng 8. Mặc dù thông báo trên được đưa ra trước cả khi vắc-xin được tiến hành thử nghiệm Giai đoạn III, việc cấp phép tiếp thị "có điều kiện" đã được tiến hành ở một số quốc gia khác. Vào ngày 26 tháng 8, giấy phép sử dụng số ЛП-006423 (LP-006423) được cấp cho vắc-xin dạng sấy lạnh "Gam-COVID-Vac-Lyo".
+Việc phát hành thương mại Gam-COVID-Vac ban đầu được dự kiến diễn ra vào tháng 9 năm 2020. Vào tháng 10, ông Mikhail Murashko cho biết vắc-xin Gam-COVID-Vac sẽ được tiêm miễn phí cho tất cả công dân Nga sau khi bắt đầu sản xuất đại trà. Sau đó, Bộ Y tế Nga ấn định giá bán vắc-xin tối đa dành cho cả hai dạng bào chế là 1.942 rúp, đồng thời đưa vào danh sách các loại thuốc thiết yếu quốc gia. Một số ý kiến đề xuất đưa vắc-xin vào chương trình tiêm chủng quốc gia của Nga.
+Theo truyền thông Nga, quá trình sản xuất đại trà Gam-COVID-Vac được bắt đầu vào ngày 15 tháng 8. Trước đó Nga đã nhận đặt hàng từ 20 nước với số lượng 1 tỷ liều vắc-xin. Mỗi nhà máy sản xuất vắc-xin trong số ba nhà máy tham gia có thể sản xuất một triệu liều mỗi tháng và dự kiến tới mùa đông công suất còn có thể gấp đôi. Tới cuối năm 2020, dây chuyền sản xuất của Viện nghiên cứu Gamaleya dự kiến sản xuất 3-5 triệu liều, theo một người phát ngôn của Viện.
+
+
+== Đánh giá khoa học ==
+Balram Bhargava, giám đốc Hội đồng Nghiên cứu Y khoa Ấn Độ, cho biết Nga đã thành công trong việc đẩy nhanh tiến độ phát triển vắc-xin COVID-19.
+Vào ngày 11 tháng 8 năm 2020, một phát ngôn viên của Tổ chức Y tế Thế giới (WHO) cho biết: "...quá trình sơ tuyển bất cứ loại vắc-xin nào đòi hỏi phải có sự xem xét kỹ lưỡng và đánh giá tất cả các dữ liệu cần thiết về an toàn và hiệu quả".
+
+Một phó giám đốc của WHO cho rằng: "Chúng ta không thể sử dụng một loại vắc-xin hay loại thuốc nào mà chưa tuân thủ hay trải qua đầy đủ tất cả các giai đoạn này".
+Francois Balloux, một nhà di truyền học tại Đại học London, gọi quyết định cấp phép Gam-COVID-Vac của chính phủ Nga là "quyết định liều lĩnh và ngớ ngẩn". Giáo sư Paul Offit, giám đốc Trung tâm Giáo dục Vắc-xin tại Bệnh viện nhi Philadelphia, cho rằng tuyên bố này là một "thủ đoạn chính trị", và các loại vắc-xin chưa được thử nghiệm có thể rất nguy hiểm.
+Stephen Griffin, Phó giáo sư tại Viện Y học, Đại học Leeds, cho biết chúng ta có thể lạc quan một cách thận trọng rằng các loại vắc-xin nhằm vào protein gai của virus SARS-CoV-2 có thể có hiệu quả. Ngoài ra, do kháng nguyên trong Sputnik được đưa vào cơ thể thông qua cơ chế khác, sử dụng virus adeno bất hoạt thay vì dùng RNA biến đổi, loại vắc-xin này có thể đem lại sư linh hoạt trong phương pháp xử lý với các nhóm tuổi, nhóm dân tộc, v.v, cộng thêm việc bảo quản dễ dàng hơn. 
+Stephen Evans, giáo sư tại Học viện Vệ sinh và Y học Nhiệt đới London cho rằng "dữ liệu cho thấy vắc-xin có hiệu quả tốt... Các kết quả này giống với những gì chúng ta thấy ở các vắc-xin khác, bởi thông điệp lớn dành cho các nhà khoa học toàn cầu đó là căn bệnh này [COVID-19] có thể được giải quyết bằng vắc-xin."
+Julian Tang, nhà virus học tại Đại học Leicester, said: "Bỏ qua những hoài nghi ban đầu về cách thức triển khai rộng rãi vắc-xin Sputnik V của Nga – trước những kết quả tích cực của Giai đoạn 3 – cách tiếp cận này đã được khẳng định ít nhiều."
+Ian Jones, giáo sư tại Đại học Reading, và Polly Roy, giáo sư và Chủ tịch Virus học tại Học viện Vệ sinh và Y học Nhiệt đới London, đưa ra lời bình luận trước các kết quả thử nghiệm giai đoạn III đăng trên tạp chí The Lancet vào tháng 2 năm 2021, cho rằng "Quá trình phát triển vắc-xin Sputnik V đã phải hứng chịu chỉ trích vì sự vội vàng, đi tắt và thiếu minh bạch. Nhưng những kết quả được báo cáo ở đây rất rõ ràng, các nguyên tắc khoa học trong tiêm chủng cũng đã được thể hiện, nghĩa là thêm một loại vắc-xin nữa đã có thể cùng tham gia trận chiến chống COVID-19."
+Hildegund C. J. Ertl, một nhà khoa học vắc-xin tại Viện Wistar, gọi kết quả giai đoạn III được công bố ngày 2 tháng 2 năm 2021 là "rất tốt": "Mức độ an toàn tốt, hiệu quả hơn 90% cho mọi nhóm tuổi, hiệu quả 100% phòng bệnh tiến triển nặng và tử vong, bảo quản được trong tủ lạnh và chi phí thấp. Ta còn đòi hòi gì nữa?"
+Theo đánh giá sơ bộ từ các chuyên gia, dạng sấy lạnh của vắc-xin Gam-COVID-Vac cũng tương tự như vắc-xin bệnh đậu mùa, không đòi hỏi phải có chuỗi cung ứng lạnh liên tục hay yêu cầu bảo quản ở nhiệt độ rất thấp như hai vắc xin của Pfizer–BioNTech và Moderna, đồng thời cho phép vận chuyển tới các địa điểm xa xôi với mà ít có nguy cơ bị hỏng vắc-xin.
+Vào ngày 6 tháng 3 năm 2021, Giám đốc Viện Dị ứng và Bệnh truyền nhiễm Quốc gia Hoa Kỳ (NIAID) Anthony Fauci phát biểu các dữ liệu từ Sputnik V "trông khá ổn" đối với ông.
+
+
+== Phân phối, tiêm chủng và sự đón nhận của công chúng ==
+
+
+=== Phản ứng ban đầu ===
+Một cuộc khảo sát do Léger thực hiện với một số người Canada vào tháng 8 năm 2020 cho thấy phần lớn người được hỏi (68%) không muốn tiêm vắc-xin Nga, kể cả khi được tiêm miễn phí, so với 14% đồng thuận. 
+Cùng câu hỏi trên, tỷ lệ người Mỹ được hỏi không đồng ý tiêm vắc-xin Nga là 59%, so với 24% còn lại chấp nhận sử dụng loại vắc-xin này. 
+
+Vào thời điểm đó, các quan chức Anh và Mỹ cho biết vắc-xin Gam-COVID-Vac khả năng sẽ không được chấp thuận do lo ngại chưa tuân thủ các tiêu chuẩn trong nghiên cứu lâm sàng. Một chuyên gia y tế công cộng cho rằng việc chính phủ Nga cấp phép Gam-COVID-Vac sớm là quyết định "đốt cháy giai đoạn", có thể ảnh hưởng đến niềm tin của công chúng nếu sau này phát hiện ra vắc-xin không hiệu quả hoặc không an toàn. Nhà miễn dịch học Peter Openshaw phát biểu: "Việc một loại vắc-xin đã được cấp phép bỗng bị phát hiện là không an toàn sẽ gây rủi ro rất lớn tới niềm tin của công chúng vào vắc-xin".
+Tính tới tháng 9 năm 2020, theo một khảo sát công khai, chỉ có một nửa người dân Nga sẵn sàng tự nguyện tiêm vắc-xin.
+
+
+=== Tại Nga ===
+
+Vào đầu tháng 12 năm 2020, giới chức Nga thông báo bắt đầu chiến dịch tiêm chủng miễn phí trên quy mô lớn vắc-xin Gam-COVID-Vac cho người dân Nga: chương trình được bắt đầu từ ngày 5 tháng 12 năm 2020 (trong đó có 70 cơ sở y tế tại Moskva tham gia phục vụ tiêm chủng).
+Bác sĩ, các nhân viên y tế, giáo viên và nhân viên công tác xã hội được ưu tiên tiêm vắc-xin do có nguy cơ cao nhiễm bệnh. Chiến dịch tiêm chủng ban đầu áp dụng cho người dưới 60 tuổi, nhưng sau đó giới hạn này đã được dỡ bỏ.
+Những người có trong danh sách ưu tiên được thông báo qua tin nhắn với nội dung: "Bạn đang làm việc tại một cơ sở giáo dục và được ưu tiên tiêm vắc-xin COVID-19 miễn phí". Bệnh nhân trước khi tiêm được hỏi một số câu hỏi chung về sức khỏe, đồng thời được nhận tờ rơi cảnh báo về một số các tác dụng phụ có thể xảy ra. Những người có bệnh lý nền, phụ nữ mang thai, hoặc có bệnh đường hô hấp trong khoảng thời gian từ hai tuần đổ lại không được tiêm vắc-xin. Các lọ vắc-xin sẽ được lấy ra khỏi tủ lạnh khoảng 15 phút trước khi sử dụng.
+Vào đầu tháng 12 năm 2020, Bộ trưởng Y tế Nga Mikhail Murashko cho biết Nga đã tiêm chủng cho hơn 100.000 người có nguy cơ nhiễm bệnh cao. Trong số đó có 40.000 người là tình nguyện viên thử nghiệm vắc-xin Giai đoạn III, cùng với đó là 60.000 bác sĩ và nhân viên y tế khác. Giám đốc Quỹ Đầu tư Trực tiếp Nga Kirill Dmitriev trong một buổi phỏng vấn với BBC cho hay dự kiến Nga sẽ tiêm vắc-xin COVID-19 cho khoảng 2 triệu người trong tháng 12.
+Cho tới đầu tháng 12 năm 2020, Generium (do Pharmstandard giám sát) và Binnopharm (do AFK Sistema giám sát) là hai công ty tham gia sản xuất Gam-COVID-Vac trên quy mô lớn.
+Vào ngày 10 tháng 12, Phó Thủ tướng Nga Tatyana Golikova thông báo khoảng 6,9 triệu liều vắc-xin Sputnik V sẽ được lưu hành sử dụng tại Nga trước cuối tháng 2 năm 2021. Thị trưởng Moskva Sergei Sobyanin cho biết công ty "R-Pharm" mới được thành lập tại Moskva sẽ trở thành nhà sản xuất vắc-xin Sputnik V hàng đầu. Nhà máy của công ty có thể sản xuất lên tới 10 triệu liều mỗi tháng.
+
+
+=== Bên ngoài nước Nga ===
+
+Theo Quỹ Đầu tư Trực tiếp Nga (RDIF), quỹ đã nhận được các đơn đặt hàng với tổng cộng 1,2 tỷ liều vắc-xin tính tới tháng 12 năm 2020. Hơn 50 quốc gia đã đặt mua vắc-xin Sputnik V, và các đối tác tại Ấn Độ, Brazil, Trung Quốc, Hàn Quốc, Hungary và một số nước khác sẽ sản xuất vắc-xin cho thị trường quốc tế. Trước đó, vào tháng 8 năm 2020, theo giới chức Nga có it nhất 20 nước bày tỏ quan tâm tới vắc-xin COVID-19 của nước này.
+Khác với tại nội địa Nga, giá bán mỗi mũi tiêm vắc-xin sẽ ở mức dưới 10 đôla Mỹ (tức là dưới 20 đôla cho một người, trong đó bao gồm hai mũi) dành cho thị trường quốc tế, rẻ hơn nhiều so với các vắc-xin mRNA từ các nhà sản xuất khác. Giám đốc Quỹ đầu tư Trực tiếp Nga Kirill Dmitriev cho biết hơn 1 tỷ liều vắc-xin được dự kiến sản xuất ngoài nước Nga vào năm 2021.
+Trung tâm Y tế Hadassah của Israel đã ký kết biên bản ghi nhớ thương mại nhằm mua từ 1,5-3 triệu liều vắc-xin.
+
+Theo nguồn tin của tờ The New York Times, để đổi lấy việc phóng thích một công dân Israel đang bị giam giữ tại Syria, Israel đồng ý cung cấp một lượng vắc-xin COVID-19 của Nga cho Damascus.
+Argentina đã đồng ý mua 25 triệu liều vắc-xin COVID-19 của Nga. Vắc-xin đã được đăng ký và cấp phép tại Argentina vào cuối tháng 12 năm 2020. Bang Bahia của Brazil cũng đã ký thỏa thuận tiến hành thử nghiệm lâm sàng Giai đoạn III vắc-xin Sputnik V và dự kiến mua 50 triệu liều về sử dụng tại đông bắc Brazil.
+Một thỏa thuận sản xuất hơn 100 triệu liều vắc-xin tại Ấn Độ đã được ký kết với Dr. Reddy's Laboratories; công ty này đã nộp các dữ liệu thử nghiệm giữa giai đoạn lên giới chức Ấn Độ vào ngày 11 tháng 1 năm 2021 và được chỉ đạo tiếp tục giai đoạn thử nghiệm cuối cùng. RDIF dự định bán 100 triệu liều tại Ấn Độ, 35 triệu tại Uzbekistan, 32 triệu tại Mexico, cùng với Nepal và Ai Cập, mỗi nước 25 triệu liều.
+Vào ngày 21 tháng 1 năm 2021, tổng thống Argentina Alberto Fernández trở thành lãnh đạo Mỹ Latinh đầu tiên tiêm phòng COVID-19 bằng vắc-xin Sputnik V mới được cấp phép.
+Tính đến tháng 3 năm 2021, RDIF đã cấp phép sản xuất vắc-xin tại Ấn Độ, Trung Quốc, Hàn Quốc và Brazil. Tại EU, RDIF đã ký các thỏa thuận sản xuất với các công ty tại Đức, Tây Ban Nha và Pháp, hiện đang chờ được Cơ quan Quản lý Dược phẩm châu Âu cấp phép, đồng thời cũng đang đàm phán với một công ty Thụy Sỹ/Ý. Tới cuối tháng 3 năm 2021, RDIF dự kiến sẽ có 33 triệu liều được sản xuất tại Nga, trong số đó chỉ chưa đến 5% là được xuất khẩu.
+Những liều vắc-xin Sputnik V sản xuất tại Hàn Quốc không được dành cho sử dụng trong nước. Số vắc-xin này sẽ được xuất khẩu sang Nga, Algeria, Argentina, Hungary, Iran và Các Tiểu vương quốc Ả Rập Thống nhất.
+Do có sự chậm trễ trong việc vận chuyển vắc-xin từ Ý và Liên minh châu Âu, San Marino buộc phải nhập khẩu vắc-xin Sputnik V (chưa được Cơ quan Quản lý Dược phẩm châu Âu cấp phép) và bắt đầu tiêm chủng diện rộng vào ngày 28 tháng 2 đối với các nhân viên y tế.
+Mặc dù tỷ lệ tiêm chủng tại Nga vẫn đang thấp hơn các nước phát triển khác (tính tới tháng 3 năm 2021), nước này vẫn đang tiếp tục theo đuổi các thỏa thuận cung cấp vắc-xin ra nước ngoài.
+
+
+=== Chậm trễ giao hàng ===
+Cho đến tháng 10/2021, ước tính Nga mới chỉ xuất khẩu được 4,8% trong số khoảng 1 tỷ liều vaccine Sputnik V mà nước này cam kết, khiến nhiều quốc gia khách hàng loay hoay vì không có vaccine cho liều thứ hai. Không giống như các loại vaccine COVID-19 khác, mũi thứ nhất và mũi thứ hai của Sputnik lại khác nhau và không thể thay thế cho nhau. Hoạt động sản xuất ở Nga đã bị ảnh hưởng bởi những khó khăn, đặc biệt là trong việc chế tạo thành phần của liều vaccine thứ hai. Các chuyên gia đã chỉ ra khó khăn nằm ở năng lực sản xuất hạn chế cũng như quy trình rất phức tạp. Các nhà sản xuất không thể đảm bảo đầu ra ổn định do các thành phần sinh học liên quan đến rất nhiều biến số về chất lượng của thành phẩm.
+Venezuela đã đặt hàng Nga 10 triệu liều từ tháng 12/2020 nhưng đến nay mới chỉ nhận được không đầy 4 triệu. Argentina nhận lô hàng đầu tiên vào ngày 25/12/2020, nhưng tới lúc này vẫn đang chờ đợi phần lớn trong số 20 triệu liều đã mua. Trong khi đó, Iran mới nhận 1,77 triệu liều trong tổng số 60 triệu liều được cam kết. Thứ trưởng Bộ Y tế Alireza Raisi đã kêu gọi những người được tiêm vaccine Sputnik mũi 1 nên tiêm mũi thứ hai là AstraZeneca, với lý do “không chắc” khi nào vaccine Nga mới tới tiếp.
+Giới chức Thổ Nhĩ Kỳ hồi tháng 4 công bố thoả thuận mua 50 triệu liều Sputnik V, giao trong vòng 6 tháng. Đến tháng 6, mới chỉ có 400.000 liều được giao. Bộ Y tế không bình luận về việc liệu Thổ Nhĩ Kỳ có còn hy vọng nhận được liều thứ hai hay từ bỏ việc triển khai tiêm vaccine Nga. Ấn Độ cũng được cam kết 125 triệu bộ Sputnik V hai liều nhưng mới chỉ tiêm được trên 1 triệu liều tính đến ngày 6/10.
+Hiện nay, Tổ chức Y tế Thế giới và Cơ quan Dược phẩm Châu Âu vẫn chưa phê duyệt sử dụng vaccine Sputnik V. Ông Judy Twigg, giáo sư chuyên về sức khỏe toàn cầu tại Đại học Virginia Commonwealth (Mỹ) cho rằng, lúc này cơ hội để Nga "khẳng định là vị cứu tinh" trong đại dịch đã không còn.
+
+
+==== Cấp phép sử dụng khẩn cấp ====
+
+Tính tới tháng 12 năm 2020, Belarus và Argentina đã cấp phép sử dụng khẩn cấp vắc-xin Sputnik V. Vào ngày 21 tháng 1 năm 2021, Hungary trở thành nước thành viên Liên minh châu Âu đầu tiên đưa vắc-xin này vào danh mục sử dụng khẩn cấp; Các Tiểu vương quốc Ả Rập Thống nhất cũng là nước đầu tiên tại vùng Vịnh ra quyết định này.
+Vào ngày 19 tháng 1 năm 2021, giới chức Nga đã nộp đơn đăng ký vắc-xin Sputnik V lên Liên minh châu Âu, theo RDIF. Đến ngày 10 tháng 2, Cơ quan Quản lý Dược phẩm châu Âu cho biết họ "chưa nhận được đơn đăng ký rà soát sớm hay cấp phép tiếp thị cho vắc-xin này". Nhóm phát triển mới chỉ bày tỏ mong muốn cho vắc-xin được xem xét rà soát sớm, nhưng trước hết cần có sự chấp thuận của Ủy ban Dược phẩm Sử dụng trên người (CHMP) và Ủy ban đặc nhiệm về đại dịch COVID-19 của EMA (COVID-ETF) trước khi có thể nộp đơn xin bắt đầu tiến trình rà soát sớm. Vào ngày 4 tháng 3 năm 2021, CHMP đã bắt đầu quá trình rà soát vắc-xin Sputnik V. Đơn vị chịu trách nhiệm tại EU là R-Pharm Germany GmbH.
+Các nước Algeria, Bolivia, Serbia, vùng lãnh thổ Palestine và Mexico cũng đã cấp phép sử dụng khẩn cấp vắc-xin Sputnik V.
+Vào ngày 25 tháng 1 năm 2021, Iran quyết định cấp phép cho loại vắc-xin này; Ngoại trưởng Mohammad Javad Zarif cho biết nước này hi vọng có thể mua và bắt đầu sản xuất chung vắc-xin "trong tương lai gần". Trước đó, Lãnh tụ tối cao Ayatollah Ali Khamenei đã cấm chính phủ nhập vắc-xin từ Hoa Kỳ và Anh Quốc.
+Vào ngày 1 tháng 3 năm 2021, Slovakia đăng ký mua 2 triệu liều vắc-xin Sputnik V. Slovakia đã nhận lô đầu tiên với 200.000 liều, và dự kiến sẽ có thêm 800.000 liều nữa vào tháng 3 và tháng 4. Thêm 1 triệu liều nữa sẽ được vận chuyển tới nước này vào tháng 5 và 6. Cộng hòa Séc cũng đang cân nhắc mua vắc-xin Sputnik V.
+Tính tới tháng 3 năm 2021, đã có 39 quốc gia cấp phép sử dụng khẩn cấp vắc-xin Sputnik V.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Trang web chính thức

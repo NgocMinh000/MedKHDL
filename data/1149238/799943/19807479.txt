@@ -1,0 +1,85 @@
+Hội chứng cướp máu động mạch dưới đòn, hay hội chứng cắp máu động mạch dưới đòn (Subclavian steal syndrome, viết tắt SSS) hay còn gọi là bệnh hẹp-tắc nghẽn cắp máu động mạch dưới đòn (subclavian steal steno-occlusive disease) là một tập hợp các triệu chứng phát sinh từ hiện tượng máu chảy ngược trong động mạch đốt sống hoặc động mạch ngực trong, do hẹp đoạn gần và/hoặc tắc động mạch dưới đòn. Sự đảo ngược dòng chảy này được gọi là hiện tượng cắp máu động mạch dưới đòn (subclavian steal phenomenon). Cánh tay có thể được nhận máu từ dòng chảy ngược xuống dưới của động mạch đốt sống, nên lấy cắp 1 phần máu từ hệ thống tuần hoàn đốt sống-nền phía sau. Nó nặng hơn so với thể điển hình của thiểu năng tuần hoàn sống nền (vertebrobasilar insufficiency)
+
+
+== Triệu chứng ==
+Hẹp động mạch dưới đòn không có triệu chứng ở hầu hết bệnh nhân. Bệnh cảnh đôi khi được phát hiện tình cờ khi có sự chênh lệch huyết áp giữa 2 cánh tay hoặc khi siêu âm bệnh nhân mắc bệnh động mạch vành hoặc động mạch cảnh. Do mảng xơ vữa làm tắc/hẹp đoạn gần động mạch dưới đòn nên sẽ gây thiếu máu nuôi chi trên, mặt khác nó ăn cắp máu từ động mạch đốt sống nên sẽ gây ra các triệu chứng của tuần hoàn não sau:
+1. Triệu chứng thần kinh do thiểu năng tuần hoàn hệ sống- nền thoáng qua
+
+Rối loạn ý thức tạm thời
+Chóng mặt
+Thất điều, rung giật nhãn cầu (nystagmus)
+Nhìn đôi (diplopia)
+Rối loạn thị lực: mù vỏ não do tổn thương thùy chẩm 2 bên
+Thất ngôn
+Dị cảm nửa người
+Ù tai, nghe kém
+Cơn sụp đổ (drop attack) : đang đứng/ đi thì đột ngột khuỵu 2 đầu gối xuống nhưng đứng dậy được ngay, không mất ý thức.
+2. Triệu chứng ở chi trên
+
+Dị cảm, đặc biệt bàn tay và ngón tay
+Hội chứng Raynaud
+Mạch quay bên tổn thương nhỏ, khó bắt
+Huyết áp 2 tay chênh nhau > 15 mmHg
+Thổi tâm thu ở trên cổ và hố thượng đòn.
+
+
+== Nguyên nhân ==
+Có nhiều quá trình có thể gây tắc nghẽn động mạch dưới đòn trước động mạch đốt sống, có thể gây hội chứng cướp máu động mạch dưới đòn.
+Xơ vữa động mạch là nguyên nhân phổ biến nhất của SSS; tất cả các yếu tố nguy cơ xơ vữa động mạch đều là yếu tố nguy cơ đối với SSS.
+Hội chứng hẹp lối ra lồng ngực (thoracic outlet depression syndrome, TOS) làm tăng nguy cơ mắc SSS. TOS không trực tiếp gây ra SSS, bởi vì vị trí chèn ép động mạch dưới đòn nằm trên xương sườn đầu tiên, nằm xa động mạch đốt sống. TOS gây ra đột quỵ được cho là do cục máu đông di chuyển về phía động mạch đốt sống.
+Viêm động mạch Takayasu là bệnh gây viêm các động mạch trong đó có động mạch dưới đòn. Viêm để lại mô sẹo dày đặc, mạch máu trở nên hẹp và hạn chế lưu lượng máu.
+SSS có thể do biến chứng của điều trị y khoa. Một ví dụ là xơ hóa tắc nghẽn hoặc huyết khối do điều trị hẹp eo động mạch chủ (Coarctation of the aorta, COA). Một ví dụ khác là tạo shunt Blalock–Taussig để điều trị tứ chứng Fallot.
+Các dị tật mạch máu bẩm sinh khác nhau cũng gây ra SSS như hẹp eo động mạch chủ và gián đoạn cung động mạch chủ (interrupted aortic arch).
+
+
+== Sinh lý bệnh ==
+
+
+== Chẩn đoán ==
+Nguồn:
+
+
+=== Siêu âm ===
+dòng chảy ngược trong động mạch đốt sống cùng bên
+các thay đổi sớm trước khi đảo ngược dòng chảy: giảm vận tốc, dòng chảy hai pha (trong động mạch đốt sống), bao gồm phổ hình con thỏ (bunny waveform).
+đoạn gần động mạch dưới đòn thường không thể nhìn thấy đủ rõ để đánh giá
+động mạch dưới đòn đoạn xa có dạng sóng Parvus-Tardus và dạng sóng đơn pha
+
+
+=== Chụp cắt lớp vi tính (CT), chụp cộng hưởng từ (MRI) ===
+Hẹp động mạch dưới đòn hoặc tắc nghẽn dễ dàng thấy.
+Không thể xác định hướng dòng chảy trong động mạch đốt sống
+Có thể có các tổn thương mạch máu não nội sọ hoặc ngoài sọ khác
+
+
+=== Chụp mạch máu số hóa xóa nền (DSA) ===
+Thực hiện tại thời điểm can thiệp nội mạch
+Thấy hẹp/tắc nghẽn động mạch dưới đòn hoặc
+Chậm làm đầy động mạch đốt sống cùng bên.
+Có thể thấy các tổn thương mạch máu não nội sọ hoặc ngoài sọ khác
+
+
+=== Chẩn đoán phân biệt ===
+Đột quỵ
+
+
+== Điều trị ==
+Ngay cả khi hẹp động mạch dưới đòn không có triệu chứng thì nó vẫn kết hợp với tăng nguy cơ mắc và tử vong liên quan đến bệnh lý xơ vữa ở giường mạch máu. Sự hiện diện của hẹp động mạch dưới đòn sẽ làm tăng nguy cơ tử vong toàn bộ (hazard ratio 1,4) và tử vong do bệnh tim mạch (hazard ratio 1,57) và tăng nguy cơ thiếu máu não liên quan đến hẹp động mạch cảnh tiến triển và suy giảm tuần hoàn bàng hệ. Do đó, hẹp động mạch dưới đòn là chỉ điểm của nguy cơ tim mạch và sẽ có ích trong phòng ngừa thứ phát. Điều trị nội bao gồm aspirin, thuốc chẹn beta, ức chế men chuyển và statin để làm giảm tử vong lâu dài. Khi hẹp động mạch dưới đòn không triệu chứng, hiếm khi cần phải tái tạo mạch máu, ngay cả khi có dòng chảy ngược. Ở bệnh nhân có triệu chứng nhẹ, điều trị nội và bảo tồn sẽ thích hợp, vì triệu chứng sẽ cải thiện mà không cần phải can thiệp.
+Bệnh nhân có triệu chứng nặng và tắc đoạn gần động mạch dưới đòn có thể điều trị thành công bằng phẫu thuật hoặc can thiệp qua da. Tạo hình mạch bằng bóng (hay nong mạch bằng bóng, balloon angioplasty) và đặt stent có thể thực hiện khi stent không có khả năng làm suy giảm tuần hoàn đốt sống. Mức độ thành công khi can thiệp qua da có thể trên 90%, tỉ lệ còn thông trong 5 năm là 85%. Dòng chảy ngược liên tục xuất hiện trở lại là một dấu hiệu cho thấy nguy cơ cao hơn tái hẹp lại khi so sánh với dòng chảy ngược ngắt quãng. Đến 10% bệnh nhân có triệu chứng tái hẹp trở lại, 95% có thể xử trí bằng can thiệp nội mạch.
+Tắc 1 đoạn dài tốt hơn nên phẫu thuật. Phẫu thuật bắc cầu tái tạo mạch máu bao gồm cầu nối cảnh-dưới đòn, chuyển vị động mạch cảnh, cầu nối nách-nách, có tỉ lệ thông mạch trên 70% trong 5 năm. Tuy nhiên, tỉ lệ thành công trên 80% nếu động mạch cảnh chung được dùng làm cầu nối.
+
+
+== Một vài hình ảnh ==
+
+
+== Xem thêm ==
+Bệnh động mạch ngoại biên
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Hội chứng cướp máu động mạch dưới đòn - emedicine.com
+Bản mẫu:Cerebrovascular diseases

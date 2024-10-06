@@ -1,0 +1,81 @@
+Sốt là dấu hiệu y khoa thông thường đặc trưng bởi sự gia tăng nhiệt độ cơ thể cao hơn khoảng dao động bình thường của nhiệt độ cơ thể người là 36.5–37.5 °C (98–100 °F).
+Sốt thường là đáp ứng của cơ thể với một bệnh nhiễm trùng, thường kéo dài hơn 2 đến 3 ngày. Ngoài ra, sốt còn có thể do những bệnh không nhiễm trùng khác, tiếp xúc với nước nóng, tập thể dục, sau chích ngừa hoặc khóc nhiều cũng làm tăng thân nhiệt.
+
+
+== Các giai đoạn của sốt ==
+Sốt gồm ba giai đoạn:
+
+Sốt tăng: tăng sản nhiệt, giảm thải nhiệt làm nhiệt độ bên trong cơ thể cao hơn nhiệt độ môi trường. Lúc này, bệnh nhân cảm thấy ớn lạnh, rét run, giảm đổ mồ hôi, da khô và nóng,...
+Sốt đứng: tỉ lệ sản nhiệt/thải nhiệt = 1, cơ thể vẫn còn nóng nhưng đã đỡ hơn, thân nhiệt vẫn cao, da khô, không đổ mồ hôi và ít đi tiểu
+Sốt lui: sản nhiệt giảm, thải nhiệt tăng, lúc này cơ thể bệnh nhân vã mồ hôi nhiều, tiểu nhiều, nền nhiệt cơ thể hạ xuống, cảm thấy lạnh
+
+
+== Nguyên nhân ==
+Sốt là triệu chứng thông thường của nhiều bệnh:
+
+Các bệnh truyền nhiễm như cúm, HIV, sốt rét, hoặc Covid19- SARS-CoV2
+Các loại viêm khác nhau như nhọt, mụn, trứng cá, hoặc áp xe
+Các bệnh tự miễn như lupus đỏ, Sarcoidosisban, sarcoidosis
+Cơ thể phản ứng với sự bất tương hợp giữa các nhóm máu
+Ung thư
+Các bệnh rối loạn tiêu hóa như gút hay bệnh ma cà rồng (porphyria)
+Truyền protein lạ vào cơ thể để gây sốt nhầm mục đích điều trị
+Tiêm muối dưới da hay tiêm bắp gây ưu trương dẫn đến hủy hoại tổ chức và gây sốt.
+Mỡ dư thừa chèn vào trung khu thần kinh não bộ gây sốt.
+Sốt dai dẳng mà hiện nay y học vẫn chưa tìm được nguyên nhân được gọi là sốt không rõ nguồn gốc.
+
+
+== Cơ chế gây sốt ==
+Yếu tố trực tiếp gây ra cơn sốt trong cơ thể là các chất gây sốt nội sinh - là một loại protein được hình thành bên trong cơ thể. Ngày nay người ta đã tìm ra 11 chất gây sốt nội sinh, trong đó phổ biến nhất là các loại interleukin.
+Quá trình diễn ra sốt bắt đầu từ lúc tác nhân lạ xâm nhập vào cơ thể và tiết ra các chất gây sốt ngoại sinh (độc tố của vi sinh vật, bản thân tác nhân lạ,...). Chất gây sốt ngoại sinh kích thích các đại thực bào và bạch cầu trung tính tiết ra chất gây sốt nội sinh. Chất này tác động lên trung tâm điều nhiệt của cơ thể làm trung tâm này hoạt hóa acid arachidonic, làm sản sinh monoamin gây thay đổi setpoint (điểm đặt nhiệt) dẫn tới tăng sản nhiệt và giảm thải nhiệt toàn cơ thể, gây ra cơn sốt.
+Một con đường khác bắt đầu khi các lympho T kết hợp với kháng nguyên, sẽ tiết ra lymphokin kích hoạt bạch cầu đa nhân và đại thực bào tíết ra chất gây sốt nội sinh. Các diễn tiến tiếp sau đó là tương tự.
+
+
+== Các rối loạn trong sốt ==
+
+
+=== Rối loạn chuyển hóa ===
+Thoái hóa glucid diễn ra mạnh mẽ, tăng phân giải glycogen để làm tăng đường huyết, nếu sốt kéo dài sẽ tích nhiều acid lactic gây toan hóa máu
+Thoái hóa lipid, protid cũng được tăng cường để đáp ứng nhu cầu cơ thể, tạo ra nhiều sản phẩm trung gian gây hại cho nội môi
+Ngoài ra, cơ thể còn đòi hỏi các vitamin B và C, hormon aldosterol và ADH,...
+
+
+=== Rối loạn các cơ quan ===
+Tăng nhịp tim, tần số mạch đập
+Tăng thông khí, thở nhanh và sâu
+Ăn uống không ngon miệng do giảm tiết men và giảm co bóp ống tiêu hóa
+Đa niệu trong giai đoạn sốt tăng và sốt lui, thiểu niệu trong giai đoạn sốt đứng.
+Tăng ACTH, tăng chức năng gan, tăng hệ miễn dịch
+
+
+== Các loại sốt ==
+Sốt liên tục: sốt cao kéo dài qua các ngày, thường gặp trong sốt thương hàn, viêm phổi
+Sốt ngắt quãng: sốt một ngày sau đó hạ trong vài ngày rồi lại sốt trở lại, thường có chu kì gặp trong sốt rét
+Sốt hồi quy: sốt cao rồi giảm dần, sau đó sốt trở lại, gặp trong nhiễm xoắn khuẩn Lepstopira
+Sốt dao động: sốt ở một khoảng thời gian nhất định trong ngày, sau đó giảm sốt, gặp trong lao phổi hoặc viêm đường hô hấp trên
+
+
+== Điều trị ==
+
+Để điều trị sốt đúng cách cần phải biết nguyên nhân gây ra sốt.
+Trong hầu hết các trường hợp, ngoại trừ tăng thân nhiệt, thì acetaminophen hoặc ibuprofen đều có thể làm hạ thân nhiệt. Nên cung cấp thêm dịch cho cơ thể qua đường miệng hoặc tiêm tĩnh mạch để chống mất nước nếu cần thiết.
+Sốt do nhiễm siêu vi (sốt siêu vi) có thể tự khỏi. Có thể bệnh nhân sẽ được cho những loại thuốc điều trị những triệu chứng đặc biệt khác. Có thể đó là những loại thuốc làm giảm thân nhiệt, trị nghẹt mũi, giảm đau họng hoặc trị sổ mũi. Virus có thể gây nôn ói và tiêu chảy và cần phải truyền dịch qua đường tĩnh mạch cùng với dùng thuốc để làm chậm lại tốc độ tiêu chảy và nôn ói. Một số ít loại nhiễm siêu vi có thể được điều trị bằng thuốc kháng siêu vi, trong đó có Herpes và influenza virus. Nếu bệnh nhân có thể uống nước được và triệu chứng nhẹ, bệnh nhân có thể về nhà được mà không cần ở lại bệnh viện.
+Những bệnh nhiễm vi khuẩn cần phải có loại thuốc kháng sinh đặc hiệu để điều trị tùy thuộc và loại vi khuẩn được tìm thấy và nơi ở của nó trong cơ thể người. Các bác sĩ sẽ xác định xem người bệnh có cần phải nhập viện không hay có thể ra về được. Quyết định tùy thuộc vào bệnh hiện tại và những bệnh kèm theo khác của bệnh nhân.
+Hầu hết những trường hợp nhiễm nấm đều có thể được điều trị bằng thuốc kháng nấm.
+Sốt do thuốc có thể giảm sau khi ngưng thuốc.
+Nếu bị huyết khối thuyên tắc, bạn nên đến bệnh viện và sử dụng thuốc tán huyết.
+Đối với bệnh nhân bị sốt do tiếp xúc với nhiệt độ nóng ở môi trường cần phải được làm mát bằng cách cởi bỏ hết quần áo, mở quạt có phun sương, theo dõi sát dấu hiệu sinh tồn.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Rhoades, R. and Pflanzer, R. Human physiology, xuất bản lần 3, chương 27 Regulation of body temperature, tr. 820 Clinical focus: pathogenesis of fever. ISBN 0-03-005159-2
+
+
+== Liên kết ngoài ==
+What to do if your child has a fever Lưu trữ 2007-10-20 tại Wayback Machine from Seattle Children's Hospital
+Fever and Taking Your Child's Temperature
+US National Institute of Health factsheet
+BUPA factsheet Lưu trữ 2006-07-06 tại Wayback Machine

@@ -1,0 +1,138 @@
+Rối loạn mỡ máu (tiếng Anh: Dyslipidemia) là tên gọi một số bệnh do xáo trộn các chất mỡ trong máu: hoặc quá nhiều hoặc quá ít các chất lipoprotein. Bệnh thường biểu hiện qua độ tăng cholesterol, tăng loại lipoprotein "xấu" (LDL), tăng loại triglyceride hoặc thiếu loại lipoprotein "tốt" (HDL).
+
+
+== Sơ lược về mỡ máu ==
+
+
+=== Cholesterol ===
+
+Cholesterol là một chất mềm, bóng như sáp, tìm thấy trong các loại mỡ trong máu. Mỗi ngày cơ thể con người (nhất là gan) chế tạo ra khoảng 1g cholesterol. Phần lớn, cholesterol được đem vào cơ thể qua thức ăn như lòng đỏ trứng, thịt, cá, đồ biển, sữa nguyên chất. Trái cây, rau cải, đậu, hạt không có cholesterol.
+Cholesterol là một phần quan trọng của cơ thể, được dùng trong cấu tạo của màng tế bào, của một số hormone và một số các công dụng khác trong cơ thể. Nhưng có quá nhiều cholesterol trong máu là một nguy cơ lớn, có khả năng gây bệnh về tim mạch, nhất là nhồi máu cơ tim và tai biến mạch máu não.
+Vì là chất mỡ, không hòa tan trong nước được, cholesterol và các chất mỡ như triglycerides, phải kết hợp với những khối tạp dễ tan trong nước là lipoprotein để dễ di chuyển trong máu. Vì thế, khi xét nghiệm lượng mỡ trong máu, ngoài tổng số cholesterol, người ta còn phân tích cholesterol theo các loại lipoprotein trong máu.
+
+
+=== Lipoprotein ===
+
+Lipoprotein là tập hợp những khối tạp gồm mỡ và đạm trong máu dùng cho việc chuyên tải cholesterol và triglycerides. Chất mỡ phospholipid bọc bên ngoài có khả năng hòa nước, chất mỡ nằm bên trong lõi có kèm chất apoprotein. Các mô trong cơ thể có thể nhận ra chất apoprotein và tiếp nhận lipoprotein.
+Lipoprotein được chia làm nhiều loại tùy theo tỷ trọng (density).
+
+HDL-c (tỷ trọng cao) - khoảng một phần 3 tổng số cholesterol được mang trong HDL. Giới y học cho rằng HDL thường đem cholesterol ra khỏi động mạch trở về gan và sau đó bài tiết ra khỏi cơ thể. Một số khác còn cho rằng HDL "hốt" cholesterol ứ thừa trong các mảng xơ vữa và làm chậm sự phát triển của những mảng này. Vì thế, HDL thường có mệnh danh là loại "cholesterol có ích". HDL càng thấp thì cơ hội bị bệnh tim mạch càng cao, và ngược lại, HDL cao có thể làm giảm cơ hội bị bệnh tim mạch.
+IDL-c (tỷ trọng trung)
+LDL-c (tỷ trọng thấp) - ngược lại với HDL, LDL có mệnh danh là "cholesterol xấu". Khi có quá nhiều LDL, cholesterol bị đưa vào các màng của động mạch, dấn dần làm hẹp đường kính của mạch. Sau đó, kết hợp với các chất khác trong màng của thành động mạch tạo thành những mảng xơ vữa (tiếng Anh: atherosclerosis). Những mảng này có thể bị rạn nứt làm cho thành động mạch không được trơn tru. Khi chảy qua những chỗ "gồ ghề" này, dòng máu dễ bị hỗn loạn không đều, trì trệ và dễ đông lại thành cục máu đông (tiếng Anh: thrombus). Cục máu đông này có thể phát triển theo kiểu "phù sa bồi đắp", lớp lớp chồng lên nhau, có lúc dày đủ để làm nghẽn động mạch. Nếu trường hợp này xảy ra trong động mạch vành tim thì kết quả là nghẽn mạch tim, gây chứng nhồi máu cơ tim. Trong trường hợp cục máu đông bị sút ra khỏi thành động mạch, trôi theo dòng máu cho đến khi kẹt vào một mạch có đường kính nhỏ và hơn làm nghẽn mạch ấy. Nếu chẳng may đấy là mạch dẫn máu của não thì kết quả là chứng tai biến mạch máu não.
+VLDL-c (tỷ trọng cực thấp)
+
+
+== Liên hệ bệnh tim mạch ==
+Tăng mức cholesterol, hay đúng hơn, tăng LDL-cholesterol (LDL-c) là nguyên nhân chính của chứng xơ vữa làm nghẽn mạch vành tim đem đến chứng đau thắt ngực, nhồi máu cơ tim, chết bất ngờ, và suy tim. Hiện nay, khoa học khẳng định hoàn toàn rằng giảm lượng LDL-c trong máu sẽ đem đến giảm cơ hội bệnh mạch vành tim.
+Ngoài ra, nếu số Triglycerides cao và HDL-c thấp sẽ làm tăng độ nguy hại của LDL-c, do đó hai chất này phải được lưu ý.
+
+
+=== Triglycerides ===
+Khi Triglycerides (TG) tăng sẽ có biểu hiện tăng Very-Low-Density-Lipoprotein-Cholesterol (VLDL-c). Do đó, hai chất này có thể được coi như đồng dạng. Khi TG tăng đến 4 mmol/L, cơ hội bệnh tim lên đến 25% (Nhưng khi tăng quá 4 mmol/L cơ hội cũng chỉ nằm ở 25%).
+Tăng TG có thể là do: 
+
+bệnh mỡ máu di truyền (familial combined hyperlipoproteinaemia),
+chứng cao mỡ loại 3 (type 3 hyperlipoproteinemia - chứng này do tăng Intermediate-Density-Lipoprotein-Cholesterol (IDL-c), dạng mỡ trước khi chuyển hóa thành LDL-c)
+Một chứng bệnh hiếm là tăng chất thải của chylomicron cũng làm tăng cơ hội bệnh vành tim, nhưng không rõ tỉ lệ là bao nhiêu.
+
+
+=== HDL-c ===
+Khi HDL-c tụt thấp sẽ làm tăng cơ hội bệnh vành tim, nhưng ngược lại, không có cuộc nghiên cứu nào khẳng định được rằng điều trị gây tăng HDL-c sẽ làm bệnh khả quan hơn. Tuy nhiên, trong cuộc khảo cứu Apo A1 Milano cho thấy chuyền HDL-c apoproprotein vào máu đem đến thuyên giảm của xơ vữa trong động mạch.
+HDL-c là một yếu tố liên hệ tim mạch quan trọng nhất là khi bị giảm xuống dưới 1.0 mmol/L. Ở hai bệnh nhân có cùng lượng LDL-c và TG, bệnh nhân có HDL-c mức 0.5 mmol/L có cơ hội bệnh tim mạch gấp 3 lần bệnh nhân có HDL-c ở mức 1.2 mmol/L.
+Ngay cả khi LDL-c nằm ở mức tốt (<2.5 mmol/L), giảm HDL-c vẫn làm tăng cơ hội bệnh tim mạch.
+
+
+=== Lipoprotein(a) ===
+Lipoprotein(a) là một chất giống như LDL-c nhưng có chất apoprotein đặc biệt đính vào. Khoảng năm 1985, khoa học đã biết tăng lipoprotein(a) trên 300 mg/dL làm tăng 3 lần cơ hội bệnh tim mạch, độc lập với những yếu tố nguy cơ khác. Đây là một chứng bệnh di truyền, không thể điều trị bằng thay đổi cách ăn uống hay tập thể thao, và chưa có thuốc trị công nghiệm.
+
+
+== Điều trị ==
+
+Để điều trị chứng rối loạn chuyển hóa lipid máu, cần phải điều hòa cholesterol trong máu. Điều này được thực hiện chủ yếu bởi sự thay đổi trong lối sống như thay đổi chế độ dinh dưỡng và tăng hoạt động thể chất. Tuy nhiên thay đổi lối sống vẫn không đủ để giảm cholesterol trong máu mà cần kết hợp thêm dược phẩm. Thuốc chống rối loạn chuyển hóa lipid máu thường có một hoặc nhiều các thành phần sau đây:
+
+Statin là enzyme tổng hợp ức chế cholesteron
+Fibrate
+Axit Nicotinic
+Anion
+Β-sitosterol
+GDL-5
+Chúng ta phân biệt 3 nhóm tăng mỡ máu:
+
+Tăng cholesterol: chỉ có mức độ cholesterol được tăng lên, các mức lipid máu khác là bình thường. Đối với điều trị, hầu như tất cả các loại tác nhân hạ lipid máu được sử dụng.
+Lipid máu hỗn hợp: cả hai cholesterol và các triglyceride đều tăng, các liệu pháp thường được sử dụng là statin và/hoặc fibrate.
+Tăng triglyceride máu: chỉ có các chất béo trung tính bị tăng lên, các mức lipid máu khác bình thường. Các bác sĩ điều trị sử dụng chủ yếu là axit nicotinic và/hoặc fibrate.
+
+
+=== Chỉ tiêu ===
+Theo Quỹ Tim Học Quốc gia Úc (đơn vị mmol/L) 
+
+Trên thực tế thì có ba dạng chính cần điều trị:
+
+Tăng tổng số cholesterol (đa số là do tăng LDL-c)
+Tăng nhiều loại mỡ (thường là tăng VLDL-c và LDL-c)
+HDL-c thấp (hiếm hơn)
+Thông thường, tổng sô Choletserol và TG nên được xét nghiệm dựa theo lượng LDL-c và HDL-c.
+Điều trị thường đi theo các bước: điều độ ăn uống ↔ sửa đổi lối sống → thuốc thực phẩm → dược phẩm
+Khi bắt đầu chữa phải có mục tiêu rõ ràng để biết công nghiệm điều trị như thế nào. Thí dụ, người không có bệnh thì sẽ mục tiêu khác với người đã có bệnh hay người có nhiều cơ hội bệnh. Xem bảng trên.
+Chú giải (*):  "tương đương" - Một số người tuy chưa bị bệnh mạch vành tim nhưng có đủ các điều kiện nguy cơ như trong gia đình có người bị bệnh, đái tháo đường với biến chứng có albunim trong nước tiểu (microalbuminuria), cộng với hai trong ba yếu tố khác như béo phì, hút thuốc lá, tăng huyết áp. Những người này được liệt vào hạng "tương đương" coi như đã có bệnh tim mạch. Những người có bệnh động mạch ở nơi khác như tay, chân, não v.v... cũng coi như sẽ có bệnh mạch vành tim trong 5-10 năm sau.
+
+
+=== Mục tiêu điều trị bệnh mỡ máu ===
+
+Mục tiêu điều trị ở bệnh nhân tăng Triglycerid:
+- Nồng độ Triglycerid trong máu Từ:1,695 – 2,249 mmol/L. Mục tiêu điều trị chính vẫn là giảm LDL-C (theo chỉ số LDL-C trong máu)
+- Từ: 2,26 – 5,639 mmol/L Điều trị làm giảm LDL-C bằng Statin hoặc kết hợp thêm Nicotinic acid hoặc thêm Fenofibrat một cách thận trọng
+- Nồng độ trong máu ≥ 5,56 mmol/L Cần điều trị giảm nhanh để tránh viêm tụy cấp, sau khi Triglycerid < 5,65mnol/L thì mục tiêu điều trị chính lại là chỉ số LDL-C trong máu
+Trong đó khái niêm:
++ Bệnh tương đương: tức là bệnh có giá trị để phân nhóm bệnh nhân như mắc bệnh mạch vành, đó là: Bệnh động mạch ngoại biên, phình động mạch chủ bụng, bệnh động mạch cảnh.
++ Khái niệm nguy cơ: Đó là các yếu tố làm tác động đến rối loạn mỡ máu, đó là: Hút thuốc lá, tăng huyết áp (huyết áp > 140/90), nồng độ HDL thấp < 1,03 mmol/L, gia đình có người mắc bệnh động mạch vành
+
+
+== Chế độ ăn uống ==
+Những điều cần lưu ý về chế độ dinh dưỡng : 
+Để giảm cholesterol trong máu, chế độ ăn chỉ được cung cấp dưới 30% calo từ chất béo – Tránh ăn mỡ động vật (mỡ lợn, bơ, mỡ bò…) và kem sữa bò: Những thực phẩm này chứa nhiều chất béo no, những chất rất dễ làm tắc động mạch. Cách tốt nhất là chọn toàn thịt nạc, nếu ăn thịt gia cầm thì nên bỏ da. Nếu dùng các thức ăn từ sữa thì nên chọn loại đã tách kem (còn gọi là sữa gầy). Ngay cả sữa chua hay pho mát cũng nên chọn loại làm từ sữa gầy hoặc sữa có hàm lượng chất béo chỉ 1-2%.
+Nên
+
+Nên ăn những loại thực phẩm có chứa hàm lượng cholesterol thấp như rau xanh, các sản phẩm được làm từ đậu, thịt nạc thăn… Đặc biệt là nên ăn những loại rau xanh có chứa nhiều chất xơ. Chỉ có như vậy thì mới làm giảm được sự hấp thụ của đường ruột đối với cholesterol.
+Nên ăn nhạt vì thức ăn này có lợi cho sức khoẻ và bệnh tim. Kiêng thức ăn có nồng độ chất béo cao, nên ăn những thức ăn ít chất béo như cá, đậu phụ, đỗ tương.
+Nên ăn thực phẩm có nhiều tác dụng giảm mỡ trong máu như: Gừng, chế phẩm đậu sữa, nấm hương, mộc nhĩ, hành tây, ba ba, trà, dầu ngô.
+Nên uống thật nhiều nước trong ngày
+Nên dùng dầu thay cho mỡ động vật (dầu đậu nành, dầu hướng dương, dầu ô liu…)
+Ăn nhiều rau quả và trái cây tươi loại ít ngọt (khoảng 500g mỗi ngày), nên ăn trái cây nguyên cả xác hơn là ép lấy nước uống.
+Ăn nhiều tỏi
+Mỗi tuần nên có ít nhất là 3 ngày ăn cá và 1 ngày ăn đậu (đậu hũ, đậu ve, đậu xanh…) thay cho ăn thịt.
+Nếu ăn thịt, nên chọn các loại thịt nạc không lẫn mỡ, da và gân.
+Nếu ăn tôm, cua, ghẹ… nên bỏ phần gạch.
+Mỗi tuần chỉ nên dùng 2 quả trứng gà hoặc vịt.
+Nạp đủ axit folic: Nếu hàm lượng axit này trong máu quá thấp thì hàm lượng homocystein sẽ tăng, dẫn đến nguy cơ bị bệnh tim. Các nhà nghiên cứu khuyến cáo nên nạp mỗi ngày 400 microgram axit folic qua các thực phẩm như rau chân vịt, nước ép trái cam, bánh mì, lạc, đậu trắng và mầm lúa mì.
+Không nên
+
+Không nên ăn tối quá muộn với thức ăn nhiều đạm vì rất khó tiêu hoá và sẽ làm lượng cholesterol đọng trên thành động mạch dẫn đến xơ vữa động mạch.
+Thường xuyên dùng các món chiên xào.
+Ăn thường xuyên các thực phẩm có hàm lượng cholestrol cao (ví dụ: óc heo, mỡ, da gà, da vịt, da heo, lòng đỏ trứng, chân giò, bò gân, đồ lòng, xí quách…)
+Ăn quá nhiều đồ ngọt (ví dụ: chè, mứt, kẹo, bánh kem, kem, nước ngọt, nước tăng lực, nước trái cây đóng hộp, …)
+Ăn các thức ăn như bơ thực vật dạng thỏi và bánh, bánh nướng lò, sản phẩm dạng rán như khoai tây rán, mì ăn liền và nhiều thức ăn công nghiệp chế biến sẵn khác. Trong những thức ăn này có axit béo dạng trans, có thể làm tăng lượng cholesterol máu. Để tránh axit này, nếu muốn phết bơ lên bánh mì hãy chọn loại bơ thực vật mềm.
+Uống quá nhiều rượu, bia (tuy nhiên nếu điều độ mỗi ngày uống 1 ly nhỏ rượu vang đỏ sẽ tốt cho mạch máu)
+Hút thuốc lá.
+
+
+== Yếu tố liên hệ ==
+Béo phì
+Hội chứng chuyển hóa X
+Đái tháo đường
+Xơ vữa động mạch
+Đột quỵ
+Nhồi máu cơ tim
+Tai biến mạch máu não
+
+
+== Liên kết ngoài ==
+http://dantri.com.vn/c7/s162-441436/ph242ng-v224-dieu-tri-mo-m225u-cao.htm Điều trị Mỡ maú cao
+Dyslipidemia
+Cholesterol
+Statins Lưu trữ 2006-06-25 tại Wayback Machine
+Hội chứng chuyển hóa X Lưu trữ 2007-02-14 tại Wayback Machine
+Các biến chứng của Rối Loạn Mỡ Máu
+
+
+== Chú thích ==

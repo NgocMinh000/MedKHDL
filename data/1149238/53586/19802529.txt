@@ -1,0 +1,95 @@
+Đường cong học tập là một biểu đồ về mối quan hệ giữa mức độ thành thạo của một người trong một nhiệm vụ và lượng kinh nghiệm họ có. Mức độ thành thạo (được đo trên trục tung - Oy) thường tăng lên cùng với kinh nghiệm gia tăng (trục hoành - Ox), nghĩa là, càng nhiều người, nhóm, công ty hoặc ngành thực hiện một nhiệm vụ thì hiệu suất của họ trong nhiệm vụ càng cao.
+Cách diễn đạt phổ biến rằng "đường cong học tập dốc" là một cách gọi sai cho thấy rằng một hoạt động khó học và việc bỏ ra nhiều nỗ lực không làm tăng trình độ thành thạo lên bao nhiêu, mặc dù đường cong học tập với điểm khởi đầu dốc thực sự thể hiện sự tiến bộ nhanh chóng. Trên thực tế, độ dốc của đường cong không liên quan gì đến độ khó tổng thể của một hoạt động, mà thể hiện tốc độ thay đổi dự kiến ​​của tốc độ học theo thời gian. Một hoạt động dễ học những điều cơ bản nhưng khó đạt được thành thạo, có thể được mô tả là có "đường cong học tập dốc".
+
+
+== Lịch sử ==
+Đường cong học tập có thể đề cập đến một nhiệm vụ cụ thể hoặc một khối kiến ​​thức. Hermann Ebbinghaus lần đầu tiên mô tả đường cong học tập vào năm 1885 trong lĩnh vực tâm lý học, mặc dù cái tên này không được sử dụng cho đến năm 1903. Năm 1936, Theodore Paul Wright đã mô tả ảnh hưởng của việc học tập đối với chi phí sản xuất trong công nghiệp máy bay. Hình thức này, trong đó chi phí đơn vị được vẽ trên tổng sản lượng, đôi khi được gọi là đường cong kinh nghiệm.
+
+
+== Mô hình toán học và ví dụ ==
+Đường cong học tập là một đồ thị thể hiện mối liên hệ của học tập (sự thành thạo hoặc tiến tới một giới hạn) với kinh nghiệm.
+
+Trục hoành biểu thị thời gian trải nghiệm (thời gian đồng hồ hoặc thời gian dành cho hoạt động) hoặc yếu tố có liên quan đến thời gian (số lượng thử nghiệm hoặc tổng số đơn vị được sản xuất).
+Trục tung là thước đo đại diện cho 'học tập' hoặc 'sự thành thạo' hoặc đại diện khác cho "hiệu quả" hoặc "năng suất". Nó có thể tăng (ví dụ: điểm trong bài kiểm tra) hoặc giảm (thời gian hoàn thành bài kiểm tra).
+Khi kết quả của một số lượng lớn các thử nghiệm riêng lẻ được lấy trung bình thì kết quả là một đường cong trơn, thường có thể được mô tả bằng một hàm toán học.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Một số chức năng chính đã dùng:
+
+Hàm S-Curve là hình thức chung của các đường cong học tập, mô tả các bước nhỏ tích lũy dần trước, sau đó là các bước lớn hơn, tiếp theo là các bước nhỏ hơn cho đến khi đạt giới hạn của nó. Đây là mô hình giải thích việc tìm hiểu điều gì đó bắt đầu từ một điểm xuất phát thấp rồi dần dần thành thạo và đạt giới hạn của việc tìm hiểu về điều đó.
+Tăng trưởng theo cấp số nhân: trình độ có thể tăng không giới hạn.
+Tăng/giảm theo cấp số nhân đến giới hạn: Sự gia tăng kỹ năng hoặc khả năng lưu giữ thông tin có thể tăng nhanh đến tốc độ tối đa trong những lần thử ban đầu, sau đó giảm dần, nghĩa là kỹ năng của đối tượng không cải thiện nhiều sau mỗi lần lặp lại sau đó, với ít kiến ​​​​thức mới thu được hơn theo thời gian.
+Luật quyền lực: có hình thức tương tự như hàm phân rã theo cấp số nhân và hầu như luôn được sử dụng cho chỉ số hiệu suất giảm dần, chẳng hạn như chi phí.
+Trường hợp cụ thể của biểu đồ Chi phí đơn vị so với Tổng sản lượng với quy luật lũy thừa được đặt tên là đường cong kinh nghiệm, mô tả bởi hàm toán học, gọi là Định luật Henderson. Dạng đường cong học tập này được sử dụng rộng rãi trong công nghiệp để dự đoán chi phí.
+
+
+== Các ứng dụng ==
+
+
+=== Tâm lý học ===
+Các bài kiểm tra của Hermann Ebbinghaus liên quan đến việc ghi nhớ hàng loạt âm tiết vô nghĩa và ghi lại thành công qua một số lần thử nghiệm. Bản dịch không sử dụng thuật ngữ 'đường cong học tập' - nhưng ông đã trình bày sơ đồ học hỏi so với số thử nghiệm. Ông cũng lưu ý rằng điểm số có thể giảm hoặc thậm chí dao động.
+Lần đầu tiên sử dụng thuật ngữ 'đường cong học tập' được biết đến là từ năm 1903: "Bryan và Harter đã tìm thấy trong nghiên cứu của họ về việc tiếp thu ngôn ngữ điện báo, một đường cong học tập có tốc độ tăng nhanh lúc đầu, sau đó là một khoảng thời gian chậm hơn. Do đó, đồ thị lồi với trục thẳng đứng." 
+Nhà tâm lý học Arthur Bills đã mô tả chi tiết hơn về các đường cong học tập vào năm 1934. Ông cũng thảo luận về các đặc tính của các loại đường cong học tập khác nhau, chẳng hạn như gia tốc âm, gia tốc dương, đường bình nguyên và đường cong ogive.
+
+
+=== Kinh tế học ===
+Năm 1936, Theodore Paul Wright đã mô tả tác động của việc học đối với chi phí sản xuất trong ngành công nghiệp máy bay và đề xuất một mô hình toán học của đường cong học tập.
+Năm 1968, Bruce Henderson của Boston Consulting Group (BCG) (Tập đoàn tư vấn Boston) đã khái quát hóa mô hình Chi phí đơn vị do Wright tiên phong và đặc biệt sử dụng Luật lũy thừa, đôi khi được gọi là Luật Henderson. Ông đặt tên cho phiên bản cụ thể này là "đường cong kinh nghiệm". Nghiên cứu của BCG trong những năm 1970 đã quan sát thấy hiệu ứng đường cong kinh nghiệm đối với các ngành công nghiệp khác nhau dao động từ 10 đến 25 phần trăm.
+
+
+=== Học máy ===
+Các lô/mảnh liên quan đến hiệu suất để trải nghiệm được sử dụng rộng rãi trong học máy. Hiệu suất là tỷ lệ lỗi hoặc độ chính xác của hệ thống học tập, trong khi kinh nghiệm có thể là số ví dụ đào tạo được sử dụng để học hoặc số lần lặp lại được sử dụng để tối ưu hóa các tham số mô hình hệ thống. Đường cong máy học hữu ích cho nhiều mục đích bao gồm so sánh các thuật toán khác nhau, chọn tham số mô hình trong quá trình thiết kế, điều chỉnh tối ưu hóa để cải thiện sự hội tụ và xác định lượng dữ liệu được sử dụng để đào tạo.
+
+
+=== Trò chơi điện tử ===
+Trong trò chơi điện tử, "đường cong học tập" là "đường cong độ khó", mô tả mức độ khó của trò chơi khi người chơi tiến bộ trong trò chơi và yêu cầu người chơi trở nên thành thạo hơn với trò chơi, hiểu rõ hơn về cơ chế của trò chơi và/hoặc dành thời gian "mài giũa" để cải thiện nhân vật của mình.
+Đối với nhà sản xuất, việc thiết lập đường cong độ khó phù hợp là một phần để đạt được sự cân bằng trò chơi trong một tựa game. Đối với các đường cong học tập trong môi trường giáo dục, các đường cong độ khó có thể có vô số hình dạng và các trò chơi thường có thể cung cấp nhiều mức độ khó khác nhau làm thay đổi hình dạng của đường cong này so với hình dạng mặc định của nó để làm cho trò chơi khó hơn hoặc dễ dàng hơn.
+Về mặt tối ưu, độ khó của trò chơi điện tử tăng tương ứng với khả năng của người chơi. Các trò chơi không được quá thách thức, không quá tầm thường và cũng không quá ngẫu nhiên. Người chơi sẽ tiếp tục chơi miễn là trò chơi được coi là có thể thắng được. Do đó, điều này được gọi là ảo tưởng về khả năng chiến thắng. Để tạo ảo giác về khả năng chiến thắng của trò chơi có thể bao gồm: giá trị bên trong (cảm giác hướng tới mục tiêu và được khen thưởng vì mục tiêu đó) do xung đột có thể tạo ra bởi môi trường đối kháng và sự hồi hộp do câu chuyện dẫn dắt dưới hình thức xây dựng thế giới.
+
+
+== Mở rộng ==
+Ban đầu, thuật ngữ này được giới thiệu trong tâm lý học giáo dục và hành vi. Theo thời gian, thuật ngữ này đã được giải thích rộng hơn qua các thuật ngữ như "đường cong kinh nghiệm", "đường cong cải thiện", "đường cong cải thiện chi phí", "đường cong tiến độ", "hàm tiến trình", "khởi nghiệp cong" và "đường cong hiệu quả", có thể thay thế cho nhau trong một số trường hợp. Trong kinh tế học, chủ đề là tỷ lệ "phát triển", vì sự phát triển đề cập đến toàn bộ quá trình học tập của hệ thống với các tỷ lệ tiến triển khác nhau. Nói chung, tất cả quá trình học tập đều thể hiện sự thay đổi gia tăng theo thời gian, nhưng mô tả một đường cong chữ "S" có hình dạng khác nhau tùy thuộc vào thang thời gian quan sát, trạng thái cân bằng và các loại thay đổi mang tính cách mạng khác trong các hệ thống phức tạp nói chung, liên quan đến đổi mới, hành vi tổ chức và quản lý học tập nhóm, và nhiều lĩnh vực khác. Các quá trình của dạng mới xuất hiện nhanh chóng này dường như diễn ra bằng cách học phức tạp trong chính các hệ thống, khi có thể quan sát được, hiển thị các đường cong tốc độ thay đổi tăng tốc và giảm tốc.
+
+
+== Văn hóa sử dụng ==
+Thuật ngữ "đường cong học tập dốc" thường được sử dụng với ý nghĩa ngược lại. Thuật ngữ này thường được sử dụng trong tiếng Anh thông dụng với nghĩa chỉ quá trình học tập khó khăn ban đầu.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+Thuật ngữ 'đường cong học tập' với nghĩa 'dễ' và 'khó' có thể được mô tả bằng các tính từ như 'ngắn' và 'dài' hơn là 'dốc' và 'nông'. Nếu hai sản phẩm có chức năng tương tự nhau thì sản phẩm có đường cong "dốc" có lẽ tốt hơn, vì có thể học được trong thời gian ngắn hơn. Mặt khác, nếu hai sản phẩm có chức năng khác nhau, thì sản phẩm có đường cong ngắn (thời gian tìm hiểu ngắn) và chức năng hạn chế có thể không tốt bằng sản phẩm có đường cong dài (thời gian tìm hiểu lâu) và chức năng lớn hơn.
+
+
+== Xem thêm ==
+Đường cong lãng quên Ebbinghaus
+Tốc độ học tập
+Đường cong Phillips
+Đường cong Laffer
+Đường cong đại số
+Đường cong sinh tồn
+Đường cong Lorenz
+
+
+== Tham khảo ==

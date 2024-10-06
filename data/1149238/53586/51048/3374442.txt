@@ -1,0 +1,9 @@
+Trong lý thuyết điều khiển tự động và điều khiển học, điểm đặt là những giá trị mong muốn hoặc mục tiêu của một biến quan trọng của một hệ thống, thường được sử dụng để mô tả một cấu hình hoặc quy tắc tiêu chuẩn cho hệ thống đó. Hành trình của một biến từ điểm đặt là cơ sở cho quá trình điều khiển sai số, có nghĩa là, việc sử dụng tín hiệu phản hồi để đưa hệ thống về chuẩn mực của nó, giống như trong quá trình nội cân bằng. Ví dụ, một nồi hơi có  điểm đặt nhiệt độ, là nhiệt độ mà hệ thống điều khiển lò hơi có nhiệm vụ phải duy trì trong quá trình làm việc của nó.
+
+
+== Xem thêm ==
+Điều khiển quá trình
+Bộ điều khiển PID
+
+
+== Tham khảo ==

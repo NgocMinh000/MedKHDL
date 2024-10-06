@@ -1,0 +1,54 @@
+Hệ giác quan, hệ thần kinh cảm giác và hệ thần kinh giác quan, là một phần của hệ thần kinh có chức năng thu nhận các thông tin từ các giác quan. Năm bộ phận của cơ thể con người và động vật khác (năm giác quan) có tác dụng cảm nhận các kích thích của môi trường bên ngoài cơ thể, các cơ quan này bao gồm thị giác, thính giác, vị giác, khứu giác và xúc giác.
+
+
+== Tổng quan ==
+Việc kích thích từ các giác quan trên sẽ tạo ra các tín hiệu điện, đa số các tín hiệu được truyền đến vỏ não, các phần còn lại truyền đến tiểu não. Mỗi giác quan gồm 3 phần: 1/ bộ phận cảm biến các năng lượng kích thích thành các hưng phấn thần kinh/tín hiệu; 2/ bộ phận dẫn truyền thần kinh; và 3/bộ phận phân tích ở vỏ não chuyển hưng phấn thành cảm giác.
+
+
+== Thị giác ==
+
+Thị giác là khả năng tiếp nhận và diễn giải thông tin từ môi trường có ánh sáng đi vào mắt. Việc tri giác này còn được gọi là thị lực, tầm nhìn.
+Hệ thị giác cho phép con người thu nhận và xử lý thông tin từ môi trường. Hành động nhìn bắt đầu từ khi thấu kính của mắt điều chỉnh để thu được ảnh của cảnh vật xung quanh vào một màng lưới nhạy sáng nằm sau mắt (võng mạc). Về bản chất, võng mạc là một phần của tách biệt não bộ, hoạt động như là một máy biến đổi để chuyển đổi mẫu ánh sáng thành các tín hiệu thần kinh. Võng mạc có các tế bào nhạy với tác nhân kích thích là ánh sáng. Chúng phát hiện các quang tử kích thích và đáp ứng bằng cách sinh ra các xung/tín hiệu thần kinh. Các tín hiệu này được xử lý trong một cấu trúc thứ lớp gồm các phần khác nhau của não bộ, từ võng mạc đến các nhân cong ở biên, đến các vỏ não sơ cấp và thứ cấp.
+
+
+== Thính giác ==
+
+Thính giác là một trong năm giác quan. Đây là khả năng tiếp thu âm thanh bằng cách phát hiện các dao động qua một cơ quan ví dụ như tai.
+Ở con người và các động vật có xương sống khác, việc nghe được thực hiện chủ yếu bởi hệ thính giác: các dao động được tai phát hiện và chuyển thành các xung thần kinh mà bộ não thu nhận. Cũng như xúc giác, thính giác đòi hỏi sự nhạy cảm đối với chuyển động của các phân tử trong thế giới bên ngoài cơ thể. Cả thính giác và xúc giác đều là các loại cảm giác cơ học (mechanosensation)
+
+
+==== Thính giác ngoại vi ====
+Hệ thống thính giác ngoại vi chịu trách nhiệm về các quá trình sinh lý của thính giác. Đây là những quy trình cho phép tiếp nhận những âm thanh và chuyển đổi nó thành các xung điện có thể được gửi đến não thông qua các dây thần kinh thính giác.
+Thính giác ngoại vi là tai. Tai của con người được chia thành ba phần:
+
+Tai ngoài, là các kênh năng lượng âm thanh.
+Tai giữa, trong đó chuyển đổi năng lượng âm thanh thành năng lượng cơ học, truyền - và khuếch đại đến tai trong.
+Tai trong, thực hiện công việc chuyển đổi cuối cùng của năng lượng cơ học thành các xung điện.
+
+
+==== Thính giác trung tâm ====
+Hệ thống thính giác trung tâm bao gồm: 30.000 tế bào thần kinh được tạo thành dây thần kinh thính giác và truyền xung điện để não để xử lý, và vùng bộ não dành riêng cho việc xử lý tín hiện. Thông qua các dây thần kinh thính giác, não nhận được thông tin có chứa kiểu mẫu đặc trưng của mỗi âm thanh và so sánh với những khác biệt được lưu trữ trong bộ nhớ (kinh nghiệm quá khứ) để nhận dạng chúng. Mặc dù các thông tin nhận được không tương ứng với các thông tin được lưu trữ trong bộ nhớ, bộ não cũng cố gắng để thích ứng với một mô hình được biết đến với những người xem xét mà bạn mong muốn. Nếu nó không thể tìm thấy một mô hình tương tự như thông tin nhận được, bộ não có hai lựa chọn: nó từ chối hoặc lưu trữ. Nếu lưu trữ, sẽ tạo ra một mô hình mới có thể được so sánh.
+Hệ thống thính giác trung tâm cho phép cảm nhận. so sánh, phán đoán về âm thanh và những động tĩnh dù là nhỏ nhất hay cách xa đó, nó được biết đến như một sự cảm nhận đặc biệt nhưng phải có sự chắt lọc ghép nối với hệ thần kinh trung ương để có một kết luận chính xác.
+
+
+== Vị giác ==
+
+Vị giác là một hình thức cảm nhận hóa học trực tiếp. Vị giác là một trong năm giác quan của con người. Khái niệm vị giác đề cập đến khả năng phát hiện mùi vị của các chất như thực phẩm, một số khoáng chất và các chất độc (độc tố). Ở con người và động vật có xương sống khác, sự cảm nhận vị kết hợp với một phần cảm nhận mùi trong nhận thức của não về mùi vị. Ở phương Tây, người ta xác định được bốn cảm giác vị truyền thống: mặn, ngọt, chua và đắng. Trong khi đó người phương Đông quan niệm có năm vị cơ bản là mặn, ngọt, chua, cay và đắng, hoặc thậm chí là sáu vị (thêm vị umami). Vị giác là một chức năng cảm giác của hệ thần kinh trung ương. Các tế bào tiếp nhận vị của con người có trên bề mặt của lưỡi, dọc theo vòm miệng và trong biểu mô của họng và nắp thanh quản.
+
+
+== Khứu giác ==
+
+Khứu giác là một trong năm giác quan của con người và động vật. Giác quan này có tác dụng cảm nhận mùi. Ở người, cơ quan này là mũi.
+
+
+== Xúc giác ==
+
+Xúc giác là những cảm giác có được khi đụng chạm, tiếp xúc bằng da (qua tay, chân...).
+Những nhận thức này được coi là một trong năm giác quan của động vật có thể nhận biết hay ước lượng cấu tạo bề mặt, trọng lượng, độ lớn, độ nóng của vật chất hay đối tượng qua tiếp xúc bằng da, qua các động tác như rờ, nắn, nâng, cọ xát, ôm... Những nhận thức này được chuyển thẳng lên não và cho phép não đánh giá và xác định nhiệt độ, sự nguy hiểm (tạo cảm giác đau đớn, nóng lạnh... và tạo phỏng, bị thương)...
+
+
+== Xem thêm ==
+Giác quan
+
+
+== Chú thích ==

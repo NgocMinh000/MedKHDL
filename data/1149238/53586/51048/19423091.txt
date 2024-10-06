@@ -1,0 +1,19 @@
+Phản hồi tiêu cực (hoặc phản hồi cân bằng, phản hồi âm) xảy ra khi một số chức năng của đầu ra của hệ thống, quy trình hoặc cơ chế được phản hồi theo cách có xu hướng giảm dao động đầu ra, cho dù gây ra bởi thay đổi đầu vào hoặc do các nhiễu loạn khác.
+Trong khi phản hồi tích cực có xu hướng dẫn đến sự mất ổn định thông qua việc tăng trưởng theo cấp số nhân, dao động hoặc hành vi hỗn loạn, phản hồi tiêu cực thường thúc đẩy sự ổn định. Phản hồi tiêu cực có xu hướng thúc đẩy sự ổn định đến trạng thái cân bằng, và làm giảm ảnh hưởng của nhiễu loạn. Các vòng phản hồi tiêu cực trong đó chỉ cần điều chỉnh lượng thích hợp với thời gian tối ưu có thể rất ổn định, chính xác và có tính đáp ứng.
+Phản hồi tiêu cực được sử dụng rộng rãi trong kỹ thuật cơ khí và điện tử, và cả trong các sinh vật sống, và có thể được nhìn thấy trong nhiều lĩnh vực khác từ hóa học và kinh tế đến các hệ thống vật lý như khí hậu. Hệ thống phản hồi tiêu cực chung được nghiên cứu trong kỹ thuật hệ thống điều khiển.
+Các vòng phản hồi tiêu cực cũng đóng một vai trò không thể thiếu trong việc duy trì sự cân bằng khí quyển trong các hệ thống khác nhau trên Trái đất. Một hệ thống phản hồi như vậy là sự tương tác giữa bức xạ mặt trời, mây che và nhiệt độ hành tinh.  
+
+
+== Ví dụ ==
+Bộ điều nhiệt thủy ngân (khoảng năm 1600) sử dụng sự giãn nở và co lại của các cột thủy ngân để đáp ứng với sự thay đổi nhiệt độ đã được sử dụng trong các hệ thống phản hồi âm để kiểm soát lỗ thông hơi trong lò, duy trì nhiệt độ bên trong ổn định.
+Trong bàn tay vô hình của ẩn dụ thị trường của lý thuyết kinh tế (1776), các phản ứng đối với biến động giá cung cấp một cơ chế phản hồi để phù hợp với cung và cầu.
+Trong các thống đốc ly tâm (1788), phản hồi tiêu cực được sử dụng để duy trì tốc độ gần như không đổi của động cơ, bất kể điều kiện tải hoặc cung cấp nhiên liệu.
+Trong động cơ lái (1866), hỗ trợ năng lượng được áp dụng cho bánh lái với vòng phản hồi, để duy trì hướng được đặt bởi người lái.
+Trong cơ chế phục vụ, tốc độ hoặc vị trí của đầu ra, như được xác định bởi cảm biến, được so sánh với giá trị đặt và bất kỳ lỗi nào cũng được giảm bởi phản hồi âm đối với đầu vào.
+Trong các bộ khuếch đại âm thanh, phản hồi âm làm giảm độ méo, giảm thiểu ảnh hưởng của các biến thể sản xuất trong các tham số thành phần và bù cho những thay đổi về đặc tính do thay đổi nhiệt độ.
+Trong phản hồi tính toán tương tự xung quanh các bộ khuếch đại hoạt động được sử dụng để tạo ra các hàm toán học như cộng, trừ, tích hợp, phân biệt, logarit và các hàm antimon.
+Trong phản hồi vòng khóa pha (1932) được sử dụng để duy trì dạng sóng xen kẽ được tạo trong một pha không đổi thành tín hiệu tham chiếu. Trong nhiều triển khai, dạng sóng được tạo là đầu ra, nhưng khi được sử dụng làm bộ giải điều chế trong máy thu đài FM, điện áp phản hồi lỗi đóng vai trò là tín hiệu đầu ra được giải điều chế. Nếu có bộ chia tần số giữa dạng sóng được tạo và bộ so sánh pha, thiết bị hoạt động như một bộ nhân tần số.
+Trong các sinh vật, thông tin phản hồi cho phép các biện pháp khác nhau (ví dụ nhiệt độ cơ thể, hoặc mức đường trong máu) được duy trì trong một phạm vi mong muốn bằng các quy trình cân bằng nội môi.
+
+
+== Tham khảo ==

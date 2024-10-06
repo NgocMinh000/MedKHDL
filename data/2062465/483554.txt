@@ -1,0 +1,15 @@
+Chỉ số Apgar là phương pháp đơn giản và có thể thực hiện lặp lại để đánh giá nhanh chóng tình trạng sức khoẻ của trẻ sơ sinh ngay sau sinh. Chỉ số này được một nữ bác sĩ gây mê người Mỹ là Virginia Apgar phát minh vào năm 1952.
+Chỉ số Apgar được đánh giá thông qua 5 tiêu chuẩn đơn giản với thang điểm từ 0 đến 2 cho mỗi tiêu chuẩn. Các điểm này sau đó được cộng lại, do đó chỉ số Apgar được tính từ 0 đến 10 điểm.
+
+
+== Tiêu chuẩn ==
+
+
+== Diễn giải kết quả ==
+0-3: rất thấp
+4-6: khá thấp
+7-10: bình thường
+Thang điểm này thường được đánh giá vào phút thứ 1 và thứ 5 sau sinh. Nếu điểm 5 phút dưới 7, có thể lặp lại mỗi 5 phút cho đến 20 phút. Điểm Apgar 1 phút thấp có thể cho biết trẻ cần chăm sóc ngay về mặt y khoa nhưng không nhất thiết báo hiệu sẽ có vấn đề sức khoẻ lâu dài, đặc biệt là khi có cải thiện lúc 5 phút. Nếu chỉ số Apgar dưới 3 vào những thời điểm sau (5, 10, 20 phút), trẻ có nguy cơ bị tổn thương thần kinh lâu dài. Chỉ số Apgar hiếm khi đạt 10 điểm vì trẻ thường bị tím tái thoáng qua sau sinh.
+
+
+== Tham khảo ==

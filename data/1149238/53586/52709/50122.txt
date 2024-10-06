@@ -1,0 +1,69 @@
+KVM switch (KVM là từ viết tắt của Keyboard, Video, Mouse) là thiết bị chuyển mạch tín hiệu của bàn phím, chuột và màn hình của nhiều máy chủ khác nhau vào một bàn phím, chuột và màn hình, giúp người quản trị hệ thống có thể truy cập và điều khiển nhiều máy tính hoặc máy chủ một cách dễ dàng và thuận lợi.
+KVM switch có thể là những thiết bị được thiết kế hỗ trợ quản lý từ hai đến bốn cổng (quản lý 2-4 CPU, server), với những tính năng cơ bản, có thể có cable đi kèm hoặc cũng có thể là những thiết bị chuyên dụng cho phép quản trị hiệu quả những hệ thống lên đến 8000 server, với thiết kế rackmount, mật độ kết nối cao 16-32 cổng /1U, phân cấp và cho phép nhiều người cùng quản trị, với nhiều cấp mật khẩu (password) để đảm bảo an ninh hệ thống, cho phép quản trị tại chỗ, kéo dài, không dây hay qua Internet. KVM switch hỗ trợ nhiều giao diện PS/2, USB, RJ-45, tương thích với nhiều hệ điều hành như Window, Linux, MAC, Sun Solaris, Java hay Fee BSD, có thể hỗ trợ giả lập và cắm nóng thiết bị mà không làm treo hệ thống hoặc có thể hỗ trợ chia sẻ các thiết bị ngoại vi khác như loa, micro, máy in, camera...
+KVM switch cung cấp cho người quản trị hệ thống khả năng quản lý tập trung hàng trăm máy tính phân tán, giúp làm giảm đáng kể chi phí cho thiết bị, không gian, và thời gian quản lý hệ thống.
+
+
+== Khả năng mở rộng ==
+Khi số lượng máy chủ tăng lên, người quản trị hệ thống chỉ cần lắp đặt thêm một hoặc nhiều KVM switch mới vào hệ thống KVM switch có sẵn để quản lý các server mới. Việc lắp đặt này không làm ảnh hưởng và ngưng trệ hoạt động của hệ thống máy chủ trước đây, đảm bảo thời gian hoạt động của hệ thống thông tin.
+Có 2 phương pháp mở rộng hệ thống KVM switch: kết nối phân tầng (cascading) và kết nối ngang hàng (daisy chain).
+
+
+=== Kết nối phân tầng ===
+Đây là một phương pháp cài đặt dùng 1 cổng CPU của KVM switch cấp 1 nối đến cổng console của KVM switch cấp 2, và cứ như vậy nối tiếp nếu có thêm các KVM switch cấp 3 trong hệ thống. Như vậy mỗi KVM switch thêm vào tại từng cấp sẽ mất 1 cổng CPU. Người quản trị hệ thống chỉ cần qua KVM cấp 1 để quản lý tất cả các máy chủ kết nối vào các KVM cấp 2, 3...
+
+
+=== Kết nối hàng ngang ===
+Đây là một phương pháp kết nối mở rộng hàng ngang với KVM switch có cổng chuyên dụng cho kết nối hàng ngang. Trong một cấu hình đấu nối ngang hàng đơn giản, các KVM switch được nối lại theo một chuỗi đầu KVM switch này được nối vào đuôi của KVM switch kia. KVM switch đầu tiên trong chuỗi được gọi là "Master" và KVM switch tiếp theo sau được gọi là "Slave". Đấu nối theo phương pháp này sử dụng các cổng Chain In và Chain Out riêng biệt nên vẫn giữ được đầy đủ các số cổng CPU cho các máy chủ. Người quản trị hệ thống chỉ cần qua KVM Master để truy cập & quản lý tất cả các máy chủ kết nối vào các KVM Slave 1, 2, 3...
+
+
+== KVM Digital ==
+KVM Digital khả năng điều khiển giữa 2 máy, nhưng điểm khác biệt với KVM là không phụ thuộc vào hệ điều hành cài trên Server, và điều khiển bằng phần cứng, điều khiển BIOS từ xa. Server hay máy tính được điều khiển bởi KVM không cần đòi hỏi trình điều khiển (driver) hay bất cứ phần mềm nào được cài đặt trên hệ điều hành.
+
+
+=== Những lợi thế khi ứng dụng KVM Digital ===
+Tiết kiệm Chi phí, Không gian và Thời gian quản lý hệ thống IT.
+Tương thích với tất cả các Hệ điều hành: Microsoft, SUN, Linux, MAC, Java, Free BSD...
+Quản lý hệ thống IT từ xa qua LAN hoặc INTERNET.
+Khả năng mở rộng/nâng cấp phần cứng.
+Chip ASIC thiết kế riêng biệt để loại bỏ lỗi chuyển mạch.
+Đối với những doanh nghiệp lớn hiện nay, nhiều công ty con, nhiều chi nhánh, văn phòng, nhà máy đặt rải rắc khắp nơi trên thế giới. Do đó nhu cầu đặt ra là làm sao có thể quản lý những server, hệ thống từ những vị trí địa lý khác nhau một cách tập trung. Cũng đồng nghĩa rằng những mô hình mạng cấp cao với sự hỗ trợ quản lý của KVM Digital đã trở nên phổ biến. Công nghệ này cho phép quản trị và điều khiển hệ thống có số lượng server lớn trở nên hiệu quả hơn giữa những văn phòng có vị trí địa lý khác nhau trên toàn thế giới.
+
+
+== Serial Over The Net ==
+Với sự phát triển nhanh chóng của cơ sở hạ tầng IT ngày ngay. Người quản trị mạng gặp thách thức với việc quản lý nhiều hệ thống phức tạp khác nhau trong cùng một hệ thống như server, router, switch, hay những thiết bị khác. Serial Over The Net cung cấp cho người quản trị có thể điều khiển cùng lúc các thiết bị serial với số lương thiết bị tối đa là 8 hay 16 (hub, routers, thiết bị quản lý nguồn …) thông qua giao thức TCP/IP. Người quản trị có thể truy nhập từ local hay bất cứ nơi đâu thông qua internet.
+
+
+=== Một số tính năng cơ bản của 1 hệ thống Serial Over The Net ===
+Quản lý hệ thống các thiết bị serial từ xa thông qua giao thức TCP/IP.
+Truy cập từ xa qua LAN, WAN hay internet để điều khiển các server.
+Truy cập từ xa thông qua trình duyệt web, telnet hay Console terminal.
+Tự động dò tìm vị trí máy khi lắp đặt - có đèn LED trên bàn phím hiển thị vị trí máy được chọn.
+Dễ dàng cài đặt và tùy chỉnh thông qua giao diện đồ họa.
+Lập thời gian biểu, tắt, mở, restar server.
+Hỗ trợ tích hợp với RADIUS server.
+Thiết kế với giao diện 1U, đèn LED ở mặt ngoài giúp dễ dàng kiểm soát server.
+Tương thích với các thiết bị có giao tiếp cổng serial như SUN hay router Cisco.
+Mã hóa và phân quyền truy cập trên từng port.
+
+
+== Power Over The Net ==
+Power Over The Net là một hệ thống điều khiển từ xa (thông qua giao thức TCP/IP) nguồn của các phần cứng như server, hub, router. Người quản trị hệ thống có thể sử dụng bất cứ máy tính nào kết nối thông qua internet để điều khiển và thực hiện các thao tác trên server shutdown, restar, tắt hay mở server. IT Administrator không chỉ tự do điều khiển shutdown hệ thống mà có thể kích nguồn (bật nguồn) từ xa một cách nhanh chóng bất kỳ máy tính hay server nào trong chế độ cài đặt và duy trì hiệu lực cũng như bảo đảm 100% thời gian hoạt động. Sản phẩm Power on the NET là một phần thiết kế để bổ sung cho bất kỳ server room nào đã và sẽ được trang bị KVM Over The Net.
+
+
+=== Một số tính năng cơ bản của 1 hệ thống Power Over The Net ===
+Quản lý nguồn từ xa thông qua giao thức TCP/IP hay RS-232.
+Khả năng mở rộng khi kết nối điều khiển nguồn tới 128 Outlet.
+Có thể truy cập từ xa qua LAN, WAN hay internet để điều khiển các server.
+Truy cập từ xa thông qua trình duyệt web, telnet hay Console terminal.
+Tự động dò tìm vị trí máy khi lắp đặt - có đèn LED trên bàn phím hiển thị vị trí máy được chọn.
+Cài đặt thời gian tắt mở server trên từng cổng.
+Hỗ trợ Safe shutdown hay reboot cho server Window.
+Dễ dàng cài đặt và tùy chỉnh thông qua giao diện đồ họa.
+Lập thời gian biểu, tắt, mở, restar server.
+Hỗ trợ tích hợp với RADIUS server.
+Thiết kế với giao diện 1U, đèn LED ở mặt ngoài giúp dễ dàng kiểm soát server.
+Hai tầng bảo mật.
+Hỗ trợ nhiều hệ điều hành khác nhau: Win, Linux, Mac, Sun và FreeBSD.
+
+
+== Tham khảo ==

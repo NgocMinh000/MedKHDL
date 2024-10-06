@@ -1,0 +1,17 @@
+Des-gamma carboxyprothrombin (DCP), tên gọi khác là protein induced by vitamin K absence/antagonist-II (PIVKA-II), là một dạng protein đông máu bất thường, prothrombin. Bình thường, tiền chất của prothrombin sẽ trải qua quá trình post-translational carboxylation (thêm một nhóm carboxylic acid) bởi gamma-glutamyl carboxylase  tại gan trước khi đi vào huyết tương. DCP/PIVKA-II có thể xảy ra ở người thiếu vitamin K (do suy dinh dưỡng hoặc rối loạn tiêu hóa) và dùng warfarin hoặc các dược phẩm khác ức chế hoạt động của vitamin K.
+
+
+== Ứng dụng chẩn đoán ==
+
+
+=== Ung thư biểu mô tế bào gan ===
+Một nghiên cứu năm 1984 lần đầu tiên mô tả việc sử dụng DCP như một dấu ấn của ung thư biểu mô tế bào gan (HCC); nó xuất hiện ở 91% bệnh nhân ung thư biểu mô tế bào gan, trong khi không xác định được bệnh lý gan khác. Nồng độ DCP không thay đổi khi sử dụng vitamin K, gợi ý a hoạt động bất thường của gamma-carboxylation hơn là thiếu vitamin K. Một số nghiên cứu gần đâu đã xác nhận hiện tượng này.
+Một so sánh năm 2007 các chất chỉ điểm u nhận thấy DCP ít  chịu ảnh hưởng với các yếu tố nguy cơ của HCC (như xơ gan), và do đó hữu ích nhất trong việc dự đoán HCC. Nó giúp phân biệt HCC với các bệnh lý gan không ác tính khác. Hơn nữa, kết hợp phân tích DCP và alpha-fetoprotein (AFP) đã được chúng minh có thể dự đoán tốt hơn HCC giai đoạn sớm.
+Mặc dù đã được sử dụng nhiều năm ở Nhật Bản, chỉ một nghiên cứu 2003 của Mỹ mới đánh giá lại chỉ định của nó trong hàng loạt các bệnh nhân Mỹ. Nó cũng xác định HCC ở giai đoạn sớm hơn.
+
+
+=== Độc tính chống đông ===
+Một báo cáo năm 1987  mô tả việc sử dụng DCP xác định độc tính của acenocoumarol, một thuốc kháng vitamin K.
+
+
+== Tham khảo ==

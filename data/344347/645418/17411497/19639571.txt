@@ -1,0 +1,72 @@
+Đại dịch COVID-19 đã được ghi nhận trên Wikipedia một cách chuyên sâu, cập nhật bằng nhiều ngôn ngữ khác nhau. Những thông tin bao gồm nhiều bài viết chi tiết về các khía cạnh của đại dịch, cùng với đó là những bổ sung về ảnh hưởng của đại dịch tới những bài viết đã có sẵn. Những ghi nhận về đại dịch của Wikipedia và các dự án khác của Wikimedia – cùng với những nỗ lực của cộng đồng tham gia sửa đổi tại các dự án – đã nhận được sự chú ý lớn của truyền thông về mức độ toàn diện, tin cậy và tốc độ cập nhật thông tin.
+
+
+== Wikipedia ==
+
+Vào giữa tháng 3 năm 2020, nhà báo Noam Cohen của Wired cho rằng những nỗ lực của các biên tập viên đối với các bài viết về đại dịch đã cho thấy rằng "Wikipedia cũng đang trở thành nơi có lương tâm". Cohen mô tả sự khác biệt giữa những nỗ lực của Wikipedia nhằm đấu tranh trước những thông tin sai lệch về đại dịch so với các trang web lớn khác và bình luận rằng: "Trừ khi Twitter, Facebook và nhiều trang khác có thể học cách xử lý thông tin sai lệch một cách có hiệu quả hơn, Wikipedia sẽ vẫn là nơi tốt nhất trên Internet."
+Số lượng độc giả truy cập Wikipedia đã tăng trong đại dịch COVID-19. Tính đến tháng 4 năm 2020, theo báo Dawn, kể từ khi xuất hiện các báo cáo về những trường hợp mắc bệnh tại Vũ Hán vào tháng 12 năm 2019, các biên tập viên của Wikipedia đã thực hiện trung bình 163 sửa đổi mỗi giờ (đối với các bài viết về đại dịch). Nếu tính tất cả các phiên bản ngôn ngữ của Wikipedia, số lượng các bài viết liên quan đến đại dịch trên dự án này là khoảng 4.500, tính đến 23 tháng 4 năm 2020.
+Trong bài viết có tựa đề "Vì sao Wikipedia miễn nhiễm với virus corona", nhà báo Omer Benjakob của Haaretz viết: "Wikipedia đã tham gia vào công cuộc trợ giúp. Nhiều tới mức nó đã trở thành nguồn thông tin COVID-19 tốt nhất." Các biên tập viên đã làm việc cần cù để loại bỏ các thông tin sai lệch. Tổ chức Y tế Thế giới tuyên bố hợp tác với Quỹ Wikimedia nhằm giúp cấp phép tự do cho các hình đồ họa thông tin và những tài liệu khác về COVID-19 của tổ chức này, hỗ trợ nỗ lực chống các thông tin sai lệch liên quan đến COVID-19, đồng thời hai bên cũng lập các kế hoạch tương tự trong tương lai đối với các bệnh truyền nhiễm khác.
+Vào tháng 1 năm 2021, BBC bình luận rằng trong năm 2020, hàng trăm biên tập viên Wikipedia đã ghi nhận những thông tin về hầu hết mọi mặt của đại dịch.
+Vào tháng 6 năm 2021, biên tập viên Jackson Ryan của CNET đưa tin về "cuộc chiến vô tận" của Wikipedia trước giả thuyết rò rỉ phòng thí nghiệm COVID-19. Một số biên tập viên được cho là đã bị phát hiện thiết lập các "tài khoản con rối" nhằm củng cố lập trường của mình và đưa vào những nguồn tin không đáng tin cậy. Nhiều biên tập viên khác thì lo ngại về khả năng xuất hiện một số người của nhà nước Trung Quốc đang cố gắng bịt kín các cuộc thảo luận về giả thuyết này, mặc dù không có bằng chứng rõ ràng. Bài báo kết luận rằng các hướng dẫn của Wikipedia cần cho phép giả thuyết này có được một trang riêng và cần được đưa vào các trang liên quan đến COVID-19 khác, miễn là vấn đề này được viết một cách trung lập và có nguồn tham khảo đầy đủ.
+Vào tháng 8 năm 2021, đồng sáng lập của Wikipedia Jimmy Wales có bài viết trên Al Jazeera với nội dung cho rằng: "Khi đại dịch COVID-19 thay đổi cuộc sống của chúng ta, những biên tập viên tình nguyện trên Wikipedia đã hành động kịp thời nhằm đấu tranh trước những thông tin sai lệch và bảo đảm rằng thế giới có quyền truy cập tới những nguồn tài nguyên y tế dựa trên cơ sở khoa học, bằng 188 ngôn ngữ và ở bất kỳ châu lục nào. Thông qua một mô hình mở và phi tập trung, các Wikipedian đã tạo ra một số lượng chưa từng thấy những nội dung chính xác và quan trọng."
+Một nghiên cứu cho thấy những thông tin của Wikipedia về đại dịch COVID-19 trong làn sóng dịch đầu tiên từ tháng 1 đến tháng 5 năm 2020 được dẫn từ các nguồn tin uy tín và các nghiên cứu học thuật chất lượng cao. Một nghiên cứu khác cũng cho thấy lượng truy cập vào Wikipedia thường tỷ lệ thuận với số lượng các cuộc thảo luận về COVID-19 khác trên hệ sinh thái truyền thông, thay vì đi theo mức độ ổn định của đại dịch.
+
+
+=== Wikipedia tiếng Anh ===
+
+Sau một năm kể từ khi được tạo ra, bài viết chính về đại dịch COVID-19 trên Wikipedia tiếng Anh đã trở thành bài viết được xem nhiều thứ 4 mọi thời đại trên trang web này, với có gần 32.000 liên kết từ các bài viết khác.
+Trang "Coronavirus" đã được tạo từ năm 2003. Bài viết "Dịch viêm phổi Trung Quốc 2019–2020", sau đó trở thành bài viết chính về đại dịch của Wikipedia tiếng Anh, được tạo ra vào ngày 5 tháng 1 năm 2020 bởi một thành viên từ Trung Quốc. Các bài viết tiếp theo về "Virus corona gây hội chứng hô hấp cấp tính 2" và "Bệnh virus corona 2019" tiếp tục được tạo sau đó. Tới ngày 9 tháng 2, bài viết chính đã được chỉnh sửa hơn 6.500 lần bởi khoảng 1.200 biên tập viên, đồng thời 6 bài viết chính của Wikipedia về đại dịch cũng đã được truy cập hơn 18 triệu lần. Các bài viết đầu tiên khác bao gồm một bài tổng quan về đại dịch theo quốc gia và vùng lãnh thổ, một dòng thời gian liệt kê các sự kiện trong đại dịch, và một bài viết khác tập trung vào chủ đề bài ngoại và phân biệt chủng tộc. Các bài viết khác về thực phẩm từ dơi, hãng bia Corona, hội chứng hô hấp cấp tính nặng (SARS) và Vũ Hán cũng có lượng sửa đổi tăng vọt. Phần "Tin tức" trên trang chủ của Wikipedia tiếng Việt được bổ sung thêm một phần đặc biệt chứa các liên kết tới những thông tin quan trọng về đại dịch COVID-19.
+Khi dịch bệnh lây lan, các biên tập viên tiếp tục nỗ lực cập nhật và xử lý lượng lớn thông tin mới và thông tin sai lệch được đưa vào trang web. Các thông tin trên Wikipedia đã được trực quan hóa và chia sẻ trên Reddit, Twitter, cùng các nền tảng truyền thông xã hội khác. Hơn 2.100 biên tập viên đã tham gia đóng góp cho bài viết chính về đại dịch tính tới ngày 19 tháng 3.
+
+Các biên tập viên đã lập WikiProject COVID-19, một Dự án Wiki dành cho COVID-19 và đại dịch do căn bệnh gây ra. Các tình nguyện viên đã tham gia biên dịch các bài viết ngắn sang các phiên bản Wikipedia ngôn ngữ khác. Tính tới ngày 24 tháng 3, dự án có 90 thành viên. Các thành viên của WikiProject Medicine, trong đó có chuyên gia người Canada James Heilman, cũng đã tham gia cải thiện các thông tin về COVID-19. Heilman còn được giới thiệu trên chương trình CBS Morning News vào tháng 5.
+Các biên tập viên Wikipedia từng xóa và sau đó đã khôi phục lại một bài viết có tựa đề "Điểm nóng virus corona Tablighi Jamaat 2020 tại Delhi", bài viết mà đồng sáng lập dự án Jimmy Wales đã nhận xét là "được viết cực kỳ kém và không có nguồn tham khảo." Wales cũng phản hồi các cáo buộc trên Twitter, khẳng định rằng Wikipedia không được trả tiền để xóa bài viết trên.
+Lượng độc giả trên trang cũng phản ánh những diễn biến đáng chú ý của dịch bệnh. Bài viết về "Đại dịch COVID-19 tại Pakistan" chứng kiến lượt truy cập tăng vọt vào cuối tháng 3, với số lượt xem hàng ngày trong khoảng từ 80.000 đến 100.000, đứng thứ 72 trong số những bài được đọc nhiều nhất tháng. Vào đầu tháng 4, các dự án của Wikimedia nhận được 673 triệu lượt xem trang trong vòng 24 giờ, số lượt xem cao nhất trong vòng 5 năm. Tới thời điểm đó, Wikipedia tiếng Anh đã có 283 bài viết về virus corona, trong đó bài viết chính nhận được hơn 17.000 lượt sửa đổi và 20 triệu lượt xem. Các bài về đại dịch nhận được 240 triệu lượt xem tính đến 23 tháng 4 năm 2020, trong đó trang viết về những thông tin sai lệch liên quan đến đại dịch đón nhận trung bình 14.000 lượt xem mỗi ngày.
+Vào tháng 5 năm 2020, Google Tìm kiếm đã hiển thị một số dữ liệu không chính xác về con số tử vong do COVID-19; dữ liệu này bắt nguồn từ Wikipedia tiếng Anh.Bản mẫu:Relevance inline
+
+
+=== Wikipedia tiếng Đức ===
+Wikipedia tiếng Đức đã có hàng trăm bài viết về đại dịch COVID-19. Các biên tập viên bắt đầu viết bài về đại dịch từ tháng 1 năm 2020, khi dịch bệnh đang lây lan tại Trung Quốc. Bài viết chính về đại dịch và bài viết về tình hình dịch tại Đức đã được truy cập lần lượt khoảng 150.000 và 100.000 lần mỗi ngày, tính đến tháng 3 năm 2020.
+
+
+=== Các ngôn ngữ Ấn Độ ===
+
+Wikipedia có các thông tin về COVID-19 bằng 9 ngôn ngữ tại Ấn Độ tính tới ngày 27 tháng 3 năm 2020: Ả Rập, Bangla, Bhojpuri, Hindi, Kannada, Malayalam, Tamil, Telugu và Urdu. SWASTHA (viết tắt của Special Wikipedia Awareness Scheme for the Healthcare Affiliates), một bộ phận của WikiProject Medicine, đang hợp tác với Đại học Johns Hopkins, Bộ Y tế và Phúc lợi Gia đình và Cơ quan Y tế Quốc gia của Ấn Độ, cùng với Tổ chức Y tế Thế giới nhằm cải thiện các thông tin về dịch.
+Bài viết về virus corona của Wikipedia tiếng Urdu đã được xem hơn 12.000 lần tính tới ngày 23 tháng 4 năm 2020. Những ghi nhận ngày càng lớn về COVID-19 trên Wikipedia đã khiến nhiều người Ấn Độ suy xét về những thông tin của Wikipedia liên quan đến các vấn đề khác.
+
+
+=== Wikipedia tiếng Nhật ===
+Hiện đang có hơn 100 bài viết về đại dịch trên Wikipedia tiếng Nhật. Bài viết "Abenomask" (アベノマスク) đã gây chú ý do một yêu cầu đề nghị xóa bài. Đây là từ dùng để chỉ kế hoạch của chính phủ Nhật Bản liên quan đến các loại khẩu trang vải tái sử dụng được. Một số người cho rằng việc dùng từ như vậy là xúc phạm tới ông Shinzo Abe, những người khác thì cho rằng đây không phải là sự xúc phạm và lấy dẫn chứng việc từ này được sử dụng trong Sankei Shimbun, một tờ báo mang khuynh hướng bảo thủ và cánh hữu. Cộng đồng đã quyết định giữ lại bài viết.
+
+
+=== Wikipedia tiếng Tây Ban Nha ===
+Bài viết chính về đại dịch tại Wikipedia tiếng Tây Ban Nha được tạo bởi một biên tập viên từ Costa Rica vào ngày 19 tháng 1 năm 2020. Tới giữa tháng 4, bài viết đã được sửa đổi hơn 5.000 lần, bổ sung 350 nguồn tham khảo, và nhận hơn 5 triệu lượt xem. Bài hiện đang được giám sát bởi khoảng 175 biên tập viên, với số lượt xem trung bình là 80.000 mỗi ngày.
+
+
+== Wikidata ==
+Theo Wired, BridgeDb, một dự án kết nối các thông tin định danh tin sinh học, đang xây dựng các cơ sử dữ liệu về bản đồ gen và protein của virus corona từ những thông tin được cung cấp bởi Wikidata, một dự án chị em của Wikipedia, nằm trong kế hoạch hợp tác với WikiProject COVID-19 của Wikidata. WikiProject India trên Wikidata đã thành lập một đội đặc nhiệm và xây dựng một cơ sở dữ liệu trung tâm ghi lại diễn biến dịch bệnh tại Ấn Độ.
+
+
+== Quỹ Wikimedia ==
+
+Quỹ Wikimedia, tổ chức phi lợi nhuận hỗ trợ cho các dự án của phong trào Wikimedia, trong đó có Wikipedia, đã cho các nhân viên làm việc từ xa. Giám đốc điều hành của quỹ khi đó là Katherine Maher đã khuyến khích các biên tập viên và độc giả cùng tham gia cải thiện những thông tin về COVID-19 trên Wikipedia.
+
+
+== Xem thêm ==
+Thông tin sức khỏe trên Wikipedia
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+“Wikipedia on COVID-19: what we publish and why it matters”. The Signpost. Wikipedia tiếng Anh. 29 tháng 3 năm 2020.
+“Open data and COVID-19: Wikipedia as an informational resource during the pandemic”. The Signpost. Wikipedia tiếng Anh. 26 tháng 4 năm 2020.
+
+
+== Liên kết ngoài ==
+
+Wikipedia and COVID-19 – Explore the data, Quỹ Wikimedia
+Maher, Katherine (15 tháng 3 năm 2020). “People First: Wikimedia's Response to COVID-19”. Medium.
+Thalen, Mikael (25 tháng 3 năm 2020). “Meet the Wikipedia editors fighting to keep coronavirus pages accurate”. The Daily Dot.
+“Meet some of the women sharing reliable COVID-19 information with the world on Wikipedia”. Medium. Quỹ Wikimedia. 3 tháng 4 năm 2020.
+Sáez-Trumper, Diego (16 tháng 4 năm 2020). “Open data and COVID-19: Wikipedia as an informational resource during the pandemic”. Medium.

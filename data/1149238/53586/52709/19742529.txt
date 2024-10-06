@@ -1,0 +1,110 @@
+Giao thức dự trữ tài nguyên (RSVP) là một giao thức lớp truyền tải được thiết kế để dự trữ tài nguyên trên một mạng bằng cách sử dụng mô hình dịch vụ tích hợp. RSVP hoạt động trên IPv4 hoặc IPv6 và cung cấp thiết lập tài nguyên dự phòng do người nhận khởi tạo cho các luồng dữ liệu đa hướng hoặc đơn hướng. Nó không vận chuyển dữ liệu ứng dụng nhưng tương tự như một giao thức điều khiển, như giao thức ICMP hoặc giao thức IGMP. RSVP được mô tả trong RFC 2205.
+RSVP có thể được sử dụng bởi các máy chủ và bộ định tuyến để yêu cầu hoặc cung cấp các mức chất lượng dịch vụ (QoS) cụ thể cho các luồng dữ liệu ứng dụng. RSVP xác định cách ứng dụng cài đặt và cách chúng có thể loại bỏ các tài nguyên có sẵn khi không còn cần thiết nữa. Các hoạt động của RSVP nói chung sẽ dẫn đến tài nguyên được dành riêng trong mỗi nút dọc theo một đường truyền. RSVP không phải là một giao thức định tuyến nhưng được thiết kế để tương tác với các giao thức định tuyến hiện tại và trong tương lai.
+Bản thân RSVP hiếm khi được triển khai trong các mạng viễn thông. Vào năm 2003, nỗ lực phát triển đã được chuyển từ RSVP sang RSVP-TE cho kỹ thuật truyền thông. NSIS là một đề xuất để thay thế RSVP.
+
+
+== Các tính năng chính ==
+RSVP yêu cầu tài nguyên cho các luồng đơn giản: một luồng lưu lượng chỉ theo một hướng từ người gửi đến một hoặc nhiều người nhận.
+RSVP không phải là một giao thức định tuyến nhưng hoạt động với các giao thức định tuyến ở hiện tại và trong tương lai.
+RSVP được định hướng người nhận, trong đó có cả người nhận luồng dữ liệu khởi tạo và duy trì dự trữ tài nguyên cho luồng đó.
+RSVP duy trì trạng thái mềm (việc dự trữ tại mỗi nút cần được làm mới định kỳ) của việc dự trữ tài nguyên máy chủ và bộ định tuyến, do đó có hỗ trợ khả năng thích ứng tự động với các thay đổi của mạng.
+RSVP cung cấp một số kiểu dự trữ (một danh sách các tùy chọn dự trữ) và cho phép thêm các kiểu khác trong tương lai vào các bản sửa đổi giao thức để phù hợp với các ứng dụng khác nhau.
+RSVP gửi đi và duy trì các thông số kiểm soát lưu lượng và các chính sách không rõ ràng của RSVP.
+
+
+== Lịch sử và các tiêu chuẩn liên quan ==
+Các khái niệm cơ bản về RSVP ban đầu được đề xuất vào năm 1993.
+RSVP được mô tả trong một loạt các tài liệu RFC từ IETF:
+
+RFC 2205: Chức năng phiên bản 1 được IETF mô tả trong RFC 2205 (tháng 9 năm 1997). Phiên bản 1 mô tả giao diện điều khiển lưu lượng truy cập chỉ dựa trên tính khả dụng của tài nguyên. Sau đó RFC 2750 đã được mở rộng, hỗ trợ và kiểm soát việc nhập thông tin.
+RFC 2210 xác định việc sử dụng RSVP với RFC 2211, RFC 2212 và dịch vụ điều khiển của QoS đều đã được đảm bảo. Đồng thời xác định cách sử dụng và định dạng dữ liệu của các đối tượng dữ liệu (mang thông tin dự trữ tài nguyên) được xác định bởi RSVP trong RFC 2205.
+RFC 2211 chỉ định hoạt động của phần tử mạng cần thiết để cung cấp các dịch vụ tải có thể kiểm soát.
+RFC 2212 chỉ định hoạt động của phần tử mạng để cung cấp các dịch vụ QoS được đảm bảo.
+RFC 2750 mô tả một tiện ích mở rộng được đề xuất để hỗ trợ và kiểm soát việc nhập thông tin dựa trên chính sách chung trong RSVP. Tiện ích mở rộng bao gồm đặc điểm kỹ thuật của các đối tượng chính sách và mô tả về việc xử lý các chính sách (tháng 1 năm 2000).
+RFC 3209, "RSVP-TE: Tiện ích mở rộng RSVP cho các đường hầm LSP" (tháng 12 năm 2001).
+RFC 3473, "Phần mở rộng chuyển mạch nhãn đa giao thức tổng quát (GMPLS).
+RFC 3936, "Chương trình con dùng để sửa đổi giao thức dự trữ tài nguyên (RSVP)" (tháng 10 năm 2004), mô tả các phương pháp hay nhất hiện tại và chỉ định các chương trình con để sửa đổi RSVP.
+RFC 4495, "Phần mở rộng của giao thức dự trữ tài nguyên (RSVP) để giảm băng thông của luồng dự trữ" (tháng 5 năm 2006), mở rộng RSVP để cho phép giảm băng thông của phần dự trữ hiện tại thay vì loại bỏ phần dự trữ.
+RFC 4558, "Giao thức dự trữ tài nguyên dựa trên Node-ID (RSVP). Xin chào: Tuyên bố làm rõ" (tháng 6 năm 2006).
+
+
+== Các khái niệm chính ==
+Hai khái niệm chính của mô hình dự trữ RSVP là flowspec và filterspec.
+
+
+=== Flowspec ===
+RSVP dự trữ tài nguyên cho một luồng. Luồng được xác định bởi địa chỉ đích, mã định danh giao thức và cổng đích. Trong chuyển mạch nhãn đa giao thức (MPLS), một luồng được định nghĩa là một đường truyền chuyển mạch nhãn (LSP). Đối với mỗi luồng, RSVP cũng xác định chất lượng dịch vụ (QoS) cụ thể theo yêu cầu của luồng. Thông tin về QoS được gọi là flowspec và RSVP chuyển flowspec từ ứng dụng đến các máy chủ và các bộ định tuyến dọc theo đường truyền. Các hệ thống đó sau đó sẽ phân tích flowspec để chấp nhận và dự trữ các tài nguyên. Một flowspec bao gồm:
+
+Hạng dịch vụ
+Thông số dự trữ - xác định QoS
+Thông số lưu lượng - mô tả luồng dữ liệu
+
+
+=== Filterspec ===
+Filterspec xác định tập hợp các gói sẽ bị ảnh hưởng bởi một flowspec (tức là các gói dữ liệu để nhận QoS được xác định bởi flowspec). Một filterspec thường chọn một tập hợp con của tất cả các gói được xử lý bởi một nút. Việc lựa chọn có thể phụ thuộc vào bất kỳ thuộc tính nào của gói (ví dụ: địa chỉ IP của người gửi và cổng).
+Các kiểu dự trữ RSVP hiện có là:
+
+Bộ lọc cố định - dự trữ tài nguyên cho một luồng cụ thể.
+Được chia sẻ rõ ràng - dự trữ tài nguyên cho một số luồng và tất cả đều chia sẻ tài nguyên
+Bộ lọc kí tự đại diện - dự trữ tài nguyên cho một loại luồng chung mà không chỉ định luồng, tất cả các luồng chia sẻ tài nguyên
+Một yêu cầu dự trữ RSVP bao gồm một flowspec và một filterspec, cặp này được gọi là một bộ chỉ thị luồng. Flowspec đặt các tham số cho bộ tạo gói lịch trình tại một nút và bộ filterspec đặt các tham số cho bộ phân loại gói.
+
+
+== Thông báo ==
+Có hai loại thông báo chính:
+
+Thông báo đường truyền (đường truyền)
+Thông báo đường truyền được gửi từ máy chủ người gửi dọc theo đường truyền dữ liệu và lưu trữ trạng thái đường truyền trong mỗi nút dọc theo đường truyền.
+Trạng thái đường truyền bao gồm địa chỉ IP của nút trước đó và một số đối tượng dữ liệu:
+mẫu gửi dùng để mô tả định dạng của dữ liệu người gửi ở dạng một filterspec
+tspec của người gửi được dùng để mô tả các đặc điểm lưu lượng của luồng dữ liệu
+adspec mang dữ liệu quảng cáo (xem RFC 2210 để biết thêm chi tiết).
+Thông báo dự trữ (resv)
+Thông báo resv được gửi từ máy nhận đến máy chủ người gửi theo đường truyền dữ liệu ngược lại. Tại mỗi nút, địa chỉ IP đích của thông báo resv sẽ thay đổi thành địa chỉ của nút tiếp theo trên đường truyền ngược và địa chỉ IP nguồn thành địa chỉ của địa chỉ nút trước đó trên đường truyền ngược lại.
+Thông báo resv bao gồm đối tượng dữ liệu flowspec xác định các tài nguyên mà luồng cần.
+Các đối tượng dữ liệu trên thông báo RSVP có thể được truyền theo bất kỳ thứ tự nào. Để biết danh sách đầy đủ các thông báo RSVP và các đối tượng dữ liệu, hãy xem RFC 2205.
+
+
+== Hoạt động ==
+Máy chủ RSVP cần gửi luồng dữ liệu với QoS cụ thể, bằng cách truyền một thông báo qua đường truyền RSVP cứ sau 30 giây sẽ truyền dọc theo các tuyến unicast hoặc multicast được thiết lập trước bởi giao thức định tuyến đang hoạt động. Nếu thông báo được truyền đến một bộ định tuyến không thể đọc được RSVP, bộ định tuyến đó sẽ chuyển tiếp thông báo mà không giải thích nội dung của thông báo và sẽ không dự trữ tài nguyên cho luồng.
+Những người dùng muốn người gửi gửi một thông báo resv (viết tắt của dự trữ) tương ứng, sau đó sẽ theo đường dẫn trở lại người gửi. Thông báo resv chứa một flowspec. Thông báo resv cũng có một filterspec, nó xác định các gói sẽ nhận được các QoS được yêu cầu được xác định trong flowspec. Một thông số bộ lọc đơn giản có thể chỉ là địa chỉ IP của người gửi và tùy chọn cổng UDP hoặc TCP của nó. Khi một bộ định tuyến nhận được thông báo resv RSVP, nó sẽ:
+
+Dự trữ dựa trên các tham số yêu cầu. Nhập, xử lý, kiểm soát các tham số theo yêu cầu và có thể sử dụng trình phân loại gói để xử lý chính xác tập hợp con đã chọn của các gói dữ liệu hoặc điều chỉnh cùng với lớp trên cách xử lý gói. Nếu không thể được hỗ trợ, một tin nhắn từ chối được gửi để cho người nghe biết.
+Chuyển tiếp yêu cầu theo đường truyền ngược lại (theo hướng của người gửi). Tại mỗi nút, flowspec trong thông báo resv có thể được sửa đổi bằng một nút chuyển tiếp (ví dụ: trong trường hợp dự trữ lưu lượng đa hướng, các yêu cầu dự trữ có thể được hợp nhất).
+Các bộ định tuyến sau đó dự trữ thông tin ban đầu của luồng và tùy chọn thiết lập chính sách theo flowspec cho nó.
+Nếu không có gì được nhận trong một khoảng thời gian nhất định, việc dự trữ sẽ hết thời gian và sẽ bị hủy bỏ. Điều này giải quyết vấn đề nếu người gửi hoặc người nhận gặp sự cố hoặc bị tắt nhưng sẽ không hủy bỏ việc dự trữ.
+
+
+== Các tính năng khác ==
+
+
+=== Sự toàn vẹn ===
+Thông báo RSVP được thêm vào cùng với một thông báo tóm tắt, được tạo ra bằng cách kết hợp nội dung thông báo và khóa chia sẻ bằng cách sử dụng thuật toán thông báo (thường là MD5). Khóa có thể được chia sẻ và xác nhận bằng cách sử dụng hai loại thông báo: yêu cầu thông báo một cách toàn vẹn và phản hồi thông báo một cách toàn vẹn.
+
+
+=== Báo cáo lỗi ===
+Khi một nút phát hiện ra lỗi, một thông báo lỗi sẽ được tạo ra kèm theo mã lỗi và được truyền ngược lại trên đường truyền tới người gửi.
+
+
+=== Thông tin về luồng RSVP ===
+Hai loại thông báo chẩn đoán cho phép nhà sử dụng mạng yêu cầu thông tin trạng thái RSVP trên một luồng cụ thể.
+
+
+=== Cơ sở chẩn đoán ===
+Một tiện ích mở rộng tiêu chuẩn cho phép người dùng thu thập thông tin về trạng thái RSVP theo một đường truyền.
+
+
+=== RFCs ===
+RFC 2205
+RFC 2210
+RFC 2211
+RFC 2212
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+“Resource Reservation Protocol”. Cisco. Bản gốc lưu trữ ngày 5 tháng 7 năm 2017. Truy cập ngày 16 tháng 2 năm 2011.
+Naveen Joy (17 tháng 6 năm 2002). “RSVP provides quality of service”. Network World. Bản gốc lưu trữ ngày 29 tháng 6 năm 2013. Truy cập ngày 14 tháng 2 năm 2012.
+“RSVP Project”. USC Information Science Institute. Bản gốc lưu trữ ngày 27 tháng 4 năm 2017.

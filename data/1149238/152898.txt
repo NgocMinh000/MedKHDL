@@ -1,0 +1,150 @@
+Đau là một cảm giác khó chịu, xuất hiện cùng lúc với sự tổn thương của các mô tế bào. Đau là kinh nghiệm được lượng giá bởi nhận thức chủ quan tùy theo từng người, từng cảm giác về mỗi loại đau, là dấu hiệu của bệnh tật và phải tìm ra nguyên nhân để chữa.
+Đau cũng được định nghĩa là cảm giác tạo ra bởi hệ thống thần kinh khi có tác động tại các thụ cảm thể nhận cảm đau (tiếng Anh: nociceptor).
+Đau là một yếu tố quan trọng của sự sinh tồn. Nhờ biết đau mà con vật có phản ứng, theo phản xạ hay kinh nghiệm, tránh để không tiếp tục bị chấn thương.
+
+
+== Các cơ sở của cảm giác đau ==
+
+
+=== Cơ sở sinh học ===
+Cơ sở sinh học của cảm giác đau bao gồm cơ sở giải phẫu, sinh lý, sinh hóa, nó cho phép giải mã được tính chất, thời gian, cường độ và vị trí của cảm giác đau. Cảm giác đau xuất hiện tại vị trí tổn thương tuy là một cảm giác khó chịu nhưng là một biểu hiện tích cực có giá trị báo động để cơ thể phản xạ đáp ứng lại nhằm loại trừ tác nhân gây đau.
+Đau là kết quả của một quá trình sinh lý phức tạp gồm nhiều sự kiện và có sự tham gia của nhiều yếu tố.
+
+
+==== Sự nhận cảm đau ====
+Thụ cảm thể: bắt đầu từ các thụ cảm thể phân bố khắp nơi trong cơ thể, gồm các loại thụ cảm thể nhận cảm đau thuộc cơ học, hóa học, nhiệt và áp lực.
+Các chất trung gian hoá học: Cơ chế nhận cảm đau của các thụ cảm thể chưa được biết rõ ràng. Có thể các tác nhân gây đau đã kích thích các tế bào tại chỗ giải phóng ra các chất trung gian hóa học như các kinin (bradykinin, serotonin, histamin), một số prostaglandin, chất P... Các chất trung gian này sẽ tác động lên thụ cảm thể nhận cảm đau làm khử cực các thụ cảm thể này và gây ra cảm giác đau.
+
+
+==== Sự dẫn truyền cảm giác đau từ ngoại vi vào tủy sống ====
+Sự dẫn truyền cảm giác từ ngoại vi vào tủy sống do thân tế bào neuron thứ nhất nằm ở hạch gai rễ sau đảm nhiệm. Các sợi thần kinh dẫn truyền cảm giác (hướng tâm) gồm các loại có kích thước và tốc độ dẫn truyền khác nhau như sau:
+
+Các sợi Aα và Aβ (típ I và II) là những sợi to, có bao myelin, tốc độ dẫn truyền nhanh, chủ yếu dẫn truyền cảm giác bản thể (cảm giác sâu, xúc giác tinh).
+Các sợi Aδ (típ III) và C là những sợi nhỏ và chủ yếu dẫn truyền cảm giác đau, nhiệt và xúc giác thô. Sợi Aδ có bao myelin mỏng nên dẫn truyền cảm giác đau nhanh hơn sợi C không có bao myelin. Vì vậy người ta gọi sợi Aδ là sợi dẫn truyền cảm giác đau nhanh, còn sợi C là sợi dẫn truyền cảm giác đau chậm.
+
+
+==== Đường dẫn truyền cảm giác đau từ tủy sống lên não ====
+Đường dẫn truyền cảm giác đau, nhiệt và xúc giác thô (sợi Aδ và C) đi từ rễ sau vào sừng sau tủy sống, ở đó các axon của neurone thứ nhất hay neurone ngoại vi kết thúc và tiếp xúc với neurone thứ hai trong sừng sau tủy sống theo các lớp khác nhau (lớp Rexed). Các sợi Aδ tiếp nối synapse đầu tiên trong lớp I (viền Waldeyer) và lớp V, trong khi sợi C tiếp nối synapse đầu tiên trong lớp II (còn gọi là chất keo Rolando)
+Các sợi trục của neurone thứ hai này chạy qua mép xám trước và bắt chéo sang cột bên phía đối diện rồi đi lên đồi thị tạo thành bó gai thị. 
+
+Bó tân gai thị: dẫn truyền lên các nhân đặc hiệu nằm ở phía sau đồi thị, cho cảm giác và vị trí.
+Bó cựu gai thị: dẫn truyền lên các nhân không đặc hiệu và lên vỏ não một cách phân tán.
+Bó gai lưới thị: bó này có các nhánh qua thể lưới rồi từ thể lưới lên các nhân không đặc hiệu ở đồi thị có vai trò hoạt hóa vỏ não
+
+
+==== Trung tâm nhận cảm đau ====
+Đồi thị (thalamus) là trung tâm nhận cảm đau trung ương, có các tế bào thuộc neurone cảm giác thứ ba. Khi có tổn thương đồi thị, xuất hiện cảm giác đau đồi thị rất đặc biệt ở nửa người bên đối diện (hội chứng thalamic): cảm giác lạnh hoặc nóng bỏng rất khó chịu hành hạ mà bệnh nhân khó có thể mô tả và khu trú được; đau thường lan tỏa và lan xiên; không đáp ứng với các thuốc giảm đau thông thường; đôi khi lúc ngủ lại đau nhiều hơn, vận động thì giảm. Khám cảm giác nửa người bên đối diện với tổn thương thấy hiện tượng loạn cảm đau (hyperpathic).
+Từ neurone thứ ba ở đồi thị cho các sợi họp thành bó thị vỏ đi qua 1/3 sau của đùi sau bao trong, qua vành tia tới vỏ não hồi sau trung tâm (hồi đỉnh lên vùng SI và SII) và thùy đỉnh để phân tích và ra quyết định đáp ứng: 
+
+Vùng SI phân tích đau ở mức độ tinh vi.
+Vùng SII phân biệt về vị trí, cường độ, tần số kích thích (gây hiệu ứng vỏ não).
+
+
+=== Cơ sở tâm lý ===
+
+
+==== Yếu tố cảm xúc ====
+Cảm xúc có tác dụng trực tiếp lên cảm giác đau làm đau có thể tăng lên hay giảm đi. Nếu cảm xúc vui vẻ, thoải mái có thể làm đau giảm đi, ngược lại nếu cảm xúc khó chịu, bực dọc, buồn chán... có thể làm đau tăng thêm. Thậm chí trong một số trường hợp, yếu tố cảm xúc còn được xác định là một nguyên nhân gây đau, ví dụ ở người bị bệnh mạch vành nếu bị cảm xúc mạnh có thể dẫn đến bị lên cơn đau thắt ngực cấp tính. Ngược lại, đau lại có tác động trở lại cảm xúc, nó gây nên trạng thái lo lắng, hoảng hốt, cáu gắt...
+
+
+==== Yếu tố nhận thức ====
+Nhận thức đóng vai trò quan trọng ảnh hưởng lên quá trình tiếp nhận cảm giác nói chung và cảm giác đau nói riêng. Từ những quan sát cổ điển của Beecher, người ta biết ảnh hưởng của sự biểu hiện mức độ đau tương ứng với bệnh lý: Nghiên cứu so sánh hai nhóm người bị thương là nhóm quân nhân và nhóm dân sự, với những tổn thương giống nhau, Beecher quan sát thấy nhóm quân nhân ít kêu đau hơn và đòi hỏi ít thuốc giảm đau hơn. Giải thích sự khác nhau này giữa hai nhóm là do chấn thương đã mang lại những ý nghĩa hoàn toàn khác nhau: biểu hiện tích cực ở nhóm quân nhân (được cứu sống, kết thúc việc chiến đấu, được xã hội quý trọng...), còn ở nhóm dân sự thì có biểu hiện tiêu cực (mất việc làm, mất thu nhập, mất đi sự hòa nhập với xã hội...).
+
+
+==== Yếu tố hành vi thái độ ====
+Bao gồm toàn bộ những biểu hiện bằng lời nói và không bằng lời nói có thể quan sát được ở bệnh nhân đau như than phiền, điệu bộ, tư thế giảm đau, mất khả năng duy trì hành vi bình thường. Những biểu hiện này có thể xuất hiện như phản ứng với tình trạng đau cảm nhận được, chúng tạo nên những dấu hiệu phản ánh tầm quan trọng của vấn đề đau, và cũng đảm bảo chức năng giao tiếp với những người xung quanh. Những biểu hiện này phụ thuộc vào môi trường gia đình và văn hóa dân tộc, chuẩn mực xã hội, tuổi và giới của cá thể. Những phản ứng của người xung quanh có thể ảnh hưởng đến nhân cách ứng xử của bệnh nhân đau và góp phần vào tình trạng duy trì đau của họ.
+
+
+== Phân loại đau ==
+
+
+=== Phân loại theo cơ chế gây đau ===
+Gồm:	
+
+Đau do cảm thụ thần kinh (nociceptive pain).
+Đau do nguyên nhân thần kinh (neuropathic pain).
+Đau do căn nguyên tâm lý (psychogenic pain).
+
+
+==== Đau do cảm thụ thần kinh (nociceptive pain) ====
+Đau do cảm thụ thần kinh là đau do thái quá về sự kích thích nhận cảm đau tổn thương mà bắt đầu từ các thụ cảm thể nhận cảm đau tổn thương rồi dẫn truyền hướng tâm về thần kinh trung ương; là cơ chế thường gặp nhất trong phần lớn các chứng đau cấp tính (chấn thương, nhiễm trùng, thoái hóa...). ở giai đoạn mạn tính, người ta nhận thấy cơ chế này có trong những bệnh lý tổn thương dai dẳng, ví dụ như trong các bệnh lý khớp mạn, hay trong ung thư.
+Đau do cảm thụ thần kinh thường nhạy cảm với các thuốc giảm đau ngoại vi hay trung ương và các phương pháp phong bế vô cảm.
+
+
+==== Đau do nguyên nhân thần kinh (neuropathic pain) ====
+Một số trường hợp đau xảy ra trong bệnh cảnh di chứng tổn thương hay cắt đoạn thần kinh ngoại vi (như trong hiện tượng chi ma, zona, đau dây V, cắt đoạn thần kinh, liệt hai chân...). Hiện tượng này được giải thích bằng cơ chế lạc đường dẫn truyền vào như sau:
+Sau tổn thương hay cắt đoạn các đường hướng tâm ngoại vi, các neurone ở sừng sau tủy sống hay trên tủy có thể trở nên tăng nhạy cảm do những cơ chế còn chưa biết rõ. Có thể là: do suy giảm sự ức chế, do bộc lộ các đường kích thích, tăng nhạy cảm của những đầu thần kinh bị cắt đoạn, sự dẫn truyền qua lại giữa các sợi kề nhau từ sợi này qua sợi khác, mọc chồi thần kinh giao cảm… Tính chất đặc biệt của các hiện tượng đau là do yếu tố giao cảm bị lôi cuốn vào quá trình bệnh lý (đau giao cảm). Theo M.I Axtvatxaturop, đau cháy là kết quả của kích thích quá mức đồi thị. Đây là một điển hình về cơ chế đau trung ương, đối lập với đau do thái quá nhận cảm đau tổn thương do kích thích ngoại vi. 
+
+Tuy nhiên thực tế tính phức tạp của cơ chế là vừa trung ương, vừa ngoại vi, nên người ta thường dùng thuật ngữ đau do nguyên nhân thần kinh (neuropathic) hay đau do bệnh lý thần kinh mà không nghiêng về phần ngoại vi hay trung ương của chứng đau.
+Ngoài ra, trong lâm sàng còn thường gặp chứng đau hỗn hợp (mixed pain) bao gồm cả cơ chế đau nhận cảm và đau thần kinh.
+
+
+==== Đau do căn nguyên tâm lý (psychogenic pain) ====
+Đau do căn nguyên tâm lý có đặc điểm: là những cảm giác bản thể hay nội tạng, ám ảnh nhiều hơn là đau thực thụ, với sự mô tả phong phú, không rõ ràng hoặc luôn thay đổi và thường lan tỏa, triệu chứng học không điển hình. Đau chỉ mất khi người bệnh tập trung chú ý một vấn đề gì đó, thuốc chống đau không có tác dụng với loại đau này. Thường gặp trong các trường hợp như: bệnh hysteri, bệnh rối loạn cảm xúc (trầm cảm), tự kỷ ám thị về bệnh tật, bệnh tâm thần phân liệt... Khi phát hiện ra những trường hợp đau do căn nguyên tâm lý, cần gửi bệnh nhân đến với các thầy thuốc chuyên khoa tâm lý hay tâm thần để điều trị.
+Đau trong bệnh trầm cảm (depression) là hội chứng rất hay gặp. Nhiều trường hợp trầm cảm là hậu quả của một bệnh đau thực thể có trước, sau đó chính trầm cảm quay trở lại làm bệnh lý đau ngày càng tồi tệ hơn, tạo nên một vòng xoắn bệnh lý. Bệnh nhân có thể có triệu chứng đau rất đa dạng, không phù hợp với tổn thương thực thể sẵn có, kèm theo mệt mỏi, lo bệnh, mất ngủ, giảm khả năng làm việc, điều trị nhiều nơi không có kết quả. Điều trị các kiểu đau này cần dùng thuốc chống trầm cảm kết hợp với tâm lý liệu pháp.
+
+
+=== Phân loại theo thời gian và tính chất đau ===
+Đau cấp tính:
+
+Đau cấp tính (acute pain) là đau mới xuất hiện, có cường độ mạnh mẽ, có thể được coi là một dấu hiệu báo động hữu ích. Đau cấp giúp việc chẩn đoán cần thiết nhằm xác định chứng đau có nguồn gốc thực thể hay không.
+Đau cấp tính bao gồm:
+Đau sau phẫu thuật (post operative pain).
+Đau sau chấn thương (pain following trauma).
+Đau sau bỏng (pain following burn).
+Đau sản khoa (obstetric pain).
+Đau mãn tính
+
+Ngược lại với đau cấp tính, đau mãn tính (chronic pain) là chứng đau dai dẳng tái đi tái lại nhiều lần. Nó làm cho cơ thể bị phá hủy về thể lực và cả về tâm lý và xã hội. Bệnh nhân đau mãn tính thường đi điều trị nhiều nơi, với nhiều thầy thuốc và các phương pháp điều trị khác nhau nhưng cuối cùng chứng đau vẫn không khỏi hoặc không thuyên giảm. Điều đó làm cho bệnh nhân lo lắng và mất niềm tin và làm cho bệnh tình ngày càng trầm trọng hơn.
+Đau mãn tính bao gồm:
+Đau lưng và cổ (back and neck pain).
+Đau cơ (muscular pain).
+Đau sẹo (scar pain).
+Đau mặt (facial pain).
+Đau khung chậu mạn tính (chronic pelvic pain).
+Đau do nguyên nhân thần kinh (neuropathic pain)…
+Theo quy ước cổ điển, người ta ấn định giới hạn phân cách đau cấp và mãn tính là giữa 3 và 6 tháng. Có thể so sánh đau cấp và đau mãn như sau:
+
+Đau ung thư và HIV
+
+Đau ung thư:
+Có thể là đau mãn tính hoặc cấp tính do sự xâm lấn và đè ép của tế bào ung thư vào mô lành gây tổn thương mô và kích thích thụ cảm thể thân thể và nội tạng. Đau có tính chất đau nhức, đập nẩy, dao đâm, chật chội, day dứt…
+Có thể như chứng đau thần kinh (trung ương hoặc ngoại vi): đau bỏng rát, ù tai hoặc tê liệt, đau xé, đau điện giật…
+Đau do bệnh HIV:
+Hệ tiêu hóa: đau miệng, họng, nấm miệng, loét miệng, đau và khó nuốt, đi lỏng…
+Hệ thần kinh: đau đầu, đau thần kinh ngoại vi không đối xứng, đau đa dây thần kinh.
+Hệ cơ xương: viêm khớp, đau khớp và cơ do nhiều nguyên nhân khác…
+
+
+=== Phân loại đau theo khu trú ===
+Đau cục bộ (local pain)
+
+Là khi khu trú đau cảm thấy trùng với khu trú quá trình bệnh lý. Chẳng hạn, trong viêm dây thần kinh, đau cảm thấy suốt dọc dây thần kinh, tương ứng đúng với vị trí giải phẫu của dây thần kinh đó.
+Đau xuất chiếu (referred pain)
+
+Là khu trú đau không trùng với khu trú của kích thích tại chỗ trong hệ cảm giác. Ví dụ, trong chấn thương hoặc u ở vùng đầu gần trung tâm của thân thần kinh, cảm giác đau lại xuất hiện ở vùng phân bố của đầu ngoại vi xa trung tâm của dây thần kinh đó.
+Như trong chấn thương thần kinh trụ ở vùng khớp khuỷu lại thấy đau ở ngón tay IV và V; kích thích các rễ sau cảm giác của tủy sống gây đau xuất chiếu (đau bắn tia) ở các chi hoặc vành đai quanh thân mà rễ thần kinh đó chi phối. 
+
+Một ví dụ nữa về đau kiểu này là hiện tượng đau "chi ma" ở người bị cắt cụt chi thể, sự kích thích những dây thần kinh bị cắt đứt ở mỏm cụt gây một cảm giác ảo, đau ở bộ phận ngoại vi của chi mà thực tế không còn nữa.
+Đau lan xiên
+
+Là cảm giác đau gây ra do sự lan tỏa từ một nhánh dây thần kinh này sang một nhánh thần kinh khác. Ví dụ khi kích thích đau ở một trong ba nhánh của dây thần kinh sinh ba (dây V) có thể đau lan sang vùng phân bố của hai nhánh kia; một trong những triệu chứng ung thư thanh quản có thể là đau tai, do kích thích dây thần kinh thanh quản trên (là một nhánh của dây X cảm giác của thanh quản), đau lan sang vùng nhánh tai cũng của dây X phân bố cho phần sau của ống tai ngoài.
+Đau phản chiếu (reflected pain)
+
+Cũng là một kiểu đau lan xiên, nhưng ở đây kích thích đau xuất phát từ nội tạng được lan xiên đến một vùng da nào đó. Hiện tượng này được giải thích bằng thuyết phản chiếu (còn gọi là cơ chế phản xạ đốt đoạn): Tại lớp V sừng sau tủy sống, có những neurone đau không đặc hiệu gọi là neurone hội tụ, tại đây sẽ hội tụ những đường cảm giác đau hướng tâm xuất phát từ da, cơ xương và vùng nội tạng, làm cho não khi tiếp nhận thông tin từ dưới lên sẽ không phân biệt được đau có nguồn gốc ở đâu, và thường được hiểu nhầm là đau xuất phát từ vùng da tương ứng. Kiểu đau này mang tên hiện tượng cảm giác - nội tạng, còn khu vực da xuất hiện đau gọi là vùng Zakharin Head.
+Ngoài cảm giác đau, ở đây còn có thể thấy cả tăng cảm giác. Ví dụ: đau thắt ngực biểu hiện bằng đau mặt trong cánh tay trái, đau quặn gan biểu hiện bằng đau ở vùng đỉnh xương vai trái...
+
+
+== Xem thêm ==
+Điều trị đau
+Prostaglandin
+Viêm
+Bradykinin
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Định nghĩa các loại đau Lưu trữ 2017-11-09 tại Wayback Machine

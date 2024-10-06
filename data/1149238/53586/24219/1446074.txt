@@ -1,0 +1,28 @@
+reCAPTCHA được phát triển và cung cấp bởi trường đại học Carnegie Mellon. reCAPTCHA là sự kết hợp sáng tạo giữa CAPTCHA với việc số hóa các bản scan sách. Cụ thể, một mặt nó cung cấp dịch vụ CAPTCHA miễn phí cho người sử dụng thông qua website recaptcha.net để đưa vào các website khác, mặt khác, nó sử dụng chính dữ liệu mà người dùng đã xác thực để số hóa các cuốn sách mà bản thân các phần mềm số hóa không thể đọc được.
+
+
+== Mailhide ==
+reCAPTCHA cũng mới tạo dự án Mailhidanscos nhiệm vụ bảo vệ các địa chỉ email trên các trang web khỏi bị spam.  Mặc định, địa chỉ email sẽ được chuyển sang dạng mà các bộ máy tìm kiếm và các phần mềm bóc dữ liệu web (crawler) không thể lấy được địa chỉ đầy đủ. Ví dụ, "mailme@example.com" sẽ bị chuyển thành "mai...@example.com". Người duyệt web có thể kích chuột vào dấu "..." và điền vào một mã ReCAPTCHA được yêu cầu để có thể thấy địa chỉ email đầy đủ.
+
+
+== Nghĩa ==
+CAPTCHA, Completely Automated Public Turing test to tell Computers and Humans Apart và tiếng Việt: Máy kiểm tra người hoặc máy được hoàn thành công khai. Nếu sai, reCAPTCHA sẽ kiểm tra lại.
+
+
+== Xem thêm ==
+CAPTCHA
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Dự án reCAPTCHA Lưu trữ 2009-05-18 tại Stanford Web Archive
+Thử sử dụng reCAPTCHA từ google.com
+ReCAPTCHA: The job you didn't even know you had Lưu trữ 2011-11-24 tại Wayback Machine 2 trang trong tạp chí The Walrus
+Luis von Ahn, Benjamin Maurer, Colin McMillen, David Abraham and Manuel Blum. 2008. "reCAPTCHA: Human-Based Character Recognition via Web Security Measures" Science ngày 12 tháng 9 năm 2008: Vol. 321 no. 5895 pp. 1465–1468. http://dx.doi.org/10.1126/science.1160379
+"Luis von Ahn: Massive-scale online collaboration", YouTube video của kênh "TEDtalksDirectkeenhtair lên ngày 06/12/2011.
+Luis von Ahn tại TED (hội thảo)
+
+
+== Chú thích ==

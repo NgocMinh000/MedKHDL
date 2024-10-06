@@ -1,0 +1,73 @@
+Loại hình ngôn ngữ là một khái niệm của ngôn ngữ học dùng để chỉ tập hợp các ngôn ngữ có chung một hay nhiều đặc điểm hình thái nhất định.
+Loại hình học là bộ môn khoa học nghiên cứu về loại hình ngôn ngữ với hai khuynh hướng sau:
+
+Loại hình học chỉnh thể nghiên cứu, phân loại ngôn ngữ loài người dựa trên tập hợp nhiều tiêu chí. Khái niệm loại hình được hiểu là một tập hợp, hệ thống các đặc điểm hình thái, ngữ pháp, ngữ âm.
+Loại hình học đặc trưng là khuynh hướng nghiên cứu mới, phân loại ngôn ngữ theo từng đặc điểm cụ thể. Khái niệm loại hình được hiểu là một đặc trưng (hình thái, ngữ âm, ngữ pháp).
+Phân loại các ngôn ngữ theo loại hình, không căn cứ vào nguồn gốc xuất xứ, mà dựa vào cấu trúc nội tại của chúng.
+
+
+== Tiêu chí phân loại ==
+Tiêu chí phân loại các loại hình ngôn ngữ là những đặc điểm cấu trúc, hình thái có giá trị phân loại các ngôn ngữ.
+Trong ngôn ngữ nói chung có nhiều đặc điểm:
+
+Đặc điểm phổ quát (phổ niệm) có mặt trong tất cả các ngôn ngữ. Ví dụ: Sự đối lập nguyên âm và phụ âm
+Đặc điểm cá biệt: có mặt trong một ngôn ngữ nhất định. Ví dụ: Tiếng Việt có 6 thanh điệu
+Đặc điểm loại hình: có mặt ở một số ngôn ngữ này mà không có mặt ở một số ngôn ngữ khác. Ví dụ: Có hay không có thanh điệu
+Từ biến đổi hình thái hay không biến đổi hình thái.
+Đây là đặc điểm dựa vào đó các nhà loại hình phân loại loại hình ngôn ngữ.
+Các loại tiêu chí (đặc điểm hình thái):
+
+Hình thái học: phương thức cấu tạo từ (bằng phương thức phụ tố, căn tố, ghép), phương thức biểu thị các phạm trù ngữ pháp, các ý nghĩa ngữ pháp.
+Cú pháp học: phương thức đánh dấu các thành phần câu, các chức vụ cú pháp, trật tự từ, kết cấu cú pháp.
+Ngữ âm học: thanh điệu, phụ âm, nguyên âm.
+
+
+== Các loại hình ngôn ngữ ==
+Căn cứ vào những thuộc tính loại hình mà các ngôn ngữ trên thế giới được chia chủ yếu thành hai nhóm lớn sau:
+
+
+=== Ngôn ngữ đơn lập ===
+
+Tiếng Trung, tiếng Việt, tiếng Thái và các tiếng trong nhóm ngôn ngữ Môn-Khmer là những ví dụ tiêu biểu cho loại hình ngôn ngữ đơn lập. Các đặc điểm chính của loại hình này là:
+
+Từ không biến đổi hình thái. Hình thái của từ không chỉ ra quan hệ giữa các từ trong câu.
+Hư từ và vị trí, trật tự từ đóng vai trò làm rõ quan hệ ngữ pháp cũng như ý nghĩa ngữ pháp của từ và của câu.VD: Thêm hư từ "sẽ" hay "đang" trước từ "ăn" sẽ làm thay đổi ý nghĩa thời gian của hành động (đang ăn/sẽ ăn). Hoặc đảo vị trí các từ cũng làm thay đổi ý nghĩa ngữ pháp (ví dụ: "chân bàn" và "bàn chân").
+Tính hình tiết; hạt nhân cơ bản của từ vựng là các từ đơn tiết. Vì thế mà ranh giới giữa âm tiết, hình vị và từ không rõ ràng (ví dụ: trong tiếng Việt, "nhà" vừa là một hình vị, mà cũng vừa là một từ). Cũng vì vậy mà từ ghép và cụm từ cũng khó phân biệt.
+Khái niệm "các từ loại" là rất mơ hồ. VD như "cưa" vừa là dụng cụ để xẻ gỗ, vừa chỉ hành động cắt xẻ gỗ. Nguyên nhân do cấu trúc của những từ có ý nghĩa đối tượng, tính chất, hành động,...không tách biệt nhau.
+
+
+=== Ngôn ngữ không đơn lập ===
+Được chia thành ba loại hình nhỏ sau đây:
+
+
+==== Ngôn ngữ hòa kết (chuyển dạng) ====
+Tiếng Anh, tiếng Nga, tiếng Pháp...
+
+Từ biến đổi hình thái để diễn tả quan hệ ngữ pháp. Đặc biệt có sự biến đổi nguyên âm và phụ âm trong hình vị. Do sự biến đổi này mang ý nghĩa ngữ pháp nên được gọi là "biến tố bên trong".
+Các hình vị trong từ ở ngôn ngữ hoà kết liên kết với nhau rất chặt chẽ. Chính tố không thể đứng một mình. Ví dụ trong tiếng Nga, chính tố "рук" không thể đứng một mình mà phải đi kèm phụ tố "-е'" hoặc "-ам" ("руке","рукам").
+Mỗi phụ tố có thể đồng thời mang nhiều ý nghĩa, và ngược lại, một ý nghĩa có thể được biểu thị bằng nhiều phụ tố. Ví dụ để diễn tả ý nghĩa, tính chất đối lập, trong tiếng Đức có các phụ tố như "a-", "un-" hay "im-" ("typisch" = điển hình và "atypisch", "schön" = đẹp và "unschön",...)
+Một điểm đặc biệt của ngôn ngữ hoà kết là: ý nghĩa từ vựng và ý nghĩa ngữ pháp được dung hợp trong từ nhưng không thể tách biệt được. Có thể thấy như trong tiếng Anh, rất khó để phân biệt ý nghĩa từ vựng và ý nghĩa ngữ pháp trong từ "feet" (số nhiều của "foot" = bàn chân). Chính bởi đặc điểm này mà người ta gọi là "ngôn ngữ hoà kết".
+
+
+==== Ngôn ngữ chắp dính ====
+Tiếng Nhật, tiếng Hàn, tiếng Thổ Nhĩ Kỳ...
+
+Điểm khác biệt lớn nhất của ngôn ngữ chắp dính và ngôn ngữ hoà kết nằm ở độ chặt chẽ trong mối liên hệ giữa các hình vị. Hình vị trong ngôn ngữ chắp dính có tính độc lập cao hơn và liên kết với nhau cũng không chắc chắn. Điển hình là việc chính tố có thể đứng một mình. Để hiểu rõ, ta cùng xem thí dụ với tiếng Thổ Nhĩ Kỳ:
+adam (người đàn ông)- adamlar (những người đàn ông)
+kadin (người phụ nữ)- kadinlar (những người phụ nữ)
+Các phụ tố được sử dụng rộng rãi để cấu tạo từ và biểu thị những mối quan hệ khác nhau. Thế nhưng mỗi phụ tố lại chỉ biểu thị một ý nghĩa ngữ pháp, và ngược lại cũng vậy. Do vậy từ có độ dài rất lớn.
+
+
+==== Ngôn ngữ hỗn nhập (đa tổng hợp) ====
+Các ngôn ngữ Chu-cốt, Cam-chat.
+
+Đặc điểm nổi bật nhất của loại hình ngôn ngữ này là hiện tượng một từ có thể tương ứng với một câu trong ngôn ngữ khác. Như ta đã biết, để cấu tạo nên câu cần phải có ít nhất thành phần chủ ngữ và vị ngữ, ngoài ra còn có định ngữ, trạng ngữ, bổ ngữ... Nhưng ở đây, tất cả được thể hiện chính tố, các phụ tố trong từ. VD: "i-n-i-a-l-u-d-am" trong tiếng Tschinuk ở Bắc Mỹ có nghĩa như câu " tôi đã đến để cho cô cái này" trong tiếng Việt. Có thể thấy trong thí dụ trên các thành phần câu tương ứng với các bộ phận, thành phần được chứa đựng trong một từ. Vì thế người ta gọi các ngôn ngữ trên là "hỗn nhập" hay "đa tổng hợp".
+Tuy nhiên, bên cạnh các hình thức hỗn nhập vẫn có các hình thức độc lập. Nghĩa là vẫn xuất hiện các từ tách rời, từ đơn.
+Các hình vị trong ngôn ngữ hỗn nhập vừa liên kết theo nguyên tắc kết dính như ngôn ngữ hoà kết hay chắp dính, vừa có thể chuyển dạng nội bộ. Nói cách khác, xét về mặt cấu trúc của các hình vị và mối liên kết giữa chúng thì các ngôn ngữ hỗn nhập mang những đặc điểm của cả hai loại hình ngôn ngữ trên.
+
+
+== Tham khảo ==
+
+N.V. Xtankêvich, Các loại hình ngôn ngữ Nhà xuất bản Đại học và trung học chuyên nghiệp Hà Nội 1982 274tr
+http://ngonngu.net/
+Nguyễn Thiện Giáp (chủ biên), Dẫn luận ngôn ngữ học, Nhà xuất bản Giáo dục.

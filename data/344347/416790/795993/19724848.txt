@@ -1,0 +1,13 @@
+Nghiên cứu thuần tập (hay còn gọi là nghiên cứu đoàn hệ, nghiên cứu theo dõi, nghiên cứu mới mắc) là một dạng nghiên cứu dọc, lấy mẫu là nhóm thuần tập (một nhóm người có chung một đặc điểm xác định, thường là những người đã trải qua một sự kiện chung trong một thời gian xác định).
+Nghiên cứu thuần tập đại diện cho một trong những thiết kế cơ bản của dịch tễ học được sử dụng trong nghiên cứu trong các lĩnh vực y, dược, điều dưỡng, tâm lý học, khoa học xã hội và trong bất kỳ lĩnh vực nào dựa vào các câu trả lời 'khó tiếp cận' dựa trên bằng chứng (thống kê). Ví dụ, trong y học, để đánh giá độ an toàn của dược phẩm mới được phát triển trước khi được chấp thuận bán thì cần trải qua nhiều cuộc thử nghiệm lâm sàng. Phân tích dịch tễ học về cách các yếu tố nguy cơ ảnh hưởng đến tỷ lệ mắc bệnh thường được sử dụng để xác định nguyên nhân gây bệnh ngay từ đầu, và để giúp đưa ra lời diễn giải tiền lâm sàng về tính hợp lý của các yếu tố bảo vệ (phương pháp điều trị).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Prospective cohorts
+Retrospective cohorts
+Study Design Tutorial Cornell University College of Veterinary Medicine
+Birth cohort study timelines (ESDS Longitudinal)
+Centre for Longitudinal Studies

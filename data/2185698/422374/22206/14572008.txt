@@ -1,0 +1,76 @@
+Hội chứng McCune–Albright là một bệnh di truyền ảnh hưởng đến hệ thống xương, da và nội tiết. Đây là một bệnh khảm phát sinh từ các đột biến kích hoạt soma trong  GNAS , mã hóa tiểu đơn vị alpha của thụ thể protein kết hợp Gs-G. Những đột biến này dẫn đến kích hoạt thụ thể cấu thành.
+Nó được mô tả lần đầu tiên vào năm 1937 bởi Donovan James McCune và Fuller Albright.
+
+
+== Dấu hiệu và triệu chứng ==
+
+Hội chứng McCune–Albright bị nghi ngờ khi có hai hoặc nhiều đặc điểm sau:
+
+loạn sản sợi
+Café au lait macules, bao gồm đường "bờ biển Maine" lởm chởm đặc trưng và xu hướng không đi qua đường giữa
+Bệnh nội tiết tăng chức năng
+Bệnh nhân có thể có một hoặc nhiều trong số các tính năng này, có thể xảy ra trong bất kỳ kết hợp. Như vậy, biểu hiện lâm sàng của bệnh nhân mắc hội chứng McCune-Albright thay đổi rất nhiều tùy thuộc vào đặc điểm bệnh.
+Các bệnh nội tiết khác nhau có thể xuất hiện trong hội chứng McCune-Albright do tăng sản xuất hormone.
+
+Dậy thì sớm: Bệnh nội tiết phổ biến nhất là dậy thì sớm, xuất hiện ở trẻ gái (~ 85%) với u nang sản xuất estrogen tái phát dẫn đến phát triển vú, tăng tốc và chảy máu âm đạo. Dậy thì sớm cũng có thể xảy ra ở những bé trai mắc hội chứng McCune - Albright, nhưng ít phổ biến hơn nhiều (~10-15%).
+Bất thường tinh hoàn: Bất thường tinh hoàn được thấy ở đa số bé trai (~ 85%) mắc hội chứng McCune - Albright.
+Bệnh cường giáp: Bệnh cường giáp xảy ra ở khoảng một phần ba số bệnh nhân mắc hội chứng McCune-Albright. Nhiều người khác có thể bị các loại liên quan đến tuyến giáp khác.
+Quá mức hoóc môn tăng trưởng: Đột biến GNAS ở tuyến yên trước có thể dẫn đến bài tiết hormone tăng trưởng vượt mức và được tìm thấy ở khoảng 10-15% bệnh nhân.
+Hội chứng Cushing: Trong hội chứng McCune, Albright, hội chứng Cushing là một đặc điểm rất hiếm gặp chỉ phát triển ở trẻ nhỏ.
+
+
+== Di truyền ==
+Về mặt di truyền, có một đột biến postzygotic của gen GNAS, trên nhánh dài (q) của nhiễm sắc thể 20 ở vị trí 13.3, có liên quan đến G-protein báo hiệu. Đột biến này, chỉ xảy ra ở trạng thái khảm, dẫn đến tín hiệu thụ thể cấu thành và sản xuất dư thừa AMP vòng.
+Đột biến gây ra hội chứng McCune-Albright phát sinh rất sớm trong quá trình tạo phôi. Bởi vì tất cả các trường hợp của hội chứng là lẻ tẻ, người ta tin rằng đột biến sẽ gây chết người nếu nó ảnh hưởng đến tất cả các tế bào trong phôi. Các tế bào đột biến chỉ có thể tồn tại khi chúng được trộn lẫn với các tế bào bình thường.
+Không có yếu tố nguy cơ nào được biết đến khi mắc phải hội chứng McCune-Albright và không có phơi nhiễm nào trong thai kỳ được biết là nguyên nhân hoặc ngăn ngừa đột biến xảy ra. Bệnh không thể di truyền và xảy ra như nhau giữa các nhóm dân tộc.
+
+
+== Chẩn đoán và điều trị ==
+Hội chứng McCune–Albright có mức độ nghiêm trọng khác nhau. Ví dụ, một đứa trẻ mắc hội chứng McCune-Albright có thể hoàn toàn khỏe mạnh, không có bằng chứng bên ngoài về các vấn đề về xương hoặc nội tiết, bước vào tuổi dậy thì ở độ tuổi gần như bình thường và không có sắc tố da khác thường. Chẩn đoán có thể được thực hiện chỉ sau nhiều thập kỷ. Trong các trường hợp khác, trẻ em được chẩn đoán ở giai đoạn sớm, cho thấy bệnh xương rõ ràng và tăng tiết nội tiết rõ rệt từ một số tuyến.
+Điều trị được quyết định bởi cả hai mô bị ảnh hưởng và mức độ ảnh hưởng của chúng.
+
+
+=== Bất thường xương ===
+Bệnh nhân mắc chứng loạn sản sợi có thể bị gãy xương, đau và biến dạng. Bệnh nhân cũng có thể phát triển nồng độ phosphate trong máu thấp do sản xuất quá mức protein yếu tố tăng trưởng nguyên bào sợi 23.
+CT scan hộp sọ là xét nghiệm hữu ích nhất cho chứng loạn sản sợi sọ. Nên thường xuyên kiểm tra thính giác và tầm nhìn. X-quang thường đủ để phát hiện chứng loạn sản sợi của khung ruột thừa, nhưng quét CT và/hoặc MRI có thể phát hiện các vi sợi. Kiểm tra thường xuyên cho vẹo cột sống cũng nên được thực hiện.
+Quản lý phẫu thuật của bất thường xương đã phát triển qua nhiều năm. Can thiệp phẫu thuật có thể cần thiết cho một số bất thường về xương. Bisphosphonates rất hữu ích trong việc giảm đau xương, nhưng người ta không còn tin rằng chúng ngăn ngừa sự tiến triển của bệnh. Denosumab đã được tìm thấy thành công trong việc giảm đau xương và giảm sự phát triển khối u. Các bài tập tăng cường cơ bắp rất quan trọng để ngăn ngừa gãy xương; đạp xe và bơi lội được khuyến nghị để giảm nguy cơ gãy xương khi tập thể dục.
+
+
+=== Bất thường nội tiết ===
+Tuổi dậy thì sớm phổ biến hơn ở nữ giới, nhưng cũng có thể xảy ra ở nam giới. Các loại thuốc như letrozole và anastrozole có thể được sử dụng để ngăn ngừa tầm vóc ngắn ở cả nam và nữ. Ở nam giới, các loại thuốc như spironolactone và flutamide có thể được sử dụng để điều trị các vấn đề về hành vi liên quan đến dư thừa androgen.
+Nam giới mắc hội chứng McCune-Albright có thể có khối u tinh hoàn lành tính, mặc dù ung thư tinh hoàn dường như rất hiếm. Siêu âm khối tinh hoàn hàng năm nên được thực hiện để sàng lọc ung thư.
+Hyperthyroidism được tìm thấy ở khoảng 38% bệnh nhân. Các loại thuốc như thioamides rất hữu ích trong việc điều trị các triệu chứng này. Tuy nhiên, vì các triệu chứng tuyến giáp trong rối loạn này hầu như không bao giờ tự khỏi, phẫu thuật hoặc xạ trị là phương pháp điều trị dứt khoát hơn. Siêu âm tuyến giáp hàng năm nên được thực hiện để sàng lọc ung thư tuyến giáp. Cường tuyến cận giáp thứ phát do thiếu Vitamin D là phổ biến, và có thể làm trầm trọng thêm chứng loạn sản sợi. Mức độ calci và hormone tuyến cận giáp nên được đánh giá định kỳ.
+Trong một nghiên cứu, 18% bệnh nhân McCune-Albright có hạ phosphor máu do liên quan đến thận. Nên dùng liều cao phosphate và calcitriol để điều trị.
+Bất thường hormone tuyến yên có thể xảy ra. Sự dư thừa hormone tăng trưởng có thể làm trầm trọng thêm chứng loạn sản sọ; điều trị bằng somatostatin tương tự hoặc pegvisomant có thể có hiệu quả. Phẫu thuật có thể là một lựa chọn, nhưng có thể phức tạp bởi các bất thường sọ liên quan đến rối loạn. Sự tiết prolactin quá mức cũng có thể xảy ra; điều này được điều trị bằng chất chủ vận dopamine như cabergoline.
+Hội chứng Cushing là một biến chứng hiếm gặp nhưng có khả năng gây tử vong có thể xảy ra trong năm đầu đời. Adrenalectomy là lựa chọn điều trị. Metyrapone cũng có thể được sử dụng để điều trị.
+
+
+== Dịch tễ học ==
+Hội chứng McCune–Albright syndrome ước tính xảy ra với tần suất từ 1/100.000 đến 1/1.000.000 cá nhân trên toàn thế giới.
+
+
+== Các trường hợp đáng chú ý ==
+
+Lauren Ruotolo là một tác giả và tham gia vận động cho hội chứng McCune-Albright.
+Mauricio Saravia (1970–2008) là một nghệ sĩ và nhà thiết kế đồ họa với hội chứng McCune-Albright nghiêm trọng.
+
+
+== Xem thêm ==
+Danh sách các tình trạng da
+Danh sách các phát hiện X quang liên quan đến tình trạng da
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Fibrous Dysplasia Foundation Lưu trữ 2017-02-01 tại Wayback Machine
+FD/MAS Patient Registry
+GNAS gene
+NORD
+GFMER
+Fibrous Dysplasia Radiology Image Database
+GeneReviews entry for fibrous dysplasia/McCune–Albright Syndrome
+Magic Foundation subgroup for McCune–Albright Syndrome
+Bản mẫu:Deficiencies of intracellular signaling peptides and proteins

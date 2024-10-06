@@ -1,0 +1,42 @@
+Bệnh cầu trùng gà (Emiriois) là bệnh ký sinh trùng truyền nhiễm gây ra trên gà bởi nhóm nguyên sinh động vật Protoza, lớp Sporozoa,  bộ Coccidia, họ Eimeria. Cầu trùng ký sinh ở manh tràng và ruột non, làm rối loạn tiêu hóa, gây tổn thương các tế bào thượng bì, không hấp thu được dinh dưỡng, ảnh hưởng đến quá trình trao đổi chất, giảm hiệu quả chuyển hóa thức ăn, giảm tăng trọng, gà còi cọc, chậm lớn, suy yếu có thể chết. Gà mắc bệnh sức đề kháng giảm là yếu tố mở đường cho các bệnh khác bùng phát. Bệnh rất phổ biến trên đàn gà nuôi công nghiệp, bán công nghiệp và kể cả gà chăn thả.
+Mặc dù do ký sinh trùng nhưng bệnh lại lây lan rất nhanh và chủ yếu qua đường miệng. Có ra 9 chủng cầu trùng, mỗi chủng ký sinh, và gây bệnh ở một đoạn ruột trong đó có 05 loại gây bệnh phổ biến, đó là: Eimeria tenella (ký sinh ở manh tràng), Eimeria necatrix (ký sinh ở ruột non), Eimeria acervulina (ký sinh ở ruột non), Eimeria maxima (ký sinh ở ruột non), Eimeria bruneti (ký sinh ở ruột); số còn lại gồm Eimeria mitis, Eimeria mivati, Eimeria hagani, Eimeria praecox ít gây bệnh.
+
+
+== Lịch sử nghiên cứu ==
+Bệnh cầu trùng xảy ra ở cả gia súc, gia cầm và người. Trong lĩnh vực thú y, bệnh được phát hiện cách đây hơn 370 năm, ban đầu, các nhà khoa học dựa trên họ căn nguyên Coccidia để đặt tên cho bệnh là Coccidiosis.  Năm 1863, Rivolta phát hiện ra một loại ký sinh trùng có trong phân của những con gà ỉa ra máu. Một năm sau, Eimeria xác định được loại ký sinh trùng đó chính là loài nguyên sinh động vật (Protoza) sinh sản theo bào tử, thuộc lớp Sporozoa, bộ Coccidia, họ Eimeria. Đến năm 1875, kết quả nghiên cứu của Eimeria được công nhận và tên của ông được đặt cho tên của loài Protoza mà ông đã phát hiện ra. Như vậy, tên gọi Coccidiosis vẫn mang tính chất chung chung do Coccidia có hai giống gây bệnh chủ yếu đó là Eimeria và Isospora. Giống gây bệnh trên gà là Eimeria, do đó tên gọi chính thức thường được dùng đối với bệnh cầu trùng gà là Emiriois.
+Vào năm 1980, Levine phân loại cầu trùng ký sinh trên gà như sau: Ngành Protozoa, phân ngành Apicomplexa, lớp Sporozoasida, phân lớp Coccidiasina, bộ Eucoccidiorida, phân bộ Eimeriorina, họ Eimeriidea, giống Eimeria Schneider. Cho đến nay, các nhà khoa học đã xác định được 10 loại cầu trùng, trong đó chín loại đã được xác định rõ tên, kích thước và màu sắc gồm: E.tenella (Raillient và lucet, 1891); E.acervulina, E.maxima, E.mitis (Tyzzer, 1929); E.necatrix, E.praecox (Johnson, 1930); E.haganci (Levine, 1938), E.brunetti (Levine, 1942) và E.mivatti (Edgar và Seibold, 1969).
+Ở Việt Nam, các nhà khoa học bắt đầu nghiên cứu về bệnh cầu trùng từ những năm 70 của thế kỷ 20, thời điểm đó, chăn nuôi gà theo hướng thâm canh công nghiệp phát triển. Cho đến nay, các nhà khoa học Việt Nam đã phát hiện hầu hết các loại cầu trùng gây bệnh ở gà như các tác giả nước ngoài đã mô tả. Đến nay, Bệnh cầu trùng trên gà được phát hiện ở khắp nơi trên thế giới, ở đâu có gà là ở đó có bệnh cầu trùng.
+
+
+== Đặc điểm ==
+
+
+=== Hình thái ===
+Mỗi loại ký sinh ở một khu vực nhất định trong đường ruột của gà; có hình thái, kích thước khác nhau.
+
+
+=== Vòng đời ===
+Vòng đời hay chu kỳ sinh học của cầu trùng  gồm ba giai đoạn: sinh sản vô tính (Schizogony) và sinh sản hữu tính (Gametogony) được thực hiện trong tế bào biểu mô ruột (Endogenic), giai đoạn sinh sản bào tử (Sporogony) diễn ra ở bên ngoài cơ thể gà (Exogenic). Noãn nang cầu trùng được gà nuốt vào đường tiêu hóa qua thức ăn, nước uống. Dưới tác dụng của men tiêu hoá trong dạ dày và ruột non, đặc biệt là men Trypsin, vỏ của noãn nang bị vỡ, giải phóng ra các bào tử con (Sporocyst). Sporozoit có hình thoi, dài  10 -  15µ, có một hạt nhân chui vào đỉnh các nhung mao ruột non, qua biểu mô, vào tuyến ruột.   
+
+Sinh sản vô tính (Schyzogonie). Sau khi xâm nhập vào tế bào biểu mô, Sporozoit sinh trưởng rất nhanh và trưởng thành với tên gọi Trophozoit. Chỉ sau vài giờ, nhân của Trophozoit phân chia và trở thành Schizont thế hệ I (thể phân liệt). Schizont thế hệ I trưởng thành cũng rất nhanh, hình thành và chứa 8 - 120 nghìn Merozoit thế hệ I (kích thước 5 x 15µ) làm cho tế bào bị ký sinh trương to và vỡ. Merozoit thoát ra khỏi Schizont, một số xâm nhập trở lại tế bào biểu mô để tiếp tục sinh sản vô tính và phá hủy tế bào biểu mô, một số sinh sản hữu tính. Các Schizont thế hệ II tiếp tục phát triển, giải phóng ra Merozoit lại xâm nhập phá hủy tế bào biểu mô lành. Quá trình sinh sản vô tính lặp đi lặp lại để sinh ra các Schizont thế hệ III, IV... các tế bào biểu mổ bị phá hủy ngày càng nhiều.
+Sinh sản hữu tính (Gametogonie). Ở giai đoạn sinh sản, các Schizont thế hệ II, III, IV... tạo ra thể Gamet có hình dạng giống Schizont. Từ Gamet hình thành các Gametocyte đực và Gametocyte cái. Gametocyte đực phát triển, qua nhiều lần phân chia, tạo thành giao tử đực (hay tiểu phối tử) MicrogametlMicrogametocyte hình thoi, có 2 lông roi, kích thước nhỏ, có khả năng di chuyển. Gametocyte cái phát triển thành giao tử cái (đại phối tử) MacrogametlMacrogametocyte có kích thước lớn, một nhân, dự trữ nhiều chất dinh dưỡng, không di động. Nhờ 2 lông roi, giao tử đực di chuyển đến gặp và chui vào giao tử cái. Trong giao tử cái diễn ra quá trình đồng hoá nhân và nguyên sinh chất để tạo thành hợp tử. Hợp tử phân tiết một màng bao bọc bên ngoài và được gọi là noãn nang (Oocys). Thời gian sinh sản vô tính kéo dài 3 - 22 ngày tuỳ loài cầu trùng, các Oocyst theo phân gà ra ngoài cơ thể ngoại cảnh. 
+Sinh sản bào tử (Sporogonie). Ở ngoài môi trường, gặp điều kiện thuận lợi, sau vài giờ, trong nguyên sinh chất của noãn nang đã xuất hiện khoảng sáng và phân chia. Sau 13  -  48 giờ, nguyên sinh chất hình thành 4 túi bào tử (Sporocyst). Nguyên sinh chất của các túi bào tử lại phân chia tạo thành 2 bào tử con (Sporozoit). Như vậy, trong Oocyst có chứa 8 bào tử con, khi gà ăn vào trở thành Oocyst có sức gây bệnh cho gà.  
+
+
+== Triệu chứng ==
+Triệu chứng của bệnh thể hiện rõ hậu quả của quá trình phá huỷ niêm mạc đường tiêu hoá của cầu trùng. Gà bị bệnh thường lờ đờ, chậm chạp, ăn kém hoặc bỏ ăn, lông xù, cánh xã, phân loãng lẫn máu tươi, khát nước, uống nhiều nước, dễ chết do mất nước và mất máu. Đặc trưng nhất là phân lẫn máu tươi hoặc màu bã trầu. Bệnh á cấp tính hoặc mãn tính thường say ra ở gà trên 90 ngày tuổi với triệu chứng chủ yếu là ỉa chảy, lúc thì ỉa chảy ở thể phân lỏng, phân sống, lúc thì không tiêu chảy.
+
+
+== Bệnh tích ==
+Điển hình của bệnh là: xuất huyết và hoại tử niêm mạc ruột (thành ruột có nhiều tụ điểm xuất huyết). Nếu do E. tenella ký sinh, manh tràng sưng rất to, bên ngoài có màu nâu đen hoặc đen, trong lòng manh tràng chứa đầy máu tươi lẫn trong chất chứa màu đen, máu có thể đông thành những cục lổn nhổn, vì thế phân gà luôn lẫn máu. Hậu môn ướt, lông bết, xung quanh cơ vòng hậu môn có những điểm xuất huyết.  
+
+
+== Thiệt hại ==
+Bệnh cầu trùng ở gà là một bệnh khó kiểm soát,  gây nhiều tổn thất cho ngành chăn nuôi. Năm 1980, Hungari đã tổn thất 15 triệu Forints, năm 1981 Pháp chi phí tới 70 triệu Frans (Euzeby, 1981), năm 1989 Mỹ chi phí trên 90 triệu USD và cũng năm này toàn thế giới tốn mất trên 300 triệu USD cho việc phòng chống bệnh cầu trùng gà. Bệnh cầu trùng có tỷ lệ chết cao, từ 30-100%, ngoài ra bệnh có ảnh hưởng rất lớn đến năng suất gà, tăng tỷ lệ còi cọc, giảm sản lượng trứng 15 - 30% trên gà sinh sản, giảm trọng lượng so với gà khỏe từ 12-30%.  
+
+
+== Xem thêm ==
+Phòng và điều trị bệnh cầu trùng gà thả vườn Lưu trữ 2016-06-17 tại Wayback Machine
+
+
+== Chú thích ==

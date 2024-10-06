@@ -1,0 +1,28 @@
+Hội chứng Lennox–Gastaut (LGS) là một khởi phát phức tạp, hiếm gặp và nghiêm trọng ở trẻ em động kinh. Nó được đặc trưng bởi nhiều loại động kinh đồng thời, rối loạn chức năng nhận thức và sóng tăng chậm trên điện não đồ (EEG). Thông thường, nó xuất hiện ở trẻ em 3-5 tuổi và có thể tồn tại đến tuổi trưởng thành. Nó có liên quan đến một số  đột biến gen, lăng mạ chu sinh, nhiễm trùng bẩm sinh, u / dị dạng não và các rối loạn di truyền như xơ cứng củ và Hội chứng West. Tiên lượng cho LGS rất kém với tỷ lệ tử vong 5% ở thời thơ ấu và co giật kéo dài đến tuổi trưởng thành (80%-90%).
+LGS được đặt tên theo các nhà thần kinh học William G. Lennox (Boston, USA) và Henri Gastaut (Marseille, Pháp). Ngày Nhận thức LGS quốc tế là ngày 1 tháng 11.
+
+
+== Dấu hiệu và triệu chứng ==
+Các triệu chứng khác nhau và tiến triển theo tuổi. Các triệu chứng được đặc trưng bởi tam chứng gồm cơn động kinh, rối loạn chức năng nhận thức và phát hiện điện não đồ. Bộ ba có thể không xuất hiện đầy đủ cho đến 1-2 năm sau cơn đầu tiên.
+
+
+=== Động kinh ===
+Tuổi cao nhất của khởi phát cơn động kinh thường là từ 3 đến 5 tuổi. Các triệu chứng chủ yếu là co giật thường xuyên - xảy ra hàng ngày - và khó điều trị bằng thuốc chống động kinh. Ước tính 30% bệnh nhân bị co thắt ở trẻ sơ sinh (Hội chứng West) đã được báo cáo để tiến triển thành LGS.
+Các cơn động kinh thường gặp nhất là động kinh co cứng. Chúng xảy ra thường xuyên nhất trong khi ngủ không phải REM (90%). Các cơn động kinh ban đầu chỉ kéo dài vài giây và được kích hoạt bằng giấc ngủ. Bài thuyết trình có thể tinh tế Hiện tại thường là mở mí mắt với một số thay đổi trong nhịp thở kết hợp với đồng tử giãn, tiểu không tự chủ, tăng nhịp tim và đỏ bừng mặt có thể xảy ra.
+Động kinh không co giật xảy ra ở khoảng 50% bệnh nhân. Các cơn động kinh có thể gây ra ngã bất ngờ thường dẫn đến chấn thương. Những "cuộc tấn công thả" này thường là biểu hiện đầu tiên của LGS. Những cuộc tấn công thả này được đặc trưng bởi một cú giật monoclonic đơn, tổng quát có trước sự co thắt của thuốc bổ axial.
+
+
+=== Kết quả điện não đồ ===
+Các phát hiện cho thấy mạnh mẽ LGS bao gồm spike-wave chậm (<3 hertz [Hz]) khi thức EEG. Các phức thường bao gồm một mũi nhọn (thời gian <70 mili giây) hoặc sóng sắc nét (70-200 mili giây), sau đó là máng sâu dương, sau đó là sóng âm (350-400 mili giây). Không phải mọi sóng đều đi trước một mũi nhọn. Burst tăng và giảm mà không có sự khởi đầu và bù đắp rõ ràng. Sóng tăng đột biến chậm có thể xảy ra trong cơn động kinh hoặc giữa các cơn động kinh, hoặc có thể xảy ra khi không có bất kỳ thay đổi lâm sàng nào có thể quan sát được, giúp phân biệt mô hình với sự phóng điện sóng 3 Hz kéo dài.
+
+
+=== Bất thường ở mắt ===
+Bất thường ở mắt ảnh hưởng đến khoảng 90% trẻ em. Chúng có thể biểu hiện dưới dạng tật khúc xạ, strabismus, suy giảm thị giác vỏ não và bệnh võng mạc sinh non.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+Bản mẫu:Seizures and epilepsy

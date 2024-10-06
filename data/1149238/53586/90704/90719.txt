@@ -1,0 +1,184 @@
+Điện tử học spin (tiếng Anh: spintronics) là một ngành đa lĩnh vực mà mục tiêu chính là thao tác và điều khiển các bậc tự do của spin trong các hệ chất rắn. Nói một cách đơn giản, spintronics là một ngành nghiên cứu mới nhằm tạo ra các linh kiện mới dựa trên việc điều khiển và thao tác spin của điện tử.
+
+
+== Spin của điện tử ==
+Điện tử có hai đặc tính rất quan trọng là điện tích và spin. Điện tích của điện tử được gọi là điện tích nguyên tố và có giá trị đặc trưng là e = 1,6.10−19 C (mang dấu âm), và đã được con người khai thác từ rất lâu mà đặc trưng đơn giản đó là dòng điện. Các linh kiện điện tử truyền thống sử dụng điện trường để điều khiển điện tích của điện tử trong các linh kiện.
+Spin là một đặc trưng của điện tử, được hiểu một cách đơn giản là tạo ra từ việc điện tử (mang điện tích) chuyển động quay quanh trục của nó giống như Trái Đất và các hành tinh... tạo nên mômen động lượng spin và mômen từ spin. Spin của điện tử có độ lớn là 
+  
+    
+      
+        S
+        =
+        
+          
+            1
+            2
+          
+        
+        ℏ
+      
+    
+    {\displaystyle S={\frac {1}{2}}\hbar }
+  
+, và có thể định hướng theo 2 chiều là chiều lên (spin up) và chiều xuống (spin down).
+Mômen từ spin của điện tử có giá trị:
+
+  
+    
+      
+        
+          μ
+          
+            s
+          
+        
+        =
+        −
+        g
+        .
+        
+          μ
+          
+            B
+          
+        
+        .
+        S
+      
+    
+    {\displaystyle \mu _{s}=-g.\mu _{B}.S}
+  
+
+μB = 9.274 009 49(80) × 10−24 J·Tesla−1 là Magneton Bohr, đơn vị của mômen từ, g = 2,0023 cho điện tử tự do goi là thừa số Landé.
+Thực tế mô tả spin như chuyển động quay chỉ là cách mô tả đơn giản mang tính chất hình ảnh nhưng không hoàn toàn chính xác, spin thực tế là đặc trưng của các hạt cơ bản. Các hạt cơ bản có spin bán nguyên gọi là các fermion, chúng tuân theo phân bố Fermi-Dirac, còn các hạt cơ bản có spin nguyên gọi là các boson, chúng tuân theo phân bố Bose-Einstein.
+
+
+== Sự ra đời của spintronics ==
+Sự hình thành của spintronics xuất phát từ những phát kiến về hiệu ứng từ điện trở. Spintronics bắt đầu ra đời với sự phát hiện của hiệu ứng từ điện trở khổng lồ (giant magnetoresistance - GMR) được phát hiện vào năm 1988, đồng thời bởi 2 nhóm nghiên cứu ở Pháp lãnh đạo bởi Albert Fert và ở Đức do Peter Grünberg đứng đầu và hiệu ứng từ điện trở chui hầm (tunneling magnetoresistance - TMR) vào năm 1995. Hai tác giả đứng đầu hai nhóm này là Albert Fert và Peter Grünberg đã nhận được giải thưởng Nobel Vật lý năm 2007 cho những đóng góp quan trọng cho sự hình thành của spintronics trên cơ sở phát minh về hiệu ứng từ điện trở khổng lồ.
+Mục tiêu quan trọng của spintronics là hiểu về cơ chế tương tác giữa spin của các hạt và môi trường chất rắn, từ đó có thể điều khiển cả về mật độ cũng như sự chuyển vận (transportation) của dòng spin trong vật liệu. Những câu hỏi lớn được đặt ra cho ngành spintronics là:
+
+Cách nào hiệu quả nhất để phân cực một hệ spin?
+Một hệ spin có thể nhớ trạng thái định hướng trong bao lâu?
+Làm thế nào để ghi nhận spin? 
+
+
+== Các khái niệm và thao tác trên linh kiện spintronics ==
+Độ phân cực: Hiểu một cách đơn giản là tỉ lệ sai lệch giữa spin định hướng theo 2 chiều lên và xuống, được cho bởi công thức:
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              
+                n
+                
+                  ↾
+                
+              
+              −
+              
+                n
+                
+                  ⇂
+                
+              
+            
+            
+              
+                n
+                
+                  ↾
+                
+              
+              +
+              
+                n
+                
+                  ⇂
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle P={\frac {n_{\upharpoonright }-n_{\downharpoonright }}{n_{\upharpoonright }+n_{\downharpoonright }}}}
+  
+
+với 
+  
+    
+      
+        
+          n
+          
+            ↾
+          
+        
+        ,
+        
+          n
+          
+            ⇂
+          
+        
+      
+    
+    {\displaystyle n_{\upharpoonright },n_{\downharpoonright }}
+  
+ lần lượt là mật độ spin up và spin down.
+
+Dòng phân cực spin: Là khái niệm được đề xuất năm 1935 bởi Mott để giải thích các tính chất bất thường của điện trở trong các kim loại sắt từ. Mott cho rằng ở nhiệt độ đủ thấp sao cho tán xạ trên magnon đủ nhỏ thì các dòng chuyển dời điện tử chiếm đa số (có spin song song với từ độ) và thiểu số (có spin đối song song với từ độ) sẽ không bị pha trộn trong quá trình tán xạ. Sự dẫn điện có thể coi là tổng hợp của hai dòng độc lập và không cân bằng của hai loại spin có chiều khác nhau. Đó chính là khái niệm về dòng phân cực spin. Và mô hình của Mott được gọi là mô hình hai dòng điện, và sau đó được nhóm của Campel mở rộng vào năm 1936, và sau đó tiếp tục được bổ sung hoàn thiện và là một khái niệm quan trọng để mô tả hiệu ứng từ điện trở cũng như các quá trình trong linh kiện spintronics.
+Tiêm spin, bơm spin: Trong một số chất ở trạng thái sắt từ, mật độ spin up và down là cân bằng nhau và không tạo ra dòng phân cực spin và không hữu ích cho các linh kiện spintronics. Người ta có thể tạo ra các dòng phân cực spin trong các chất này bằng cách dùng các nguồn để đưa dòng phân cực spin vào từ bên ngoài, gọi là quá trình tiêm spin (spin injection) hay bơm spin (spin pumping).
+Truyền dẫn spin
+Tích lũy spin
+Vào thời điểm hiện tại, các nghiên cứu về spintronics có hai xu hướng:
+
+
+=== Các linh kiện dựa trên các vật liệu từ kim loại ===
+Hướng nghiên cứu này phát triển dựa trên các thành tựu về hiệu ứng từ điện trở, tạo ra từ các màng mỏng kim loại sắt từ. Sản phẩm ở mức độ thương phẩm của hướng nghiên cứu này là ổ cứng dung lượng cao, bộ nhớ RAM từ điện trở... Hướng nghiên cứu này đang trở nên mạnh mẽ và rất có triển vọng phát triển thành hiện thực với sự phát triển của dòng linh kiện điều khiển các vách đômen trong các cấu trúc nano từ tính. Việc điều khiển động học của các vách đômen cho phép tạo ra các cổng lôgic, các bộ nhớ... với chất lượng cao và cơ cấu rất đơn giản.
+
+
+=== Hướng nghiên cứu dựa trên các linh kiện bán dẫn ===
+Hướng nghiên cứu này tạo ra các linh kiện spintronic dựa trên việc điều khiển dòng điện tử phân cực spin trong các vật liệu bán dẫn. Để tạo ra được linh kiện loại này thì việc tiêm spin, điều khiển spin và ghi nhận spin phân cực trong chất bán dẫn đóng vai trò then chốt. Hiện hướng nghiên cứu này đang gặp những cản trở lớn:
+
+Tạo ra các chất bán dẫn mang tính chất từ (gọi là các chất bán dẫn pha loãng từ) có tính sắt từ ở trên nhiệt độ phòng, hoặc các chất bán kim sắt từ có độ phân cực spin cao.
+Đưa được dòng điện tử phân cực spin vào trong chất bán dẫn trên quãng đường đủ dài để ghi nhận spin.
+Các vấn đề gặp phải của các lớp chuyển tiếp giữa các lớp vật liệu gây sự tán xạ và làm mất độ phân cực spin.
+Vướng mắc giữa việc sử dụng lớp phân cực spin là các kim loại sắt từ hay các vật liệu bán dẫn từ, sử dụng các lớp tiếp xúc từ chui hầm....
+
+
+== Một số linh kiện spintronics ==
+
+Một cách tương đối, có thể chia các linh kiện spintronics thành 3 thế hệ: 
+
+Thế hệ thứ nhất: Gồm các linh kiện dựa trên các hiệu ứng GMR, TMR, trong các màng mỏng từ tiếp xúc dị thể kim loại-kim loại hoặc kim loại-điện môi..., ví dụ như các cảm biến, đầu đọc từ trở trong các đĩa cứng, các bộ nhớ RAM từ điện trở (MRAM), các transitor kim loại (hay transitor lưỡng cực), transitor valse spin, công tắc/khoá đóng mở spin,...
+Thế hệ thứ hai: Bao gồm các linh kiện hoạt động dựa trên việc tiêm hoặc bơm dòng phân cực spin qua tiếp xúc dị thể bán dẫn-sắt từ hay bán dẫn từ-bán dẫn (điều này giúp cho việc tận dụng được các kỹ thuật vi điện tử hiện nay). Đó là các mạch khoá siêu nhanh, các bộ vi xử lý spin và mạch logic lập trình được,... Các linh kiện này sử dụng các vật liệu bán dẫn pha loãng từ, bán dẫn sắt từ hay các bán kim, các linh kiện vận chuyển electron theo đường đạn đạo (ballistic electron transport) sử dụng hiệu ứng từ điện trở xung kích, và các loại transistor spin như ở thế hệ thứ nhất. Một thế hệ linh kiện spin mới đang được phát triển mạnh và rất có triển vọng hiện nay là các bộ nhớ từ và các cổng lôgic dựa trên điều khiển vách đômen trong các cấu trúc nano từ tính,.
+Thế hệ thứ ba: Là các linh kiện sử dụng các cấu trúc nano (dạng chấm lượng tử, dây và sợi nano) và sử dụng các trạng thái spin điện tử đơn lẻ như cổng logic lượng tử (là cơ sở cho máy tính lượng tử), các transistor đơn spin (SSET),...
+Cảm biến van spin thuộc thế hệ linh kiện đầu tiên đã được chế tạo và đưa vào sử dụng ở mức độ thương phẩm từ cuối thế kỷ 20. Một số linh kiện điển hình của thế hệ này là kính hiển vi từ điện trở, đầu đọc ghi ổ cứng tốc độ cao, phím bấm không tiếp xúc, động cơ không chổi than, giải mã vạch, đếm tốc độ, máy trợ thính,... Các bộ nhớ MRAM không tự xóa đang bắt đầu có sản phẩm thương phẩm, và được dự đoán là sẽ chiếm lĩnh thị trường thương mại và tiêu dùng trong những năm gần đây.
+
+
+== Ưu điểm của các linh kiện spintronics ==
+Tiêu thụ ít năng lượng hơn: Việc chuyển trạng thái 0 và một trong các linh kiện điện tử truyền thống được thực hiện bằng cách vận chuyển điện tích vào/ra khỏi các kênh củatransistor. Điều đó đòi hỏi phải tiêu tốn năng lượng vì việc vận chuyển điện tích đòi hỏi phải tạo ra được độ dốc của trường thế (hay điện trường), do đó bị tổn hao thành nhiệt và không thể bù đắp được, trong khi các linh kiện spintronics đảo trạng thái dựa trên việc đổi định hướng spin.
+Không gây ồn/nhiễu như điện tích: spin không liên kết dễ dàng với điện trường phát tán (trừ khi tương tác spin-quỹ đạo rất mạnh ở trong các vật liệu) nên tránh được nhiễu và ồn của điện tích.
+Thao tác nhanh hơn vì không phải mất thời gian cho việc vận chuyển điện tích, chỉ mất thời gian đảo phương spin. Tóm lại, đối với spin chỉ cần đảo chiều theo 2 chiều "lên" và "xuống" nên đòi hỏi tiêu tốn ít năng lượng và mất ít thời gian hơn nhiều.
+Người ta dự đoán rằng công nghệ spintronics sẽ góp phần quan trọng vào sự phát triển của công nghệ điện tử - tin học - viễn thông trong thế kỷ 21. Các đặc trưng của các thiết bị điện tử thế hệ mới này có tính tổ hợp cao (cả điện tử hoc, từ học và quang tử), đa chức năng, thông minh, nhỏ gọn, tiêu thụ ít năng lượng nhưng hiệu suất cao, xử lý và khả làm tươi (refresh) thông tin với tốc độ rất cao...
+
+
+== Xem thêm ==
+Sắt từ
+Từ điện trở
+Từ điện trở khổng lồ
+Spin
+
+
+== Liên kết ngoài ==
+Room temperature spintronics consortium
+Bộ nhớ RAM từ trở Lưu trữ 2007-09-27 tại Wayback Machine
+
+
+== Tham khảo ==

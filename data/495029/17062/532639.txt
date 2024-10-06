@@ -1,0 +1,21 @@
+Chụp cắt lớp vi tính (thường được viết tắt là chụp CT; trước đây được gọi là chụp cắt lớp trục vi tính hoặc quét CAT) là một kỹ thuật hình ảnh dùng trong y tế được sử dụng để có được hình ảnh bên trong chi tiết của cơ thể. Nhân viên thực hiện chụp CT được gọi là kỹ thuật viên chụp X quang hoặc kỹ thuật viên X quang.
+Máy quét CT sử dụng một đèn phát tia X quay và một dãy đầu dò được đặt trong khung cổng để đo độ suy giảm tia X của các mô khác nhau bên trong cơ thể. Nhiều phép đo tia X được thực hiện từ các góc độ khác nhau sau đó được xử lý trên máy tính bằng thuật toán tái tạo chụp cắt lớp để tạo ra hình ảnh chụp cắt lớp (mặt cắt ngang) ("lát cắt ảo") của cơ thể.
+CT scan có thể được sử dụng ở những bệnh nhân cấy ghép kim loại hoặc máy điều hòa nhịp tim, những người bị chống chỉ định chụp cộng hưởng từ (MRI).
+Kể từ khi được phát triển vào những năm 1970, chụp CT đã được chứng minh là một kỹ thuật hình ảnh linh hoạt. Mặc dù CT được sử dụng phổ biến nhất trong chẩn đoán y tế, nhưng cũng có thể được ứng dụng để tạo hình ảnh của các vật thể không còn sống.
+Giải Nobel Sinh lý học hoặc Y học năm 1979 được trao chung cho nhà vật lý người Mỹ gốc Nam Phi, Allan MacLeod Cormack và kỹ sư điện người Anh là Godfrey Hounsfield "vì sự phát triển của kỹ thuật chụp cắt lớp có sự hỗ trợ của máy tính"
+
+
+== Từ nguyên ==
+Thuật ngữ này trong tiếng Anh gọi là computed tomography scan (quét hình cắt lớp dùng máy tính), thường viết tắt là CT scan, nên ở Việt Nam thường gọi  nôm na là chụp xi-ti.  Trong lịch sử y học, thuật ngữ này cũng còn gọi là  computed axial tomography (chụp cắt lớp vi tính theo trục) hoặc computed axial tomographicy scan (viết tắt là CAT scan).
+
+
+== Nguyên lý ==
+Máy CT quay vòng quanh thân thể bệnh nhân, phát tia X quang và đo độ hấp thụ năng lượng tia X của các cấu trúc khác nhau của cơ thể. Sau đó sử dụng các thông tin này và ráp lại bằng vi tính hình ảnh của cơ thể trên không gian 2 hoặc 3 chiều.
+
+Phép chụp cắt lớp vi tính tận dụng sự kết hợp của nhiều phép đo bằng tia X được chiếu từ nhiều góc độ để tạo nên hình cắt mặt ngang của vật được chụp, từ đó cho phép người chụp có thể nhìn được bên trong của vật mà không cần phẫu thuật. Các thuật ngữ khác bao gồm chụp cắt lớp trục (CAT scan) và chụp cắt lớp điện toán.
+Xử lý kĩ thuật số được sử dụng để tạo ra thêm một khối ảnh ba chiều bên trong vật thể từ một loạt lớn các hình ảnh X quang hai chiều được chụp xung quanh một trục xoay đơn.
+Tạo ra những hình ảnh trong Y học là ứng dụng phổ biến nhất của máy CT. Hình ảnh cắt ngang của nó được sử dụng cho mục đích chẩn đoán và điều trị trong các ngành y tế khác nhau.
+Thuật ngữ "chụp cắt lớp vi tính" (CT) thường được dùng để chỉ phương pháp chụp bằng tia X-quang, bởi vì nó là dạng phổ biến nhất được biết đến. Tuy nhiên, vẫn còn nhiều loại CT khác tồn tại, như chụp cắt lớp phát xạ positron (PET) và chụp cắt lớp vi tính phát xạ đơn photon (SPECT). Chụp X quang là một dạng sơ khai của CT.
+
+
+== Tham khảo ==

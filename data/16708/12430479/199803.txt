@@ -1,0 +1,168 @@
+Bệnh than (từ nguyên tiếng Hy Lạp Άνθραξ nghĩa là than, còn gọi là bệnh nhiệt thán, tên khoa học: Anthrax) là bệnh truyền nhiễm cấp tính nguy hiểm do vi khuẩn Bacillus anthracis gây ra trên các loài động vật máu nóng (gồm có gia súc, động vật hoang dã và con người), ở một vài dạng vi khuẩn có độc tính rất cao.
+Nó có thể xảy ra ở 4 dạng là: da, phổi, ruột và tim. Các triệu chứng khởi phát từ một ngày đến hơn hai tháng sau khi nhiễm trùng. Ở dạng da, người bệnh có vết phồng rộp nhỏ và xung quanh sưng tấy, thường biến thành vết loét không đau với tâm màu đen. Dạng phổi có biểu hiện sốt, đau ngực và khó thở. Dạng ruột có biểu hiện tiêu chảy, có thể kèm theo máu, đau bụng, buồn nôn và nôn. Dạng tiêm có biểu hiện sốt và áp xe tại chỗ tiêm thuốc.
+Theo Trung tâm Kiểm soát Dịch bệnh, những mô tả lâm sàng đầu tiên về bệnh than trên da đã được Maret đưa ra vào năm 1752 và Fournier vào năm 1769. Trước đó bệnh than chỉ được mô tả qua các tài liệu lịch sử. Nhà khoa học Robert Koch đã nghiên cứu về Bacillus anthracis, loại vi khuẩn gây bệnh than.
+Bệnh than lây lan khi tiếp xúc với bào tử của vi khuẩn, thường xuất hiện trong các sản phẩm của động vật bị nhiễm. Tiếp xúc là qua hít thở, ăn uống hoặc qua vùng da bị xước. Nó thường không lây lan trực tiếp giữa người với người. Các yếu tố làm tăng rủi ro bao gồm những người làm việc với động vật hoặc sản phẩm động vật, khách du lịch và quân nhân. Có thể xác nhận chẩn đoán bằng cách tìm kháng thể hoặc độc tố trong máu hoặc bằng cách cấy mẫu từ vị trí bị nhiễm bệnh.
+Tiêm phòng bệnh than được khuyến khích cho những người có nguy cơ nhiễm bệnh cao. Việc tiêm chủng cho động vật chống lại bệnh than được khuyến khích ở những khu vực đã từng bị nhiễm bệnh trước đó. Một đợt thuốc kháng sinh kéo dài hai tháng như ciprofloxacin, levofloxacin và doxycycline sau khi tiếp xúc cũng có thể ngăn ngừa việc nhiễm bệnh. Nếu bị nhiễm bệnh, phải điều trị bằng thuốc kháng sinh và có thể là thuốc kháng độc tố. Loại và số lượng kháng sinh được sử dụng tùy thuộc vào loại nhiễm trùng. Thuốc kháng độc tố được khuyên dùng cho những người bị nhiễm trùng lan rộng.
+Là một căn bệnh hiếm gặp, bệnh than ở người phổ biến nhất ở châu Phi và các khu vực trung và nam châu Á Nó cũng xảy ra thường xuyên ở Nam Âu hơn những nơi khác trên lục địa này và không phổ biến ở Bắc Âu và Bắc Mỹ. trên toàn cầu, ít nhất 2.000 trường hợp xảy ra mỗi năm, với khoảng hai trường hợp mỗi năm ở Hoa Kỳ. Nhiễm trùng da chiếm hơn 95% các trường hợp. Nếu không điều trị, nguy cơ tử vong do bệnh than trên da là 23,7%. Đối với nhiễm trùng đường ruột, nguy cơ tử vong là 25 đến 75%, trong khi bệnh than đường hô hấp có tỷ lệ tử vong từ 50 đến 80%, ngay cả khi được điều trị.
+Cho đến thế kỷ 20, bệnh than đã giết chết hàng trăm nghìn người và động vật mỗi năm. Nó đã được một số quốc gia phát triển làm vũ khí sinh học. Ở động vật ăn cỏ, nhiễm trùng xảy ra khi chúng ăn hoặc hít thở phải bào tử trong khi chăn thả. Động vật cũng có thể bị nhiễm bệnh khi ăn thịt con vật bị nhiễm bệnh
+
+
+== Tên gọi ==
+Tên tiếng Anh "anthrax" bắt nguồn từ tiếng Hy Lạp (ἄνθραξ) có nghĩa là than đá, có thể bắt nguồn từ Ai Cập, vì những tổn thương da màu đen đặc trưng của nạn nhân bị nhiễm bệnh than trên da. Vùng da đen ở giữa được bao quanh bởi lớp da đỏ sặc sỡ từ lâu đã được công nhận là điển hình của căn bệnh này. Việc sử dụng từ "anthrax" trong tiếng Anh đầu tiên được ghi lại trong bản dịch năm 1398 của tác phẩm De proprietatibus rerum ("Về thuộc tính của vạn vật", năm 1240) của Bartholomaeus Anglicus
+Bệnh than trong lịch sử được biết đến với rất nhiều tên gọi chỉ ra các triệu chứng, vị trí và các nhóm người được coi là dễ bị lây nhiễm nhất. Chúng bao gồm bệnh dịch hạch ở Siberia, bệnh Cumberland, bệnh Charbon, sốt lách, phù nề ác tính và bệnh la maladie de Bradford
+
+
+== Nguyên nhân ==
+
+
+=== Vi khuẩn ===
+
+Bacillus anthracis là một loại vi khuẩn kỵ khí hình que, Gram dương, có hình dạng dễ nhìn, có kích thước khoảng 1 x 9 μm. Nó được Robert Koch chứng minh là có thể gây bệnh vào năm 1876 khi ông lấy mẫu máu từ một con bò bị nhiễm bệnh, phân lập vi khuẩn và đưa chúng vào một con chuột.
+Ở ngoài môi trường, khi điều kiện bất lợi, vi khuẩn Bacillus anthracis sẽ tạo thành bào tử (nha bào). Nha bào bệnh than có sức sống rất cao, có thể tồn tại hàng thập kỷ thậm chí thế kỷ trong môi trường khắc nghiệt và được ghi nhận có mặt ở tất cả các lục địa (kể cả Châu Nam Cực). Khả năng chịu nhiệt và đề kháng với các hóa chất khử trùng của nha bào rất cao. Dưới tác dụng của phenol 5%, nha bào tồn tại tới 40 ngày. Khi đun sôi ở nhiệt độ 100 °C nha bào tồn tại trong thời gian 15 phút, hấp ướt ở nhiệt độ 121 °C nha bào tồn tại trong 15 phút, sấy khô 150 °C nha bào tồn tại trong 1 giờ. Vi khuẩn nhiệt thán bị tiêu diệt ở nhiệt độ 50 °C-55 °C trong thời gian 15 – 40 phút, ở 70 °C trong một vài phút, trong nội tạng của động vật chết một vài tuần.
+Vi khuẩn thường tồn tại ở dạng bào tử (nha bào) trong đất và nó có thể tồn tại hàng chục năm ở trạng thái này. Động vật ăn cỏ thường bị nhiễm bào tử này trong khi chăn thả, đặc biệt là khi ăn các loại thực vật xù xì hoặc có nhiều gai nhọn. Đã có giả thuyết là các loại thực vật được động vật ăn vào đã gây ra các vết xước trong đường tiêu hóa, cho phép các bào tử vi khuẩn xâm nhập vào các mô, mặc dù điều này chưa được chứng minh. Sau khi ăn phải hoặc xâm nhập vào vết thương hở, vi khuẩn bắt đầu nhân lên bên trong động vật hoặc con người, và thường giết chết vật chủ trong vòng vài ngày hoặc vài tuần. Các bào tử nảy mầm tại vị trí xâm nhập vào các mô và sau đó lan truyền theo đường tuần hoàn đến các hạch bạch huyết, nơi vi khuẩn sinh sôi.
+Việc sản sinh ra hai loại ngoại độc tố mạnh và độc tố do vi khuẩn là nguyên nhân gây ra tử vong. Các bác sĩ thú y thường có thể phán đoán một cái chết có thể do bệnh than gây ra bởi sự xuất hiện đột ngột của bệnh và bởi máu đen không đông đặc chảy ra từ cơ thể. Hầu hết vi khuẩn bệnh than bên trong cơ thể sinh vật đã chết đều bị vi khuẩn kỵ khí bao bọc và chúng sẽ bị tiêu diệt trong vòng vài phút đến vài giờ sau cái chết. Tuy nhiên, vi khuẩn bệnh than thoát ra khỏi cơ thể qua máu rỉ hoặc qua các lỗ của cơ thể động vật thì có thể tạo thành bào tử cứng.  Các tác nhân gây ra sự hình thành bào tử vẫn chưa được biết đến, mặc dù sức căng oxy và thiếu chất dinh dưỡng có thể đóng vai trò nào đó. Sau khi hình thành, những bào tử này rất khó bị tiêu diệt và có thể tồn tại hàng chục năm bên ngoài môi trường.
+Sự lây nhiễm của động vật ăn cỏ (và đôi khi cả con người) theo đường hô hấp thường bắt đầu bằng việc hít phải bào tử, rồi chúng được vận chuyển qua đường dẫn khí vào các túi khí nhỏ (phế nang) trong phổi. Sau đó, các bào tử này được các tế bào miễn dịch (đại thực bào) trong phổi thu nhận và được vận chuyển qua các mạch máu nhỏ đến các hạch bạch huyết trong khoang ngực trung tâm (trung thất). Tổn thương do bào tử và trực khuẩn bệnh than xâm nhập vào khoang ngực trung tâm có thể gây đau ngực và khó thở. Khi đã vào trong hạch, bào tử nảy mầm thành trực khuẩn hoạt động, nhân lên và cuối cùng làm vỡ đại thực bào, giải phóng thêm nhiều trực khuẩn vào máu để chuyển đi khắp cơ thể. Khi vào máu, những trực khuẩn này giải phóng ba loại protein. Bản thân ba chất này không độc, nhưng sự kết hợp của chúng lại gây tử vong cho con người một cách đáng kinh ngạc, tạo thành độc tố gây chết người và độc tố gây phù. Những chất độc này là tác nhân chính phá hủy mô, chảy máu và tử vong cho vật chủ. Nếu dùng kháng sinh quá muộn, ngay cả khi kháng sinh diệt được vi khuẩn, một số vật chủ vẫn chết vì nhiễm độc máu vì độc tố do trực khuẩn tiết ra vẫn còn trong cơ thể ở mức gây tử vong.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Lây nhiễm ===
+Bào tử của bệnh than có khả năng tồn tại trong điều kiện khắc nghiệt hàng chục năm, thậm chí hàng thế kỷ. Những bào tử như vậy có thể được tìm thấy trên tất cả các lục địa, bao gồm cả Nam Cực Các khu chôn xác động vật bị nhiễm bệnh đã được biết là nguyên nhân gây nhiễm bệnh kể cả sau 70 năm.
+Trong lịch sử, bệnh than qua đường hô hấp được gọi là "bệnh len" vì nó là một nguy cơ nghề nghiệp đối với những người phân loại len. Ngày nay, hình thức lây nhiễm này là cực kỳ hiếm ở các quốc gia tiên tiến, vì hầu như không còn động vật bị nhiễm bệnh.
+Tiếp xúc nghề nghiệp với động vật bị nhiễm bệnh hoặc các sản phẩm của chúng (chẳng hạn như da, len, và thịt) là con đường phơi nhiễm thông thường đối với con người. Người lao động tiếp xúc với động vật và sản phẩm động vật chết có nguy cơ cao nhất, đặc biệt là ở các quốc gia nơi bệnh than là phổ biến hơn. Bệnh than ở gia súc chăn thả trên bãi đất trống nơi chúng tiếp xúc với động vật hoang dã thỉnh thoảng vẫn xảy ra ở Hoa Kỳ và các nơi khác.
+Nhiều công nhân làm việc với len và da sống của động vật thường xuyên tiếp xúc với mức độ thấp của bào tử bệnh than, nhưng hầu hết mức độ phơi nhiễm không đủ để phát triển thành bệnh than. Một trường hợp nhiễm bệnh gây chết người được báo cáo là do hít phải khoảng 10.000–20.000 bào tử, mặc dù liều lượng này khác nhau giữa các loài vật chủ. Hiện có rất ít bằng chứng hoặc tài liệu xác minh số lượng bào tử chính xác hoặc trung bình cần thiết để lây nhiễm.
+
+
+=== Phương thức lây nhiễm ===
+
+Bệnh than có thể xâm nhập vào cơ thể con người qua đường ruột (ăn vào), phổi (hít thở), hoặc qua da và gây ra các triệu chứng lâm sàng riêng biệt dựa trên vị trí xâm nhập của nó. Nói chung, một người bị nhiễm bệnh phải được cách ly. Tuy nhiên, bệnh than thường không lây từ người bị nhiễm bệnh sang người chưa bị nhiễm bệnh. Tuy nhiên, nếu căn bệnh này gây tử vong cho người đó, thì khối lượng trực khuẩn bệnh than của nó sẽ trở thành nguồn lây nhiễm tiềm năng cho người khác và cần áp dụng các biện pháp phòng ngừa đặc biệt để ngăn chặn sự lây nhiễm thêm. Bệnh than là thứ gây chết người, nếu không được điều trị cho đến khi các triệu chứng rõ ràng xảy ra, thường sẽ gây tử vong.
+Nguồn bệnh bao gồm các chất bài tiết, dịch tiết, máu, nước tiểu, dịch mật, sữa, phủ tạng, cơ quan sinh dục... của động vật mắc bệnh. Ở ngoài môi trường, vi khuẩn nhiệt thán hình thành nha bào tồn tại trong một thời gian dài có ở đất, nước, không khí, cỏ cây, các vật dụng... nhiều nhất ở những nơi bị nhiễm chất bài tiết hoặc nơi chôn cất động vật mắc bệnh. Đối với những nơi chôn người và động vật mắc bệnh, nha bào vẫn tồn tại và phát tán rộng lên môi trường khi giun đất ăn phải và đùn theo phân lên mặt đất.
+Đường lây truyền chủ yếu qua đường tiêu hóa, hô hấp và qua vết thương hở trên da. Khi động vật ăn phải, hít phải, tiếp xúc với nha bào bệnh than qua vết thương, nha bào phát triển thành vi khuẩn nhiệt thán, từ đó xâm nhập vào các cơ quan, tổ chức trong cơ thể gây bệnh.
+Bệnh than có thể lây nhiễm do các tai nạn trong phòng thí nghiệm hoặc do tiếp xúc với động vật bị nhiễm bệnh, len hoặc da của chúng. Nó cũng đã được sử dụng trong các tác nhân vũ khí sinh học và bởi những kẻ khủng bố để cố ý lây nhiễm, như đã được minh chứng trong các cuộc tấn công bệnh than năm 2001 tại Mỹ.
+
+
+== Loài mắc bệnh ==
+Các loài mắc bệnh gồm có: động vật ăn cỏ (trâu, bò, ngựa, dê, cừu, hươu, nai...), động vật ăn thịt (chó, mèo...), động vật ăn tạp (lợn nhà, lợn rừng) và con người. Người mắc bệnh khi vi khuẩn hoặc nha bào nhiệt thán xâm nhập vào cơ thể qua vết thương hở, qua đường hô hấp do hít phải nha bào, đường tiêu hóa do ăn thịt gia súc mắc bệnh.
+
+
+== Những biểu hiện khi mắc bệnh than ==
+
+
+=== Gia súc ===
+Động vật mắc bệnh có thời gian ủ bệnh từ vài giờ đến vài tuần; gia súc có biểu hiện lè lưỡi ra ngoài, bụng chướng to, lòi dom, các lỗ tự nhiên (miệng, mũi, hậu môn, cơ quan sinh dục,...) chảy dịch nhầy lẫn máu sẫm màu không đông hoặc khó đông. Xuất hiện nhiều mụn loét đỏ thẫm, chảy dịch vàng trên các vùng da cổ, ngực, hông,... Các hạch (hạch hầu, hạch trước vai, hạch đùi) sưng to và tụ máu. Lách sưng to, tím sẫm nát nhũn. Các xoang cơ thể chứa máu đen không đông. Thịt tím, tái thẫm máu.
+Đối với lợn mắc bệnh, hầu bị sưng nên khó nuốt, khó thở, không kêu được; nếu bị nặng sưng cả phần ngực, bụng và mặt. Vị trí sưng có màu đỏ sẫm, tím bầm.
+
+
+=== Ở người ===
+
+
+==== Thể da ====
+
+Bệnh than ở da, còn được gọi là "bệnh của người khuân vác", là khi bệnh than xuất hiện trên da. Đây là dạng phổ biến nhất (trên 90% các trường hợp mắc bệnh than). Đây là dạng ít nguy hiểm nhất (tỷ lệ tử vong rất thấp khi điều trị, 23,7% tỷ lệ tử vong khi không điều trị).
+Bệnh than ở da biểu hiện dưới dạng tổn thương da giống như mụn nhọt, cuối cùng tạo thành vết loét với trung tâm màu đen (eschar). Eschar màu đen thường xuất hiện dưới dạng một khối lớn, không đau, giống vết loét hoại tử (bắt đầu là một tổn thương da gây khó chịu và ngứa hoặc vết phồng rộp có màu sẫm và thường tập trung thành một chấm đen, hơi giống nấm mốc bánh mì) tại vị trí nhiễm trùng. Nói chung, nhiễm trùng da hình thành tại vị trí xâm nhập của bào tử từ 2 đến 5 ngày sau khi tiếp xúc. Không giống như các vết bầm tím hoặc hầu hết các tổn thương khác, nhiễm trùng bệnh than trên da thường không gây đau. Các hạch bạch huyết gần đó có thể bị nhiễm trùng, tấy đỏ, sưng và đau. Vảy sẽ sớm hình thành trên tổn thương và rụng sau vài tuần. Quá trình khôi phục hoàn toàn có thể mất nhiều thời gian hơn.
+Bệnh than ở da thường gây ra khi các bào tử của B. anthracis xâm nhập qua các vết cắt trên da. Hình thức này được tìm thấy phổ biến nhất khi con người xử lý động vật và/hoặc sản phẩm động vật bị nhiễm bệnh
+
+
+==== Dạng mũi tiêm ====
+Vào tháng 12 năm 2009, một đợt bùng phát dịch bệnh than xảy ra ở những người tiêm chích heroin ở các khu vực Glasgow và Stirling của Scotland, khiến 14 người tử vong Nguồn gốc của bệnh than được cho là do sự pha loãng của heroin với bột xương nhiễm vi khuẩn ở Afghanistan. Bệnh than được tiêm có thể có các triệu chứng tương tự như bệnh than trên da, đồng thời có thể gây nhiễm trùng sâu vào cơ thể và lây lan nhanh hơn.
+
+
+==== Dạng phổi ====
+Bệnh than qua đường hô hấp thường phát triển trong vòng một tuần sau khi tiếp xúc, nhưng có thể mất đến 2 tháng. Trong những ngày đầu tiên của bệnh, hầu hết mọi người đều bị sốt, ớn lạnh và mệt mỏi. Các triệu chứng này có thể kèm theo ho, khó thở, đau ngực và buồn nôn hoặc nôn, làm cho bệnh than qua đường hô hấp khó phân biệt với bệnh cúm và bệnh viêm phổi mắc phải trong cộng đồng khác. Đây thường được mô tả là thời kỳ sơ khởi.
+Trong khoảng ngày hôm sau, khó thở, ho và đau ngực trở nên phổ biến hơn và các tình trạng không liên quan đến ngực như buồn nôn, nôn mửa, trạng thái tinh thần thay đổi, đổ mồ hôi và đau đầu phát triển ở 1/3 trường hợp hoặc nhiều hơn. Các triệu chứng về đường hô hấp trên chỉ xảy ra ở 1/4 số người và rất hiếm khi bị đau cơ. Tình trạng tinh thần thay đổi hoặc khó thở thường đưa mọi người đến chăm sóc sức khỏe và đánh dấu giai đoạn cuối của bệnh.
+Nó lây nhiễm sang các hạch bạch huyết ở ngực trước tiên chứ không phải ở phổi, một tình trạng được gọi là viêm trung thất xuất huyết, khiến chất lỏng có máu tích tụ trong khoang ngực, do đó gây ra khó thở. Giai đoạn thứ hai (viêm phổi) xảy ra khi nhiễm trùng lan từ các hạch bạch huyết đến phổi. Các triệu chứng của giai đoạn thứ hai phát triển đột ngột trong vòng vài giờ hoặc vài ngày sau giai đoạn đầu tiên. Các triệu chứng bao gồm sốt cao, khó thở cực độ, sốc và tử vong nhanh chóng trong vòng 48 giờ đối với các trường hợp tử vong.
+
+
+==== Dạng tiêu hóa ====
+Bệnh than dạng đường tiêu hóa (GI) thường do ăn thịt bị nhiễm bệnh than và được đặc trưng bởi tiêu chảy, có thể có máu, đau bụng, viêm cấp tính đường ruột và chán ăn. Thỉnh thoảng có thể bị nôn ra máu. Tổn thương được tìm thấy trong ruột, trong miệng và cổ họng. Sau khi vi khuẩn xâm nhập vào hệ tiêu hóa, nó sẽ lan vào máu và khắp cơ thể, đồng thời tiếp tục tạo ra độc tố.
+
+
+== Tiên lượng ==
+Bệnh than ở da hiếm khi gây tử vong nếu được điều trị vì vùng nhiễm trùng chỉ giới hạn trên da, giúp ngăn chặn các độc tố gây chết người, độc tố phù nề xâm nhập và phá hủy cơ quan nội tạng quan trọng. Nếu không điều trị, khoảng 20% ​​các trường hợp bệnh than trên da tiến triển thành nhiễm độc máu và tử vong.
+Trước năm 2001, tỷ lệ tử vong do hít phải bệnh than là 90%; kể từ đó, chúng đã giảm xuống còn 45%. Những người tiến triển đến giai đoạn cuối của bệnh than thể phổi gần như luôn chết, với một nghiên cứu trường hợp cho thấy tỷ lệ tử vong là 97%. Viêm não do bệnh than cũng gần như luôn gây tử vong.
+Nhiễm bệnh than đường tiêu hóa có thể được điều trị, nhưng thường dẫn đến tỷ lệ tử vong từ 25% đến 60%, tùy thuộc vào thời gian bắt đầu điều trị. Dạng bệnh than này là hiếm nhất.
+
+
+== Lịch sử ==
+
+
+=== Khám phá ===
+Robert Koch, một bác sĩ và nhà khoa học người Đức, lần đầu tiên xác định được vi khuẩn gây ra bệnh than vào năm 1875 tại Wollstein (nay là Wolsztyn - một thị trấn ở Ba Lan). Công trình tiên phong của ông vào cuối thế kỷ 19 là một trong những minh chứng đầu tiên cho thấy các bệnh có thể do vi khuẩn gây ra. Trong một loạt thí nghiệm đột phá, ông đã khám phá ra vòng đời và phương tiện lây truyền bệnh than. Các thí nghiệm của ông không chỉ giúp tạo ra sự hiểu biết về bệnh than mà còn giúp làm sáng tỏ vai trò của vi khuẩn trong việc gây bệnh vào thời điểm mà các cuộc tranh luận vẫn diễn ra về sự phát sinh bệnh tự phát so với lý thuyết tế bào. Koch tiếp tục nghiên cứu cơ chế của các bệnh khác và giành được giải Nobel Sinh lý học hoặc Y học năm 1905 nhờ phát hiện ra vi khuẩn gây bệnh lao.
+Mặc dù Koch được cho là đã có đóng góp lý thuyết lớn nhất trong việc tìm hiểu bệnh than, nhưng các nhà nghiên cứu khác lại quan tâm nhiều hơn đến các câu hỏi thực tế về cách phòng ngừa căn bệnh này. Ở Anh, nơi mà bệnh than ảnh hưởng đến những người lao động trong các ngành công nghiệp len, chế biến da và thuộc da, người ta rất sợ bệnh than. John Henry Bell, một bác sĩ sinh ra và làm việc tại Bradford, lần đầu tiên đưa ra mối liên hệ giữa "bệnh len" và bệnh than bí ẩn và chết người, cho thấy vào năm 1878 rằng chúng là một bệnh và giống nhau. Vào đầu thế kỷ 20, Friederich Wilhelm Eurich, nhà vi khuẩn học người Đức người đã định cư ở Bradford với gia đình khi còn nhỏ, đã thực hiện nghiên cứu quan trọng cho Ban điều tra bệnh than địa phương. Eurich cũng có những đóng góp có giá trị cho Ủy ban Điều tra của Bộ Nội vụ, được thành lập vào năm 1913 để giải quyết vấn đề của bệnh than trong công nghiệp. Công việc của ông với tư cách này, phần lớn là sự hợp tác với thanh tra nhà máy G. Elmhirst Duckering, trực tiếp dẫn đến Đạo luật Phòng chống bệnh than (1919).
+
+
+=== Vắc-xin đầu tiên ===
+
+Bệnh than đã đặt ra một thách thức kinh tế lớn ở Pháp và các nơi khác trong thế kỷ 19. Ngựa, gia súc và cừu đặc biệt dễ bị tổn thương, và quỹ quốc gia đã được dành để nghiên cứu việc sản xuất vắc-xin. Nhà khoa học người Pháp Louis Pasteur chịu trách nhiệm sản xuất vắc-xin, sau công trình thành công của ông trong việc phát triển các phương pháp giúp bảo vệ các ngành công nghiệp rượu và len dạ quan trọng.
+Vào tháng 5 năm 1881, Pasteur - phối hợp với các trợ lý Jean-Joseph Henri Toussaint, Émile Roux và những người khác - thực hiện một thí nghiệm công khai tại Pouilly-le-Fort để chứng minh biện pháp tiêm chủng của ông. Ông chuẩn bị hai nhóm gồm 25 con cừu, một con dê và một số gia súc. Động vật của một nhóm được tiêm vắc xin bệnh than do Pasteur pha chế hai lần, cách nhau 15 ngày; nhóm đối chứng không được tiêm chủng. Ba mươi ngày sau lần tiêm đầu tiên, cả hai nhóm đều được tiêm vi khuẩn bệnh than sống. Tất cả các động vật trong nhóm không được tiêm phòng đều chết, trong khi tất cả các động vật trong nhóm được tiêm phòng đều sống sót.
+Sau chiến thắng rõ ràng này, được báo chí địa phương, quốc gia và quốc tế đưa tin rộng rãi, Pasteur đã rất nỗ lực để xuất khẩu vắc-xin ra ngoài nước Pháp. Ông đã sử dụng địa vị nổi tiếng của mình để thành lập các Viện Pasteur trên khắp châu Âu và châu Á, và cháu trai của ông, Adrien Loir, đã đến Úc vào năm 1888 để cố gắng giới thiệu vắc-xin phòng chống bệnh than ở New South Wales. Cuối cùng, vắc-xin đã không thành công trong điều kiện khí hậu đầy thách thức của vùng nông thôn Úc, và nó sớm được thay thế bằng một phiên bản mạnh mẽ hơn do các nhà nghiên cứu địa phương là John Gunn và John McGarvie Smith phát triển.
+Thuốc tiêm chủng bệnh than ở người được cung cấp vào năm 1954. Đây là loại vắc-xin thế hệ mới (sử dụng các thành phần vi khuẩn thô thay vì vi khuẩn còn sống) thay vì vắc-xin kiểu tế bào (vi khuẩn làm yếu) của Pasteur được sử dụng cho mục đích thú y. Một loại vắc-xin không có tế bào cải tiến đã có sẵn vào năm 1970.
+
+
+=== Các chủng nhân tạo ===
+
+Chủng Sterne của bệnh than, được đặt theo tên của nhà miễn dịch học Max Sterne - nhà miễn dịch học tại Trieste, là một dòng giảm độc lực được sử dụng làm vắc-xin.
+Strain 836, được nghiên cứu ra bởi chương trình vũ khí sinh học của Liên Xô vào những năm 1980, được Los Angeles Times gọi là "dòng bệnh than độc hại và nguy hiểm nhất mà con người từng biết". Tuy nhiên chủng này được cất giữ kín trong cơ sở nghiên cứu và chưa bao giờ gây bệnh trong thực tế
+Chủng Ames rất độc hại, được sử dụng trong các cuộc tấn công bệnh than năm 2001 ở Hoa Kỳ, đã được đưa tin nhiều nhất so với bất kỳ đợt bùng phát bệnh than nào.
+Tuy nhiên, chủng Vollum, được phát triển nhưng chưa bao giờ được sử dụng làm vũ khí sinh học trong Chiến tranh thế giới thứ hai, nguy hiểm hơn nhiều. Dòng Vollum (còn được gọi không chính xác là Vellum) được phân lập vào năm 1935 từ một con bò ở Oxfordshire. Chính dòng này đã được sử dụng trong các thử nghiệm vũ khí sinh học Gruinard. Một biến thể của Vollum, được gọi là "Vollum 1B", đã được sử dụng trong những năm 1960 trong các chương trình vũ khí sinh học của Hoa Kỳ và Vương quốc Anh. Vollum 1B được nhiều người tin rằng đã được phân lập từ William A. Boyles, một nhà khoa học 46 tuổi tại Phòng thí nghiệm Chiến tranh Sinh học của Quân đội Hoa Kỳ tại Trại (sau này là Pháo đài) Detrick, bang Maryland, người đã chết vào năm 1951 sau khi vô tình bị nhiễm chủng Vollum.
+Các nhà nghiên cứu của Lực lượng Không quân Hoa Kỳ đã phát triển một chủng vi khuẩn để sản xuất vắc-xin bệnh than cải tiến, đòi hỏi một số lần tiêm tối thiểu để đạt được và duy trì khả năng miễn dịch lâu dài. Nó được chỉ định là chủng Alls/Gifford (Curlicue).
+
+
+== Xử lý động vật khi mắc bệnh than ==
+Các quốc gia đều quy định không được phép mổ xác chết hoặc giết mổ động vật mắc bệnh hoặc có dấu hiệu nghi mắc bệnh than. Ở Việt Nam, xác chết động vật, động vật sống mắc bệnh hoặc có dấu hiệu mắc bệnh than phải tiêu hủy theo trình tự:
+
+Trước khi đưa đi tiêu hủy phải đốt và nút các lỗ tự nhiên (tai, mũi, miệng, hậu môn, cơ quan sinh dục,...), bọc kín xác chết động vật để không cho dịch tiết rơi vãi ra ngoài môi trường; rắc vôi bột để khử trùng.
+Chọn vị trí đất cao ráo, cách xa bãi chăn nuôi, nguồn nước, đường giao thông, khu dân cư,... để đào hố chôn xác chết. Trước khi cho xác chết xuống hố, đổ một lớp vôi xuống đáy hố.
+Cho động vật xuống hố và đốt cho xác chết cháy hết ngay trong hố. Sau đó, đổ một lớp vôi lên trên xác chết đã bị đốt. Sau đó đổ bê tông vào hố chôn, đặt biển cảnh báo "Mả gia súc mắc bệnh Nhiệt than! Cấm chăn thả gia súc" và rào chắn xung quanh.
+
+
+== Hình ảnh ==
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Alibek, K. Biohazard. New York, New York: Dell Publishing, 1999.
+“Bacillus anthracis and anthrax”. Todar's Online Textbook of Bacteriology (University of Wisconsin-Madison Department of Bacteriology). Truy cập ngày 17 tháng 6 năm 2005.
+“Anthrax”. CDC Division of Bacterial and Mycotic Diseases. Truy cập ngày 17 tháng 6 năm 2005.
+“Focus on anthrax”. Nature.com. Truy cập ngày 17 tháng 6 năm 2005.
+Chanda, A., S. Ketan, and C.P. Horwitz. 2004. Fe-TAML catalysts: A safe way to decontaminate an anthrax simulant. Society of Environmental Journalists annual meeting. October 20–24. Pittsburgh.
+Meselson, M. et al. (1994). "The Sverdlovsk Outbreak of 1979". Science 266(5188) 1202–1208
+Sternbach, G. (2002). "The History of Anthrax". The Journal of Emergency Medicine 24(4) 463–467.
+
+
+== Liên kết ngoài ==
+
+Bệnh than tại Từ điển bách khoa Việt Nam
+anthrax (disease) tại Encyclopædia Britannica (tiếng Anh)
+Những nhận định đầu tiên của FBI về kẻ gieo rắc bệnh than
+Vắc-xin ngừa bệnh than

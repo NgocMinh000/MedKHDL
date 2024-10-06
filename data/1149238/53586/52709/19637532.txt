@@ -1,0 +1,46 @@
+Trong mạng máy tính, giao thức đường hầm PPP (PPTP) là một phương pháp lỗi thời để thực hiện các mạng riêng ảo. PPTP có nhiều vấn đề bảo mật nổi tiếng.
+PPTP sử dụng kênh điều khiển TCP và đường hầm đóng gói định tuyến chung để đóng gói các gói PPP. Nhiều VPN hiện đại sử dụng các dạng UDP khác nhau cho cùng chức năng này.
+Đặc tả PPTP không mô tả các tính năng mã hóa hoặc xác thực và dựa vào giao thức PPP được tạo đường hầm để triển khai bất kỳ và tất cả các chức năng bảo mật.
+Việc triển khai PPTP đi kèm với các dòng sản phẩm Microsoft Windows thực hiện các cấp độ xác thực và mã hóa khác nhau như các tính năng tiêu chuẩn của ngăn xếp PPTP Windows. Mục đích sử dụng của giao thức này là cung cấp mức độ bảo mật và mức độ truy cập từ xa có thể so sánh được với các sản phẩm VPN điển hình.
+
+
+== Lịch sử ==
+Một thông số kỹ thuật cho PPTP được xuất bản vào tháng 7 năm 1999 với tên RFC 2637 và được phát triển bởi một tổ hợp nhà cung cấp được thành lập bởi Microsoft, Ascend Communications (ngày nay là một phần của Nokia), 3Com và những người khác.
+PPTP chưa được đề xuất hoặc phê chuẩn như một tiêu chuẩn bởi Lực lượng Đặc nhiệm Kỹ thuật Internet.
+
+
+== Mô tả ==
+Một đường hầm PPTP được khởi tạo bằng cách giao tiếp với đồng đẳng trên cổng TCP 1723. Kết nối TCP này sau đó được sử dụng để khởi tạo và quản lý một đường hầm GRE đến cùng một đồng đẳng. Định dạng gói PPTP GRE không phải là tiêu chuẩn, bao gồm một trường số xác nhận mới thay thế trường định tuyến điển hình trong tiêu đề GRE. Tuy nhiên, như trong một kết nối GRE thông thường, các gói GRE đã sửa đổi đó được đóng gói trực tiếp thành các gói IP và được coi là giao thức IP số 47. Đường hầm GRE được sử dụng để mang các gói PPP được đóng gói, cho phép tạo đường hầm của bất kỳ giao thức nào có thể được thực hiện bên trong PPP, bao gồm IP, NetBEUI và IPX.
+Trong quá trình triển khai của Microsoft, lưu lượng PPP trong đường hầm có thể được xác thực bằng PAP, CHAP, MS-CHAP v1/v2.
+
+
+== Bảo mật ==
+PPTP đã là chủ đề của nhiều phân tích bảo mật và các lỗ hổng bảo mật nghiêm trọng đã được tìm thấy trong giao thức. Các lỗ hổng đã biết liên quan đến các giao thức xác thực PPP cơ bản được sử dụng, thiết kế của giao thức MPPE cũng như sự tích hợp giữa xác thực MPPE và PPP để thiết lập khóa phiên.
+Dưới đây là tóm tắt về các lỗ hổng bảo mật này:
+
+MS-CHAP-v1 về cơ bản là không an toàn. Các công cụ tồn tại để trích xuất một cách thủ công các băm mật khẩu NT từ một trao đổi MSCHAP-v1 đã chiếm được.
+Khi sử dụng MS-CHAP-v1, MPPE sử dụng cùng một khóa phiên RC4 để mã hóa theo cả hai hướng của luồng giao tiếp. Điều này có thể được phân tích bằng các phương pháp tiêu chuẩn bằng cách XOR các luồng từ mỗi hướng lại với nhau.
+MS-CHAP-v2 dễ bị tấn công từ điển vào các gói phản hồi thử thách đã bắt được. Có các công cụ để thực hiện quá trình này một cách nhanh chóng.
+Vào năm 2012, người ta đã chứng minh rằng mức độ phức tạp của một cuộc tấn công brute-force trên một khóa MS-CHAP-v2 tương đương với một cuộc tấn công brute-force trên một khóa DES. Một dịch vụ trực tuyến cũng đã được chứng minh có khả năng giải mã cụm mật khẩu MS-CHAP-v2 MD4 trong 23 giờ.
+MPPE sử dụng mật mã dòng RC4 để mã hóa. Không có phương pháp xác thực dòng bản mã và do đó bản mã dễ bị tấn công lật bit. Kẻ tấn công có thể sửa đổi luồng đang chuyển tiếp và điều chỉnh các bit đơn lẻ để thay đổi luồng đầu ra mà không có khả năng bị phát hiện. Các bit lộn xộn này có thể được phát hiện bởi chính các giao thức thông qua tổng kiểm tra hoặc các phương tiện khác.
+EAP-TLS được coi là sự lựa chọn xác thực ưu việt cho PPTP, tuy nhiên, nó yêu cầu triển khai cơ sở hạ tầng khóa công khai cho cả chứng chỉ máy khách và máy chủ. Do đó, nó có thể không phải là một tùy chọn xác thực khả thi đối với một số cài đặt truy cập từ xa. Hầu hết các mạng sử dụng PPTP đều phải áp dụng các biện pháp bảo mật bổ sung hoặc bị cho là hoàn toàn không phù hợp với môi trường internet hiện đại. Đồng thời, làm như vậy có nghĩa là phủ nhận những lợi ích nói trên của giao thức đến một thời điểm nào đó.
+
+
+== Xem thêm ==
+IPsec
+UDP
+L2TPv3
+PPP
+TCP
+L2TP
+IPX
+Internetwork Packet Exchange
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Windows NT: Understanding PPTP from Microsoft
+FAQ on security flaws in Microsoft's implementation, Bruce Schneier, 1998
+Cryptanalysis of Microsoft's PPTP Authentication Extensions (MS-CHAPv2), Bruce Schneier, 1999

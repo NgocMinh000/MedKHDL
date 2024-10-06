@@ -1,0 +1,15 @@
+Trong ngôn ngữ học, kết trị (hay còn được gọi là hóa trị, ngữ trị, tiếng Anh: valency) là số lượng và các loại diễn tố phụ thuộc vào một đơn vị ngôn ngữ nào đó, chẳng hạn một động từ. Lucien Tesnière được cho là người đã thiết lập khái niệm này trong ngôn ngữ học.
+
+
+== Các loại kết trị ==
+Có nhiều loại kết trị, chẳng hạn:
+
+Trời mưa: 0 diễn tố.
+Em gái đi ngủ: 1 diễn tố (cô gái).
+Bạn nam đá quả bóng: 2 diễn tố (bạn nam, quả bóng).
+Tôi tặng em bông hoa: 3 diễn tố (tôi, em, bông hoa).
+Một số ngôn ngữ có thể có kết trị nhiều hơn ba diễn tố.
+Kết trị cũng quan tâm đến phạm trù của các diễn tố, chẳng hạn diễn tố có thể là một động từ ("đá bóng rất là vui") hay một mệnh đề ("việc nó đi ăn cắp ăn trộm chẳng liên quan gì đến tôi").
+
+
+== Tham khảo ==

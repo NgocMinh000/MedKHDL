@@ -1,0 +1,22 @@
+Cơ sở dữ liệu MNIST (tiếng Anh: MNIST database, viết tắt từ Modified National Institute of Standards and Technology database) là một cơ sở dữ liệu lớn chứa các chữ số viết tay thường được dùng trong việc huấn luyện các hệ thống xử lý hình ảnh khác nhau. Cơ sở dữ liệu này cũng được sử dụng rộng rãi để huấn luyện và kiểm thử trong lĩnh vực học máy. Cơ sở dữ liệu được tạo ra bằng cách "trộn lại" các mẫu từ bộ dữ liệu ban đầu của NIST. Những người tạo ra cơ sở dữ liệu cảm thấy rằng vì tập dữ liệu đào tạo của NIST được lấy từ Cục Thống kê Dân số Hoa Kỳ, trong khi tập dữ liệu thử nghiệm lại được lấy từ các sinh viên trung học Hoa Kỳ, vì vậy nó không phù hợp cho các thí nghiệm học máy. Hơn nữa, những hình ảnh đen trắng từ NIST đã bình thường hóa để khớp với hộp giới hạn 28x28 pixel và khử răng cưa không gian (spatial anti-aliasing) với việc đã giới thiệu các mức thang độ xám.
+
+
+== Xem thêm ==
+Trang web cơ sở dữ liệu MNIST
+Danh sách tập dữ liệu dành cho nghiên cứu học máy
+Caltech 101
+LabelMe
+Nhận dạng ký tự quang học
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Ciresan, Dan; Meier, Ueli; Schmidhuber, Jürgen (tháng 6 năm 2012). “Multi-column deep neural networks for image classification” (PDF). 2012 IEEE Conference on Computer Vision and Pattern Recognition. New York, NY: Hội Kỹ sư Điện và Điện tử. tr. 3642–3649. arXiv:1202.2745. CiteSeerX 10.1.1.300.3283. doi:10.1109/CVPR.2012.6248110. ISBN 9781467312264. OCLC 812295155. Truy cập ngày 9 tháng 12 năm 2013.
+
+
+== Liên kết ngoài ==
+Website chính thức 
+Neural Net for Handwritten Digit Recognition in JavaScript –  a JavaScript implementation of a neural network for handwritten digit classification based on the MNIST database
+Visualization of the MNIST database –  groups of images of MNIST handwritten digits on GitHub

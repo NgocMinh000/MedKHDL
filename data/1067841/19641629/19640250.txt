@@ -1,0 +1,35 @@
+CoviVac (tiếng Nga: КовиВак) là một loại vắc-xin COVID-19 dựa trên virus bất hoạt được phát triển bởi Trung tâm Chumakov thuộc Viện Hàn lâm Khoa học Nga. Vắc-xin đã được cấp phép sử dụng tại Nga vào tháng 2 năm 2021, trở thành vắc-xin COVID-19 thứ ba được cấp phép tại nước này. Vắc-xin đã được phép thử nghiệm lâm sàng giai đoạn III vào ngày 2 tháng 6 năm 2021.
+
+
+== Sử dụng ==
+Vắc-xin CoviVac được tiêm thành hai liều cách nhau 14 ngày. Nó được vận chuyển và bảo quản ở nhiệt độ tủ lạnh thông thường, 2 đến 8 độ C (35,6 đến 46,4 độ F).
+Mức độ hiệu quả chưa được xác định chính thức trong giai đoạn III thử nghiệm lâm sàng.
+
+
+== Thành phần ==
+Một liều 0,5 ml chỉ chứa 3 μg hoặc nhiều hơn kháng nguyên chủng AYDAR-1 của SARS-CoV-2 được bất hoạt bằng beta-Propiolactone và các tá dược sau:
+
+0,3–0,5 mg nhôm hydroxide (adjuvant)
+0,5 ml hoặc ít hơn dung dịch đệm phosphate chứa disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, natri chloride và nước dùng để tiêm
+
+
+== Sản xuất ==
+Do là vắc-xin bất hoạt, CoviVac sử dụng công nghệ sản xuất truyền thống hơn, tương tự như các loại vắc-xin bại liệt bất hoạt. Đầu tiên, một mẫu của chủng AYDAR-1 virus SARS-CoV-2 được phân lập bởi Trung tâm Chumakov tại Viện Hàn lâm Khoa học Nga và được dùng để nuôi cấy số lượng lớn virus bằng các tế bào Vero. Từ đó, số virus này được ngâm vào beta-propiolactone, có tác dụng bất hoạt chúng bằng cách liên kết vào các gen của virus, nhưng giữ nguyên các hạt virus khác. Các virus bất hoạt sau đó được trộn với adjuvant gốc nhôm.
+
+
+== Lịch sử ==
+
+
+=== Cấp phép ===
+
+Vào ngày 20 tháng 2 năm 2021, Tổng thống Nga Vladimir Putin thông báo vắc-xin đã được cấp phép.
+
+
+=== Thử nghiệm lâm sàng ===
+Giai đoạn III thử nghiệm lâm sàng đã được bắt đầu và dự kiến kết thúc vào ngày 30 tháng 12 năm 2021.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

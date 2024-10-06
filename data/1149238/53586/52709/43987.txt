@@ -1,0 +1,151 @@
+Memento Pattern
+1.	Mục đích:
+Không xâm phạm tính đóng gói, lấy được và đưa ra những trạng thái trong của một đối tượng để nó có thể được khôi phục lại trạng thái đó sau này.
+2.	Động cơ thúc đẩy:
+Đôi khi việc ghi lại trạng thái trong của một đối tượng là rất cần thiết. Việc này được yêu cầu khi thực thi việc kiểm tra và cơ chế Undo (cơ chế cho phép người dùng rút lại những thao tác không chắc chắn hoặc khôi phục lại do có lỗi). Bạn phải lưu thông tin về trạng thái ở một nơi nào đó để bạn có thể khôi phục lại đối tượng về trạng thái trước của nó. Nhưng các đối tượng thường đóng gói một vài hoặc tất cả trạng thái của chúng để làm cho các đối tượng khác không thể truy cập hoặc để cho những trạng thái của nó không thể bị lưu trữ bên ngoài. Việc phơi bày những trạng thái này sẽ vi phạm tính đóng gói, điều này có thể làm tổn hại đến tính tin cậy và tính mở rộng của ứng dụng. 
+Chúng ta hãy xem xét ví dụ về trình soạn thảo đồ hoạ có hỗ trợ kết nối giữa các đối tượng. Một người dùng có thể kết nối hai hình chữ nhật bằng một đường thẳng và những hình chữ nhật này sẽ vẫn liên kết với nhau khi người dùng di chuyển một trong số chúng. Trình soạn thảo đảm bảo rằng đường thẳng trải ra để duy trì sự kết nối.
+Một cách nổi tiếng để duy trì kết nối mối quan hệ giữa các đối tượng là dùng hệ thống giải quyết ràng buộc. Chúng ta có thể đóng gói chứng năng này trong đối tượng ConstraintSolver. ConstraintSolver ghi lại những kết nối khi chúng được tạo ra và tạo ra những phương trình toán học để miêu tả những kết nối này. Nó sẽ giải những phương trình này bất cứ khi nào người dùng tạo ra kết nối hoặc chỉnh sửa sơ đồ. ConstraintSolver sử dụng kết quả mà nó tính toán được để sắp xếp lại các hình để duy trì kết nối. 
+Việc hỗ trợ undo trong ứng dụng này không phải là dễ. Một cách rõ ràng để undo lại một thao tác dịch chuyển là lưu trữ khoảng cách đã dịch chuyển và dịch chuyển đối tượng quay trở về khoảng cách đó. Tuy nhiên điều này không đảm bảo rằng tất cả các đối tượng sẽ xuất hiện ở đúng vị trí của nó trước đó. Giả sử rằng có một vài chỗ trùng trong kết nối. Trong trường hợp này, đơn giản là di chuyển hình chữ nhật trở về vị trí ban đầu của nó không đạt được hiệu quả mong muốn.
+Nhìn chung, giao diện dùng chung của ConstraintSolver có thể là không đủ để cho phép hiệu quả đảo ngược một cách chính xác của nó lên đối tượng khác. Cợ chế undo phải làm việc thân thiện hơn với ConstraintSolver để thiết lập lại trạng thái trước đó, nhưng chúng ta cũng nên tránh để lộ ra trạng thái trong của ConstraintSolver cho cơ chế undo.
+Chúng ta có thể giải quyết vấn đề này với mẫu Memento. Một Memento là một đối tượng lưu trữ ảnh của trạng thái trong của đối tượng khác - là Originator của Memento. Cơ chế undo sẽ yêu cầu một Memento từ Originator khi nó cần kiểm tra trạng thái của Originator. Originator khởi tạo Memento với thông tin mô tả trạng thái hiện tại của nó. Chỉ có Originator mới có thể lưu trữ và lấy thông tin từ Memento- Memento là " đục" đối với các đối tượng khác.
+Trong ví dụ về trình soạn thảo đồ hoạ mà chúng ta vừa thảo luận thì ConstraintSolver hành động như một Originator. Sau đây là chuỗi những sự kiện mô tả quá trình undo: 
+Trình soạn thảo yêu cầu một Memento từ một ConstraintSolver như là một hiệu ứng phụ của thao tác dịch chuyển.
+ConstraintSolver tạo và dịch chuyển một Memento, trong trường hợp này là một thể hiện của lớp SolverState. Memento SolverState chứa cấu trúc dữ liệu mô tả trạng thái hiện thời của biến và phương trình bên trong của ConstraintSolver.
+Sau đó khi người dùng undo thao tác dịch chuyển thì trình soạn thảo sẽ gửi lại SolverState cho ConstraintSolver.
+Dựa vào những thông tin trong SolverState, ConstraintSolver sẽ thay đổi cấu trúc bên trong của nó để trở lại chính xác trạng thái trước của các biến và phương trình của nó.
+Sự sắp xếp này cho phép ConstraintSolver giao phó cho những đối tượng khác những thông tin mà nó cần để chuyển về trạng thái trước mà không phải để lộ cấu trúc và sự trình diễn bên trong.
+3.	Tính ứng dụng:
+Sử dụng mẫu Memento khi:
+1.	Ảnh của một trạng thái đối tượng phải được lưu trữ để nó có thể được khôi phục sau này. 
+2.	Một giao diện trực tiếp để đạt được trạng thái sẽ để lộ chi tiết của sự thực thi và phá vỡ tính đóng gói của đối tượng.
+4.	Cấu trúc:
+5.	Mô tả các lớp:
+•	Memento(SolverState):
+Lưu trữ trạng thái trong của đối tượng Originator. Memento có thể lưu trữ nhiều hay ít trạng thái bên trong của đối tượng tuỳ theo nhu cầu của Originator.
+Bảo vệ chống lại những truy cập từ những đối tượng không phải là Originator. Memento có hai giao diện: Caretaker nhìn thấy giao diện hẹp của Memento- nó chỉ có thể truyền Memento cho đối tượng khác. Ngược lại, Originator nhìn thấy giao diện rộng nên nó có thể truy cập đến tất cả những dữ liệu cần thiết để khôi phục lại trạng thái trước của nó. Một cách lý tưởng, chỉ có Originator tạo ra Memento là được phép truy cập đến trạng thái trong của Memento.
+•	Originator(ConstraintSolver):
+Tạo một Memento chứa ảnh về trạng thái trong của nó.
+Sử dụng Memento để lưu trữ trạng thái trong của nó.
+•	Caretaker(undo mechanism):
+Có trách nhiệm cho việc bảo vệ Memento.
+Không bao giờ được thao tác hoặc kiểm tra nội dung của Memento. 
+6.	Biểu đồ cộng tác:
+Một Caretaker yêu cầu một Memento từ một Originator, giữ nó trong một khoảng thời gian và truyền nó trả về cho một Originator như là biểu đồ cộng tác sau minh hoạ:
+Đôi khi Caretaker không trả lại Mementor cho Originator, bởi vì Originator không bao giờ cần quay trở về trạng thái trước.
+7.	Kết quả:
+Mẫu Memento có một vài kết quả sau:
+1.	Bảo vệ tính đóng gói. Memento tránh để lộ thông tin mà chỉ có Originator mới được quản lý nhưng thông tin đó chắc chắn phải được lưu trữ dù là ở bên ngoài Originator. Mẫu này ngăn cản những đối tượng khác tác động đến những trạng thái trong của Originator, do đó bảo vệ duy trì tính đóng gói.
+2.	Nó làm đơn giản hoá Originator. Trong những thiết kế duy trì tính đóng gói khác, Originator giữ những phiên bản về trạng thái trong mà clients yêu cầu. Điều này sẽ làm cho việc quản lý lưu trữ trở thành một gánh nặng với Originator. Việc clients quản lý trạng thái mà họ yêu cầu sẽ giúp đơn giản hoá Originator và buộc clients phải thông báo với Originator khi chúng được làm.
+3.	Sử dụng Memento có thể phải chịu giá đắt. Memento có thể phải gánh chịu đáng kể nếu như Originator phải sao chép một số lượng lớn thông tin để lưu trữ trong Memento hoặc nếu clients tạo và trả về thưòng là vừa đủ Memento cho Originator. Nếu không thì tính đóng gói và khôi phục trạng thái của Originator là không đáng giá, mẫu có thể không thích hợp. Hãy xem xét thảo luận về tính gia tăng trong phần thực thi.
+4.	Định nghĩa giao diện hẹp và rộng. Với một vài ngôn ngữ có thể là khó đảm bảo rằng chỉ có Originator có thể truy cập trạng thái Mementor.
+5.	Che giấu Memento. Một Caretaker có trách nhiệm xoá mememto mà nó giữ. Tuy nhiên, Caretaker không biết gì về trạng thái trong của Memento. 
+8.	Thực thi:
+Đây là hai vấn đề phải xem xét khi thực thi mẫu Memento:
+1.	Ngôn ngữ hỗ trợ. Memento có hai giao diện: Một giao diên rộng cho Originator và một giao diện hẹp cho những đối tượng khác. Ngôn ngữ thực thi lý tưởng sẽ hỗ trợ hai mức bảo vệ tĩnh. C++ cho phép bạn làm việc này bằng cách làm cho Originator là lớp bạn của Memento và giao diện rộng của Memento là private. Chỉ có giao diện hẹp mới được khai báo là public.
+Ví dụ:
+class State;
+
+   class Originator {
+   public:
+       Memento* CreateMemento();
+       void SetMemento(const Memento*);
+       //...
+   private:
+       State* _state;      // internal data structures
+       //...
+   };
+   
+   class Memento {
+   public:
+       // narrow public interface
+       virtual ~Memento();
+   private:
+       // private members accessible only to Originator
+       friend class Originator;
+       Memento();
+   
+       void SetState(State*);
+       State* GetState();
+       //...
+   private:
+       State* _state;
+       //...
+   };
+
+2.	Lưu trữ sự thay đổi thêm vào. Khi Memento được tạo ra và truyền trở về cho Originator của nó trong một chuỗi có thế đoán trước, thì Memento chỉ có thể lưu trữ sự thay đổi thêm vào của trạng thái trong Originator.
+Ví dụ:
+Những lệnh có thể làm lại trong danh sách các lệnh đã được thực hiện có thể sử dụng Memento để đảm bảo rằng các lệnh đó sẽ được khôi phục về trạng  thái chính xác của nó khi nó được undo. Danh sách các lệnh đã được thực hiện định nghĩa một trật tự xác định các lệnh có thể được undo hoặc redo. Điều này có nghĩa Mementor chỉ có thể lưu trữ sự thêm vào mà một lệnh gây ra chứ không phải tất cả trạng thái của mọi đối tượng mà chúng ảnh hưởng. Trong ví dụ motivation đã được đưa ra lúc trước, ConstraintSolver chỉ lưu trữ những cấu trúc bên trong- cái mà thay đổi để giữ đường thẳng kết nối những hình chữ nhật, chứ không phải lưu trữ vị trí của những đối tượng này.
+9.	Code mẫu:
+Đoạn code C++ được mang lại dưới đây để minh hoạ cho ví dụ về ConstraintSolver mà chúng ta đã thảo luận lúc trước. Chúng ta sử dụng đối tượng MoveCommand để dịch chuyển đối tượng đồ hoạ từ vị trí này sang vị trí khác hoặc undo thao tác đó. Trình soạn thảo đồ hoạ gọi đến thao tác Execute để dịch chuyển một đối tượng đồ hoạ và Unexecute để undo sự dịch chuyển đó. Đối tượng Movecommand lưu trữ đích của nó, khoảng cách dịch chuyển và một thể hiện của ConstraintSolver Memento- là một Memento chứa trạng thái của ConstraintSolver.
+class Graphic;
+
+       // base class for graphical objects in the graphical editor
+   
+   class MoveCommand {
+   public:
+       MoveCommand(Graphic* target, const Point& delta);
+       void Execute();
+       void Unexecute();
+   private:
+       ConstraintSolverMemento* _state;
+       Point _delta;
+       Graphic* _target;
+   };
+
+Những ràng buộc kết nối được thiết lập bởi lớp ConstraintSolver. Phương thức chính là Solve, là phương thức giải quyết các ràng buộc được đăng ký trong phương thức AddConstraint. Để hỗ trợ undo, trạng thái của ConstraintSolver có thể xuất hiện bên ngoài với phương thức createMemento trong thể hiện ConstraintSolverMemento. ConstraintSolver có thể được trả về trạng thái trước bằng cách gọi setMemento. Constraintsolver là một là một Singleton.
+class ConstraintSolver {
+
+   public:
+       static ConstraintSolver* Instance();
+   
+       void Solve();
+       void AddConstraint(
+           Graphic* startConnection, Graphic* endConnection
+
+);
+
+       void RemoveConstraint(
+           Graphic* startConnection, Graphic* endConnection
+
+);
+
+       ConstraintSolverMemento* CreateMemento();
+       void SetMemento(ConstraintSolverMemento*);
+   private:
+       // nontrivial state and operations for enforcing
+       // connectivity semantics
+   };
+   
+   class ConstraintSolverMemento {
+   public:
+       virtual ~ConstraintSolverMemento();
+   private:
+       friend class ConstraintSolver;
+       ConstraintSolverMemento();
+   
+       // private constraint solver state
+   };
+
+Với những giao diện này, chúng ta có thể thực thi những phương thức thành viên của lớp MoveCommand là Execute và Unexecuted sau:
+void MoveCommand::Execute () {
+
+       ConstraintSolver* solver = ConstraintSolver::Instance();
+       _state = solver->CreateMemento(); // create a Memento
+       _target->Move(_delta);
+       solver->Solve();
+   }
+   
+   void MoveCommand::Unexecute () {
+       ConstraintSolver* solver = ConstraintSolver::Instance();
+       _target->Move(-_delta);
+       solver->SetMemento(_state); // restore solver state
+       solver->Solve();
+   }
+
+Execute yêu cầu một Memento constrainstsolverMemento trước khi nó dịch chuyển các hình đồ hoạ. Unexecute dịch chuyển các hình đồ hoạ trở lại, thiết lập trạng thái của ConstraintSolver về trạng thái trước đó và cuối cùng thì nói cho ConstraintSolver biết để giải quyết các ràng buộc.
+10.	Các mẫu liên quan:
+1.	Command: Mẫu này có thể sử dụng Memento để duy trì các trạng thái của các thao tác có thể undo.
+2.	Iterator: Mementos có thể được sử dụng cho quá trình lặp như đã mô tả lúc trước.
+
+
+== Tham khảo ==

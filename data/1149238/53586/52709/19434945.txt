@@ -1,0 +1,19 @@
+Kiến trúc thông tin là thiết kế cấu trúc của môi trường thông tin được chia sẻ; nghệ thuật và khoa học của việc tổ chức và dán nhãn các trang web, mạng nội bộ, cộng đồng trực tuyến và phần mềm để hỗ trợ khả năng sử dụng và tìm kiếm; và một cộng đồng thực hành mới nổi tập trung vào việc đưa các nguyên tắc thiết kế, kiến trúc và khoa học thông tin vào bối cảnh kỹ thuật số. Thông thường, nó liên quan đến một mô hình hoặc khái niệm thông tin được sử dụng và áp dụng cho các hoạt động đòi hỏi chi tiết rõ ràng của các hệ thống thông tin phức tạp. Những hoạt động này bao gồm hệ thống thư viện và phát triển cơ sở dữ liệu.
+Kiến trúc thông tin được coi là được Richard Saul Wurman thành lập. Ngày nay có một mạng lưới các chuyên gia ngành này tích cực tạo thành Viện Kiến trúc Thông tin.
+
+
+== Định nghĩa ==
+Kiến trúc thông tin có một số ý nghĩa khác nhau trong các nhánh khác nhau của Hệ thống thông tin hoặc Công nghệ thông tin:
+
+Thiết kế cấu trúc của môi trường thông tin chia sẻ.  
+Nghệ thuật và khoa học của việc tổ chức và dán nhãn các trang web, mạng nội bộ, cộng đồng trực tuyến và phần mềm để hỗ trợ khả năng tìm kiếm và khả năng sử dụng.
+Một cộng đồng thực hành mới nổi tập trung vào việc đưa các nguyên tắc thiết kế và kiến trúc vào cảnh quan kỹ thuật số.   
+Sự kết hợp của các hệ thống tổ chức, ghi nhãn, tìm kiếm và điều hướng trong các trang web và mạng nội bộ.  
+Trích xuất các tham số / dữ liệu cần thiết của Thiết kế Kỹ thuật trong quá trình tạo cơ sở tri thức liên kết các hệ thống và tiêu chuẩn khác nhau.
+Một kế hoạch chi tiết và hỗ trợ điều hướng cho nội dung của các hệ thống giàu thông tin.
+Một tập hợp con của kiến trúc dữ liệu trong đó dữ liệu có thể sử dụng (còn gọi là thông tin) được xây dựng và thiết kế hoặc sắp xếp theo cách hữu ích nhất hoặc toàn diện về mặt thực nghiệm cho người dùng dữ liệu này.
+Việc thực hành tổ chức thông tin / nội dung / chức năng của một trang web để nó thể hiện trải nghiệm người dùng tốt nhất có thể, với thông tin và dịch vụ có thể dễ dàng sử dụng và tìm thấy (như áp dụng cho thiết kế và phát triển web).
+Khung khái niệm xung quanh thông tin, cung cấp bối cảnh, nhận thức về vị trí và cấu trúc bền vững.
+
+
+== Tham khảo ==

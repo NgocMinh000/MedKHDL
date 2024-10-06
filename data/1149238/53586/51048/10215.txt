@@ -1,0 +1,28 @@
+Giải thuật di truyền là một kỹ thuật của khoa học máy tính nhằm tìm kiếm giải pháp thích hợp cho các bài toán tối ưu tổ hợp (combinatorial optimization). Giải thuật di truyền là một phân ngành của giải thuật tiến hóa vận dụng các nguyên lý của tiến hóa như di truyền, đột biến, chọn lọc tự nhiên, và trao đổi chéo.
+Ngày nay, giải thuật di truyền được dùng phổ biến trong một số ngành như tin sinh học, khoa học máy tính, trí tuệ nhân tạo, tài chính và một số ngành khác.
+
+
+== Phương pháp ==
+Trong giải thuật di truyền cho một bài toán tối ưu hóa, ý tưởng là một tập hợp (gọi là nhiễm sắc thể) của những giải pháp có thể (gọi là cá thể) sẽ được cho "tiến triển" theo hướng chọn lọc những giải pháp tốt dần hơn.
+Thông thường, những giải pháp được thể hiện dưới dạng nhị phân với những chuỗi 0 và 1, nhưng lại mang nhiều thông tin mã hóa khác nhau. Quá trình tiến hóa xảy ra từ một tập hợp những cá thể hoàn toàn ngẫu nhiên ở tất cả các thế hệ. Trong từng thế hệ, tính thích nghi của tập hợp này được ước lượng, nhiều cá thể được chọn lọc định hướng từ tập hợp hiện thời (dựa vào thể trạng), được sửa đổi (bằng đột biến hoặc tổ hợp lại) để hình thành một tập hợp mới. Tập hợp này sẽ tiếp tục được chọn lọc lặp đi lặp lại trong các thế hệ kế tiếp của giải thuật
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Poli, R., Langdon, W. B., McPhee, N. F. (2008), A Field Guide to Genetic Programming, freely available via Lulu.com.
+(tiếng Anh) Genetic Algorithms in Ruby Lưu trữ 2007-12-15 tại Wayback Machine
+[1] Lưu trữ 2005-09-03 tại Wayback Machine - An online introduction to genetic algorithms with Java applets
+IlliGAL Lưu trữ 2006-07-19 tại Wayback Machine - Illinois Genetic Algorithms Laboratory - Download technical reports and code
+Golem Project - Automatic Design and Manufacture of Robotic Lifeforms
+Introduction to Genetic Algorithms Using RPL2 Lưu trữ 2005-12-30 tại Wayback Machine
+Talk.Origins FAQ on the uses of genetic algorithms, by Adam Marczyk
+Genetic algorithm in search and optimization, by Richard Baker
+Differential Evolution using Genetic Algorithm Lưu trữ 2005-12-01 tại Wayback Machine
+Genetic algorithms and Markov Chain Monte Carlo: Differential Evolution makes Bayesian computing easy (genetic algorithm for statistical analysis)
+Introduction to Genetic Algorithms and Neural Networks  including an example windows program
+Genetic Algorithm Solves the Toads and Frogs Puzzle (requires Java)
+Not-So-Mad Science: Genetic Algorithms and Web Page Design for Marketers by Matthew Syrett
+MIT OpenCourseWare | Health Sciences and Technology | HST.508 Genomics and Computational Biology, Fall 2002 | Lecture Notes
+Global Optimization Algorithms - Theory and Application Lưu trữ 2008-09-11 tại Wayback Machine

@@ -1,0 +1,239 @@
+Ngộ độc thực phẩm hay còn được gọi tên thông dụng là ngộ độc thức ăn hay trúng thực là các biểu hiện bệnh lý xuất hiện sau khi ăn, uống và cũng là hiện tượng người bị trúng độc, ngộ độc do ăn, uống phải những loại thực phẩm nhiễm khuẩn, nhiễm độc hoặc có chứa chất gây ngộ độc hoặc thức ăn bị biến chất, ôi thiu, có chất bảo quản, phụ gia... nó cũng có thể coi là bệnh truyền qua thực phẩm, là kết quả của việc ăn thực phẩm bị ô nhiễm.
+Người bị ngộ độc thực phẩm thường biểu hiện qua những triệu chứng lâm sàng như nôn mửa, tiêu chảy, chóng mặt, sốt, đau bụng.... Ngộ độc thực phẩm không chỉ gây hại cho sức khỏe (có thể dẫn đến tử vong) mà còn khiến tinh thần con người mệt mỏi.
+
+
+== Nguyên nhân ==
+
+Nguyên nhân chính của việc ngộ độc thực phẩm là do ăn, uống thực phẩm đã bị nhiễm khuẩn hoặc bị ô nhiễm hóa học (kim loại nặng, độc tố vi nấm...).  Ngộ độc thực phẩm mùa hè thường do thức ăn nhiễm vi sinh vật (vi khuẩn, ký sinh trùng), vì mùa hè nhiệt độ cao thuận lợi cho vi sinh vật sinh sôi và phát triển. Đặc biệt thực phẩm có nguồn gốc từ động vật như thịt, trứng, cá, sữa là các chất giàu đạm, rất dễ trở thành môi trường tốt cho các vi sinh vật, nhất là vi khuẩn gây bệnh phát triển, và khi đó thức ăn đã biến thành chất độc.
+Sinh vật truyền nhiễm, bao gồm cả vi khuẩn khác nhau, vi rút và ký sinh trùng hoặc độc tố, dịch tiết của chúng là nguyên nhân phổ biến nhất của ngộ độc thực phẩm. Các loại vi khuẩn gây nhiễm khuẩn cho thực phẩm có thể tồn tại ở khắp mọi nơi trong không khí, đặc biệt khi thời tiết nắng nóng hay giao mùa cũng làm các vi khuẩn trong thức ăn phát triển nhanh hơn ngoài ra thì vào các dịp Tết thi nguy cơ ngộc độc cũng thường xuyên xảy ra.
+
+Một số trường hợp thực phẩm có nguy cơ cao gây ra ngộ độc:
+
+Ngộ độc do ăn phải thức ăn bị nhiễm vi sinh vật hoặc độc tố vi sinh vật: Ăn thịt gỏi hay thịt cá, và hải sản (sò, trai, nghêu, cua, ghẹ) tươi sống hay chưa chín kỹ; ăn các món có trứng gà chưa hoàn toàn được nấu kỹ; ăn các món gỏi; uống nước trái cây chưa được diệt khuẩn; sữa và các sản phẩm từ sữa chưa qua diệt khuẩn.
+Ngộ độc do ăn phải thức ăn bị biến chất: ôi thiu, để lâu ngày nên quá hạn sử dụng,...
+Ngộ độc do ăn phải thức ăn mà bản thân thức ăn đã có sẵn chất độc: mầm khoai tây, cá nóc, nấm độc, cóc lạ,...
+Ngộ độc do ăn phải thức ăn bị nhiễm chất độc hóa học, hóa chất bảo vệ thực vật, hóa chất phụ gia thực phẩm: ăn một số loại rau sống chưa qua sơ chế như cải bruxen, đậu.
+
+
+=== Vi khuẩn ===
+
+Vi khuẩn là một trong những nguyên nhân gây ngộ độc thực phẩm nhiều nhất. Tại nước Anh, trong 2000 ca bị ngộ độc thực phẩm riêng lẻ do vi khuẩn thì Campylobacter jejuni chiếm 77,3%, Salmonella 20,9%, Escherichia coli O157:H7 1,4%, các vi khuẩn còn lại gây ra ít hơn 0,1% số ca. Triệu chứng ngộ độc thực phẩm do vi khuẩn thường chỉ xuất hiện sau 12–72 giờ hoặc hơn nữa sau khi ăn thức ăn bị nhiễm khuẩn.
+Các vi khuẩn gây ngộ độc thường gặp là:
+
+Campylobacter jejuni
+Clostridium perfringens
+Salmonella spp. – trong đó loài S. typhimurium thường gây ngộ độc khi ăn trứng hoặc sản phẩm gia cầm chưa chế biến kĩ hoặc lây từ động vật qua người
+Escherichia coli O157:H7
+Các vi khuẩn gây ngộ độc khác:
+
+Bacillus cereus
+Escherichia coli
+Listeria monocytogenes
+Shigella spp.
+Staphylococcus aureus
+Streptococcus
+Vibrio cholerae
+Vibrio parahaemolyticus
+Vibrio vulnificus
+Yersinia enterocolitica
+Yersinia pseudotuberculosis
+Các vi khuẩn ít phổ biến hơn:
+
+Brucella spp.
+Corynebacterium ulcerans
+Coxiella burnetii
+Plesiomonas shigelloides
+
+
+=== Ngoại độc tố ===
+Ngoại độc tố của vi khuẩn có thể gây ngộ độc ngay cả khi tế bào vi khuẩn đã bị tiêu diệt. Biểu hiện ngộ độc thường xuất hiện sau 24 h tùy thuộc vào lượng ăn vào. Các vi khuẩn thường sinh ngoại độc tố:
+
+Clostridium botulinum
+Clostridium perfringens
+Staphylococcus aureus
+Bacillus cereus
+
+
+=== Độc tố vi nấm ===
+Các độc tố vi nấm (mycotoxin) bao gồm:
+
+Aflatoxin – có nguồn gốc từ nấm mốc Aspergillus parasiticus và Aspergillus flavus. Các nấm mốc này thường có trong các loại quả, hạt ngũ cốc, hạt có dầu. Các dạng aflatoxin là B1, B2, G1, G2 và M1, trong đó aflatoxin B1 thường gây các bệnh về gan như xơ gan, ung thư gan... Tại Hoa Kỳ, giới hạn quy định đối với aflatoxin tổng số là 20 μg/kg, trừ aflatoxin M1 trong sữa được quy định ở mức 0,5 μg/kg. The official document can be found at FDA's website.
+Altertoxins – gồm Alternariol (AOH), Alternariol methyl ether (AME), Altenuene (ALT), Altertoxin-1 (ATX-1), Tenuazonic acid (TeA) và Radicinin (RAD), có nguồn gốc từ Alternaria spp. Một số độc tố loại này có trong lúa miến, lúa mì và khoai tây. Một số nghiên cứu chỉ ra rằng các độc tố này dễ dàng bị nhiễm chéo trong các loại hạt thương phẩm do quá trình bảo quản và chế biến.
+Citrinin
+Citreoviridin
+Axit cyclopiazonic
+Cytochalasins
+Ergot alkaloids / Ergopeptine alkaloids – Ergotamine
+Fumonisins – Ngô dễ bị nhiễm nấm Fusarium moniliforme, độc tố của nó là Fumonisin B1 gây  ung thư gan trên chuột và ung thư thực quản ở người.
+Axit fusaric
+Fusarochromanone
+Axit kojic
+Lolitrem alkaloid
+Moniliformin
+Axit 3-nitropropionic
+Nivalenol
+Ochratoxins
+Oosporeine
+Patulin – Có thể xuất hiện trong sản phẩm từ trái cây, đặc biệt là nước táo.
+Phomopsins
+Sporidesmin A
+Sterigmatocystin
+Tremorgenic mycotoxin gồm fumitremorgen B, paxilline, penitrem A, verrucosidin, và verruculogen.
+Trichothecenes – có nguồn gốc từ Cephalosporium, Fusarium, Myrothecium, Stachybotrys và Trichoderma. Các độc tố này có trong ngô, lúa mì, gạo, lạc bị mốc hoặc thức ăn chăn nuôi bị mốc. Các độc tố T-2 toxin, HT-2 toxin, diacetoxyscirpenol (DAS) và deoxynivalenol (DON) thường gây hại đối với người và động vật.
+Zearalenone
+Zearalenols
+
+
+=== Virus ===
+Virus là nguyên nhân thứ 3 gây ngộ độc thực phẩm tại các nước phát triển. 
+
+Enterovirus
+Hepatitis A
+Hepatitis E
+Norovirus
+Rotavirus
+
+
+=== Ký sinh trùng ===
+Hầu hết ký sinh trùng gây ngộ độc thực phẩm đều từ động vật truyền qua người.
+
+Platyhelminthes:
+Diphyllobothrium sp.
+Nanophyetus sp.
+Taenia saginata
+Taenia solium
+Fasciola hepatica
+Nematode:
+Anisakis sp.
+Ascaris lumbricoides
+Eustrongylides sp.
+Trichinella spiralis
+Trichuris trichiura
+Protozoa:
+Acanthamoeba and other free-living amoebae
+Cryptosporidium parvum
+Cyclospora cayetanensis
+Entamoeba histolytica
+Giardia lamblia
+Sarcocystis hominis
+Sarcocystis suihominis
+Toxoplasma gondii
+
+
+=== Độc tố tự nhiên ===
+Alkaloid
+Độc tố ciguatera
+Grayanotoxin
+Độc tố nấm
+Phytohaemagglutinin
+Pyrrolizidine alkaloid
+Độc tố nhuyễn thể
+Scombrotoxin
+Tetrodotoxin (độc tố cá nóc)
+Một số độc tố có nguồn gốc thực vật 
+
+
+=== Các tác nhân gây độc khác ===
+Nhiều nguyên nhân khác gây ô nhiễm thực phẩm ở rất nhiều khâu trong chuỗi dây chuyền sản xuất, bảo quản, chế biến thực phẩm như các dụng cụ dùng (dao, thớt, rổ, nồi niêu xoong chảo, đôi bàn tay, nước rửa…). Ở Thành phố Hồ Chí Minh, hơn 26% cơ sở cung cấp suất ăn sẵn, gần 20% bếp ăn tập thể, gần 52% cơ sở nước đá, gần 27% cơ sở nước uống trong tổng số cơ sở được kiểm tra không đạt tiêu chuẩn. So với năm 2011, số cơ sở vi phạm tăng hơn 36%. Ngộ độc do chất bảo quản, Sử dụng chất ép trái cây chín nhanh, thuốc bảo vệ thực vật, hóa chất, phụ gia....
+
+
+== Một số dạng thường gặp ==
+
+Ngộ độc thực phẩm là một bệnh hết sức đa dạng, sau đây là một số thể loại bệnh thường gặp:
+
+Ngộ độc thức ăn do vi khuẩn Salmonella
+Đây là tình trạng hay gặp trong các vụ ngộ độc tại bếp ăn tập thể như ở các trường học bán trú, các xí nghiệp sản xuất, các buổi liên hoan hay lễ cưới... Vi khuẩn gây ngộ độc đa số là nhóm vi khuẩn đường ruột, khả năng gây bệnh của nhóm này yếu nên để gây bệnh thường phải có một lượng lớn thức ăn. Ngộ độc thực phẩm loại này thường xảy ra trong vòng vài giờ đến một ngày sau khi ăn các thực phẩm bị nhiễm này.
+Triệu chứng: Khoảng 12-14 giờ sau khi ăn thực phẩm có chứa vi khuẩn, nạn nhân sẽ có các triệu chứng: đau bụng, nôn, tiêu chảy, toàn thân bị lạnh rồi sốt, suy nhược cơ thể. Nếu không cấp cứu kịp thời có thể dẫn đến tử vong.
+Khi bị nhiễm Salmonella, mùi vị thức ăn không hề thay đổi nên rất khó phát hiện. Những thức ăn dễ nhiễm khuẩn Salmonella: thịt gia súc, gia cầm, trứng, sữa, sò, ốc, cá, thịt băm nhuyễn, trong đó trứng gà và gan gà dễ bị nhiễm vi khuẩn này hơn cả.
+
+Ngộ độc thức ăn do vi khuẩn E.coli
+Một trong những loại ngộc độc thực phẩm gây ra bởi vi sinh vật thường gặp là ngộ độc thực phẩm do vi khuẩn E.coli (thường là hậu quả cuộc việc ăn uống mất vệ sinh).
+Vi khuẩn E.coli thường nhiễm vào đất, nước… từ phân của động vật. Khi nhiễm vi khuẩn này thông qua đường thức ăn, thì người bị sẽ ủ bệnh từ 2-20 giờ. Người ngộ độc thấy đau bụng dữ dội, đi phân lỏng nhiều lần trong ngày, ít khi nôn mửa. Thân nhiệt có thể hơi sốt. Trường hợp nặng bệnh nhân có thể sốt cao, người mỏi mệt, chân tay co quắp đổ mồ hôi. Thời gian khỏi bệnh vài ngày. Nguyên nhân là do nhiễm E.coli vào cơ thể với số lượng lớn và cơ thể đang suy yếu.
+
+Ngộ độc do thức ăn bị biến chất, ôi thiu
+
+Thông thường khi con người ăn những loại thức ăn có nguồn gốc từ động vật, thức ăn chưa được nấu chín kỹ, các món gỏi, rau sống chưa được rửa sạch, các thức ăn biến chất, ôi thiu, ươn, bị bốc mùi… sẽ rất dễ có nguy cơ bị ngộ độc.
+Các thức ăn (như thịt, cá biển tươi hoặc đóng hộp, tôm, tép, sò huyết, nghêu) bị biến chất khi chưa nấu chín hoặc bị ôi thiu sau khi chế biến sẽ sinh ra chất độc có tên là Histamin. Một lượng Histamin 1,5-4 g đủ để gây ngộ độc cho người ăn.
+Triệu chứng: người ngộ độc có dấu hiệu choáng váng, đau bụng, tiêu chảy, nóng bừng mặt, ngứa ngáy ở cổ và mặt, chảy nước mắt ngay sau khi ăn vài giờ đồng hồ. Nạn nhân phải được cấp cứu và giải độc kịp thời tại các đơn vị y tế.
+
+
+== Một số cách phòng tránh ==
+
+Việc phòng tránh ngộ độc thực phẩm là cả một quá trình từ việc chọn thực phẩm đảm bảo, bảo quản thực phẩm chưa chế biến (đông lạnh, ướp muối...) hoặc đã chế biến (đậy, đằn, hâm, ướp lạnh...) đến quá trình giữ vệ sinh trong khâu chế biến, khi ăn uống cho đến các biện pháp phòng ngừa khi ăn ở ngoài. Trong đó phương châm cần lưu ý là "ăn chín, uống sôi" (ăn, uống thực phẩm đã chín kỹ)
+
+Cách hiệu quả hàng đầu để phòng tránh ngộ độc thực phẩm là nên chú ý khi mua thực phẩm cần chọn các thực phẩm tươi sống, tránh dùng thực phẩm kém chất lượng (ôi thiu, ươn...) không dùng thực phẩm đã hết hạn sử dụng, những hộp bị phồng rộp, nhãn hiệu kém bắt mắt. Nếu thực phẩm có mùi hôi, nên loại bỏ chúng trước thời hạn.
+Không sử dụng các thực phẩm có chất độc: cá nóc, khoai tây mọc mầm, nấm lạ,... (sử dụng cóc phải loại bỏ hết da, nội tạng, nhất là gan và trứng)
+Không sử dụng các thực phẩm đã bị nhiễm chất độc hóa học.
+Bảo quản kỹ lưỡng những thực phẩm chưa chế biến.
+Bảo quản thực phẩm trong tủ lạnh đúng cách: Các loại vi khuẩn gây hại tiềm ẩn trong thực phẩm sẽ phát tán rất nhanh nếu không được bảo quản trong điều kiện nhiệt độ thích hợp. Thực phẩm sau khi mua khoảng 2 giờ tại các cửa hàng hay siêu thị cần được bảo quản lạnh. Còn nếu ở điều kiện nhiệt độ phòng (khoảng 32°C), trong vòng 1 giờ thì các loại thịt nên được bảo quản trong tủ lạnh.
+Đối với các loại thực phẩm như thịt, cá, hải sản có thể dự trữ trong ngăn đá của tủ lạnh khoảng 2 ngày, còn đối với thịt bò, thịt bê, thịt cừu thì có thể 3 - 5 ngày.
+Làm chín thức ăn ở nhiệt độ thích hợp: Các loại thực phẩm cần được nấu chín trước khi ăn để loại trừ nguy cơ bị ngộ độc. Chỉ ăn, uống thực phẩm đã chín kỹ. Muốn khẳng định chắc chắn xem thực phẩm đó có được nấu chín ở nhiệt độ an toàn hay không, bạn có thể sử dụng nhiệt kế đo độ để kiểm tra. Lời khuyên hữu hiệu là nên ăn ngay sau khi thức ăn được nấu chín.
+
+Rửa tay trước khi tiếp xúc với thực phẩm và thường xuyên giữ sạch tay trong quá trình chế biến, rửa tay sau khi đi vệ sinh. Đây là một biện pháp hữu hiệu đề phòng tránh ngộ độc thực phẩm. Công đoạn rửa tay nên được tiến hành trước và sau khi chuẩn bị món ăn, đặc biệt là đối với những loại thực phẩm tươi sống như thịt, cá, trứng và các loại hải sản. Việc này có khả năng ngăn ngừa sự lây lan các vi khuẩn có hại qua đường ăn uống.
+Đối với dụng cụ chế biến cần rửa lần đầu bằng xà phòng với nước ấm 45 °C-50 °C, rửa lại lần hai bằng nước ấm.
+Khi đi ăn ở ngoài (ăn quán, cơm bụi, hàng rong, qua vặt, ăn chè, sinh tố...ở các quán cóc ven đường) cần chú ý không ăn ở những quán quá ẩm thấp, bụi bẩn, bàn ghế, bát đũa không sạch sẽ. Khi vào quán nên quan sát khu bếp, khu chế biến và nơi bảo quản thực phẩm có đảm bảo vệ sinh, an toàn. Nếu muốn thử một món lạ, nên hỏi rõ thành phần của món ăn, tránh những thứ có thể gây ngộ độc, chọn các món còn nóng. Hãy yêu cầu đổi nếu bạn nhận thấy thức ăn cũ hay nguội. Không nên gọi món sống hoặc tái, các món rau trộn khi đi ăn ở bên ngoài. Dùng đồ uống của các nhà sản xuất có uy tín, nhớ xem kỹ hạn sử dụng trước khi dùng. Nên cảnh giác với các loại rượu dân tộc, rượu ngâm, đồ uống tự chế, không đảm bảo vệ sinh và dễ gây hại cho sức khỏe.
+
+
+== Chẩn đoán và sơ cấp cứu ==
+
+Nếu bị ngộ độc nặng không có dấu hiệu thuyên giảm, bạn cần nhanh chóng đưa nạn nhân tới bệnh viện để được cấp cứu kịp thời, tránh để đến khi quá muộn.
+Chẩn đoán ngộ độc thực phẩm căn cứ trước hết là hoàn cảnh xảy ra liên quan đến ăn, uống. Bệnh cảnh nhiễm độc có thể xảy ra sau năm mười phút đến vài giờ, thậm chí hàng ngày sau bữa ăn. Nếu là bữa ăn nhiều người cùng ăn thì việc có từ 2 người trở lên cùng ăn các thức ăn giống nhau, cùng bị bệnh và có các triệu chứng giống nhau giúp ta khẳng định chẩn đoán.
+Các triệu chứng khiến người bệnh phải đi cấp cứu và bác sĩ nghi ngờ tới ngộ độc. Vì tác nhân gây độc là đa dạng nên triệu chứng cũng hết sức đa dạng. Không phải tất cả nhưng hầu hết các triệu chứng thường là bắt đầu từ đường tiêu hoá (như nhiễm độc nhiễm khuẩn thức ăn, nhiễm hoá chất bảo vệ thực vật tồn dư trong thức ăn) Tuy nhiên vẫn có các triệu chứng, hội chứng có tính chất đặc trưng đặc hiệu cho một loại tác nhân gây độc (ví dụ co giật nghĩ đến các hoá chất bảo vệ thực vật, sốt kèm đau bụng, ỉa chảy phân có máu hoặc như nước rửa thịt gợi ý ỉa chảy nhiễm trùng…).
+Khi nhận thấy các dấu hiệu của ngộ độc như: đau bụng quằn quại, nôn nhiều, tiêu chảy... cần làn cho chất độc hại thoát ra ngoài càng nhanh càng tốt. Có thể dùng hai ngón tay ngoáy móc họng để kích thích nôn hết thức ăn ra ngoài. Người bị ngộ độc mất rất nhiều nước, cần phải bổ sung kịp thời. Uống nhiều dung dịch oresol, nước cháo, nước cam, nước dừa sau mỗi lần nôn hay đi ngoài.
+Nên đến bệnh viện nếu sốt cao, mất nước nặng, phân có máu. Sau khi bị ngộ độc, nên dùng thức ăn mềm, dễ tiêu hóa để sức khỏe mau hồi phục. Trường hợp ngộ độc nặng, cần nhanh chóng đến cơ sở y tế gần nhất hoặc gọi cấp cứu khẩn cấp. Chú ý lưu mẫu phân, dịch ói, thức ăn để cơ quan chuyên môn tiến hành xét nghiệm tìm nguyên nhân.
+
+
+== Dịch tễ học ==
+Mỗi năm, ước tính ở Hoa Kỳ xảy ra 76 triệu ca ngộ độc thực phẩm (26 nghìn ca trên 100 nghìn dân), 2 triệu ca xảy ra ở Anh (3.400 ca/100 nghìn dân) và 75 nghìn ca ở Pháp (1.220 ca/10o nghìn dân).
+
+
+=== Việt Nam ===
+Ở Việt Nam nhiều vụ ngộ độc thực phẩm hay xảy ra, đặc biệt là ngộ độc tập thể, rơi nhiều vào đối tượng công nhân (khi ăn, uống tại các bếp ăn tập thể không đảm bảo vệ sinh, an toàn chất lượng thực phẩm). Theo một thống kê năm 2008, mỗi năm ở Việt Nam có khoảng 250- 500 ca ngộ độc thực phẩm với 7.000 - 10.000 nạn nhân và 100 - 200 ca tử vong. Nhà nước Việt Nam cũng phải chi trên 3 tỷ đồng cho việc điều trị, xét nghiệm và điều tra tìm nguyên nhân. Tiền thuốc men và viện phí cho mỗi nạn nhân ngộ độc do vi sinh vật tốn chừng 300.000 – 500.000 đồng, các ngộ độc do hóa chất (thuốc trừ sâu, phẩm màu…) từ 3 – 5 triệu đồng, nhưng các chi phí do bệnh viện phải chịu thì còn lớn hơn nhiều.
+Bảng số liệu của Cục An toàn thực phẩm Việt Nam
+
+Nguồn: Cục ATTP - Bộ Y tế
+Một số vụ việc được nhắc đến gồm: Trong tháng 8 năm 2012 đã xảy ra 4 vụ ngộ độc thực phẩm làm 179 người bị ngộ độc, trong đó 2 trường hợp tử vong. Trưa 27/11/2012, 74 nữ công nhân của Công ty TNHH Giày Uy Việt (KCN Đông Xuyên, TP Vũng Tàu) có dấu hiệu bị ngộ độc thức ăn sau khi ăn suất cơm chay. Ở Quận 12, TP HCM, 148 công nhân Công ty Terratex, cùng có triệu chứng đau bụng, buồn nôn và chóng mặt. Theo các công nhân, thức ăn tập thể mà họ dùng do chính nhà bếp của công ty nấu. Đây là lần thứ hai công ty này xảy ra ngộ độc tập thể. Trong 2 ngày 6 và 7/3/2013, gần 30 người ăn bánh mì ở Đà Nẵng phải nhập viện với các triệu chứng nôn ói kéo dài kèm đau đầu. Chiều 28/3/2013, Chi cục An toàn vệ sinh thực phẩm Thái Bình cho biết đã có 69 người bị ngộ độc phải đưa vào Bệnh viện đa khoa Tây Tiền Hải để điều trị. Tất cả 69 người bị ngộ độc đều là công nhân của Công ty TNHH Global MFG Việt Nam.
+
+
+=== Hoa Kỳ ===
+Ở Hoa Kỳ, theo các số liệu của FoodNet từ năm 1996 đến 1998, CDCP ước tính rằng hàng năm có 76 triệu ca ngộ độc thực phẩm (26 nghìn ca trên 10 vạn dân), trong đó:
+
+325 nghìn nhập viện (111/10 vạn dân);
+5 nghìn chết (1,7/10 vạn dân).
+Tổn thất gây ra bởi sự sụt giảm năng suất cùng chi phí điều trị năm 1997 là 35 tỉ Mỹ kim.
+
+
+=== Pháp ===
+Ở Pháp, hàng năm có 75 vạn ca ngộ độc thực phẩm (1.210 ca/10 vạn dân), trong đó:
+
+7 vạn ca cấp cứu trong tình trạng nguy kịch (113 ca/10 vạn dân);
+113 nghìn ca phải nhập viện (24 ca/10 vạn dân);
+400 người chết (0.9 người/ 10 vạn dân).
+
+
+=== Úc ===
+Ở Úc, hằng năm ước tính có khoảng 5,4 triệu ca ngộ độc thực phẩm, cụ thể:
+
+18 nghìn ca nhập viện
+120 ca tử vong
+2,1 triệu ca phải nghỉ làm vì ngộ độc
+1,2 triệu cuộc hội chẩn giữa các bác sĩ
+30 vạn toa kháng sinh
+
+
+=== Ngộ độc hàng loạt ===
+Phần lớn các ca ngộ độc đều xảy ra một cách lẻ tẻ và mang tính cá nhân. Nguyên nhân của các ca này thường không được xác định. Ở Hoa Kỳ - nơi người dân thường xuyên ăn ở các quán xá, cửa hàng - phần nhiều các ca ngộ độc hàng loạt (58%) có nguyên nhân từ các nhân tố liên quan đến các thực phẩm thương mại (theo số liệu năm 2004 của FoodNet). Một trận ngộ độc hàng loạt được xác định là xảy ra khi từ hai người trở lên mắc cùng một loại ngộ độc do dùng chung một nguồn thức ăn.
+Thông thường, một chuỗi sự kiện sẽ là nguyên nhân tạo ra một trận ngộ độc hàng loạt; tỉ như thực phẩm để ở nhiệt độ phòng trong thời gian quá lâu khiến vi khuẩn sinh sôi nảy nở cùng với việc chế biến không kỹ các thực phẩm này sau đó đã không thể tiêu diệt hết các vi khuẩn nguy hiểm gây ngộ độc cho người.
+Một trận ngộ độc hàng loạt thường được nhận diện khi các nạn nhân quen biết lẫn nhau. Tuy nhiên theo thời gian chúng được nhận diện bởi các nhân viên y tế từ các dấu hiệu tăng sinh bất thường của các dòng vi khuẩn nào đó theo các kết quả xét nghiệm. Việc điều tra và nhận diện ngộ độc hàng loạt tại Hoa Kỳ được thực thi bởi các cơ quan thẩm quyền ở địa phương, việc tiến hành này có nhiều khác nhau ở từng địa phương. Theo ước tính, 1–2% các ca ngộ độc hàng loạt được nhận diện.
+
+
+== Xem thêm ==
+Quy luật năm giây
+HACCP
+ISO 22000
+TCVN 5603:2008
+Thức ăn đường phố
+Cơm bụi
+
+
+== Chú thích ==

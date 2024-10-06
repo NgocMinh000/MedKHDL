@@ -1,0 +1,57 @@
+Tin học hay khoa học thông tin (gọi tắt là tin) (tiếng Anh: informatics, tiếng Pháp: informatique) là một ngành khoa học chuyên nghiên cứu quá trình tự động hóa việc tổ chức, lưu trữ, xử lý và truyền dẫn thông tin của một hệ thống máy tính cụ thể hoặc trừu tượng (ảo). Với cách hiểu hiện nay, tin học bao hàm tất cả các nghiên cứu và kỹ thuật có liên quan đến việc mô phỏng, biến đổi và tái tạo thông tin.
+Tin học xem xét sự tương tác giữa con người và thông tin bên cạnh việc xây dựng giao diện, tổ chức, công nghệ và hệ thống. Như vậy, việc thích tin học có bề rộng lớn và bao gồm nhiều chuyên ngành, bao gồm các ngành khoa học máy tính, hệ thống thông tin, công nghệ thông tin và thống kê. Kể từ khi máy tính ra đời, các cá nhân và tổ chức ngày càng xử lý thông tin kỹ thuật số. Điều này đã dẫn đến việc nghiên cứu về tin học với các khía cạnh tính toán, toán học, sinh học, nhận thức và xã hội, bao gồm cả nghiên cứu về tác động xã hội của công nghệ thông tin.
+
+
+== Định nghĩa ==
+Từ "tin học" đã được dịch từ informatique trong tiếng Pháp. Từ informatics trong tiếng Anh cũng bắt nguồn từ từ tiếng Pháp này, nhưng theo thời gian informatics đã mang nghĩa khác dần với nghĩa ban đầu và hầu như chỉ còn được dùng phổ biến tại châu Âu. Ngày nay, thuật ngữ tiếng Anh tương đương với informatique là computer science, nghĩa là "khoa học về máy tính".
+
+
+== Lịch sử ==
+
+Văn hóa khoa học thư viện thúc đẩy các chính sách và quy trình quản lý thông tin thúc đẩy mối quan hệ giữa khoa học thư viện và phát triển khoa học thông tin để mang lại lợi ích cho sự phát triển tin học y tế; bắt nguồn từ những năm 1950 với sự khởi đầu của việc sử dụng máy tính trong chăm sóc sức khỏe (Nelson & Staggers p. 4). Những học viên đầu tiên quan tâm đến lĩnh vực này sớm biết rằng không có chương trình giáo dục chính thức nào được thiết lập để giáo dục họ về khoa học máy tính cho đến cuối những năm 1960 và đầu những năm 1970. Sự phát triển chuyên nghiệp bắt đầu xuất hiện, đóng một vai trò quan trọng trong sự phát triển của tin học y tế (Nelson & Staggers p. 7) Theo Imhoff và cộng sự, 2001, tin học chăm sóc sức khỏe không chỉ là ứng dụng công nghệ máy tính vào các vấn đề trong chăm sóc sức khỏe mà còn bao quát mọi khía cạnh tạo, xử lý, truyền thông, lưu trữ, truy xuất, quản lý, phân tích, khám phá và tổng hợp thông tin và kiến ​​thức dữ liệu trong toàn bộ phạm vi chăm sóc sức khỏe. Hơn nữa, họ tuyên bố rằng mục tiêu chính của tin học y tế có thể được phân biệt như sau: Cung cấp giải pháp cho các vấn đề liên quan đến dữ liệu, thông tin và xử lý kiến ​​thức nhằm nghiên cứu các nguyên tắc chung về xử lý thông tin và kiến ​​thức về y học và chăm sóc sức khỏe.
+Thuật ngữ mới này đã được thông qua trên khắp Tây Âu, và, ngoại trừ tiếng Anh, đã phát triển một ý nghĩa được dịch đại khái bởi thành khoa học máy tính và của sự tương tác của công nghệ và cấu trúc tổ chức của con người.
+Cách sử dụng đã sửa đổi định nghĩa này theo ba cách. Đầu tiên, hạn chế thông tin khoa học được loại bỏ, như trong việc thích tin học kinh doanh hoặc tin học pháp lý. Thứ hai, vì hầu hết thông tin hiện được lưu trữ bằng kỹ thuật số, máy tính hiện là trung tâm của tin học. Thứ ba, việc trình bày, xử lý và truyền đạt thông tin được thêm vào như là đối tượng điều tra, vì chúng đã được công nhận là cơ bản cho bất kỳ tài khoản khoa học nào về thông tin. Lấy thông tin làm trọng tâm của nghiên cứu phân biệt tin học với khoa học máy tính. Tin học bao gồm nghiên cứu các cơ chế sinh học và xã hội của xử lý thông tin trong khi khoa học máy tính tập trung vào tính toán kỹ thuật số. Tương tự như vậy, trong nghiên cứu về đại diện và truyền thông, tin học không quan tâm đến hình thức lưu trữ thông tin. Ví dụ, nó bao gồm các nghiên cứu về giao tiếp bằng cử chỉ, lời nói và ngôn ngữ, cũng như giao tiếp kỹ thuật số và mạng.
+Trong thế giới nói tiếng Anh, thuật ngữ tin học lần đầu tiên được sử dụng rộng rãi trong tin học y tế tổng hợp, bao gồm "các nhiệm vụ nhận thức, xử lý thông tin và truyền thông của thực hành y tế, giáo dục và nghiên cứu, bao gồm khoa học thông tin và công nghệ để hỗ trợ các nhiệm vụ trên". Nhiều từ ghép như vậy hiện đang được sử dụng; chúng có thể được xem như là các lĩnh vực khác nhau của "tin học ứng dụng". "Tuy nhiên, ở Hoa Kỳ, việc thích tin học được liên kết với điện toán ứng dụng hoặc điện toán trong bối cảnh của một lĩnh vực khác."
+
+
+== Một số phân nhánh quan trọng ==
+Công nghệ thông tin (tiếng Anh: Information technology): nghiên cứu việc áp dụng công nghệ trong việc quản trị và xử lý thông tin.
+Hệ thống thông tin (tiếng Anh: information system): bao gồm các yếu tố có quan hệ với nhau cùng làm nhiệm vụ thu thập, xử lý, lưu trữ và phân phối thông tin và dữ liệu và cung cấp một cơ chế phản hồi để đạt được một mục tiêu định trước trong các cơ quan tổ chức lớn.
+Khoa học máy tính (tiếng Anh: Computer science) ngành nghiên cứu các cơ sở lý thuyết của tin học như thuật toán, ngôn ngữ hình thức, lý thuyết đồ thị, đồ họa máy tính, v.v... nghĩa là chỉ có liên quan gián tiếp đến phần mềm và máy tính. Khái niệm gần như tương đương (nhưng không hoàn toàn tương đương) trong tiếng Pháp là Informatique théorique.
+Kỹ thuật máy tính (tiếng Anh: Computer engineering): nghiên cứu về việc chế tạo và sử dụng các thiết bị tin học.
+Kỹ nghệ phần mềm (tiếng Anh: Software engineering): Tập trung vào đặc tả, phân tích, thiết kế, xây dựng, và kiểm thử phần mềm; bao gồm các phương pháp phát triển (chẳng hạn mô hình thác nước và lập trình cực đoan) và quản lý dự án.
+Mạng máy tính (tiếng Anh: computer network hay network system) là sự kết hợp các máy tính lại với nhau thông qua các thiết bị nối kết mạng và phương tiện truyền thông (giao thức mạng, môi trường truyền dẫn) theo một cấu trúc nào đó và các máy tính này trao đổi thông tin qua lại với nhau.
+Tin học kinh tế: Xây dựng các hệ thống phức hợp giữa tin học và kinh tế/xã hội, qua đó ứng dụng và phát triển chúng trong thực tế nhằm giải quyết các vấn đề kinh tế cũng như xã hội.
+
+
+== Cơ sở ==
+Các mô hình lập trình
+Cấu trúc dữ liệu và giải thuật
+Cơ sở dữ liệu
+Hệ điều hành
+Khôi phục dữ liệu
+Lập trình máy tính (cấu trúc, hàm, hướng đối tượng, hướng khía cạnh, logic, mạng, mệnh lệnh, song song, tương tranh, thủ tục)
+Lý thuyết máy tính (Automat, điện toán lượng tử, Độ phức tạp Kolmogorov, điều khiển tự động, độ phức tạp tính toán, đồ thị, kiểu, số, tập hợp, tính được, thể loại, trò chơi)
+Lưu trữ thông tin
+Mã hóa dữ liệu
+Nén dữ liệu
+Ngôn ngữ lập trình và trình biên dịch
+Toán học (Đại số, Đại số Boole, Giải tích số, Khoa học Thống kê, Logic toán học, Lý thuyết xác suất, Số học, Tổ hợp, Rời rạc, Tối ưu hóa)
+Thu thập thông tin
+
+
+== Thuật ngữ tin học Anh-Việt ==
+Danh sách thuật ngữ tin học Anh-Việt tại Wiktionary tiếng Việt.
+
+
+== Xem thêm ==
+Công nghệ thông tin
+Khoa học máy tính
+Đồ họa
+Lập trình máy tính
+
+
+== Liên kết ngoài ==
+
+
+== Tham khảo ==

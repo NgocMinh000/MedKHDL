@@ -1,0 +1,17 @@
+Khoa học dữ liệu là một lĩnh vực liên ngành về các quá trình và các hệ thống rút trích tri thức hoặc hiểu biết từ dữ liệu ở các dạng khác nhau, kể ở dạng cấu trúc hay phi cấu trúc, là sự tiếp nối của một số lĩnh vực phân tích dữ liệu như khoa học thống kê, khai phá dữ liệu, tương tự như khám phá tri thức ở các cơ sở dữ liệu (KDD).
+
+
+== Tổng quan ==
+Khoa học thống kê sử dụng các kỹ thuật và lý thuyết rút từ nhiều lĩnh vực với biên độ rộng của toán học,  khoa học thống kê, khoa học thông tin, và  khoa học máy tính, bao gồm xử lý tín hiệu, lý thuyết xác suất, học máy, lý thuyết học thống kê, khai phá dữ liệu, cơ sở dữ liệu,  kỹ thuật thông tin, nhận dạng mẫu, trực quan dữ liệu, các phân tích dự đoán, lý thuyết quyết định, kho dữ liệu, nén dữ liệu, lập trình máy tính, trí tuệ nhân tạo, và siêu máy tính.
+
+
+== Chỉ trích ==
+Mặc dù thuật ngữ khoa học dữ liệu được phát sinh ở trong các môi trường thương mại, nhiều học giả và nhà báo cho rằng không có sự khác biệt giữa khoa học dữ liệu và khoa học thống kê. Trong một bài viết ở tạp chí Forbes, Gil Press tranh cãi rằng khoa học dữ liệu là một buzzword với nghĩa không rõ ràng và đơn giản dùng để thay thế cho các phân tích thương mại ở các bối cảnh chẳng hạn như các chương trình chứng chỉ sau đại học. Trong phần hỏi-đáp của bài phát biểu của mình tại Joint Statistical Meetings thuộc Hiệp hội thống kê Hoa Kỳ, nhà thống kê Nate Silver đã nói, "Tôi nghĩ khoa học dữ liệu là một thuật ngữ chưa xác định đối với một nhà thống kê.... Thống kê là một nhánh khoa học. Nhà khoa học dữ liệu đơn giản là một sự hơi dư thừa theo nhiều cách và người ta không nên trách móc thuật ngữ nhà thống kê.
+
+
+== Đọc thêm ==
+Conway, Drew; White, John Myles (tháng 2 năm 2012). Machine Learning for Hackers. O'Reilly Media. ISBN 978-1449303716.
+Russel, Matthew A. (tháng 10 năm 2013). Mining the Social Web, 2nd Edition. O'Reilly Media. ISBN 978-1449367619..
+
+
+== Tham khảo ==

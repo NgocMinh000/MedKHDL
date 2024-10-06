@@ -1,0 +1,43 @@
+Code cave hay hang mã là dãy các byte không được sử dụng trong bộ nhớ của tiến trình. Code cave cũng là vùng không được sử dụng trong file thực thi và sẽ được ánh xạ lên không gian bộ nhớ của tiến trình khi thực thi file. Vùng code cave đấy có thể được dùng để inject thêm lệnh chỉ thị tùy chỉnh vào tiến trình.
+
+
+== Ví dụ ==
+Ví dụ sau đây nói về use case đơn giản nhất của code cave: chèn lệnh vào đó và làm sao để nó thực thi trước khi phần lệnh chính của chương trình được thực thi.
+
+Giả sử cho một file thực thi được thể hiện bằng mã x86, cùng với một vùng "code cave", đơn giản như sau:Biên dịch ra file thực thi và chạy nó, trên màn hình dòng lệnh sẽ hiển thị dòng chữ "Hello world".
+Người ta có thể chỉnh sửa trực tiếp vào file thực thi này, thông qua các công cụ disassembly, theo cách như sau:
+
+Tìm code cave trong file thực thi rồi viết code bổ sung vào đó
+Chèn code vào đầu phần code chính để chuyển hướng luồng chạy xuống code cave
+Chèn code vào cuối phần code trong code cave để chuyển hướng về lại phần code chính
+Có thể sử dụng các lệnh chỉ thị CALL và RET để đơn giản bớt công việc này. Chẳng hạn như sau:Sau khi làm thế xong, khi chạy chương trình thì màn hình dòng lệnh sẽ hiện ra dòng chữ "Injected" trước, sau đó mới là "Hello world".
+
+
+== Sử dụng thường thấy ==
+Khái niệm về code cave này thường hay được giới hacker và giới reverse engineering vận dụng để thực thị mã tùy ý trong chương trình đã biên dịch. Đây có thể là phương pháp có lợi để chỉnh sửa 'chương trình đã biên dịch' ví dụ như để gắn thêm hộp thoại, chỉnh sửa biến số hay thậm chí là vô hiệu hóa phần kiểm tra bản quyền phần mềm. Thường là bằng cách sử dụng 'chỉ thị gọi' (CALL) thường thấy trong nhiều kiến trúc CPU, luồng chương trình sẽ nhảy vào subroutine mới nằm trong code cave. Sau khi thực thi subroutine xong thì có thể sử dụng 'chỉ thị trả về' (RET) để nhảy ra khỏi code cave và quay trở lại phần code ban đầu. Như vậy cho phép chương trình hiện tồn nhảy vào phần code mới thêm mà không gây ra thay đổi đáng kể lên luồng chương trình vốn có.
+
+
+== Ưu điểm ==
+Dễ dàng, nhanh chóng – có nghĩa là chỉnh sửa tiến trình được nhanh và dễ. Khi sửa đổi code hiện có bằng các công cụ như Ollydbg, hàm được thêm vào có thể được assemble và kiểm thử mà không cần bất kì phụ thuộc bên ngoài nào.
+Không cần mã nguồn – dùng code cave có thể cực kì hữu hiệu ngay cả khi không có mã nguồn cho lập trình viên. Điều này cho phép lập trình viên chỉnh sửa được chẳng hạn như thêm hoặc bớt hàm ra khỏi code mà không phải viết lại toàn bộ chương trình hay liên kết bất kì phụ thuộc bên ngoài nào vào dự án hiện tồn.
+
+
+== Khuyết điểm ==
+Dễ hỏng chương trình – nhiều khi hay xảy ra sau khi sửa đổi file thực thi. Có thể do không tồn tại code cave đủ lớn trong file thực thi hiện có để mà inject code. Thành ra việc inject code có thể lỡ bị "lem" sang phần dữ liệu khác khiến chương trình hỏng luôn.
+Thiếu tính đa dụng – vì vùng code cave thường rất eo hẹp nên chỉ có thể viết code làm được những cơ chế đơn giản và chỉ dùng được hợp ngữ mà thôi. Tuy nhiên có thể khắc phục bằng cách dùng code cave làm bàn đạp để nạp 'thư viện liên kết động' từ bên ngoài vào, như vậy có thể để phần code phức tạp hơn bên trong thư viện đấy, kỹ thuật này có tên gọi là DLL injection.
+
+
+== Công cụ ==
+pycave: công cụ đơn giản để tìm code cave trong file Portable Executable (PE).
+OllyDbg: "trình gỡ lỗi" có chức năng phân tích mã. Nó có thể lần theo các lệnh gọi và thực thi của chương trình, cùng với hiển thị các phép lặp trong file thư viện và file nhị phân. Trình gỡ lỗi này còn có cả chức năng inject vào và tháo gỡ code khỏi file EXE một cách trực tiếp.
+PE: Explorer: cho phép người dùng mở và sửa file thực thi PE. Gồm .EXE, .DLL và cả các loại file ít thông dụng hơn.
+Cheat Engine: công cụ mạnh mẽ có thể đọc bộ nhớ tiến trình và ghi vào bộ nhớ tiến trình. Hay được dùng để "gian lận" trong game (phía client) nhưng cũng có thể dùng như một dạng "trình gỡ lỗi".
+TSearch: công cụ tương tự như Cheat Engine.
+
+
+== Liên kết ngoài ==
+Pycave trên Github.
+The Beginners Guide to Codecaves trên CodeProject.
+Modifiying Binaries: Adding a Splash Dialog
+Game Hacking-Utilizing Code Caves
+Theories and methods of Code-caves

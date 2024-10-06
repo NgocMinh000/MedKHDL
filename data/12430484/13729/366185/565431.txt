@@ -1,0 +1,30 @@
+Virus viêm gan B (tiếng Anh: Hepatitis B virus, viết tắt: HBV) là một virus DNA thuộc chi Orthohepadnavirus, thuộc họ virus Hepadnaviridae. Virus này gây nên bệnh viêm gan B.
+
+
+== Đặc điểm ==
+
+HBV thuộc loại siêu vi trùng (hay vi rút) Hepadna với khả năng tồn tại cao. HBV bền vững với nhiệt độ:100 độ C virut sống được 30', ở -20 độ C sống tới 20 năm, HBV kháng ete (eter), nhưng bất hoạt trong formalin(fócmon).
+Xét nghiệm máu có thể có ba loại HBV với kích thước cỡ 22 nm, 42 nm và 22-200 nm. Kháng nguyên HBcAg chỉ có ở virut kích thước 42 nm.
+Trong máu bệnh nhân có cả hạt nhiễm và không nhiễm Các hạt không nhiễm không có genom của virus (dsADN)nên không có khả năng gây bệnh. Nồng độ các hạt không nhiễm có thể tới 1010 virion/ml. Vì vậy có tới 65% bệnh nhân có HBsAg không có triệu chứng bệnh, 35% có các triệu chứng của viêm gan.
+
+genome gồm một DNA mạch kép, khoảng 3.2 kb, tạo nên các antigen:
+
+HBsAg (kháng nguyên bề mặt): thuộc lớp vỏ của HBV - dùng trong xét nghiệm máu để biết có HBV trong cơ thể
+HBcAg (kháng nguyên lõi): thuộc lớp lõi của HBV - dùng để biết HBV đang phát triển
+HBeAg (kháng nguyên nội sinh): nếu có trong máu bệnh nhân đang có khả năng lây rất cao
+gen X: có thể là nguyên nhân tạo ung thư gan
+gen P
+Sau khi HBV nhập vào cơ thể, hệ miễn dịch sẽ tạo kháng thể cho từng kháng nguyên của HBV (xem hình). Một tuần hay một tháng sau khi nhiễm siêu vi trùng, HBsAg xuất hiện trong máu, tiếp theo là HBeAg và kháng thể IgM và IgG cho HBcAg (anti-HBc). Khi HBsAg biến mất, thì kháng thể chống HBsAg (anti-HBs) mới xuất hiện.
+Một khi anti-HBs xuất hiện người bệnh được coi như hồi phục, trở thành miễn nhiễm đối với HBV và không lây bệnh qua người khác được. 
+Một số bệnh nhân không tạo được kháng thể này và tiếp tục mang mầm bệnh HBsAg, sẽ có thể lây cho người khác.
+Kháng thể anti-HBc có hai loại: IgM trong thời kỳ bị nhiễm trùng cấp tính và IgG trong thời kỳ chuyển tiếp. Nếu anti-HBc IgG không hạ xuống và có HBsAg có nghĩa bệnh nhân đang bị dạng viêm gan mạn tính.
+Nếu HBeAg dương tính là dấu hiệu cho thấy virus đang nhân lên mạnh mẽ, bệnh nhân có khả năng lây cao, trường hợp này cần điều trị. 
+Khi thử nghiệm thấy anti-HBe thì có tiên lượng tốt hơn và khả năng lây không nhiều.
+Hiện nay, có xu hướng căn cứ vào định lượng HBV DNA để làm căn cứ điều trị, tuy nhiên điều này chưa được hoàn toàn khẳng định.
+
+
+== Xem thêm ==
+Viêm gan siêu vi B
+
+
+== Chú thích ==

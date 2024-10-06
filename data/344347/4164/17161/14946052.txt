@@ -1,0 +1,24 @@
+Banna virus (BAV) là một loại virus thuộc họ Reoviridae, một họvirus RNA phân đoạn, không bao bọc, chuỗi kép. Nó là một loại arbovirus, chủ yếu được truyền sang người từ vết cắn của muỗi bị nhiễm thuộc chi Culex. Lợn và gia súc cũng đã được chứng minh là bị nhiễm bệnh. Triệu chứng phổ biến nhất của nhiễm trùng là sốt, nhưng trong một số trường hợp viêm não có thể xảy ra. Không có điều trị cụ thể cho nhiễm trùng, vì vậy điều trị nhằm mục đích giảm bớt mức độ nghiêm trọng của các triệu chứng cho đến khi hệ thống miễn dịch đã loại bỏ nhiễm trùng.
+
+
+== Virus học ==
+
+
+=== Cấu trúc và bộ gen ===
+BAV là virus nhỏ, với kích thước 72 đến 75 nm, virus RNA không có vỏ bọc, hai sợi được bao quanh bởi một lớp vỏ protein thập nhị diện. Protein sợi kéo dài ra khỏi bề mặt của lớp vỏ protein. Bộ gen của BAV có chiều dài khoảng 19.500 cặp base, mạch thẳng và được chia thành 12 phần, mã hóa cho gen từ VP1 đến VP12. Bảy trong số này, VP1 đến 4 và VP8 đến 10, là các protein cấu trúc. VP4 và VP9 tạo thành lớp vỏ protein bên ngoài. Các hạt bên trong của lớp lông bao gồm VP1 đến 3, VP8 và VP10. VP7 đóng vai trò là protein kinase, VP1 là RNA polymerase phụ thuộc RNA, VP3 là enzyme giới hạn và VP12 là protein gắn với DSRNA.
+
+
+=== Các loại và tiến hóa ===
+Virus rota có nhiều đặc điểm vật lý và di truyền với BAV, cho thấy mối quan hệ di truyền chặt chẽ giữa các virus. Phân tích phát sinh các chủng BAV khác nhau cho thấy các chủng BAV-Ch và BAV-In6969 là hai kiểu gen riêng lẻ tại một thời điểm (A và B), trước khi trở thành loài nguyên mẫu cho hai loại huyết thanh riêng biệt (A và B) trong số tất cả 38 loại xác định chủng.
+
+
+== Chẩn đoán ==
+
+Đặc điểm lâm sàng của nhiễm BAV là không đặc hiệu và giống với các bệnh não do arbovirus khác, vì vậy chẩn đoán trong phòng thí nghiệm là cần thiết để xác định BAV là nguyên nhân gây bệnh. Phát hiện các axit nucleic của BAV có thể được thực hiện với phương pháp đoạn dò thủy phân TaqMan, phản ứng tổng hợp chuỗi phiên mã ngược (RT-PCR) khảo nghiệm bằng cách chiết xuất sợi RNA từ một mẫu và đảo ngược sao chép chúng vào phát hiện cDNA. Một xét nghiệm hấp thụ miễn dịch liên kết với enzyme base VP9 (ELISA) cũng có thể được sử dụng để xác định kháng thể với BAV trong huyết thanh và nghiên cứu mức độ ổn định huyết thanh của nhiễm BAV.
+
+
+== Lịch sử ==
+Virus Banna lần đầu tiên được phân lập từ dịch não tủy của bệnh nhân viêm não ở Tây Song Bản Nạp, tỉnh Vân Nam, Cộng hòa Nhân dân Trung Hoa năm 1987. Nhận dạng sau đó đến ở tỉnh Tân Cương và virus đã được tìm thấy ở những nơi khác ở Trung Quốc, Indonesia và Việt Nam trong quần thể muỗi. Do BAV hiển thị các triệu chứng tương tự như nhiễm virut viêm não Nhật Bản (JEV) và hai loại virut này có chung phương pháp lây truyền và phân phối địa lý, nên có thể một số vụ dịch trong quá khứ do BAV gây ra chứ không phải là JEV.
+
+
+== Tham khảo ==

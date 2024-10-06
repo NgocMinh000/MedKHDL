@@ -1,0 +1,22 @@
+COVIVAC là một ứng viên vắc-xin COVID-19 do Viện Vắc-xin và Sinh phẩm y tế của Việt Nam phát triển.
+
+
+== Mô tả ==
+COVIVAC là loại vắc-xin vector virus bất hoạt dựa trên công nghệ phôi trứng gà. Thành phần vắc-xin là các hạt virus bệnh Newcastle gắn gen biểu diễn protein S của SARS-CoV-2 (Hexapro) + CpG 1018. Vắc-xin cần được tiêm theo hai liều, liều thứ hai cần tiêm sau liều đầu tiên 28 ngày.
+
+
+== Thử nghiệm lâm sàng ==
+
+
+=== Pha I ===
+Vào ngày 21 tháng 1, vắc-xin COVID-19 thứ hai do Việt Nam sản xuất (COVIVAC) của Viện Vắc-xin và Sinh phẩm y tế (IVAC) bắt đầu được tiến hành thử nghiệm lâm sàng trên người, gần hai tháng sớm hơn dự kiến. Vắc-xin COVIVAC đã được IVAC nghiên cứu từ tháng 5 năm 2020, được thử nghiệm tiền lâm sàng tại Ấn Độ, Hoa Kỳ và Việt Nam, với những kết quả cho thấy mức độ an toàn và hiệu quả đáp ứng đầy đủ yêu cầu nhằm tiến hành nghiên cứu trên người. Vắc-xin đã được đánh giá tính ổn định tại Đại học Y khoa Icahn, Mount Sinai, Thành phố New York. Giai đoạn 1 có sự tham gia của 120 tình nguyện viên Việt Nam khỏe mạnh, độ tuổi từ 18 đến 59. Vào ngày 15 tháng 3 năm 2021, sáu tình nguyện viên đã được tiêm vắc-xin COVIVAC tại Trường Đại học Y Hà Nội. COVIVAC là loại vắc-xin dạng dung dịch, có hoặc không có tá chất bổ trợ, không có chất bảo quản, sử dụng vector virus bệnh Newcastle, được sản xuất trên công nghệ trứng gà có phôi.
+
+
+=== Pha II ===
+Pha II lâm sàng dự kiến tiến hành vào cuối tháng 7 năm 2021 ở huyện Vũ Thư, tỉnh Thái Bình.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

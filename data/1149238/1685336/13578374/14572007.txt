@@ -1,0 +1,16 @@
+Bản mẫu:Hệ thống kiểu
+Suy luận kiểu (tiếng Anh: type inference) dùng để chỉ việc tự động phát hiện kiểu dữ liệu của một biểu thức trong ngôn ngữ lập trình.
+Nó là một tính năng hiện diện trong một số ngôn ngữ kiểu tĩnh mạnh. Nó có các đặc trưng của ngôn ngữ lập trình hàm nói chung. Một số ngôn ngữ có suy luận kiểu gồm C++11, C# (từ phiên bản 3.0), Chapel, Clean, Crystal, D, F#, FreeBASIC, Go, Haskell, Java (từ phiên bản 10), Julia, Kotlin, ML, Nim, OCaml, Opa, RPython, Rust, Scala, Swift, Vala và Visual Basic (từ phiên bản 9.0). 
+Phần lớn trong số chúng dùng kiểu suy luận kiểu đơn giản, đặc biệt hơn khi những ngôn ngữ còn lại sử dụng hệ thống kiểu Hindley-Milner để cung cấp một suy luận kiểu hoàn chỉnh hơn. Khả năng suy luận kiểu tự động giúp cho nhiều tác vụ lập trình dễ dàng hơn, cho phép lập trình viên bỏ qua các chú thích kiểu (type annotation) trong khi vẫn cho phép kiểm tra kiểu.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Archived e-mail message by Roger Hindley, explains history of type inference
+Polymorphic Type Inference Lưu trữ 2011-04-10 tại Wayback Machine by Michael Schwartzbach, gives an overview of Polymorphic type inference.
+Basic Typechecking paper by Luca Cardelli, describes algorithm, includes implementation in Modula-2
+Implementation of Hindley-Milner type inference in Scala, by Andrew Forrest (retrieved ngày 30 tháng 7 năm 2009)
+Implementation of Hindley-Milner in Perl 5, by Nikita Borisov tại Wayback Machine (lưu trữ 2007-02-18)
+What is Hindley-Milner? (and why is it cool?) Lưu trữ 2015-08-10 tại Wayback Machine Explains Hindley-Milner, examples in Scala

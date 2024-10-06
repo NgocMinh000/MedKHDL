@@ -1,0 +1,231 @@
+Trong dịch tễ học, tỷ số nguy cơ (risk ratio), hay nguy cơ tương đối (relative risk, RR) là tỷ lệ của xác suất khả năng mắc bệnh trong nhóm phơi nhiễm so với xác suất khả năng mắc bệnh trong nhóm không phơi nhiễm. Theo công thức 
+  
+    
+      
+        
+          I
+          
+            e
+          
+        
+        
+          /
+        
+        
+          I
+          
+            u
+          
+        
+      
+    
+    {\displaystyle I_{e}/I_{u}}
+  
+, trong đó 
+  
+    
+      
+        
+          I
+          
+            e
+          
+        
+      
+    
+    {\displaystyle I_{e}}
+  
+ là tỷ lệ mắc bệnh trong nhóm phơi nhiễm, và 
+  
+    
+      
+        
+          I
+          
+            u
+          
+        
+      
+    
+    {\displaystyle I_{u}}
+  
+ là tỷ lệ mắc bệnh trong nhóm không phơi nhiễm. Cùng với hiệu số nguy cơ (risk difference) và tỉ số odds (odds ratio), tỷ số nguy cơ kiểm định mối liên hệ giữa phơi nhiễm một yếu tố nguy cơ và bệnh tật.
+
+
+== Sử dụng trong thống kê và ý nghĩa nghiên cứu ==
+Tỷ số nguy cơ được sử dụng trong phân tích thống kê dữ liệu từ các nghiên cứu lâm sàng đối chứng ngẫu nhiên, nghiên cứu đoàn hệ và nghiên cứu cắt ngang, để ước tính độ mạnh của mối liên hệ giữa các phương pháp điều trị hoặc các yếu tố nguy cơ và bệnh tật. Như sử dụng để so sánh nguy cơ dẫn đến bệnh tật khi điều trị y tế so với không điều trị hoặc khi tiếp xúc với yếu tố nguy cơ môi trường so với không phơi nhiễm yếu tố nguy cơ môi trường đó.
+Trong mối quan hệ nhân quả giữa phơi nhiễm một yếu tố nguy cơ và bệnh tật, giá trị RR có thể được hiểu như sau:
+
+RR = 1 có nghĩa là không có mối liên hệ giữa phơi nhiễm yếu tố nguy cơ và khả năng mắc bệnh;
+RR < 1 có nghĩa là phơi nhiễm yếu tố nguy cơ làm giảm khả năng mắc bệnh;
+RR > 1 có nghĩa là phơi nhiễm yếu tố nguy cơ làm tăng khả năng mắc bệnh.
+
+
+== Tính toán ==
+Tỷ số nguy cơ có thể được ước tính từ bảng 2x2:
+
+ước tính tỷ số nguy cơ theo công thức sau:
+
+  
+    
+      
+        R
+        R
+        =
+        
+          
+            
+              E
+              E
+              
+                /
+              
+              (
+              E
+              E
+              +
+              E
+              N
+              )
+            
+            
+              C
+              E
+              
+                /
+              
+              (
+              C
+              E
+              +
+              C
+              N
+              )
+            
+          
+        
+        =
+        
+          
+            
+              E
+              E
+              (
+              C
+              E
+              +
+              C
+              N
+              )
+            
+            
+              C
+              E
+              (
+              E
+              E
+              +
+              E
+              N
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle RR={\frac {EE/(EE+EN)}{CE/(CE+CN)}}={\frac {EE(CE+CN)}{CE(EE+EN)}}.}
+  
+
+
+== So với tỷ số odds ==
+Tỷ số nguy cơ khác với tỷ số odds. Nhưng nếu EE nhỏ hơn nhiều so với EN, thì EE/(EE + EN) 
+  
+    
+      
+        
+          ≈
+        
+      
+    
+    {\displaystyle \scriptstyle \approx }
+  
+ EE/EN. Tương tự, nếu CE nhỏ hơn nhiều so với CN, thì CE/(CN + CE) 
+  
+    
+      
+        
+          ≈
+        
+      
+    
+    {\displaystyle \scriptstyle \approx }
+  
+ CE/CN. Đây là giả định cho bệnh hiếm. Khi đó:
+
+  
+    
+      
+        R
+        R
+        =
+        
+          
+            
+              E
+              E
+              (
+              C
+              E
+              +
+              C
+              N
+              )
+            
+            
+              C
+              E
+              (
+              E
+              E
+              +
+              E
+              N
+              )
+            
+          
+        
+        ≈
+        
+          
+            
+              E
+              E
+              ⋅
+              C
+              N
+            
+            
+              E
+              N
+              ⋅
+              C
+              E
+            
+          
+        
+        =
+        O
+        R
+        .
+      
+    
+    {\displaystyle RR={\frac {EE(CE+CN)}{CE(EE+EN)}}\approx {\frac {EE\cdot CN}{EN\cdot CE}}=OR.}
+  
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Relative risk online calculator

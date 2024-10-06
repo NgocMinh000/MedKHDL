@@ -1,0 +1,44 @@
+Viêm phổi do vi khuẩn là một loại viêm phổi do nhiễm vi khuẩn.
+
+
+== Phân loại ==
+
+
+=== Gram dương ===
+Streptococcus pneumoniae (J13) là nguyên nhân vi khuẩn phổ biến nhất gây viêm phổi ở tất cả các nhóm tuổi ngoại trừ trẻ sơ sinh. Streptococcus pneumoniae là một loại vi khuẩn gram dương thường sống trong cổ họng của những người không bị viêm phổi. 
+
+Các nguyên nhân gây viêm phổi gram dương quan trọng khác là Staphylococcus aureus (J15.2) và Bacillus anthracis.
+
+
+=== Gram âm ===
+Vi khuẩn Gram âm được nhìn thấy ít thường xuyên: Haemophilus influenzae (J14), Klebsiella pneumoniae (J15.0), Escherichia coli (J15.5), Pseudomonas aeruginosa (J15.1), Bordetella pertussis, và Moraxella catarrhalis là phổ biến nhất.
+Những vi khuẩn này thường sống trong ruột và xâm nhập vào phổi khi nội dung của ruột (như chất nôn hoặc phân) được hít vào.
+
+
+=== Không điển hình ===
+Vi khuẩn không điển hình gây viêm phổi là Coxiella burnetii, Chlamydophila pneumoniae (J16.0), Mycoplasma pneumoniae (J15.7) và Legionella pneumophila.
+Thuật ngữ "không điển hình" không liên quan đến mức độ phổ biến của các sinh vật này gây ra viêm phổi, mức độ đáp ứng với các kháng sinh thông thường hoặc các triệu chứng điển hình như thế nào; thay vào đó, nó đề cập đến thực tế là các sinh vật này có cấu trúc thành tế bào không điển hình hoặc không có và không nhuộm Gram theo cách tương tự như các sinh vật gram âm và gram dương.
+Viêm phổi do Yersinia pestis thường được gọi là bệnh dịch viêm phổi.
+
+
+== Dấu hiệu và triệu chứng ==
+Viêm phổi
+Sốt
+Ho
+Chảy nước mũi (viêm phổi do vi khuẩn trực tiếp hoặc kèm theo viêm phổi do virus nguyên phát)
+Khó thở
+Đau ngực
+Lạnh run 
+Viêm phổi do phế cầu khuẩn có thể gây ho ra máu hoặc ho ra máu, đặc trưng liên quan đến đờm "đặc" 
+
+
+== Sinh lý bệnh ==
+Vi khuẩn thường xâm nhập vào phổi khi hít vào, mặc dù chúng có thể đến phổi qua đường máu nếu các bộ phận khác của cơ thể bị nhiễm bệnh. Thông thường, vi khuẩn sống ở các bộ phận của đường hô hấp trên và liên tục được hít vào phế nang, các khoang sâu trong phổi nơi diễn ra trao đổi khí. Khi ở trong phế nang, vi khuẩn di chuyển vào khoảng trống giữa các tế bào và giữa các phế nang lân cận thông qua các lỗ chân lông kết nối. Cuộc xâm lược này kích hoạt hệ thống miễn dịch để đáp ứng bằng cách gửi các tế bào bạch cầu chịu trách nhiệm tấn công các vi sinh vật (bạch cầu trung tính) đến phổi. Các bạch cầu trung tính nhấn chìm và tiêu diệt các sinh vật vi phạm nhưng cũng giải phóng các cytokine dẫn đến việc kích hoạt chung hệ thống miễn dịch. Điều này dẫn đến sốt, ớn lạnh và mệt mỏi thường gặp trong viêm phổi do vi khuẩn và nấm. Các bạch cầu trung tính, vi khuẩn và chất lỏng rò rỉ từ các mạch máu xung quanh lấp đầy phế nang và dẫn đến việc vận chuyển oxy bị suy yếu.
+Vi khuẩn có thể đi từ phổi vào máu (nhiễm khuẩn huyết) và có thể dẫn đến bệnh nghiêm trọng như nhiễm trùng huyết và cuối cùng là sốc nhiễm trùng, trong đó có huyết áp thấp dẫn đến tổn thương ở nhiều bộ phận của cơ thể bao gồm não, thận và trái tim. Họ cũng có thể đi đến khu vực giữa phổi và thành ngực, được gọi là khoang màng phổi.
+
+
+== Phòng ngừa ==
+Phòng ngừa viêm phổi nhiễm trùng là do tiêm chủng chống lại Streptococcus pneumoniae (vaccine polysaccharide phế cầu khuẩn cho người lớn và vắc-xin phế cầu khuẩn liên hợp cho trẻ em), Haemophilus influenzae typ B, não mô cầu, Bordetella pertussis, Bacillus anthracis, và Yersinia pestis.
+
+
+== Tham khảo ==

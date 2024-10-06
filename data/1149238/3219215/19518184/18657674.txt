@@ -1,0 +1,770 @@
+Trong sinh lý học thần kinh, điện thế hoạt động (cũng được gọi là xung động thần kinh hay gai) được định nghĩa là sóng xung điện lan truyền dọc theo nhiều loại màng tế bào.:72 Hiện tượng này đã được nghiên cứu rất kỹ trên màng sợi trục thần kinh, đồng thời quan sát thấy ở các tế bào có tính hưng phấn, dễ bị kích thích chẳng hạn như các tế bào cơ tim, tế bào nội tiết hay thậm chí là cả những tế bào thực vật.:134:263:708 Màng sợi trục có giá trị điện thế nghỉ khoảng −70 milivôn (mV),:720 và hầu như hằng định theo thời gian. Tuy nhiên, cũng có một số loại tế bào nhất định vận hành một cách linh động, hiệu điện thế màng được tạo ra bởi sự phân bố khác biệt giữa các ion của chúng không thực sự "nghỉ" mà dao động theo thời gian.:1070 Giá trị âm của điện thế tĩnh đã nói lên rằng bên trong màng tế bào luôn có điện thế âm so với bên ngoài, và số lượng các điện tích âm trong màng cũng vượt trội hơn so với số lượng các điện tích dương bên ngoài màng tế bào.:57 Khi các kích thích đã đủ khả năng làm hưng phấn màng, theo đó khởi tạo điện thế hoạt động; quá trình này diễn ra không cố định tại một điểm mà sẽ lan truyền ra các cấu trúc nơron lân cận như hiệu ứng "domino". Thời gian điện thế động tiến hành cực nhanh ước tính khoảng 1 miligiây, tức gấp 100 lần thời gian một cái chớp mắt.:82 Sau khi chu kỳ của điện thế hoạt động hoàn thành, màng tế bào tái phân lập trạng thái phân cực cũ, lúc này tương ứng giá trị điện thế trở về mức −70 milivôn. Xung động thần kinh di chuyển dọc theo sợi trục với tốc độ khoảng 100 m/s (225 dặm mỗi giờ).:27 Khi những tế bào thần kinh được cho là có thể dài đến 1 mét hoặc hơn, chính tốc độ dẫn truyền nhanh này hỗ trợ cho những nơron thần kinh liên lạc thông tin với nhau một cách có hiệu quả. Điện thế hoạt động là cơ sở điện hóa cho các quá trình xử lý thông tin trong hệ thần kinh, bước đầu tiến tới hình thành nhận thức và tư duy.:55
+
+Tại vị trí màng tế bào, điện thế hoạt động sẽ được tạo ra khi các kích thích đủ mạnh để gây ra hiện tượng khử cực, tức là khi giá trị điện thế nghỉ đã đạt ngưỡng hưng phấn cần thiết là −55 mV.:55 Quá trình khử cực sẽ làm "mở khóa" các kênh nhạy cảm với điện thế (voltage-sensitive channels), điều này cho phép dòng ion mang điện tích dương di chuyển vào trong sợi trục (axon), như vậy sự khử cực xuyên màng sẽ càng được tăng cường hơn nữa. Thông qua đó sự phóng điện hình thành, khởi động vòng điều hòa ngược dương tính một cách đột ngột và nhanh chóng khiến cho điện tích bên trong màng càng trở nên dương hơn. Sau sự tăng nhanh về biên độ điện thế, nhiều sự kiện phối hợp nhau nhằm thiết lập mức điện thế trở về trạng thái nghỉ: trong đó có các kênh chịu trách nhiệm cho việc lưu thông các ion vào bên trong màng bị bất hoạt, trong khi các kênh nhạy cảm với điện thế khác hoạt động tích cực tống các ion ra ngoài màng phục vụ cho sự cân bằng điện tích lúc chưa bị khử cực. Điện thế hoạt động tuân theo cơ chế điều hòa ngược dương tính, cũng tức là nguyên lý tất cả hoặc không (all-or-none); quá trình điện thế hoạt động sẽ không chỉ giới hạn và một khi nó đã xảy ra sẽ làm cho tất cả các nơron liên đới với nó cùng chạy quá trình như vậy. Đối với nơron và tại bất kỳ điểm nào trên sợi trục, một điện thế hoạt động điển hình kéo dài khoảng vài phần nghìn giây.:26 Sự lan truyền của điện thế hoạt động qua các điểm sẽ làm cho các kênh ion đi vào trạng thái không cân bằng, các kênh sẽ khó bị mở ra hơn, và như vậy ức chế sự tạo thêm các điện thế hoạt động khác khi sợi trục vẫn còn trong giai đoạn trơ (refractory).Các ion chính yếu trong việc tạo ra điện thế hoạt động này là những cation Na+ và K+; Khi ion Na+ đi vào bên trong tế bào, và ion K+ đi ra, cứ như thế trong một chu kỳ của điện thế hoạt động cũng như đưa sự chênh lệch nồng độ của các ion về trạng thái cũ. Có tương đối ít ion vượt màng tế bào để cảm ứng mạnh điện thế hoạt động. Vì lẽ đó, tiến trình trao đổi những ion trong quá trình điện thế hoạt động không tạo ra những thay đổi đáng kể nào đối với nồng độ những ion nội bào và ngoại bào. Sự hiện diện của các bơm Na⁺/K⁺-ATPase (được hoạt hóa liên tục thực hiện việc duy trì điện thế nghỉ):397 và các kênh vận chuyển ion khác (ion transporters) đóng vai trò quan trọng giúp đẩy các ion ra ngoài màng và duy trì nồng độ ion trở lại bình thường. Các cation calci và anion chloride đặc biệt liên quan đến các dạng điện thế hoạt động khác, chẳng hạn như là điện thế hoạt động cơ tim và điện thế hoạt động quan sát ở tảo xanh đơn bào Acetabularia.
+
+Điện thế hoạt động lan truyền theo sợi trục mà không có bất kỳ sự suy giảm nào về biên độ, bởi vì tín hiệu thần kinh được tái tạo ngay tại mỗi điểm màng. Xung động thần kinh xảy ra tại một điểm sẽ làm tăng vọt điện thế ở các điểm kế cận, tiếp tục quá trình khử cực và sản sinh một điện thế hoạt động mới ở đó. Trên thực tế, điện thế hoạt động không có lan truyền dọc theo sợi trục, mà đó chính là sự tái tạo lại điện thế hoạt động liên tục thành chuỗi đi từ điểm khởi sinh sang các điểm kế tiếp.:55–58 Đối với những nơron không có bao myelin, điện thế hoạt động lan truyền sang các vùng lân cận mà không bị trở ngại, tuy nhiên đối với các nơron có bao myelin, điện thế hoạt động thực hiện những "bước nhảy" qua các bao myelin này khi những bao này đóng vai trò như những chất cách điện, chính vì vậy làm cho quá trình dẫn truyền xung động thần kinh nhanh hơn và hiệu quả hơn. Cấu trúc sợi trục thần kinh thường có sự phân nhánh, và điện thế hoạt động thường lan truyền theo các nhánh đến tận các cúc tận cùng, tại đó xung động thần kinh không còn nữa, mà thay vào đó sự phóng thích các chất dẫn truyền thần kinh diễn ra ngay tại các khớp synap. Những hóa chất dẫn truyền nội sinh này gắn kết với các thụ thể ở màng tế bào sau synap. Các thụ thể này chính là thụ thể kênh ion phối tử (LGIC) hay còn gọi là thụ thể của các chất dẫn truyền thần kinh, không như các kênh ion nằm trên màng sợi trục; về tổng thể các kênh LGIC sẽ mở ra sau khi chất dẫn truyền đã gắn vào nó, trong khi những thay đổi điện thế không tác động đáng kể lắm đến những kênh này. Các kênh liên kết thụ thể trải qua sự hoạt hóa và kích hoạt khử cực màng sau synap (trong trường hợp các kênh kích thích), hay chống lại khử cực (được biết với hiện tượng siêu phân cực, đối với các kênh ức chế). Nếu như quá trình khử cực đủ mạnh, điều này khiến cho chu kỳ điện thế hoạt động lại tiếp tục diễn ra ở màng sau synap.
+
+
+== Hệ điện ly và cơ chế lý sinh của điện thế hoạt động ==
+
+
+=== Ion và các lực thúc đẩy sự chuyển động ===
+
+Khái niệm điện sinh vật đã bao hàm cả điện thế tĩnh và điện thế hoạt động.:129–135 Cơ chế sinh học lý giải cho hiện tượng điện "sống" đã được khám phá và làm sáng tỏ, trong đó các ion là nguyên nhân chính trong việc tạo ra vô số dòng điện mang tín hiệu truyền tải thông tin qua lại giữa các cấu trúc.:9 Sự tương tác qua lại của các cation mang điện tích dương và các anion mang điện tích âm đã quyết định nên tính chất của dòng điện. Các cation quan trọng nhất nắm giữ vai trò then chốt cho sự tồn tại của điện thế hoạt động, bao gồm có natri (Na+) và kali (K+),:140–141 cả hai đều là các cation đơn hóa trị mang một điện tích dương. Điện thế hoạt động cũng đồng thời liên quan đến ion calci (Ca2+),:153–154 là cation hóa trị 2 và tương ứng mang hai điện tích dương. Đáng chú ý, anion chloride (Cl−) đóng vai trò chủ yếu tạo ra điện thế hoạt động đối với một số loại tảo, nhưng nhìn chung không có gây ra sự thay đổi đáng kể nào lên trên dạng điện thế hoạt động ở hầu hết các loài động vật.:483
+
+Dòng ion chuyển động xuyên màng tế bào chịu tác động bởi hai lực: đó chính là lực khuếch tán do gradient nồng độ chi phối và lực điện trường.:10–13 Quá trình khuếch tán cho phép các ion lưu thông theo hai chiều đi từ nơi có nồng độ cao đến nơi có nồng độ thấp. Lực điện trường cũng có sự chi phối đến các ion khi có sự phân cực màng, tức là các ion dương có xu hướng rời môi trường cũ để đến phía âm, ngược lại ion âm dịch chuyển về môi trường dương hơn. Theo định nghĩa, người ta xem tổng lực điện trường tại một điểm màng tế bào tương đương với giá trị điện thế Vm tại điểm đó. Như thế đối với các vùng có đường kính 1 µm và chứa duy chỉ một vài kênh ion (trong sinh lý học thần kinh, người ta dùng thuật ngữ "patch" để mô tả những vùng như vậy),:279 dòng chảy của các hạt mang điện qua vùng này sẽ tạo ra dòng điện cho vùng đó; và tổng dòng điện được tính là tổng dòng chảy của từng ion riêng biệt. Khi sử dụng những định nghĩa liên quan đến điện thế và dòng ion, ta có thể mô hình hóa cấu trúc màng tế bào và dịch sinh vật như là mạch điện tương đương. Cụ thể hơn, vùng "patch" có điện dung C và điện dẫn g (tính thấm chọn lọc màng); theo như định luật Ohm, cường độ dòng điện I của mỗi loại ion có liên quan đến điện thế xuyên màng qua phương trình I = g Vm. Tập hợp các ion với hệ số thấm nhất định, sự chuyển dời của các hạt điện tích dừng lại cũng là lúc mà điện thế đạt trạng thái cân bằng E; chính dòng chảy tự nhiên của các ion sẽ làm cho giá trị điện thế màng Vm tiến gần đến giá trị cân bằng E.:279 Điều này diễn ra tuân theo những điều kiện nhất định, đó chính là khi màng đạt trạng thái cân bằng nhiệt động lực học, và chỉ thấm đối với một loại ion riêng biệt.:41
+
+
+=== Màng tế bào ===
+
+Màng tế bào đóng vai trò như là tụ điện, và kiến trúc của nó sẽ quyết định sự biến đổi cực nhanh của điện thế màng đáp ứng với những thay đổi trong sự phân bố các ion ở hai bên màng. Lớp màng bao quanh tế bào gần như không thấm đối với tất cả mọi loại ion, vì vậy tế bào phải có cơ chế tiến hóa để vận chuyển ion xuyên màng. Hệ tiến hóa này bao gồm hai cơ chế: cơ chế vận chuyển thụ động với sự hiện diện của các lỗ thủng (tức các kênh), thứ hai là cơ chế vận chuyển chủ động với các bơm ion sử dụng nguồn năng lượng adenosine triphosphate (ATP) để hoạt động, cơ chế thứ hai này không tuân theo định luật khuếch tán Fick thứ nhất và nguyên lý thứ hai của nhiệt động lực học.:9–10:528 Các bơm ion được vận hành một cách liên tục không gián đoạn miễn là các ion vẫn còn (và cả ATP). Ngược lại, những kênh ion mở hay đóng tùy thuộc vào tín hiệu đến từ môi trường ngoài. Hai cơ chế này có vai trò hỗ trợ lẫn nhau; các bơm ion thực hiện việc tạo ra sự chênh lệch về nồng độ ion xuyên màng, trong khi các kênh ion mang nhiệm vụ dẫn truyền tín hiệu điện. Có thể ví dụ rằng, các bơm ion đóng vai trò như bộ ắc quy thông qua đó cho phép mạch điện vô tuyến (là các kênh ion) truyền đi các tín hiệu.:42
+
+
+=== Các kênh ion ===
+
+Các kênh ion có bản chất là các protein xuyên màng (integral membrane proteins) mà qua đó ion mới có thể đi qua màng được. Hầu hết các kênh chỉ đặc hiệu cho mỗi loại ion nhất định; trong khi đó trường hợp một kênh ion cho qua nhiều loại ion rất hiếm. Chẳng hạn như, dù rằng ion kali và natri có cùng điện tích và chỉ hơi sai khác về bán kính, các kênh kali cho phép ion K+ đi qua rất dễ dàng, ngược lại số lượng ion Na+ vượt qua rất ít ỏi. Tại vị trí những lỗ thủng nơi mà các ion băng qua, nơi đó quá nhỏ khiến cho các ion phải đi một mình và theo hàng một. Các kênh hoặc ở trạng thái mở hoàn toàn, hoặc là ở trạng thái đóng hoàn toàn. Khi kênh đã mở ra, dòng ion tuân theo cơ chế thụ động, tức là, với tốc độ vận chuyển được xác định bởi điện thế màng Vm và sự chênh lệch nồng độ giữa hai phía màng.:33–37 Dấu hiệu cho thấy một điện thế hoạt động đã hình thành chính là nhiều kênh ion khác nhau được mở và đóng tại các thời điểm khác nhau.:132
+
+Một kênh có thể có nhiều trạng thái khác nhau (tương ứng với sự khác nhau về cấu hình không gian protein), nhưng mỗi trạng thái như vậy có thể mở hoặc đóng. Nhìn chung, trạng thái đóng là trạng thái trong đó các lỗ có hiện tượng co lại—làm cho các ion không thể vượt qua được—hoặc là những phần độc lập cấu thành protein sẽ thắt lỗ lại. Chẳng hạn, kênh natri phụ thuộc điện thế khi trải qua sự bất hoạt, một phần cấu trúc nhỏ trong phân tử protein dao động và tiến hành "phong ấn" lỗ thủng thông thương dòng chảy ion đi vào và đi ra đó. Sự bất hoạt này sẽ ngừng lại dòng chảy của ion natri và đồng thời đóng vai trò then chốt trong quá trình điện thế hoạt động.
+Các kênh ion có thể được phân loại theo cách chúng đáp ứng với môi trường. Ví dụ cụ thể, các kênh ion có liên quan đến điện thế hoạt động là các kênh nhạy cảm với điện thế; và kênh sẽ mở và đóng phù hợp với sự thay đổi về điện thế xuyên màng. Các kênh ion phối tử cũng là kênh quan trọng; những kênh ion này sẽ mở ra và đóng lại phụ thuộc vào sự hiện diện của phối tử, chẳng hạn như các chất dẫn truyền thần kinh. Trong khi đối với những kênh ion khác—vị trí tại những nơron cảm giác—thì việc mở và đóng phụ thuộc vào nhiều kích thích khác, như ánh sáng, nhiệt độ hay áp suất.
+
+
+=== Bơm ion ===
+
+Dòng chảy của các ion tức các hạt mang điện sẽ xác định nên sự khác biệt về nồng độ các ion ở hai bên màng, cũng như quyết định sự diễn ra của chu kỳ điện thế hoạt động. Chính các kênh vận chuyển ion thiết lập sự khác biệt này, chúng là những protein xuyên màng và thực hiện cơ chế vận chuyển chủ động, sử dụng nguồn năng lượng tế bào (ATP) để bơm ion chống lại gradient nồng độ. Như thế những bơm ion sẽ lấy đi các ion từ phía màng bất kỳ (làm giảm nồng độ các ion ở đó) và giải phóng cho phía còn lại (làm tăng nồng độ các ion ở đó). Loại bơm ion mà vai trò của nó hết sức mật thiết với điện thế hoạt động đó chính là bơm Na⁺/K⁺-ATPase (còn gọi là bơm Na–K), vận chuyển ba ion Na+ ra ngoài màng và đưa hai ion K+ vào trong. Do đó, nồng độ ion K+ bên trong tế bào nơron cao gấp 20 lần so với bên ngoài, trong khi đó nồng độ ion Na+ bên ngoài màng lại cao gấp 9 lần so với bên trong. Tương tự, các ion khác cũng có sự khác nhau về nồng độ phân bổ phía trong và ngoài màng, chẳng hạn như calci, chloride và magnesi.
+
+Các bơm ion ảnh hưởng đến quá trình điện thế hoạt động chỉ khi chúng tổ chức lại tỷ lệ ion tương đối giữa trong và ngoài màng tế bào. Điện thế hoạt động chủ yếu xảy ra phụ thuộc vào sự mở và đóng của các kênh ion, không phải hoạt động của các bơm ion. Nếu như các bơm ion không vận hành được do sự thiếu hụt nguồn năng lượng cung cấp, hoặc là đưa vào chất ức chế ouabain, màng sợi trục vẫn có thể "bắn" từ 100,000 đến 1,000,000 điện thế hoạt động trước khi biên độ bắt đầu có sự suy giảm đáng kể. Hơn nữa, các bơm ion không đóng vai trò quan trọng nào trong giai đoạn tăng tái phân cực màng (repolarization) sau khi diễn ra điện thế hoạt động.:140–141:33–35
+
+
+=== Điện thế nghỉ ===
+
+Mỗi loại ion đều có một giá trị điện thế nghịch đảo E—cũng được gọi là điện thế cân bằng—khi mà chuyển động vào và ra khỏi màng đã hoàn toàn dừng lại; lực điện trường do các ion tạo ra sẽ chống lại lực thúc đẩy bởi sự chênh lệch nồng độ xuyên màng (tức gradient nồng độ). Qua phương trình Nernst ta có thể tính được giá trị điện thế cân bằng::41:133–134:478–480, 596–597:33–35
+
+  
+    
+      
+        E
+        =
+        
+          
+            
+              R
+              T
+            
+            
+              n
+              F
+            
+          
+        
+        ln
+        ⁡
+        
+          
+            
+              [
+              
+                o
+                u
+                t
+                s
+                i
+                d
+                e
+                 
+                i
+                o
+                n
+                 
+                c
+                o
+                n
+                c
+                e
+                n
+                t
+                r
+                a
+                t
+                i
+                o
+                n
+              
+              ]
+            
+            
+              [
+              
+                i
+                n
+                s
+                i
+                d
+                e
+                 
+                i
+                o
+                n
+                 
+                c
+                o
+                n
+                c
+                e
+                n
+                t
+                r
+                a
+                t
+                i
+                o
+                n
+              
+              ]
+            
+          
+        
+        .
+      
+    
+    {\displaystyle E={\frac {RT}{nF}}\ln {\frac {\left[\mathrm {outside\ ion\ concentration} \right]}{\left[\mathrm {inside\ ion\ concentration} \right]}}.}
+  
+
+Trong phương trình này, n là hóa trị của chính ion đó (chẳng hạn, đối với K+ là +1, Ca2+ là +2, Cl− là −1), T là nhiệt độ tuyệt đối K, R là hằng số khí lý tưởng, F là hằng số Faraday, cũng được xem là điện tích của 1 mol electron. Các số liệu tính ra được chỉ mang tính minh họa, phù hợp với mức sinh lý của cơ thể, giá trị điện thế cân bằng kali EK là −75 mV, trong khi giá trị điện thế cân bằng của natri ENa là +55mV. Vì sự khác biệt này, điện năng sẽ không được tạo thành khi tổng cường độ dòng chảy các ion natri và kali bằng không, điều này cũng có nghĩa rằng là màng tế bào phải có tính thấm riêng biệt đối với các ion để tạo ra được một hiệu điện thế xuyên màng.
+Tuy nhiên, giá trị điện thế màng Em được tạo ra khi sự chuyển động của tất cả các ion xuyên màng bằng không; các cơ chế chính xác của việc tạo ra điện thế tĩnh này đã được mô hình hóa qua phương trình Goldman dưới đây::43:138–140:480:35–37
+
+  
+    
+      
+        
+          E
+          
+            m
+          
+        
+        =
+        
+          
+            
+              R
+              T
+            
+            F
+          
+        
+        ln
+        ⁡
+        
+          
+            (
+            
+              
+                
+                  
+                    P
+                    
+                      
+                        K
+                      
+                    
+                  
+                  [
+                  
+                    
+                      K
+                    
+                    
+                      +
+                    
+                  
+                  
+                    ]
+                    
+                      
+                        o
+                        u
+                        t
+                      
+                    
+                  
+                  +
+                  
+                    P
+                    
+                      
+                        N
+                        a
+                      
+                    
+                  
+                  [
+                  
+                    
+                      N
+                      a
+                    
+                    
+                      +
+                    
+                  
+                  
+                    ]
+                    
+                      
+                        o
+                        u
+                        t
+                      
+                    
+                  
+                  +
+                  
+                    P
+                    
+                      
+                        
+                          C
+                          l
+                        
+                        
+                          −
+                        
+                      
+                    
+                  
+                  [
+                  
+                    
+                      C
+                      l
+                    
+                    
+                      −
+                    
+                  
+                  
+                    ]
+                    
+                      
+                        i
+                        n
+                      
+                    
+                  
+                
+                
+                  
+                    P
+                    
+                      
+                        K
+                      
+                    
+                  
+                  [
+                  
+                    
+                      K
+                    
+                    
+                      +
+                    
+                  
+                  
+                    ]
+                    
+                      
+                        i
+                        n
+                      
+                    
+                  
+                  +
+                  
+                    P
+                    
+                      
+                        N
+                        a
+                      
+                    
+                  
+                  [
+                  
+                    
+                      N
+                      a
+                    
+                    
+                      +
+                    
+                  
+                  
+                    ]
+                    
+                      
+                        i
+                        n
+                      
+                    
+                  
+                  +
+                  
+                    P
+                    
+                      
+                        C
+                        l
+                      
+                    
+                  
+                  [
+                  
+                    
+                      C
+                      l
+                    
+                    
+                      −
+                    
+                  
+                  
+                    ]
+                    
+                      
+                        o
+                        u
+                        t
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle E_{m}={\frac {RT}{F}}\ln {\left({\frac {P_{\mathrm {K} }[\mathrm {K} ^{+}]_{\mathrm {out} }+P_{\mathrm {Na} }[\mathrm {Na} ^{+}]_{\mathrm {out} }+P_{\mathrm {Cl} ^{-}}[\mathrm {Cl} ^{-}]_{\mathrm {in} }}{P_{\mathrm {K} }[\mathrm {K} ^{+}]_{\mathrm {in} }+P_{\mathrm {Na} }[\mathrm {Na} ^{+}]_{\mathrm {in} }+P_{\mathrm {Cl} }[\mathrm {Cl} ^{-}]_{\mathrm {out} }}}\right)}}
+  
+
+Trong đó ba ion đơn hóa trị kali (K+), natri (Na+), và chloride (Cl−) có vai trò cực kỳ quan trọng đối với điện thế hoạt động. Vì là anion, nên nồng độ chloride nội bào sẽ là tử thức, và nồng độ chloride ngoại bào sẽ là mẫu thức, ngược lại so với cation. Nếu ion calci cũng được xét đến, công thức tính ra giá trị điện thế cân bằng sẽ phức tạp hơn nhiều.
+
+Điện thế màng Vm  không cần thiết phải bằng giá trị cân bằng Em. Tuy nhiên, vì Vm có thể biến đổi nhanh chóng khi chỉ có vài ion vượt màng và làm thay đổi trật tự phân cực màng, giá trị Vm  có thể tiến gần sát giá trị Em. Trong quá trình điện thế hoạt động, sự thay đổi về biên độ điện thế màng Vm có thể xấp xỉ khoảng 100 mV, trong khi đó bên trong sợi trục nồng độ ion thay đổi chỉ cỡ 1 phần 10 triệu;:135–136 chính vì thế, khi vô số các điện thế hoạt động đã được phóng ra với số lượng từ 100,000 đến 1,000,000 xung, chu kỳ của các điện thế hoạt động này phải diễn ra cực nhanh trước khi các bơm ion được hoạt hóa nhằm đưa tỷ lệ về nồng độ ion phân bố ở hai bên màng trở lại mức tiêu chuẩn bình thường.
+Điện thế cân bằng Em dưới ngưỡng bình thường, với điều kiện không có các kích thích được gọi là điện thế nghỉ Vnghỉ, với giá trị điển hình khoảng −70 mV.:131 Tính thấm của màng đối với ion kali vượt trội hơn so với các ion khác; và điều này cũng nhất quán với phương trình Goldman, khi giá trị điện thế nghỉ gần bằng giá trị điện thế cân bằng kali EK.:134:478–480 Tuy nhiên, trong giai đoạn giữa của chu kỳ điện thế hoạt động, tính thấm của ion natri áp đảo hơn, khiến cho giá trị Em tăng lên đến +45 mV, tiến gần đến giá trị điện thế cân bằng của natri ENa.:135:480–481
+
+
+=== Giải phẫu học nơron thần kinh ===
+Nhiều tế bào khác nhau ngoài tế bào thần kinh cũng có thể thực hiện quá trình điện thế hoạt động, chẳng hạn như tế bào thực vật, tế bào cơ, và những tế bào chuyên biệt cấu tạo nên trái tim (tại đó diễn ra điện thế hoạt động cơ tim). Tuy nhiên, tế bào dễ bị kích thích chính và chủ yếu đó chính là nơron, được xem là tế bào có cơ chế tạo ra điện thế hoạt động đơn giản nhất.
+
+Hầu hết các nơron thần kinh đều có sự phân nhánh tỏa ra từ thân tế bào (neurites),:11 được chia làm hai loại đó là sợi nhánh (dendrites) và sợi trục (axon). Đa số các nơron chỉ có một sợi trục, nhưng có rất nhiều sợi nhánh;:14 tại vị trí bắt đầu của sợi trục có một mỏm lồi hình nón được gọi là tiểu đồi sợi trục (axon hillock).:19, 25:22 Tiểu đồi sợi trục là vùng khởi động (trigger zone) trong đó điện thế hoạt động luôn luôn xuất phát từ vùng này, và lan truyền dọc theo sợi trục; rất hiếm trường hợp điện thế hoạt động xảy ra tại sợi nhánh.:11 Một sợi trục điển hình chia tiếp thành nhiều nhánh nhỏ giống như cây phân nhánh; và kết thúc tận cùng tại những cúc tận cùng (synaptic knobs). Những cúc tận cùng này chính là nơi mà kết cấu synap hình thành với cấu trúc sợi nhánh từ các tế bào thần kinh kế cận khác (hay những tế bào có thể kích thích khác); thông qua đó cho phép quá trình truyền tin giữa các tế bào diễn ra dưới dạng các xung động thần kinh.:29–49
+Đối với một số loài động vật (và hầu hết các loài động vật có xương sống), trên sợi trục có những phân đoạn được bao bọc bởi loại vỏ gồm nhiều lớp lipid và protein gọi là bao myelin,:58–61 do các tế bào thần kinh đệm sinh ra, có chức năng làm tăng tốc độ dẫn truyền xung điện thần kinh dọc theo sợi trục.:157–164 Đối với hệ thần kinh ngoại biên, các tế bào Schwann đóng vai trò quan trọng trong việc tạo ra các bao myelin bằng cách quấn xoắn ốc nhiều lần quanh sợi trục, tạo lớp lipid dày ngăn chặn sự xâm nhập và thoát của các ion trong phạm vi sợi trục. Trong đó, nhiều lớp màng tế bào (khoảng 100 lớp) bọc quanh sợi trục hình thành nên bao myelin, và phần tế bào chất và nhân tế bào Schwann bị đẩy ra ở lớp ngoài cùng. Dòng chảy ion đi vào và đi ra sợi trục chỉ có thể diễn ra được tại khoảng trống giữa vỏ myelin được gọi là eo Ranvier.:58–61 Chính vì thế, điện thế hoạt động sẽ "nhảy vọt" từ eo Ranvier này đến eo Ranvier kế cận; đối với những sợi trục mà không có sự myelin hóa, điện thế hoạt động lan truyền theo sợi trục một cách liên tục mà không có sự gián đoạn nào.:25–31
+
+
+== Các giai đoạn biến đổi của điện thế hoạt động ==
+
+Quá trình điện thế hoạt động được xác định bởi hai hệ quả phối hợp nhau.:127–128 Thứ nhất, các kênh ion nhạy cảm với điện thế sẽ mở và đóng tùy thuộc vào những thay đổi về điện thế màng Vm, như thế làm thay đổi tính thấm màng đối với các ion.:65 Tuy nhiên, theo phương trình Goldman, sự biến đổi về tính thấm các ion cũng sẽ gây ra tác động ngược lại với điện thế cân bằng Em, cũng như đối với điện thế màng Vm. Sự tương tác hai chiều này giữa Vm và những kênh ion sẽ xây dựng vòng điều hòa ngược dương tính, điều này vô cùng quan trọng trong giai đoạn tăng khử cực (rising phase) của điện thế hoạt động.:49–55:141, 150–151:483:89:127 Điều này thực sự không diễn ra một cách thuận lợi, bởi vì kênh ion có thể có "cánh cổng" bên trong chống lại những biến đổi mà điện thế màng Vm gây ra, hoặc là cản trở tốc độ lưu hành của dòng ion vào nội bào.:69:149–150:84–85:152–158 Chẳng hạn, dẫu rằng giá trị Vm tăng lên sẽ khiến cho các cổng của kênh natri nhạy cảm điện thế mở ra, nhưng nó cũng đồng thời làm cho "cánh cổng bất hoạt" của kênh đóng lại một cách rất chậm.:147–148:128 Như vậy, khi điện thế màng Vm tăng đột biến và những cánh cổng hoạt hóa kênh natri bắt đầu mở ra (activation gate), nhưng sau đó dòng chảy ion Na+ cũng bị chặn lại là kết quả của sự đóng lại chậm các cánh cổng bất hoạt (inactivation gate).
+
+Một chu kỳ của điện thế hoạt động có thể được chia ra thành bốn giai đoạn: giai đoạn tăng khử cực (rising phase), giai đoạn tăng tái phân cực hay giai đoạn giảm khử cực (falling phase), giai đoạn cực hóa (hay siêu phân cực, undershoot phase), và giai đoạn trơ (refractory period). Tính thấm màng tế bào đối với ion kali lớn hơn nhiều so với các ion khác, khiến cho giá trị điện thế nghỉ tiến dần đến giá trị EK.:45:134:478–480 Hiện tượng khử cực đủ mạnh (làm tăng giá trị Vm) sẽ đẩy các cánh cổng của kênh natri nhạy cảm với điện thế; tăng cường tính thấm ion natri đưa giá trị Vm tiến tới giá trị điện thế cân bằng của natri ENa là +55mV. Biên độ điện thế càng tăng cao càng thúc đẩy nhiều kênh natri mở ra hơn, điều này tương đương giá trị Vm sẽ càng tiến đến giá trị ENa. Cơ chế điều hòa ngược dương tính này sẽ tiếp tục vận hành cho đến khi các kênh natri hoàn toàn mở ra và giá trị điện thế nghỉ Vm cũng tiến gần đến giá trị cân bằng ENa.:46:140–141, 150–151:480–481, 483–484:89–90 Đây là giai đoạn tăng khử cực.:46 Đến điểm giới hạn nhất định, các kênh natri bắt đầu bất hoạt dần, tương ứng tính thấm của màng đối với ion natri giảm xuống, và đưa giá trị Vm  trở về mức giá trị điện thế nghỉ ban đầu.:49:147–148:128 Trong khi đó, các kênh kali sẽ mở ra toàn bộ, như thế làm cho giá trị điện thế màng tiến về giá trị điện thế cân bằng kali EK.:55:147–149:126–127:483–484 Đây chính là giai đoạn tăng tái phân cực.:47 Trong khoảng thời gian mà tính thấm của ion kali vẫn còn cao bất thường, điều này sẽ cực hóa điện thế màng, với giá trị vượt xa hơn giá trị điện thế nghỉ bình thường; và đây là giai đoạn siêu phân cực.:55 Những sự kiện cuối cùng của chu kỳ điện thế hoạt động gồm có, đó là khoảng thời gian mà điện thế hoạt động kế tiếp không được tạo ra hay khó có thể tạo ra, được gọi là giai đoạn trơ, và giai đoạn này có thể xảy ra trùng với những giai đoạn khác.:55
+Vào năm 1952, giá trị điện thế và cường độ dòng ion của điện thế hoạt động đã được mô hình hóa một cách chính xác bởi Alan Lloyd Hodgkin và Andrew Huxley trong tất cả các giai đoạn. Năm 1963, họ nhận được Giải Nobel Sinh lý học và Y học nhờ vào những cống hiến của họ. Tuy nhiên, mô hình mà họ đưa ra chỉ xoay quanh hai loại kênh ion nhạy cảm với điện thế, và có nhiều giả định trong đó, cụ thể hơn là các cánh cổng bên trong sẽ mở và đóng một cách độc lập. Trên thực tế, có nhiều loại kênh ion khác nhau, và chúng không chỉ luôn luôn giữ trạng thái ổn định (hoặc mở, hoặc đóng).
+
+
+=== Các kích thích ngoại vi và giai đoạn tăng khử cực ===
+
+Điện thế hoạt động cơ bản bắt đầu diễn ra tại cấu trúc tiểu đồi sợi trục (axon hillock) khi kích thích làm tăng Vm đã đủ mạnh để gây ra khử cực.:49 Trên mẫu mô sinh thiết, là những axon khổng lồ của các loài mực ống Châu Âu, nhà nghiên cứu sinh lý học thần kinh thường kích thích hiện tượng khử cực bằng cách tiêm dung dịch có chứa cation natri vào bên trong tế bào thần kinh; trong cơ thể sinh vật cũng có nhiều nguồn cation natri phong phú trong dịch ngoại bào ở tại những synap hóa học, nơron cảm giác, hay tại tế bào tạo nhịp cơ tim hình thành nên một dạng điện thế hoạt động trong đó ion Ca2+ đóng vai trò chủ đạo được gọi là điện thế tạo nhịp (pacemaker potentials).
+Quá trình khử cực sẽ mở các kênh natri và kali tại màng tế bào, và cho phép dòng ion chảy vào và ra khỏi sợi trục. Nếu như khử cực có diễn ra nhưng nhỏ (làm tăng Vm từ −70 mV đến −60 mV), lúc này dòng ion kali đi ra ngoài màng sẽ lấn át dòng ion natri đi vào trong, như vậy màng sẽ tái phân cực lại đưa về giá trị điện thế nghỉ −70 mV.:150–151:484:89–90 Ở bức hình 2 minh họa, ta có thể thấy được rằng các kích thích dưới ngưỡng (failed initiations) không đủ để khởi động nên chu kỳ điện thế hoạt động. Tuy nhiên là, trong trường hợp sự khử cực đã đủ lớn và chạm đến ngưỡng, dòng ion natri đi vào bên trong vượt trội hơn so với dòng ion kali đi ra bên ngoài, cơ chế điều hòa ngược dương tính xảy ra cực nhanh ngoài phạm vi kiểm soát được: đó là càng có nhiều dòng Na+ đi vào bên trong tế bào, giá trị điện thế màng Vm càng tăng cao, điều này khiến cho cường độ dòng Na+ càng được tăng cường.:57:141, 150–151:483:89:127 Sự tăng mạnh và đột ngột về biên độ Vm và tính thấm natri tương ứng với giai đoạn tăng khử cực của chu kỳ điện thế hoạt động.:46
+Ngưỡng điện thế cần thiết để gây nên trạng thái chuyển động "out of control" trên hệ sinh vật vi mô là khoảng −45 mV, nhưng việc này phụ thuộc vào hoạt động thần kinh của sợi trục trong thời gian gần. Một khi màng đã vừa mới phóng một xung động thần kinh, nó sẽ không thể phóng thêm một xung động khác ngay lập tức, lý giải cho điều này, đó là vì những kênh ion chưa thể trở về trạng thái bình thường. Khoảng thời gian trong đó không có bất kỳ một điện thế hoạt động mới nào được tạo ra, được gọi là giai đoạn trơ tuyệt đối (absolute refractory period).:105 Khi thời gian "nghỉ" đã được kéo dài, nhưng tất cả các kênh ion vẫn còn chưa hồi phục hết, màng sợi trục có thể tiếp nhận kích thích và theo đó sản sinh một điện thế hoạt động khác, nhưng đó là đối với kích thích khử cực mạnh hơn nhiều (ví dụ đến ngưỡng là −30 mV, chứ không còn là −45 mV). Thời gian mà những nơron khó có thể bắn ra điện thế hoạt động được gọi là giai đoạn trơ tương đối (relative refractory period).:105
+
+
+=== Đỉnh điểm của điện thế hoạt động và giai đoạn tăng tái phân cực ===
+
+Vòng điều hòa ngược dương tính của giai đoạn khử cực sẽ sớm bị phân rã, tạm ngừng lại khi những kênh ion natri đã mở ra tối đa. Khi biên độ của điện thế hoạt động đạt đến giá trị cao nhất, cùng lúc tính thấm natri đã tối đa hóa và giá trị điện thế màng Vm gần bằng với giá trị điện thế cân bằng natri ENa. Tuy nhiên là, mức điện thế năng lượng tăng cao cũng khiến cho các kênh natri dần dần đóng lại một cách chậm rãi, thông qua việc chặn lại các lỗ; kênh natri trở nên bất hoạt.:60:69:147–148:128 Điều này sẽ làm cho tính thấm màng đối với natri giảm xuống, "đạp" giá trị điện thế màng xuống. Cùng lúc đó (khi giá trị điện thế vẫn còn ở mức cao), các kênh kali nhạy cảm với điện thế mở cửa; tính thấm của màng đối với ion kali tăng lên, khi này giá trị điện thế màng Vm sẽ tiến về giá trị cân bằng EK. Những biến đổi phối hợp này về tính thấm natri và kali gây ra sự suy giảm nhanh chóng của điện thế màng Vm, tái phân cực màng và biểu hiện ra "giai đoạn đổ nát" của điện thế hoạt động.:47:147–149, 152:483–484:126–127
+
+
+=== Giai đoạn siêu phân cực ===
+Điện thế tăng cao làm mở rất nhiều kênh kali hơn bình thường (mức điện thế nghỉ), và những kênh này vẫn không đóng lại ngay cả khi trạng thái tĩnh của điện thế màng đã được thiết lập. Tính thấm ion kali tăng cao thất thường và không ổn định, khiến cho giá trị điện thế màng Vm tiến tới rất sát với giá trị điện thế cân bằng kali EK. Vì thế đây là giai đoạn cực hóa (âm), hay siêu phân cực theo ngôn ngữ chuyên môn, duy trì cho đến khi tính thấm màng đối với ion kali trở về giá trị bình thường.:47:152
+
+
+=== Giai đoạn trơ ===
+Trong chu kỳ điện thế hoạt động, sự mở và đóng của các kênh natri và kali có thể làm chúng rơi vào trạng thái "trơ", có nghĩa rằng là chúng sẽ không thể mở ra được nữa cho đến khi hồi phục.:55:151:4–5:19–20 Trong giai đoạn trơ tuyệt đối, có rất nhiều kênh ion bị trơ khi đó không có điện thế hoạt động mới nào được phóng ra. Tiến trình khôi phục các chức năng của vô số kênh gắn trên màng (khử bất hoạt) diễn ra đáng kể khi màng sợi trục vẫn còn giữ trạng thái cực hóa trong khoảng thời gian nhất định. Trong giai đoạn trơ tương đối, các kênh hồi phục với mức độ đủ để có thể hình thành điện thế hoạt động, nhưng với điều kiện kích thích đó mạnh hơn so với các kích thích trước. Hiện tượng trơ của các tế bào thần kinh đảm bảo rằng là điện thế hoạt động chỉ lan truyền một hướng dọc theo sợi trục.:57
+
+
+== Sự kiện khởi đầu, lan truyền và hoàn thành chu kỳ điện thế hoạt động ==
+
+Vùng tiểu đồi sợi trục đóng vai trò quan trọng trong sự phát sinh các điện thế hoạt động khi có sự khử cực màng và điện thế đã tăng lên đủ đạt ngưỡng. Khi điện thế màng tăng lên, cả hai kênh ion natri và kali đều bắt đầu mở ra, làm tăng lưu lượng dòng chảy natri và cân bằng dòng chảy kali. Đối với bất kỳ sự tăng biên độ điện thế nhỏ nào, dòng chảy kali sẽ thắng dòng chảy natri và giá trị điện thế trở về mức nghỉ là −70 mV.:150–151:89–90:484 Tuy nhiên, nếu như điện thế tăng quá ngưỡng tới hạn (critical threshold), điển hình là cao hơn giá trị nghỉ 15 mV, dòng chảy natri lúc này chiếm ưu thế và chu kỳ điều hòa ngược dương tính (runaway condition) diễn ra; lúc này tế bào thần kinh phóng ra xung động thần kinh.:57:141, 150–151:483:89:127 Khi quá trình điện thế hoạt động này đã diễn ra truyền dọc theo sợi trục liên tục không gián đoạn;:484 khi một phạm vi màng (patch) đã bị khử cực với sự xuất hiện của điện thế hoạt động, những vùng kế cận cũng bị khử cực và đánh bật ra những điện thế hoạt động mới ở đó. Thực tế, điện thế hoạt động được tân tạo trong mỗi phân vùng màng; và năng lượng xung điện tỏa ra bắt nguồn từ sự sai biệt cục bộ về nồng độ ion xuyên màng, chứ không phải là quá trình khử cực gây ra. Sợi trục chính có thể phân nhánh bên (axon collateral), không thể nhầm lẫn với cấu trúc telodendron, tức là các tận cùng sợi trục. Các nhánh bên chính có thể phân tiếp cho ra các nhánh bên phụ, rất hiếm các trường hợp điện thế hoạt động lan truyền dừng lại tại các điểm phân nhánh (branch point), thay vào đó gắn liền với sự suy giảm về biên độ do màng sợi trục rơi vào giai đoạn trơ. Đối với những xung động thần kinh phức tạp ("spikelet", tức các xung con), sự lan truyền của điện thế động có thể dừng lại tại các điểm như thế.:209 Điện thế hoạt động đi đến vị trí kết thúc sợi trục sẽ kích hoạt sự giải phóng của các hóa chất dẫn truyền thần kinh vào synap, kết hợp với các điện thế hoạt động khác từ những nơron khác nhằm thúc đẩy một điện thế hoạt động mới ngay tại màng sau synap của tế bào thần kinh hay tế bào cơ.:39, 535
+
+
+=== Sự kiện khởi đầu ===
+Trước khi đề cập đến quá trình lan nhanh và mạnh của điện thế hoạt động và kết thúc tại những cúc tận cùng, việc hiểu rõ các cách thức khởi tạo nên điện thế hoạt động tại tiểu đồi sợi trục là quan trọng, bởi vì chính những quá trình điện động cơ sở này là nền tảng cho các quá trình sinh hóa khác.:67, 135, 183, 519, 527, 561, 951,  Điều kiện thiết yếu đó là giá trị điện thế màng tại tiểu đồi sợi trục trên ngưỡng để có thể gây ra làn sóng hưng phấn; hiện tượng khử cực này có thể diễn ra được theo nhiều cơ chế khác nhau.:24
+
+
+==== Quá trình truyền động các hóa chất thần kinh ====
+
+Điện thế hoạt động khởi động được hầu hết là nhờ điện thế kích thích sau synap (excitatory postsynaptic potentials, EPSP) được phóng bởi các nơron trước synap.:1157–:177–240:490–499:47–68 Trong đó EPSP có được phụ thuộc vào sự phóng thích của những phân tử truyền đạt thần kinh bởi nơron trước synap, các phân tử này sẽ gắn vào các thụ thể tại màng sau synap. Sự gắn kết của các phân tử sẽ làm mở nhiều loại kênh ion khác nhau, kéo theo sự thay đổi tính thấm màng tế bào diễn ra cục bộ tại màng sau synap, gây ra biến đổi điện thế màng như đã nói ở trên. Nếu như quá trình liên kết tại các khớp thần kinh làm tăng điện thế (khử cực màng), đây là synap kích thích; và ngược lại nếu làm giảm điện thế (siêu phân cực màng), đây là synap ức chế.:107:361 Dẫu cho giá trị điện thế tăng hay giảm, những thay đổi về điện này sẽ lan truyền những vùng lân cận một cách thụ động, điều này đã được làm rõ và mô tả chính xác trong phương trình điện thần kinh (cable equation),:66 trong đó những dây thần kinh được ví như những dây cáp dẫn điện qua lại giữa vô số vùng khác nhau của cơ thể, và đặc tính của tế bào thần kinh, sợi trục, sợi nhánh, thân thần kinh sẽ tác động đến khả năng lan truyền và vận tốc của điện thế hoạt động. Cụ thể hơn, kích thích điện hay điện thế khởi sinh (do sự gắn vào của các phân tử dẫn truyền thần kinh) sẽ bị phân rã theo cấp số mũ theo không gian (khoảng cách synap) và thời gian.:68–71:11 Tập hợp một phần xung điện hưng phấn EPSP có thể lan đến tiểu đồi sợi trục và (trong trường hợp hiếm) khử cực màng đủ để khởi tạo điện thế hoạt động. Điện thế khởi sinh (graded potential) là nền tảng cho sự khai sinh của điện thế hoạt động, và chống lại nguyên tắc tất cả hoặc không, cường độ của nó phụ thuộc vào độ mạnh của kích thích.:31 Điện thế khởi sinh càng vượt ngưỡng bao nhiêu, tần số của  điện thế hoạt động càng mạnh bấy nhiêu.:32 Sự tham gia của nhiều xung kích thích đến từ các synap cần phải phối hợp đồng thời trong cùng một thời gian (cộng hưởng kích thích) để có thể phóng ra "gai" mới.:228 Tuy nhưng, những ảnh hưởng chung này có thể bị cản trở bởi tác động phản kháng của những điện thế ức chế sau synap (inhibitory postsynaptic potentials).:222
+Quá trình dẫn truyền tín hiệu thần kinh cũng có thể xảy ra đối với các synap điện với tốc độ nhanh hơn nhiều so với các synap hóa học, và hai chiều do sự kết nối trực tiếp giữa các tế bào kích thích.:33 Tuy rằng, có các kênh chỉnh lưu có chức năng đảm bảo rằng điện thế hoạt động chỉ truyền đi theo một chiều qua các synap như vậy.:180
+
+
+==== Điện thế hoạt động tại các nơron cảm giác ====
+
+Ở những nơron cảm giác, các kích thích ngoại vi chẳng hạn như là áp suất, nhiệt độ, ánh sáng, hay âm thanh đều gắn liền với sự đóng và mở các cổng kênh ion, và như vậy làm thay đổi tính thấm màng đối với những ion đặc thù và cả giá trị điện thế.:49–56, 76–93, 247–255:535–580:69–79 Những chuyển đổi phát sinh dòng điện này có thể là kích thích (khử cực) hoặc ức chế (siêu phân cực) và, trong một số nơron cảm giác, tích hợp các kích thích và ức chế có thể cho ra quá trình khử cực tại tiểu đồi sợi trục và khởi động chu kỳ điện thế hoạt động. Lấy tế bào thần kinh khứu giác (ORN) và tiểu thể Meissner (Meissner's corpuscles) ở người làm ví dụ, chúng đặc biệt quan trọng đối với sự nhận cảm về mùi và cảm giác thân thể. Tuy rằng, không phải tất cả các nơron cảm giác đều chuyển đổi tín hiệu ngoài thành các điện thế hoạt động; bởi do một số loại nơron thậm chí không có cả sợi trục!:53, 122–124 Thay vào đó, chúng có thể tiếp nhận các tín hiệu kích thích và trực tiếp gây nên sự phóng thích của các hóa chất dẫn truyền,:245 hay hình thành ra điện thế khởi sinh (hay còn gọi là điện thế tầng, graded potentials),:237 và một trong hai đều có thể kích thích các tế bào thần kinh khác phóng ra điện thế hoạt động. Cụ thể hơn, trong tai người, có các tế bào có lông tác động đến sự mở và đóng của các kênh nhạy cảm với sự biến đổi về cơ học (mechanosensitive channels) dưới sự hiện diện của các sóng âm thanh thu được. Tiếp theo đó, là sự giải phóng các phân tử truyền đạt thần kinh.:245 Tương tự, đối với hệ võng mạc người, tế bào nhận cảm ánh sáng (tức tế bào nón và tế bào que, photoreceptor cell) là lớp ngoài cùng của võng mạc, cùng với hai lớp trong (các tế bào lưỡng cực và tế bào thần kinh trung gian amacrine) không sản sinh ra các điện thế hoạt động;:292–295 chỉ có lớp thứ ba, đó là các tế bào hạch tạo ra (ganglion cells) điện thế hoạt động và xung điện lan theo sợi thần kinh thị giác.
+
+
+==== Điện thế tạo nhịp ====
+
+Điện thế hoạt động diễn ra là kết quả của các kích thích ngoại vi, thông qua sự truyền đạt các phân tử thần kinh và các nơron cảm giác. Tuy nhiên, một số tế bào có thể kích thích nhưng không cần kích thích để phóng điện: chúng khử cực vùng tiểu đồi sợi trục một cách tự phát và bắn điện thế hoạt động với một tốc độ đều đặn, giống như đồng hồ sinh học.:115–132 Dạng điện thế của những tế bào như thế được gọi là điện thế tạo nhịp.:152–153 Các tế bào tạo nhịp cơ tim thuộc khu vực nút xoang nhĩ (sinoatrial node) ở tim là ví dụ điển hình. Mặc dù rằng những điện thế tạo nhịp được tạo ra một cách tự nhiên, nhưng nó có thể bị điều chỉnh bởi các kích thích ngoài; chẳng hạn như, nhịp tim có thể bị thay đổi do các tác động dược lý và những tín hiệu đến từ sợi dây thần kinh giao cảm và phó giao cảm.:444–445 Các kích thích ngoài không ảnh hưởng đến sự đồng bộ của các xung, nhưng đơn thuần là thay đổi thời gian.:152–153 Trong một số trường hợp, sự điều hòa về tần số xung có thể rất phức tạp, dẫn đến các loại điện thế hoạt động khác nhau, chẳng hạn như sự đốt cháy của tế bào thần kinh và hiện tượng bùng nổ điện thế hoạt động (burst firing).
+
+
+=== Lan truyền ===
+
+Điện thế hoạt động sẽ truyền dọc theo sợi trục tương tự như sự di chuyển của sóng. Dòng ion đi vào bên trong màng tại một điểm trên sợi trục trong điện thế hoạt động có khuynh hướng lan ra và khử cực những phân màng kế cận. Nếu như khử cực mức độ đủ mạnh sẽ gây ra quá trình điện thế hoạt động ở những khu vực "láng giềng" đó. Cơ chế nền tảng này đã được Alan Lloyd Hodgkin chứng minh vào năm 1937. Bằng thực nghiệm cố gắng phá vỡ chu kỳ điện thế hoạt động sau khi dùng khối ebonite có bọc lớp cao su mỏng để tạo áp lực hay làm lạnh tế bào thần kinh, ông đã chứng minh rằng điện thế hoạt động đến vùng cản điện (phạm vi nhỏ) sẽ dừng lại, nhưng các vùng sau đó nữa có sự tăng tính hưng phấn đi kèm với sự giảm ngưỡng kích thích đến 90%, như thế có thể phóng tiếp điện thế hoạt động mới ở đó.
+Một khi điện thế hoạt động đã diễn ra tại điểm màng trong đó rất ít sự hiện diện của các kênh ion, thì màng cần có khoảng thời gian hồi phục nhất định trước khi một điện thế hoạt động mới được tạo ra. Trong mức độ phân tử, giai đoạn trơ tuyệt đối này tương đương với khoảng thời gian cần thiết cho sự trở lại trạng thái cũ của những kênh ion xuyên màng. Dẫu cho điều này sẽ giới hạn lại tần số phóng (frequency of firing), chính giai đoạn trơ tuyệt đối bảo đảm cho điện thế hoạt động chỉ di chuyển một chiều theo sợi trục.:53 Trong trường hợp kích thích tại đoạn giữa sợi trục, dòng ion dương đi vào bên trong màng có thể "tịnh tiến" theo hai hướng. Tuy nhiên, chỉ phần màng không bị kích thích mới có thể đáp ứng bằng cách phóng điện thế hoạt động; và cũng không thể tái kích thích đối với phần màng vừa mới tạo xung điện cho đến khi "giới hạn trơ" không còn. Điện thế hoạt động lan truyền từ tiểu đồi sợi trục cho đến tận các cúc tận cùng, đây được gọi là lối dẫn truyền thuận chiều (orthodromic conduction). Sự dẫn truyền theo hướng ngược lại—được gọi là dẫn truyền ngược chiều—là rất hiếm. Mặc dù rằng là, nếu như thí nghiệm làm kích thích tại phần giữa sợi trục, và toàn bộ sợi trục còn "tươi", tức là chưa bị kích thích; thì kết quả là sẽ có hai điện thế hoạt động được tạo ra, lần lượt di chuyển đến tiểu đồi sợi trục và các cúc tận cùng.
+
+
+=== Bao myelin và dẫn truyền bước nhảy ===
+
+Có những tế bào thần kinh mà sợi trục của nó được bao bọc bởi myelin, với thành phần lipid là vật chất cách điện có chức năng tăng cường vận tốc điện thế hoạt động và khai thác năng lượng một cách hiệu quả. Những sợi trục được myelin hóa bởi các tế bào thần kinh đệm (nơ-rô-gli), như tế bào Schwann và các tế bào ít nhánh (oligodendrocytes). Khoảng trống giữa các bao myelin được gọi là eo Ranvier.
+Bao myelin có tác dụng ngăn chặn sự chuyển động vào và ra của những ion khỏi sợi trục. Quá trình myelin hóa được tìm thấy chủ yếu ở động vật có xương sống, nhưng có ngoại lệ đối với một số loài không có xương sống, chẳng hạn như loài tôm. Tuy nhiên, sự myelin hóa không phải diễn ra ở tất cả các nơron. Và cho dù phương thức dẫn truyền là bước nhảy hay thông thường, nhìn chung vận tốc trung bình của điện thế hoạt động nằm trong khoảng từ 1 m/s cho đến hơn 100 m/s, và tỷ lệ thuận với đường kính của sợi trục.
+Điện thế hoạt động không thể truyền theo những phần đã myelin hóa của sợi trục, vì rằng tại đó không có ion nào có thể di chuyển qua màng được. Thay vào đó, điện thế hoạt động thực hiện những "bước nhảy" (saltatory conduction) từ eo Ranvier này sang eo Ranvier khác, về khía cạnh tổ chức các phân tử trong những eo này, đặc biệt mật độ các kênh Na+ nhạy cảm với điện thế (voltage-gated Na+ channels) rất đậm đặc (tạo điều kiện thuận lợi cho sự dẫn truyền "nhảy cóc"). Cơ chế dẫn truyền bước nhảy đã được giả thuyết bởi Ralph Lillie vào năm 1925, tuy nhưng nhiều năm sau đó các bằng chứng thực nghiệm mới được đưa ra bởi Ichiji Tasaki và Taiji Takeuchi, Alan Hodgkin và Robert Stämpfli. Ngược lại, ở những sợi trục không có bao myelin, điện thế hoạt động sẽ được kích hoạt tại vị trí màng bất kỳ và truyền liên tục theo sợi trục giống như sóng cơ học.
+Sự hiện diện của cấu trúc vỏ myelin đã tạo ra hai thuận lợi quan trọng: đó là sự tăng vọt về tốc độ và hiệu quả năng lượng. Đối với sợi trục myelin hóa có đường kính lớn hơn 1 micrômét (đường kính sợi trục tối thiểu), sự tăng cường về vận tốc điện thế hoạt động sẽ gấp 10 lần. Ngược lại, các sợi có bao myelin nhỏ hơn các sợi không myelin khi chúng đều truyền tải tín hiệu điện với cùng một vận tốc như nhau. Chẳng hạn như là, điện thế hoạt động di chuyển với vận tốc là 25 m/s ở cả sợi trục ếch (có myelin) và sợi trục mực ống khổng lồ (không có myelin), nhưng sợi trục ếch có đường kính nhỏ hơn gấp 30 lần và diện tích mặt cắt ngang (cross-sectional area) nhỏ hơn gấp 100 lần. Hơn nữa, vì dòng chảy của các hạt mang điện chỉ giới hạn ở vùng eo Ranvier, hiện tượng "rò rỉ" ion xuyên màng rất ít xảy ra, điều này giúp giảm thiểu sự thất thoát của năng lượng chuyển hóa. Sự tiết kiệm này có ý nghĩa quan trọng về mặt chọn lọc tự nhiên, do hệ thần kinh người sử dụng xấp xỉ khoảng 20% năng lượng chuyển hóa của cơ thể.
+
+Chiều dài của những đoạn myelin hóa trong sợi trục đóng vai trò quan trọng, quyết định nên sự hiện hành của thuộc tính nhảy cóc đối với tế bào thần kinh. Để tối ưu hóa vận tốc của điện thế hoạt động, độ dài của các đoạn myelin nên đạt giá trị tối đa để tín hiệu điện truyền đi qua các eo Ranvier không bị suy giảm. Về bản chất, những phần myelin hóa nhìn chung được mở rộng ra tọa thành ít nhất hai eo (hay "nốt") đủ để dẫn truyền tín hiệu điện một cách thụ động, và biên độ được duy trì đủ để gây ra một điện thế hoạt động khác tại eo thứ hai hay thứ ba. Vì vậy, hệ số an toàn (safety factor) của cơ cấu dẫn truyền bước nhảy vẫn cao, cho phép sự lan truyền diễn ra bình thường qua những cầu nối như vậy trong trường hợp chấn thương thần kinh. Tuy nhiên, điện thế hoạt động có thể kết thúc sớm tại những vị trí có hệ số an toàn thấp, hay thậm chí ở những nơron không có bao myelin; ví dụ như tại điểm phân nhánh của sợi trục, nơi mà sợi trục phân chia làm hai.
+Một số bệnh làm thoái hóa bao myelin và đánh mất khả năng dẫn truyền bước nhảy, như thế vận tốc của điện thế hoạt động sẽ bị giảm xuống. Điển hình nhất là căn bệnh đa xơ cứng (hay còn gọi là xơ cứng rải rác, multiple sclerosis), trong đó lớp vỏ myelin bị phá hủy và kéo theo sự tổn hại về chức năng vận động phối hợp.
+
+
+=== Lý thuyết điện thần kinh ===
+
+Bằng việc đưa ra lý thuyết điện thần kinh (cable theory, hay còn gọi là lý thuyết dây "cáp" điện sinh vật), người ta đã có thể định lượng được dòng điện sống được tạo ra trong cấu trúc sợi trục và cả sự vận động (dynamics) của nó. Ngoài ra, các mô hình phức tạp hơn cũng ra đời, chẳng hạn như là mô hình từng phần (compartmental model). Lý thuyết cáp điện đã được phát triển từ năm 1855 bởi Lord Kelvin qua việc mô hình tuyến cáp điện tín xuyên Đại Tây Dương, vào năm 1946 Hodgkin và Rushton đã nghiên cứu ra được những điểm tương đồng của dây cáp với tế bào thần kinh. Trong lý thuyết điện thần kinh cơ bản, cấu trúc thần kinh được cho là có khả năng dẫn truyền điện năng một cách thụ động (tức là các Electrotonic potentials, hay còn gọi là điện thế khởi sinh, trong đó "thụ động" mang ý nghĩa sự thay đổi về điện thế không gây ra các biến đổi trên tính thấm màng), các sợi nhánh đã được cấu trúc hóa lại với hình dạng là dây cáp dẫn điện hình trụ tuyệt đối, tất cả đã được mô tả qua phương trình vi phân từng phần:
+
+  
+    
+      
+        
+          λ
+          
+            2
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              
+                V
+                
+                  m
+                
+              
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        τ
+        
+          
+            
+              ∂
+              
+                V
+                
+                  m
+                
+              
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        −
+        
+          V
+          
+            m
+          
+        
+        (
+        x
+        ,
+        t
+        )
+        =
+        0.
+        
+         
+      
+    
+    {\displaystyle \lambda ^{2}{\frac {\partial ^{2}V_{m}(x,t)}{\partial x^{2}}}-\tau {\frac {\partial V_{m}(x,t)}{\partial t}}-V_{m}(x,t)=0.\quad \ }
+  
+
+Trong đó V(x, t) là điện thế xuyên màng tại thời gian t và vị trí x dọc theo chiều dài tế bào thần kinh, và trong đó đại lượng λ và τ đặc trưng cho sự phân rã của điện thế khởi sinh theo không gian và thời gian (λ và τ cũng được coi là các hằng số sinh học phụ thuộc đặc tính của nơron). Theo như sơ đồ mạch điện, những đại lượng này có thể được xác định từ điện trở (resistances) và điện dung (capacitances) trên mỗi độ dài đơn vị.
+
+  
+    
+      
+        τ
+        =
+        
+          r
+          
+            m
+          
+        
+        
+          c
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \tau =r_{m}c_{m}}
+  
+
+  
+    
+      
+        λ
+        =
+        
+          
+            
+              
+                r
+                
+                  m
+                
+              
+              
+                
+                  r
+                  
+                    i
+                  
+                
+                +
+                
+                  r
+                  
+                    e
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lambda ={\sqrt {\frac {r_{m}}{r_{i}+r_{e}}}}}
+  
+
+Thước đo không gian và thời gian này được dùng để hiểu sự phụ thuộc của tốc độ xung thần kinh vào đường kính của nơron trên những sợi không myelin hóa. Chẳng hạn, chu kỳ τ sẽ tăng lên cùng với điện trở màng rm và điện dung màng cm. Khi điện dung tăng, để tạo ra được một dòng điện xuyên màng cần phải có nhiều hạt điện tích vận chuyển qua màng (theo như phương trình q=CV); khi điện trở tăng, có ít điện tích được vận chuyển trong mỗi đơn vị thời gian, làm cho quá trình cân bằng diễn ra chậm hơn. Tương tự, nếu như giá trị trở nội tại ri  (internal resistance) của sợi trục trên mỗi độ dài đơn vị được cho là giảm so với sợi trục khác (đồng nghĩa với việc bán kính của sợi trục đó lớn hơn), lúc này hằng số λ tăng lên; tức là tương đương với khả năng mà xung điện thế đi được sẽ càng xa tính từ điểm phát sinh và như thế vận tốc của xung động cũng tăng. Nếu như điện trở màng rm tăng, thì xác suất "rò rỉ" dòng hạt mang điện qua màng sẽ thấp đi, như vậy khiến cho λ sẽ càng lớn, tăng cường tốc độ xung thần kinh. Một cách ẩn dụ, dòng điện được phóng vào mỏm thần kinh tức sợi nhánh được ví như ném hòn đá tảng vào hồ nước, làn sóng nước càng ra xa sẽ càng nhỏ dần.
+Hằng số không gian λ đóng vai trò quan trọng giúp đo lường được giới hạn phân rã của xung điện động trong một phạm vi nhất định. Giả sử rằng một xung điện thế EPSP trong trạng thái ổn định đi được một khoảng cách λ trong hệ thống thần kinh thì tương ứng nó sẽ có sự suy giảm về biên độ khoảng 1/e hay 37% giá trị ban đầu, chỉ trong trường hợp dây thần kinh hình trụ dài vô tận (infinite) hay bán vô tận (semi-infinite). Không gian mà EPSP đi được và những điều kiện giới hạn, cũng như là sự hiện diện của các cấu tạo nhánh rất phức tạp, kích thước hạn hẹp của dây thần kinh, là những vấn đề quan trọng để tính ra được các tham số chính xác của hiện tượng tắt dần dao động điện trong trạng thái ổn định.
+Hằng số thời gian τ được định nghĩa là giá trị quy ước cho sự suy giảm về biên độ điện thế theo thời gian, τ là khoảng thời gian ước tính sự phân rã của xung điện động, trải qua τ giá trị điện thế suy giảm 1/e tức là 37% giá trị ban đầu và chỉ xét trong trường hợp đẳng điện và các tế bào đều phân cực đồng đều.
+
+
+== Điện thế hoạt động hoàn thành ==
+
+
+=== Synap hóa học ===
+
+Điện thế hoạt động khi lan truyền đến các cúc tận cùng sẽ gây ra sự giải phóng các chất dẫn truyền thần kinh vào khe synap. Những phân tử dẫn truyền thần kinh với kích thước nhỏ làm mở ra các kênh ion tại màng tế bào sau synap; hầu hết các cúc tận cùng của một nơron chỉ phóng thích cùng một loại hóa chất dẫn truyền đặc thù. Khi điện thế hoạt động đến màng tế bào trước synap, tại đó có các kênh calci nhạy cảm với điện thế (voltage-sensitive calcium channels) sẽ được kích hoạt; dòng chảy của ion calci đi vào bên trong tế bào khiến cho những bọc synap chứa chất dẫn truyền thần kinh di chuyển hướng về màng tế bào, kết quả là cơ chế xuất bào diễn ra với sự hòa nhập của bọc synap với màng sinh chất, đưa một loạt các lượng tử vào khe synap. Quá trình phức tạp này chịu tác động ức chế của các độc tố thần kinh (neurotoxins) tetanospasmin (độc chất uốn ván) và botulinum.
+
+
+=== Synap điện ===
+
+Một số synap không cần đến "phân tử môi giới" truyền đạt tín hiệu thần kinh, thay vào đó tế bào trước và sau synap kết nối với nhau qua những cầu nối bào tương. Khi điện thế hoạt động đi đến được synap, dòng ion đi vào trong tế bào trước synap có thể vượt màng ngăn của hai tế bào và di chuyển vào tế bào sau synap thông qua các lỗ thông tạo bởi 6 phân tử connexin. Chính vì thế, điện thế hoạt động có thể trực tiếp kích thích tế bào sau synap. Synap điện cho phép truyền tin nhanh hơn bởi vì nó không cần sự khuếch tán chậm của các hóa chất thần kinh vào trong khe synap. Nhờ những đặc tính của synap điện, cụ thể trong trường hợp đáp ứng nhanh và khi sự phối hợp về thời gian là quan trọng, chẳng hạn như là phản xạ thoát, cơ quan võng mạc của loài động vật có đốt sống, và tim.
+
+
+==== Khớp nối thần kinh cơ ====
+
+Khớp nối thần kinh cơ là dạng đặc biệt của synap hóa học, trong đó sợi trục của các nơron vận động cho ra các nhánh tận cùng tại sợi cơ. Trong trường hợp như vậy, chất dẫn truyền thần kinh ở đây chính là phân tử acetylcholine, một khi được giải phóng sẽ gắn vào thụ thể acetylcholine là các protein xuyên màng sinh chất (sarcolemma) của tế bào cơ.  Tuy nhiên, các phân tử acetylcholine sẽ không liên kết lâu, chúng sẽ sớm bị tách ra và nhanh chóng bị thủy phân bởi tập hợp những enzyme acetylcholinesterase có tại synap. Enzyme này làm giảm kích thích quá mức đến sợi cơ, khiến cho mức độ và thời gian co cơ được điều hòa một cách chính xác. Có một số loại chất độc gây bất hoạt enzyme acetylcholinesterase nhằm mục đích chặn lại cơ chế kiểm soát này, chẳng hạn là các chất độc thần kinh sarin và tabun, và thuốc trừ sâu như diazinon và malathion.
+
+
+== Sự phát triển của điện thế hoạt động theo từng thời kỳ ==
+
+Khả năng của nơron trong việc tạo ra và lan truyền các điện thế hoạt động được cho là thay đổi theo sự phát triển của hệ thống thần kinh cả trung ương lẫn ngoại vi. Khuynh hướng biến đổi điện thế màng nhiều hay ít là phụ thuộc vào tính trở kháng đầu vào của màng tế bào. Khi một tế bào sinh trưởng, có nhiều kênh được tổng hợp ngay trên màng, điều này khiến cho tính trở kháng đầu vào giảm xuống. Một nơron đã trưởng thành cũng phải trải qua những thay đổi ngắn về điện thế màng khi dòng điện được phóng tại các khớp synap. Các nơron vùng nhân gối ngoài (lateral geniculate nucleus) của loài chồn sương có giá trị hằng số thời gian dài và giá trị điện thế biến thiên giảm tại giai đoạn mới sinh ra (P0) hơn là tại thời điểm 30 ngày tuổi (P30). Hệ quả của sự suy giảm về thời gian điện thế hoạt động đó là các tín hiệu được bảo toàn và vẫn giữ độ chính xác khi đáp ứng với kích thích tần số cao. Những nơron chưa trưởng thành dễ xảy ra hiện tượng ức chế synap hơn là điện thế hóa khi kích thích tần số cao hiện diện.
+Trong thời kỳ phát triển sớm của nhiều sinh vật khác nhau, chu kỳ điện thế hoạt động thực tế được khởi động bởi dòng chảy calci hơn là dòng natri. Quá trình động lực học của sự mở và đóng những kênh calci trong giai đoạn phát triển là chậm hơn so với các kênh natri nhạy cảm với điện thế (chuyển tải các điện thế hoạt động trong các nơron trưởng thành). Thời gian mở cổng kênh calci dài có thể dẫn đến các chu kỳ của điện thế hoạt động diễn ra rất chậm so với những nơron trưởng thành. Các tế bào thần kinh thuộc loài ếch Xenopus đã tạo ra được các điện thế hoạt động sơ khai với khoảng thời gian từ 60–90 ms. Trong sự tăng trưởng của sinh vật này, thời gian này giảm 1 ms. Sự suy giảm mạnh này có hai lý do. Thứ nhất, hiện tượng tăng khử cực chịu trách nhiệm chủ yếu bởi các kênh ion natri. Và thứ hai, các kênh kali bắt đầu hoạt động mạnh mẽ và sản sinh ra dòng chảy ion kali ra bên ngoài tế bào gấp 3.5 lần, các kênh này được gọi là bộ máy phân tử chỉnh lưu và cản trở dòng điện (delayed rectifier), và được hoạt hóa trong giai đoạn màng bị khử cực. Sự hoàn thiện của các kênh kali nhạy cảm với điện thế giúp vận chuyển lượng lớn ion K+ ra ngoài màng, thiết lập màng tế bào vào trạng thái nghỉ, và giới hạn dòng ion calci đi vào bên trong tế bào trong điện thế hoạt động.
+
+Để chuyển đổi dạng điện thế hoạt động phụ thuộc Ca2+ sang dạng điện thế hoạt động phụ thuộc Na+, các kênh ion mới cần phải được sinh tổng hợp và gắn vào màng tế bào. Nếu như tế bào thần kinh của những loài Xenopus được nuôi dưỡng trong môi trường có dùng chất ức chế quá trình tổng hợp RNA (hay protein), thì sự chuyển đổi này sẽ bị chặn lại. Thậm chí rằng hoạt động điện của tự thân tế bào có thể đóng vai trò trong việc biểu hiện gen mã hóa kênh protein. Giả sử điện thế hoạt động trong tế bào cơ của loài Xenopus không diễn ra, tương ứng mật độ dòng chảy của ion Na+ và K+ cũng sẽ dừng lại.
+Sự phát triển của đặc tính điện thế cũng được thấy ở rất nhiều loài. Cụ thể, người ta nhận thấy rằng là dòng chảy ion Na+ và K+ của loài Xenopus tăng đột ngột sau khi tế bào nơron trải qua giai đoạn cuối cùng của chu kỳ nguyên phân (telophase). Mật độ các kênh Na+ phân bố tại cấu trúc vỏ não chuột tăng gấp 6–10 lần trong vòng hai tuần đầu tiên sau sinh.
+
+
+== Sự lan truyền ngược của điện thế hoạt động ==
+
+Hiện tượng điện thế hoạt động truyền ngược lại (backpropagating AP) đến sợi nhánh đã được giới khoa học quan sát và nghiên cứu dày công. Trên sợi trục, sự hiện diện của các kênh cổng điện thế Na+ và K+ đã tạo ra hàng loạt các chu kỳ điện thế hoạt động, nhưng tại màng sợi nhánh, ngưỡng kích thích tại nơi đó cao khiến cho tín hiệu điện trước synap không thể gây ra điện thế hoạt động. Thay vào đó, khi thân thần kinh đã khử cực đến một mức độ vừa đủ bằng việc tích hợp các điện thế khởi sinh, mới có thể kích hoạt điện thế hoạt động và lan truyền một chiều dọc theo sợi trục. Tuy nhiên các dữ kiện thực nghiệm đã cho thấy rằng, thân thần kinh cũng có thể khử cực và làm cho khu vực sợi nhánh cũng khử cực theo vì ở đó có các kênh cổng điện thế Na+. Sự lan ngược này có thể ví như làn sóng vang dội lại từ các điện thế hoạt động khởi phát ngay tiểu đồi sợi trục (hay đoạn đầu sợi trục, axon initial segments). Điện thế hoạt động lan theo sợi trục đồng thời tạo ra tín hiệu ngược chiều, đến sợi nhánh hoạt hóa những kênh cổng điện thế Ca2+ dẫn đến sự hình thành của điện thế hoạt động đặc biệt tại đó.
+Cần phải lưu ý rằng độ mạnh của điện thế hoạt động ngược thay đổi rất nhiều giữa nhiều loại tế bào nơron khác nhau. Một số loại tế bào nơron không làm thay đổi (hoặc rất ít) biên độ của điện thế hoạt động ngược lan đến cấu trúc cây sợi nhánh, trong khi những tế bào khác, chẳng hạn như tế bào Purkinje trong tiểu não, cản trở điện thế hoạt động rất nhiều và như thế hiện tượng này rất ít diễn ra. Hơn nữa, sự phong phú của các loại tế bào đã thể hiện ra mức độ phân rã biên độ khác nhau trong quá trình lan truyền ngược. Người ta cho rằng là mỗi một loại tế bào nơron chứa số lượng các kênh cổng điện thế riêng biệt cần thiết cho việc dẫn truyền điện thế hoạt động trong sợi nhánh. Tuy nhưng, nhiều kênh K+ loại A tập trung tương đối cao tại mỏm thần kinh đã hạn chế khả năng lan truyền ngược của điện thế hoạt động ngăn chặn vòng điều hòa dương tính diễn ra, không tạo ra được các chu kỳ bất tận và như vậy bảo vệ tế bào khỏi những tổn hại.
+
+Sự lan ngược trở lại của điện thế hoạt động có thể làm giảm ngưỡng kích thích tại sợi nhánh, và ảnh hưởng đến khả năng phóng ra điện thế hoạt động của nơron. Các tín hiệu điện hưng phấn đến từ synap vào nhánh cụm (apical tuft) cộng với các tín hiệu đầu vào của nhánh nền (tức những điện thế hoạt động ngược) sẽ tạo ra hàng loạt các điện thế hoạt động ngắn hạn. Loạt xung điện thế hoạt động (bursting) truyền dọc theo sợi trục chính đến các nơron mục tiêu, tại tận cùng sợi trục người ta đã nhận thấy rằng cơ chế thuận hóa ngắn hạn (short-term facilitation) diễn ra chứng tỏ rằng xung động phối hợp là hiệu quả hơn nhiều so với xung đơn. Những bộ phận nơron tháp (pyramidal neuron) kết nối qua synap với rất nhiều loại tế bào sau synap khác nhau, do đó bằng việc tạo ra loạt khối điện thế hoạt động trong phạm vi thân thần kinh đến sợi nhánh, trong thời gian ngắn khiến cho các kết nối điện giữa nơron tháp với những tế bào đích khác nhau càng thêm hiệu quả.
+Điện thế hoạt động ngược cũng có thể mang toàn bộ tín hiệu đầu ra đưa đến vị trí synap kích thích (là nơi nhận tín hiệu đầu vào) và gây ra các đáp ứng cục bộ dài hạn tại đó làm tăng hiệu lực của synap. Những thay đổi như thế được kích hoạt phụ thuộc vào tương quan thời gian giữa điện thế hoạt động trước synap và điện thế hoạt động sau synap, khoảng thời gian vàng là 100 ms xét một cách tương đối. Dựa trên thứ tự xuất hiện chính xác của điện thế hoạt động tại nơron trước synap và điện thế hoạt động ngược của nơron sau synap trong cấu trúc nhánh, hiệu lực synap có thể tăng hoặc giảm sau thời gian vàng đó. Những thay đổi về hiệu lực của synap gây ra bởi những chu kỳ lặp lại gần như trùng hợp của điện thế hoạt động trước synap và điện thế hoạt động sau synap, thể hiện thông qua thuật ngữ tính mềm dẻo phụ thuộc thời gian điện thế hoạt động (STDP). Các thay đổi dài hạn trong tính hiệu lực của synap thường phụ thuộc vào sự tăng cường dòng chảy Ca2+ vào nội bào qua các "chốt" NMDA, ngụ ý rằng sự lan truyền ngược của điện thế hoạt động là một trong những cơ chế kiểm soát khả năng mềm dẻo của synap qua nhiều dòng thác chuyển hóa được vận hành bởi biến đổi tăng về nồng độ Ca2+ bên trong tế bào.
+Cơ chế STDP làm tăng hiệu lực synap liên quan đến quá trình lưu thông ion calci vào nội bào qua thụ thể NMDA, người ta quan sát thấy rằng cơ chế này diễn ra khi, có sự xuất hiện đồng thời các EPSP và điện thế hoạt động ngược làm tăng vọt nồng độ ion Ca2+ giới hạn tại vùng đuôi gai dưới dạng hàm trên tuyến tính (supralinear function), điều này đã được chứng minh qua thực nghiệm trên các nơron tháp khu vực CA1 vùng hải mã, nơron tháp vùng vỏ L5, nơron hình sao (stellate neuron) vùng vỏ L4, và nơron trung gian hai cụm (bitufted interneuron) vùng vỏ L2/3. Đối với cấu trúc đuôi gai của nơron hình sao L4, thời gian diễn ra quá trình tổng hợp các tín hiệu calci, gây ra bởi các tác động đồng thời của EPSP và điện thế hoạt động ngược bằng với thời gian khử hoạt các kênh NMDA.
+Hiện tượng lan truyền ngược điện thế hoạt động có thể diễn ra trên tất cả các tế bào thần kinh? Thực tế rằng điện thế hoạt động ngược suy giảm về biên độ với mức độ khác nhau trên nhiều loại nơron đặc thù, chẳng hạn như tế bào tháp, tế bào sao, tế bào hai cụm, hiện tượng này đã thúc đẩy cơ chế STDP, và không có gì đáng ngạc nhiên là khả năng ảnh hưởng đến STDP cũng thay đổi trên cùng một loại nơron, phụ thuộc trên vị trí và sự phân bổ chính xác của các synap vào sợi nhánh. Điều này đúng đặc biệt với các tế bào tháp mang nhánh nền và nhánh đỉnh có hình học không gian rất phức tạp. Hơn nữa, xác suất hiện tượng xảy ra tăng lên cùng với tần số của điện thế hoạt động, và phụ thuộc rất lớn vào tín hiệu kích thích đầu vào dưới ngưỡng. 
+
+Các chất dẫn truyền thần kinh kinh điển và peptide thần kinh có thể được giải phóng từ cấu trúc sợi nhánh từ nhiều quần thể nơron khác nhau. Chức năng chính nhằm lan truyền tín hiệu ngược trở lại điều chỉnh sự lan truyền các hóa chất qua synap, hoạt động điện tế bào, và trong một số trường hợp làm thay đổi hình thái gốc của tế bào. Điện thế hoạt động ngược cũng thể hiện những vai trò như vậy, cụ thể hơn nó làm sợi nhánh phóng ra chất truyền đạt điều chỉnh lại sự phân biệt về mùi một cách chính xác. Và tương tự, xung thần kinh ngược chiều trong một số nơron trung gian vùng vỏ não mới gây ra sự giải phóng GABA từ sợi nhánh đến các cúc tận cùng của tế bào tháp, và ngược lại trong tế bào tháp sự hiện diện các xung ngược có thể kiểm soát sự phóng thích glutamate và cannabinoid từ sợi nhánh. Hai vòng feedback cục bộ có thể điều phối điện thế hoạt động trong cả hai nơron trung gian và nơron tháp để duy trì hoạt động thần kinh ổn định trong mạch cục bộ ở vỏ não.
+Điện thế hoạt động ngược về cơ bản cần thiết cho quá trình ổn định hóa sự hình thành synap sơ khai trong mạch thần kinh đối với não bộ thời kỳ sau sinh, và cả sự phát triển phụ thuộc kinh nghiệm của hệ thần kinh trung ương. Các synap kích thích được tạo chủ yếu trên sợi nhánh, như vậy tín hiệu nối kết giữa sự tăng sinh cấu trúc sợi trục của nơron chiếu đến sợi nhánh của nơron nhận có khả năng liên quan đến tín hiệu điện của các sợi nhánh qua quá trình động học phụ thuộc Ca2+. 
+
+Trong giai đoạn đầu đời, các tế bào nơron thường biểu hiện ra những đợt tự phát của điện thế hoạt động cấp độ cao hơn so với người trưởng thành. Những nhà khoa học giả thuyết rằng dạng điện thế hoạt động ngược không chỉ đồng bộ hóa mạng lưới thần kinh đang phát triển qua các khớp synap nhánh-nhánh, mà còn có thể khiến sợi nhánh phóng ra các yếu tố tăng trưởng "hấp dẫn" quá trình tăng sinh sợi trục về phía nó, hay là như tín hiệu kích thích sự phân nhánh bên của sợi trục. Điện thế hoạt động ngược như cung cấp cho sợi nhánh "bản mã thần kinh sao lưu có điều chỉnh" bắt nguồn từ sợi trục và có thể ổn định hóa các kết nối synap ban đầu giữa những tổ hợp nơron trong đó phát động điện cho nhau. Đối với giai đoạn sau sinh, mật độ phân bố của các thụ thể NMDA (trong hệ thần kinh trung ương) điều phối dòng chảy ion tại khe synap nhiều hơn so với người trưởng thành, và vị trí synap kích thích mới hình thành chỉ chứa các thụ thể NMDA, có lẽ rằng là những synap mới này có tính chất điện rất yếu hay thậm chí là không có. Dòng chảy ion calci lưu lượng cao tập trung vào các sợi nhánh qua thụ thể NMDA gắn trên màng sau synap thậm chí vẫn có thể diễn ra trong trường hợp Mg2+ chặn thụ thể NMDA, vì điện thế hoạt động ngược đã kéo Mg2+ ra khỏi vị trí đặc hiệu trong khoảng thời gian ngắn. Về chức năng của điện thế hoạt động ngược trong việc tăng cường độ mạnh cho các mạch thần kinh chuyên biệt qua phối hợp đồng thời các điện thế hoạt động trước và sau synap trong tập hợp nơron thời kỳ phát triển sớm sau sinh hiện vẫn còn đang được nghiên cứu sâu hơn.
+
+
+== Bùng nổ điện thế hoạt động ==
+
+Sự kiện truyền hàng loạt nhiều điện thế hoạt động, hay các khối điện thế hoạt động (bursting) là sự kiện của nơron phóng ra các cụm (khối) điện thế hoạt động đặc trưng bời sự lặp đi lặp lại. Mỗi một khối xung động như thế tiếp theo sau bằng giai đoạn không hoạt động (quiescence) trước khi khối xung động khác diễn ra. Bùng nổ hai điện thế hoạt động được gọi là nhị xung (doublet), ba điện thế hoạt động gọi là tam xung (triplet), tứ xung (quadruplet), và vân vân. Dạng khối của điện thế hoạt động (phasic activity) được cho là quan trọng đối với sự vận hành của mạch phát sinh điều hòa vận động trung ương, sự liên lạc qua các mật mã thần kinh (neural code), và liên quan đến một số bệnh lý thần kinh chẳng hạn như động kinh, cho đến các chức năng cảm giác, và hành vi có nhận thức. Hầu hết tất cả các nơron đều có thể hình thành vô số khối điện thế hoạt động dưới tác nhân kích thích hay bằng tác động dược lý. Nhiều cụm điện thế hoạt động diễn ra một cách tự động, là do sự tương tác lẫn nhau của dòng chảy ion nhanh chịu trách nhiệm cho hoạt động xung thần kinh, và dòng chảy chậm điều hòa lại trạng thái động học.
+Đối với vùng vỏ não mới, có các nơron như sau:
+
+Các nơron khối nội tại (intrinsically bursting neurons, IB) phần lớn là những nơron tháp phân bố chủ yếu vùng vỏ não L5; khi gặp kích thích điện mạnh, ban đầu chúng phóng ra khối điện thế hoạt động, về sau dần suy giảm trở thành các điện thế hoạt động đơn (tonic activity).
+Các nơron khối chấn động (chattering neurons, CH) hay còn gọi là các tế bào khối nhịp nhanh (FRB) là những nơron tháp thuộc lớp 2-4, và chủ yếu ở lớp thứ 3. Chúng phóng ra các khối điện thế hoạt động với tần số cao khoảng 3-5 xung với khoảng thời gian giữa các xung (interburst period) tương đối ngắn.
+Tại hồi hải mã, có các nơron như sau:
+
+Những nơron khối ngưỡng thấp (low-threshold bursters, LTB) là những nơron tháp vùng CA1, chúng phát ra khối điện thế hoạt động tần số cao đáp ứng với kích thích ngang ngưỡng. Trong nhóm này tồn tại một số nơron phát khối xung tự động.
+Những nơron khối ngưỡng cao (high-threshold bursters, HTB) tương tự nhưng chúng chỉ phóng hàng loạt điện thế hoạt động khi gặp kích thích trên ngưỡng.
+
+Trong cấu trúc đồi thị, có các nơron như sau:
+
+Các mạch nơron đồi vỏ (thalamocortical neurons, TC) có thể tạo thành những khối xung động thần kinh, biên độ sẽ càng cao khi màng trong trạng thái siêu phân cực mạnh (ức chế), và vì thế cũng được gọi là khối xung động ngưỡng thấp (low-threshold spike). Khi xung EPSP hiện diện rất ít, khiến cho màng đi vào trạng thái cực hóa, trong đó có các kênh Ca2+ loại T trở nên khử bất hoạt (de-inactivation), điện thế hoạt động đơn (tonic mode) chuyển sang điện thế hoạt động khối (burst mode). Dạng điện thế hoạt động khối của mạng lưới nơron đồi vỏ chủ yếu diễn ra trong giai đoạn giấc ngủ sóng chậm.
+Nhóm nơron ức chế vùng nhân lưới đồi thị (reticular thalamic nucleus, RTN) cũng mang khả năng giống với các tế bào nơron đồi vỏ.
+
+Đối với tiểu não chứa các tế bào Purkinje thường có dạng điện thế hoạt động đơn. Tuy nhiên khi tín hiệu synap đầu vào bị chặn, hoạt động của nơron chuyển sang dạng "ba phương thức" trong đó có giai đoạn phóng ra khối điện thế hoạt động. Ngoài ra, phức hợp tiền-Bötzinger là cụm nơron trung gian thuộc trung khu hô hấp trước của cấu trúc hành não. Các nơron này phóng ra các khối điện thế hoạt động theo chu kỳ kiểm soát chức năng hô hấp ở các loài động vật có vú. Một số nơron vùng trung não V phóng ra khối điện thế hoạt động nhịp nhàng, khi khử cực trên ngưỡng thấp. Tế bào nơron khối trước (anterior bursting neuron, AB) trong hạch miệng-dạ dày bắn các khối xung tự động có nhịp điệu. Nơron R15 tại khu vực hạch bụng của loài động vật chân bụng Aplysia Californica, cũng phát ra khối điện thế hoạt động nhịp nhàng một cách tự động. Và các tế bào β đảo tụy hình thành khối xung thần kinh thực hiện việc kiểm soát sự giải phóng của phân tử insulin.
+Những cụm điện thế hoạt động được xem như là các đơn vị thông tin thần kinh, và chức năng của nó có ý nghĩa rất nhiều về mặt sinh học bao gồm có:
+
+Các khối điện thế hoạt động gây ra các đáp ứng trên màng sau synap mạnh hơn (và đáng tin cậy hơn) xung động đơn. Thực tế, điện thế kích thích sau synap (EPSP) với biên độ trên ngưỡng cao là kết quả của các cụm xung này.
+Các khối điện thế hoạt động vượt qua được quá trình dẫn truyền synap thất bại. Thực vậy, đơn xung trước synap có thể không gây ra được các đáp ứng màng sau synap (sự giải phóng các hóa chất dẫn truyền không diễn ra), tuy nhưng "sự bắn phá" của các khối xung thần kinh làm tăng khả năng phóng thích các hóa chất dẫn truyền.
+Các khối điện thế hoạt động thuận hóa sự dẫn truyền thần kinh trong khi đơn xung không thể. Synap với cơ chế thuận hóa ngắn hạn mạnh sẽ kém nhạy với các đơn xung hay thậm chí là những khối xung ngắn, nhưng đối với các khối xung dài thì lại không. Trong khối điện thế hoạt động dài mang tập hợp nhiều xung giúp thuận hóa synap như vậy tác động của vài xung cuối cùng có thể vẫn còn khá mạnh.
+Các khối điện thế hoạt động thúc đẩy cơ chế LTP và vì thế tăng cường thuộc tính mềm dẻo của synap lên rất nhiều, khác biệt rõ rệt với các xung động đơn.
+Các khối điện thế hoạt động có tỷ số tín hiệu trên nhiễu (signal-to-noise ratio) cao hơn đơn xung. Trên thực tế, ngưỡng khối điện thế hoạt động cao hơn ngưỡng điện thế hoạt động đơn, tức là để hình thành khối điện thế hoạt động cần các tín hiệu điện đầu vào mạnh hơn.
+Các khối điện thế hoạt động có thể hỗ trợ cho sự liên lạc thông tin một cách chọn lọc, trong trường hợp tế bào sau synap có những dao động điện thế màng dưới ngưỡng. Những tế bào như thế được coi là nhạy cảm với tần số của tín hiệu. Một số khối điện thế hoạt động cộng hưởng với các dao động và kích động đáp ứng, trong khi những khối xung khác thì không, điều này phụ thuộc vào tần số gian khối điện thế hoạt động (interburst frequency).
+Các khối điện thế hoạt động có thể cộng hưởng với khả năng mềm dẻo synap ngắn hạn, biến synap thành bộ lọc thông dải (band-pass filter). Những synap đã có sự thuận hóa hay ức chế ngắn hạn nhạy cảm nhất đối với những khối điện thế hoạt động có tần số gian khối điện thế hoạt động cộng hưởng nhất định. Các khối xung động khởi động cơ chế thuận hóa với mức độ vừa đủ, trong khi hạn chế với sự ức chế synap, như vậy ảnh hưởng lên màng synap đích được tối ưu hóa.
+Các khối điện thế hoạt động mã hóa cho những tín hiệu cảm giác đầu vào khác nhau không như những xung động đơn. Chẳng hạn, các tế bào nơron trong thùy điện cảm giác đường bên (electrosensory lateral-line lobe) của loài cá điện yếu có thể kích thích mạng lưới hoạt hóa khối xung (network induced-bursts) đáp ứng với tín hiệu tương tác từ môi trường, và phóng ra các điện thế hoạt động đơn khi có tín hiệu con mồi. Trong hệ thống thị giác của đồi thị, tức địa hạt nhân gối ngoài (lateral geniculate nucleus), các tế bào nơron phóng ra khối điện thế hoạt động mã hóa các kích thích phối hợp bao hàm sự ức chế trong khoảng thời gian kéo dài, sau đó là sự hưng phấn. Những sự kiện kích thích như thế thường là thuộc cảnh tượng thiên nhiên.
+Các khối điện thế hoạt động là các mật mã thần kinh chứa nhiều thông tin hơn những xung động đơn khi phân tích thành các đơn vị sự kiện (unitary event). Thông tin nhận được có thể được mã hóa thành chu kỳ khối điện thế hoạt động, hoặc là cơ cấu thời gian chính xác của khối xung, tức là khoảng thời gian cách nhau giữa các xung. Nhìn chung, các khối điện thế hoạt động khả năng cao gây ra tác động mạnh lên trên màng tế bào sau synap hơn các xung đơn, vì lẽ đó sự kiện hình thành cụm điện thế hoạt động là sự kiện tất cả hoặc không, trong khi xung động đơn có thể bị nhiễu.
+
+
+== Tính mềm dẻo phụ thuộc thời gian điện thế hoạt động ==
+
+Tính mềm dẻo phụ thuộc thời gian điện thế hoạt động (spike-timing-dependent plasticity, STDP) là mô hình khả năng tri thức dựa trên tính bất đối xứng thời gian, trong đó khối lượng synap có sự điều chỉnh lại phụ thuộc vào trật tự thời gian của xung động đến (trước synap) và xung động đi (sau synap). Sự thay đổi về khối lượng synap sẽ xác định synap ở trong trạng thái nào, nếu khối lượng synap tăng lên (thay đổi dương tính), synap đó trong trạng thái LTP, nếu khối lượng synap giảm xuống (thay đổi âm tính), synap đó ở trạng thái LTD. Những thay đổi trên synap đã được xây dựng nên một hàm thời gian tương đối của điện thế hoạt động trước và sau synap; được gọi là hàm STDP hay "cửa sổ học tập" và thay đổi tùy theo những loại synap khác nhau. Hàm STDP thay đổi nhanh qua thời gian tương đối của các xung động thể hiện xác suất mã hóa phụ thuộc thời gian trên phạm vi miligiây.
+
+
+=== Hiện tượng STDP trong giới sinh vật ===
+STDP thay đổi rất lớn đối với nhiều loại synap khác nhau và trong nhiều vùng não riêng biệt. Cho dù là như vậy, mô hình STDP cổ điển và tính bất đối xứng thời gian vẫn thể hiện tầm quan trọng hơn hết, được chứng kiến ở loài người và nhiều loài khác như chuột, ếch, châu chấu, chim di vằn, mèo. Đối với những loài động vật có vú, STDP cũng được khám phá trong nhiều vùng não, chẳng hạn như vùng vỏ não trước trán, vỏ não nội khứu, vỏ não cảm giác thân thể, các lớp vỏ não thị giác, cấu tạo hải mã, thể vân, nhân xám ốc tai, và thể hạnh nhân. Tuy nhiên, hoạt động cần thiết cho sự vận hành quá trình STDP thay đổi tùy theo các không gian synap khác nhau. Cụ thể hơn, cửa sổ thời gian cho quá trình LTD và LTP bằng nhau tại những synap kích thích của hồi hải mã, trong khi đó cửa sổ thời gian quá trình LTD rộng hơn nhiều so với quá trình LTP trong nhiều synap vỏ não.
+Khoảng thời gian cửa sổ STDP bị đảo ngược lại so với dạng STDP cổ điển đối với một số synap nhất định, như vậy là khoảng thời gian trước-  đến-sau sẽ dẫn đến cơ chế LTD, và ngược lại hình thành LTP. Trường hợp này là các synap ức chế của những nơron tháp trong vùng vỏ não mới lớp thứ 2 và lớp thứ 3, tại synap vỏ vân hay thùy điện cảm giác của loài cá mũi voi. Khoảng thời gian cần thiết cho STDP đối với các kết nối giữa những tế bào hình sao có gai trong khu vực vỏ não cảm giác thân thể của loài chuột cũng khác biệt: vì tại đó, có vẻ như synap trải qua quá trình LTD không tuân theo một trật tự thời gian nào. Trong lớp vỏ não mới thứ 5 chứa các nơron tháp, thời gian cần thiết phụ thuộc chủ yếu ở các synap trên cây sợi nhánh: trong khi tín hiệu điện vào synap đầu gần có diễn ra cơ chế STDP cổ điển, thì những synap đầu xa theo quy luật STDP "đảo ngược thời gian". Những xung động đến cũng gây ra các biến đổi LTD và LTP phụ thuộc vào trạng thái tăng khử cực của nhánh đỉnh.
+Điện thế hoạt động cơ bản quan trọng cho sự hiện diện của STDP, và STDP thay đổi đáng kể không chỉ với khu vực não và loại synap, mà còn trong tế bào với những bộ phận cấu tạo nhánh khác nhau. Có một câu hỏi mở đó là tính thay đổi này cho mục đích gì. Vì khả năng mềm dẻo của synap là nền tảng cho sự phát triển của mạch thần kinh, điều này ngụ ý rằng quy luật STDP đã tham gia trong giai đoạn phát triển xác định mạch thần kinh chức năng trong não bộ trưởng thành. Nói cách khác, tính đa dạng của STDP rất có thể không phải là sự trùng hợp ngẫu nhiên.
+
+
+== Điện thế hoạt động đối với các loại tế bào khác ==
+
+
+=== Điện thế hoạt động cơ tim ===
+
+Điện thế hoạt động cơ tim khác với điện thế hoạt động thần kinh, đặc trưng bởi giai đoạn cao nguyên (plateau, hay bình nguyên), trong đó màng tế bào vẫn giữ biên độ điện thế cao trong khoảng thời gian vài trăm miligiây trước khi đến giai đoạn tăng tái phân cực. Giai đoạn cao nguyên này là do sự hoạt động của các kênh calci chậm, các kênh mở ra và dòng ion calci đi vào trong tế bào, duy trì điện thế màng gần đến giá trị điện thế cân bằng ngay cả khi những kênh natri đã trở nên bất hoạt sau đó.
+Điện thế hoạt động cơ tim đóng vai trò quan trọng trong sự phối hợp khả năng co cơ tim. Các tế bào cơ tim trong nút xoang nhĩ (sinoatrial node) có chức năng tạo lập điện thế tạo nhịp mang khả năng đồng bộ hóa tim toàn phần. Điện thế hoạt động của những tế bào sinh ra như thế lan truyền tới khu vực nút nhĩ thất (nút AV), và cũng chỉ có con đường này xung động thần kinh mới có thể đi từ tâm nhĩ đến tâm thất. Điện thế hoạt động từ khu vực nút nhĩ thất lan xuống bó His và từ nơi đó tiếp tục rẽ sang các sợi Purkinje. Ngược lại, đối với những dạng dị thường của điện thế hoạt động—nguyên do có thể là đột biến bẩm sinh hay là chấn thương—có thể dẫn đến bệnh lý, điển hình là chứng loạn nhịp tim. Có vài loại thuốc chống loạn nhịp tim với cơ chế tác động lên điện thế hoạt động cơ tim, ví dụ như là quinidine, lidocaine, chẹn beta, và verapamil.
+
+
+=== Điện thế hoạt động cơ xương ===
+
+Điện thế hoạt động diễn ra tại tế bào cơ xương (hay cơ vân) tương tự như với dạng điện thế hoạt động xảy ra tại nơron. Điện thế hoạt động là kết quả của quá trình khử cực màng tế bào (màng sợi cơ), điều này khiến cho các kênh natri nhạy cảm với điện thế mở ra; sau đó những kênh này sẽ  trở nên bất hoạt và màng tái khử cực lại trở về trạng thái ban đầu khi mà dòng ion kali ra ngoài tế bào. Trước khi chuyển sang điện thế hoạt động, giá trị điện thế nghỉ của cơ xương khoảng −90mV, tức là âm hơn giá trị điện thế nghỉ của nơron. Điện thế hoạt động cơ xương có chu kỳ kéo dài khoảng từ 2–4 ms, thời gian của giai đoạn trơ tuyệt đối là 1–3 ms, và vận tốc dẫn điện dọc theo tế bào cơ là cỡ 5 m/giây. Điện thế hoạt động giải phóng ion calci, cụ thể hơn là hai ion Ca2+ sẽ gắn vào troponin C trên sợi actin, phức hợp troponin-Ca2+ khiến cho protein tropomyosin trượt qua và bộc lộ các vị trí gắn của sợi actin, lúc này hai đầu myosin tiến đến gần và kết chặt với actin, khởi động tiến trình co cơ (hay còn gọi là chu kỳ cầu nối). Điện thế hoạt động cơ xương được kích ứng bởi các điện thế hoạt động của tế bào thần kinh trước synap ngay tại khớp nối thần kinh cơ, nơi này cũng đồng thời được xem là khu vực tác động phổ biến của các chất độc thần kinh.
+
+
+=== Điện thế hoạt động đối với tế bào thực vật ===
+Nhiều loại thực vật khác nhau cũng triển khai điện thế hoạt động truyền theo mạch rây (phloem) để phối hợp các hoạt động sinh hóa có hiệu quả. Về khía cạnh sinh lý học của những dòng chuyển động hạt điện tích đã được nghiên cứu rất nhiều trên đối tượng là tảo chẳng hạn như luân tảo (charophyta). Điểm khác nhau chủ yếu giữa thực vật và động vật đó là, chu kỳ điện thế hoạt động của thực vật diễn ra dựa trên các dòng chảy calci và kali, trong khi đó ở động vật, điện thế hoạt động cần có dòng ion kali và natri. Những tín hiệu xung điện này là khả năng của thực vật nhằm tải thông tin nhanh chóng từ các tín hiệu môi trường ví dụ như là nhiệt độ, ánh sáng, tác động cơ học và các tổn thương. Trên thực vật, cấu trúc mạch rây (mạng lưới các tế bào nối kết lẫn nhau) bên trong hệ gân lá có thể được xem là 'dây thần kinh xanh' cho phép truyền đi các điện thế hoạt động gây ra bởi kích thích, và dòng điện thực vật này do các kênh ion đặc hiệu phụ thuộc điện thế đảm nhiệm.
+Giới thực vật và giới nấm trong đó bao gồm các sinh vật với những tế bào có thể kích thích và phát sinh ra dòng điện. Năm 1906, J. C. Bose đã sáng chế ra công cụ rất tài tình, giúp đo lường được điện thế hoạt động trên loài thực vật, mà trước đó hiện tượng điện trên các loài thực vật ăn sâu bọ đã được khám phá ra bởi Burdon-Sanderson và Darwin (nhưng chưa xác thực rõ). Thành công mà Bose mang lại cho giới khoa học đã nhận được sự đánh giá cao từ giới chuyên môn, theo Shepherd (2005): "... ông ấy là người đầu tiên nhận ra được sự tồn tại của các tín hiệu điện có mặt ở khắp nơi giữa những tế bào thực vật, được xem là một trong những chức năng quan trọng giúp phối hợp các đáp ứng với môi trường. Bose đã chứng minh được qua việc đưa ra các chứng cứ xác thực về việc diễn ra quá trình chuyển tải các tín hiệu điện vừa nhanh, vừa truyền đến được những nơi xa, kích thích sự chuyển động của lá trong loài Mimosa pudica (cây trinh nữ) và loài Desmodium gyrans (cây nhảy múa, hay cây điện báo), và đồng thời cho thấy rằng các tế bào thực vật sản sinh ra nhiều xung điện liên tục và lan tỏa cả hệ thống." Ngoài ra, ông cũng đưa ra kết luận rằng hiện tượng điện không chỉ giới hạn ở hai loài thực vật trên, mà còn xảy ra đối với tất cả những loài thực vật. Sự tăng cường dòng ion Ca2+ vào trong chất nguyên sinh sẽ gây ra tác động lực thúc đẩy anion vào trong tế bào. Điều này làm cho ion calci được ví như là "tiền ion" cho sự chuyển động của các ion khác, chẳng hạn như là dòng ion âm chloride vào nội bào, và dòng ion dương kali đi ra, như quan sát thấy ở phần lá của cây đại mạch.
+Dòng ion calci khởi đầu vào bên trong màng sẽ khiến tế bào tăng khử cực với mức độ nhỏ, sau đó các kênh cổng ion điện thế mở ra và cho phép dòng ion Cl− đi vào gây nên sự khử cực hoàn toàn và lan truyền sang khu vực lân cận.
+Một số loại thực vật (chẳng hạn như loài Dionaea muscipula, được biết đến với cái tên cây bắt ruồi Venus) sử dụng các kênh cổng Na+ để điều khiển sự cử động và về bản chất là "sự tính toán". Cây bắt ruồi Venus được tìm thấy ở những miền đất ẩm cận nhiệt đới thuộc phía Bắc và phía Nam của tiểu bang Carolina. Khi những thành phần dinh dưỡng trong đất không được phong phú, loài cây này dựa vào các bữa ăn khác đó là côn trùng và động vật. Dù đã nghiên cứu trên thực vật, thế nhưng vẫn còn khá mơ hồ về nền tảng phân tử đối với loài cây bắt ruồi nói riêng, và tất cả các loài cây ăn sâu bọ nói chung.
+Tuy nhiên, nhiều nghiên cứu đã tìm ra được cơ sở của điện thế hoạt động và cho thấy dòng điện trong loài cây bắt ruồi Venus đã ảnh hưởng đến sự chuyển động nhịp nhàng và chính xác như thế nào. Đầu tiên, người ta nhận ra rằng giá trị điện thế màng trong trạng thái nghỉ của loài cây bắt ruồi Venus là khoảng -120mV, âm hơn giá trị điện thế của tế bào động vật (thường là từ -90mV đến -40mV). Chính giá trị điện thế nghỉ của màng càng thấp khiến cho nó dễ bị kích hoạt thành điện thế hoạt động hơn. Vì thế, khi các loài côn trùng nằm trong phạm vi "bẫy" của thực vật, có các lông là các thụ thể nhận cảm cơ học vô cùng nhạy với kích thích từ môi trường, và khi con mồi đã chạm vào lông tương ứng khởi tạo điện thế hoạt động. Điện thế hoạt động diễn ra trong thời gian 1.5 ms. Con mồi càng cố gắng vùng vẫy và trốn thoát, nó sẽ chạm nhiều lông thụ thể hơn, và như thế các chu kỳ điện thế hoạt động được tạo ra liên tục một cách vô hạn (∞ APs). Loài sinh vật này có thể nhớ và ra quyết định, cũng như 'đếm' số lượng các điện thế hoạt động để ước tính kích thước và chất dinh dưỡng của loài côn trùng bị nó làm mồi. Cuối cùng, điện thế hoạt động sẽ làm hoạt hóa dòng ion Ca2+ và làm tích tụ nồng độ ion Ca2+, gây ra làn sóng tín hiệu thứ hai. Bộ máy ion Ca2+ được vận hành sẽ khởi động nên nhiều chu trình sinh hóa khác, có liên quan đến sự sống còn của sinh vật.
+Tuy vậy, cây bắt ruồi không đóng lại khi chỉ có một lông được kích thích. Thay vào đó, cần xung động thần kinh đến từ hai hay nhiều lông. Nếu chỉ một lông được kích thích, sự hoạt hóa được xem là giả vì không gây những thay đổi đáng kể nào. Hơn nữa, lông thứ hai phải được hoạt hóa trong khoảng thời gian nhất định (0.75 giây - 40 giây) kể từ thời điểm lông thứ nhất đã bị kích thích. Khi lông thứ nhất bị kích thích, có sự tăng lưu lượng ion calci nhưng sau đó giảm xuống chậm. Khi điện thế hoạt động thứ hai được phóng ra trong thời gian hiệu lực, nồng độ ion calci đã đạt đến ngưỡng xác định, lúc này cái bẫy của cây bắt ruồi Venus đóng lại chỉ trong 100 miligiây.
+Cùng với giai đoạn sau của điện thế hoạt động, sự giải phóng các ion dương kali ra ngoài màng đã làm giảm áp suất thẩm thấu nội màng (KCl). Trong khi đó, điện thế hoạt động của loài động vật có khuynh hướng cân bằng áp suất thẩm thấu là do dòng chảy ion natri vào bên trong tế bào tương đương với dòng chảy ion kali ra ngoài tế bào thế nên triệt tiêu đi sự thay đổi về tính thẩm thấu bên trong và bên ngoài màng. Đối với tế bào thực vật, sự tương tác của các enzyme điện hóa then chốt và nồng độ ion nội bào ảnh hưởng đến trạng thái thẩm thấu ổn định, điều này cũng ngụ ý rằng trong thời kỳ môi trường muối vẫn đang chịu sự biến đổi, những loài sinh vật thủy tổ đơn bào chung của thực vật và động vật mang khả năng phát sinh ra dòng điện và điều này đã tạo ra hiện tượng thẩm thấu. Hơn thế nữa, chức năng vận chuyển tín hiệu nhanh được thấy ở những tế bào thuộc nhóm động vật đa bào như một sự hoàn thiện chưa từng có trong môi trường thẩm thấu đặc biệt ổn định. Rất có khả năng rằng thuộc tính điện thế hoạt động trong những loài thực vật có mạch phát triển độc lập với dạng điện thế hoạt động của những loài động vật đa bào với tế bào có tính kích thích và tạo ra điện.
+Không như giai đoạn tăng khử cực, giai đoạn tăng tái phân cực và giai đoạn siêu phân cực dường như phụ thuộc chủ yếu trên những cation nhưng không phải calci. Để khởi động giai đoạn tăng tái phân cực, tế bào tích cực vận chuyển ion K+ ra bên ngoài qua màng thông qua cơ chế thụ động. Điều này được cho là khác với tế bào nơron là vì trong pha suy giảm điện thế màng không phụ thuộc hoàn toàn vào sự di chuyển của ion K+; trên thực tế, để thực hiện quá trình tăng tái phân cực toàn phần, tế bào thực vật cần năng lượng dưới dạng ATP để hỗ trợ trong việc giải phóng H+ ra ngoài tế bào – qua khai thác chức năng của bơm vận chuyển H+-ATPase.
+
+
+== Phân loại điện thế hoạt động và lợi thế tiến hóa ==
+Điện thế hoạt động được thấy ở tất cả sinh vật đa bào, bao gồm có thực vật, động vật không có đốt sống như côn trùng, và các loài có đốt sống như lưỡng cư và động vật hữu nhũ. Động vật thân lỗ dường như là ngành chính của nhóm sinh vật nhân thực đa bào không truyền đi điện thế hoạt động, dù rằng có một số nghiên cứu ám chỉ là những loại sinh vật này cũng có dạng truyền tín hiệu qua các tế bào dưới dạng điện. Điện thế nghỉ, cũng như là quy mô và thời gian của điện thế hoạt động, không thay đổi nhiều theo chu trình tiến hóa, tuy nhưng vận tốc của điện thế hoạt động biến đổi rất nhiều phụ thuộc vào đường kính sợi trục và cơ chế myelin hóa thần kinh.
+
+Trong cuộc bàn luận khoa học về vấn đề tiến hóa, điện thế hoạt động dường như là có lợi thế tiến hóa. Điện thế hoạt động đặc trưng bởi tính chất nhanh, chuyển phát rất nhiều tín hiệu trong phạm vi dài trong cơ thể sinh vật; với vận tốc dẫn có thể vượt 110 m/giây, bằng một phần ba tốc độ âm thanh. Không một mô nào có thể chiến thắng được mô thần kinh về tốc độ dẫn truyền như vậy xuyên suốt cả toàn bộ cơ thể; có thể làm phép so sánh rằng, một phân tử hormone được mang đi theo dòng máu với tốc độ 8 m/giây trong các động mạch lớn. Ngoài ra, sự dẫn truyền nhanh là giúp ích cho sự phối hợp chặt chẽ các sự kiện cơ học, chẳng hạn như là quá trình co cơ tim. Chức năng thứ hai là các biến đổi điện vi mô gắn liền với cấu tạo phát sinh, và tương ứng với bộ máy xử lý tín hiệu cải tiến qua các thế hệ, theo tiến hóa các giống loài càng hoàn thiện cơ quan thần kinh một cách phong phú, trong đó mạng lưới nơron ngày càng phức tạp hóa, đưa kết cấu không gian lên tới 11 chiều, đưa cách thức xử lý tín hiệu dưới dạng các xung động mã hóa cho các hoạt động tư duy và nhận thức, cảm xúc vượt ngoài khả năng tưởng tượng của con người, song các nhà nghiên cứu họ vẫn có thể tính toán và đưa ra các mô hình toán học với mức độ nhất định. Làn sóng tín hiệu tất cả hoặc không không bị suy giảm theo khoảng cách, chính vì thuận lợi đó, điện thế hoạt động được xem là tương đồng với điện tử số. Sự tích hợp nhiều tín hiệu sợi nhánh đến vùng tiểu đồi sợi trục và tạo ra chuỗi điện thế hoạt động phức tạp là dạng khác của tiến trình xử lý thông tin, trong số đó có mạch thần kinh sinh học đã được khai thác kỹ đó là mạch phát sinh điều hòa vận động trung ương (central pattern generators), và là cơ sở để các nhà khoa học xây dựng nên mạng lưới thần kinh nhân tạo tương tự.
+
+
+== Phương pháp thực nghiệm ==
+
+Quá trình nghiên cứu điện thế hoạt động cần phải có những phương pháp thực nghiệm với tiến bộ cao. Công trình nghiên cứu khởi xướng từ trước năm 1955 đã xoáy sâu vào ba mục đích chính: tiến hành phân lập các tín hiệu đến từ nơron đơn hay sợi trục đơn, phát triển các phương tiện điện tử nhanh và nhạy, với các điện cực rất nhỏ đủ để ghi lại điện thế bên trong tế bào.
+Vấn đề đầu tiên đã được giải quyết khi nghiên cứu trên các sợi trục khổng lồ của chi mực ống Loligo. Những sợi trục này có đường kính rất lớn (xấp xỉ 1 mm, hay nói cách khác là gấp 100 lần kích thước một nơron điển hình) khiến cho chúng có thể nhìn thấy được bằng mắt thường, và như vậy dễ dàng trong việc trích xuất và thao tác trên mô thần kinh. Tuy nhiên, sợi trục chi Loligo không thể đại diện cho tất cả các tế bào kích thích, và có nhiều hệ thống khác vận hành cơ chế điện thế hoạt động cũng đã được nghiên cứu và làm rõ.
+Vấn đề thứ hai là tập trung vào sự phát triển chủ yếu của kẹp điện thế (voltage clamp), công cụ này cho phép các nhà thí nghiệm thực hiện nghiên cứu hiện tượng điện thế hoạt động gây ra bởi dòng chảy hạt mang điện trong điều kiện nhân tạo, và đã được loại bỏ đáng kể các tín hiệu nhiễu, dòng ion cũng chính là dòng điện IC  quan hệ mật thiết với điện dung màng tế bào C. Bởi vì cường độ dòng ion bằng C nhân với đại lượng đặc trưng cho sự thay đổi điện thế màng Vm, dung dịch điện ly cần phải thiết kế sao cho mạch điện có giá trị Vm  cố định (tốc độ thay đổi bằng không) bất luận rằng là có dòng chảy ion xuyên màng. Vì lẽ đó, dòng chảy ion cần thiết để duy trì giá trị điện thế màng Vm  ở một giá trị ổn định phản ánh trực tiếp dòng chảy ion xuyên màng. Các kỹ thuật ngành điện tử tiên tiến khác bao gồm có lồng Faraday (thiết bị chắn Faraday) và những phương tiện điện tử khác với trở kháng đầu vào cao, như thế giúp cho các phương pháp đo lường không ảnh hưởng đến giá trị điện thế của sinh vật và ghi lại một cách chính xác nhất.
+
+Vấn đề thứ ba đó chính là các điện cực gắn lên trên màng sợi trục ghi lại giá trị điện thế màng phải có kích thước đủ nhỏ để không làm nhiễu đến giá trị (và cả không làm màng tế bào bị tổn thương), khó khăn này đã được tháo gỡ vào năm 1949 khi phát minh ra kỹ thuật vi điện cực nội bào (glass micropipette electrode) với ống mao quản làm bằng thủy tinh, sau đó đã được thông qua và ứng dụng rộng rãi bởi nhiều nhà khoa học.. Phương pháp này đã được phát triển tinh vi đến mức có thể sản xuất ra điện cực với đỉnh của nó nhỏ cỡ khoảng 100 Å (10 nm), cũng như là có trở kháng đầu vào cao. Điện thế hoạt động cũng có thể ghi được với điện cực nhỏ bằng kim loại đặt nhẹ vào tế bào nơron, với bộ vi xử lý (neurochip) có chứa EOSFET có thể tương tác và phát hiện các hoạt động thần kinh, hay là trên phương diện quang học dùng phân tử nhuộm merocyanine 540 nhạy cảm với sự thay đổi về nồng độ Ca2+ hay điện thế.
+Trong khi kỹ thuật vi điện cực nội bào đã giúp đo lường được tổng lượng ion vượt màng thông qua nhiều kênh ion, thì việc nghiên cứu nền tảng điện hóa của duy chỉ một kênh ion đã trở thành thực thi vào năm 1970 với sự phát triển của kỹ thuật kẹp dính mảnh màng (patch clamp), đảm nhiệm bởi Erwin Neher và Bert Sakmann. Vào năm 1991, họ đã nhận được giải Nobel Sinh lý học và Y học nhờ thành tựu này. Thông qua kỹ thuật kẹp dính mảnh màng này, xác nhận rằng các kênh ion có những trạng thái thấm khác nhau, chẳng hạn như là mở, đóng và bất hoạt.
+
+
+== Chất độc thần kinh ==
+
+Nhiều chất độc thần kinh, cả dạng tự nhiên hay tổng hợp, đều có cấu tạo chuyên biệt nhằm chặn đứng lại chu kỳ của điện thế hoạt động. Độc tố tetrodotoxin của họ cá nóc và saxitoxin của tảo Gonyaulax (thuộc chi dinoflagellate và là nhóm sinh vật nổi tiếng gây ra hiện tượng "thủy triều đỏ") sẽ ngăn chặn sự hình thành của điện thế hoạt động bằng cách ức chế kênh natri nhạy cảm với điện thế; tương tự như vậy, độc tố dendrotoxin của loài rắn mamba đen kìm hãm sự hoạt động của kênh kali nhạy cảm với điện thế. Những hóa chất ức chế như thế tác động lên các kênh ion cũng đồng thời phục vụ cho nhiều mục đích nghiên cứu quan trọng, qua đó cho phép các nhà khoa học có thể "dập tắt" những kênh cụ thể tùy ý muốn, vì vậy cô lập được những kênh ion mà chức năng của nó chưa nắm rõ; ngoài ra chúng cũng có thể hữu ích trong việc "thuần khiết" các kênh ion bằng sắc ký ái lực hoặc là trong phân tích nồng độ (các kênh ion). Tuy nhưng, các chất ức chế cũng có thể được chế tạo ra thành những hoạt chất với độc tính cực mạnh hơn nhiều, và có khuynh hướng tận dụng được thành các vũ khí hóa học. Các độc tố thần kinh nhằm mục đích tấn công lên các kênh ion của màng thần kinh loài côn trùng đã được cho là chất trừ sâu có hiệu quả; một ví dụ ở đây là hoạt chất tổng hợp permethrin, với cơ chế kéo dài sự hoạt hóa của kênh natri trong điện thế hoạt động. Những kênh ion trên hệ thần kinh các loài côn trùng khác với kênh ion ở người, trong đó các tác nhân thần kinh chỉ có gây ra một vài tác dụng phụ đối với người (với đương lượng vừa phải, liều cực cao có thể gây ra độc tính gen, trấn áp và phá hủy miễn dịch, hay phát sinh thêm các oncogen) nhưng đối với côn trùng chúng làm tê liệt hệ thống thần kinh. Nhiều loại chất độc thần kinh khác can thiệp vào tác động phóng thích các hóa chất thần kinh của điện thế hoạt động, cụ thể quá trình này diễn ra ngay tại các khớp nối thần kinh cơ.
+
+
+== Lịch sử khám phá hiện tượng điện sinh vật ==
+
+Vai trò điện sinh học của hệ thống thần kinh trên các đối tượng thí nghiệm động vật lần đầu tiên đã được quan sát thấy ở con ếch bởi Luigi Galvani, người đã tiến hành cuộc nghiên cứu về các thuộc tính điện của thần kinh từ năm 1791 đến năm 1797. Các giá trị và thành quả thu được từ Galvani đã kích thích Alessandro Volta phát triển ra pin Volta—cũng được xem là loại pin điện đầu tiên trong lịch sử—tạo điều kiện thuận lợi để ông  nghiên cứu hiện tượng điện sinh vật (chẳng hạn khả năng phóng ra điện rất mạnh khoảng 600 V của loài cá chình điện) và các đáp ứng sinh lý quan sát được khi dẫn điện áp một chiều qua cơ thể sinh vật.
+Vào thế kỷ thứ 19, các nhà khoa học đã nghiên cứu sự truyền động của các tín hiệu điện trong toàn bộ dải thần kinh (tức là, các bó mạch thần kinh) và chứng minh rằng mô thần kinh được làm từ các tế bào, thay vì đó là mạng lưới ống thần kinh kết nối với nhau (reticulum). Carlo Matteucci đã theo dõi những nghiên cứu của Galvani và chứng minh màng tế bào tồn tại một điện thế xuyên màng và có thể sản sinh ra dòng điện một chiều. Tiếp đó, công trình của Matteucci cũng truyền cảm hứng cho nhà sinh lý học người Đức, Emil du Bois-Reymond, và cũng là người khám phá ra điện thế hoạt động vào năm 1843. Vận tốc dẫn truyền của điện thế hoạt động lần đầu tiên được đo lường vào năm 1850 bởi Hermann von Helmholtz, ông là bạn của Bois-Reymond. Để chứng minh mô thần kinh được cấu tạo từ những tế bào rời rạc, vị bác sĩ người Tây Ban Nha Santiago Ramón y Cajal và học trò của ông đã sử dụng kỹ thuật nhuộm mô do Camillo Golgi phát triển để mô tả lại vô số hình dạng khác nhau của những tế bào nơron, họ đã làm công việc này rất chăm chỉ. Nhờ vào những cống hiến của họ, năm 1906 cả Golgi và Ramón y Cajal đều được nhận giải thưởng Nobel Sinh lý học và Y học. Công trình của họ đã giải quyết được những cuộc tranh cãi lâu dài về khía cạnh giải phẫu thần kinh vào thế kỷ thứ 19; trong đó Golgi vẫn còn tranh luận mô hình mạng lưới hệ thống thần kinh.
+
+Thế kỷ thứ 20 chính là thời đại hoàng kim của lĩnh vực điện sinh lý học. Năm 1902 và năm 1912, Julius Bernstein đã đưa ra giả thuyết rằng điện thế hoạt động là kết quả của sự thay đổi về tính thấm của màng sợi trục đối với các hạt mang điện. Sau đó thì, giả thuyết của Bernstein cũng đã được xác nhận bởi Ken Cole and Howard Curtis, những người này thực nghiệm và thấy rằng tính thấm của màng tế bào tăng lên trong sự kiện điện thế hoạt động. Năm 1949, Alan Hodgkin và Bernard Katz hoàn thiện hơn nữa cho giả thuyết mà Bernstein đưa ra, đó là tính thấm màng sợi trục có thể khác nhau đối với từng loại ion nhất định; đi sâu vào chi tiết, họ đã chứng minh rằng tính thấm của ion natri đối với điện thế hoạt động là cực kỳ quan trọng. Tiến độ nghiên cứu này đạt cực điểm vào năm 1952, với sự ra đời của năm bài viết khoa học của Hodgkin, Katz và Andrew Huxley, trong đó họ thực hiện kỹ thuật kẹp điện thế để xác định sự phụ thuộc của tính thấm màng sợi trục đối với các ion natri và kali vào điện thế và thời gian, từ đó họ có khả năng tái xây dựng điện thế hoạt động thông qua mô hình định lượng. Mô hình toán học mà Hodgkin và Huxley đã đưa ra cũng có tương quan với các kênh ion khác nhau và với các trạng thái khác nhau, bao gồm có "mở", "đóng", và "bất hoạt". Giả thuyết của họ được Erwin Neher và Bert Sakmann xác nhận trong khoảng giữa những năm 1970 và những năm 1980, là những người phát triển kỹ thuật kẹp dính mảnh màng để phát hiện ra sự thay đổi về trạng thái thấm của từng loại kênh ion riêng biệt. Trong thế kỷ thứ 21, các nhà nghiên cứu dần bắt đầu hiểu rõ cấu trúc nền tảng của những trạng thái thấm và cả tính chọn lọc của kênh cho một số ion đi qua, thông qua cấu trúc tinh thể với độ phân giải nguyên tử, phương pháp đo lường khoảng cách huỳnh quang và phương pháp đông lạnh mẫu thử dùng trong kính hiển vi điện tử (cryo-electron microscopy).
+Julius Bernstein cũng là người đầu tiên đưa ra phương trình Nernst cho điện thế nghỉ xuyên màng; David E. Goldman đã nghiên cứu kỹ hơn về phương trình và tổng quát hóa nó dẫn đến sự thiết lập của phương trình mới mang tên ông vào năm 1943, đó là phương trình Goldman. Năm 1957, bơm Na⁺/K⁺-ATPase được nhận diện và cơ chế, các chức năng sinh học của nó cũng dần được làm rõ, hình thể kết cấu được xác định một cách rất chính xác qua công nghệ tinh thể học tia X hiển thị cấu trúc với độ phân giải của nguyên tử. Các bơm ion liên quan cũng đã được khám phá về cấu trúc tinh thể, cho ra cái nhìn toàn diện hơn đối với cách thức những bộ máy phân tử này làm việc như thế nào.
+
+
+== Mô hình định lượng ==
+
+Các mô hình toán học và khoa học máy tính được xem là cần thiết để hiểu quá trình điện thế hoạt động, và đưa ra được dự đoán dựa vào giá trị hay dữ liệu thực nghiệm, cung cấp độ chính xác cho cuộc khảo nghiệm đối chiếu với lý thuyết. Trong những mô hình như thế, có mô hình Hodgkin–Huxley là quan trọng nhất và cũng chính xác nhất, trong đó điện thế hoạt động được mô tả lại bằng bốn phương trình vi phân thông thường (ODEs). Dù rằng mô hình Hodgkin–Huxley có thể đơn giản hóa so với màng tế bào thần kinh thực sự, cái phức tạp của nó đã khiến cho nhiều mô hình thậm chí đơn giản hơn nhiều ra đời, chẳng hạn như là mô hình Morris–Lecar và mô hình FitzHugh–Nagumo, cả hai mô hình đều chỉ có hai phương trình vi phân thường. Các tính chất của mô hình Hodgkin–Huxley và FitzHugh–Nagumo, và mô hình liên quan Bonhoeffer–van der Pol, đã được nghiên cứu rất chi tiết trong phạm vi toán học, máy tính và công nghệ điện tử. Nhiều nghiên cứu hiện đại tập trung rất nhiều vào hệ thống tích hợp; bằng việc kết hợp các mô hình điện thế hoạt động với những mô hình khác của hệ thần kinh (chẳng hạn như sợi nhánh và synap), qua đó các nhà nghiên cứu có thể khảo sát sự tính toán và cách thức xử lý của mạng lưới thần kinh (xây dựng các thuật toán nhân tạo phù hợp cho các ứng dụng khác) và các phản xạ đơn giản, ví dụ như phản xạ thoát, và tập hợp hành vi chịu sự kiểm soát của mạch phát sinh điều hòa vận động trung ương.
+
+
+== Xem thêm ==
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+=== Chú thích ===
+
+
+=== Bài báo khoa học ===
+
+
+=== Sách ===
+
+
+=== Trang web ===
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+Ionic flow in action potentials at Blackwell Publishing
+Action potential propagation in myelinated and unmyelinated axons at Blackwell Publishing
+Generation of AP in cardiac cells and generation of AP in neuron cells
+Resting membrane potential from Life: The Science of Biology, by WK Purves, D Sadava, GH Orians, and HC Heller, 8th edition, New York: WH Freeman, ISBN 978-0-7167-7671-0.
+Ionic motion and the Goldman voltage for arbitrary ionic concentrations at The University of Arizona
+A cartoon illustrating the action potential
+Action potential propagation
+Production of the action potential: voltage and current clamping simulations
+Open-source software to simulate neuronal and cardiac action potentials at SourceForge.net
+Introduction to the Action Potential, Neuroscience Online (electronic neuroscience textbook by UT Houston Medical School)
+Khan Academy: Electrotonic and action potential Lưu trữ 2014-07-02 tại Wayback Machine

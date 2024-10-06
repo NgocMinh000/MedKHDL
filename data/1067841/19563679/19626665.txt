@@ -1,0 +1,15 @@
+Covaxin (tên mã là BBV152) là một loại vắc xin COVID-19 dựa trên virus bất hoạt được Bharat Biotech phối hợp với Hội đồng Nghiên cứu Y khoa Ấn Độ phát triển.
+
+
+== Hiệu quả ==
+Vào tháng 7 năm 2021, Bharat Biotech báo cáo vắc xin có hiệu quả 64% đối với các trường hợp không có triệu chứng, 78% hiệu quả đối với các trường hợp có triệu chứng, 93% hiệu quả chống lại nhiễm COVID-19 nghiêm trọng, và 65% hiệu quả đối với biến thể Delta.
+
+
+== Chế tạo ==
+Là một vắc xin bất hoạt, Covaxin sử dụng một công nghệ truyền thống hơn tương tự như vắc xin bại liệt bất hoạt. Ban đầu, một mẫu SARS-CoV-2 được Viện Vi rút học Quốc gia Ấn Độ phân lập và được sử dụng để nuôi lượng lớn virus bằng cách sử dụng tế bào vero. Từ đó trở đi, virus được ngâm trong beta-propiolactone, chất này sẽ vô hiệu hóa chúng bằng cách liên kết với gen của chúng, trong khi vẫn giữ nguyên các phần tử virus khác. Sau đó, các virut bị bất hoạt được trộn với tá dược gốc nhôm Alhydroxiquim-II.
+Ứng cử viên vắc xin này được sản xuất bằng nền tảng sản xuất tế bào vero có khả năng cung cấp khoảng 300 triệu liều. Công ty đang trong quá trình thiết lập một nhà máy thứ hai tại cơ sở Genome Valley ở Hyderabad để sản xuất Covaxin. Công ty phối hợp với Chính quyền Odisha đang thành lập một cơ sở khác tại Công viên Công nghệ Sinh học Odisha ở Bhubaneswar để bắt đầu sản xuất Covaxin vào tháng 6 năm 2022. Bên cạnh đó, họ cũng đang khám phá liên kết toàn cầu để sản xuất Covaxin.
+Vào tháng 12 năm 2020, Ocugen đã hợp tác với Bharat Biotech để đồng phát triển và thương mại hóa độc quyền Covaxin tại thị trường Hoa Kỳ; vào tháng 6 năm 2021, quan hệ đối tác này đã được mở rộng sang Canada. Vào tháng 1 năm 2021, Precisa Med đã ký một thỏa thuận với Bharat Biotech để cung cấp Covaxin cho Brazil.
+Vào tháng 5 năm 2021, Haffkine Bio-Pharmaceutical Corporation Limited thuộc Viện Haffkine đã ký kết biên bản ghi nhớ (MoU) với Bharat Biotech và thông báo rằng việc sản xuất Covaxin của họ sẽ bắt đầu sau khi nhận được sự hỗ trợ từ chính quyền bang Maharashtra và sự chấp thuận của chính phủ Ấn Độ trong khi Indian Immunologicals Limited (IIL) đã ký một thỏa thuận thương mại với Bharat Biotech để sản xuất dược chất của vắc xin. Bharat Immunologicals and Biologicals Corporation (BIBCOL) cũng sẽ sản xuất vắc xin này.
+
+
+== Tham khảo ==

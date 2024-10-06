@@ -1,0 +1,27 @@
+Điện sinh lý/Sinh lý điện (tiếng Anh: Electrophysiology - từ tiếng Hy Lạp ἥλεκτρον, ēlektron, "hổ phách" [xem từ nguyên của "electron" ]; φύσις, Physis, "bản chất, nguồn gốc"; và -λογία, -logia) là nhánh của sinh lý học nghiên cứu các tính chất điện của tế bào và mô sinh học.  Nó bao gồm các phép đo thay đổi điện áp hoặc dòng điện hoặc thao tác trên nhiều loại thang đo từ các protein kênh ion đơn lẻ đến toàn bộ các cơ quan như tim.  Trong khoa học thần kinh, nó bao gồm các phép đo hoạt động điện của tế bào thần kinh và đặc biệt là hoạt động tiềm năng hành động.  Ghi lại các tín hiệu điện quy mô lớn từ hệ thống thần kinh, chẳng hạn như điện não đồ, cũng có thể được gọi là bản ghi điện sinh lý.  Chúng rất hữu ích cho chẩn đoán điện và theo dõi y tế. 
+
+
+== Định nghĩa và phạm vi ==
+
+
+=== Kỹ thuật điện sinh lý cổ điển ===
+
+
+==== Nguyên tắc và cơ chế ====
+Điện sinh lý học là một nhánh của sinh lý học liên quan đến dòng ion (dòng ion) trong các mô sinh học và đặc biệt là các kỹ thuật ghi điện cho phép đo dòng chảy này.  Kỹ thuật điện sinh lý cổ điển liên quan đến việc đặt các điện cực vào các chế phẩm khác nhau của mô sinh học.  Các loại điện cực chính là:
+
+dây dẫn rắn đơn giản, chẳng hạn như đĩa và kim (đĩa đơn hoặc mảng, thường được cách điện ngoại trừ đầu mút),
+dấu vết trên bảng mạch in hoặc polyme linh hoạt, cũng được cách điện ngoại trừ đầu mút và
+ống rỗng chứa đầy chất điện phân, chẳng hạn như pipet thủy tinh chứa đầy dung dịch kali chloride hoặc dung dịch điện phân khác.
+Các chế phẩm chính bao gồm:
+
+các sinh vật sống,
+mô bị cắt bỏ (cấp tính hoặc nuôi cấy),
+các tế bào phân tách từ mô bị cắt bỏ (cấp tính hoặc nuôi cấy),
+tế bào nhân tạo hoặc mô, hoặc
+lai tạo các yếu tố ở trên.
+Nếu một điện cực có đường kính đủ nhỏ (micromet), thì nhà điện sinh lý học có thể chọn chèn đầu mút vào một tế bào.  Cấu hình như vậy cho phép quan sát và ghi lại trực tiếp hoạt động điện nội bào của một tế bào.  Tuy nhiên, thiết lập xâm lấn này làm giảm tuổi thọ của tế bào và gây rò rỉ các chất trên màng tế bào.  Hoạt động nội bào cũng có thể được quan sát bằng cách sử dụng pipet thủy tinh được tạo hình đặc biệt (rỗng) có chứa chất điện phân.  Trong kỹ thuật này, đầu pipet siêu nhỏ được ép vào màng tế bào, mà nó tuân thủ chặt chẽ bởi sự tương tác giữa thủy tinh và lipid của màng tế bào.  Chất điện phân trong pipet có thể được đưa vào liên tục chất lỏng với tế bào chất bằng cách cung cấp một xung áp suất âm cho pipet để phá vỡ các mảng nhỏ của màng được bao quanh bởi vành pipet (ghi toàn bộ tế bào).  Ngoài ra, tính liên tục của ion có thể được thiết lập bằng cách "đục lỗ" miếng vá bằng cách cho phép chất tạo lỗ chân lông ngoại sinh trong chất điện phân tự chèn vào miếng vá màng (ghi bản vá đục lỗ).  Cuối cùng, miếng vá có thể được giữ nguyên (ghi bản vá).
+Các nhà nghiên cứu điện sinh lý có thể chọn không chèn đầu mút vào một tế bào.  Thay vào đó, đầu điện cực có thể được để lại liền liên tục với không gian ngoại bào.  Nếu đầu mút đủ nhỏ, cấu hình như vậy có thể cho phép quan sát và ghi lại các tiềm năng hành động gián tiếp từ một ô duy nhất, được gọi là ghi đơn vị.  Tùy thuộc vào sự chuẩn bị và vị trí chính xác, một cấu hình ngoại bào có thể nhận hoạt động của một số tế bào gần đó đồng thời, được gọi là ghi nhiều đơn vị.
+
+
+== Tham khảo ==

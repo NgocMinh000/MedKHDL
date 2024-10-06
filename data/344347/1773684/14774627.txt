@@ -1,0 +1,23 @@
+Vi khuẩn gây bệnh là vi khuẩn có thể gây ra bệnh.  Bài viết này đề cập đến vi khuẩn gây bệnh ở người.  Mặc dù hầu hết các vi khuẩn là vô hại hoặc thường có lợi, một số là gây bệnh, với số lượng loài được ước tính ít hơn một trăm được coi là gây ra bệnh truyền nhiễm ở người.  Ngược lại, vài ngàn loài tồn tại trong hệ thống tiêu hóa của con người.
+Một trong những bệnh do vi khuẩn có gánh nặng bệnh tật cao nhất là bệnh lao, do vi khuẩn Mycobacterium tuberculosis gây ra, giết chết khoảng 2 triệu người mỗi năm, chủ yếu ở châu Phi cận Sahara.  Vi khuẩn gây bệnh đóng góp vào các bệnh quan trọng khác trên toàn cầu, như viêm phổi, có thể do vi khuẩn như Streptococcus và Pseudomonas, và các bệnh truyền qua thực phẩm, có thể do vi khuẩn như Shigella, Campylobacter và Salmonella gây ra.  Vi khuẩn gây bệnh cũng gây ra các bệnh nhiễm trùng như uốn ván, sốt thương hàn, bạch hầu, giang mai và bệnh phong.  Vi khuẩn gây bệnh cũng là nguyên nhân gây ra tỷ lệ tử vong ở trẻ sơ sinh cao ở các nước đang phát triển.
+Các định đề của Koch là tiêu chuẩn để thiết lập mối quan hệ nhân quả giữa vi khuẩn và bệnh.
+
+
+== Bệnh tật ==
+Mỗi loài có tác dụng cụ thể và gây ra các triệu chứng ở những người bị nhiễm bệnh.  Một số, nếu không phải hầu hết những người bị nhiễm vi khuẩn gây bệnh không có triệu chứng.  Những người bị suy giảm miễn dịch dễ bị vi khuẩn gây bệnh  tấn công hơn.
+
+
+=== Nhạy cảm với mầm bệnh ===
+Một số vi khuẩn gây bệnh gây bệnh trong một số điều kiện nhất định, chẳng hạn như xâm nhập qua da qua vết cắt, thông qua hoạt động tình dục hoặc thông qua chức năng miễn dịch bị tổn thương. 
+
+Streptococcus và Staphylococcus là một phần của microbiota da bình thường và thường cư trú trên da khỏe mạnh hoặc trong khu vực mũi họng.  Tuy nhiên, những loài này có khả năng bắt đầu nhiễm trùng da.  Chúng cũng có thể gây nhiễm trùng huyết, viêm phổi hoặc viêm màng não.  Những nhiễm trùng này có thể trở nên khá nghiêm trọng tạo ra một phản ứng viêm toàn thân dẫn đến giãn mạch, sốc và tử vong lớn.
+Các vi khuẩn khác là mầm bệnh cơ hội và gây bệnh chủ yếu ở những người bị ức chế miễn dịch hoặc xơ nang.  Ví dụ về các mầm bệnh cơ hội này bao gồm Pseudomonas aeruginosa, Burkholderia cenocepacia và Mycobacterium avium.
+
+
+=== Nội bào ===
+Ký sinh nội bào bắt buộc (ví dụ  Chlamydophila, Ehrlichia, Rickettsia) có khả năng chỉ phát triển và tái tạo bên trong các tế bào khác.  Ngay cả những bệnh nhiễm trùng nội bào này có thể không có triệu chứng, cần phải có thời gian ủ bệnh.  Một ví dụ về điều này là Rickettsia gây ra bệnh sốt phát ban.  Một nguyên nhân khác gây ra sốt Rocky Mountain.
+Chlamydia là một loại ký sinh trùng nội bào.  Những mầm bệnh này có thể gây viêm phổi hoặc nhiễm trùng đường tiết niệu và có thể liên quan đến bệnh động mạch vành.
+Các nhóm mầm bệnh vi khuẩn nội bào khác bao gồm Salmonella, Neisseria, Brucella, Mycobacterium, Nocardia, Listeria, Francisella, Legionella và Yersinia pestis.  Chúng có thể tồn tại nội bào, nhưng có thể tồn tại bên ngoài tế bào chủ.
+
+
+== Tham khảo ==

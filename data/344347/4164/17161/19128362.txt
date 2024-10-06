@@ -1,0 +1,17 @@
+Virus DNA là một loại virus có DNA là vật liệu di truyền và sao chép bằng cách sử dụng DNA polymerase phụ thuộc DNA. Axit nucleic thường là DNA sợi kép (dsDNA) nhưng cũng có thể là DNA sợi đơn (ssDNA). Virus DNA thuộc nhóm I hoặc nhóm II của hệ thống phân loại Baltimore về virus. DNA sợi đơn thường được mở rộng thành chuỗi kép trong các tế bào bị nhiễm bệnh. Mặc dù các virus thuộc nhóm VII như viêm gan B có chứa bộ gen DNA, chúng không được coi là virus DNA theo phân loại của Baltimore mà thay vào đó là các retrovirus vì chúng sao chép qua một trung gian RNA. Các bệnh đáng chú ý như đậu mùa, herpes và thủy đậu là do các virus DNA này gây ra.
+
+
+== Nhóm I: virut dsDNA ==
+
+Tổ chức bộ gen trong nhóm này thay đổi đáng kể. Một số có bộ gen hình tròn (Baculoviridae, Papovaviridae và Polydnaviridae) trong khi những virus khác có bộ gen tuyến tính (Adenoviridae, Herpesviridae và một số phage). Một số gia đình có bộ gen tuyến tính hoán vị vòng tròn (phage T4 và một số Iridoviridae). Những người khác có bộ gen tuyến tính với kết thúc cộng hóa trị (Poxviridae và Phycodnaviridae).
+Một vi rút lây nhiễm vi khuẩn cổ đã được mô tả lần đầu tiên vào năm 1974. Một số khác đã được mô tả từ: hầu hết có hình thái đầu đuôi và bộ gen DNA sợi đôi tuyến tính. Các hình thái khác cũng đã được mô tả: hình trục chính, hình que, hình sợi, hình chữ nhật và hình cầu. Các loại hình thái bổ sung cũng có thể tồn tại.
+Các bộ trong nhóm virus này được xác định dựa trên hình thái thay vì tương tự trình tự DNA. Người ta cho rằng hình thái học được bảo tồn nhiều hơn trong nhóm này hơn là sự tương tự về trình tự hoặc thứ tự gen cực kỳ thay đổi. Ba bộ và 31 họ virus hiện đã được công nhận. Bộ thứ tư, Megavirales, đối với các virus DNA lớn nucleocytoplasmic đã được đề xuất. Đề xuất này vẫn chưa được ICTV phê chuẩn. Bốn chi được công nhận mà chưa được phân loại vào họ nào.
+Mười lăm họ virus được màng bao bọc. Chúng bao gồm cả ba họ trong bộ Herpesvirales và các họ sau: Ascoviridae, Ampullaviridae, Asfarviridae, Baculoviridae, Fuselloviridae, Globuloviridae, Guttaviridae, Hytrosaviridae, Iridoviridae, Lipothrixviridae, Nimaviridae và Poxviridae.
+Thể thực khuẩn (virus lây nhiễm cho vi khuẩn) thuộc họ Tectiviridae và Corticoviridae có màng hai lớp lipid bên trong capsid protein có 20 mặt và màng bao quanh bộ gen. Virus crenarchaeal Sulfolobus turreted icosahedral virus có cấu trúc tương tự.
+Bộ gen trong nhóm này thay đổi đáng kể từ ~10 kilobase đến hơn 2,5 megabase độ dài. Loại vi khuẩn lớn nhất được biết đến là Klebsiella Phage BB_KleM-RaK2 có bộ gen 346 kilobase.
+Các thể virus khuẩn là một nhóm virus lây nhiễm các virus khác.
+Một loại virus với một phương pháp mới trong việc đóng gói bộ gen của các loài thuộc chi Sulfolobus đã được mô tả lại. Vì loại virus này không giống với bất kỳ loại virus đã biết nào, nó đã được phân loại thành một họ mới, họ Portogloboviridae.
+Một loại virut gây nhiễm Sulfolobus khác là virut Sulfolobus ellipsoid 1 đã được mô tả. Virus bao bọc này có một capsid độc đáo và có thể được phân loại thành một phân loại mới.
+
+
+== Tham khảo ==

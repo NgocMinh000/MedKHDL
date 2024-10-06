@@ -1,0 +1,188 @@
+Phiên bản năm 2010 có thể xem trực tuyến qua liên kết này: http://www.who.int/classifications/apps/icd/icd10online/
+
+
+== Rối loạn tâm thần và hành vi (F00-F99) ==
+
+
+=== Rối loạn tâm thần thực thể bao gồm rối loạn tâm thần triệu chứng (F00-F09) ===
+(F00) Sa sút tâm thần trong bệnh Alzheimer
+(F01) Sa sút tâm thần trong bệnh mạch máu
+(F02) Sa sút tâm thần trong các bệnh khác đã được phân loại ở phần khác
+(F02.0) Sa sút tâm thần trong bệnh Pick
+(F02.1) Sa sút tâm thần trong bệnh Creutzfeldt-Jakob
+(F02.2)Sa sút tâm thần trong bệnh Huntington
+(F02.3) Sa sút tâm thần trong bệnh Parkinson
+(F02.4) Sa sút tâm thần liên quan đến HIV
+(F03) Sa sút tâm thần không xác định
+(F04) Hội chứng quên thực thể không do rượu và chất tác động tâm thần khác
+(F05) Sảng không do rượu và chất tác động tâm thần khác
+(F06) Rối loạn tâm thần khác do tổn thương và rối loạn chức nǎng não và do bệnh cơ thể
+(F07) Rối loạn nhân cách và hành vi do bệnh não, tổn thương và rối loạn chức nǎng não
+(F09)Rối loạn tâm thần thực thể hoặc triệu chứng không xác định
+
+
+=== Rối loạn tâm thần và hành vi do sử dụng các chất tác động tâm thần(F10-F19) ===
+(F10) Rối loạn tâm thần và hành vi do sử dụng rượu
+(F11) Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện
+(F12) Rối loạn tâm thần và hành vi do sử dụng các dạng cần sa
+(F13)Rối loạn tâm thần và hành vi do sử dụng các thuốc an thần hoặc thuốc ngủ
+(F14) Rối loạn tâm thần và hành vi do sử dụng cocaine
+(F15)Rối loạn tâm thần và hành vi do sử dụng các chất kích thích khác, bao gồm cả caffein
+(F16) Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác
+(F17) Rối loạn tâm thần và hành vi do sử dụng thuốc lá
+(F18) Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi
+(F19) Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và các chất tác động tâm thần
+
+
+=== Tâm thần phân liệt, rối loạn dạng phân liệt và rối loạn hoang tưởng (F20-F29) ===
+(F20) Tâm thần phân liệt
+(F21) Rối loạn kiểu phân liệt
+(F22)Rối loạn hoang tưởng trường diễn
+(F23)Rối loạn loạn thần cấp tính và thoáng qua
+(F24) Rối loạn hoang tưởng cảm ứng
+(F25) Rối loạn phân liệt cảm xúc
+(F28) Rối loạn tâm thần không do nguyên nhân thực thể khác
+(F29)Loạn thần kinh không do nguyên nhân thực thể, không xác định
+
+
+=== Rối loạn khí sắc (cảm xúc) (F30-F39) ===
+(F30) Giai đoạn hưng cảm
+(F31) Rối loạn cảm xúc lưỡng cực
+(F32) Giai đoạn trầm cảm
+(F33) Rối loạn trầm cảm tái phát
+(F34) Rối loạn khí sắc (cảm xúc) trường diễn
+(F38) Rối loạn khí sắc (cảm xúc) khác
+(F39) Rối loạn khí sắc (cảm xúc) không xác định
+
+
+=== Loạn thần kinh, rối loạn liên quan đến stress và rối loạn dạng cơ thể (F40-F48) ===
+(F40)  Rối loạn lo âu ám ảnh sợ hãi
+(F40.0) Sợ khoảng trống
+(F40.1) Ám ảnh sợ xã hội
+(F41)  Rối loạn lo âu khác
+(F41.0) Rối loạn hoảng sợ
+(F41.1) Rối loạn lo âu lan tỏa
+(F42)  Rối loạn ám ảnh cưỡng chế
+F43 Phản ứng với stress trầm trọng và rối loạn thích ứng
+(F43) Phản ứng với stress trầm trọng và rối loạn thích ứng
+(F43.0) Phản ứng stress cấp tính
+(F43.1) Rối loạn stress sau sang chấn
+(F43.2) Rối loạn thích ứng
+(F44)  Rối loạn phân ly (chuyển đổi)
+(F45) Rối loạn dạng cơ thể
+(F48)  Rối loạn loạn thần kinh khác
+
+
+=== Hội chứng hành vi kết hợp với rối loạn sinh lý và yếu tố thể chất (F50-F59) ===
+(F50) Rối loạn ăn uống
+(F50.0) Chán ăn tâm thần
+(F50.1) Chán ăn tâm thần không điển hình
+(F50.2 Ăn ói
+(F51) Rối loạn giấc ngủ không do nguyên nhân thực thể
+(F51.0) Mất ngủ
+(F51.1) Ngủ lịm
+(F51.2) Nonorganic disorder of the sleep-wake schedule
+(F51.3) Mộng du (Sleepwalking)
+(F51.4) Cơn sợ hãi ban đêm (Sleep terrors)
+(F51.5) Ác mộng
+(F52)Rối loạn chức nǎng tình dục không do rối loạn hay bệnh thực thể
+(F53)Rối loạn hành vi và tâm thần kết hợp hậu sản, chưa được phân loại ở nơi khác
+(F53.0Trầm cảm sau sinh
+(F54)Yếu tố hành vi và tâm lý kết hợp với rối loạn hoặc các bệnh đã được phân loại ở các phần khác
+(F55) Lạm dụng chất không gây nghiện
+(F59) Hội chứng hành vi ứng xử không xác định kết hợp với rối loạn sinh lý và yếu tố thể chất
+
+
+=== Rối loạn nhân cách và hành vi ở người trưởng thành (F60-F69) ===
+(F60.f) Rối loạn nhân cách
+(F60.0) Rối loạn nhân cách hoang tưởng
+(F60.1) Rối loạn nhân cách phân liệt
+(F60.2) Dissocial personality disorder
+Rối loạn nhân cách chống xã hội
+(F60.3) Rối loạn nhân cách cảm xúc không ổn định
+Rối loạn nhân cách ranh giới
+(F60.4) Rối loạn nhân cách kịch tính
+(F60.5) Anankastic personality disorder
+Rối loạn nhân cách ám ảnh cưỡng chế
+(F60.6) Rối loạn nhân cách tránh né
+(F60.7) Rối loạn nhân cách phụ thuộc
+(F60.8) Các dạng rối loạn nhân cách đặc biệt khác
+Eccentric personality disorder
+"Haltlose" type personality disorder
+Immature personality disorder
+Rối loạn nhân cách ái kỷ
+Passive-aggressive personality disorder
+Psychoneurotic personality disorder
+(F60.9) Personality disorder, unspecified
+(F61) Rối loạn nhân cách khác và hỗn hợp
+(F62) Thay đổi nhân cách kéo dài, không do tổn thương hay bệnh não
+(F63) Rối loạn thói quen và xung động
+(F63.0)Cờ bạc bệnh lý
+(F63.1) Chứng cuồng phóng hoả (chứng gây ra một sự ham muốn phóng hoả không thể kiềm chế nổi)
+(F63.2) Chứng ăn cắp vặt
+(F63.3) Chứng giật râu tóc
+(F64) Rối loạn xác định giới tính
+(F65) Rối loạn trong sở thích tình dục
+(F65.0) Ái vật
+(F65.1) Luyến ái giả trang (Fetishistic transvestism-cảm thấy hài lòng về tình dục khi mặc quần áo của những người khác giới)
+(F65.2) Phô dâm
+(F65.3) Thị dâm
+(F65.4) Ái nhi
+(F65.5) Khổ dâm
+(F65.6) Multiple disorders of sexual preference
+(F65.8) Other disorders of sexual preference
+(F65) Rối loạn với hành vi tâm lý và kết hợp với sự phát triển và định hướng tình dục
+(F68) Rối loạn khác về hành vi và nhân cách ở người trưởng thành
+(F69) Rối loạn không xác định về hành vi và nhân cách ở người trưởng thành
+
+
+=== Chậm phát triển tâm thần (F70-F79) ===
+(F70)Chậm phát triển tâm thần nhẹ
+(F71)Chậm phát triển tâm thần trung bình
+(F72) Chậm phát triển tâm thần nặng
+(F73)Chậm phát triển tâm thần nghiêm trọng
+(F78) Chậm phát triển tâm thần khác
+(F79) Chậm phát triển tâm thần không xác định
+
+
+=== Rối loạn phát triển tâm lý (F80-F89) ===
+(F80)  Rối loạn đặc hiệu về phát triển lời nói và ngôn ngữ
+(F81) Rối loạn đặc hiệu về phát triển các kỹ nǎng học tập
+(F81.0) Chứng khó viết
+Chứng khó đọc
+(F82) Rối loạn phát triển đặc hiệu chức nǎng vận động
+(F83) Rối loạn phát triển đặc hiệu hỗn hợp
+(F84) Rối loạn phát triển lan tỏa
+(F84.0) Tự kỷ
+(F84.2) Hội chứng Rett
+(F84.5) Hội chứng Asperger
+(F88) Rối loạn phát triển tâm lý khác
+(F89) Rối loạn phát triển tâm lý không xác định
+
+
+=== Rối loạn về hành vi và cảm xúc với sự khởi bệnh thường xảy ra ở lứa tuổi trẻ em và thiếu niên (F90-F98) ===
+(F90) Rối loạn tǎng động
+(F90.0) Disturbance of activity and attention
+Rối loạn tăng động giảm chú ý
+Attention deficit syndrome with hyperactivity
+(F91) Rối loạn cư xử
+(F92) Rối loạn hỗn hợp về cư xử và cảm xúc
+(F93) Rối loạn cảm xúc với sự khởi phát đặc biệt ở trẻ em
+(F94) Rối loạn hoạt động xã hội với sự khởi phát đặc biệt ở trẻ em và thiếu niên
+(F94.0) Câm tùy lúc
+(F95) Rối loạn máy giật Tic
+(F98) Rối loạn cảm xúc và hành vi khác với sự khởi phát thường xảy ra ở trẻ em và thiếu niên
+(F98.5) Nói lắp
+
+
+=== Rối loạn tâm thần không xác định (F99) ===
+(F99) Rối loạn tâm thần, không xác định
+
+
+== Tham khảo ==
+
+Chương V, rối loạn tâm thần và hành vi (f00-f99), www.cimsi.org.vn Lưu trữ 2008-12-06 tại Wayback Machine
+
+
+== Liên kết ngoài ==
+Bản mẫu:Bệnh viện tâm thần, Viện tâm lý thực hành

@@ -1,0 +1,30 @@
+Thang điểm ABCD2 là nguyên tắc dự đoán lâm sàng được sử dụng để xác định nguy cơ đột quỵ trong những ngày sau cơn nhồi máu não thoáng qua (transient ischemic attack, viết tắt là TIA, một tình trạng rối loạn chức năng não tạm thời do thiếu oxy trong não). Một đánh giá năm 2015 nghi ngờ tính hiệu quả của thang điểm này vì không phân biệt rõ ràng sự khác nhau của những người nguy cơ thấp khỏi những người có nguy cơ. Điểm cao dự đoán đúng 87% số người bị đột quỵ trong 7 ngày sau cơn nhồi máu não thoáng qua, nhưng cũng có nhiều người không gặp vấn đề gì.
+Điểm số ABCD2 dựa trên 5 tiêu chí (tuổi, huyết áp, đặc điểm lâm sàng, thời gian NMN thoáng qua và có/không mắc bệnh tiểu đường); điểm cho mỗi mục được cộng lại với nhau để tạo ra kết quả tổng thể nằm trong khoảng từ 0 đến 7. Những người phát hiện có điểm cao thường được gửi đến bác sĩ chuyên khoa sớm hơn. Một số yếu tố nguy cơ lâm sàng khác: rung nhĩ và điều trị thuốc kháng đông, cũng như NMN đang diễn ra hoặc tái phát.
+Điểm số ABCD2 được đề xuất vào năm 2007 là phiên bản sửa đổi của điểm số ABCD năm 2005 (điểm số ABCD không tính đến sự hiện diện của bệnh tiểu đường). Trong nghiên cứu lớn nhất dựa trên thử nghiệm tại khoa cấp cứu về điểm số ABCD2 ở bệnh cảnh cấp tính, điểm số này thực hiện kém ở cả bệnh nhân nguy cơ cao và nguy cơ thấp. Nghiên cứu cho thấy độ nhạy là 31,6% ở bệnh nhân nguy cơ cao (điểm >5) và độ đặc hiệu chỉ là 12,5% ở bệnh nhân nguy cơ thấp (điểm ≤2).
+
+
+== Hệ thống tính điểm ==
+
+Ví dụ, một người 60 tuổi (1 điểm) với huyết áp bình thường (0 điểm) và không mắc bệnh tiểu đường (0 điểm) đã trải qua NMN kéo dài 10 phút (1 điểm) kèm theo rối loạn ngôn ngữ nhưng không bị yếu/liệt một bên cơ thể. (1 điểm), tổng cộng là 3 điểm.
+
+
+== Tiên lượng ==
+Nguy cơ đột quỵ có thể được ước tính từ điểm số ABCD2 như sau:
+
+1-3 điểm (thấp)
+Rủi ro trong 2 ngày = 1,0%
+Rủi ro trong 7 ngày = 1,2%
+4-5 điểm (trung bình)
+Rủi ro trong 2 ngày = 4,1%
+Rủi ro trong 7 ngày = 5,9%
+6–7 điểm (cao)
+Rủi ro trong 2 ngày = 8,1%
+Rủi ro trong 7 ngày = 11,7%
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web tính Thang điểm ABCD2 Lưu trữ 2015-12-14 tại Wayback Machine
+Điểm ABCD2 cho nhồi máu não với thông tin chi tiết của chuyên gia
